@@ -2,6 +2,23 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import csv
+from tqdm import tqdm
+import re
+
+def filter_reports(archive_links, new_links):
+    report_content = {}
+
+    for link in archive_links:
+        report_content = get_archived_report(link)
+
+        report_content[get_archive_report_date(link)] = report_content
+
+    for link in new_links:
+        report_content = get_new_report(link)
+
+        report_content[get_new_report_date(link)] = report_content
+
+    return report_content
 
 def grab_facility_mentions_by_abbr(facility_mentions, facility_name_matches):
     key_dict = {}
@@ -174,10 +191,11 @@ def get_custom_facility_groupings(facility_name_abbr):
   
     return facility_grouping
 
-def grab_new_reports():
-# Collecting new blog links from NASA sitemap
+def grab_new_links():
+    # Collecting new blog links from NASA sitemap
+    print("Grabbing reports from NASA blog site")
     new_reports = []
-    for i in range(1, 3):
+    for i in tqdm(range(1, 3)):
         page = requests.get(f"https://blogs.nasa.gov/stationreport/wp-sitemap-posts-post-{i}.xml")
 
         soup = BeautifulSoup(page.content, 'lxml')
@@ -190,17 +208,19 @@ def grab_new_reports():
                 new_reports.append(report.get_text())
 
   # Removing found duplicate links
-    new_reports.remove("https://blogs.nasa.gov/stationreport/2018/02/22/iss-daily-summary-report-2222018/")
-    new_reports.remove("https://blogs.nasa.gov/stationreport/2018/06/01/iss-daily-summary-report-6012018/")
+    # new_reports.remove("https://blogs.nasa.gov/stationreport/2018/02/22/iss-daily-summary-report-2222018/")
+    # new_reports.remove("https://blogs.nasa.gov/stationreport/2018/06/01/iss-daily-summary-report-6012018/")
 
     return new_reports
 
-def grab_archive_reports():
+def grab_archive_links():
+    print("Grabbing reports from NASA archive")
+    
     report_amount = 0
     archive_reports = []
 
   # Timeline of archive reports: 2009-2012
-    for year in range(2009, 2013):
+    for year in tqdm(range(2009, 2013)):
     # Directory pages span from 1 to 8
         for page in range(1, 9):
             url = f"https://www.nasa.gov/directorates/heo/reports/iss_reports/{year}/ISS_Reports_SearchAgent_archive_{page}.html"
@@ -227,34 +247,29 @@ def grab_archive_reports():
     return archive_reports
 
 def get_archived_report(link):
-  page = requests.get(link)
+    page = requests.get(link)
 
-  soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.content, 'html.parser')
 
-  results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
+    results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
 
-  split_elms = ["<b>ISS Orbit</b>", "<b>Significant Events Ahead</b>", "<b>Weekly Science Update</b>"]
+    orbit_index = results.text.find("ISS Orbit")
 
-  results_bold = results.find_all("b")
+    events_index = results.text.find("Significant Events Ahead")
 
-  split_key = None
+    if orbit_index != -1 and events_index != -1:
+        if orbit_index < events_index:
+           filtered_report = results.text[:orbit_index]
+        else:
+           filtered_report = results.text[:events_index]
+    elif orbit_index == -1:
+       filtered_report = results.text[:events_index]
+    elif events_index == -1:
+       filtered_report = results.text[:orbit_index]
+    else:
+       filtered_report = results.text
 
-  for bold_el in results_bold:
-    if bold_el in split_elms:
-      split_key = bold_el
-      break
-
-  if results:
-    if split_key != None:
-      results_str = str(results)
-
-      results_str = results_str.split(split_key)[0]
-
-      results = BeautifulSoup(results_str, "html.parser")
-
-    return results.text
-  else:
-    return None
+    return filtered_report
 
 # Grab the date of an archived report
 def get_archive_report_date(link):
