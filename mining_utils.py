@@ -193,19 +193,32 @@ def get_custom_facility_groupings(facility_name_abbr):
 
 def grab_new_links():
     # Collecting new blog links from NASA sitemap
+    # Use the nav-links class to traverse
     print("Grabbing reports from NASA blog site")
     new_reports = []
-    for i in tqdm(range(1, 3)):
-        page = requests.get(f"https://blogs.nasa.gov/stationreport/wp-sitemap-posts-post-{i}.xml")
+    page = requests.get("https://blogs.nasa.gov/stationreport/")
+    
+    soup = BeautifulSoup(page.content, "html.parser")
 
-        soup = BeautifulSoup(page.content, 'lxml')
+    link_navbar = soup.find_all("a", class_ = "page-numbers")
+    
+    max_page = int(link_navbar[1].text.split(" ")[1].translate({44: None}))
 
-        results = soup.find("body")
+    for i in tqdm(range(1, max_page+1)):
+        page = f"https://blogs.nasa.gov/stationreport/page/{i}"
+        new_reports.append(page)
+        # page = requests.get(f"https://blogs.nasa.gov/stationreport/page/{i}")
 
-        if results:
-            report_elems = results.find_all('loc')
-            for report in report_elems:
-                new_reports.append(report.get_text())
+        # soup = BeautifulSoup(page.content, 'parser.html')
+
+        # results = soup.find("div", class_="entry-content")
+
+        # print(results)
+
+        # if results:
+        #     report_elems = results.find_all('loc')
+        #     for report in report_elems:
+        #         new_reports.append(report.get_text())
 
   # Removing found duplicate links
     # new_reports.remove("https://blogs.nasa.gov/stationreport/2018/02/22/iss-daily-summary-report-2222018/")
