@@ -300,72 +300,24 @@ def get_archive_report_date(link):
 
 # Return the text content of a new report
 def get_new_report(link):
-  page = requests.get(link)
+    page = requests.get(link)
 
-  soup = BeautifulSoup(page.content, 'html.parser')
+    soup = BeautifulSoup(page.content, 'html.parser')
 
-  results = soup.find(class_="entry-content")
+    results = soup.find("div", class_="entry-content")
 
-  if results:
-    results_str = str(results)
+    look_ahead_index = results.text.find("Look Ahead Plan")
 
-    results_str = results_str.split("·")[0]
+    three_day_index = results.text.find("Three-Day Look Ahead:")
 
-    results_soup = BeautifulSoup(results_str, "html.parser")
+    if look_ahead_index != -1 and three_day_index == -1:
+       results_filtered = results.text[:look_ahead_index]
+    elif three_day_index != -1:
+       results_filtered = results.text[:three_day_index]
+    else:
+       results_filtered = results.text
 
-    return results_soup.text
-  else:
-    return None
-
-# Return the raw HTML content of a new report excluding completion list
-def get_new_report_raw(link):
-  page = requests.get(link)
-
-  soup = BeautifulSoup(page.content, 'html.parser')
-
-  results = soup.find(class_="entry-content")
-
-  if results:
-    results_str = str(results)
-
-    results_str = results_str.split("·")[0]
-
-    results_soup = BeautifulSoup(results_str, "html.parser")
-
-    return results_soup
-  else:
-    return None
-
-# Return the raw HTML content of an archived report
-def get_archive_report_raw(link):
-  page = requests.get(link)
-
-  soup = BeautifulSoup(page.content, 'html.parser')
-
-  results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
-
-  split_elms = ["<b>ISS Orbit</b>", "<b>Significant Events Ahead</b>", "<b>Weekly Science Update</b>"]
-
-  results_bold = results.find_all("b")
-
-  split_key = None
-
-  for bold_el in results_bold:
-    if bold_el in split_elms:
-      split_key = bold_el
-      break
-
-  if results:
-    if split_key != None:
-      results_str = str(results)
-
-      results_str = results_str.split(split_key)[0]
-
-      results = BeautifulSoup(results_str, "html.parser")
-
-    return results
-  else:
-    return None
+    return results_filtered
 
 def match_facilities(report_text, report_date, facility_names, log=False):
   results = {report_date: {}}

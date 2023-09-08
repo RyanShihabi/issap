@@ -11,15 +11,15 @@ from mining_utils import (grab_archive_links,
 
 # archive_links = grab_archive_links()
 
-new_links = grab_new_links()
+# new_links = grab_new_links()
 
 # print(archive_links[0])
 
 # print(get_archived_report("https://www.nasa.gov/directorates/heo/reports/iss_reports/2009/12312009.html"))
 
-print(new_links[0])
+# print(new_links[0])
 
-# print(get_new_report())
+print(get_new_report("https://blogs.nasa.gov/stationreport/page/2597"))
 # facility_data = generate_facility_names()
 
 # report_links = archive_links + new_links
