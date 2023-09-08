@@ -3,33 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 from tqdm import tqdm
+import pandas as pd
 import re
-
-def filter_reports(archive_links, new_links):
-    report_content = {}
-
-    for link in archive_links:
-        report_content = get_archived_report(link)
-
-        report_content[get_archive_report_date(link)] = report_content
-
-    for link in new_links:
-        report_content = get_new_report(link)
-
-        report_content[get_new_report_date(link)] = report_content
-
-    return report_content
-
-def grab_facility_mentions_by_abbr(facility_mentions, facility_name_matches):
-    key_dict = {}
-    for key in facility_mentions:
-        for facility in facility_mentions[key]:
-            for matches in facility_name_matches:
-                if matches[0] != matches[1]:
-                    key_dict[matches[0]] = facility_mentions[key].get(matches[0], 0) + facility_mentions[key].get(matches[1], 0)
-                else:
-                    key_dict[matches[0]] = facility_mentions[key].get(matches[0], 0)
-        facility_count[key] = key_dict
 
 def grab_facility_mentions(archive_reports, new_reports, facility_names):
     facility_mentions = {}
@@ -68,7 +43,6 @@ def generate_facility_names():
     # Dictionary for referencing abbreviation names to full names
     facility_abbr_name = {}
 
-    module_facility = {}
     # Set of unique manager names
     facility_managers = set()
     # Set of unique developers
@@ -79,9 +53,6 @@ def generate_facility_names():
     facility_expeditions = {}
     # Set of unique sponsor names
     facility_sponsor = set()
-
-    # Dictionary for referencing facilities to their occurence count
-    facility_count = {}
 
     # Reading the Facility Report generated from the NASA site
     with open("/content/updated_facilities_report.csv", 'r') as f:
@@ -155,12 +126,12 @@ def generate_facility_names():
             "facility_managers": facility_managers
             }
 
-def export(obj, dir, export_type):
-    if export_type == 'json':  
+def export(obj, dir):
+    if type(obj) == dict:  
         with open(dir, 'w') as f:
             json.dump(obj, f, indent=4)
         f.close()
-    elif export_type == 'csv':
+    elif type(obj) == pd.core.frame.DataFrame:
         obj.to_csv(dir, sep=",")
     else:
         print("Unsupported file type")
@@ -284,20 +255,6 @@ def get_archived_report(link):
 
     return filtered_report
 
-# Grab the date of an archived report
-def get_archive_report_date(link):
-  # Filter the url down to the date
-  # Ex: https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/02102011.html -> 02-10-2011
-  report_date = link.split("/")[-1].split(".")[0]
-  if len(report_date) > 8:
-    report_date = report_date.split("_")[-1][:-2] + "20" + report_date[-2:]
-  elif len(report_date) < 8:
-    report_date = report_date[:-2] + "20" + report_date[-2:]
-
-  report_date = report_date[:2] + "-" + report_date[2:4] + "-" + report_date[4:]
-
-  return report_date
-
 # Return the text content of a new report
 def get_new_report(link):
     page = requests.get(link)
@@ -305,6 +262,10 @@ def get_new_report(link):
     soup = BeautifulSoup(page.content, 'html.parser')
 
     results = soup.find("div", class_="entry-content")
+
+    result_date = soup.find("time", class_="entry-date published")["datetime"]
+
+    date = result_date.split("T")[0]
 
     look_ahead_index = results.text.find("Look Ahead Plan")
 
@@ -317,7 +278,7 @@ def get_new_report(link):
     else:
        results_filtered = results.text
 
-    return results_filtered
+    return {"text": results_filtered, "date": date}
 
 def match_facilities(report_text, report_date, facility_names, log=False):
   results = {report_date: {}}
@@ -341,15 +302,6 @@ def match_facilities(report_text, report_date, facility_names, log=False):
             results[report_date][facility] = results[report_date].get(facility, 0) + 1
 
   return results
-
-# Get date from new report URL
-def get_new_report_date(link):
-  # Filter the URL down to the date
-  # Ex: https://blogs.nasa.gov/stationreport/2013/06/25/iss-daily-summary-report-062513/ -> 06-25-2013
-  date_nums = link.split("/")
-  report_date = date_nums[5] + "-" + date_nums[6] + "-" + date_nums[4]
-
-  return report_date
 
 # Check counts of keyword "maintenance" in reports
 def match_new_maintenance_to_facility(content, report_date, facility_names):

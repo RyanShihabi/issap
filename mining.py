@@ -1,12 +1,7 @@
 from mining_utils import (grab_archive_links, 
-                          grab_new_links,
-                          filter_reports, 
+                          grab_new_links, 
                           get_archived_report,
                           get_new_report,
-                          generate_facility_names, 
-                          get_custom_facility_groupings,
-                          grab_facility_mentions,
-                          grab_facility_mentions_by_abbr,
                           export)
 
 # archive_links = grab_archive_links()
