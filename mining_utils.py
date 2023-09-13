@@ -1,39 +1,47 @@
 import json
 import requests
+import os
 from bs4 import BeautifulSoup
 import csv
 from tqdm import tqdm
 import pandas as pd
-import re
 
-def grab_facility_mentions(archive_reports, new_reports, facility_names):
-    facility_mentions = {}
+def collect_reports():
+	archive_links = grab_archive_links()
 
-    # Archived Reports
-    for archive_link in archive_reports:
-        report_date = get_archive_report_date(archive_link)
+	new_links = grab_new_links()
 
-        report_content = get_archived_report(archive_link)
+	# Storing reports
+	if os.path.exists("./reports") == False:
+		os.makedirs("./reports")
 
-        # Facility matching
-        matches = match_facilities(report_content, report_date, facility_names, log=False)
-        facility_mentions[list(matches.keys())[0]] = list(matches.values())[0]
+	for link in tqdm(archive_links):
+		report_data = get_archived_report(link)
 
-    # New Reports
-    for new_link in new_reports:
-        report_date = get_new_report_date(new_link)
+		export_report(report_data)
 
-        report_content = get_new_report(new_link)
+	for link in tqdm(new_links):
+		report_data = get_new_report(link)
 
-        # Facility matching
-        matches = match_facilities(report_content, report_date, facility_names, log=False)
-        facility_mentions[list(matches.keys())[0]] = list(matches.values())[0]
+		export_report(report_data)
+
+def grab_facility_mentions(report_dir, facility_names):
+	facility_mentions = {}
+
+	for file in os.listdir(report_dir):
+		with open(f"{file}", 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
+        
+		for word in text:
+			if word.lower() == facility_names.lower():
+				facility_mentions.get(word.lower())
 
     
-    return facility_mentions
+	return facility_mentions
     
 
-def generate_facility_names():
+def generate_facility_names(facility_report_file):
     # For all possible facility names (full and abbreviated)
     facility_names = []
     facility_name_matches = []
@@ -56,59 +64,57 @@ def generate_facility_names():
 
     # Reading the Facility Report generated from the NASA site
     with open("/content/updated_facilities_report.csv", 'r') as f:
-        row_count = 0
         reader = csv.reader(f)
+        next(reader, None)
         for row in reader:
-            # Ignore header row
-            if row_count > 0:
-            # Checking if abbreviated facility name is empty but full name is not
-                if len(row[1].strip()) == 0 and len(row[0].strip()) != 0:
-                    # Pair abbreviated name with itself
-                    facility_name_matches.append([row[0].strip(), row[0].strip()])
-                    facility_abbr_name[row[0].strip()] = row[0].strip()
-                    # Add abbreviated name to list of all facility names
-                    facility_names.append(row[0].strip())
-                    # Reference abbreviated facility name to its listed category
-                    facility_category[row[0].strip()] = row[5].strip()
-                    # Create reference with facility name to all of its expeditions
-                    facility_expeditions[row[0].strip()] = find_expeditions(row[4])
 
-                # Checking if abbreviated facility name is present but full name is not
-                elif len(row[1].strip()) != 0 and len(row[0].strip()) == 0:
-                    # Pair full facility name with itself
-                    facility_name_matches.append([row[1].strip(), row[1].strip()])
-                    # Reference full facility name to its listed category
-                    facility_abbr_name[row[1].strip()] = row[1].strip()
-                    # Add full facility name to list of all facility names
-                    facility_names.append(row[1].strip())
-                    # Reference full facility name to its listed category
-                    facility_category[row[1].strip()] = row[5].strip()
-                    # Create reference with full facility name to all of its expeditions
-                    facility_expeditions[row[1].strip()] = find_expeditions(row[4])
-                else:
-                    # Pair full and abbreviated facility name
-                    facility_name_matches.append([row[0].strip(), row[1].strip()])
-                    # Reference abbreviated facility name to its full name
-                    facility_abbr_name[row[0].strip()] = row[1].strip()
-                    # Add abbreviated facility name to list of all facility names
-                    facility_names.append(row[0].strip())
-                    # Add full facility name to list of all facility names
-                    facility_names.append(row[1].strip())
-                    # Reference abbreviated facility name to its listed category
-                    facility_category[row[0].strip()] = row[5].strip()
-                    # Reference full facility name to its listed category
-                    facility_category[row[1].strip()] = row[5].strip()
+            col_name_idx = 0 if len(row[1].strip()) == 0 and len(row[0].strip()) != 0 else 1
+        # Checking if abbreviated facility name is empty but full name is not
+            if col_name_idx > 2:
+                # Pair abbreviated name with itself
+                facility_name_matches.append([row[col_name_idx].strip(), row[col_name_idx].strip()])
+                facility_abbr_name[row[col_name_idx].strip()] = row[0].strip()
+                # Add abbreviated name to list of all facility names
+                facility_names.append(row[col_name_idx].strip())
+                # Reference abbreviated facility name to its listed category
+                facility_category[row[col_name_idx].strip()] = row[5].strip()
+                # Create reference with facility name to all of its expeditions
+                facility_expeditions[row[col_name_idx].strip()] = find_expeditions(row[4])
 
-                    # Create reference with full and abbreviated facility name to all of its expeditions
-                    facility_list = find_expeditions(row[4])
-                    facility_expeditions[row[0].strip()] = facility_list
-                    facility_expeditions[row[1].strip()] = facility_list
+            # Checking if abbreviated facility name is present but full name is not
+            # elif len(row[1].strip()) != 0 and len(row[0].strip()) == 0:
+            #     # Pair full facility name with itself
+            #     facility_name_matches.append([row[1].strip(), row[1].strip()])
+            #     # Reference full facility name to its listed category
+            #     facility_abbr_name[row[1].strip()] = row[1].strip()
+            #     # Add full facility name to list of all facility names
+            #     facility_names.append(row[1].strip())
+            #     # Reference full facility name to its listed category
+            #     facility_category[row[1].strip()] = row[5].strip()
+            #     # Create reference with full facility name to all of its expeditions
+            #     facility_expeditions[row[1].strip()] = find_expeditions(row[4])
+            else:
+                # Pair full and abbreviated facility name
+                facility_name_matches.append([row[0].strip(), row[1].strip()])
+                # Reference abbreviated facility name to its full name
+                facility_abbr_name[row[0].strip()] = row[1].strip()
+                # Add abbreviated facility name to list of all facility names
+                facility_names.append(row[0].strip())
+                # Add full facility name to list of all facility names
+                facility_names.append(row[1].strip())
+                # Reference abbreviated facility name to its listed category
+                facility_category[row[0].strip()] = row[5].strip()
+                # Reference full facility name to its listed category
+                facility_category[row[1].strip()] = row[5].strip()
 
-                facility_sponsor.add(row[6].split("(")[0][:-1])
-                facility_developers.add(row[3].split(",")[0])
-                facility_managers.add(row[2].split(",")[0])
+                # Create reference with full and abbreviated facility name to all of its expeditions
+                facility_list = find_expeditions(row[4])
+                facility_expeditions[row[0].strip()] = facility_list
+                facility_expeditions[row[1].strip()] = facility_list
 
-                row_count += 1
+            facility_sponsor.add(row[6].split("(")[0][:-1])
+            facility_developers.add(row[3].split(",")[0])
+            facility_managers.add(row[2].split(",")[0])
     f.close()
 
     # Reverse key-value pairs for reference full to abbreviated name
@@ -126,7 +132,7 @@ def generate_facility_names():
             "facility_managers": facility_managers
             }
 
-def export(obj, dir):
+def export_data(obj, dir):
     if type(obj) == dict:  
         with open(dir, 'w') as f:
             json.dump(obj, f, indent=4)
@@ -135,6 +141,12 @@ def export(obj, dir):
         obj.to_csv(dir, sep=",")
     else:
         print("Unsupported file type")
+        
+def export_report(obj):
+	with open(f"./reports/{obj['date']}.txt", 'w') as f:
+		f.write(obj["text"])
+	f.close()
+   
 
 def get_custom_facility_groupings(facility_name_abbr):
   # Cold stowage: https://www.nasa.gov/sites/default/files/atoms/files/fact_sheet_ec7_cold_stowage.pdf
@@ -165,37 +177,25 @@ def get_custom_facility_groupings(facility_name_abbr):
 def grab_new_links():
     # Collecting new blog links from NASA sitemap
     # Use the nav-links class to traverse
-    print("Grabbing reports from NASA blog site")
-    new_reports = []
-    page = requests.get("https://blogs.nasa.gov/stationreport/")
+	print("Grabbing reports from NASA blog site")
+	new_reports = []
+	page = requests.get("https://blogs.nasa.gov/stationreport/")
     
-    soup = BeautifulSoup(page.content, "html.parser")
+	soup = BeautifulSoup(page.content, "html.parser")
 
-    link_navbar = soup.find_all("a", class_ = "page-numbers")
+	link_navbar = soup.find_all("a", class_ = "page-numbers")
     
-    max_page = int(link_navbar[1].text.split(" ")[1].translate({44: None}))
+	max_page = int(link_navbar[1].text.split(" ")[1].translate({44: None}))
 
-    for i in tqdm(range(1, max_page+1)):
-        page = f"https://blogs.nasa.gov/stationreport/page/{i}"
-        new_reports.append(page)
-        # page = requests.get(f"https://blogs.nasa.gov/stationreport/page/{i}")
+	for i in tqdm(range(1, max_page+1)):
+		page = f"https://blogs.nasa.gov/stationreport/page/{i}"
+		new_reports.append(page)
 
-        # soup = BeautifulSoup(page.content, 'parser.html')
+	    # check for duplicates
+	
+	print(f"{len(new_reports)} unique reports found")
 
-        # results = soup.find("div", class_="entry-content")
-
-        # print(results)
-
-        # if results:
-        #     report_elems = results.find_all('loc')
-        #     for report in report_elems:
-        #         new_reports.append(report.get_text())
-
-  # Removing found duplicate links
-    # new_reports.remove("https://blogs.nasa.gov/stationreport/2018/02/22/iss-daily-summary-report-2222018/")
-    # new_reports.remove("https://blogs.nasa.gov/stationreport/2018/06/01/iss-daily-summary-report-6012018/")
-
-    return new_reports
+	return new_reports
 
 def grab_archive_links():
     print("Grabbing reports from NASA archive")
@@ -231,54 +231,66 @@ def grab_archive_links():
     return archive_reports
 
 def get_archived_report(link):
-    page = requests.get(link)
+	page = requests.get(link)
 
-    soup = BeautifulSoup(page.content, 'html.parser')
+	soup = BeautifulSoup(page.content, 'html.parser')
 
-    results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
+	results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
+    
+	if results == None:
+		return None
 
-    orbit_index = results.text.find("ISS Orbit")
+	orbit_index = results.text.find("ISS Orbit")
 
-    events_index = results.text.find("Significant Events Ahead")
+	events_index = results.text.find("Significant Events Ahead")
+    
+	date = soup.find("div", class_="address").span.text.translate({47: 45})
+    
+	# Check for ISS On-Orbit Status
+	date = date.split()
 
-    if orbit_index != -1 and events_index != -1:
-        if orbit_index < events_index:
-           filtered_report = results.text[:orbit_index]
-        else:
-           filtered_report = results.text[:events_index]
-    elif orbit_index == -1:
-       filtered_report = results.text[:events_index]
-    elif events_index == -1:
-       filtered_report = results.text[:orbit_index]
-    else:
-       filtered_report = results.text
+	if orbit_index != -1 and events_index != -1:
+		if orbit_index < events_index:
+			filtered_report = results.text[:orbit_index]
+		else:
+			filtered_report = results.text[:events_index]
+	elif orbit_index == -1:
+		filtered_report = results.text[:events_index]
+	elif events_index == -1:
+		filtered_report = results.text[:orbit_index]
+	else:
+		filtered_report = results.text
 
-    return filtered_report
+	return {"text": filtered_report, "date": date}
 
 # Return the text content of a new report
 def get_new_report(link):
-    page = requests.get(link)
+	page = requests.get(link)
 
-    soup = BeautifulSoup(page.content, 'html.parser')
+	soup = BeautifulSoup(page.content, 'html.parser')
 
-    results = soup.find("div", class_="entry-content")
+	results = soup.find("div", class_="entry-content")
 
-    result_date = soup.find("time", class_="entry-date published")["datetime"]
+	result_date = soup.find("time", class_="entry-date published")["datetime"]
 
-    date = result_date.split("T")[0]
+	date = result_date.split("T")[0]
+    
+	date_values = date.split("-")
+    
+	date_mdy = "-".join([date_values[i] for i in [1, 2, 0]])
+	
+	look_ahead_index = results.text.find("Look Ahead Plan")
+   	
+	three_day_index = results.text.find("Three-Day Look Ahead:")
 
-    look_ahead_index = results.text.find("Look Ahead Plan")
+	if look_ahead_index != -1 and three_day_index == -1:
+		results_filtered = results.text[:look_ahead_index]
+	elif three_day_index != -1:
+		results_filtered = results.text[:three_day_index]
+	else:
+		results_filtered = results.text
 
-    three_day_index = results.text.find("Three-Day Look Ahead:")
-
-    if look_ahead_index != -1 and three_day_index == -1:
-       results_filtered = results.text[:look_ahead_index]
-    elif three_day_index != -1:
-       results_filtered = results.text[:three_day_index]
-    else:
-       results_filtered = results.text
-
-    return {"text": results_filtered, "date": date}
+	return {"text": results_filtered, "date": date_mdy}
 
 def match_facilities(report_text, report_date, facility_names, log=False):
   results = {report_date: {}}
@@ -399,4 +411,3 @@ def get_report_facility_association(report_content, facility_names):
             facility_mentions[report_index].append(facility)
 
   return facility_mentions
-

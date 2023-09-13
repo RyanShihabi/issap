@@ -1,3 +1,4 @@
 *.csv
-*.jso
-__pycache__/n
+*.json
+__pycache__/
+reports/
