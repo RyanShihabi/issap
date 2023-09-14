@@ -18,7 +18,8 @@ def collect_reports():
 	for link in tqdm(archive_links):
 		report_data = get_archived_report(link)
 
-		export_report(report_data)
+		if report_data["text"] != None:
+			export_report(report_data)
 
 	for link in tqdm(new_links):
 		report_data = get_new_report(link)
@@ -236,9 +237,9 @@ def get_archived_report(link):
 	soup = BeautifulSoup(page.content, 'html.parser')
 
 	results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
-    
+	
 	if results == None:
-		return None
+		return {"text": None, "date": None}
 
 	orbit_index = results.text.find("ISS Orbit")
 
@@ -247,7 +248,8 @@ def get_archived_report(link):
 	date = soup.find("div", class_="address").span.text.translate({47: 45})
     
 	# Check for ISS On-Orbit Status
-	date = date.split()
+	if date.startswith("ISS On-Orbit Status"):
+		date = date[20:]
 
 	if orbit_index != -1 and events_index != -1:
 		if orbit_index < events_index:
