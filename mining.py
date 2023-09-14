@@ -1,6 +1,6 @@
 from mining_utils import (collect_reports)
 
-collect_reports()
+print(collect_reports())
 
 # facility_data = generate_facility_names()
 

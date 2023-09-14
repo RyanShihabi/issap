@@ -7,6 +7,7 @@ from tqdm import tqdm
 import pandas as pd
 
 def collect_reports():
+	missing = []
 	archive_links = grab_archive_links()
 
 	new_links = grab_new_links()
@@ -20,11 +21,15 @@ def collect_reports():
 
 		if report_data["text"] != None:
 			export_report(report_data)
+		else:
+			missing.append(link)
 
 	for link in tqdm(new_links):
 		report_data = get_new_report(link)
 
 		export_report(report_data)
+        
+	return missing
 
 def grab_facility_mentions(report_dir, facility_names):
 	facility_mentions = {}
@@ -273,8 +278,14 @@ def get_new_report(link):
 
 	results = soup.find("div", class_="entry-content")
 
-	result_date = soup.find("time", class_="entry-date published")["datetime"]
-
+	# class name can be one of two values
+	result_date = soup.find("time", class_="entry-date published")
+    
+	if result_date == None:
+		result_date = soup.find("time", class_="entry-date published updated")
+	
+	result_date = result_date["datetime"]
+	
 	date = result_date.split("T")[0]
     
 	date_values = date.split("-")
