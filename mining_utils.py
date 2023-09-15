@@ -31,11 +31,12 @@ def collect_reports():
         
 	return missing
 
-def grab_facility_mentions(report_dir, facility_names):
+def grab_facility_mentions(report_dir, facility_names, range=None):
 	facility_mentions = {}
 
 	for file in os.listdir(report_dir):
-		with open(f"{file}", 'r') as f:
+		file_path = os.path.join(report_dir, file)
+		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
         
@@ -48,94 +49,27 @@ def grab_facility_mentions(report_dir, facility_names):
     
 
 def generate_facility_names(facility_report_file):
-    # For all possible facility names (full and abbreviated)
-    facility_names = []
-    facility_name_matches = []
-
-    # Dictionary for referencing full name to abbreviation
-    facility_name_abbr = {}
-    # Dictionary for referencing abbreviation names to full names
-    facility_abbr_name = {}
-
-    # Set of unique manager names
-    facility_managers = set()
-    # Set of unique developers
-    facility_developers = set()
-    # Dictionary for referencing facility to a category
-    facility_category = {}
-    # Set of unique manager names
-    facility_expeditions = {}
-    # Set of unique sponsor names
-    facility_sponsor = set()
+	# Dictionary for referencing full name to abbreviation
+	facility_name_abbr = {}
+	# Dictionary for referencing abbreviation names to full names
+	facility_abbr_name = {}
 
     # Reading the Facility Report generated from the NASA site
-    with open("/content/updated_facilities_report.csv", 'r') as f:
-        reader = csv.reader(f)
-        next(reader, None)
-        for row in reader:
+	with open(facility_report_file, 'r') as f:
+		reader = csv.reader(f)
+		next(reader, None)
+		for row in reader:
+			facility_abbr_name[row[0]] = row[1]
 
-            col_name_idx = 0 if len(row[1].strip()) == 0 and len(row[0].strip()) != 0 else 1
-        # Checking if abbreviated facility name is empty but full name is not
-            if col_name_idx > 2:
-                # Pair abbreviated name with itself
-                facility_name_matches.append([row[col_name_idx].strip(), row[col_name_idx].strip()])
-                facility_abbr_name[row[col_name_idx].strip()] = row[0].strip()
-                # Add abbreviated name to list of all facility names
-                facility_names.append(row[col_name_idx].strip())
-                # Reference abbreviated facility name to its listed category
-                facility_category[row[col_name_idx].strip()] = row[5].strip()
-                # Create reference with facility name to all of its expeditions
-                facility_expeditions[row[col_name_idx].strip()] = find_expeditions(row[4])
-
-            # Checking if abbreviated facility name is present but full name is not
-            # elif len(row[1].strip()) != 0 and len(row[0].strip()) == 0:
-            #     # Pair full facility name with itself
-            #     facility_name_matches.append([row[1].strip(), row[1].strip()])
-            #     # Reference full facility name to its listed category
-            #     facility_abbr_name[row[1].strip()] = row[1].strip()
-            #     # Add full facility name to list of all facility names
-            #     facility_names.append(row[1].strip())
-            #     # Reference full facility name to its listed category
-            #     facility_category[row[1].strip()] = row[5].strip()
-            #     # Create reference with full facility name to all of its expeditions
-            #     facility_expeditions[row[1].strip()] = find_expeditions(row[4])
-            else:
-                # Pair full and abbreviated facility name
-                facility_name_matches.append([row[0].strip(), row[1].strip()])
-                # Reference abbreviated facility name to its full name
-                facility_abbr_name[row[0].strip()] = row[1].strip()
-                # Add abbreviated facility name to list of all facility names
-                facility_names.append(row[0].strip())
-                # Add full facility name to list of all facility names
-                facility_names.append(row[1].strip())
-                # Reference abbreviated facility name to its listed category
-                facility_category[row[0].strip()] = row[5].strip()
-                # Reference full facility name to its listed category
-                facility_category[row[1].strip()] = row[5].strip()
-
-                # Create reference with full and abbreviated facility name to all of its expeditions
-                facility_list = find_expeditions(row[4])
-                facility_expeditions[row[0].strip()] = facility_list
-                facility_expeditions[row[1].strip()] = facility_list
-
-            facility_sponsor.add(row[6].split("(")[0][:-1])
-            facility_developers.add(row[3].split(",")[0])
-            facility_managers.add(row[2].split(",")[0])
-    f.close()
+            
+	f.close()
 
     # Reverse key-value pairs for reference full to abbreviated name
-    facility_name_abbr = {value: key for key, value in zip(facility_abbr_name.keys(), facility_abbr_name.values())}
+	facility_name_abbr = {value: key for key, value in zip(facility_abbr_name.keys(), facility_abbr_name.values())}
 
-    return {"facility_names": facility_names,
-            "facility_name_matches": facility_name_matches,
+	return {
             "facility_name_abbr": facility_name_abbr,
             "facility_abbr_name": facility_abbr_name,
-            "facility_managers": facility_managers,
-            "facility_developers"
-            "facility_category": facility_category,
-            "facility_expeditions": facility_expeditions,
-            "facility_sponsors": facility_sponsor,
-            "facility_managers": facility_managers
             }
 
 def export_data(obj, dir):
@@ -255,6 +189,9 @@ def get_archived_report(link):
 	# Check for ISS On-Orbit Status
 	if date.startswith("ISS On-Orbit Status"):
 		date = date[20:]
+        
+	if len(date.split("-")[-1]) == 2:
+		date = f"{date[:-2]}20{date[-2:]}"
 
 	if orbit_index != -1 and events_index != -1:
 		if orbit_index < events_index:
@@ -267,6 +204,7 @@ def get_archived_report(link):
 		filtered_report = results.text[:orbit_index]
 	else:
 		filtered_report = results.text
+        
 
 	return {"text": filtered_report, "date": date}
 
