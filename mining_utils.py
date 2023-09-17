@@ -1,10 +1,13 @@
 import json
 import requests
 import os
+import time
 from bs4 import BeautifulSoup
 import csv
 from tqdm import tqdm
 import pandas as pd
+import savepagenow
+
 
 def collect_reports():
 	missing = []
@@ -30,6 +33,41 @@ def collect_reports():
 		export_report(report_data)
         
 	return missing
+
+
+def send_internet_archive_request():
+	archive_links = grab_archive_links()
+    
+	new_links = grab_new_links()
+     
+	if os.path.exists("./archived_list.txt", "r"):
+		with open("./archived_list.txt", "r") as f:
+			already_saved = [link.translate({10: None}) for link in f.readlines()]
+		f.close()
+    
+	links = archive_links + new_links
+	
+	for link in links:
+		if link not in already_saved:
+			try:
+				savepagenow.capture(link, authenticate=True)
+				
+				already_saved.append(link)
+			except:
+				with open("./archived_list.txt", "w") as f:
+					for saved_link in already_saved:
+						f.write(f"{saved_link}\n")
+				f.close()
+						
+				raise Exception("Timeout was reached")
+               
+			time.sleep(6.0)
+    
+	with open("./archived_list.txt", "w") as f:
+		for saved_link in already_saved:
+			f.write(f"{saved_link}\n")
+	f.close()
+
 
 def grab_facility_mentions(report_dir, facility_names, range=None):
 	facility_mentions = {}
@@ -72,6 +110,7 @@ def generate_facility_names(facility_report_file):
             "facility_abbr_name": facility_abbr_name,
             }
 
+
 def export_data(obj, dir):
     if type(obj) == dict:  
         with open(dir, 'w') as f:
@@ -81,7 +120,8 @@ def export_data(obj, dir):
         obj.to_csv(dir, sep=",")
     else:
         print("Unsupported file type")
-        
+
+
 def export_report(obj):
 	with open(f"./reports/{obj['date']}.txt", 'w') as f:
 		f.write(obj["text"])
@@ -114,6 +154,7 @@ def get_custom_facility_groupings(facility_name_abbr):
   
     return facility_grouping
 
+
 def grab_new_links():
     # Collecting new blog links from NASA sitemap
     # Use the nav-links class to traverse
@@ -136,6 +177,7 @@ def grab_new_links():
 	print(f"{len(new_reports)} unique reports found")
 
 	return new_reports
+
 
 def grab_archive_links():
     print("Grabbing reports from NASA archive")
@@ -169,6 +211,7 @@ def grab_archive_links():
     print(f"{len(archive_reports)} unique reports found")
 
     return archive_reports
+
 
 def get_archived_report(link):
 	page = requests.get(link)
@@ -243,6 +286,7 @@ def get_new_report(link):
 
 	return {"text": results_filtered, "date": date_mdy}
 
+
 def match_facilities(report_text, report_date, facility_names, log=False):
   results = {report_date: {}}
 
@@ -304,6 +348,7 @@ def find_expeditions(col):
 
   return facility_list
 
+
 def check_facility_in_text(facility_name, text):
   facility_words = len(facility_name.split(" "))
   words = text.split(" ")
@@ -314,6 +359,7 @@ def check_facility_in_text(facility_name, text):
     if (facility_name.lower() == word):
       return True
   return False
+
 
 def get_new_report_paragraph_facility_association(report_content, facility_names):
   paragraph_count = 0
@@ -329,6 +375,7 @@ def get_new_report_paragraph_facility_association(report_content, facility_names
               facility_mentions[paragraph_count].append(facility)
       paragraph_count += 1
   return facility_mentions
+
 
 def get_archive_report_paragraph_facility_association(report_content, facility_names):
   paragraph_count = 0
@@ -347,7 +394,8 @@ def get_archive_report_paragraph_facility_association(report_content, facility_n
                   facility_mentions[paragraph_count].append(facility)
         paragraph_count += 1
     return facility_mentions
-  
+
+
 def get_report_facility_association(report_content, facility_names):
   report_index = 0
   facility_mentions = {}
