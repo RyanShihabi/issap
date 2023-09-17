@@ -40,22 +40,36 @@ def send_internet_archive_request():
     
 	new_links = grab_new_links()
      
-	if os.path.exists("./archived_list.txt", "r"):
+	already_saved = []
+     
+	internet_archive_captures = []
+     
+	if os.path.exists("./archived_list.txt"):
 		with open("./archived_list.txt", "r") as f:
 			already_saved = [link.translate({10: None}) for link in f.readlines()]
+		f.close()
+          
+	if os.path.exists("./internet_archive_capture_list.txt"):
+		with open("./internet_archive_capture_list.txt", "r") as f:
+			internet_archive_captures = [link.translate({10: None}) for link in f.readlines()]
 		f.close()
     
 	links = archive_links + new_links
 	
-	for link in links:
+	for link in tqdm(links):
 		if link not in already_saved:
 			try:
-				savepagenow.capture(link, authenticate=True)
+				internet_archive_captures.append(savepagenow.capture(link, authenticate=True))
 				
 				already_saved.append(link)
 			except:
 				with open("./archived_list.txt", "w") as f:
 					for saved_link in already_saved:
+						f.write(f"{saved_link}\n")
+				f.close()
+                    
+				with open("./internet_archive_capture_list.txt", "w") as f:
+					for saved_link in internet_archive_captures:
 						f.write(f"{saved_link}\n")
 				f.close()
 						
@@ -65,6 +79,11 @@ def send_internet_archive_request():
     
 	with open("./archived_list.txt", "w") as f:
 		for saved_link in already_saved:
+			f.write(f"{saved_link}\n")
+	f.close()
+     
+	with open("./internet_archive_capture_list.txt", "w") as f:
+		for saved_link in internet_archive_captures:
 			f.write(f"{saved_link}\n")
 	f.close()
 
