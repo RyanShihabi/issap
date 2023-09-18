@@ -75,7 +75,7 @@ def send_internet_archive_request():
 						
 				raise Exception("Timeout was reached")
                
-			time.sleep(6.0)
+			time.sleep(20.0)
     
 	with open("./archived_list.txt", "w") as f:
 		for saved_link in already_saved:
