@@ -91,16 +91,21 @@ def send_internet_archive_request():
 def grab_facility_mentions(report_dir, facility_names, range=None):
 	facility_mentions = {}
 
-	for file in os.listdir(report_dir):
+	for file in tqdm(os.listdir(report_dir)):
 		file_path = os.path.join(report_dir, file)
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
         
-		for word in text:
-			if word.lower() == facility_names.lower():
-				facility_mentions.get(word.lower())
+		for words in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
+			name, abbr = words[0], words[1]
 
+			if name.lower() in text.lower():
+				facility_mentions[name] = facility_mentions.get(name, 0) + 1
+			
+			if name != abbr:
+				if abbr.lower() in text.lower():
+					facility_mentions[abbr] = facility_mentions.get(abbr, 0) + 1
     
 	return facility_mentions
     
