@@ -1,0 +1,3 @@
+from mining_utils import send_internet_archive_request
+
+send_internet_archive_request()

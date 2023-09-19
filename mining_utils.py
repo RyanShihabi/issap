@@ -73,7 +73,7 @@ def send_internet_archive_request():
 						f.write(f"{saved_link}\n")
 				f.close()
 						
-				raise Exception("Timeout was reached")
+				# raise Exception("Timeout was reached")
                
 			time.sleep(20.0)
     
@@ -96,17 +96,26 @@ def grab_facility_mentions(report_dir, facility_names, range=None):
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
+          
+		day_mentions = {}
         
 		for words in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
 			name, abbr = words[0], words[1]
 
 			if name.lower() in text.lower():
-				facility_mentions[name] = facility_mentions.get(name, 0) + 1
+				day_mentions[name] = 1
+			else:
+				day_mentions[name] = 0
 			
 			if name != abbr:
 				if abbr.lower() in text.lower():
-					facility_mentions[abbr] = facility_mentions.get(abbr, 0) + 1
-    
+					day_mentions[abbr] = 1
+				else:
+					day_mentions[abbr] = 0
+
+                         
+		facility_mentions[file.split(".")[0]] = day_mentions
+	
 	return facility_mentions
     
 

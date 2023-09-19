@@ -5,17 +5,15 @@ from mining_utils import (collect_reports,
                           grab_facility_mentions,
                           export_data)
 
-# missing_info = collect_reports()
+# Get the lsit of facility names from Rao's csv
+facility_data = generate_facility_names("./source/all_facilities.csv")
 
-send_internet_archive_request()
+# Get a boolean value for whether a facility was mentioned on that day
+facility_mentions = grab_facility_mentions("./reports", facility_data)
 
-# facility_data = generate_facility_names("./source/all_facilities.csv")
+df = pd.DataFrame.from_dict(facility_mentions).T
+df.index = pd.to_datetime(df.index)
+df = df.sort_index(ascending=True)
 
-# print(facility_data)
+export_data(df, "./facility_mentions.csv")
 
-# facility_mentions = grab_facility_mentions("./reports", facility_data)
-
-# fac = {"Facility": facility_mentions.keys(), "Count": facility_mentions.values()}
-
-# df = pd.DataFrame.from_dict(fac).sort_values(by="Count", ascending=False)
-# export_data(df, "./facility_match_count.csv")
