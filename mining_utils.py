@@ -56,6 +56,8 @@ def send_internet_archive_request():
     
 	links = archive_links + new_links
 	
+	print(f"{len(links) - len(already_saved)} links remaining")
+	
 	for link in tqdm(links):
 		if link not in already_saved:
 			try:
