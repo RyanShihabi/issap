@@ -105,13 +105,13 @@ def grab_facility_mentions(report_dir, facility_names, range=None):
 		for words in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
 			name, abbr = words[0], words[1]
 
-			if name.lower() in text.lower():
+			if name in text:
 				day_mentions[name] = 1
 			else:
 				day_mentions[name] = 0
 			
 			if name != abbr:
-				if abbr.lower() in text.lower():
+				if abbr in text:
 					day_mentions[abbr] = 1
 				else:
 					day_mentions[abbr] = 0

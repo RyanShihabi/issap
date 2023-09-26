@@ -1,6 +1,5 @@
 import pandas as pd
 from mlxtend.frequent_patterns import apriori
-
 from mining_utils import export_data
 
 mentions_df = pd.read_csv("./facility_mentions.csv")
