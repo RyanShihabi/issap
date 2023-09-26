@@ -5,6 +5,12 @@ from mining_utils import (collect_reports,
                           grab_facility_mentions,
                           export_data)
 
+# Get the reports
+# collect_reports()
+
+# Send captures to the Wayback Machine
+# send_internet_archive_request()
+
 # Get the lsit of facility names from Rao's csv
 facility_data = generate_facility_names("./source/all_facilities.csv")
 
