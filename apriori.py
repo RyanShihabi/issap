@@ -9,7 +9,7 @@ mentions_df.drop("Unnamed: 0", inplace=True, axis=1)
 for col in mentions_df.columns:
     mentions_df[col] = mentions_df[col].astype(bool)
 
-support = 0.3
+support = 0.1
 
 itemsets_df = apriori(mentions_df, min_support=support, use_colnames=True)
 
