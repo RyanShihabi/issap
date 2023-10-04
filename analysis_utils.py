@@ -38,3 +38,18 @@ def calc_facility_freq_month(df):
     df_month = df.groupby(df["Report Date"].map(lambda x: x.month), as_index=False).agg(['sum'])
 
     export_data(df_month, "./analysis/facility_monthly_frequency.csv")
+
+def calc_total_category_mentions(facility_category, df_range):
+    category_mentions = {"Total": {}}
+    total_mentions = 0
+
+    for category in facility_category["data"]:
+        df_category = df_range[facility_category["data"][category]]
+        print(df_category)
+        break
+
+    
+
+    # Convert to dataframe
+    # df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Total", ascending=False)
+    # export_data(df_category_mentions, "./analysis/Total_Category_Mentions.csv")

@@ -7,7 +7,43 @@ from bs4 import BeautifulSoup
 import csv
 from tqdm import tqdm
 import pandas as pd
+import numpy as np
 import savepagenow
+
+
+def custom_search(facility_names, report_dir):
+	day_mentions = {name: [] for name in facility_names}
+	
+	for file in tqdm(os.listdir(report_dir)):
+		file_path = os.path.join(report_dir, file)
+		with open(f"{file_path}", 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
+
+		date = file.split(".")[0]
+
+		for name in facility_names:
+			for name_index in [word.start() for word in re.finditer(name, text)]:
+				if name_index == 0 and text[name_index+1] == " ":
+					day_mentions[name].append(date)
+					break
+				elif name_index == (len(text) - len(name)) and text[name_index-1] == " ":
+					day_mentions[name].append(date)
+					break
+				elif text[name_index-1] == " " and text[name_index+(len(name))] == " ":
+					day_mentions[name].append(date)
+					break
+				elif name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
+					day_mentions[name].append(date)
+					break
+				elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
+					day_mentions[name].append(date)
+					break
+				elif text[name_index-1] in [" ", "(", "\n"] and text[name_index+(len(name))] in [" ", ")", "\n"]:
+					day_mentions[name].append(date)
+					break
+
+	return day_mentions
 
 
 def collect_reports():
@@ -95,9 +131,6 @@ def send_internet_archive_request():
 def grab_facility_mentions(report_dir, facility_names, range=None):
 	facility_mentions = {}
 
-	# TODO: Check the index of the word detected and make sure it takes up the whole word
-	# Get the index, is the value to the left of it a space, is the value to the right of it a space
-
 	for file in tqdm(os.listdir(report_dir)):
 		file_path = os.path.join(report_dir, file)
 		with open(f"{file_path}", 'r') as f:
@@ -127,13 +160,13 @@ def grab_facility_mentions(report_dir, facility_names, range=None):
 				abbr_index = text.find(abbr)
 
 				for abbr_index in [word.start() for word in re.finditer(abbr, text)]:
-					if abbr_index == 0 and text[abbr_index+1] == " ":
+					if abbr_index == 0 and text[abbr_index+1] in [" ", ")", "\n"]:
 						day_mentions[abbr] = 1
 						break
-					elif abbr_index == (len(text) - len(abbr)) and text[abbr_index-1] == " ":
+					elif abbr_index == (len(text) - len(abbr)) and text[abbr_index-1] in [" ", "(", "\n"]:
 						day_mentions[abbr] = 1
 						break
-					elif text[abbr_index-1] == " " and text[abbr_index+(len(abbr))] == " ":
+					elif text[abbr_index-1] in [" ", "(", "\n"] and text[abbr_index+(len(abbr))] in [" ", ")", "\n"]:
 						day_mentions[abbr] = 1
 						break
 
@@ -144,19 +177,28 @@ def grab_facility_mentions(report_dir, facility_names, range=None):
     
 
 def generate_facility_names(facility_report_file):
+	categories = np.unique([category for category in pd.read_csv(facility_report_file)["Category"] if category != "nan"])[:-1]
+	
 	# Dictionary for referencing full name to abbreviation
 	facility_name_abbr = {}
 	# Dictionary for referencing abbreviation names to full names
 	facility_abbr_name = {}
-
-    # Reading the Facility Report generated from the NASA site
+	# Dictionary for facility category reference
+	facility_categories = {"data": {category: [] for category in categories}}
+	
+	# Reading the Facility Report generated from the NASA site
 	with open(facility_report_file, 'r') as f:
 		reader = csv.reader(f)
 		next(reader, None)
 		for row in reader:
 			facility_abbr_name[row[0]] = row[1]
 
-            
+			if row[2] != '':
+				facility_categories["data"][row[2]].append(row[0])
+
+				if row[0] != row[1]:
+					facility_categories["data"][row[2]].append(row[1])
+
 	f.close()
 
     # Reverse key-value pairs for reference full to abbreviated name
@@ -165,6 +207,7 @@ def generate_facility_names(facility_report_file):
 	return {
             "facility_name_abbr": facility_name_abbr,
             "facility_abbr_name": facility_abbr_name,
+			"facility_categories": facility_categories,
             }
 
 
