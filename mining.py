@@ -18,13 +18,15 @@ from mining_utils import (collect_reports,
 # Get a boolean value for whether a facility was mentioned on that day
 # facility_mentions = grab_facility_mentions("./reports", facility_data)
 
+# Get a boolean value for whether a facility was mentioned on that day
+
 # export_data(facility_data["facility_categories"], "./facility_categories.json")
 
 custom_mentions = custom_search(["BEAM", "Bigelow Expandable Activity Module"], "./reports")
 
-print(custom_mentions)
+# print(custom_mentions)
 
-export_data(custom_mentions, "./BEAM_Mentions.json")
+# export_data(custom_mentions, "./BEAM_Mentions.json")
 
 # df = pd.DataFrame.from_dict(facility_mentions).T
 # df.index = pd.to_datetime(df.index)

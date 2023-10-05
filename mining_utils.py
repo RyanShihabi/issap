@@ -24,7 +24,7 @@ def custom_search(facility_names, report_dir):
 
 		for name in facility_names:
 			for name_index in [word.start() for word in re.finditer(name, text)]:
-				if name_index == 0 and text[name_index+1] == " ":
+				if name_index == 0 and text[name_index+1] in [" ", "-"]:
 					day_mentions[name].append(date)
 					break
 				elif name_index == (len(text) - len(name)) and text[name_index-1] == " ":
@@ -42,6 +42,35 @@ def custom_search(facility_names, report_dir):
 				elif text[name_index-1] in [" ", "(", "\n"] and text[name_index+(len(name))] in [" ", ")", "\n"]:
 					day_mentions[name].append(date)
 					break
+
+	date_lists = [day_mentions[facility] for facility in day_mentions]
+
+	unique_dates = []
+	
+	for dates in date_lists:
+		unique_dates += dates
+	
+	unique_dates = list(set(unique_dates))
+
+	facility_mentions = {facility: [] for facility in facility_names}
+	facility_mentions["Report Date"] = []
+
+	for date in unique_dates:
+		facility_mentions["Report Date"].append(date)
+		for facility in facility_names:
+			if date in day_mentions[facility]:
+				facility_mentions[facility].append(1)
+			else:
+				facility_mentions[facility].append(0)
+
+	df = pd.DataFrame.from_dict(facility_mentions).set_index("Report Date").sort_index()
+
+	df.index = pd.to_datetime(df.index)
+	df = df.sort_index(ascending=True)
+
+	export_data(df, "./BEAM_Mentions.csv")
+	
+	print(df)
 
 	return day_mentions
 
