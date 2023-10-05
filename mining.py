@@ -4,6 +4,7 @@ from mining_utils import (collect_reports,
                           custom_search,
                           generate_facility_names,
                           grab_facility_mentions,
+                          generate_paragraph_apriori,
                           export_data)
 
 # Get the reports
@@ -13,7 +14,7 @@ from mining_utils import (collect_reports,
 # send_internet_archive_request()
 
 # Get the list of facility names from Rao's csv
-# facility_data = generate_facility_names("./source/all_facilities.csv")
+facility_data = generate_facility_names("./source/all_facilities.csv")
 
 # Get a boolean value for whether a facility was mentioned on that day
 # facility_mentions = grab_facility_mentions("./reports", facility_data)
@@ -22,7 +23,7 @@ from mining_utils import (collect_reports,
 
 # export_data(facility_data["facility_categories"], "./facility_categories.json")
 
-custom_mentions = custom_search(["BEAM", "Bigelow Expandable Activity Module"], "./reports")
+# custom_mentions = custom_search(["BEAM", "Bigelow Expandable Activity Module"], "./reports")
 
 # print(custom_mentions)
 
@@ -34,3 +35,15 @@ custom_mentions = custom_search(["BEAM", "Bigelow Expandable Activity Module"], 
 
 # export_data(df, "./facility_mentions.csv")
 
+
+facility_names = set()
+
+for name, abbr in facility_data["facility_name_abbr"].items():
+    facility_names.add(name)
+    facility_names.add(abbr)
+
+facility_names = list(facility_names)
+
+paragraph_mentions_list = generate_paragraph_apriori(facility_names)
+
+export_data(paragraph_mentions_list, "./paragraph_mentions.json")

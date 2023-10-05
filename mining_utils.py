@@ -10,6 +10,14 @@ import pandas as pd
 import numpy as np
 import savepagenow
 
+def archive_paragraph_split(report_text):
+	if len([word.start() for word in re.finditer("   ", report_text)]) != 0:
+		return report_text.split("   ")
+	else:
+		return report_text.split("  ")
+
+def new_paragraph_split(report_text):
+	return report_text.split("\n")
 
 def custom_search(facility_names, report_dir):
 	day_mentions = {name: [] for name in facility_names}
@@ -74,6 +82,61 @@ def custom_search(facility_names, report_dir):
 
 	return day_mentions
 
+def generate_paragraph_apriori(facility_names):
+	dataset = []
+
+	archive_reports = [file for file in os.listdir("./reports") if int(file.split("-")[-1][:4]) < 2013]
+	new_reports = [file for file in os.listdir("./reports") if int(file.split("-")[-1][:4]) >= 2013]
+
+	for report in tqdm(archive_reports):
+		file_path = os.path.join("./reports", report)
+		with open(f"{file_path}", 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
+		
+		for paragraph in archive_paragraph_split(text):
+			facilities_mentioned = []
+			for name in facility_names:
+				for name_index in [word.start() for word in re.finditer(name, paragraph)]:
+					if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
+						facilities_mentioned.append(name)
+						break
+					elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
+						facilities_mentioned.append(name)
+						break
+					elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
+						facilities_mentioned.append(name)
+						break
+			
+			if len(facilities_mentioned) != 0:
+				dataset.append(sorted(facilities_mentioned))
+
+	for report in tqdm(new_reports):
+		file_path = os.path.join("./reports", report)
+		with open(f"{file_path}", 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
+		
+		for paragraph in new_paragraph_split(text):
+			facilities_mentioned = []
+			for name in facility_names:
+				for name_index in [word.start() for word in re.finditer(name, paragraph)]:
+					if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
+						facilities_mentioned.append(name)
+						break
+					elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
+						facilities_mentioned.append(name)
+						break
+					elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
+						facilities_mentioned.append(name)
+						break
+			
+			if len(facilities_mentioned) != 0:
+				dataset.append(sorted(facilities_mentioned))
+	
+	return dataset
+
+
 
 def collect_reports():
 	missing = []
@@ -89,6 +152,7 @@ def collect_reports():
 		report_data = get_archived_report(link)
 
 		if report_data["text"] != None:
+			archive_paragraph_split(report_data)
 			export_report(report_data)
 		else:
 			missing.append(link)
@@ -157,7 +221,7 @@ def send_internet_archive_request():
 	f.close()
 
 
-def grab_facility_mentions(report_dir, facility_names, range=None):
+def grab_facility_mentions(report_dir, facility_names):
 	facility_mentions = {}
 
 	for file in tqdm(os.listdir(report_dir)):
@@ -165,7 +229,7 @@ def grab_facility_mentions(report_dir, facility_names, range=None):
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
-          
+
 		day_mentions = {}
         
 		for words in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
@@ -175,29 +239,15 @@ def grab_facility_mentions(report_dir, facility_names, range=None):
 			day_mentions[abbr] = 0
 			
 			for name_index in [word.start() for word in re.finditer(name, text)]:
-				if name_index == 0 and text[name_index+1] == " ":
+				if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
 					day_mentions[name] = 1
 					break
-				elif name_index == (len(text) - len(name)) and text[name_index-1] == " ":
+				elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
 					day_mentions[name] = 1
 					break
-				elif text[name_index-1] == " " and text[name_index+(len(name))] == " ":
+				elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
 					day_mentions[name] = 1
 					break
-			
-			if name != abbr:
-				abbr_index = text.find(abbr)
-
-				for abbr_index in [word.start() for word in re.finditer(abbr, text)]:
-					if abbr_index == 0 and text[abbr_index+1] in [" ", ")", "\n"]:
-						day_mentions[abbr] = 1
-						break
-					elif abbr_index == (len(text) - len(abbr)) and text[abbr_index-1] in [" ", "(", "\n"]:
-						day_mentions[abbr] = 1
-						break
-					elif text[abbr_index-1] in [" ", "(", "\n"] and text[abbr_index+(len(abbr))] in [" ", ")", "\n"]:
-						day_mentions[abbr] = 1
-						break
 
                          
 		facility_mentions[file.split(".")[0]] = day_mentions
@@ -241,7 +291,7 @@ def generate_facility_names(facility_report_file):
 
 
 def export_data(obj, dir):
-    if type(obj) == dict:  
+    if type(obj) == dict or type(obj) == list:  
         with open(dir, 'w') as f:
             json.dump(obj, f, indent=4)
         f.close()
