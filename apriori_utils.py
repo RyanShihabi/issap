@@ -3,15 +3,18 @@ from mlxtend.frequent_patterns import apriori
 from mlxtend.preprocessing import TransactionEncoder
 from mining_utils import export_data
 
-def apriori_from_df(csv_path):
-    mentions_df = pd.read_csv(csv_path)
+def apriori_from_df(obj, csv_path = False):
+    if csv_path:
+        mentions_df = pd.read_csv(csv_path)
 
-    mentions_df.drop("Unnamed: 0", inplace=True, axis=1)
+        mentions_df.drop("Unnamed: 0", inplace=True, axis=1)
+    else:
+        mentions_df = obj
 
     for col in mentions_df.columns:
         mentions_df[col] = mentions_df[col].astype(bool)
 
-    support = 0.05
+    support = 0.3
 
     itemsets_df = apriori(mentions_df, min_support=support, use_colnames=True)
 
