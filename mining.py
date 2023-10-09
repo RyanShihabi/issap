@@ -44,6 +44,6 @@ for name, abbr in facility_data["facility_name_abbr"].items():
 
 facility_names = list(facility_names)
 
-paragraph_mentions_list = generate_paragraph_apriori(facility_names)
+paragraph_mentions_list = generate_paragraph_apriori(facility_names, facility_data["facility_name_abbr"], "./rao_reports")
 
 export_data(paragraph_mentions_list, "./paragraph_mentions.json")

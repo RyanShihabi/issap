@@ -4,27 +4,30 @@ from mining_utils import (export_data)
 from apriori_utils import (apriori_from_df,
                            apriori_from_list)
 
-df = pd.read_csv("./facility_mentions.csv")
+# df = pd.read_csv("./facility_mentions.csv")
 
-df = df.rename(columns={"Unnamed: 0": "Report Date"})
+# df = df.rename(columns={"Unnamed: 0": "Report Date"})
 
-df["Report Date"] = pd.to_datetime(df["Report Date"])
+# df["Report Date"] = pd.to_datetime(df["Report Date"])
 
 # print(df)
 
-df_weekly = df.resample('W-MON', on="Report Date").sum()
+# df_weekly = df.resample('W-MON', on="Report Date").sum()
+# df_weekly = df.resample('M', on="Report Date").sum()
 
-for column_name in df_weekly.columns:
-    df_weekly[column_name] = df_weekly[column_name].apply(lambda x: min(1, x) if x > 1 else x)
+# for column_name in df_weekly.columns:
+#     df_weekly[column_name] = df_weekly[column_name].apply(lambda x: min(1, x) if x > 1 else x)
 
 # export_data(df_weekly, "./weekly_mentions.csv")
 
-apriori_from_df(df_weekly)
+# apriori_from_df(df_weekly)
 
 # apriori_from_df("./facility_mentions.csv")
 
-# with open("./paragraph_mentions.json", "r") as f:
-#     paragraph_list = json.load(f)
-# f.close()
+with open("./paragraph_mentions.json", "r") as f:
+    paragraph_list = json.load(f)
+f.close()
 
-# apriori_from_list(paragraph_list)
+print(len(paragraph_list))
+
+apriori_from_list(paragraph_list)
