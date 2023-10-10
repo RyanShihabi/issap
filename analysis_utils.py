@@ -58,3 +58,23 @@ def calc_total_category_mentions(facility_category, df_range):
 
     export_data(df_category_mentions, "./analysis/Total_Category_Mentions.csv")
     export_data(df_category_mention_prop, "./analysis/Total_Category_Mentions_Prop.csv")
+
+def calc_report_date_frequency(df_range: pd.DataFrame):
+    report_day_count = {"Total": {}}
+
+    num2day = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday", 4: "Friday", 5: "Saturday", 6: "Sunday"}
+    
+    for date in df_range["Report Date"]:
+        day = num2day[date.weekday()]
+        report_day_count["Total"][day] = report_day_count["Total"].get(day, 0) + 1
+
+        if date.weekday() < 5:
+            report_day_count["Total"]["Weekday"] = report_day_count["Total"].get("Weekday", 0) + 1
+        else:
+            report_day_count["Total"]["Weekend"] = report_day_count["Total"].get("Weekend", 0) + 1
+
+    report_day_df = pd.DataFrame.from_dict(report_day_count).sort_values(by="Total", ascending=False)
+
+    export_data(report_day_df, "./analysis/Report_Day_Count.csv")
+    
+    print(report_day_df)

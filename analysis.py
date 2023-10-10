@@ -3,7 +3,8 @@ import numpy as np
 import json
 from analysis_utils import (calc_facility_proportions,
                             calc_facility_freq_year,
-                            calc_total_category_mentions
+                            calc_total_category_mentions,
+                            calc_report_date_frequency
                         )
 
 from mining_utils import (generate_facility_names)
@@ -25,3 +26,5 @@ facility_data = generate_facility_names("./source/all_facilities.csv")
 
 calc_total_category_mentions(facility_category, df_range)
 # print(df_range.head())
+
+calc_report_date_frequency(df_range)
