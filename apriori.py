@@ -22,12 +22,12 @@ from apriori_utils import (apriori_from_df,
 
 # apriori_from_df(df_weekly)
 
-# apriori_from_df("./facility_mentions.csv")
+apriori_from_df("./facility_mentions.csv")
 
-with open("./paragraph_mentions.json", "r") as f:
-    paragraph_list = json.load(f)
-f.close()
+# with open("./paragraph_mentions.json", "r") as f:
+#     paragraph_list = json.load(f)
+# f.close()
 
-print(len(paragraph_list))
+# print(len(paragraph_list))
 
-apriori_from_list(paragraph_list)
+# apriori_from_list(paragraph_list)

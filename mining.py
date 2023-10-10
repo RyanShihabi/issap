@@ -17,7 +17,7 @@ from mining_utils import (collect_reports,
 facility_data = generate_facility_names("./source/all_facilities.csv")
 
 # Get a boolean value for whether a facility was mentioned on that day
-# facility_mentions = grab_facility_mentions("./reports", facility_data)
+facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # Get a boolean value for whether a facility was mentioned on that day
 
@@ -29,21 +29,23 @@ facility_data = generate_facility_names("./source/all_facilities.csv")
 
 # export_data(custom_mentions, "./BEAM_Mentions.json")
 
-# df = pd.DataFrame.from_dict(facility_mentions).T
-# df.index = pd.to_datetime(df.index)
-# df = df.sort_index(ascending=True)
+df = pd.DataFrame.from_dict(facility_mentions).T
+df.index = pd.to_datetime(df.index)
+df = df.sort_index(ascending=True)
 
-# export_data(df, "./facility_mentions.csv")
+print(df)
+
+export_data(df, "./facility_mentions.csv")
 
 
-facility_names = set()
+# facility_names = set()
 
-for name, abbr in facility_data["facility_name_abbr"].items():
-    facility_names.add(name)
-    facility_names.add(abbr)
+# for name, abbr in facility_data["facility_name_abbr"].items():
+#     facility_names.add(name)
+#     facility_names.add(abbr)
 
-facility_names = list(facility_names)
+# facility_names = list(facility_names)
 
-paragraph_mentions_list = generate_paragraph_apriori(facility_names, facility_data["facility_name_abbr"], "./rao_reports")
+# paragraph_mentions_list = generate_paragraph_apriori(facility_names, facility_data["facility_name_abbr"], "./rao_reports")
 
-export_data(paragraph_mentions_list, "./paragraph_mentions.json")
+# export_data(paragraph_mentions_list, "./paragraph_mentions.json")

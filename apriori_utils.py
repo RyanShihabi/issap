@@ -16,9 +16,9 @@ def remove_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list) -> pd
     return apriori_df.drop(drop_rows)
 
 
-def apriori_from_df(obj, csv_path = False):
-    if csv_path:
-        mentions_df = pd.read_csv(csv_path)
+def apriori_from_df(obj):
+    if type(obj) == str:
+        mentions_df = pd.read_csv(obj)
 
         mentions_df.drop("Unnamed: 0", inplace=True, axis=1)
     else:
@@ -27,7 +27,7 @@ def apriori_from_df(obj, csv_path = False):
     for col in mentions_df.columns:
         mentions_df[col] = mentions_df[col].astype(bool)
 
-    support = 0.3
+    support = 0.1
 
     itemsets_df = apriori(mentions_df, min_support=support, use_colnames=True)
 
@@ -37,6 +37,8 @@ def apriori_from_df(obj, csv_path = False):
 
     # export_data(itemsets_pair, f"./analysis/apriori_pairs_support_{support}.csv")
     print(itemsets_pair)
+
+    print(remove_facilities_in_pairs(itemsets_pair, ["ARED", "CEVIS", "TVIS"]))
 
 def apriori_from_list(mention_list):
     te = TransactionEncoder()

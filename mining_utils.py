@@ -233,21 +233,34 @@ def grab_facility_mentions(report_dir, facility_names):
 		for words in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
 			name, abbr = words[0], words[1]
 
-			day_mentions[name] = 0
 			day_mentions[abbr] = 0
 			
 			for name_index in [word.start() for word in re.finditer(name, text)]:
 				if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
-					day_mentions[name] = 1
+					day_mentions[abbr] = 1
 					break
 				elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-					day_mentions[name] = 1
+					day_mentions[abbr] = 1
 					break
 				elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
-					day_mentions[name] = 1
+					day_mentions[abbr] = 1
+					break
+
+			for abbr_index in [word.start() for word in re.finditer(abbr, text)]:
+				if abbr_index == 0 and text[abbr_index+1] in [" ", ")", "\n"]:
+					day_mentions[abbr] = 1
+					break
+				elif abbr_index == (len(text) - len(abbr)) and text[abbr_index-1] in [" ", "(", "\n"]:
+					day_mentions[abbr] = 1
+					break
+				elif text[abbr_index-1] in [" ", "("] and text[abbr_index+(len(abbr))] in [" ", ")", "\n"]:
+					day_mentions[abbr] = 1
 					break
 
                          
+		if "reports_parsed" in file:
+			file = file[14:]
+		
 		facility_mentions[file.split(".")[0]] = day_mentions
 	
 	return facility_mentions
