@@ -6,6 +6,8 @@ from analysis_utils import (calc_facility_proportions,
                             calc_total_category_mentions
                         )
 
+from mining_utils import (generate_facility_names)
+
 df = pd.read_csv("./facility_mentions.csv").rename(columns={"Unnamed: 0": 'Report Date'}).sort_index()
 
 df['Report Date'] = pd.to_datetime(df['Report Date'])
@@ -18,6 +20,8 @@ calc_facility_freq_year(df_range)
 with open("./facility_categories.json", "r") as f:
     facility_category = json.load(f)
 f.close()
+
+facility_data = generate_facility_names("./source/all_facilities.csv")
 
 calc_total_category_mentions(facility_category, df_range)
 # print(df_range.head())

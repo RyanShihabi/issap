@@ -41,15 +41,20 @@ def calc_facility_freq_month(df):
 
 def calc_total_category_mentions(facility_category, df_range):
     category_mentions = {"Total": {}}
-    total_mentions = 0
 
     for category in facility_category["data"]:
         df_category = df_range[facility_category["data"][category]]
-        print(df_category)
-        break
 
-    
+        category_mentions["Total"][category] = df_category.sum().sum()
 
     # Convert to dataframe
-    # df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Total", ascending=False)
-    # export_data(df_category_mentions, "./analysis/Total_Category_Mentions.csv")
+    df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Total", ascending=False)
+
+    # print(df_category_mentions)
+    
+    total = df_category_mentions.sum()["Total"]
+
+    df_category_mention_prop = df_category_mentions / total
+
+    export_data(df_category_mentions, "./analysis/Total_Category_Mentions.csv")
+    export_data(df_category_mention_prop, "./analysis/Total_Category_Mentions_Prop.csv")

@@ -286,8 +286,8 @@ def generate_facility_names(facility_report_file):
 			if row[2] != '':
 				facility_categories["data"][row[2]].append(row[0])
 
-				if row[0] != row[1]:
-					facility_categories["data"][row[2]].append(row[1])
+				# if row[0] != row[1]:
+				# 	facility_categories["data"][row[2]].append(row[1])
 
 	f.close()
 

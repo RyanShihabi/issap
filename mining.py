@@ -21,7 +21,7 @@ facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # Get a boolean value for whether a facility was mentioned on that day
 
-# export_data(facility_data["facility_categories"], "./facility_categories.json")
+export_data(facility_data["facility_categories"], "./facility_categories.json")
 
 # custom_mentions = custom_search(["BEAM", "Bigelow Expandable Activity Module"], "./reports")
 
