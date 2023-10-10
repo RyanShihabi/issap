@@ -275,6 +275,8 @@ def generate_facility_names(facility_report_file):
 	facility_abbr_name = {}
 	# Dictionary for facility category reference
 	facility_categories = {"data": {category: [] for category in categories}}
+
+	agency_facilities = {}
 	
 	# Reading the Facility Report generated from the NASA site
 	with open(facility_report_file, 'r') as f:
@@ -289,6 +291,14 @@ def generate_facility_names(facility_report_file):
 				# if row[0] != row[1]:
 				# 	facility_categories["data"][row[2]].append(row[1])
 
+			if row[3] != '':
+				agency_abbr = row[3].split("(")[-1][:-1]
+
+				if agency_abbr not in agency_facilities:
+					agency_facilities[agency_abbr] = [row[0]]
+				else:
+					agency_facilities[agency_abbr].append(row[0])
+
 	f.close()
 
     # Reverse key-value pairs for reference full to abbreviated name
@@ -298,6 +308,7 @@ def generate_facility_names(facility_report_file):
             "facility_name_abbr": facility_name_abbr,
             "facility_abbr_name": facility_abbr_name,
 			"facility_categories": facility_categories,
+			"agency_facilities": agency_facilities,
             }
 
 
