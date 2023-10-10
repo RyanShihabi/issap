@@ -36,9 +36,11 @@ def apriori_from_list(mention_list):
 
     itemsets_df["length"] = itemsets_df["itemsets"].apply(lambda x: len(x))
 
-    itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
+    itemsets_df["frequency"] = itemsets_df["support"].apply(lambda x: int(x * len(mention_list)))
+
+    itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
     
-    print(itemsets_pair)
+    print(itemsets_pair.head(8))
     # itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
 
     # export_data(itemsets_pair, f"./analysis/apriori_pairs_support_{support}.csv")
