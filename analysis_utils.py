@@ -29,13 +29,15 @@ def calc_facility_proportions(df):
 
     export_data(df_days_used, "./analysis/facility_mention_proportion.csv")
 
-def calc_facility_freq_year(df):
-    df_year = df.groupby(df["Report Date"].map(lambda x: x.year), as_index=False).agg(['sum'])
+def calc_facility_freq_year(df: pd.DataFrame):
+    df_year = df.resample("Y", on="Report Date").sum()
+    print(df_year)
 
     export_data(df_year, "./analysis/facility_yearly_frequency.csv")
 
-def calc_facility_freq_month(df):
-    df_month = df.groupby(df["Report Date"].map(lambda x: x.month), as_index=False).agg(['sum'])
+def calc_facility_freq_month(df: pd.DataFrame):
+    df_month = df.resample("M", on="Report Date").sum()
+    print(df_month)
 
     export_data(df_month, "./analysis/facility_monthly_frequency.csv")
 
