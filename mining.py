@@ -4,6 +4,7 @@ from mining_utils import (collect_reports,
                           custom_search,
                           generate_facility_names,
                           grab_facility_mentions,
+                          grab_agency_category_mentions,
                           generate_paragraph_apriori,
                           export_data)
 
@@ -17,12 +18,15 @@ from mining_utils import (collect_reports,
 facility_data = generate_facility_names("./source/all_facilities.csv")
 
 # Get a boolean value for whether a facility was mentioned on that day
-# facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
+facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # Get a boolean value for whether a facility was mentioned on that day
 
-export_data(facility_data["facility_categories"], "./facility_categories.json")
-export_data(facility_data["agency_facilities"], "./agency_facilities.json")
+# export_data(facility_data["category_facilities"], "./category_facilities.json")
+# export_data(facility_data["agency_facilities"], "./agency_facilities.json")
+# export_data(facility_data["facility_category"], "./facility_category.json")
+# export_data(facility_data["facility_agency"], "./facility_agency.json")
+
 
 # custom_mentions = custom_search(["BEAM", "Bigelow Expandable Activity Module"], "./reports")
 
@@ -30,9 +34,11 @@ export_data(facility_data["agency_facilities"], "./agency_facilities.json")
 
 # export_data(custom_mentions, "./BEAM_Mentions.json")
 
-# df = pd.DataFrame.from_dict(facility_mentions).T
-# df.index = pd.to_datetime(df.index)
-# df = df.sort_index(ascending=True)
+df = pd.DataFrame.from_dict(facility_mentions).T
+df.index = pd.to_datetime(df.index)
+df = df.sort_index(ascending=True)
+
+grab_agency_category_mentions(df, facility_data)
 
 # print(df)
 

@@ -264,7 +264,41 @@ def grab_facility_mentions(report_dir, facility_names):
 		facility_mentions[file.split(".")[0]] = day_mentions
 	
 	return facility_mentions
-    
+
+
+def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
+	agency_category_mentions = {}
+
+	total_facility_mentions = mention_df.sum()
+
+	# Associate totals with its respective agency
+	for index, facility in zip(total_facility_mentions.index, total_facility_mentions):
+		try:
+			agency = facility_data["facility_agency"][index]
+			category = facility_data["facility_category"][index]
+		except:
+			continue
+		
+		if agency not in agency_category_mentions:
+			agency_category_mentions[agency] = {}
+		elif category not in agency_category_mentions[agency]:
+			agency_category_mentions[agency][category] = facility
+		else:
+			agency_category_mentions[agency][category] += facility
+
+	df = pd.DataFrame.from_dict(agency_category_mentions).T
+
+	df.fillna(0, inplace=True)
+
+	for col in df.columns:
+		df[col] = df[col].astype(int)
+
+	print(df)
+
+	export_data(df, "./agency_category_mentions.csv")
+	
+	# print(agency_category_mentions)
+
 
 def generate_facility_names(facility_report_file):
 	categories = np.unique([category for category in pd.read_csv(facility_report_file)["Category"] if category != "nan"])[:-1]
@@ -274,7 +308,11 @@ def generate_facility_names(facility_report_file):
 	# Dictionary for referencing abbreviation names to full names
 	facility_abbr_name = {}
 	# Dictionary for facility category reference
-	facility_categories = {"data": {category: [] for category in categories}}
+	category_facilities = {"data": {category: [] for category in categories}}
+
+	facility_category = {}
+
+	facility_agency = {}
 
 	agency_facilities = {}
 	
@@ -286,13 +324,14 @@ def generate_facility_names(facility_report_file):
 			facility_abbr_name[row[0]] = row[1]
 
 			if row[2] != '':
-				facility_categories["data"][row[2]].append(row[0])
+				category_facilities["data"][row[2]].append(row[0])
 
-				# if row[0] != row[1]:
-				# 	facility_categories["data"][row[2]].append(row[1])
+				facility_category[row[0]] = row[2]
 
 			if row[3] != '':
 				agency_abbr = row[3].split("(")[-1][:-1]
+
+				facility_agency[row[0]] = agency_abbr
 
 				if agency_abbr not in agency_facilities:
 					agency_facilities[agency_abbr] = [row[0]]
@@ -307,7 +346,9 @@ def generate_facility_names(facility_report_file):
 	return {
             "facility_name_abbr": facility_name_abbr,
             "facility_abbr_name": facility_abbr_name,
-			"facility_categories": facility_categories,
+			"category_facilities": category_facilities,
+			"facility_category": facility_category,
+			"facility_agency": facility_agency,
 			"agency_facilities": agency_facilities,
             }
 

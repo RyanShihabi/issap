@@ -18,7 +18,7 @@ df_range = df[df["Report Date"] < "2023-01-01"]
 calc_facility_proportions(df_range)
 calc_facility_freq_year(df_range)
 
-with open("./facility_categories.json", "r") as f:
+with open("./category_facilities.json", "r") as f:
     facility_category = json.load(f)
 f.close()
 

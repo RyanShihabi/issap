@@ -4,11 +4,11 @@ from mining_utils import (export_data)
 from apriori_utils import (apriori_from_df,
                            apriori_from_list)
 
-# df = pd.read_csv("./facility_mentions.csv")
+df = pd.read_csv("./facility_mentions.csv")
 
-# df = df.rename(columns={"Unnamed: 0": "Report Date"})
+df = df.rename(columns={"Unnamed: 0": "Report Date"})
 
-# df["Report Date"] = pd.to_datetime(df["Report Date"])
+df["Report Date"] = pd.to_datetime(df["Report Date"])
 
 # print(df)
 
