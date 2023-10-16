@@ -300,6 +300,30 @@ def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 	# print(agency_category_mentions)
 
 
+def generate_custom_category(custom_facilities, facility_name_abbr):		
+	all_categories = {}
+	with open(custom_facilities, "r") as f:
+		reader = csv.reader(f)
+		next(reader, None)
+		for row in reader:
+			try:
+				all_categories[facility_name_abbr[row[1]]]= row[2]
+			except:
+				all_categories[row[1]] = row[2]
+	f.close()
+
+	print(all_categories)
+
+	categories = set(category for category in all_categories.values())
+ 
+	categories_filtered = {category: [] for category in categories}
+
+	for abbr, category in all_categories.items():
+		categories_filtered[category].append(abbr)
+
+	export_data(categories_filtered, "./custom_categories.json")
+
+
 def generate_facility_names(facility_report_file):
 	categories = np.unique([category for category in pd.read_csv(facility_report_file)["Category"] if category != "nan"])[:-1]
 	

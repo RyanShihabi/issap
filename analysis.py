@@ -25,6 +25,5 @@ f.close()
 facility_data = generate_facility_names("./source/all_facilities.csv")
 
 calc_total_category_mentions(facility_category, df_range)
-# print(df_range.head())
 
 calc_report_date_frequency(df_range)

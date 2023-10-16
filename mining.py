@@ -6,6 +6,7 @@ from mining_utils import (collect_reports,
                           grab_facility_mentions,
                           grab_agency_category_mentions,
                           generate_paragraph_apriori,
+                          generate_custom_category,
                           export_data)
 
 # Get the reports
@@ -34,11 +35,13 @@ facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # export_data(custom_mentions, "./BEAM_Mentions.json")
 
-df = pd.DataFrame.from_dict(facility_mentions).T
-df.index = pd.to_datetime(df.index)
-df = df.sort_index(ascending=True)
+# df = pd.DataFrame.from_dict(facility_mentions).T
+# df.index = pd.to_datetime(df.index)
+# df = df.sort_index(ascending=True)
 
-grab_agency_category_mentions(df, facility_data)
+# grab_agency_category_mentions(df, facility_data)
+
+generate_custom_category("./missing_issap_tag.csv", facility_data["facility_name_abbr"])
 
 # print(df)
 

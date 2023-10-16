@@ -4,16 +4,19 @@ from mlxtend.preprocessing import TransactionEncoder
 from mining_utils import export_data
 
 
-def remove_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list) -> pd.DataFrame:
-    drop_rows = []
-    
+def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list, remove=True) -> pd.DataFrame:
+    rows = []
+
     for row in apriori_df.iterrows():
         for facility in list(row[1]["itemsets"]):
             if facility in facilities:
-                drop_rows.append(row[0])
-                continue
-
-    return apriori_df.drop(drop_rows)
+                rows.append(row[0])
+                break
+    
+    if remove:
+        return apriori_df.drop(rows)
+    else:
+        return apriori_df.loc[rows, :]
 
 
 def apriori_from_df(obj):
@@ -38,7 +41,13 @@ def apriori_from_df(obj):
     # export_data(itemsets_pair, f"./analysis/apriori_pairs_support_{support}.csv")
     print(itemsets_pair)
 
-    print(remove_facilities_in_pairs(itemsets_pair, ["ARED", "CEVIS", "TVIS"]))
+    import json
+    
+    with open("./custom_categories.json", "r") as f:
+        custom_categories_list = json.load(f)
+    f.close()
+
+    print(filter_facilities_in_pairs(itemsets_pair, custom_categories_list["Exercise"], remove=True))
 
 def apriori_from_list(mention_list):
     te = TransactionEncoder()
@@ -55,7 +64,7 @@ def apriori_from_list(mention_list):
 
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
 
-    itemsets_without_resistance = remove_facilities_in_pairs(itemsets_pair, ["ARED", "CEVIS", "TVIS"])
+    itemsets_without_resistance = filter_facilities_in_pairs(itemsets_pair, ["ARED", "CEVIS", "TVIS"])
     
     print(itemsets_without_resistance.head(7))
     # itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
