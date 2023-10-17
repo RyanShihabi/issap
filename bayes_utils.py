@@ -37,4 +37,4 @@ def calc_conditional_prob(facility_list: Any, given: str, condition: str) -> flo
 
     p_given_and_condition = given_and_condition_total / paragraphs_total
 
-    return 0 if p_given == 0.0 else p_given_and_condition / p_given
+    return 0.0 if p_given == 0.0 else p_given_and_condition / p_given
