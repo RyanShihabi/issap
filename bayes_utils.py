@@ -20,6 +20,7 @@ def calc_conditional_prob(facility_list: Any, given: str, condition: str) -> flo
             if (given in paragraph) and (condition in paragraph):
                 given_and_condition_total += 1
 
+
     if type(facility_list) == pd.core.frame.DataFrame:
         paragraphs_total = facility_list.shape[0]
 
@@ -29,14 +30,10 @@ def calc_conditional_prob(facility_list: Any, given: str, condition: str) -> flo
 
         given_and_condition_total = facility_list.loc[(facility_list[given] == 1) & (facility_list[condition] == 1), [given, condition]].shape[0]
 
-        print(given_and_condition_total)
-
-        # return 0.0
-
 
     p_given = given_total / paragraphs_total
 
-    p_conditional = condition_total / paragraphs_total
+    # p_conditional = condition_total / paragraphs_total
 
     p_given_and_condition = given_and_condition_total / paragraphs_total
 

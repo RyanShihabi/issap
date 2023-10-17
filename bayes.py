@@ -13,4 +13,9 @@ with open("./paragraph_mentions.json", "r") as f:
     paragraph_mentions = json.load(f)
 f.close()
 
-print(calc_conditional_prob(df, "TVIS", "ARED"))
+# facility_conditional_probs = {}
+
+given = "ARED"
+
+for facility in [col for col in df.columns if col not in [given, "Report Date"]]:
+    print(f"{given} -> {facility} Daily Conditional Prob: ", calc_conditional_prob(df, given, facility))
