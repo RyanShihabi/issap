@@ -41,7 +41,7 @@ facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # grab_agency_category_mentions(df, facility_data)
 
-generate_custom_category("./missing_issap_tag.csv", facility_data["facility_name_abbr"])
+# generate_custom_category("./missing_issap_tag.csv", facility_data["facility_name_abbr"])
 
 # print(df)
 
@@ -56,6 +56,6 @@ generate_custom_category("./missing_issap_tag.csv", facility_data["facility_name
 
 # facility_names = list(facility_names)
 
-# paragraph_mentions_list = generate_paragraph_apriori(facility_names, facility_data["facility_name_abbr"], "./rao_reports")
+paragraph_mentions_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./rao_reports")
 
-# export_data(paragraph_mentions_list, "./paragraph_mentions.json")
+export_data(paragraph_mentions_list, "./paragraph_mentions.json")

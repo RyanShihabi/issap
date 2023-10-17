@@ -30,7 +30,7 @@ def apriori_from_df(obj):
     for col in mentions_df.columns:
         mentions_df[col] = mentions_df[col].astype(bool)
 
-    support = 0.1
+    support = 0.03
 
     itemsets_df = apriori(mentions_df, min_support=support, use_colnames=True)
 
@@ -47,7 +47,7 @@ def apriori_from_df(obj):
         custom_categories_list = json.load(f)
     f.close()
 
-    print(filter_facilities_in_pairs(itemsets_pair, custom_categories_list["Exercise"], remove=True))
+    print(filter_facilities_in_pairs(itemsets_pair, custom_categories_list["Refrigerator"], remove=False))
 
 def apriori_from_list(mention_list):
     te = TransactionEncoder()

@@ -79,8 +79,14 @@ def custom_search(facility_names, report_dir):
 
 	return day_mentions
 
-def generate_paragraph_apriori(facility_names, facility_name_abbr, report_dir):
+def generate_paragraph_apriori(facility_name_abbr, report_dir):
 	dataset = []
+
+	facility_names = []
+
+	for name, abbr in facility_name_abbr.items():
+		facility_names.append(name)
+		facility_names.append(abbr)
 
 	archive_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) < 2013]
 	new_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) >= 2013]
@@ -130,6 +136,7 @@ def generate_paragraph_apriori(facility_names, facility_name_abbr, report_dir):
 						break
 			
 			if len(facilities_mentioned) != 0:
+				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
 				dataset.append(sorted(facilities_mentioned))
 	
 	return dataset
