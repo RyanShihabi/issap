@@ -254,7 +254,7 @@ def send_internet_archive_request():
 	f.close()
 
 
-def grab_facility_mentions(report_dir, facility_names, kernel=0):
+def grab_facility_mentions(report_dir, facility_names, filter=None, kernel=0):
 	facility_mentions = {}
 
 	for file in tqdm(os.listdir(report_dir)):
@@ -262,6 +262,12 @@ def grab_facility_mentions(report_dir, facility_names, kernel=0):
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
+
+		if filter:
+			filter_index = text.find(filter)
+
+			if filter_index != -1:
+				text = text[:filter_index]
 
 		day_mentions = {}
         

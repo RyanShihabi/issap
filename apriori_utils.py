@@ -4,7 +4,7 @@ from mlxtend.preprocessing import TransactionEncoder
 from mining_utils import export_data
 
 
-def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list, remove=True) -> pd.DataFrame:
+def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list = None, remove=True) -> pd.DataFrame:
     rows = []
 
     for row in apriori_df.iterrows():
@@ -41,13 +41,16 @@ def apriori_from_df(obj):
     # export_data(itemsets_pair, f"./analysis/apriori_pairs_support_{support}.csv")
     # print(itemsets_pair)
 
-    import json
+    # import json
     
-    with open("./custom_categories.json", "r") as f:
-        custom_categories_list = json.load(f)
-    f.close()
+    # with open("./custom_categories.json", "r") as f:
+    #     custom_categories_list = json.load(f)
+    # f.close()
 
-    print(filter_facilities_in_pairs(itemsets_pair, custom_categories_list["Refrigerator"], remove=False))
+    # print(filter_facilities_in_pairs(itemsets_pair, custom_categories_list["Refrigerator"], remove=False))
+    # print(filter_facilities_in_pairs(itemsets_pair, remove=False))
+
+    return itemsets_pair
 
 def apriori_from_list(mention_list):
     te = TransactionEncoder()
