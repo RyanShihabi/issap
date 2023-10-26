@@ -39,7 +39,7 @@ def apriori_from_df(obj):
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
 
     # export_data(itemsets_pair, f"./analysis/apriori_pairs_support_{support}.csv")
-    print(itemsets_pair)
+    # print(itemsets_pair)
 
     import json
     

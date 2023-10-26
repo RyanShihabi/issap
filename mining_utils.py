@@ -16,6 +16,13 @@ def archive_paragraph_split(report_text):
 def new_paragraph_split(report_text):
 	return report_text.split("\n")
 
+def sentence_split(report_text):
+	return report_text.split(".")
+
+# TODO: Make sure this gets words only and no whitespace
+def kernel_split(report_text, window=5):
+	return [report_text[i: i+window] for i in range(len(report_text.split(" ")-window), window)]
+
 def custom_search(facility_names, report_dir):
 	day_mentions = {name: [] for name in facility_names}
 	
@@ -79,6 +86,28 @@ def custom_search(facility_names, report_dir):
 
 	return day_mentions
 
+
+def generate_kernel_apriori(facility_name_abbr, report_dir):
+	dataset = []
+
+	facility_names = []
+
+	for name, abbr in facility_name_abbr.items():
+		facility_names.append(name)
+		facility_names.append(abbr)
+
+	archive_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) < 2013]
+	new_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) >= 2013]
+
+	for report in tqdm(archive_reports):
+		file_path = os.path.join(report_dir, report)
+		with open(f"{file_path}", 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
+
+	
+
+
 def generate_paragraph_apriori(facility_name_abbr, report_dir):
 	dataset = []
 
@@ -140,7 +169,6 @@ def generate_paragraph_apriori(facility_name_abbr, report_dir):
 				dataset.append(sorted(facilities_mentioned))
 	
 	return dataset
-
 
 
 def collect_reports():
@@ -226,7 +254,7 @@ def send_internet_archive_request():
 	f.close()
 
 
-def grab_facility_mentions(report_dir, facility_names):
+def grab_facility_mentions(report_dir, facility_names, kernel=0):
 	facility_mentions = {}
 
 	for file in tqdm(os.listdir(report_dir)):
