@@ -21,7 +21,7 @@ def sentence_split(report_text):
 
 # TODO: Make sure this gets words only and no whitespace
 def kernel_split(report_text, window=5):
-	return [report_text[i: i+window] for i in range(len(report_text.split(" ")-window), window)]
+	return [report_text[i: i+window] for i in range(len(report_text.split(" ")-window+1))]
 
 def custom_search(facility_names, report_dir):
 	day_mentions = {name: [] for name in facility_names}
@@ -87,7 +87,7 @@ def custom_search(facility_names, report_dir):
 	return day_mentions
 
 
-def generate_kernel_apriori(facility_name_abbr, report_dir):
+def generate_kernel_apriori(facility_name_abbr, report_dir, window=5):
 	dataset = []
 
 	facility_names = []
@@ -96,16 +96,31 @@ def generate_kernel_apriori(facility_name_abbr, report_dir):
 		facility_names.append(name)
 		facility_names.append(abbr)
 
-	archive_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) < 2013]
-	new_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) >= 2013]
+	reports = [file for file in os.listdir(report_dir)]
 
-	for report in tqdm(archive_reports):
+	for report in tqdm(reports):
 		file_path = os.path.join(report_dir, report)
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
 
-	
+		for word_groupings in kernel_split(text, 15):
+			facilities_mentioned = []
+			for name in facility_names:
+				for name_index in [word.start() for word in re.finditer(name, paragraph)]:
+					if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
+						facilities_mentioned.append(name)
+						break
+					elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
+						facilities_mentioned.append(name)
+						break
+					elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
+						facilities_mentioned.append(name)
+						break
+
+			if len(facilities_mentioned) != 0:
+				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
+				dataset.append(sorted(facilities_mentioned))
 
 
 def generate_paragraph_apriori(facility_name_abbr, report_dir):
@@ -254,7 +269,7 @@ def send_internet_archive_request():
 	f.close()
 
 
-def grab_facility_mentions(report_dir, facility_names, filter=None, kernel=0):
+def grab_facility_mentions(report_dir, facility_names, filter=None):
 	facility_mentions = {}
 
 	for file in tqdm(os.listdir(report_dir)):
