@@ -1,5 +1,4 @@
 import pandas as pd
-
 from comparison_utils import (compare_filters)
 from mining_utils import (grab_facility_mentions,
                           generate_facility_names)
