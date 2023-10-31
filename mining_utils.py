@@ -284,33 +284,35 @@ def grab_facility_mentions(report_dir, facility_names, filter=None):
 			if filter_index != -1:
 				text = text[:filter_index]
 
+		text = text.lower()
+
 		day_mentions = {}
         
 		for words in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
-			name, abbr = words[0], words[1]
+			name, abbr = words[0].lower(), words[1].lower()
 
-			day_mentions[abbr] = 0
+			day_mentions[words[1]] = 0
 			
 			for name_index in [word.start() for word in re.finditer(name, text)]:
 				if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
-					day_mentions[abbr] = 1
+					day_mentions[words[1]] = 1
 					break
 				elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-					day_mentions[abbr] = 1
+					day_mentions[words[1]] = 1
 					break
 				elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
-					day_mentions[abbr] = 1
+					day_mentions[words[1]] = 1
 					break
 
 			for abbr_index in [word.start() for word in re.finditer(abbr, text)]:
 				if abbr_index == 0 and text[abbr_index+1] in [" ", ")", "\n"]:
-					day_mentions[abbr] = 1
+					day_mentions[words[1]] = 1
 					break
 				elif abbr_index == (len(text) - len(abbr)) and text[abbr_index-1] in [" ", "(", "\n"]:
-					day_mentions[abbr] = 1
+					day_mentions[words[1]] = 1
 					break
 				elif text[abbr_index-1] in [" ", "("] and text[abbr_index+(len(abbr))] in [" ", ")", "\n"]:
-					day_mentions[abbr] = 1
+					day_mentions[words[1]] = 1
 					break
 
                          
@@ -438,7 +440,7 @@ def export_data(obj, dir):
         with open(dir, 'w') as f:
             json.dump(obj, f, indent=4)
         f.close()
-    elif type(obj) == pd.core.frame.DataFrame:
+    elif type(obj) == pd.core.frame.DataFrame or type(obj) == pd.core.frame.Series:
         obj.to_csv(dir, sep=",")
     else:
         print("Unsupported file type")

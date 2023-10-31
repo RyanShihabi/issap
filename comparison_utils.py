@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from apriori_utils import apriori_from_df
+from mining_utils import export_data
 
 def compare_mentions(mentions_df, mentions_df2):
     df_diff = mentions_df - mentions_df2
@@ -16,6 +17,9 @@ def compare_mentions(mentions_df, mentions_df2):
     
     df_counts = pd.Series(list_mention_counts).sort_values(ascending=False)
 
+    export_data(df_counts, "./list_filter_counts.csv")
+    export_data(list_mention_dates, "./list_filter_counts.json")
+    
     return df_counts
 
 def compare_apriori(mentions_df, mentions_df2):
