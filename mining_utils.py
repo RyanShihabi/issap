@@ -9,6 +9,7 @@ from tqdm import tqdm
 import pandas as pd
 import numpy as np
 import savepagenow
+import threading
 
 def archive_paragraph_split(report_text):
 	return report_text.split("    ")
@@ -124,14 +125,12 @@ def find_name_indices(name: str, text: str) -> list:
 # Window value should resemble the longest named facility
 # Have the kernel represent that window size then shift over by one
 # Track the mentions not the frequency
+# Implement multithreading for the kernels
 
-def generate_kernel_apriori(facility_name_abbr, report_dir):
+def generate_kernel_apriori(facility_name_abbr, report_dir, window=50):
 	dataset = []
 
 	facility_names = []
-
-	# window = max([len(facility) for facility in facility_name_abbr])
-	window = 50
 
 	for name, abbr in facility_name_abbr.items():
 		facility_names.append(abbr)
@@ -158,6 +157,8 @@ def generate_kernel_apriori(facility_name_abbr, report_dir):
 					report_mentions.add(facility_name_abbr[facility] if facility in facility_name_abbr else facility)
 
 		dataset.append(list(report_mentions))
+
+	return dataset
 
 
 def generate_paragraph_apriori(facility_name_abbr, report_dir):
@@ -306,7 +307,7 @@ def send_internet_archive_request():
 	f.close()
 
 
-def grab_facility_mentions(report_dir, facility_names, filter=None):
+def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_window=-1):
 	facility_mentions = {}
 
 	for file in tqdm(os.listdir(report_dir)):
@@ -324,34 +325,19 @@ def grab_facility_mentions(report_dir, facility_names, filter=None):
 		text = text.lower()
 
 		day_mentions = {}
-        
-		for words in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
-			name, abbr = words[0].lower(), words[1].lower()
 
-			day_mentions[words[1]] = 0
-			
-			for name_index in [word.start() for word in re.finditer(name, text)]:
-				if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
-					day_mentions[words[1]] = 1
-					break
-				elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-					day_mentions[words[1]] = 1
-					break
-				elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
-					day_mentions[words[1]] = 1
-					break
-
-			for abbr_index in [word.start() for word in re.finditer(abbr, text)]:
-				if abbr_index == 0 and text[abbr_index+1] in [" ", ")", "\n"]:
-					day_mentions[words[1]] = 1
-					break
-				elif abbr_index == (len(text) - len(abbr)) and text[abbr_index-1] in [" ", "(", "\n"]:
-					day_mentions[words[1]] = 1
-					break
-				elif text[abbr_index-1] in [" ", "("] and text[abbr_index+(len(abbr))] in [" ", ")", "\n"]:
-					day_mentions[words[1]] = 1
-					break
-
+		if kernel_window > 0:
+			words = text.split(" ")
+		
+			for group in range(len(words)-kernel_window):
+				for name, abbr in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
+					text_window = " ".join(words[group:group+kernel_window])
+					if len(find_name_indices(name, text_window)) != 0 or len(find_name_indices(abbr, text_window)) != 0:
+						day_mentions[abbr] = 1
+		else:
+			for name, abbr in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
+				if len(find_name_indices(name, text)) != 0 or len(find_name_indices(abbr, text)) != 0:
+						day_mentions[abbr] = 1
                          
 		if "reports_parsed" in file:
 			file = file[14:]

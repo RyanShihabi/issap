@@ -59,7 +59,7 @@ facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # paragraph_mentions_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./rao_reports")
 
-kernel_mentions_list = generate_kernel_apriori(facility_data["facility_name_abbr"], "./rao_reports")
+kernel_mentions_list = generate_kernel_apriori(facility_data["facility_name_abbr"], "./rao_reports", window=100)
 
 print(kernel_mentions_list)
 
