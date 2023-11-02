@@ -87,40 +87,77 @@ def custom_search(facility_names, report_dir):
 	return day_mentions
 
 
-def generate_kernel_apriori(facility_name_abbr, report_dir, window=5):
+def find_name_indices(name: str, text: str) -> list:
+	name_indices = []
+
+	for name_index in [word.start() for word in re.finditer(name, text)]:
+		if name_index == 0 and text[name_index+1] in [" ", ")", ":", "\n"]:
+			name_indices.append([name_index, name_index + len(name)])
+			break
+		elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
+			name_indices.append([name_index, name_index + len(name)])
+			break
+		elif text[name_index-1] in [" ", "(", ":"] and text[name_index+(len(name))] in [" ", ")", ",", ":" "\n"]:
+			name_indices.append([name_index, name_index + len(name)])
+			break
+
+	return name_indices
+
+
+# def generate_facility_indices(text, facility_name_abbr) -> dict:
+# 	facility_indices_start = {}
+
+# 	for name, abbr in facility_name_abbr.items():
+# 		name_indices = find_name_indices(name, text)
+
+# 		abbr_indices = find_name_indices(abbr, text)
+
+# 		for name in name_indices:
+# 			facility_indices_start[name[0]] = name[1]
+
+# 		for abbr in abbr_indices:
+# 			facility_indices_start[abbr[0]] = abbr[1]
+
+# 	return facility_indices_start
+
+
+# Window value should resemble the longest named facility
+# Have the kernel represent that window size then shift over by one
+# Track the mentions not the frequency
+
+def generate_kernel_apriori(facility_name_abbr, report_dir):
 	dataset = []
 
 	facility_names = []
 
+	# window = max([len(facility) for facility in facility_name_abbr])
+	window = 50
+
 	for name, abbr in facility_name_abbr.items():
-		facility_names.append(name)
 		facility_names.append(abbr)
+		facility_names.append(name)
+		
+		if len(name) > window:
+			window = len(name)
 
 	reports = [file for file in os.listdir(report_dir)]
 
 	for report in tqdm(reports):
+		report_mentions = set()
 		file_path = os.path.join(report_dir, report)
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
 
-		for word_groupings in kernel_split(text, 15):
-			facilities_mentioned = []
-			for name in facility_names:
-				for name_index in [word.start() for word in re.finditer(name, paragraph)]:
-					if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
-						facilities_mentioned.append(name)
-						break
-					elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-						facilities_mentioned.append(name)
-						break
-					elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
-						facilities_mentioned.append(name)
-						break
+		words = text.split(" ")
+		
+		for group in range(len(words)-window):
+			for facility in facility_names:
+				text_window = " ".join(words[group:group+window])
+				if len(find_name_indices(facility, text_window)) != 0:
+					report_mentions.add(facility_name_abbr[facility] if facility in facility_name_abbr else facility)
 
-			if len(facilities_mentioned) != 0:
-				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
-				dataset.append(sorted(facilities_mentioned))
+		dataset.append(list(report_mentions))
 
 
 def generate_paragraph_apriori(facility_name_abbr, report_dir):

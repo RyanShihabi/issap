@@ -39,8 +39,6 @@ def compare_apriori(mentions_df, mentions_df2):
             apriori_itemsets_diff["itemset"].append("-".join(val))
             apriori_itemsets_diff["diff"].append(original_support - filter_support)
 
-            # print(f"Diff of {val}: {original_support - filter_support}")
-
     support_diff = pd.DataFrame.from_dict(apriori_itemsets_diff).sort_values(by="diff", ascending=False)
 
     print(support_diff)

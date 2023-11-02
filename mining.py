@@ -6,6 +6,7 @@ from mining_utils import (collect_reports,
                           grab_facility_mentions,
                           grab_agency_category_mentions,
                           generate_paragraph_apriori,
+                          generate_kernel_apriori,
                           generate_custom_category,
                           export_data)
 
@@ -56,6 +57,11 @@ facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # facility_names = list(facility_names)
 
-paragraph_mentions_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./rao_reports")
+# paragraph_mentions_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./rao_reports")
 
-export_data(paragraph_mentions_list, "./paragraph_mentions.json")
+kernel_mentions_list = generate_kernel_apriori(facility_data["facility_name_abbr"], "./rao_reports")
+
+print(kernel_mentions_list)
+
+export_data(kernel_mentions_list, "./kernel_mentions.json")
+# export_data(paragraph_mentions_list, "./paragraph_mentions.json")
