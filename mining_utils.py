@@ -329,15 +329,18 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 		if kernel_window > 0:
 			words = text.split(" ")
 		
-			for group in range(len(words)-kernel_window):
-				for name, abbr in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
+			for name, abbr in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
+				for group in range(len(words)-kernel_window):
+					day_mentions[abbr] = 0
 					text_window = " ".join(words[group:group+kernel_window])
-					if len(find_name_indices(name, text_window)) != 0 or len(find_name_indices(abbr, text_window)) != 0:
+					if len(find_name_indices(name.lower(), text_window)) != 0 or len(find_name_indices(abbr.lower(), text_window)) != 0:
 						day_mentions[abbr] = 1
+						break
 		else:
 			for name, abbr in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
-				if len(find_name_indices(name, text)) != 0 or len(find_name_indices(abbr, text)) != 0:
-						day_mentions[abbr] = 1
+				day_mentions[abbr] = 0
+				if len(find_name_indices(name.lower(), text)) != 0 or len(find_name_indices(abbr.lower(), text)) != 0:
+					day_mentions[abbr] = 1
                          
 		if "reports_parsed" in file:
 			file = file[14:]
