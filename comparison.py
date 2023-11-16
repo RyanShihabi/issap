@@ -8,6 +8,8 @@ from mining_utils import (grab_facility_mentions,
 
 facility_data = generate_facility_names("./source/all_facilities.csv")
 
+export_data(facility_data, "./facility_data.json")
+
 filter = "Completed Task List Activities:"
 
 facility_mentions = grab_facility_mentions("./test_report", facility_data)
@@ -26,7 +28,7 @@ df = df.sort_index(ascending=True)
 
 # # compare_filters(df, df_filter)
 
-facility_mentions_kernel = grab_facility_mentions("./test_report", facility_data, kernel_window=100)
+facility_mentions_kernel = grab_facility_mentions("./test_report_date", facility_data, kernel_window=25)
 
 df_kernel = pd.DataFrame.from_dict(facility_mentions_kernel).T
 df_kernel.index = pd.to_datetime(df_kernel.index)
@@ -34,7 +36,4 @@ df_kernel = df_kernel.sort_index(ascending=True)
 
 export_data(df_kernel, "./kernel_facility_mentions.csv")
 
-print(sum(df.iloc[0]))
-print(sum(df_kernel.iloc[0]))
-
-# compare_filters(df, df_kernel)
+compare_filters(df, df_kernel)

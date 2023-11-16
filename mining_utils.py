@@ -98,28 +98,11 @@ def find_name_indices(name: str, text: str) -> list:
 		elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
 			name_indices.append([name_index, name_index + len(name)])
 			break
-		elif text[name_index-1] in [" ", "(", ":"] and text[name_index+(len(name))] in [" ", ")", ",", ":" "\n"]:
+		elif text[name_index-1] in [" ", "(", ":"] and text[min(name_index+(len(name)), len(text)-1)] in [" ", ")", ",", ":", "\n"]:
 			name_indices.append([name_index, name_index + len(name)])
 			break
 
 	return name_indices
-
-
-# def generate_facility_indices(text, facility_name_abbr) -> dict:
-# 	facility_indices_start = {}
-
-# 	for name, abbr in facility_name_abbr.items():
-# 		name_indices = find_name_indices(name, text)
-
-# 		abbr_indices = find_name_indices(abbr, text)
-
-# 		for name in name_indices:
-# 			facility_indices_start[name[0]] = name[1]
-
-# 		for abbr in abbr_indices:
-# 			facility_indices_start[abbr[0]] = abbr[1]
-
-# 	return facility_indices_start
 
 
 # Window value should resemble the longest named facility
@@ -315,6 +298,8 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
+
+		# print(file.split(".")[0])
 
 		if filter:
 			filter_index = text.find(filter)

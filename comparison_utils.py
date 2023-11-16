@@ -23,6 +23,21 @@ def compare_mentions(mentions_df: pd.DataFrame, mentions_df2: pd.DataFrame) -> p
     return df_counts
 
 def compare_apriori(mentions_df, mentions_df2):
+    # Find the differences in rows
+    # Ensure both dfs are filtered to intersection
+    
+    dates = (mentions_df.index).intersection(mentions_df2.index)
+    missing = (mentions_df.index).difference(mentions_df2.index)
+
+    if dates == None:
+        print("No dates are similar between the two tables")
+
+    mentions_df = mentions_df.loc[dates]
+    mentions_df2 = mentions_df2.loc[dates]
+
+    print(f"Missing dates between tables: {missing}\n")
+    print("Removing differences for accurate comparison")
+
     mentions_apriori = apriori_from_df(mentions_df)
 
     mentions2_apriori = apriori_from_df(mentions_df2)
