@@ -72,5 +72,5 @@ def apriori_from_list(mention_list):
     print(itemsets_without_resistance.head(7))
     # itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
 
-    export_data(itemsets_without_resistance, f"./analysis/apriori_pairs_support_{support}.csv")
+    export_data(itemsets_without_resistance, f"./analysis/csv/apriori_pairs_support_{support}.csv")
     # print(itemsets_pair)

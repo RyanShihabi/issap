@@ -17,8 +17,8 @@ def compare_mentions(mentions_df: pd.DataFrame, mentions_df2: pd.DataFrame) -> p
     
     df_counts = pd.Series(list_mention_counts).sort_values(ascending=False)
 
-    export_data(df_counts, "./list_filter_counts.csv")
-    export_data(list_mention_dates, "./list_filter_counts.json")
+    export_data(df_counts, "./analysis/csv/list_filter_counts.csv")
+    export_data(list_mention_dates, "./analysis/json/list_filter_counts.json")
     
     return df_counts
 
@@ -58,7 +58,7 @@ def compare_apriori(mentions_df, mentions_df2):
 
     print(support_diff)
 
-    export_data(support_diff, "./list_apriori_support_diff.csv")
+    export_data(support_diff, "./analysis/csv/list_apriori_support_diff.csv")
 
 def compare_filters(mentions_df, mentions_df2):
     print(compare_mentions(mentions_df, mentions_df2))

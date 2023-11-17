@@ -9,7 +9,6 @@ from tqdm import tqdm
 import pandas as pd
 import numpy as np
 import savepagenow
-import threading
 
 def archive_paragraph_split(report_text):
 	return report_text.split("    ")
@@ -81,7 +80,7 @@ def custom_search(facility_names, report_dir):
 	df.index = pd.to_datetime(df.index)
 	df = df.sort_index(ascending=True)
 
-	export_data(df, "./BEAM_Mentions.csv")
+	export_data(df, "./analysis/json/BEAM_Mentions.csv")
 	
 	print(df)
 
@@ -364,7 +363,7 @@ def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 
 	print(df)
 
-	export_data(df, "./agency_category_mentions.csv")
+	export_data(df, "./analysis/csv/agency_category_mentions.csv")
 	
 	# print(agency_category_mentions)
 
@@ -390,7 +389,7 @@ def generate_custom_category(custom_facilities, facility_name_abbr):
 	for abbr, category in all_categories.items():
 		categories_filtered[category].append(abbr)
 
-	export_data(categories_filtered, "./custom_categories.json")
+	export_data(categories_filtered, "./sources/facility_data/json/custom_categories.json")
 
 
 def generate_facility_names(facility_report_file):

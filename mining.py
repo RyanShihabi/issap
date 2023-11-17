@@ -17,7 +17,7 @@ from mining_utils import (collect_reports,
 # send_internet_archive_request()
 
 # Get the list of facility names from Rao's csv
-facility_data = generate_facility_names("./source/all_facilities.csv")
+facility_data = generate_facility_names("./sources/csv/all_facilities.csv")
 
 # Get a boolean value for whether a facility was mentioned on that day
 facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
@@ -63,5 +63,5 @@ kernel_mentions_list = generate_kernel_apriori(facility_data["facility_name_abbr
 
 print(kernel_mentions_list)
 
-export_data(kernel_mentions_list, "./kernel_mentions.json")
+export_data(kernel_mentions_list, "./analysis/json/kernel_mentions.json")
 # export_data(paragraph_mentions_list, "./paragraph_mentions.json")
