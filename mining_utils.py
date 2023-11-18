@@ -400,7 +400,7 @@ def generate_facility_names(facility_report_file):
 	# Dictionary for referencing abbreviation names to full names
 	facility_abbr_name = {}
 	# Dictionary for facility category reference
-	category_facilities = {"data": {category: [] for category in categories}}
+	category_facilities = {category: [] for category in categories}
 
 	facility_category = {}
 
@@ -416,7 +416,7 @@ def generate_facility_names(facility_report_file):
 			facility_abbr_name[row[0]] = row[1]
 
 			if row[2] != '':
-				category_facilities["data"][row[2]].append(row[0])
+				category_facilities[row[2]].append(row[0])
 
 				facility_category[row[0]] = row[2]
 

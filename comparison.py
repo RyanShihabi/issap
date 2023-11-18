@@ -6,7 +6,7 @@ from mining_utils import (grab_facility_mentions,
                           generate_kernel_apriori,
                           export_data)
 
-facility_data = generate_facility_names("./sources/csv/all_facilities.csv")
+facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 
 export_data(facility_data, "./sources/facility_data/json/facility_data.json")
 
@@ -17,16 +17,6 @@ facility_mentions = grab_facility_mentions("./test_report", facility_data)
 df = pd.DataFrame.from_dict(facility_mentions).T
 df.index = pd.to_datetime(df.index)
 df = df.sort_index(ascending=True)
-
-# export_data(df, "./new_test.csv")
-
-# facility_mentions_filter = grab_facility_mentions("./reports", facility_data, filter)
-
-# df_filter = pd.DataFrame.from_dict(facility_mentions_filter).T
-# df_filter.index = pd.to_datetime(df_filter.index)
-# df_filter = df_filter.sort_index(ascending=True)
-
-# # compare_filters(df, df_filter)
 
 facility_mentions_kernel = grab_facility_mentions("./test_report_date", facility_data, kernel_window=25)
 

@@ -27,39 +27,37 @@ def calc_facility_proportions(df):
     # Transpose results
     df_days_used = df_days_used.T
 
-    export_data(df_days_used, "./analysis/facility_mention_proportion.csv")
+    export_data(df_days_used, "./analysis/csv/facility_mention_proportion.csv")
 
 def calc_facility_freq_year(df: pd.DataFrame):
     df_year = df.resample("Y", on="Report Date").sum()
     print(df_year)
 
-    export_data(df_year, "./analysis/facility_yearly_frequency.csv")
+    export_data(df_year, "./analysis/csv/facility_yearly_frequency.csv")
 
 def calc_facility_freq_month(df: pd.DataFrame):
     df_month = df.resample("M", on="Report Date").sum()
     print(df_month)
 
-    export_data(df_month, "./analysis/facility_monthly_frequency.csv")
+    export_data(df_month, "./analysis/csv/facility_monthly_frequency.csv")
 
 def calc_total_category_mentions(facility_category, df_range):
     category_mentions = {"Total": {}}
 
-    for category in facility_category["data"]:
-        df_category = df_range[facility_category["data"][category]]
+    for category in facility_category:
+        df_category = df_range[facility_category[category]]
 
         category_mentions["Total"][category] = df_category.sum().sum()
 
     # Convert to dataframe
     df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Total", ascending=False)
-
-    # print(df_category_mentions)
     
     total = df_category_mentions.sum()["Total"]
 
     df_category_mention_prop = df_category_mentions / total
 
-    export_data(df_category_mentions, "./analysis/Total_Category_Mentions.csv")
-    export_data(df_category_mention_prop, "./analysis/Total_Category_Mentions_Prop.csv")
+    export_data(df_category_mentions, "./analysis/csv/Total_Category_Mentions.csv")
+    export_data(df_category_mention_prop, "./analysis/csv/Total_Category_Mentions_Prop.csv")
 
 def calc_report_date_frequency(df_range: pd.DataFrame):
     report_day_count = {"Total": {}}
@@ -77,6 +75,6 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
 
     report_day_df = pd.DataFrame.from_dict(report_day_count).sort_values(by="Total", ascending=False)
 
-    export_data(report_day_df, "./analysis/Report_Day_Count.csv")
+    export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
     
     print(report_day_df)
