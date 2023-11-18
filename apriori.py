@@ -4,11 +4,11 @@ from mining_utils import (export_data)
 from apriori_utils import (apriori_from_df,
                            apriori_from_list)
 
-df = pd.read_csv("./sources/facility_data/csv/facility_mentions.csv")
+# df = pd.read_csv("./sources/facility_data/csv/facility_mentions.csv")
 
-df = df.rename(columns={"Unnamed: 0": "Report Date"})
+# df = df.rename(columns={"Unnamed: 0": "Report Date"})
 
-df["Report Date"] = pd.to_datetime(df["Report Date"])
+# df["Report Date"] = pd.to_datetime(df["Report Date"])
 
 # print(df)
 
@@ -22,12 +22,12 @@ df["Report Date"] = pd.to_datetime(df["Report Date"])
 
 # apriori_from_df(df_weekly)
 
-apriori_from_df("./analysis/csv/facility_mentions.csv")
+# apriori_from_df("./analysis/csv/facility_mentions.csv")
 
-# with open("./paragraph_mentions.json", "r") as f:
-#     paragraph_list = json.load(f)
-# f.close()
+with open("./analysis/json/paragraph_mentions.json", "r") as f:
+    paragraph_list = json.load(f)
+f.close()
 
-# print(len(paragraph_list))
+print(len(paragraph_list))
 
-# apriori_from_list(paragraph_list)
+apriori_from_list(paragraph_list)

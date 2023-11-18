@@ -22,6 +22,8 @@ facility_data = generate_facility_names("./sources/facility_data/csv/all_facilit
 # export_data(facility_data["facility_category"], "./sources/facility_data/json/facility_category.json")
 export_data(facility_data["category_facilities"], "./sources/facility_data/json/category_facilities.json")
 
+export_data(generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct"), "./analysis/json/paragraph_mentions.json")
+
 # Get a boolean value for whether a facility was mentioned on that day
 # facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 

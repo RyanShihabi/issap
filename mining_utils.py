@@ -11,7 +11,8 @@ import numpy as np
 import savepagenow
 
 def archive_paragraph_split(report_text):
-	return report_text.split("    ")
+	# return report_text.split("    ")
+	return report_text.split("\n")
 
 def new_paragraph_split(report_text):
 	return report_text.split("\n")
@@ -152,8 +153,8 @@ def generate_paragraph_apriori(facility_name_abbr, report_dir):
 		facility_names.append(name)
 		facility_names.append(abbr)
 
-	archive_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) < 2013]
-	new_reports = [file for file in os.listdir(report_dir) if int(file.split("-")[-1][:4]) >= 2013]
+	archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
+	new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
 
 	for report in tqdm(archive_reports):
 		file_path = os.path.join(report_dir, report)
