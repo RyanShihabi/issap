@@ -1,0 +1,70 @@
+
+40 Soyuz (40S) Launch and Dock:  40S launched from the Baikonur Cosmodrome at 3:25pm CDT today with Barry Wilmore, Elena Serova, and AlexanderSamokutyaev onboard. After orbital insertion, Mission Control Center Moscow confirmed that the port side solar array had not deployed. However, battery charging was sufficient with only one array (Starboard) deployed and the vehicle proceeded with a nominal 4-orbit rendezvous with ISS. Docking to the MRM-2 module occurred at 9:11pm CDT.  At approximately 9:49pm CDT, the 40S port array deployed with no additional commanding. Hatch opening subsequently took place at 12:07am CDT.
+Microgravity Science Glovebox (MSG):  Wiseman activated the MSG Facility to support Rodent research MSG payload operations.
+Rodent Research Animal Transfer:  The crew setup of Rodent Habitats, software checkout, and  moved the animal transporter from Dragon to the US Lab then transferred animals to two Rodent Habitats.
+Space Headaches:  Gerst and Wiseman completed the space headaches questionnaire. The objectives of this study are to obtain in-flight data allowing evaluation of the prevalence and characteristics of headache in microgravity.
+Aquatic Habitat:  Gerst assembled the Aquatic Habitat experimental apparatus and performed a water exchange in preparation for the arrival of the Zebrafish Muscle experiment on 40S.
+Cell Mechanosensing 2 (CMS-2): Gerst removed CMS-2 samples from Minus Eighty-Degree Laboratory Freezer for ISS (MELFI) and started the first incubation of mouse mesenchymal stem cells (MSCs).  The cells are incubated with micro-gravity and artificial 1g environment using the Cell Biology Experiment Facility (CBEF) in the JEM Saibo rack. Cell Mechanosensing-2 is a continuing investigation to identify gravity sensors using several cultured cells and help develop countermeasures to muscle atrophy.  On the basis of the images obtained in orbit and from the chemically fixed cells on returning to Earth, the influence of gravity on the fine structures such as adherence, organelles will be assessed.
+Circadian Rhythms:  Wiseman completed his Flight Day 120 36 hour continuous Circadian rhythm session.  After completing his 5th session, he removed instrumentation, performed data transfers, and stowed components. Circadian Rhythms investigates the role of synchronized circadian rhythms, or the “biological clock,” and how it changes during long-duration spaceflight. Researchers hypothesize that a non-24-hour cycle of light and dark affects crewmembers’ circadian clocks. The investigation also addresses the effects of reduced physical activity, microgravity and an artificially controlled environment. Changes in body composition and body temperature, which also occur in microgravity, can affect crewmembers’ circadian rhythms as well. Understanding how these phenomena affect the biological clock will improve performance and health for future crewmembers. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Laptop RS1(2) & RSS2 reboot / r/g 1009
+SM Caution and Warning Panel test
+MSG – glovebox activation
+SKIN B – nominal ops
+CRHYT- uninstall and hw cleanup
+Weekly crew-ГОГУ management conference (S-band) / r/g 6650
+Closing US window shutter
+Rodent Research- Preparation
+Activating Vozdukh – mode 2
+ASEPTIK. Installing thermostatic freezer Gryogem-03 / r/g 6695
+VIZIR. Experiment run Tagup / r/g 6693
+KASKAD. Activation of ТБУ-В №04 thermostat at + 4 deg С / r/g 6694
+·Daytime crew sleep
+ТК 714 ODF ops
+MSG – unpower glovebox
+MSPR-ZEBRA. Rack prep and activation
+Activating gas analyzer in ТК 713 (MRM1)
+Post-arrival crew cabins outfitting
+RR- hw prep and transfer
+RR- sample insertion into MELFI
+NANO- Module-24 and Module-31 hw prep
+CMS2- sample removal from MELFI & attachment in locations
+Closing windows 6,8,9,12,13,14 covers / r/g 5451
+RGN-REC TK – transfer and replacement
+Comm config and other prep for ТК 714 docking to MRM2 `/ r/g 6706 & 6707
+Activation of video monitoring and  mpeg2 multicast / r/g 6701
+CMS2- inserting sample packs into MELFI
+ZEBRA- water replacement in module
+Monitoring ТК 714 approach to ISS (MRM2)) r/g 6707
+CMS2- sample prep
+WRS – filling container for processing from EDV
+Switching КВД СО-ТК to ЭЛЕКТ УПР
+Closing applications and downlinking mpeg2 multicast recording via ОСА / r/g 6701
+RR- installing samples in Glacier
+Leak check of ТК 714 – MRM2 interface.
+Drying 2 suits
+Post-docking ТК 714 – returning comm to nominal comm config / r/g 6706
+HMS – food questionnaire
+WRS – filling container for processing from EDV
+Opening Soyuz – MRM2 transfer hatches; TV broadcast Arrival of ISS-41
+Space suit #s 1, 2, & 3  drying in ТК 713 – start
+WRS – filling container for processing from EDV
+SHD- weekly headache questionnaire
+Safety breifing post-docking of ТК 714 to MRM2
+Connecting USB CEVIS to SSC
+RGN REC-TNK – removing pressure relief hose for nominal ops
+SHD-weekly headache questionnaire
+Gloves – pair 1, 2, & 3 –drying/ Orbital flight ТК №714
+Deactivation of ТК 714 (except ГА deactivation)
+Stowing Suits 1, 2, & 3 with gloves after drying /Orbital flight ТК №714
+
+Completed Task List Items
+
+None
+
+Ground Activities
+
+System commanding associated with Soyuz Rendevous and Docking [Completed] 
+

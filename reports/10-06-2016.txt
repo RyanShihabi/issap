@@ -1,0 +1,76 @@
+
+Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts): Following yesterday’s Dilution Measurements, today, the ISS CDR performed Day 2 of his Final Fluid Shifts collection.  With assistance from FE-6, the crew performed various collections and measurements including Optical Coherence Tomography (OCT), Distortion Product Otoacoustic Emissions (DPOAE), Tonometry, and Ultrasounds.  Today’s sessions concluded the CDR’s Fluid Shift activities, as the crew will not be performing Cerebral and Cochlear Fluid Pressure (CCFP) measurements or Chibis/Lower Body Negative Pressure (LBNP) measurements.  The CCFP measurement device was returned on SpaceX-9 for failure analysis, and due to the shortened 47S increment duration, it was determined that the LBNP would not be required.  Both instances of science loss were reviewed and accepted by the payload teams.  Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Marrow Blood Collection: FE-5, with the assistance of FE-6, performed the fourth and final blood collections in support of the Return minus 30 day (R-30d) requirement.  The samples were spun using the on-board refrigerated centrifuge then stored in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for return on a later flight.  The MARROW study (Bone Marrow Adipose Reaction: Red Or White?) (Marrow) investigation looks at the effect of microgravity on the bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow. The extent of this effect, and its recovery, are of interest to space research and healthcare providers on Earth.
+Multiomics Collections: FE-5 performed sampling in support of the JAXA MultiOmics experiment.  Various samples are collected and stowed in MELFI four times throughout the crew’s on-orbit duration in addition to a questionnaire and ingestion of fructooligosaccharide (FOS).  The objective of MultiOmics is to understand the gut ecosystem of astronauts in the space environment, especially focusing on the immune dysfunction, and to evaluate the impact of fructooligosaccharide (FOS). 
+Electrostatic Levitation Furnace (ELF) Troubleshooting: FE-5 performed an ELF Sample Holder exchange to troubleshoot the friction problems seen with previous Sample Holders.  The Electrostatic Levitation Furnace (ELF) is an experimental facility designed to levitate/melt/solidify materials by containerless processing techniques using the Electrostatic Levitation method. With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved. The ELF is located in the JEM Multipurpose Small Payload Rack (MSPR) in Kibo. 
+Microgravity Science Laboratory (MSL) Sample Cartridge Assembly (SCA) Exchange: FE-5 performed a sample exchange in the European Space Agency’s (ESA’s) MSL facility.  The crew installed the Batch-2b of the MSL SCA, which serves two projects investigating how different phases organize in a structure when metallic alloys are solidified. The crew observed a scratch on the liquid-metal ring, which allows for controlled cooling of the sample.  Ground controllers had the crew continue with the operations, and they will initiate the experiment run the week of 17 October.  The project Metastable Solidification of Composites (METCOMP) studies the phase formed by the reaction of the remaining liquid phase with an already formed solid, to form a second solid phase on cooling. For this purpose, Bronze (Copper-Tin Alloys) of different compositions will be processed. The other project, Solidification along a Eutectic path in Ternary Alloys (SETA), looks at how two phases that form together organize into lamellar, or fibre, structures when cooling Aluminum (Copper-Silver Alloys). Both projects will provide benchmark samples that will enable to test numerical models that aim to predict these structures.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Slosh Preparations: FE-6 continued charging batteries and review On-Board Training (OBT) materials in advance of tomorrow’s experiment run.  The crew conducted a conference with the SPHERES-Slosh team. The SPHERES-Slosh investigation examines the way liquids move inside containers in a microgravity environment. The phenomena and mechanics associated with such liquid movement are still not well understood and are very different than our common experiences with a cup of coffee on Earth. Rockets deliver satellites to space using liquid fuels as a power source, and this investigation plans to improve our understanding of how propellants within rockets behave in order to increase the safety and efficiency of future vehicle designs. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+CSA Generic Frozen Blood Collection
+CSA Generic Refrigerated Centrifuge Configure
+ENERGY Diet Log of Breakfast
+SPHERES Battery Swap
+CSA Generic Sample MELFI Insertion
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Activation 2
+Download of BRI log from RSS1
+Video Recording of Greetings
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) Hard Drive
+Health Maintenance System (HMS) Food Frequency Questionnaire (FFQ)
+FLUID SHIFTS. Ultrasound 2 Power On
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+FLUID SHIFTS. OCT Setup
+FLUID SHIFTS. Donning CardioLab Holter
+SPHERES Payload OBT
+FLUID SHIFTS. Baseline Ultrasound Scan
+SPHERES Battery Swap
+SPHERES Slosh OBT
+Fluid Shifts Ultrasound Baseline Scan
+Multi Omics Fecal Sample Operations
+Multi Omics Fecal Sample MELFI Insertion
+XF305 Camcorder Setup
+Electrostatic Levitation Furnace(ELF) Sample Holder Install
+ISS N2 Repress from Progress 432 [AO] СрПК Section 2 (start)
+Verification of Kit #1contents for Komparus
+Fluid Shifts OCT Baseline Exam – Operator
+FLUID SHIFTS. Assisted Test, Subject
+FLUID SHIFTS. OCT Equipment Stowage
+SPHERES Battery Swap
+ISS N2 Repress from Progress 432 [AO] СрПК Section 2 (end)
+SPHERES Crew Conference
+ENERGY Diet Log of Lunch
+FLUID SHIFTS. Distortion Product Otoacoustic Emission (DPOAE) Baseline Test, Subject
+Fluid Shifts Tonometry Baseline Setup
+MELFI Ice Brick Insert
+Fluid Shifts Tonometry Baseline Exam – Operator
+FLUID SHIFTS. Tonometer Test, Subject
+Material Science Laboratory SCA Exchange2B #3
+FLUID SHIFTS. Hardware Removal and Stowage
+FLUID SHIFTS. Tonometry Equipment Stowage
+СОЖ maintenance
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD
+Multi Omics Item Gathering
+European Modular Cultivation System Thermal Control System Sponge Replace
+SPHERES Battery Swap
+CSA Generic Frozen Blood Collection Conclude And Stow
+Urine Processor Assembly (UPA) Troubleshooting Gather
+Habitability Human Factors Post-Questionnaire PI Conference – Subject
+Inventory Management System (IMS) Conference
+ISS HAM Columbus Pass
+SPHERES Battery Swap
+Flight Director/ISS CREW CONFERENCE
+
+Completed Task List Items
+
+Node 1 Starboard Hatch Seal Cleaning
+Node 3 Port Feedthrough Hardware Located 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Battery 4B2 Reconditioning
+Lab MCA Zero Calibration
+

@@ -1,0 +1,96 @@
+
+Japanese Small Satellite Orbital Deployer 8 (J-SSOD#8):  Today the crew depressurized and vented the Japanese Experiment Module (JEM) Airlock in support of J-SSOD#8 operations this week.  The launch of small satellites from the J-SSOD#8 deployers is planned for Friday, May 11th.
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N): After retrieving the RaDI-N hardware from a Russian crewmember, a USOS crewmember deployed the eight Space Bubble Detectors in the US Laboratory module. This Canadian Space Agency (CSA) investigation measures neutron radiation levels in the ISS. Bubble detectors are designed to only detect neutrons and ignore all other radiation. 
+Electro-static Levitation Furnace (ELF):  The crew exchanged the sample holders and installed a new sample cartridge within ELF to prepare for upcoming ground commanded operations.  ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the electrostatic levitation method.  With this facility thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+At Home in Space:  The crew completed a questionnaire for the At Home in Space investigation. This Canadian Space Agency investigation assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home in Space also uses questionnaires to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth. 
+Extravehicular Activity (EVA) Preparations:  Today the crew reviewed the EVA Systems Briefing Package for the upcoming US EVA Pump Flow Control System (PFCS) relocate EVA currently planned on 16-May.  The briefing contains crew reminders, an emergency briefing, helpful tips, and specific procedures for the upcoming EVA; this information was reviewed, and crew questions addressed, during this afternoon’s Procedures Conference with EVA ground specialists.  After completion of this conference, the crew configured EVA tools per the briefing package and continued with Extravehicular Mobility Unit (EMU) Long Life Batteries (LLB) charging operations. 
+Space Station Remote Manipulator System (SSRMS) Operations: Last night Robotic Ground Controllers performed the data gathering for characterization of the SSRMS Latching End Effector A (LEE-A) Force-Moment Sensor (FMS), on both SSRMS string.  They performed first the Thermal Drift Filter Checkout and the Wrist Roll (WR) Compensation Checkout while unloaded on prime string. They next maneuvered SSRMS as required to unstow Special Purpose Dexterous Manipulator (SPDM) and performed the same data gathering while loaded with SPDM.  They then swap SSRMS string to redundant and performed Thermal Drift Filter Checkout and the Wrist Roll (WR) Compensation Checkout while SSRMS was loaded with SPDM and then unloaded after having stowed SPDM. Data will be reviewed and will help to decide if software configuration file update is required.  MSS performance was nominal. 
+This evening, Robotics Ground Controllers will begin operations to configure for the PFCS relocate EVA. They will power up the system, walk off the SSRMS to Mobile Base System (MBS) PDGF 3 and then unstow the Special Purpose Dexterous Manipulator (SPDM). They will then perform a Mobile Transporter (MT) pre-translation survey and MT checkout before translating to Worksite (WS)8. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Cell Biology Experiment Facility (CBEF) and Video Compression and Recording Unit 2 (VRU2) Cable Reconfiguration 2
+iPad Air 2 Charge
+FAZOPEREKHOD. Preparation steps and starting the experiment.
+Waste and Hygiene Compartment (WHC) configure to Internal
+Air Heater Fan (БВН) Screen Cleaning in Soyuz 737
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Charging EVA Camera D4 Battery
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+PROFILAKTIKA-2. Preparation for the experiment.
+СОЖ maintenance
+JEM Airlock Depressurization
+Glacier Desiccant Swap
+XF305 Camcorder Setup
+PROFILAKTIKA-2. Operator Assistance in Preparation for the Experiment
+Multi-purpose Small Payload Rack 2(MSPR2) Electrostatic Levitation Furnace (ELF) Water QD Connect
+Glacier Desiccant Swap
+Electrostatic Levitation Furnace(ELF) sample Cartridge Retrieval
+PROFILAKTIKA-2.  Experiment Ops on БД-2 Treadmill (Individual strategy test).
+Electrostatic Levitation Furnace(ELF) sample Cartridge Cleaning
+PROFILAKTIKA-2. Closeout Ops.
+EML Gas Valves Closing
+WRS High Flow Water Transfer Pump Inspection
+FAZOPEREKHOD. Closeout Ops.
+WRS High Flow Water Pump re-assembly
+FAZOPEREKHOD. Preparation steps and starting the experiment
+Photo TV EVA Go Pro Battery Charging
+R&R of EDV Transfer Hose
+PROFILAKTIKA-2. Hygiene Procedures
+At Home In Space Questionnaire
+URAGAN. Completion of Icarus PL Cable Installation. 
+Electrostatic Levitation Furnace(ELF) Sample Holder Exchange
+Remove and Replace Waste Hygiene Compartment (WHC) ЕДВ-Y
+MATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors
+Electrostatic Levitation Furnace(ELF) sample Cartridge Installation
+JEM Airlock Vent
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters to USOS
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure
+Veggie Ponds Plant Photo
+JEM Common Gas Support Equipment (CGSE) CO2 Gas Supply Stop
+Wastewater Storage Tank Assembly (WSTA) Fill
+URAGAN. Connecting Cables to Onboard Measurement System (СБИ). 
+Health Maintenance System (HMS) Profile of Mood States (POMS) Questionnaire
+JEM Airlock Vent Confirmation
+URAGAN. Completion of Icarus PL Cable Installation.
+Health Maintenance System (HMS) OCT Setup
+Extravehicular Activity (EVA) Procedure Review
+FAZOPEREKHOD. Closeout Ops.
+Health Maintenance System (HMS) – OCT Exam
+Health Maintenance System (HMS) OCT Stow
+Verification of ИП-1 Flow Sensor Position
+Delta file prep
+Photo/TV Camcorder Setup Verification
+Extravehicular Activity (EVA) Procedure Conference
+Restore setting of VCA1
+SSC-12 and SSC-16 Logout
+Water Transfer to ЕДВ from Progress 438 [AO] Rodnik H2O Tank 1 using compressor and tank bladder compression
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+PROFILAKTIKA-2. Training Session Using КОР-01-Н Set
+High Definition Video Camera Assembly 1 Activation in High Definition Mode
+Robotics On-board Trainer (ROBoT) Setup
+Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+Extravehicular Activity (EVA) Tool Configuring
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+High Definition Video Camera Assembly 1 Switch to SD Mode
+CONTENT. Experiment Ops
+Cleanup ops after water transfer to ЕДВ from Progress 438 [AO] Rodnik H2O Tank 1
+Soyuz 737 Samsung PC Charging (if charge level is below 80%)
+
+Completed Task List Activities
+
+JAXA report part 7 and 9
+AstroPi Wireless Dongle installation on AstroPi Vis 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Lab MCA Full Calibration
+JEMAL Depress
+MT Translation 
+

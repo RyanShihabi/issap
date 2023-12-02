@@ -1,0 +1,60 @@
+
+Bigelow Expandable Activity Module (BEAM):  The crew ingressed BEAM and replaced a 3.3 mm thick Radiation Environment Monitor (REM) shield that was installed onto a REM sensor on May 31, 2017 with a 10.0 mm thick shield that was also printed on the 3D printer onboard the ISS.  BEAM is an experimental expandable module attached to the ISS.  Expandable modules weigh less and take up less room on a rocket than a traditional module, while allowing additional space for living and working. They provide protection from solar and cosmic radiation, space debris, and other contaminants. Crews traveling to the moon, Mars, asteroids, or other destinations may be able to use them as habitable structures.
+NanoRacks Module-48:  The crew took photos for the NanoRacks Module-48 investigation for downlink to the ground.  NanoRacks Module-48 connects students on Earth to the space program by sending their photographs and messages to the ISS along with plant seeds that are germinated after being returned to Earth. The investigation increases awareness of humans’ ability to access space, spurring interest in the space program and encouraging students to pursue careers in science, technology, engineering and math. 
+Sprint Ultrasound 2:  For their Flight Day 60 Sprint Ultrasound 2 session, a crewmember, with support from an operator, configured Ultrasound 2, place reference marks on the calf and thigh of their right leg, don the thigh and calf guides, and perform thigh and calf scans with remote guidance from the Sprint ground team. Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume. The Sprint investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions.
+NanoRacks Module-70:  The crew removed the NanoRacks Module-70 sample inserted yesterday into the Nanoracks Platform-2 in the Japanese Experiment Module (JEM) and placed it into a General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER).  Module-70 is an educational research project designed to study the effects of radiation damage to synthetic DNA for gene regions that code for a human antibody. The experiment will make copies of the synthetic DNA samples at certain time-points during the mission using a technique called polymerase chain reaction (PCR). The DNA will be returned for study of strand break analysis. The experiment is from the Beijing Institute of Technology (BIT) School of Life Science in Beijing, China. 
+Fine Motor Skills (FMS): The crew completed a series of interactive tasks during a FMS session today. The FMS investigation studies how the fine motor skills are effected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of the investigation is to determine how fine motor performance in microgravity varies over the duration of six-month and year-long space missions; how fine motor performance on orbit compares with that of a closely matched participant on Earth; and how performance varies before and after gravitational transitions, including periods of early flight adaptation and very early/near immediate post-flight periods.
+Surface Sample Kit (SSK) Collection/Incubation: The crew completed this regularly scheduled maintenance to complete bacterial and fungal sampling. This activity is performed in all USOS modules, including BEAM. 
+SpaceX (SpX)-11 Cargo Operations: The crew has completed approximately 36 hours of cargo operations with approximately 17.5 hours of packing remaining. SpX-11 is scheduled to unberth on July 2nd, 2017.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Preparation of Reports for Roscosmos Web Site and Social Media
+URAGAN. Observation and Photography
+ECON-M. Observation and Photography
+Reminder 2 Fine Motor Skills
+Reminder Sprint Ultrasound
+Electronic Nose. Experiment Session
+Fine Motor Skills Experiment Test – Subject
+Surface Sample Kit (SSK) Collection/Incubation
+BEAM Node 3 Aft Unstow
+ARED Platform Partial Fold
+BEAM Ingress
+BEAM REM Shield 3 Install
+Surface Sample Kit (SSK) Collection/Incubation
+Microbial Air Sampler (MAS) Kit Sample Collection
+BEAM Cleanup and Egress
+ARED Platform Unfold Back to Nominal Position
+BEAM Node 3 Aft Stow
+Combustion Integrated Rack Upper Rack Doors Open
+Combustion Integrated Rack Manifold Bottle Replacement
+Combustion Integrated Rack Upper Rack Doors Close
+Recycle Tank Drain Part 1, 2, and 3
+NanoRacks Platform-2 Module-70 Removal
+NanoRacks Module-70 Glacier Insert
+RGN WSTA Fill
+Ultrasound 2 HRF Rack 1 Power On
+Ultrasound 2 Configuration System Settings Backup
+Sprint Ultrasound Operations – Subject
+Sprint Guide Donning Operator
+MAS Kit Sample Collection
+Unpacking of First Priority USOS Cargo Items from Progress 436 (SM Aft). IMS Update
+IMS Delta File Prep
+RGN WSTA Fill
+Replacement of Onboard ODF with ODF delivered by Progress 436
+Ultrasound 2 Guided Data Export
+Ultrasound 2 Hard Disk Clean
+WSTA Fill [Aborted]
+Cleaning of the Screen of the Fan Unit with Heater (БВН) in Soyuz 735
+Systems Operations Data File (SODF) Deploy
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Command and Data Handling(CDH) Bus Channel B Checkout
+MSS ROSA Science Operations 
+

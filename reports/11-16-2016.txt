@@ -1,0 +1,57 @@
+
+Human Research Facility (HRF) Software Upgrades: Today the crew initiated the second day of HRF software transitions.  Today’s upgrades will be to the HRF Personal Computer-3 (HRFPC-3).  Based on the compatibility issue observed during the HRF Rack 1 PC upgrade yesterday, ground teams were able to command to the HRF PC without needing to access the Rack Interface Controller (RIC). The new software loads will support new experiments and on-board capabilities.  Over the next two days, the HRF Rack 2 PC and HRFPC3 will be updated as well.  The HRF Racks provide an on-orbit laboratory that enables scientists conducting human life science research to evaluate the physiological, behavioral, and chemical changes induced by space flight. Research performed using the capabilities within the racks provide data to help scientists understand how the human body adapts to long-duration space flight. 
+Strata-1 Card Changeout: The crew completed a changeout of four Strata Secure Digital (SD) data cards and transferred photos to a Station Support Computer (SSC) for ground teams to downlink and distribute. Strata-1 investigates the properties and behavior of regolith on small, airless bodies. Regolith is the impact-shattered “soil” found on asteroids, comets, the Moon, and other airless worlds, but it is different from soil here on Earth in that it contains no living material. Strata-1’s goal is to give us answers about how regolith behaves and moves in microgravity, how easy or difficult it is to anchor a spacecraft in regolith, how it interacts with spacecraft and spacesuit materials, and other important properties. It is important to NASA to know how to set anchors in regolith, how to safely move and process large volumes of regolith, and predict and prevent risk to spacecraft and astronauts visiting these small bodies. Also, understanding the whole-body context of material returned to Earth from small asteroids, such as by the NASA OSIRIS-REx mission, the JAXA Hayabusa 1 and 2 missions, and the proposed NASA Asteroid Redirect Mission (ARM) is scientifically beneficial. 
+Cygnus Departure Preparations: Today, Robotics Ground Controllers maneuvered the Space Station Remote Manipulator System (SSRMS) and grappled Cygnus for release and departure scheduled for Monday, November 21st. The crew then performed an On Board Training (OBT) session to review release procedures.
+iPad Air 2 Deploy:  iPad Air 2 were deployed in the place of the current iPad 3s.  The iPad Air 2 will be used for everyday crew functions including viewing timelines, procedures and crew messages. These iPads have the ESA Everywear app and other crew preference apps including Microsoft Office Products (Word, Excel, PowerPoint). Two iPad 3s will remain onboard for several ongoing payload operations that are not able to update to the iPad Air 2s and one iPad 3 will continue to be used for the Wall Clock. 
+Oxygen Generation System (OGS) Hydrogen Orbital Replacement Unit (ORU) Quick Disconnect (QD) Inspection:  The crew accessed and inspected QD “DIW FROM RSA” on the OGS Hydrogen Dome. This QD was not able to be fully mated during last week’s Hydrogen ORU replacement and had to be secured with Kapton Tape. The QD was inspected for leaks as well as any movement out of position. No connections are demated or mated during this task. Crew reported no visible water in the rack or on or around the QD, and OGS was reactivated.
+Space Station Remote Manipulator System (SSRMS) Elbow Camera Failure: This morning, during operations to power SSRMS in preparation for grappling Cygnus, the tip elbow camera initialized with color bars. Multiple power cycle and reroute attempts have not been successful to recover the camera. This camera was providing clearance and alignment views which can be substituted with the SSRMS Base Elbow camera. Loss of the SSRMS Tip Elbow camera does not impact unberth and release operations for Cygnus. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+MORZE. Evaluation using SPRUT-2. Tagup with specialists
+FSL MPCC Laptop Powering On & Software Image Installation
+HRF1 PC 3 USB Load Installation Preparation
+Monitoring ИП-1 Air Flow Sensors
+ISS RS ППС-26, ППС-31 Plug-in Audit
+MORZE. Psycho-physiological Evaluation: Tsentrovka, SENSOR Tests
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Water Recovery System Waste Water Tank Drain Termination
+Meteor Hard Drive Swapout
+MORZE. Psycho-physiological Evaluation: SUPOS Test
+MORZE. Psycho-physiological Evaluation: Cattell’s Test
+OTKLIK. Hardware Monitoring
+СОЖ maintenance
+BIMS. Operator Assistance During the Experiment
+BIMS. Experiment Tagup with specialists
+Onboard Training (OBT) Robotics On-board Trainer (ROBoT) Setup
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+iPad Air 2 Deploy
+iPad 3 Move
+Video Recording of Greetings
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Release
+ISS RS System Power Panels ППС-26 and ППС-31 Plug-in Audit
+MORZE. Psycho-physiological Evaluation: Strelau Test
+On-board Training (OBT) Cygnus Review
+MORZE. Closeout Ops
+Soyuz 732 Samsung Tablet Recharge, Initiate
+Oxygen Generation System Hydrogen Orbital Replacement Unit Quick Disconnect Inspection
+INTERACTION-2 Experiment Ops
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Remove and Replace
+INTERACTION-2. Experiment Ops
+VEG-03 Plant Photo
+Soyuz 732 Samsung Tablet Recharge, Terminate
+Station Support Computer (SSC) 5 Reload Preparation
+Regenerative Environmental Control and Life Support System (RGN) Recycle Tank Fill
+CB/ISS CREW CONFERENCE
+HRF1 PC 3 USB Load Installation Conclude 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+SSRMS Cygnus Grapple
+JEMRMS Ground Control Handhold Exp Platform Sample View
+

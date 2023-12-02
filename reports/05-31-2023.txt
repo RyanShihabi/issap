@@ -1,0 +1,23 @@
+
+Payloads:
+ISS Ham: The crew participated in an ISS Ham pass with high school students hosted at the Mohammad Bin Rashid Space Centre (MBRSC), Dubai, UAE. In line with the UAE strategy to promote scientific research and support the STEM community, MBRSC’s educational programs aim to instill a culture based on discovery and exploration in future generations of all education levels. Since the earliest space station expeditions, ISS Ham Radio has allowed groups of students in schools, camps, museums, and planetariums to hold a conversation with the people living in space. As the ISS passes overhead, students have about nine minutes to ask crew members 10 to 20 questions.
+Space Health: The crew donned the Bio-Monitor Garment and Headband, and set up the data collection unit. This marks the start of the 48-hour Space Health experiment session. The Autonomous Health Monitoring for Adaption Assessment on Long Range Missions Using Big Data Analytic (Space Health) investigation utilizes the Bio-Monitor system for physiological monitoring before, during, and after an ISS mission to assess the effect of space travel on heart health. The Artemis analytical platform is used to provide automated analysis of the cardiovascular system in order to develop a near real-time assessment tool. The potential use of the Bio-Monitor system and the Artemis platform for future space missions is being evaluated.
+Systems:
+Japanese Experiment Module (JEM) Wireless Instrumentation System (WIS) Environmental Monitor Remote Sensor Unit (RSU) Battery Remove and Replace (R&R): Today, the crew removed and replaced two AA batteries in a JEM WIS Environmental Monitor RSU. WIS sensors are deployed across the interior and exterior of the ISS to measure structural loads and dynamics. This procedure was completed during the previous week for three other RSUs within the JEM WIS. 
+Extravehicular Activity (EVA) Mobility Unit (EMU) Cooling Loop Maintenance Scrub: The crew performed ionic and particulate filtration (scrubbing) and biocidal maintenance (iodination) of EMUs 3004 and 3013 as well as Airlock (A/L) cooling water loops. Conductivity readings and a water sample were taken from the cooling loop following the 70-minute scrub. Finally, crew terminated, deconfigured, and checked out the EMUs. After the EMU loop scrub, the crew performed an EMU Water Recharge and filled dry Liquid Cooling Ventilation Garments (LCVGs) with water from EMU water tanks. EMU loop scrubs are required preventative maintenance needed to remove any chemical and biological contaminants from the EMU cooling loop. The EMU is an independent anthropomorphic system that provides environmental protection, mobility, life support, and communications for the crewmember to perform an EVA in Earth orbit.
+EVA Preparation Activities: In preparation for the upcoming ISS Roll-Out Solar Array (IROSA) 1A and 1B EVAs, the crew completed an EVA Procedure Review and verified the Nitrogen quantity of the Simplified Aid for EVA Rescue (SAFER). The crew then reviewed robotics procedures in preparation for Space Station Remote Manipulator System (SSRMS) support and completed an On-board Training (OBT) EVA Robotics Onboard Trainer (ROBoT) Session. ROBoT was designed to provide ISS on-orbit real-time operator-in-the-loop training capability for the Mobile Servicing Station (MSS). IROSA is a modification to the existing Solar Array Wings (SAWs), providing additional power to the station.
+Emergency Equipment Return: Following the Axiom-2 (Ax-2) Private Astronaut Mission (PAM), the crew relocated Portable Breathing Apparatuses (PBAs), a Quick Don Mask Assembly from the Emergency Air Supply, and other emergency hardware stored in Cargo Transfer Bags (CTBs). The PBA provides breathable O2, eye/nose/mouth protection, and two-way communications to a crewmember during a fire, rapid depressurization, or toxic spill event.
+SpaceX-28 Dragon Vehicle Operations Computer Based Training (CBT): Today, the crew conducted an overview of the Dragon vehicle, mission profile, and docked phase. Next, the crew outlined Crew Dragon cargo capability and configuration, as well as describing the Cargo Dragon interior crew interfaces. SpaceX-28 Cargo Dragon is scheduled to launch to the ISS on Saturday, June 3rd, carrying the third pair of IROSA arrays.
+Completed Task List Activities:
+
+N/A
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+ECLSS Recycle Tank Drain/Fill Support
+OBT ROBoT Session Support
+MSS Walkoff Maneuver
+SPDM Relocate
+Crew Dragon System Checkout
+

@@ -1,0 +1,75 @@
+
+USOS Extra Vehicular Activity (EVA) #44: Today Randy Bresnik (as EV1) and Mark Vande Hei (as EV2) exited the airlock and successfully performed US EVA #44 with a Phased Elapsed Time (PET) of 6:55. The primary goal of today’s EVA was to remove the degraded Latching End Effector (LEE) A from the Space Station Robotic Manipulator System (SSRMS), replace it with the LEE that is currently located on the Payload/ORU Accommodation (POA), and install the degraded LEE onto the POA.  LEE-A had exhibited significantly increased resistance to latch deployment during recent robotics activities prompting today’s replacement. Today’s EVA brought the SSRMS back to full capability. 
+Fine Motor Skills (FMS): This morning, a 51S crewmember conducted a Flight Day 70 FMS session, which is executed on a touchscreen tablet, where the subject performs a series of interactive tasks. The investigation studies how fine motor skills are affected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of FMS is to answer how fine motor performance in microgravity trend/vary over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trend/vary before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods. 
+MagVector:  The crew completed the 14th experiment run of the MagVector investigation that began last week. The European Space Agency (ESA) MagVector investigation studies how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research not only helps improve future International Space Station experiments and electrical experiments, but it could offer insights into how magnetic fields influence electrical conductors in general, the backbone of our technology. 
+Biological Experiment Laboratory in Columbus (BioLab) Temperature Control Unit Cleaning and Silica Bag Exchange: The crew cleaned the Biolab TCUs and exchanged the silica gel bags for TCUs 1 and 2. The BioLab is a multiuser research facility located in the European Columbus laboratory. The facility is used to perform space biology experiments on microorganisms, cells, tissue cultures, small plants, and small invertebrates. BioLab allows scientists to gain a better understanding of the effects of microgravity and space radiation on biological organisms.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+ISS HAM Radio and Video Power Down
+EVA COTS UHF Communication Unit (CUCU)  Verify off
+USOS Extravehicular Activity (EVA) Communication Configuration
+USOS Window Shutter Close
+Extravehicular Activity (EVA) In-Suit Light Exercise (ISLE) Preparation
+Monitoring shutter closure on SM windows 6, 8, 9, 12, 13, 14
+RELAKSATSIYA.  Charging battery for Relaksatstiya experiment (initiate)
+Acoustic Dosimeter Setup Day 3
+Photography of EV hatch windows 1, 2 in MRM2 and DC1
+Fine Motor Skills Experiment Test – Subject
+UDOD. Experiment Ops with DYKNANIYE-1 and SPRUT-2 Sets
+Extravehicular Mobility Unit (EMU) Purge
+Extravehicular Mobility Unit (EMU) In-Suit Light Exercise (ISLE) Prebreathe
+USB Jumpdrive Return and PPS Reconfiguration
+Biolab TCU Cleaning and Silica Bag Exchange
+UDOD. Photography of the Experiment Session
+Crewlock Depress
+Flushing БКО for Condensate Water Recovery System [СРВ-К2М] and Elektron-VM Oxygen Supply system [СКО] / БКО (Water Purification Column Unit)
+Crewlock Post Depress
+Crewlock Egress
+Maintenance Activation of Spare Vozdukh Atmosphere Purification System Emergency Vacuum Valves [АВК СОА]
+СОЖ maintenance
+Degraded LEE (Latching End Effector) Removal
+RELAKSATSIYA. Parameter Settings Adjustment
+Food Consolidate
+NAPOR-mini RSA. Cleaning Onboard Memory Storage БЗУ-М vents
+Degraded LEE (Latching End Effector) Temporary Stow
+POA (Payload ORU Accommodation) LEE (Latching End Effector) Retrieval
+Soyuz 734 IRIDIUM phone charge, setup, start charge
+POA (Payload ORU Accommodation) LEE (Latching End Effector) Install on SSRMS
+Charging Soyuz 734 IRIDIUM Phone – Battery Status Check
+Soyuz 734 IRIDIUM Phone Charge, Terminate Charge
+CALCIUM. Experiment Session 6
+Soyuz 736 IRIDIUM Phone Charge, Initiate Charge
+Water Recovery System Waste Water Tank Drain Init
+Charging Soyuz 736 IRIDIUM Phone, Battery Status Check
+Soyuz 736 IRIDIUM Phone Charge, Terminate Charge, Teardown of the Setup
+Photo documenting LAB1S4 Active Rack Isolation System (ARIS) Snubber Assemblies and Snubber Cups
+Degraded LEE (Latching End Effector) Retrieve from Temporary Stowage
+Degraded LEE (Latching End Effector) Install on POA (Payload ORU Accommodation)
+Water Recovery System Waste Water Tank Drain Termination
+IMS Update
+INTERACTION-2. Experiment Ops
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Cleanup and Ingress
+Crewlock Ingress
+EVA Glove Photo Setup
+Crewlock Pre Repress
+Crewlock Repress
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Post Extravehicular Activity (EVA) Communication Deconfiguration
+EVA Glove Photo Downlink
+Extravehicular Activity (EVA) Camera Image Downlink
+Photo/TV Extravehicular Activity (EVA) GoPro Downlink
+Metal Oxide (METOX) Regeneration Initiation
+
+Completed Task List Activities
+
+Verify the correct Vacuum Cleaner Debris Bags are installed in each Wet/Dry Vacuum Cleaner. [Evening GMT 277]
+Remove and replace the Solid Waste Container 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+EVA support.
+

@@ -1,0 +1,20 @@
+
+Payloads
+NRCSD-18 Install to Slide Table:  In preparation for the NanoRacks Cubesat Deployer – mission 18 (NRCSD-18) currently planned for later this month, the crew installed the appropriate hardware onto the JEM airlock slide table.  The NRCSD is a stackable, modular, ground loaded launch case.  Each NanoRacks CubeSat Deployer accommodates up to eight launch cases, which are assembled based on mission requirements. The NanoRacks CubeSat Deployer meets the growing demand to deploy CubeSat format satellites from the International Space Station for a variety of customers.  NRCSD-18 will be used to deploy 2 satellites, the Deformable Mirror (DeMi) and Technology Educational Satellite-10 (TechEdSat-10).
+Payload LapTop 4 (PLT4) power chain check:  As preparation for the Space Studio Kibo session currently planned for August, the crew performed a check of the PLT4 power chain.  The ground team later reported the power chain check was successful.  PLT4 will serve as the backup laptop for Space Studio Kibo.  The Space Frontier Studio KIBO is a broadcasting studio that is constructed and operated in the Japanese Experiment Module (JEM), also known as Kibo. The studio can livestream activities, interactive entertainment, and communication from space. The program can receive uplinked video and audio from a ground studio to Space Frontier Studio KIBO, and downlink video and audio from space to ground.
+Space Test Program-H5 (STP-H5) Innovative Coatings Experiment (ICE) photos:  The crew took several still camera photos of the ICE experiment from the Cupola and JEM Window locations.  These photos are used to document the current state of the ICE experiment once per quarter.  The harsh radiation and extreme temperatures of space can corrode the paint and coatings that protect spacecraft exteriors, potentially damaging a spacecraft’s hull.  Optical coatings are also important for robotic and human navigators, who would rely on specialized markings to capture or repair spacecraft.  The ICE experiment, one of thirteen on STP-H5, exposes a set of eight new and two reference coatings to the low Earth orbit environment. Visual and photographic observations are made periodically to evaluate the optical and color stability of each of the coatings relative to the reference standard.
+Systems
+Bigelow Expandable Activity Module (BEAM) Ingress: Today the crew ingressed BEAM to retrieve the spare Trace Contaminant Control System (TCCS) Charcoal Bed Assembly (CBA) within the module. The crew also removed trash from BEAM for disposal on HTV9. The available space in BEAM was backfilled with other hardware.
+In Flight Maintenance (IFM) Contingency Trace Contaminant Control System (TCCS) Charcoal Bed Installation:  The crew installed a spare TCCS Charcoal Bed to provide additional atmosphere scrubbing to further mitigate the benzene level within ISS. The installation required the crew to divert airflow from the LAB Forward Starboard Intermodule Ventilation (IMV) fan through the TCCS Charcoal Bed deployed at LAB1D1. Following the installation, the crew verified the Charcoal Bed outlet flow with Velocicalc readings.
+Temperature and Humidity Control (THC) Intermodule Ventilation (IMV) Flow Measurement:  As part of system health monitoring, the crew used a Velocicalc tool to measure the amount of airflow through selected ventilation inlets and outlets.  Today’s measurements were taken in Node 1, Node 2, Node 3, Airlock, Cupola, LAB, International Docking Adapter (IDA) Forward, and IDA Zenith.
+Completed Task List Activities:
+
+WHC KTO Replace
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Ground Support for IMV Flow Measurements
+MSS Ops to retrieve spare RPCM
+

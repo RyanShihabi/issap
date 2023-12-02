@@ -1,0 +1,71 @@
+
+Body Measures: On Saturday, a crewmember completed the Body Measures Flight Day 244 session with assistance from a trained operator. NASA is collecting in-flight anthropometric data to assess the impact of physical body shape and size changes on suit sizing.  Still and video imagery is captured and a tape measure is used to measure segmental length, height, depth, and circumference data for all body segments (chest, waist, hip, arms, legs, etc.) from astronauts before, during and after their flight missions. 
+Magnetic 3 Dimensional (Mag 3D) Cell Culturing:  With assistance from the Payload Developer, on Saturday the crew used a microscope and will use it again today to view Magnetic 3D Biocells.  Today they fixated the BioCells and inserted them into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  Cell cultures in space spontaneously grow in three dimensions, which results in characteristics more representative of how cells grow and function in living organisms. But in microgravity, routine manipulation of cell cultures is challenging. This investigation uses magnetized cells and tools to make it easier to handle cells and cultures, and to improve the reproducibility of experiments. This approach also makes it possible to generate two-dimensional cultures as controls, and to determine whether biological events in these monolayer cultures result from gravity or substrate attachment. 
+Human Research Program (HRP): A crewmember collected Flight Day 240 blood and urine samples over the weekend and today for Biochem Profile, Repository and Cardio Ox investigations.  An ultrasound was also performed today for Cardio Ox.
+
+The Biochem Profile experiment tests blood and urine samples obtained from astronauts before, during and after spaceflight.  Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank that is used to maintain biological specimens over extended periods of time under controlled conditions. This archive of bio samples will be used as a resource for future spaceflight related research.
+By collecting Cardio Ox ultrasound and ECG data, along with blood and urine samples, scientists are trying to determine whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis in astronauts.
+
+ISS Safety Video Survey:  The crew recorded video of the interior volume of the ISS to allow ground teams to assess the current vehicle configuration and identify any safety concern. This survey is performed approximately every 6 months to identify ventilation blockage, flammability hazards, verify emergency egress paths, and confirm access to fire ports and safety equipment. 
+Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS) Clicking Noise: Over the weekend the crew reported a clicking noise coming from the CEVIS.  In 2011, crew reported a similar clicking noise from CEVIS that was determined to be a spring on a rod within the Inertial Vibration Isolation System (IVIS) boxes that makes a clicking noise as it engages with the throw mass (used to stabilize CEVIS during exercise).  Further on-orbit troubleshooting indicated that CEVIS is providing expected workload and the clicking noise is intermittent and very likely the same issue that was seen in 2011. CEVIS is GO for exercise and the crew will monitor for any changes in operations.  There are no spare IVIS boxes on orbit, however there is a spare ready to be launched if needed.
+Minus Eighty Laboratory Freezer for ISS (MELFI) Electronics Unit (EU) Failure: Today the Brayton Motor of MELFI-1 in the Japanese Experiment Module (JEM) was powered down as part of a planned activity to power MELFI-1 from its auxiliary power feed for better power balance during the upcoming high beta angle period. When attempts were made to bring the Brayton Motor back up, the commands failed. A retry was attempted along with a power cycle of the rack with no success. The EU was determined to be failed so the crew performed an R&R with no impacts to the science samples in MELFI.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Electrostatic Levitation Furnace (ELF) Gas Bottle Unit (GBU) Valve Close
+Pressurization of Elektron-VM Liquid Unit before Activation
+ECLSS Recycle Tank Leak Check
+HRF Generic Refrigerated Centrifuge Spin Conclude
+HRF Generic Sample MELFI Insertion
+ЭА025М А56 replacement in ЗУ2Б by СЗУ-ЦУ unit in FGB
+ARED Maintenance from last inspection
+HRF Generic Frozen Blood Collection Conclude Stow
+Ultrasound 2 HRF Rack 1 Power On
+Cardio Ox Ultrasound Preparation
+Cardio Ox Ultrasound Scan – Subject
+Cardio Ox Historical Documentation Photography
+Cardio Ox Ultrasound Scan – Operator
+Cardio Ox CDL Holter Arterial BP Measurement – Subject
+Cardio Ox CDL Holter Arterial BP Hardware Doff – Subject
+Transfer of brine from USOS and urine from ЕДВ-У to 66P (DC1) Rodnik Water Tank 2
+HRF Generic Urine Collection Stow
+TOCA Water Recovery System (WRS) Sample Analysis
+USOS Window Shutter Close
+Magnetic 3D Cultures MELFI Sample Retrieve
+Check that Window Shutters 6, 8, 9, 12, 13, 14 are closed
+Magnetic 3D Cultures Microscope Operations
+Temperature and Humidity Control (THC) Common Cabin Air Assembly (CCAA) Swap
+N2 Refill of 66P (DC1) СрПК Section 2
+External Wireless Communication (EWC) Nadir Antenna Connection
+Magnetic 3D Cultures Biocells Fixation
+MPEG-2 TV Downlink Test via KU-band prior to Soyuz 736 Docking
+FAGEN. Fixation of samples from [MCK] No.4 and setup in SM. Photography. ТБУ-В Thermostat No.4 deactivation
+Waste & Hygiene Compartment (WHC) Water Container (ЕДВ) Remove and Replace
+Magnetic 3D Cultures MELFI Sample Insertion
+Photo/TV Additional Camcorder Setup
+Telescience Resource Kit Laptop Setup
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Video Survey of the ISS
+Health Maintenance System (HMS) Vision Test
+Health Maintenance System (HMS) Vision Questionnaire
+On MCC GO ELEKTRON purge after deactivation
+MELFI Ice Brick Insert
+
+Completed Task List Items
+
+51S Crew Arrival Prep [Completed GMT 196]
+ARED Follow-Up Maintenance from last inspection  [Completed GMT 197]
+Photographs of these FGB locations   [Completed GMT 197]
+Housekeeping Procedure Print   [Completed GMT 197]
+USB Jump drive Connect to SSC11  [Completed GMT 197]
+Relocating future SpaceX return hardware  [Completed GMT 197]
+Remove and Replace Waste Hygiene Compartment (WHC) ЕДВ-Y  [Completed GMT 198]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+BioCell Fixation support
+SPS Power up
+MCE VSEE Server Patch
+

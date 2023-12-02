@@ -1,0 +1,61 @@
+
+Crew Off Duty: Today was a half duty day and Monday will be a full off duty day for the USOS crew. This is to pay the crew back for performing Cygnus operations this weekend.
+ 
+Orbital 6 (OA-6): Kopra and Peake participated in a Cygnus rendezvous conference with ground teams to prepare for OA-6 capture tomorrow at 5:40AM CDT and berthing approximately 3 hours later.  Vehicle ingress and cargo transfer operations will occur on Sunday.
+ 
+Education Payloads Operations (EPO) – AstroPi File Transfer and De-installation: Peake copied files from the AstroPi Micro standard definition card to an SSC for downlink prior to deinstalling AstroPi in Node 2. AstroPi is composed of RaspberryPi B+, Sense HAT (Hardware Attached on Top) and a camera module. Raspberry Pi is a credit-card sized computer that enables students to explore computing and learn how to program. Two AstroPi are on board: AstroPi Vis, with visible light camera, and AstroPi IR, with an infrared camera. Both AstroPi programs were written by the winners of a student competition and collect data from sensors (i.e., inertial movement, barometric pressure, relative humidity and temperature) which will be shared with schools.
+ 
+Space Headaches: Peake completed his weekly Space Headaches questionnaire. Headaches can be a common complaint during spaceflight. The Space Headaches experiment will provide information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space.
+ 
+Habitability Human Factors Directed Observations: Peake completed a session of the Habitability experiment by uploading the iSHORT app. He recorded and submitted a walk-through video documenting observations of an area or activity providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the ISS. Observations can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+Emergency Hardware Familiarization: Kopra and the 46S crew reviewed locations of equipment and positions of valves used in emergencies in both Russian and US segments. The crew conferred with ground teams at Mission Control Center (MCC) – Houston, MCC-Moscow, Columbus Control Center and JAXA Control Center during the review. They also practiced donning and purging emergency masks and demonstrated ability to communicate with the ground while wearing the masks.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+ISS crew and ГОГУ (RSA Flight Control Team) weekly conference r/g 1725
+IMS Tagup (S-band)
+Removing two TV cameras СА1,2 and light units СГ2-14В from Soyuz 720 [CA]  (TV Cameras (2) to stowage in Soyuz 719 [БО] for return, light units – to Soyuz 720 [БО] for disposal)
+On MCC Go: ТА251М (ЛКТ4В2) Remove & Replace in SM r/g 1753
+PILOT-T. Preparation for the experiment r/g 1760
+EPO-ASTROPI – File Transfer
+EPO-ASTROPI – Hardware Removal
+PILOT-T. Experiment Ops. r/g 1760
+Crew time for ISS adaptation and orientation
+PILOT-T. Experiment Ops.  r/g 1761
+Crew time for ISS adaptation and orientation
+HABIT – Walkthrough Video
+Gathering  Centerline Berthing Camera System (CBCS) and Vestibule Outfitting Kit Equipment
+Cygnus Cargo Operations Review
+Review of Cygnus Capture Day Key Reminders
+PILOT-T. Closeout Ops r/g 1761
+VIZIR. Infrared Coordinate Reference System [СКП-И] service application file downlink r/g 1759
+Cygnus – Docking Conference.
+ISS Emergency Hardware Familiarization OBT
+СОЖ Maintenance
+Ghost Camera Setup
+Centerline Berthing Camera System (CBCS) Installation and Checkout
+Progress 429 (Aft) stowage for disposal and IMS Ops / r/g 1484, 1682
+SHD – Weekly Questionnaire
+Emergency Mask OBT
+CALCIUM. Experiment Session 3 r/g 1758
+Closure of SM window shutters 6,8,9,12,13,14 / r/g 6965
+IMS Delta File Prep
+Cygnus – Cargo Operations Tagup
+Crew time for ISS adaptation and orientation
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Cygnus PROX GPSR data monitoring
+Cygnus rendezvous conference
+Nominal ground commanding
+
+ 

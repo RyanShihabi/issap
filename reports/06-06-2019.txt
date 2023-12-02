@@ -1,0 +1,145 @@
+
+Fluidics: As a continuation of the Fluidics session which began on Wednesday, the crew performed 3 additional experiment runs (2A, 2B, 3). The measurement of liquid displacement within a sphere in microgravity relates to a given kinematic representation of a spacecraft’s fuel tank. This investigation evaluates the Center of Mass (CoM) position regarding a temperature gradient on a representation of a fuel tank. The observation of capillary wave turbulence on the surface of a fluid layer in a low-gravity environment can provide insights into measuring the existing volume in a sphere. 
+Fiber Optic Production (FOP):  As a continuation of the troubleshooting for the FOP system, the crew inspected and cleaned 3 of the ZBLAN preforms, attached new Teflon tails and inserted one of them into the FOP for a processing attempt.  The preforms are cylinders of ZBLAN stock material from which the fiber is drawn after heating. FOP is designed to create optical fibers with high commercial value aboard the ISS using a blend of zirconium, barium, lanthanum, sodium, and aluminum called ZBLAN (ZrF4-BaF2-LaF3-AlF3-NaF). It operates within the Microgravity Science Glovebox (MSG). Extensive theoretical studies along with a limited number of experimental studies suggest that ZBLAN optical fibers produced in microgravity should exhibit far superior qualities to those produced on Earth. The resulting optical fiber from Fiber Optic Production is expected to help verify these studies and guide further engineering efforts to manufacture high value optical fiber in large volume aboard the ISS.
+HELIOS (Hardened Extremely Long-life Information in Optical Storage):  As part of the Bigelow Expandable Activity Module (BEAM) ingress today, the HELIOS hardware was transferred to the BEAM and stowed. HELIOS tests whether a data storage medium is resistant to space radiation. It contains samples of the media, which is applied to a glass substrate, and stowed in this location for approximately 6 months. On Earth, the atmosphere protects humans and electronics from radiation that, in space, can damage electronics, including memory devices such as hard drives and memory disks. This technology, similar to that used in early photography, could replace conventional solid state memory for recording critical data on spacecraft.
+ISS HAM Pass: Today the crew participated in an ISS HAM pass with Moriah Central School, Port Henry, NY USA. This is a K-12 public school with nearly 800 students and 50 teachers.  Some of the questions the students asked involved the purpose and value of the ISS, types of computers and operating systems used by the crew on ISS, favorite science experiment on ISS, and many more. ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+PBR (Photobioreactor): Following some past difficulties, which were corrected with a software update, today the crew filled the PBR hardware with medium and algae to begin the experiment. The life support systems that sustain astronauts in space are based on physicochemical processes. The Photobioreactor investigation aims at demonstrating that microalgae (i.e. biological processes) can be used together with existing systems to improve recycling of resources, creating a hybrid life support system. This hybrid approach could be helpful in future long-duration exploration missions, as it could reduce the amount of consumables required from Earth.
+Water Storage System (WSS) Assembly Part 2: In May, the crew installed shelf panels, ground straps, and rack internal power/data cables after rotating the Zero-G Stowage Rack (ZSR) shell at the LAB1D4 location. Rack rotation took longer than expected and several tasks had to be deferred. Today the crew completed the remaining tasks. WSS will add new capabilities to the existing Environmental Control and Life Support System. (ECLSS) Water Recovery and Management System (WRM) by providing an additional 75 liters of iodinated water storage as well as new methods of transporting water in the potable waterbus. 
+Bigelow Expandable Activity Module (BEAM) Hardware Transfer:  The crew gathered hardware from the Permanent Multipurpose Module (PMM) to be stored in BEAM. After a successful ingress of the module, they retrieved the failed T2 treadmill Remove and Replaced (R&Rd) last month for disposal on NG-11 and swapped various stowage to increase accessibility to key on-orbit spare hardware.  The crew also took surface and air samples of the BEAM module for environmental analysis and stowed the hardware removed from BEAM after egressing the module.
+In Flight Maintenance (IFM) Hatch Guide Installation: After the crew had ingressed BEAM, a Hatch Handle Guide Ring was installed onto the Node 3 Aft hatch.  Designed to prevent the Hatch Handle from being stowed incorrectly, this guide was developed to prevent the crew from inadvertently isolating themselves from their return vehicle.
+H-II Transfer Vehicle (HTV) 8 Proximity Communication System (PROX) Checkout: Today the crew configured the PROX system for an initial set of systems checkouts in preparation of the upcoming HTV 8 mission in September. HTV missions use the PROX system for communication between HTV and ISS. Crew commanding to HTV via PROX utilizes a Portable Computer System (PCS) version of the Hardware Command Panel (HCP).
+Completed Task List Activities:
+
+WHC KTO replace [Completed GMT 156]
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+BEAM support
+Payload support
+LAB AVU Checkout
+HTV Prox Checkout
+
+Look Ahead:
+Friday, 6/7 (GMT 158)
+Payloads:
+
+Actiwatch Spectrum
+Capillary Structures
+Veg-04A questionnaire and wick open
+PBR file download
+
+Systems:
+
+Crew off duty
+
+Saturday, 6/8 (GMT 159)
+Payloads:
+
+Capillary Structures
+Standard Measures
+Probiotics
+
+Systems:
+
+Crew off duty
+
+Sunday, 6/9 (GMT 160)
+Payloads:
+
+Food Acceptability
+Probiotics
+
+Systems:
+
+Crew off duty 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+ARED Platform Partial Fold
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Power Up
+JEM Airlock Press
+Obtaining extended diagnostic data from Wide-Band Communication System MDM2.
+Photo/TV N3/BEAM Camcorder Setup
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Unstow
+Bigelow Expandable Activity Module (BEAM) Ingress
+Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Gather
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+HRF Veg Veggie Questionnaire
+DAN. Experiment Session.
+Bigelow Expandable Activity Module (BEAM) Hardware Gather
+Acoustic Monitor Data Transfer and Stow
+JEM Airlock Leak Check
+Video setup for Water Storage System operations
+Water Storage System (WSS) Assembly – Part 2
+Bigelow Expandable Activity Module (BEAM) Corridor Clear
+ISS Experience Solid State Drive Changeout
+Bigelow Expandable Activity Module (BEAM) Hardware Stow
+Fluidics Run 2 preparation
+SM and Soyuz 741 TV System Test in Proximity Link mode with issuing Soyuz 741 control action.
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+Troubleshooting АБП-MRM1.
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation
+In Flight Maintenance (IFM) Hatch Guide Installation
+Configuration Setup for Charger [ЗУ-С]
+Environmental Health System (EHS) – Microbial Air Sampler (MAS) Kit Sample Collection
+On MCC GO Mating [ЗУ-С] telemetry connector of the charger.
+On MCC GO Setup of the first power battery 825М3
+Bigelow Expandable Activity Module (BEAM) Corridor Stow
+INTER-MAI-75. Moding HAM Radio Hardware to SSTV
+HRF Veg Veggie Questionnaire
+BEAM Cleanup and Egress
+Fluidics Run 2 execution
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Stow
+Comm Configuration from MRM1
+SEPARATION. Water distillation from urine using a new [СРВ-У-РС] control algorithm
+BEAM MAS/SSK Sample Stow
+Removal of PBR syringes from MELFI
+ARED Platform Unfold Back to Nominal Position
+Photobioreactor
+Photo/TV Node 3 Camcorder Deactivation
+HRF Veg Veggie Questionnaire
+HTV PROX Switch ON
+Capillary Structures Camera Check
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+Fluidics Run 3 execution
+Countermeasures System (CMS) Treadmill 2 (T2)  High Definition (HD)Video Survey
+Monitoring Condition of RS Hull Structural Element Surfaces Using МВП-2К Multipurpose Eddy Current Device МВП-2К
+SEPARATION. Water distillation from urine using a new [СРВ-У-РС] control algorithm
+INTER-MAI-75. Equipment deactivation and cleanup
+Oreo Service Pack (SP) Plan Review
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup [Aborted]
+INTERACTION-2. Experiment Ops
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Conclude
+Recorded Greeting Request
+Removal of PBR syringes from MELFI
+Oreo Service Pack (SP) Plan Review
+Photobioreactor
+Oreo Service Pack (SP) Plan Review
+Actiwatch Plus Evaluation Display Check
+ISS Experience Hardware Stow
+SEPARATION. Closeout ops and log-file downlink
+SEPARATION. Closeout ops and log-file downlink (Handover)
+Fluidics Closeout Activities
+ISS HAM Service Module Pass
+Fluidics Ending of data copy and T61p Laptop stowage
+PBR MELFI Insert
+Oreo Service Pack (SP) Plan Review
+Comm reconfig for nominal ops
+COLUMBUS Deck 2 restow
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+HTV PCS HCP Selfcheck (Side B)
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+HTV PCS HCP Selfcheck (Side A)
+PROFILAKTIKA-2. Equipment setup
+EXPRESS Rack ZBook Setup Start
+Inventory Management System (IMS) Conference
+(ACS) Oxygen Manual Valve Close
+HTV PROX Switch OFF
+EXPRESS Rack ZBook Setup Finish
+SSC OREO SP Conference
+
+ 
+ 

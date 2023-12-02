@@ -1,0 +1,23 @@
+
+Crew-5 Dock: SpaceX Crew Dragon Endeavor successfully docked to the ISS at 12:40 AM CT. The Endurance crew welcomed aboard NASA astronauts Stephen Bowen and Warren Hoburg, United Arab Emirates astronaut Sultan Alneyadi, and Roscosmos cosmonaut Andrey Fedyaev. The ISS crew complement has officially increased from 7 to 11.
+Payloads:
+Actiwatch-Plus: Arriving crewmembers donned the Actiwatch-Plus units. The Actiwatch-Plus is a waterproof, non-intrusive, sleep-wake activity monitor worn on the wrist of a crewmember and contains a miniature uniaxial accelerometer that produces a signal as the subject moves. The data is stored in non-volatile memory within the Actiwatch until they are downloaded for analysis.
+Mochii: Mochii was connected to the iPad in order to pump down the Mochii microscope. Mochii is a miniature scanning electron microscope (SEM) with spectroscopy to conduct real-time, on-site imaging and compositional measurements of particles on the ISS. Such particles can cause vehicle and equipment malfunctions and threaten crew health, but currently, samples must be returned to Earth for analysis, leaving crew and vehicle at risk. Mochii also provides a powerful new analysis platform to support novel microgravity science and engineering.
+Microgravity Science Glovebox (MSG): Audit 3 of 4 was completed. The MSG is a rack-level payload facility located in the LAB Module on the ISS. MSG provides resources such as power, data, video, heat rejection, vacuum, nitrogen and containment for investigations. The facility is well suited for handling hazardous materials when crew are present and is capable of accommodating both physical science and biological research payloads.
+NanoRacks CubeSat Deployer Mission -24 (NRCSD-24): The NanoRacks Triple Deployer was disassembled, the NanoRacks Doublewide CubeSat Deployer was prepared for return, and the two NanoRacks CubeSat Deployers were staged for the next NRCSD mission. NRCSD-24  Is an external deployer that is installed in the JEM airlock and robotically placed in the deploy configuration using the JEM RMS. NRCSD-24 will be deploying eight different satellites: DanteSat, which is a deorbiting drag sail study; TJREVERB, developed by Thomas Jefferson High school, will measure the strength of iridium signals; MARIO is a Macro-Fiber Composite Actuator experiment; NUTSat uses an ADS-B receiver to demonstrate and enhance commercial aviation safety technology; LORIS will provide detailed views of the Nova Scotia peninsula and its surrounding shorelines;  ORCASat will demonstrate technology to calibrate optical telescopes; SPORT will study the effects of space weather in the upper atmosphere and its effects on communication; PetitSat will study local plasma density enhancements and buoyancy waves in the 380-420 km altitude.
+Particle Vibration: The Particle Vibration Array was shaken inside the Cell Array Stowage Bag to prevent the particles located inside the fluid containers from sticking to the container walls. Thermovibrationally-driven Particle self-Assembly and Ordering mechanisms in Low grAvity (Particle Vibration) project aims to investigate the self-organization mechanisms of particles in fluids. The outcomes of the project have various implications in the science of materials (through development of novel manufacturing techniques) and astrophysics (by understanding the mechanisms responsible for the formation of asteroids and planets).
+Veg-05: The plants growing in the two Veggie facilities were inspected, watered as needed, and photographed. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System (Veg-05) investigation is the next step in efforts to address the need for a continuous fresh-food production system in space.
+Systems:
+ISS Safety Briefing: The crew reviewed the emergency situations plans and the locations of emergency equipment in the crew vehicles. The newly arrived crew studied the safety measures on-board ISS, the potential hazards, and the equipment needed for an emergency response.
+Advanced Resistive Exercise Device (ARED) Quarterly Maintenance: The ISS crew completed regularly scheduled maintenance on the ARED X-Rotation Dashpots and Main arm. The crew also added grease to the ARED Vibration Isolation System (VIS) Rails and Rollers, as well as the ARED Upper Stop catch plates and Rack Indicator catch mechanisms. This quarterly maintenance allows the ARED exercise device to keep operating nominally and verifying if any wear and tear exists on the hardware.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Node 3 CDRA Activation
+SDMS Activation
+Post Docking Configure for Docked Operations
+

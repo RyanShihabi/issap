@@ -1,0 +1,121 @@
+
+Fluid Dynamics in Space (FLUIDICS): Today a crewmember attempted to run the last two science sessions (2&3) however, an anomaly occurred with the science hardware during run #2. Run #3 was aborted from the timeline until further investigation by the ESA ground teams. The measurement of liquid displacement within a sphere in microgravity relates to a given kinematic representation of a spacecraft’s fuel tank. The FLUIDICS investigation evaluates the Center of Mass (CoM) position regarding a temperature gradient on a representation of a fuel tank. The observation of capillary wave turbulence on the surface of a fluid layer in a low-gravity environment can provide insights into measuring the existing volume in a sphere.
+POLAR: Today a crewmember installed the POLAR 3 and 4 units into the Japanese Module. Polar is a Cold Stowage managed facility that provides transport and storage of science samples at cryogenic temperatures (-80ºC) to and from the ISS.
+NG-10 Cygnus Departure Prep: Today the crew performed final egress and hatch closure of Cygnus S.S. John Young ahead of its planned un-berth and release on Friday GMT 039 at 16:10 (10:10 CT). Tomorrow the crew will be installing the Install SlingShot deployer and Ubiquitylink payload onto the Cygnus hatch prior to the final Node 1 Nadir close out activities later in the day.
+Mobile Servicing System (MSS):  Today, robotics ground controllers powered up the Mobile Servicing System (MSS) and maneuvered the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) to perform a survey of the Stratospheric Aerosol and Gas Experiment (SAGE) and Multiple User System for Earth Sensing Facility (MUSES) payloads. After the survey was completed, the SSRMS and SPDM were maneuvered to stow the SPDM on the Mobile Base System (MBS) Payload and Data Grapple Fixture (PDGF) #2. After the SSRMS released the SPDM, the SSRMS was maneuvered onto the Node2 PDGF. Finally, SSRMS released the MBS PDGF #4 and was maneuvered to grapple the Cygnus Power and Video Grapple Fixture (PVGF) in preparation for Cygnus un-berth and release this Friday.
+Common Communications for Visiting Vehicle (C2V2) Very High Data Rate (VHDR) Testing: Today teams began C2V2 testing that will be ongoing through Friday. The purpose of this testing is to help collect data concerning the Reed Solomon errors that occurred during NG-9 Cygnus mission. During today’s testing, both C2V2 receivers maintained signal lock where the errors occurred previously.
+Completed Task List Activities:
+
+Cygnus Cargo Operations
+IFM ISS Pin Kit Audit
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Cygnus Departure Prep
+
+Two-Day Look Ahead:  
+Thursday, 02/07
+Payloads:
+
+Lighting Effects log (NASA)
+Slingshot Installation (NASA)
+WORF laptop reconnect (NASA)
+
+Systems
+
+Cygnus Robotics Onboard Trainer (ROBoT) Release Session
+Node 1 Nadir CBM Control Panel Assembly (CPA) Installation
+Pressure Management Device (PMD) Equipment Setup and Power and Data connections
+
+Friday, 02/08
+Payloads:
+
+Lighting Effects log (NASA)
+Actiwatch data d/l (NASA)
+Meteor H/D Swap (NASA)
+MELFI 1-3 Icebrick insert (NASA)
+
+Systems
+
+Regenerative ECLSS Recycle Tank Drain and R&R
+Node 1 CBM de-mate and Cygnus Release
+SAFER Test Module Checkout
+
+Saturday, 02/08
+Payloads:
+
+
+ISS Experience Node 2 Astronaut Log (NASA)
+
+Systems:
+
+None
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Actiwatch Plus Evaluation Display Check
+Behavioral Core Measures Post-sleep Questionnaire
+COLUMBUS Deck 2 restow
+CSA Generic HRF Centrifuge Frozen Blood Collection Operator
+CSA Generic HRF Centrifuge Frozen Blood Collection 25 Minutes Subject
+CSA Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+CSA Generic HRF Centrifuge Frozen Blood Collection Configuration
+CSA Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+CSA Generic Sample MELFI Insertion
+Acrobatics in Space
+Record video of 1 orbit of Earth for CSA outreach
+Record video for CSA about physical activity in space
+Water in Space – Q&A
+Common Berthing Mechanism (CBM) Controller Panel Assembly (CPA) Rotation and Closeout
+Cygnus Egress
+Cygnus/Node 1 Vestibule Configuration for Demate – Part 1
+Environmental Health System (EHS) Coliform Water Processing
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Extravehicular Activity (EVA)  Training Review
+Fluidics Closeout Activities
+Fluidics Ending of data copy and T61p Laptop stowage
+Fluidics Run 2 preparation
+Fluidics Run 2 execution
+Fluidics Run 3 execution
+HRF Generic Sample MELFI Insertion
+HRF Generic Sample MELFI Insertion Operations
+HRF Generic Urine Collection Female
+HRF Generic Urine Collection Stow
+Delta file prep
+ISS Experience Message Review
+JEM Regenerative Heat Exchanger (RHX) Water Wipe
+JAXA Sample MELFI Insertion
+Lighting Effects Cognition Test 1 HRF PC 1
+Lighting Effects Cognition Test 2 HRF PC 1
+Lighting Effects Cognition Test 3 HRF PC 1
+Lighting Effects Sleep Log Entry Subject
+MELFI 3 Ice Brick Insert 2
+Microbial Monitoring System Data Transfer
+Microbial Monitoring System MWA Preperation
+MORNING PREPARATION WORK
+Gather Vestibule Outfitting Kit (VOK)
+NOD1D1 Restow
+Standard Measures Post-sleep Questionnaire
+WHC KTO REPLACE
+SCENARIY. Observation and photography using Photo Equipment
+Photographing of RS modules.
+CONTENT. Experiment Ops
+Hematocrit Test
+Hematocrit Hardware Stowage
+MATRYOSHKA-R. Monitoring Tritel P/L and data downlink.  Tagup with specialists as necessary
+Verification of ИП-1 Flow Sensor Position
+Replacement of CO2 Filter Unit ИК0501
+СОЖ maintenance
+ТГК 71P transfer operations
+Air Heater Fan (БВН) Screen Maintenance in Soyuz 741
+Diagnostics of FGB СУБК instruments 11М156М
+Preparation for replacing FGB Power Supply System Battery 800А (АБ5) module. Viewing video for R&R Ops
+Diagnostics of FGB Power Supply System Filter Units (БФ-2) and Main Bus Assembly (БСШ-2)
+
+ 

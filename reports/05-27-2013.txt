@@ -1,0 +1,58 @@
+
+New Status: 
+ISS as Testbed for Analog Research (ISTAR) Treadmill 2 (T2) 6-Month Maintenance: Flight Engineer (FE)-3 Cassidy successfully completed a regular maintenance on the T2. He cleaned closeout panels; inspected the treadmill motor carriage bolts, drive belt, treadmill mounting screws, tread belt slats and screws, damaged rack composite, and snubber cup liner; and vacuumed inside T2 rack space and filter screen.  The procedure was written as a one-time use procedure to be part of the ISTAR Exploration Detailed Test Objective (xDTO), and examines how mission operations can be optimized in the presence of speed-of-light communication delays of several minutes, similar to what would be experienced on exploration missions to Mars, near-Earth asteroids, or other targets in deep space.  The goal of the ISTAR T2 – 6-Month Maintenance procedure is to allow the crew to autonomously to execute the activity by giving them extra information needed to complete the procedure and solve any problems that may arise without having to call Mission Control Center-Houston (MCC-H).
+Treadmill with Vibration Isolation and Stabilization (TVIS) Disassembly: Following last week’s successful installation of the new Russian Treadmill (БД-2) the crew disassembled and stowed the removed TVIS for disposal in the Progress.
+EXpedite PRocessing of Experiments to Space Station (EXPRESS) Rack 1 Laptop Recovery and Software Load:Cassidy recovered the EXPRESS Rack 1 laptop by removing and reseating the hard drive.  He then attempted to reload the software to the hard drive, but was unsuccessful.  The crew replaced the hard drive with a spare and was able to successfully load the new software.  Following the reload the ground controllers were able to verify good communication with the payload Space Acceleration Measurement System (SAMS) Interim Control Unit (ICU).
+Today’s Planned Tasks
+· DPC (S-band) [Complete] 
+· Study of veins in lower limb [Complete]
+· Compression of Rodnik БB2 tank bladder of Progress #418 (DC1) [Complete] 
+· T2 – semiannual maintenance review within ISTAR framework [Complete] 
+· Compression of Rodnik БB2 tank bladder of Progress #418 (DC1) [Complete]
+· T2 – semiannual maintenance [Complete] 
+· Study of veins in lower limb [Complete]
+· ВКС laptops – antivirus base update / r/g 1930 [Complete]
+· T2 – preparing video for checkup and activation  [Complete]
+· СОЖ maintenance [Complete] 
+· T2 – Activation, checkout and physical exercise  [Complete] 
+· СЛС – activation of RSE-LCS laptop to begin data recording [Complete] 
+· Comm config to communicate from MRM2  [Complete] 
+· T2 – teardown, video of activation and checkup  [Complete] 
+· CONTROL HW prep for installation/ r/g 2445 [Complete] 
+· ISTAR review finish [Complete] 
+· WRS – water sample analysis [Complete] 
+· Compression of Rodnik  БВ2 tank bladder of Progress 418 closeout operations [Complete] 
+· CONTROL. БУ (control unit) installation and connection to СУБА and УС17. [Complete] 
+· Turn off МПИ before connecting HA “Indicator-ISS” to УС17  [Complete] 
+· EXPRS1. Laptop recovery [Complete] 
+· EXPRS8-ELC – sw loading [Complete] 
+· Transfer of IV-ТЕРС [Complete] 
+· Psych assessment (WinSCAT) [Complete] 
+· COULON CRYSTAL. Experiment run  [Complete] 
+· TOCA 2 – data recording [Complete] 
+· TVIS – retrieval from stowage location [Complete] 
+· Stow TVIS elements in temporary location in Progress #418 [Complete] 
+· TVIS – frame breakdown [Complete] 
+· COULON CRYSTAL. Data copying and downlink via РСПИ  [Complete] 
+· MRM2 – comm reconfig back to nominal  [Complete] 
+· SAMS- power up [Complete] 
+· “URISIS” hw prep  [Complete] 
+· CIR- setup [Complete] 
+· DPC (S-band) [Complete] 
+Task List
+· IMS Edit
+· WHC KTO Replace
+· WHC ЕДВ R&R
+· Preparation of reports for Roskosmos site / r/g 0484
+· РСПИ. Photo-Video Data Prep on RSS2 for Downlink via РСПИ / r/g 2003
+· URAGAN Observations and Photography / r/g 2422
+· ECON-M. Observations and Photography
+· BCAT C1 Sample A Premix  [Complete] 
+· Node 2 Spare Tools Audit
+· OCA Router T/D  [Complete] 
+· IMV Flow Measurements
+· XF305 Camcorder Deploy  [Complete] 
+· SPHERES Consolidate  [Complete] 
+
+Ground
+· Nominal Commanding

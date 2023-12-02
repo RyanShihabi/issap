@@ -1,0 +1,88 @@
+
+NanoRacks External Platform (NREP) Operations: The crew pressurized the Japanese Experiment Module Airlock (JEMAL), performed a leak check and extended the JEMAL Slide Table (ST) into the JEM Pressurized Module (JPM).  They then removed the Gumstix/Solar Cell payload and attached the NanoRacks-CID and Honeywell-Morehead-DM payloads to the NREP. The ST was then retracted with attached NREP back into the JEMAL and the hatch was closed. The JEMAL will be depressurized tomorrow and the JEMRMS will transfer the NREP to the JEM External Facility (JEM-EF) this Thursday.  NREP is the first external commercial research capability for testing of scientific investigations, sensors, and electronic components in space. Dependable Multiprocessor (DM) technology developed for NASA increases the amount of science and autonomy processing for space missions by flying clusters of high performance commercial off the shelf (COTS) processors in space.  Honeywell-Morehead-DM-7 includes a system-level radiation experiment to verify DM operation in a space environment.  Charge injection Devices (CIDs) read light exposure information in individual pixels.  The CID investigation evaluates a camera with image quality enhancements that can capture images of bright objects and extremely faint ones in the same field of view, such as stars and exoplanets. The investigation demonstrates that these cameras can work in the microgravity and high-radiation environment of space.
+Fluid Shifts Baseline Imagery:  49S and 50S subjects began this week’s Fluid Shifts baseline imagery activities today.  With support from ground teams, the crew performed an Optical Coherence Tomography (OCT) test, a Distortion Product Otoacoustic Emission (DPOAE) test, a Tonometry examination, took blood pressure measurements, and performed an Ultrasound 2 scan.  This is the second of three weeks of Fluid Shifts activities for the 49S and 50S subjects.  Fluid Shifts is a joint NASA-Russian experiment divided into Dilution Measurements, Baseline Imaging, and Baseline Imaging with Chibis (Lower Body Negative Pressure). The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronaut’s eyes.  Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and to prevention of eye damage.
+Dose Tracker: The crew completed a weekly medication tracking entry in the Dose Tracker application. Dose Tracker documents the medication usage of crewmembers before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The investigation is expected to provide anecdotal evidence of medication effectiveness during flight and any unusual side effects experienced. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics or pharmacodynamics is occurring during missions.
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N): After retrieving the RaDI-N hardware from the Russian crewmembers, the USOS crew deployed eight Space Bubble Detectors in Node 2 for the Radi-N2 experiment. The Canadian Space Agency’s RaDI-N investigation measures neutron radiation levels on the ISS. RaDI-N uses bubble detectors as neutron monitors which have been designed to detect neutrons while ignoring all other radiation.
+Main Bus Switching Unit (MBSU) 2 Loss of Communications (LOC): Overnight, MBSU 2 experienced a LOC.  The ground is unable to command or get data insight into the MBSU. The unit continues to pass power to the downstream power buses 2A/2B DC-DC Converter Units (DDCU)s. The next worst failure is an MBSU 2 loss of power which would result in the downstream DDCUs losing power. Five of the 7 DDCUs have parallel DDCUs that can be used to manage and provide power to the loads. The other 2 standalone DDCUs can be powered using available contingency jumpers. The signature is similar to the previous MBSU 1 LOC failure requiring it to be replaced. There are two spare MBSUs on orbit. Teams met to discuss a recovery plan via Robotic operations or an EVA.  
+Urine Processor Assembly (UPA) Status: The UPA was recovered yesterday, completing one process cycle.  There were some minor Distillation Assembly (DA) belt slippages at startup but not enough to result in a Low DA Centrifuge Speed (S4) shutdown. The next UPA process cycle is expected tomorrow.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Reminder 1 and 2 Fluid Shifts Baseline Imaging Measures
+Atmospheric Control System (ACS) Nitrogen Oxygen Recharge System (NORS) Oxygen Setup and Initiation. 
+IPAD ODF updates
+URAGAN. Observation and photography
+EKON-M. Observations and photography
+ISS Crew Orientation
+JEM Airlock Press
+Changeout of [СРВ-К2М] purification column assembly [БКО]
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Preventive maintenance of MRM2 АСП-О Hatch Sealing Mechanism and Soyuz 735 hatch
+EML Gas Valves Opening
+JEM Airlock Leak Check
+MATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ.
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+EML Sample Chamber Valve opening
+NanoRacks External Platform Slide Table Remove
+Fluid Shifts OCT Baseline Setup
+NanoRacks External Platform Hardware Swap
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters to USOS
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure
+Fluid Shifts Ultrasound 2 HRF Rack 1 Power On
+Fluid Shifts CDL Holter Arterial BP Hardware Don – Subject
+Fluid Shifts Ultrasound Baseline Scan – Subject
+NanoRacks External Platform Slide Table Assist Capture
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Fluid Shifts Ultrasound Baseline Scan – Operator
+Transfer Cygnus Cargo Operations
+Removal of GoPro cameras in Soyuz 735. Transfer of Video to Hard Drive. Flash card closeout ops. Recharging Batteries (6), initiate
+Cygnus Cargo Operations Conference
+24-hour ECG Recording (termination)
+Fluid Shifts CCFP Baseline Test – Subject
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+24-hour BP recording (terminate)
+Fluid Shifts OCT Baseline Exam – Operator
+Fluid Shifts OCT Baseline Exam – Subject
+Fluid Shifts DPOAE Baseline Test – Subject
+Fluid Shifts OCT Baseline Stow
+Verification of ИП-1 Flow Indicator Position
+EveryWear Biometric Patch setup for sleep assessment
+Fluid Shifts Tonometry Baseline Setup
+Fluid Shifts Tonometry Baseline Exam
+Fluid Shifts CDL Holter Arterial BP Hardware Doff Alternate
+Water Recovery and Management Condensate Pumping Initiation
+CONTENT. Experiment Ops
+Zero Boil-Off Tank Inspection
+Data Transmission Radio Link (RSPI) Clearing files from Onboard Memory Storage (БЗУ).
+CASKAD. Manual Mixing in Bioreactor
+PILOT-T. Preparation for the experiment
+Fluid Shifts Tonometry Baseline Stow
+ISS Crew Orientation
+Environmental Health System (EHS) Coliform Water Processing
+Water Recovery and Management Condensate Pumping Term
+PILOT-T. Experiment Ops
+Polar Samples to Cold Stowage – Transfer 2
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Health Maintenance System (HMS) ISS Medical Accessories Kit (IMAK) Unpack from OA-7
+Soyuz 735 HERO3 GoPro camera battery charge (6) termination and stowage
+Dose Tracker Data Entry Subject
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+PILOT-T. Closeout Ops
+CALCIUM. Experiment Session
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Meteor Hard Disk Drive and Antivirus Update
+Polar Desiccant Pack Swap
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+NREP Hardware Swap Support
+

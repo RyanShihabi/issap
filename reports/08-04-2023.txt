@@ -1,0 +1,20 @@
+
+Cygnus NG-19 Arrival: At 4:54 AM CT this morning, the crew successfully captured Cygnus NG-19 using the Space Station Remote Manipulator System (SSRMS). Cygnus was installed at the Node 1 Nadir port, and bolt loading was completed at 8:14 AM CT. The crew then performed leak checks and vestibule outfitting prior to ingress. After photographing the arrival cargo, the crew began cargo transfer operations, which will continue next week. Cygnus NG-19 delivered ~3750 kg of pressurized cargo to ISS consisting of science experiments, station hardware, and crew supplies. Cygnus NG-19 is currently planned to stay on ISS through October.
+Payloads:
+Analyzing Interferometer for Ambient Air-2 (ANITA-2): Two non-local air samples were gathered for analysis in the ANITA-2 system. These samples will be used to characterize the effects of the NG-19 arrival. ANITA-2 is a compact gas analyzer which can analyze and quantify 33 trace contaminants in the atmosphere aboard the ISS automatically. ANITA-2 can also detect the presence of unknown substances which can be evaluated on the ground at a later time. ANITA-2 serves as a technology demonstration supporting the preparation for human exploration missions beyond low-Earth orbit.
+BioFabrication Facility (BFF): The crew placed a fixative bag inside the BFF. Fixatives are a class of compounds used to preserve or stabilize biological samples for subsequent analysis. There are several different types of fixatives depending on the type of analysis being performed. Using 3D biological printers to produce usable human organs has long been a dream of scientists and doctors around the globe; however, printing the tiny, complex structures found inside human organs, such as capillary structures, has proven difficult to accomplish in Earth’s gravity environment. To overcome this challenge, Techshot designed their BFF experiment to print organ-like tissues in microgravity, acting as a steppingstone in a long-term plan to manufacture whole human organs in space using refined biological 3D printing techniques.
+Cardiobreath: A Cardiobreath science session was performed, which includes Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS) exercise while wearing the Bio-Monitor system. For efficiency, this Cardiobreath session was combined with a Space Health session since both experiments use the Bio-Monitor system. The Autonomous Health Monitoring for Adaption Assessment on Long Range Missions Using Big Data Analytic (Space Health) investigation utilizes the Bio-Monitor system for physiological monitoring before, during, and after an ISS mission to assess the effect of space travel on heart health. Causal Analysis of Cardiorespiratory Coupling on the ISS (Cardiobreath) studies the combined effects of cardiovascular and respiratory adaptations on blood pressure regulation during spaceflight.
+Immunity Assay: The crew processed various biological samples in support of the final day of the experiment session, which began on Monday. The Monitoring the Cellular Immunity by In Vitro Delayed Type Hypersensitivity (DTH) Assay on the ISS (Immunity Assay) investigation aims to monitor the impact of spaceflight stressors on cellular immune functions in a blood sample, with the help of a functional immune test.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SDMS Power Up
+Cygnus Capture/Berthing
+POA 60-Day Checkout
+SDMS Datadump
+Cygnus Reboost Prep
+

@@ -1,0 +1,57 @@
+
+ENERGY (Astronaut’s Energy Requirement for Long-Term Space Flight): Today, FE-5 continued with Day 2 of the 11 day ENERGY experiment. The second day activities include the consumption of a standardized breakfast, continued diet logging, continued wear of the Armband Activity Monitor, double labeled water intake, oxygen uptake measurements, and urine collection. FE-6, as the control subject, also provided a urine sample for the investigation. The Energy investigation measures an Astronaut’s Energy Requirements for Long-Term Space Flight, a crucial factor needed for sending the correct amount of the right types of food with space crews. Astronauts often lose body mass with extended stays in space for reasons that remain unclear, although increased exercise as a microgravity countermeasure may be a factor. Knowing details of astronaut metabolism and activity, combined with other conditions, will help ensure that crews are properly nourished on long missions.
+Hard to Wet Surfaces: In continuation of the Hard to Wet Surfaces investigation, today FE-6 inspected the Sample Module for any undissolved remains of the white tablets. The Hard to Wet Surfaces investigation studies how certain materials used in the pharmaceutical industry dissolve in water while in microgravity. Results from this investigation could help improve the design of tablets that dissolve in the body to deliver drugs, thereby improving drug design for medicines used in space and on Earth.
+NeuroMapping Operations: FE-6 setup the NeuroMapping hardware and performed the experiment which includes testing in both a “strapped in” and “free floating” body configuration. The NeuroMapping investigation studies whether long-duration spaceflight causes any changes to the brain, including brain structure and function, motor control, and multi-tasking abilities. It also measures how long it would take for the brain and body to recover from possible changes. Previous research and anecdotal evidence from astronauts suggests movement control and cognition can be affected in microgravity. The NeuroMapping investigation performs structural and functional magnetic resonance brain imaging (MRI and fMRI) to assess any changes that occur after spending months on the International Space Station.
+Extravehicular Activities (EVA) Pistol Grip Tool (PGT) Torque Analyzer Kit (TAK) Data Gather:  Today, FE-6 installed the TAK onto each of the PGTs and recorded their torque output for ground analysis.  This activity is part of a 6-month requirement for all on-orbit PGTs.
+Space Station Remote Manipulator System (SSRMS) Latching End Effector (LEE) Survey:  SSRMS was walked off from Mobile Base System (MBS) Power Data Grapple Fixture (PDGF) 3 to MBS PDGF 1 and inspection of LEE A was completed using the External High Definition Cameras (EHDCs).  Later this afternoon, SSRMS will be walked off to Node 2 for Cygnus capture preparations. 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+Personal CO2 Monitor Doff and Charge
+Soyuz 731 Descent Procedure Update
+Preparation of Reports for Roscosmos Web Site and Social Media
+EKON-M. Observations and photography
+Energy PFS Powerup
+Energy Urine Sample Collection
+Energy PFS Instrument Check
+ENERGY Double Labeled Water Intake
+Energy Oxygen Uptake
+Regenerative ECLSS Recycle Tank Drain
+Video Recording of Greetings
+Hard to Wet Sample Module Inspection
+MRM2 comm config to support the P/L Ops
+KULONOVSKIY KRISTALL. Experiment Ops
+MRM2 Comm Reconfig for Nominal Ops
+KULONOVSKIY KRISTALL. Hardware Teardown
+Measuring CO partial pressure at Central Post using CSA-CP analyzer (Located on SM Central Post panel 208)
+SEISMOPROGNOZ. Data export from БСПН Payload Server to RSS1 (start)
+Cleaning ПФ1, ПФ2 Dust Filters and В1, В2, Fan Screens in MRM2
+Energy Sample Collection
+Deconfig IWIS TAA, IWIS TAA Cable Assembly, IWIS Power Chain, Stow Remaining Hardware
+Verification of ИП-1 Flow Sensor Position
+Regenerative ECLSS WSTA Fill
+Space Headaches – Weekly Questionnaire
+СОЖ maintenance
+ENERGY Diet Log of Lunch
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Deactivation
+Energy PFS Conclude
+Personal CO2 Monitor Donn
+SEISMOPROGNOZ. Data export from БСПН Payload Server to RSS1 (end)
+Strata Status Check
+NeuroMapping Experiment Neurocognitive Test – Subject
+Tightening of Progress 432 [AO] QD Screw Clamps
+Extravehicular Activities (EVA) Pistol Grip Tool (PGT) Torque Analyzer Kit (TAK) Data Gather
+IMS Delta File Prep
+ENERGY Diet Log of Dinner
+Personal CO2 Monitor Power Cycle
+
+Completed Task List Items
+
+Node2 Dragon Unpack 
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+SSRMS Walkoff and LEE A Survey
+Lab CDRA Activation 
+

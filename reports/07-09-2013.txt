@@ -1,0 +1,103 @@
+
+New Status:
+USOS Extravehicular Activity (EVA) #22: Flight Engineer (FE)-3 Cassidy (EV-1) and FE-5 Parmitano (EV-2) completed a 6 hour 7 minute EVA with FE-6 Nyberg providing Space Station Remote Manipulator System (SSRMS) support. The following tasks were completed:
+
+Remove and replace the Space to Ground Transmitter Receiver Controller (SGTRC)-2
+Retrieve Materials International Space Station Experiment (MISSE)-8 Passive Experiment Container (PEC) and Optical Reflector Materials Experiment Ram/Wake (ORMatE)
+Install Starboard Radiator Grapple Bar (RGB)
+MLM Power Cable Routing
+Mobile Remote Servicer (MRS) Base System (MBS) Mast Camera Light and Pan Tilt Assembly (CLPA) Removal
+Install Port Radiator Grapple Bars
+Z1 Y-Bypass Jumper Install (Part 1, final portion on EVA 23 scheduled for July 16)
+PMA2 Cover Install
+
+The following Get Aheads were completed:
+
+AMS Photography
+Temp Stow PMA2 Cover Bag
+PDGF FOD Removal
+PDGF 1553 Cable Install
+
+Following ingress, the crew doffed their suits and configured them to dry out.  Parmitano taped the vent ports on the MISSE8 PEC to minimize oxygen exposure.  Tomorrow, Parmitano and Nyberg will finalize the packing of the PEC and ORMatE for return on a future flight.
+EVA Mobile Servicing System (MSS) Operations: Robotics Ground Controllers powered up the SSRMS video components in preparation for USOS EVA 22 support.  They also powered off the Mobile Base System (MBS) Video Distribution Unit (VDU) 2 in preparation for the removal of the failed MBS Mast Camera Light Pan Tilt Unit (PTU) Assembly (CLPA) during this EVA.  During the EVA, Nyberg maneuvered the SSRMS into position to allow Parmitano to install an Articulating Portable Foot Restraint (APFR) on Latching End Effector (LEE)-A and to ingress the APFR.  She then maneuvered the SSRMS to enable Parmitano to pick up the Starboard RGB from the MBS Payload and On-orbit Replaceable Unit (ORU) Accommodation (POA) and to carry it to the installation position on the S1 Truss Radiator.  Nyberg then maneuvered the SSRMS back to the MBS where Parmitano removed the failed MBS Mast CLPA.  Next she maneuvered Parmitano into position to grasp the Port RGB, commanded the MBS POA to release the RGB’s Latching Grapple Fixture (LGF) and maneuvered the SSRMS to enable Parmitano to carry the RGB to the installation position on the P1 Truss Radiator.  Nyberg then maneuvered the SSRMS to allow Parmitano to egress the APFR and remove it from LEE-A.  Finally Nyberg maneuvered the SSRMS to a park position.  The Robotics Ground Controllers then powered down the MSS.
+Water Processing Assembly Status: Water Processing Assembly Status: The WPA was recovered overnight using a ground procedure that raised the process pump speed during the first 20 minutes of the process cycle. The pump speed was too low, likely due to increased loading on the particulate filter Orbital Replacement Unit (ORU), which caused two separate faults last Friday and Saturday.
+Today’s Planned Tasks
+
+KHROMATOMASS. Experiment Setup / r/g 2840 [Complete]
+Laptop RS2(1) Reboot  [Complete]
+SM ПСС (Caution & Warning Panel) Test [Complete]
+RSS1, RSS2 Reboot / r/g 1009 [Complete]
+KHROMATOMASS. Saliva and Blood Collection / r/g 2840 [Complete]
+Ventilation System Reconfiguration [Complete]
+USOS Window Shutter Close [Complete]
+Activation of Video Hardware to monitor additional SSC in support of EVA Operations. [Complete]
+Ham Radio Deactivation [Complete]
+Camera Test prior to EVA [Complete]
+Camcorder Setup [Complete]
+Atmosphere Control and Supply (ACS) High Pressure Oxygen Bypass Configuration [Complete]
+US  EVA – CUCU Deactivation [Complete]
+EVA – In-Suit Light Exercise (ISLE) Preparation [Complete]
+Troubleshooting RSS2 Anomaly. r/g 2844 [Complete]
+Comm configuration for EVA from Airlock [Complete]
+KHROMATOMASS. Closeout Ops / r/g 2840 [Complete]
+RELAKSATSIYA. Hardware Setup and Parameter Adjustment / r/g 2842 [Complete]
+Checkout of ТКГ 418 Rodnik Tank 2 / r/g 2849 [Complete]
+SM Ventilation System Preventive Maintenance. Group C [Complete]
+EMU Prep for EVA [Complete]
+Prebreathe in EMU [Complete]
+RELAKSATSIYA. Observation of UV Storm Emissions. r/g 2842 [Complete]
+RELAKSATSIYA. Closeout Ops and Hardware Removal. / r/g 2842 [Complete]
+Prebreathe in EMU [Complete]
+IMS Delta File Prep [Complete]
+Crew Lock Depress [Complete]
+KULONOVSKIY KRISTALL. Experiment Ops / r/g 2841 [Complete]
+Post Depress and A/L Egress [Complete]
+EVA SSRMS Support [Complete]
+Crew Lock Egress [Complete]
+Filling (separation) of ЕДВ (КОВ) for Electron / r/g 2848 [Complete]
+Removal of MISSE8 Panel and P/L Container [Complete]
+SGTRC R&R [Complete]
+KULONOVSKIY KRISTALL. Copy and Downlink Data via РСПИ / r/g 2841 [Complete]
+СОЖ Maintenance [Complete]
+Starboard Radiator Grapple Bar Installation [Complete]
+Replacement of СРВК-2М Gas-Liquid Mixture Filter (ФГС)  r/g 2846 [Complete]
+BAR.  Experiment Ops / r/g 2847
+MLM EPS Cable Routing [Complete]
+MBS Mast CLPA Removal [Complete]
+Port Radiator Grapple Bar Installation [Complete]
+Z1 Bypass Jumper Installation [Complete]
+Bringing SSRMS to Initial Configuration [Complete]
+MATRYOSHKA-R. Photo of Dosimeter Deployment Location / r/g 2839 [Complete]
+Installation of Protective Cover on PMA2 [Complete]
+Crew Lock Ingress [Complete]
+RWS Powerdown in Cupola [Complete]
+Configuration for EMU Glove Photography [Complete]
+Crew Lock Pre-Repress [Complete]
+Crew Lock Repress [Complete]
+Post-EVA Activities [Complete]
+Return to nominal comm. configuration [Complete]
+Post-EVA Photo Camera Reconfig [Complete]
+Oxygen Supply System Reconfig to Initial [Complete]
+Daily Planning Conference (S-band) [Complete]
+MISSE8 – Reconfiguration [Complete]
+A/L Camera Deactivation [Complete]
+Deactivation of SSC Laptops used for EVA [Complete]
+Ventilation System Reconfig [Complete]
+USOS Window Shutter Close [Complete]
+Reaction Self-test [Complete]
+
+Task List
+
+EarthKAM Node2 battery swap [Complete]
+WHC KTO replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+BCAT C-1 Sample mix
+WRS hose label
+
+Ground
+
+
+Nominal Commanding
+

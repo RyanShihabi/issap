@@ -1,0 +1,111 @@
+
+Orbital-ATK 9 (OA-9) Launch: OA-9 launch from the Wallops Flight Facility is set for Monday 21-May at 08:39 GMT (3:39 CT).  OA-9 capture and berthing to the ISS continues to be planned Thursday 24-May.
+Exposed Experiment Handrail Attachment Mechanism (ExHAM) #2:  Today the crew attached new samples to the ExHAM#2, which is attached to the Japanese Experiment Module Airlock (JEMAL) Slide Table.  The Slide Table was returned to the Airlock and it was depressurized.  Tomorrow, ground controllers will use the JEM Remote Manipulator System (JEMRMS) Small Fine Arm to transfer ExHAM#2 from the Slide Table to the JEM Exposed Facility handrail. 
+Multi-Use Variable-G Platform (MVP): As part of the ongoing validation of the MVP, the crew installed adherent cell modules into the MVP.  MVP is used to conduct research in space with a wide variety of sample types, such as fruit flies, flatworms, plants, fish, cells, protein crystals and many others.  It includes internal carousels that simultaneously can produce up to 2 g of artificial gravity. Each carousel hosts 6 separate removable experiment modules on each carousel. Video and still imagery, including microscopy, can be included. The platform also provides temperature and humidity controls and monitors and records oxygen and carbon dioxide levels. 
+Bigelow Expandable Activity Module (BEAM): The crew ingressed the BEAM and collected surface and air samples for microbial analysis. They also recovered a BEAM Wireless Temperature System A sensor by replacing the battery pack.  BEAM is an experimental expandable module attached to the ISS.  Expandable modules weigh less and take up less room on a rocket than a traditional module, while providing additional space on-orbit for living and working. Crews traveling to the moon, Mars, asteroids, or other destinations may be able to use them as habitable structures. 
+NeuroMapping: A 53S crewmember set up the Neuromapping hardware today and performed his flight day 150 tests in “strapped in” and “free floating” body configurations. The NeuroMapping investigation studies whether long-duration spaceflight causes changes to brain structure and function, motor control, and multi-tasking abilities. It also measures how long it takes for the brain and body to recover from possible changes. Previous research and anecdotal evidence from astronauts suggests movement control and cognition can be affected in microgravity. The NeuroMapping investigation includes use of structural and functional magnetic resonance brain imaging (MRI and fMRI) to assess any changes that occur after spending months on the ISS. 
+Human Research Program (Biochemical Profile, Repository, Cell Free Epigenome and Medical Proteomics):  54S crewmembers collected blood and urine samples this morning for their flight day 60 sessions of the Biochem Profile, Repository, and Cell Free Epigenome investigations.
+
+The Biochemical Profile investigation tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results; which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. The repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+The JAXA Cell Free Epigenome investigation tests blood samples collected from astronauts and cellular genes are analyzed.  Blood carries molecular signals released from the cells inside the body. The analysis results provide insights to scientists on how human bodies function during space flight.
+
+Multi-Omics: Upon wakeup, a 54S crewmember collected a saliva sample and placed it into a MELFI and completed a questionnaire. The Multi-omics analysis of human microbial-metabolic cross-talk in the space ecosystem (Multi-Omics) investigation evaluates the impacts of space environment and prebiotics on astronauts’ immune function, by combining the data obtained from the measurements of changes in the gut microbiological composition, metabolites profiles, and the immune system. 
+Final Post-Extravehicular Activity (EVA) Hardware Checkout: Yesterday, ground controllers were able to repower the newly relocated spare Pump and Flow Control Subsystem (PFCS) that was installed out on the P6 truss long spacer after US EVA 50. Once powered, the team was able to establish communications the PFCS firmware controller and perform a precautionary firmware refresh. Today the ground performed a final checkout of the PFCS ensuring proper functionality of the ammonia Flow Control Valve (FCV).
+Joint Station LAN (JSL) Node 2 Router Port Reconfiguration: Today the crew performed an activity to reassign the US Lab and Node 2 Joint Station LAN (JSL) router ports to match the JSL v11.0 software configuration. As part of the activity, the crew re-cabled Ethernet cables behind the JSL interface panel and changed Lab JSL router power chain to connect the JSL router and firewalls to the same power source. 
+Mobile Servicing System (MSS) Operations: Overnight, robotics controllers completed relocation of the Pump Flow and Control Subsystem (PFCS) to the P6 long spacer and began the follow up tasks required to get the MSS ready for OA-9 capture on Thursday, May 24. The Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) were translated on the Mobile Transporter (MT) from Work Site (WS) 8 to WS 4 where the SPDM was stowed on the Mobile Base Station (MBS) #2 and the SSRMS was walked off to the Node 2 Power Data Grapple Fixture (PDGF). The Node 2 PDGF is the SSRMS base location used for capturing ISS visiting vehicles that are berthed to either the Node 2 or Node 1 Nadir CBMs. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Multi Omics Saliva Operations
+Multi Omics Saliva sample MELFI Insertion
+Multi Omics Saliva Stow
+HRF Generic Sample MELFI Insertion Operations
+Multi Omics Question
+HRF Generic Frozen Blood Collection
+HRF Generic Refrigerated Centrifuge Configuration
+HRF Generic Refrigerated Centrifuge Spin Conclude
+IMS Tagup
+HRF Generic Sample MELFI Insertion
+Periodic Health Status (PHS) Evaluation
+HRF JAXA Blood Sample MELFI Insertion
+HRF Generic Frozen Blood Collection Conclude And Stow
+PAO hardware setup. Video/Audio check.
+Crew Prep for PAO
+TV Conference with N. E. Bauman Moscow State Technical University (MGTU) Students
+Handhold Exp Platform #2 (HXP2) Item Gathering part 2.
+URAGAN. ICARUS PL ОВС-I Test No.2.
+MAS/SSK pre-gather
+JAXA Live Event Setup
+СОЖ maintenance
+JAXA Live Event in High Definition (HD) – JEM
+ARED Platform Partial Fold
+Photo/TV N3/BEAM Camcorder Setup
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Unstow
+JAXA Live Event Closeout
+UDOD. Experiment Ops with DYKNANIYE-1 and SPRUT-2 Sets. 
+JEM Airlock Slide Table (ST) Extension to JPM Side
+FAZOPEREKHOD. Preparation steps and starting the experiment.
+BEAM Ingress
+EXPRESS Rack 7 Locker Relocate
+XF305 Camcorder Setup
+Handhold Exp Platform #2 (HXP2) Sample Attachment 3
+Monitoring RS structural shell surfaces using Multipurpose Eddy Current Device МВП-2К.
+Crew Handover Conference
+Surface Sample Kit (SSK) Collection/Incubation
+Microbial Air Sampler (MAS) Kit Sample Collection
+Troubleshoot BEAM Wireless Temperature System (WTS) A sensors to attempt recovery of system functionality.
+Handhold Exp Platform #2 (HXP2) Item Closeout
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Crew plugs in a USB keyboard to SABL S/N 2 to troubleshoot the password issue on the SABL computer.
+JEM Airlock Depressurization
+BEAM Cleanup and Egress
+ISS Food Intake Tracker (ISS FIT)
+Multi-use Variable-g Platform Cell Module Insertion
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Stow
+Preparing to downlink data on monitoring structural element surface
+ARED Platform Unfold Back to Nominal Position
+FAZOPEREKHOD. Closeout Ops.
+Mouse Habitat Unit Cage Removal
+HRF Generic Urine Collection
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+NeuroMapping Experiment Neurocognitive Test – Subject
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+Collecting surface samples from FGB equipment and structures
+Joint Station Lan (JSL) LAB Router Port Reconfiguration
+Joint Station Lan (JSL) NOD2 Router Port Reconfiguration
+MELFI 1 Ice Brick Insert 2
+INTERACTION-2. Experiment Ops
+JEM Airlock Vent
+IMS Update
+JEM Airlock Vent Confirmation
+PROBOY. End of Copying.
+PROBOY. Acoustic Signal Converter Unit (БПАС) Power Off.
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+HRF Generic Urine Collection Urine Containment Bag Stow And Retrieval
+Joint Station LAN (JSL) Router Port Configuration Closeout
+N1 Nadir Hatch to Unlatch Hardstop
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Water Resource Management (WRM) Resupply Tank (RST) Pumping Init
+SABL3 Unit Relocate
+Inventory Management System (IMS) Conference
+Space Headaches – Weekly Questionnaire
+Water Resource Management (WRM) Resupply Tank (RST) Pumping Terminate
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation 
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+JEM A/L Support
+RWS Ground Cameral Calibration
+JSLV11 Router Reconfiguration.
+PFCS Checkout
+

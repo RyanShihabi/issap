@@ -1,0 +1,79 @@
+
+Japanese Experiment Module (JEM) Exposed Facility (EF) High Definition Television (HDTV) Camera Installation: Today, the crew installed the HDTV on the EFU Adapter which was then installed on the JEM Airlock Slide Table. The Slide Table was then retracted into the JEM Airlock, and the JEM Airlock was depressurized and leak checked in preparation for operations to install the HDTV Camera on the JEM EF later this week. This HDTV camera system delivered by HTV-6 will be used for earth observation from the ISS. 
+Vascular Echo Ultrasound: The crew successfully completed two ultrasound sessions scanning the neck, areas of the torso, and back of the knee, the in the crew’s morning then again in the afternoon, both while wearing electrocardiogram (ECG) electrodes.  In between the sessions, the crew wore leg cuffs. This Canadian Space Agency (CSA) investigation examines changes in blood vessels, and the heart, while the crew members are in space, and then follow their recovery on return to Earth. The results could provide insight into potential countermeasures to help maintain crew member health, and quality of life for everyone.
+Commercial Off the Shelf (COTS) Ultra-High Frequency (UHF) Communication Unit (CUCU) Software Update: Today, the crew updated the spare CUCU software to the latest version. This required the crew to demate cables from the prime CUCU and transfer them to the spare. Once connected, the spare CUCU was updated to the latest software version. The cables were transferred back to the prime CUCU, and the system was put back into a nominal configuration. 
+Moderate Temperature Loop (MTL) Internal Thermal Control System (ITCS) Switchover: Today the crew reconfigured the Airlock MTL plumbing from being connected to the Lab ITCS to Node 3 ITCS prior to Node 1 Galley Rack activation.  If cooling to the upcoming Node 1 Galley rack was activated while the Airlock is still plumbed to the Lab, inadequate cooling may be available for payloads being performed in the Lab. Therefore, the Airlock MTL reconfiguration to Node 3 was performed prior to the activation of Node 1 Galley Rack, which is planned later this week. During Galley Rack MTL jumper installation, the keying positions of jumper Quick Disconnects (QDs) did not fit the expected connection QDs. The mismatch in keying prevents the mating of the QDs. Crew has stood down from activity and left the ITCS QDs demated until a forward plan can be discussed.
+Lab Carbon Dioxide Removal Assembly (CDRA) Valve Troubleshooting: Lab CDRA Air Selector Valve (ASV) Remote Power Controller Module (RPCM) LAD62B-A Remote Power Controller (RPC) 12 has been experiencing seemingly random overcurrent trips since March 2014. On January 31, 2017 the crew installed a new troubleshooting cable that connected to RPC 5 and moved three of the valves to be powered through that cable, with a final configuration of 3 valves on RPC 12 and 3 on RPC 5. On February 6, the Lab CDRA RPCM LAD62B-A RPC 05 tripped indicating that one of the valves on that cable is suspect. Today the crew swapped the cable connection on ASV101 to RPC 12 to continue troubleshooting.  RPC 5 then tripped again. Crew then moved ASV103 to RPC 12 to further isolate the trip and RPC 5 tripped again indicating ASV102 as the likely cause of the trips. Ground teams will meet to discuss further troubleshooting before making any hardware changes.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+МО-11. Blood Sample Collection
+XF305 Camcorder Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+JEM Exposed Facility Hight Definition TV Camera Installation
+Payload Hardware CTB Cleanup
+Station Support Computer 2 Relocate
+Photo/TV Camcorder Setup Verification
+МО-11. Blood Biochemistry Analysis
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ
+SPHERES Battery Setup
+COL1O2 and COL1O3 Aft Backfill
+СОЖ maintenance
+PROFILAKTIKA-2. Photo/Video Ops
+Photo/TV Camcorder Setup Verification
+PROFILAKTIKA-2. Operator Assistance in Preparation for the Experiment
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+JEM Airlock Depressurization
+Ultrasound 2 HRF Rack 1 Power On
+Compound Specific Analyzer-Combustion Products (CSA-CP) Extended Maintenance
+Delta file prep
+Vascular Echo Leg Cuffs Ultrasound Scan 1 – Subject
+Photo/TV Camcorder Setup Verification
+PROFILAKTIKA-2. Close-out ops (Operator)
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Portable Computer System (PCS) Hard Drive (HD) Swap and Image
+Reminder Multi Omics FOS intake
+MERLIN2 Desiccant Swap
+Veggie Fan Alteration
+JEM Airlock Vent
+LDST Camera Setup
+Video of answers to the questions from ROSCOSMOS social network subscribers
+CUCU Video
+Payload NAS Photos
+COTS UHF Communication Unit (CUCU) Software Update Part 1
+JEM Airlock Vent Confirmation
+SPHERES Battery Swap
+Airlock Moderate Temperature Loop (MTL) Internal Thermal Control System (ITCS) Switchover
+Recharging Samsung tablet in 48S
+Video Recording of Greetings
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements.
+Multi Omics FOS Stow
+Multi Omics FOS Preparation
+Vascular Echo Leg Cuffs Ultrasound Scan 2 – Subject
+Vacuum Cleaning СКПФ1, СКПФ2 Dust Filter Cartridge and MRM1 Gas-Liquid Heat Exchanger (ГЖТ)
+Radi-N Detector Retrieval/Readout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors from USOS.
+COTS UHF Communication Unit (CUCU) Software Update
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements.
+Carbon Dioxide Removal Assembly (CDRA) Valve Power Cable (W1796) Post Installation Reconfiguration
+Recharging Samsung tablet in 48S – end
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Carbon Dioxide Removal Assembly (CDRA) Valve Power Cable (W1796) Post Installation Reconfiguration
+Rodent Research Crew Conference
+
+Completed Task List Items
+
+New Food Evaluation
+KTO Replacement
+Manufacturing Device Print Removal, Clean and Stow  
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+JEMAL Operations
+MSS Powerup and SPDM Diagnostics 
+

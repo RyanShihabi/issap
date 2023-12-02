@@ -1,0 +1,81 @@
+
+Lab Carbon Dioxide Removal Assembly (CDRA) Maintenance:  Yesterday the crew removed Lab CDRA from the rack, and disassemble it by removing all of the valves and ducting to access the beds. They also removed the old beds. Today, the crew installed the newer generation beds, like those in Node 3 CDRA, mated Hydraflow Couplings, and electrical connectors.  The crew is scheduled to reinstall the Lab CDRA on Thursday. 
+Japanese Experiment Module (JEM) Microbe Sensor Installation: The crew installed the JEM Microbe Sensor at the Deck 7 location in the JEM Pressurized Module (JPM). They connected the power cable to the JEM Power Supply-120 (PS-120) Junction Box, and connected the Ethernet Cable JEM Ethernet Hub. Microbe Sensor visualizes airborne microbe of JPM. The Microbe Sensor will monitor the JPM cabin environment real time, instead of sample collect and return to ground, which will allow quick feedback on the quality of the cabin environment. 
+JEM Local Area Network (LAN) Monitor Installation: Today, the crew installed three JEM LAN Monitors and connected the JEM LAN Monitor Pwr Cable, LAN Cables (one each) and two Universal Serial Bus (USB) Memories. The JEM LAN Monitor will serve as an ethernet packet capture device on the JEM PL LAN. This device will introduce new capabilities to monitor, analyze, troubleshoot network issues over the JEM PL LAN. Once the JEM LAN Monitor is installed, crew time for the troubleshooting is expected to be saved.
+JAXA Freezer-Refrigerator Of STirling cycle (FROST) 2 Installation: The crew installed the second FROST in the JEM Pressurized Module (JPM). FROST was delivered over two flights, SpaceX-10 and HTV-6 and will deliver conditioned stowage capability.  The next planned use of FROST2 is for the Moderate Temperature Protein Crystal Growth (MT PCG) experiment scheduled to fly on SpX-11. 
+Rodent Research (RR) Habitat Restock: The crew restocked the four habitats today.  The habitats were emptied, cleaned, and new food bars installed.  The rodents were then transferred back into the habitats and then secured the habitats back into their individual stowage locations. The Tissue Regeneration-Bone Defect (RR-4) investigation studies what prevents vertebrates such as rodents and humans from regrowing lost bone and tissue, and how the microgravity extraterrestrial condition impacts the process. Results could lead to tissue regeneration efforts in space and a better understanding of limitations of limb regrowth at wound sites. 
+Astronaut Energy Requirements for Long-Term Space Flight (Energy): The crew started Energy Day 0 today. The subject donned an armband monitor, set up the Pulmonary Function System (PFS) hardware, and started to eat a controlled diet. For this part of the investigation, additionally, a control subject participated as well, with both crewmembers collecting urine samples at approximately the same time over the next 11 days (Day 0 through Day 10).  Energy measures change in energy balance in crewmembers following long term space flight. Energy also measures adaptations in the components of total energy expenditure of crewmembers, so that an equation to determine the energy requirements of crewmembers during space flight may be derived. Such knowledge of energy requirements is of a great importance to ensure health, good performance and the overall success of a mission, and also contributes to ensure adequate exercise load and cargo allotments for food during space flight.
+Mobile Servicing System (MSS) Operations:  Last night the Robotics Ground Controllers translated the Mobile Transporter (MT) from Worksite 7 (WS7) to WS6.  The MSS was subsequently powered up and the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) were maneuvered to stow the SPDM on the Lab Power Data Grapple Fixture (PDGF).  The SSRMS was then walked off Mobile Base System (MBS) PDGF4 onto the Node 2 PDGF and the SSRMS was maneuvered to unstow the SPDM.  Finally SPDM Arm2 rotated the SPDM Enhanced Orbital Replacement Unit (ORU) Temporary Platform (EOTP) thus completing the MSS reconfiguration required for the start of the Stratospheric Aerosol and Gas Experiment (SAGE) Instrument Panel (IP) extraction from the SpX-10 Dragon Trunk on 02 Mar 17.  MSS performance was nominal.
+ISS Reboost:  Overnight the ISS is scheduled to perform a reboost using the SM main engines at 3:10 GMT (21:10 CST).  The purpose of the reboost is to set up the planned conditions for the upcoming landing of 48S on April 10th and launch of 50S on April 20th.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Photo/TV JEM MPEG Activation
+KONYUGATSIYA. Rekomb-K retrieval from Thermostat (+4C) and installation in Thermostat +29C.
+Fine Motor Skills Experiment Test – Subject
+БД-2 Treadmill Belt R&R (r/g review, hardware pre-gather).
+ISS HAM Service Module Pass
+Rodent Research Node 2 Camcorder Video Setup
+In-flight Maintenance (IFM) Carbon Dioxide Removal Assembly (CDRA) Bed Installation
+Soyuz 732 Samsung Tablet Recharge (if charge level is below 80%)
+KONJUGATSIYA. Activation, location in termostat on +29 degrees C
+PRODUTSENT. Removal from Thermostat ТБУ-В # 2 (+29 °С) and transfer to Thermostat ТБУ-В # 4 (+4°С)
+MICROVIR. Photography of Lower Cell Condition Кассеты-М # 2-3, 2-4. Closeout Ops
+Nikon Camera Time Sync
+Crew Medical Officer (CMO) Proficiency Training
+JEM Freezer-Refrigerator Of STirling cycle 2 (FROST2) Installation
+KONYUGATSIYA. Activation process termination, insertion in Thermostat (+29 °С).
+KONYUGATSIYA. Photography during deactivation.
+Crew Prep for PAO Event
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+BIOPLENKA. Removal of samples from thermostat, Fixation of Constanta No.1-4 cassette biofilm.
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Carbon Dioxide Removal Assembly (CDRA) Pin Kit Gather
+APEX-04 Petri Plate Photo
+Environmental Health System (EHS) – Rad Detector Relocate
+KONYUGATSIYA. Removal from Thermostat (+29 °С) and перенос в термостат (+4 °С).
+KONYUGATSIYA. ТБУ-В Thermostat No.2 deactivation
+JEM Microbe Sensor Installation
+TV-session with students of the City Pedagogical University of Moscow (Ku+S-band)
+Soyuz 732 Samsung Tablet Battery Recharge End (if needed)
+EDV (KOV) separation for ELEKTRON or EVD-SV Separate EDV(КОВ) №1201 (ФГБ1ПГО_1_108), using EDV №1239 (ФГБ1ПГО_1_109)
+Lab Carbon Dioxide Removal Assembly (CDRA) Component Group Install
+JEM LAN Monitor Installation
+СОЖ maintenance
+Preventive Maintenance of FS1 Laptop
+RS БРИ maintenance. Network standart mode checkout
+Fluid Shifts DPOAE Clean
+Safety Valve replacement in [УС] matching unit. Test separation of EDV.
+Armband Activity Monitor Setup
+Photo/TV JEM Mpeg Deactivation
+USOS Window Shutter Close
+Photo/TV JEM SSC Video Tear Down
+NAPOR-mini RSA. Cleaning Onboard Memory Storage БЗУ-М vents
+ENERGY Water Sample
+Testing comm between modules.
+Dose Tracker Data Entry Subject
+Energy PFS Setup
+ISS HAM Video Power Down
+Delta file prep
+Crew Medical Officer (CMO) Proficiency Training
+Closing Window Shutters # 6,8,9,12,13,14. Note 6
+ESA ACTIVE DOSIMETER MOBILE UNIT SWAP
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+ISS HAM Service Module Pass
+BIOPLENKA. Removal of samples from thermostat, Fixation of Constanta No.1-5 cassette biofilm. Tagup with specialists                
+
+Completed Task List Items
+
+KTO Replace
+Station Support Computer (SSC) Server 2 Power On
+Health Maintenance System (HMS) Automated External Defibrillator (AED) Swap and Checkout
+Health Maintenance System (HMS) Food Intake Tracker (FIT) Install
+CDM Battery install and deploy
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+1A3 Battery Capacity Test
+N3 MCA Full Calibration
+Reboost 
+

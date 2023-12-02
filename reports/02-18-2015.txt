@@ -1,0 +1,77 @@
+
+NanoRack Cubesat Deployer (NRCSD) Installation: Wilmore installed two sets of NRCSD-Quad units onto the Multipurpose Experiment Platform (MPEP) which is attached to the slide table in the JEM Airlock (JEMAL).  Video and electronic still photos of installation operations were downlinked.  The planned jettison of the16 cubesats are scheduled to begin 27 February.  
+Electro-Magnetic Levitator (EML):  Cristoforetti is continuing with tasks to support the on-orbit Functional Checkout Experiment (FCE) to better characterize the sample positioning capabilities of the facility’s electromagnetic field and to optimize the EML facility parameters settings in preparation of the EML science ops.  Today she changed the mode of the High Speed Camera to change the magnification factor, and configured gas valves.  She was unable to complete a software reload on the European Physiology Module (EPM) laptop which was scheduled later in the crew day due to complications encountered. Ground teams will be developing a forward plan and rescheduling the activity for another day.
+Extravehicular Activity (EVA) Preparation:  The crew continues to prepare for upcoming EVAs. Today, they utilized the Extravehicular Mobility Unit (EMU) Caution & Warning System (ECWS) Onboard Trainer to review related operations and practice EVA cuff checklist procedures.  They also assembled and operated the Virtual Reality Trainer to refamiliarize themselves with Simplified Aid for EVA Rescue (SAFER) operations.  In addition to training, they recharged and checked out EVA Battery Assembly (REBA) powered hardware, inspected SAFER units, and prepared EVA cameras.
+Urine Processing Assembly (UPA) Fault:  UPA experienced a high pressure transient fault yesterday afternoon.  Flight Controllers downlinked supplementary telemetry then restarted the system.  However, the system faulted out again soon after with the same anomalous signature.  The systems remains in standby mode while ground teams develop a forward plan.  This morning, the crew was instructed to reconfigure the Waste and Hygiene Compartment (WHC) to internal tank (EDV).
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+BIOME – Survey Completion
+Biochemical Urine Test
+HRF – Urine Sample Insertion Into MELFI
+Regeneration of БМП Ф2 Micropurification Cartridge (start)
+URISYS Hardware Stowage
+USND2 – Hardware Activation
+Kazbek Fit Check / МО Book 3 12 p. 12-1 (117)
+MORZE. Logging Liquid and Food (Medicine) Intake
+VIZIR. Experiment Ops. / r/g 8024
+Ultrasound 2 Scan
+ТКГ 425 and SM AO Interface Leak Check
+Ultrasound 2, Data Export
+XF305, Camcorder Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+BIOME, Sample Stowage
+CUBESAT – Hardware Installation
+ТКГ-СУ Hatch Opening
+ОН – Cardiac Scan (Subject)
+Installation of Quick Release Screw Clamps on SM (AO) Aft side after ТГК 425 Docking and Hatch Opening
+ТКГ 425 (АО) Air Sampling Using АК-1М sampler
+EML – Camcorder Config & Experiment Ops
+Ocular Health (OH) – Nominal Operations Assistance
+Photography of СтА docking probe trace on acquisition cone of DC1 passive assembly SM AO (Aft) after ТКГ 425 docking
+ТКГ 425 deactivation, air duct installation
+Verification of ИП-1 Flow Sensor Position
+Docking Cone Internal Surface Photo/Data Download to OCA
+ТКГ 425 docking mechanism disassembly, hatch tool installation on the front side of the hatch Starting Gas Supply to JEM
+Health Maintenance System (HMS) – Food Frequency Questionnaire
+WHC Fill
+JEM Airlock – Slide Table Retraction
+ТКГ 425 (SM Aft) Transfers and IMS Ops
+CASKAD. Preparation of Glovebox-S
+USND2 – Hardware Deactivation and Closeout
+Update of the EPM laptop software, Part 1 [Aborted]
+CASKAD. TBU-V No.02 Installation for the Experiment
+SAFER Training
+EVA – Enhanced Caution and Warning System (ECWS) On-Board Training
+24-hour BP Monitoring (end))
+Update of the EPM laptop software, Part 2 [Aborted]
+Photo Camera Configuration for USOS EVA
+SAFER Training
+MORZE. Logging Liquid and Food (Medicine) Intake
+CASKAD. Bioreactor Transfer from ТКГ
+REGENERATSIYA-1. Transfer and Deployment of Bio Samples on SM Panel 406
+CASKAD. Setup in TBU-V  No.04 at +4 deg С
+BIOPLENKA (BIOFILM). Hardware Transfer from ТКГ to SM and Setup in Thermostat at +4 deg C
+REGENERATSIYA-1. Photography at Setup Location
+CASKAD. Photography During the Insertion into Thermostat / r/g 8003
+Installation of REBA batteries
+REBA powered equipment test
+SAFER Test
+PAO Event
+EVA – Simplified Aid for EVA Rescue (SAFER) Latch Familiarization
+MORZE. Preparation Ops & Logging Liquid and Food (Medicine) Intake
+COGN – Experiment Ops [Deferred]
+БМП Ф2 Absorption Cartridge Regeneration (end)
+
+Completed Task List Items
+
+WHC KTO / Seat R&R 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Nominal Commanding
+Network Monitoring Software Deployment [Scheduled later this evening]
+

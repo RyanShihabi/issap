@@ -1,0 +1,19 @@
+
+SpaceX-22 Undock and Return: Cargo Dragon SpaceX-22 (SpX-22) undocked from the ISS today at 9:45 AM CT to return cargo and payloads to the ground concluding the 33-day mission aboard the ISS. SpX-22 will complete departure phasing through Friday evening, jettison the Trunk carrying the empty ISS Power Augmentation (IPA) for destructive re-entry, deorbit, and then splash down off the coast of Tallahassee, Florida at approximately 10:29 PM CT on Friday night.
+Payloads
+Cold Stowage Pack for Return: The crew transferred frozen samples, refrigerated samples, and Ice Bricks from Minus Eighty Laboratory Freezer for ISS (MELFI), Microgravity Experiment Research Locker Incubator II (MERLIN), and Iceberg into DCBs in preparation for SpX-22 descent. DCBs are passive resources that satisfy the specific temperature requirements of scientific samples and other temperature-sensitive payload items. DCBs are available on the ISS, during launch and return.
+JEM Small Satellite Orbital Deployer (J-SSOD): The crew unpacked and restowed the SSOD resupply desiccant which will manage humidity levels and help protect the solid lubricant on Deploy Case 1 while stowed. The J-SSOD provides a novel, safe, and small satellite launching capability to the ISS. The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites.
+Systems
+Cargo Dragon Departure Preparations: The crew completed several activities prior to SpX-22 undock. The crew loaded powered cargo and late-load science, inspected the vestibule Multi-Layer Insulation (MLI), performed hatch closures between SpX-22 and Node 2 Zenith, and depressurized the Node 2 Zenith vestibule. The crew then used Rendezvous and Proximity Operations Program (RPOP) software to monitor SpX-22 departure from the ISS.
+Air Avionics Assembly (AAA) Fan Dry Out Teardown: The crew de-configured the AAA fan dry out setup following the 24-hour dry out period and stowed the hardware. A functional test will be performed at a later date to verify the AAA’s capability as a functioning spare. These activities are in support of the recovery of the AAA that had previously been removed from the Water Recovery System (WRS) rack in May following the Water Processor Assembly (WPA) fault. 
+JEM Return Grille Cleaning: The crew removed return grille mesh covers and cleaned the inside of return grilles at various location in JEM as part of standard preventative maintenance.
+Completed Task List Activities:
+
+WHC KTO Replace
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SpX-22 Undock Commanding
+Thermal Amine Scrubber Deactivation
+

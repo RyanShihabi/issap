@@ -1,0 +1,91 @@
+
+Human Research Program (HRP) collections and operations: Over the weekend, the crew continued sample collections for Biochem Profile, Repository, and Cardio Ox investigations. This morning the Cardio Ox subject donned an Electrocardiogram (ECG) and with operator assistance performed ultrasound scans of the Brachial and Carotid arteries.
+
+The Biochem Profile experiment tests blood and urine samples obtained from astronauts before, during and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank that is used to maintain biological specimens over extended periods of time and under well-controlled conditions. This investigation archives biosamples for use as a resource for future space flight related research.
+Cardio Ox determines whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis in astronauts.
+
+At Home in Space: The crew answered the first of two At Home in Space questionnaires, the second to be scheduled at roughly Return-30 days (R-30).  The Canadian Space Agency (CSA) experiment, At Home in Space assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the space craft by creating a home in space. At Home In Space uses a questionnaire battery to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth.
+Galley Rack Mod Kit Utility Outlet Panel (UOP) Power Cable Routing: The crew routed the UOP Power Cable for the Galley Rack from the Node 1 (N1) Port Hatch location to the Galley Rack Utility Interface Panel (UIP). This is one of several mod kit procedures to install power, data, cooling, and general outfitting of the Galley Rack prior to the activation of the N1 Galley rack and associated relocation of the Potable Water Dispenser (PWD) and Microgravity Experiment Research Locker Incubators (MERLINs) from the Lab to Node 1.
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance: The crew completed EMU 3003 and 3008 cooling loop maintenance.  The maintenance included an ionic and particulate filtration (scrubbing) and biocidal maintenance (iodination) of both EMU suits and the Airlock cooling water loops. 
+On-Board Training (OBT) Robotics On-Board Trainer (ROBoT): The crew performed a training session during which they completed three HTV capture point hold runs.  During this training session the crew practiced free drift timing, malfunction responses, and nominal rate approaches. This activity is in preparation for HII Transfer Vehicle 6 (HTV-6) capture currently planned on 13-December. 
+Robotic External Leak Locator (RELL) Operations:  Over the weekend Robotics Ground Controllers powered up the Mobile Serving System (MSS) cameras and lights and maneuvered Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) Arm1 as required to perform a second RELL survey of Radiator Beam Valve Module 1 (RBVM1) to gather more data as RELL spotted ammonia in this area on GMT 336-337. The SSRMS and SPDM were than maneuvered to install RELL on the Japanese Experiment Module (JEM) Airlock Slide Table. After the Japanese Experiment Module Orbital Replaceable Unit Transfer Interface (JOTI) was closed on RELL, SPDM Orbital Replaceable Unit (ORU) Tool Changeout Mechanism 1 (OTCM1) released RELL.  MSS was maneuvered to park position, while JEM Slide table was retracted into the airlock with the RELL.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+ARED Software Familiarization
+Acoustic Dosimeter Setup Day 1
+Ultrasound 2 HRF Rack 1 Setup Power On
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+ARED Software Familiarization
+Cardio Ox Ultrasound Preparation
+EveryWear Biometric Patch charging
+Cardio Ox Ultrasound Operations
+Study Of Cardiac Bioelectric Activity At Rest
+PILOT-T. Photography during Experiment Ops
+СОЖ maintenance
+Cardio Ox CDL Holter Arterial BP Unit Battery Installation – Subject
+Cardio Ox CDL Holter Arterial BP Measurement – Subject
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Cardio Ox CDL Holter Arterial BP Hardware Doff – Subject
+At Home In Space Questionnaire
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+DAN. Experiment Ops. Tagup with specialists
+Galley Rack Mod Kit Utility Outlet Panel (UOP) Power Cable Routing
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+BAR. Experiment Ops
+Galley Utility Outlet Panel (UOP) Assist
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance
+Exercise data D/L via OCA
+БД-2 Log file D/L
+ПТАБ-1М (pos. A301) Temperature Measurement.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+SM Interior Panels Locks Audit
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance – Post Scrub Water Sample
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+MRM2 comm config to support the Experiment Ops
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance
+KULONOVSKIY KRISTALL. Experiment Ops
+Robotic Workstation (RWS) Setup
+On-board Training (OBT) HTV Robotics Onboard Trainer (ROBoT) Session 1
+MRM2 Comm Reconfig for Nominal Ops
+ПТАБ-1М (pos. A301) Temperature Measurement.
+Packed Bed Reactor Experiment Lab Video Setup
+Fluid Shifts Hardware USOS Gather
+KULONOVSKIY KRISTALL. Data Copy and Downlink Data
+MRM1 СКПФ1, СКПФ2 Cartridges Replacement (ФГБ1ГА_С_4 мешок 433-14 (00058352R). Update IMS)
+FLUID SHIFTS. Connecting Ultrasound Equipment to Power Outlet
+SM Interior Panels Locks Audit
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+Fluid Shifts Hardware RSOS Transfer
+Fluid Shifts Ultrasound Service Module Setup
+N2 Nadir Hatch to Unlatch Hardstop
+Packed Bed Reactor Experiment Lab Video Return
+
+Completed Task List Items
+
+EVA Tool Gather for S4 Battery R&R [Completed Saturday]
+Laptop Hardware Trash [Completed Saturday]
+Advanced Resistive Exercise Device (ARED) Frame Relabel [Completed Saturday]
+Plug-in Plan (PiP) – Deploy Multi-Port USB Charger Station – NOD2 [Completed Saturday]
+USB Jumpdrive return to MagVector front [Completed Saturday]
+ER4 M1 Drawer Audit [Completed Sunday]
+ESA PAO Recorded Message “France Info” [Completed Sunday]
+ESA PAO Recorded Message “Space Food” [Completed Sunday]
+ESA PAO Recorded Message “TF1 Video Postcard Crew Quarters” [Completed Sunday]
+US Extravehicular Activity (EVA) Airlock Unstow [Completed Sunday]
+EVA RET Inspection [Completed Sunday]
+US Extravehicular Activity (EVA) Tether Inspection [Completed Sunday]
+Fluid System Servicer (FSS) Payload Water Reservoir (PWR) Gather [Completed Sunday]
+SSC (Station Support Computer) 5 Battery Swap [Completed Sunday]
+Stowage PMM Reconfiguration [Completed Sunday]
+Crew Evaluation of New Food Items
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+MT Translation WS7 to WS5
+SPDM RMCT Stow
+

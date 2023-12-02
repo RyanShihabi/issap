@@ -1,0 +1,76 @@
+
+New Status:
+USOS Extravehicular Activity (EVA) #23 Preparations: In preparation for tomorrow’s planned EVA, today is a half duty work day for the USOS crew. Flight Engineer (FE)-3 Cassidy and FE-5 Parmitano completed a final tool configuration which was followed by an independent tool audit by FE-6 Nyberg. Cassidy and Parmitano then prepared the Equipment Lock (E-LK), Extravehicular Mobility Units (EMUs) and ancillary hardware. All three crew, plus FE-4 Yurchikhin, completed a final procedure review, then the USOS crew members participated in a procedures conference with ground teams.  Tomorrow’s planned 6 hour 15 minute Phase Elapsed Time (PET) EVA is scheduled to begin with hatch opening around 7:15 am CDT, following the crew’s successful completion of the In-Suit Light Exercise (ISLE) pre-breathe protocol. 
+Health Maintenance System (HMS) Periodic Health Status (PHS) Pre EVA Evaluation: With assistance from Nyberg as Crew Medical Officer (CMO), Cassidy and Parmitano completed a routine health status evaluation prior to tomorrow’s EVA.
+Russian Smoke Detector Status: Over the weekend, Russian specialists in Mission Control Center-Moscow (MCC-M) reviewed telemetry from the smoke detectors in the Mini-Research Module (MRM)1, MRM2, and Docking Compartment (DC)-1 and have only seen a few trips lasting no more than a few seconds in duration.  The smoke detectors in these three modules were placed in telemetry mode after the false alarm event on Thursday, July 11.
+The FGB currently has four of ten smoke detectors powered (Detectors 5, 7 , 8, and 9) following Thursday’s trip of Smoke Detector #1, which was long enough to annunciate an “FGB Smoke” warning (Event Code 472) with associated warning tone and light. As in the event in MRM2, the crew was not present in the module when the event occurred and the event was declared a false alarm. MCC-M transitioned the FGB Fire Detection and Suppression Subsystem (СПОПТ) to telemetry mode to avoid annunciation of lights and tones on board and to prevent automated responses. The FGB was transitioned back to nominal mode today and will annunciate fire and smoke events. MCC-M specialists will reactivate DC1, MRM1 and MRM2 Event Code on Wednesday to preclude any false events occurring prior to or during the USOS EVA tomorrow.
+Water Processor Assembly (WPA) Low Flow Signature:  Following the WPA particulate filter remove and replace on Friday the WPA continued to show lower than normal flow during a portion of the WPA processing run. The replaced filter was expected to last 1 year and had been installed for approximately 5 years. It was expected that replacing the particulate filter would resolve the low flow issue.  A short term workaround was put back into place Friday afternoon that raised the initial pump speed to 1080 RPM to bring the flow rate back up to the desired level and prevent the WPA from faulting out. Engineering teams met this afternoon to discuss future troubleshooting steps.
+Today’s Planned Tasks
+
+Reboot Laptop RSS1, RSS2  [Complete]
+Visual Inspection of MRM1 БПП-4, БПП-7 Fuses  [Complete]
+SM ПСС (Caution & Warning Panel) Test  [Complete]
+Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete]
+Reaction Self Test [Complete]
+Daily Planning Conference  [Complete]
+PUMA Health Check  [Complete]
+СТТС comm system switchover to primary strings  
+BAR Experiment.  [Complete]
+Pre-EVA crew Health Status  [Complete]
+Health Check of ВП-2 Pilot’s Sight and Comm Interfaces.  [Complete]
+Pre-EVA crew Health Status [Complete]
+Periodic Health Status (PHS): Log Data and Stow Equipment [Complete]
+Precision Vertical Wide Angle Sight (ВШТВ) Checkout [Complete]
+EVA Tool Config [Complete]
+ARED Cylinder Flywheel Evacuation [Complete]
+Exercise data downlink  [Complete]
+СОЖ Maintenance  [Complete]
+Download Pille Dosimeter Readings  [Complete]
+US EVA Tool Preparation [Complete]
+Pille sensors prep for USOS EVA  [Complete]
+ТКГ 418 (DC1) Stowage and IMS Ops [In work]
+Equipment Lock (E-LK) Preparation  [Complete]
+EVA Tool Audit [Complete]
+EMU – Check List Print [Complete]
+ТКГ 418 (DC1) Stowage and IMS Ops [Complete]
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves [Complete]
+EVA2 Procedure Review [Complete]
+SEINER. Ocean Observations / r/g 2888 [Complete]
+Auxiliary Laptop Anti-Virus Update  [Complete]
+Replacement of ИК0501 СО2 Filter Unit (БФ) [Complete]
+Replacement  of СРВ-К2М Sediment Trap Insert / r/g 2890 [Complete]
+EVA2 Procedure Review [Complete]
+EDV-KOV refill and separation through membrane transfer filter [Complete]
+ТКГ 418 (DC1) Stowage and IMS ops [Complete]
+IMS Update [Complete]
+Terminate EMU METOX Regeneration [Complete]
+Daily Planning Conference [Complete]
+URAGAN. Photo Spectrum System Battery Charge (start)
+Reaction Self Test 
+
+Task List
+
+ARED Reference Print [Complete]
+CSL Server Reboot [Complete]
+OGS H/W Sort [Complete]
+ROBO Cue Card Print [Complete]
+Tools Drawer 2 Deploy [Complete]
+Wipes Retrieve  [Complete]
+CEO Ops [Complete]
+TVIS Tool Transfer [Complete]
+COL PWS T/S Part 2 [Complete]
+COL Toolbox Config [Complete]
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+LAB PCS HD Swap
+LAB1D5 UAM check
+ODF Emer Pen and Ink [Complete]
+Regen WSTA Fill
+
+Ground
+
+Nominal Commanding
+

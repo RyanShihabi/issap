@@ -1,0 +1,75 @@
+
+Fine Motor Skills (FMS): On Sunday a crewmember completed a series of interactive tasks during a FMS session. The FMS investigation studies how the fine motor skills are effected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of the investigation is to determine how fine motor performance in microgravity varies over the duration of six-month and year-long space missions; how fine motor performance on orbit compares with that of a closely matched participant on Earth; and how performance varies before and after gravitational transitions, including periods of early flight adaptation and very early/near immediate post-flight periods. 
+Light Microscopy Module (LMM) Biophysics 3: A 26 day run for Biophysics 3 was initiated in the Fluids Integrated Rack (FIR). The crew removed a Plate contained in the LMM and placed it into a Microgravity Experiment Research Locker / INcubator (MERLIN).  Using the three-dimensional structure of proteins, scientists can determine how they function and how they are involved in disease. Some proteins benefit from being crystallized in microgravity, where they can grow larger and with fewer imperfections. Access to crystals grown on the ISS supports research for a wide range of diseases, as well as microgravity-related problems such as radiation damage, bone loss and muscle atrophy. This investigation identifies which proteins would benefit from crystallization in space.
+Sarcolab-3:  With assistance from an operator, a crewmember ingressed the Muscle Atrophy Research & Exercise System (MARES) chair in the Columbus module and adjusted pads and constraints for the Sarcolab-3 knee protocol.  After attaching electrodes and verifying signals the operator collected ultrasound images of the subject’s right leg during exercise activities. The data collected for Sarcolab-3 will be compared to pre and post flight measurements to assess microgravity-induced muscle loss.  Myotendinous and Neuromuscular Adaptation to Long-term Spaceflight (Sarcolab) investigates the adaptation and deterioration of the soleus (calf muscle) where it joins the Achilles tendon, which links it to the heel and carries loads from the entire body. Muscle fiber samples are taken from crew members before and after flight, and analyzed for changes in structural and chemical properties. MRI and ultrasound tests and electrode stimulation are conducted to help assess muscle and tendon changes caused by microgravity exposure. 
+Multi Omics-Mouse:  The crew continued preparations for the Multi-Omics Mouse investigation subjects arriving on the SpX-12. They relocated the Experiment Laptop Terminal 2 (ELT2), reconfigured cables and set up and installed the Mouse Habitat Cage Unit in the Cell Biology Experiment Facility (CBEF). 
+Human Research Program (HRP): A crewmember collected Flight Day 15 Biochemical Profile and Flight Day 8 Marrow urine samples. 
+
+The Biochem Profile experiment tests blood and urine samples obtained from astronauts before, during and after spaceflight.  Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results which scientists can use to study the effects of spaceflight on the body.
+The Marrow investigation looks at the effect of microgravity on bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow.
+
+Rodent Research-5 (RR-5) Systemic Therapy of NELL-1 for Osteoporosis: Over the weekend the crew removed and replaced fluid from sampling bags for RR-5.  Because spaceflight has significant and rapid effects on the musculoskeletal system, it is important to investigate targeted therapies that could ameliorate some of the detrimental effects of spaceflight. The NELL-1 drug being studied in the RR-5 investigation has the potential to slow or reverse bone loss during spaceflight.
+Intermittent Loss of Space to Ground (S/G) 1 and 2 Audio: Over the weekend, the ACS/UHF Audio Interface (AUAI)-1P associated with S-band String 2 started to show intermittent functionality and multiple error indications.  As a result, Space To Ground (S/G) channels 1 and 2 audio became mostly unavailable.  Ground teams performed troubleshooting on AUAI-1P with no success. A switchover to AUAI-2S restored full audio functionality through S-Band String 1.  S/G channels 3 and 4 were unaffected by the problem.  AUIA-1P has been on orbit since the US Lab was launched. There is one spare AUAI on orbit. Teams are discussing a forward plan.
+Failed Main Bus Switching Unit (MBSU) Retrieval: Last Friday, Robotics Ground Controllers set up for retrieval of the failed MBSU from External Stowage Platform -2 (ESP-2).  Activities included a triple Space Station Remote Manipulator System (SSRMS) walk off and Mobile Transporter (MT) translation to Work Site 3.  Today’s activities include unstowing the Special Purpose Dexterous Manipulator (SPDM), retrieval of the MBSU Flight Releasable Attachment Mechanism (FRAM) from ESP-2 followed by stowing it on the SPDM Enhanced ORU Temporary Platform (EOTP). This MBSU is one of two failed units externally stowed on orbit that will be brought inside via the JEM Airlock (JEMAL) to undergo maintenance and repair.
+Cupola Window Scratch Pane Replacement and Pane Audit: The crew completed the replacement of the scratch pane on Cupola Window 6 with a new spare.  They also performed an audit of the available uninstalled used panes to determine if any of them are in better condition than the currently installed scratch panes. Based on their report, crew was given to go to proceed with swapping the scratch pane on Window 1 with the best available spare. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Handover of Increment 52 Crew
+AstroPi competition crew message
+ESA PAO message recording
+WinSCAT Test
+Miniature Exercise Device Operations Session
+Video recording for KOROLYOV TV channel
+URAGAN. Observation and Photography
+ECON-M. Observation and photography
+HRF Generic Sample Collection and MELFI Operations
+Integrated Emergency OBT
+ECLSS Recycle Tank Drain
+XF305 Camcorder Setup
+SM-AGAT-U55 external battery charge (2 off) from Soyuz 736
+Experiment Laptop Terminal 2 (ELT2) Relocation
+Consolidate Tool Caddy, Photography, Photo Downlink.
+CBEF Video Cable Reconfiguration to Video Compression and Recording Unit 2 (VRU2)
+SARCOLAB MARES knee protocol execution
+Combustion Integrated Rack Bottle Replacement
+Multi-Omics-Mouse Pre-experiment Setup
+MARES knee configuration partial deinstallation
+Auxiliary Laptop Computer System Virus Definition File Update
+EVA Support Panel Checkout in ПхО.
+Health Maintenance System (HMS) Vision Questionnaire
+Health Maintenance System (HMS) Vision Test
+MARES pantograph adjustment for calibration configuration
+EVA Support Panel Checkout in DC1.
+MARES torque calibration check and  calibration configuration deinstallation
+DAN Experiment Ops
+Wastewater Storage Tank Assembly (WSTA) Fill
+SARCOLAB MARES files transfer verification and shutdown
+Review EVA #43 Translation Paths and Work Zones through ISS Windows
+Rodent Research Node 2 Camcorder Video Setup
+Rodent Research 5 Fixative Swap
+SARCOLAB. PEMS and EMG final stowage
+SARCOLAB. EPM Laptop relocation for files downlink preparation
+PEV Activation Test from DC1 EVA Support Panel.
+PEV activation test from ПхО EVA Support Panel.
+Rodent Research Microgravity Science Glovebox Stow
+MARES disconnection and stowage
+Marrow Breath And Ambient Air Sample Ops
+MARES-EPM Hard Disk removal and stowage
+Fluids Integrated Rack Door Ops
+LMM Biophysics Plate Removal
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill
+Preparation for Antivirus Scanning on [ВКС] Laptops
+
+Completed Task List Items
+
+Payloads Network Attached Storage (NAS) Vent Cleaning  [Completed GMT 218]
+Crew confirms location of Kate Rubin’s Kit  [Completed GMT 218]
+Found missing 1.0 CTB S/N4307 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+RR5 fixative swap
+MSS MBSU setup
+

@@ -1,0 +1,77 @@
+
+Emergency Roles and Responsibilities: All six crew members participated in this activity to familiarize the three new crew members on common responses to emergencies. Some of the topics covered include crew accountability, escape vehicle access, Commander responsibility, communication and coordination, and use of personal protective equipment.
+Space Headaches Investigation: Flight Engineer (FE)-5 Mastracchio and FE-6 Wakata filled out daily questionnaires for ESA’s Space Headaches investigation and will continue this activity throughout their mission. Headaches can be a common complaint during space flights and can negatively affect mental and physical capacities of astronauts and cosmonauts, which can influence performance during a space mission. This investigation involves obtaining and assessing pre-, in-flight and post-flight data via the questionnaires to evaluate the prevalence and characteristics of crewmembers’ headaches in microgravity.  Investigators will use this data to assess crewmember headache episodes, analyze characteristics of the headaches and provide the basis for developing future countermeasures.
+Journals (Behavioral Issues Associated with isolation and Confinement: Review and Analysis of Astronaut Journals) Investigation: Mastracchio completed one of many journal entries he will make during his time in space.  Isolation, confinement, and other stressors of spaceflight can affect crew health and morale, which are factors that can influence mission success.  This study converts behavioral and human factors information in confidential journal entries into quantitative data concerning the importance of the various behavioral issues during extended-duration space exploration.  Systematically analyzing the content of astronaut journals provides insights that contribute to the design of equipment, facilities, procedures, and training to help sustain positive behavioral adjustment and performance during long-duration space expeditions to the ISS, asteroids, the Moon, Mars, and beyond.
+Water Recovery System (WRS) Recycle Tank Drain: FE-3 Hopkins completed a Quick Disconnect (QD) reconfiguration and WRS recycle tank drain along with Mastracchio and Wakata as a part of their functional handover.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3 Experiment:  FE-3 Hopkins conducted the 9th and final run of the new series of InSPACE-3 runs. Tomorrow FE-5 Mastracchio will stow the InSPACE-3 hardware.  This series uses the same test parameter settings as previous series but with an increase in the run duration from 2 hours to 6 hours. This new series supports investigation of a continued chain-like aggregation phenomena observed towards the end of some of the previous shorter duration runs.  InSPACE-3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state with the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and to improve the design of structures.
+Capillary Flow Experiment (CFE) Interior Corner Flow (ICF)-5 Test:  Hopkins set up and initiated a CEF ICF-5 run.  CFE ICF studies capillary flow in interior corners.  The ICF5 test chamber has a square cross section and the top half of the test chamber is divided by two vanes into four quadrants.  Four valves at the top of the test chamber allow fluid to drain for each of the four quadrants.  Several Bubble Tests were completed by first ingesting gas into the reservoir.  Then, after using the “whipper” plate to create a bubbly mixture, the bubbles were deployed into the test chamber to observe the effectiveness of its use as a phase separator.  These Bubble Tests were completed with a variety of gas/fluid volumes as well as several combinations of valve positions.  Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity.  Equations governing the process are known but have not been solved analytically because of a lack of experimental data identifying the appropriate boundary conditions for the flow problem. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can then be used to improve propellant management aboard spacecraft. 
+Internal Thermal Control System (ITCS) Leak Troubleshooting: Today, Flight Controllers transitioned the ITCS to dual loop mode in an attempt to locate a possible small leak within the system.  Ground teams will be monitoring data within the coming days in an attempt to isolate the leak to either the Moderate Temperature Loop (MTL) or the Low Temperature Loop (LTL).
+Today’s Planned Tasks
+
+SM ПСС (Caution & Warning Panel) Test  [Complete]
+Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete]
+Laptop RS2(1) Reboot / Onboard Computer System (БВС) 2.1.2, p. 2-3. RSS1,2 Reboot  [Complete]
+Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete]
+Reaction Self-test – Subject [Complete]
+Vozdukh Deactivation  [Complete]
+Daily Questionnaire [Complete]
+SHD – Weekly Questionnaire [Complete]
+RGN REC-TNK – Remove depress hose for nominal operations [Complete]
+Removal of US TV cameras, Lights, and REBA power unit from Orlan-MK Suits [Complete]
+ТК 711 Transfers and IMS Ops  [Complete]
+Post-EVA Orlan Debrief With Specialists  [Complete]
+RGN – Initiate drain into EDV [Complete]
+Setting up Orlan and БСС for storage mode  [Complete]
+БД-2 Exercise, Day 2  (familiarization)  [Complete]
+RGN – Terminate drain into EDV [Complete]
+Post-EVA Orlan-MK Spacesuit Equipment Stowage  [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+Removal of Portable Repress Tank (БНП) No. 3 п.1 (001473R) in SM [РО] and stowage in МИМ2_ПТ_302  [Complete]
+Handover of US TV cameras, Lights, and REBA power unit to USOS [Complete]
+Emergency Roles and Responsibilities Review [Complete]
+Pressurizing Elektron Liquid Unit [Complete]  
+Journal Entry [Complete]
+Post-EVA debrief. Tagup with specialists (S-band) [Complete]  
+Familiarization with Auxiliary Computer System. Tagup with specialists as necessary [Complete]  
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+ТК 711 Transfers and IMS Ops [Complete]  
+Vozdukh Atmosphere Purification System [СОА] Activation [Complete]  
+Condensate Pumping Initiation [Complete]
+Condensate Pumping Terminate [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop [Complete]  
+CEVIS Exercise [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+Set up the first Orlan battery pack 825М3 for discharge and start discharging the first pack No. 1268861161 (00060664R, ФГБ1ПГО_2_221_1) [Complete]  
+Exercise data downlink [Complete]  
+Daily Questionnaire [Complete]
+SHD – Weekly Questionnaire [Complete]
+Reading REMINDER [Complete]
+Self-test – Subject [Complete] 
+
+Task List
+
+ARED Cylinder Evacuation
+INSPACE Part 1 [Complete]
+INSPACE Part 2 [Complete]
+INSPACE Part 3 [Complete]
+INSPACE Part 4 [Complete]
+ЕДВ-У R&R
+KTO Replace
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+Preparation of reports for Roskosmos site
+CFE ICF5 Ops Part 1 [Complete]
+CFE ICF5 Ops Part 2 [Complete]
+CFE ICF5 Ops Part 3
+EVA Systems Stow [Complete]
+Cygnus Pregather  [In Work]
+D2X Camera Sensor Cleaning
+JSL NOD1 Switch Deploy [Complete]
+
+Ground
+
+Nominal Commanding [Complete]
+

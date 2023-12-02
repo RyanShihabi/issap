@@ -1,0 +1,42 @@
+
+SpX-24 Docking: Today, the SpaceX-24 Dragon spacecraft successfully autonomously docked to the Node 2 (Harmony Module) zenith docking port of the ISS at 2:41AM CST. The vehicle delivered more than 6,500 pounds of cargo and will remain onboard for approximately a month.
+Payloads:
+Double Cold Bag (DCB): Following the arrival of SpX-24, the crew brought the DCBs to ISS and transferred the refrigerated or frozen science contents from the DCBs to their permanent ISS locations.  The DCB is a passive resource that provides for the specific temperature needs for scientific samples and other temperature-sensitive payload items. These options are available on the ISS during launch and return.
+EasyMotion:  After donning the EasyMotion Suit, the crew performed a Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS) exercise science session.  Following the experiment session, the crew removed the suit, transferred the session data, and charged the experiment batteries.  The EasyMotion investigation uses whole body Electro-Myo-Stimulation (EMS) with a wearable body skin suit for an ISS crew member to perform pre- and postflight EMS-assisted exercises. EMS technology initiates spontaneous (involuntary) activation of global musculature (muscle, tendon, fascia) to be monitored (muscle tone/tension and stiffness) inflight using the non-invasive Myoton technology that is currently aboard the space station for the Myotones investigation.
+International Commercial Experiment Cubes (Ice Cubes): The crew performed the steps necessary to exchange the experiment cube #6 and experiment cube #15 in the ICE Cube Facility.  New batches of experiment cubes are routinely flown up and down and exchanged as appropriate.  The ICE Cubes Facility is a capable experiment platform that offers flexibility to host many different experiments for research, technology demonstration or educational objectives. During flight, users are able to have near real-time telemetry and telecommanding capabilities with the Experiment Cube from any location with an internet connection. The ICE Cubes service provides fast and direct access to the ISS for any country, institute, or entity.
+Micro Age: The crew reviewed the Big Picture Words (BPW) for the MicroAge experiment.  In the Microgravity as a Model for Accelerated Skeletal Muscle Ageing (MicroAge) investigation, synthetic human muscle constructs are housed within specially designed experimental containers and exposed to microgravity on board the ISS. A proportion of the muscle constructs is electrically stimulated to induce contractions under microgravity conditions or exposed to artificial gravity via centrifugation. Samples are frozen and returned to Earth for analyses that provides information on whether muscles exposed to microgravity show an analogous failure of adaptations to contractile activity to that seen in elderly subjects.
+Nutrition Monitoring for the International Space Station (NutrISS): The crew logged their food and beverage intake using the EveryWear application.  Long-duration spaceflight induces relevant changes in body composition and a loss of body mass. In the NutrISS investigation, a periodic assessment of body composition (body weight, fat mass, and fat-free mass) during spaceflight aboard the ISS is carried out using a dedicated bio-impedance analysis device to allow for the measurement of long-term energy balance modification over time. On the basis of this data, it is hypothesized that an adjusted diet maintaining a near-neutral energy balance, and/or increasing protein intake can limit microgravity-induced bone and muscle loss of crew members.
+Protein Crystal Growth-20 (PCG-20): The crew retrieved the appropriate PCG-20 experiment items from a Microgravity Experiment Research Locker/Incubator (MERLIN), and then opened a series of valves to initiate the experiment run for platforms A, B, C, and D.  Monoclonal antibodies are important in treating a wide range of human diseases, including cancer. Monoclonal Antibody Crystallization (PCG-20) crystallizes a monoclonal antibody, pembrolizumab, which has proven effective in treating multiple cancers. Scientists analyze protein crystals to learn how biological molecules are arranged and how they work in the body. The ability to grow extremely high-quality crystals in microgravity allows analyses that could improve drug delivery methods as well as manufacturing processes and storage.
+Rhodium Synthetic Cryptobiology:  The crew transferred Rhodium Synthetic Cryptobiology Science Chambers from launch stowage to on-board stowage.  Deoxyribonucleic acid (DNA) components are integral to synthetic biology and bioengineering of organisms for a variety of applications, such as producing pharmaceuticals, improving consumer products, and developing clean plastics. Rugged Platforms for Synthetic Biological Component Transport (Rhodium Synthetic Cryptobiology) tests using specific bacterial strains to protect and preserve DNA through the stresses of launch, on-orbit stowage, and return to Earth. Results could help create more rugged biological components and advance these technologies for use in space and in extreme environments on Earth.
+Systems: 
+Dragon SpX-24 Docking Activities: Today the crew completed several activities related to this morning’s SpX-24 docking. Monitoring tools were set up and utilized inside Cupola, Node 3, and Lab, and the Node 2 to Dragon vestibule was pressurized and underwent a leak check. After teardown of the monitoring tools, the Dragon vestibule was configured for the successfully completed hatch opening. Crew reviewed the Dragon Emergency Response training materials and set up a drag-through camera in Node 2 for Cold Stowage operations. The crew began Dragon Cargo Transfer today and will continue this activity throughout the coming weeks.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+C2V2 Broadcast
+Configure C2V2 for Bidirectional Data
+ACS Setup for Dragon Docking to PMA3
+Approach 0 Start
+Configure C2V2 for Docking Dragon Video
+Approach 1 Start
+Dragon Hold at 20m
+Approach 2 Start
+Docking Dragon Contact and Soft Capture
+ACS Dragon Arrival to PMA3
+ACS Configuration for post Dragon Docking to PMA3
+Docking Dragon Hard Capture
+After Docking Configure for Docked Operations
+ACS GPS Antenna and Relative Navigation Management
+Configure for Nominal Ops after Dragon Hatch is Open
+Crew Dragon System Checkout
+C&DH Validity Check Inhibit for Transition to Proximity Operations Mode
+ACS Handover Attitude Control from USOS to RS
+Reconfigure ISS power to Dragon
+Dragon Propellant Leak Check
+ACS Handover Attitude Control from RS to US Momentum Management control
+ACS GPS Reconfiguration After Maneuver
+

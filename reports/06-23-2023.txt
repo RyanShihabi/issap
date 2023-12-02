@@ -1,0 +1,22 @@
+
+Payloads:
+Cold Atom Lab (CAL): Using a Grab Sample Container (GSC), the crew collected a sample of the cabin air around the lower quad area of LAB1P2. The CAL produces clouds of atoms that are chilled to about one ten billionth of a degree above absolute zero — much colder than the average temperature of deep space. At these low temperatures, atoms have almost no motion, allowing scientists to study fundamental behaviors and quantum characteristics that are difficult or impossible to probe at higher temperatures. In microgravity, researchers may be able to achieve even colder temperatures than what is possible on the ground, and observe these cold atom clouds for longer periods of time.
+Fast Neutron Spectrometer (FNS): The FNS was disconnected and removed from US Lab and prepared for return. Neutron spectrometers are used to make a wide range of measurements, including studies of a planetary body’s composition, and measuring the flux of high-energy neutrons that could be harmful to humans. The FNS investigation studies a new neutron measurement technique that is better suited for the mixed radiation fields found in deep space. Future crewed and exploration missions benefit from clearer, more error-free measurements of the neutron flux present in an environment with multiple types of radiation.
+Polar: Frozen samples were transferred from MELFI-1, MELFI-2, and MELFI-3 to two different Polars using -32°C Ice Bricks and a Double Coldbag in preparation for Ax-2 sample return. Polar is a Cold Stowage managed facility that provides transport and storage of science samples at cryogenic temperatures (-80ºC) to and from the ISS. Polar operates on 75 W supplied power and uses air cooling as its heat rejection method. Polar can accommodate up to 12.75 liters of sample volume and 20 lbm including sample support equipment.
+Zero Robotics-Astrobee: The crew positioned Astrobee Free Flyer Bumble in the JEM and assisted the ground team in conducting the student Zero-Robotics competition. For Astrobee-Zero Robotics (Zero Robotics), students write software to control one of the space station’s Astrobee free-flying robots. The first several rounds of the competition, co-led by the Massachusetts Institute of Technology, the Innovation Learning Center, and many collaborators, use an online simulation. Finalists have their code downloaded by NASA to the Astrobee platform and observe its performance. The experience helps inspire the next generation of scientists, engineers, and explorers.
+Systems:
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain/Fill: The recycle tank was set up to drain via the Urine Processor Assembly (UPA) Fill Drain Valve into a Brine EDV using the Urine Transfer System (UTS). Following the setup, the ground performed the tank drain using the UTS. Once the ground specialists completed the transfer, the crew verified the recycle tank was empty, terminated the drain, repositioned the fill/drain valve to force fill the recycle tank using UTS, and configured for nominal processing operations. The crew also swapped the EDV in the offload EDV spot of the UTS.
+Lab Remote Power Controller Module (RPCM) Remove and Replace (R&R): After rotating the Lab1P6 rack down to access the LA2B_D RPCM, the crew removed and replaced the failed RPCM. This RPCM powers the Lab Smoke Detector. RPCMs are part of the station’s secondary power distribution system and contain solid-state, or electromechanical switches, called Remote Power Controllers (RPCs). RPCs can be remotely commanded to control the flow of power through the distribution network and to the users.
+Port 6 Common Cabin Air Assembly (CCAA) Liquid Check Valve (LCV) R&R: The crew replaced a faulty CCAA Water Separator (WS) LCV in the Lab. The CCAA circulates, cools, and dehumidifies air in the Lab, Node 2, Node 3, and the Airlock. The WS provides the necessary suction flow at the outlet of the condensing heat exchanger to remove condensate.
+Mobile Servicing System (MSS) Survey: The MSS performed a detailed survey of the SpX-28 vehicle’s Thermal Protection System (TPS) in preparation for its planned departure next week. TPS inspections are performed on returning vehicles prior to undock from the ISS to ensure the vehicle is in a good configuration for re-entry.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Secondary Power Systems Remote Power Controller Firmware Update
+MT Translation
+MSS Survey of Dragon
+

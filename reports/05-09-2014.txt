@@ -1,0 +1,111 @@
+
+Direct Current Switching Unit (DCSU) 3A:  The power system remains in a stable configuration following yesterday’s DCSU Channel 3A Remote Bus Isolator (RBI) 1 trip.  DCSUs 3A and 3B were tied together and all power loads were recovered.  Ground teams continue their investigation and are developing recovery plans.
+Superconducting Submillimeter-Wave Limb-Emission Sounder (SMILES) relocation:  SMILES was relocated from Japanese Experiment Module Exposed Facility (JEM EF) position 3 to JEM EF position 5.  This was performed in order to make room for the Cloud-Aerosol Transport System (CATS) payload which is due to arrive on the SpaceX-5 vehicle and be mounted to JEM EF position 3.  The SMILES investigation aims to globally map stratospheric trace gases by means of a highly sensitive submillimeter receiver.
+Dynamism of Auxin Efflux Facilitators, CsPINs, Responsible for Gravity-regulated Growth and Development in Cucumber (CsPINs) Sample Fixation: ISS CDR Wakata fixated three sets of CsPINs samples from the Cell Biology Experiment Facility (CBEF) Incubator Unit (IU) microgravity and 1-gravity units. All fixated samples will be stowed in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). CsPINs uses cucumber seedlings to analyze the effect of gravity on gravimorphogenesis (peg formation) in cucumber plants.
+Petri Plants: FE-3 Swanson inserted a Petri Plate into the Light Microscopy Module (LMM) Auxiliary Fluids Container (AFC) in the Fluids Integrated Rack (FIR). The ground team downlinked live video from the FIR for analysis. Swanson then took photos of the Petri Plants that are deployed and took light level measurements. Petri Plants investigation focuses on the growth and development of Arabidopsis thaliana seedlings in the spaceflight environment, with a specific focus on how a root knows which direction to grow in when gravity is absent. Plants are grown in agar, a nutrient solution with a gelatin-like consistency, and exposed to light or dark conditions. Plants are harvested on-orbit, preserved with a chemical preservative, and returned to the ground for post-flight evaluation. 
+Biological Rhythms: Wakata removed a digital walk holter and electrodes to end his second measurement of Biological Rhythms, and saved the data to a medical laptop. Biological Rhythms 48 hours studies the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours.
+NanoRacks Module-27: Wakata used a NanoRacks swab kit to collect surface samples for the Module-27 experiment. Module-27 will characterize the microbial communities found on surfaces aboard the ISS using culture-independent methods. These samples will be returned on SpaceX-3.
+Space Test Program- Houston 4 (STP-H4) and Space Communication and Navigation Testbed (SCAN Testbed) survey:  Robotics ground controllers completed the external payloads six month survey for STP-H4 and SCAN Testbed.  This survey obtains imagery of these external payloads with different angles in sunlight that can be taken at any time during Space Station Robotic Manipulator System/ Special Purpose Dextrous Manipulator (SSRMS/SPDM) operations.  The SSRMS/SPDM is currently in a good location for these surveys after the installation of Optical PAyload for Lasercomm Science (OPALS) on Express Logistics Carrier (ELC)-1.  These surveys help to correlate science data against payload condition during payload on-orbit operations, determine the effects of long duration exposure to space, and determine any impacts from visible degradation, Micro Meteoroid Orbital Debris (MMOD) strikes, mechanical integrity of pointing system and/or antennas, and insulation blankets.
+Space-X 3 Release OBT:  Swanson performed training on the Robotics On-Board Trainer (ROBoT) simulator for unberth and release of the SpaceX-3 Dragon.  This was in preparation for SpaceX-3 unberth and release, currently scheduled for May 18th.  This will be the first time this has been performed with only one USOS crewmember on board station.  Additional assessments and procedure updates were put in place to support this activity. 
+Today’s Planned Tasks
+
+SM ПСС (Caution & Warning Panel) Test  [Complete]
+Laptop RS1(2) Reboot  [Complete]
+RSS 1, 2 Reboot / r/g 1009, step 1 [Complete]
+HRF – Sample collection in preparation for cold stowage insertion. [Complete]
+HRF – MELFI Sample Insertion [Complete]
+Daily Planning Conference (S-band) [Complete]
+PETRI – Turning Lights On [Complete]
+37S Return Stowage / r/g 5266, 5463nu
+MEMBRANA. Setup and Start Experiment with Kit 2. Activate Execution 2. / r/g 5594 [Complete]
+LAKTOLEN. Transfer of Bioecologia Case from SM to Soyuz / r/g 5595 [Complete]
+APEX GLACIER retrieval [Complete]
+CGBA Sample Insertion [Complete]
+EMCS – Container Assembly [Complete]
+G1 – Camcorder Setup [Complete]
+CSPN – Sample Fixation 1 [Complete]
+Ham Radio Session / r/g 5598 [Complete]
+DRAGON. Transfer Ops [Complete]
+MEMBRANA. Mode 2 Activation (Experiment start) / r/g 5594 [Complete]
+IMS Tagup [Complete]
+CSPN – MELFI Sample Insertion 1 [Complete]
+G1 Closeout Ops. [Complete]
+BAR. Experiment Ops / r/g 5593 [Complete]
+Equipment Pre-pack for return in 37S / r/g 5266, 5463nu [Complete]
+Dragon Cargo Operations Conference [Complete]
+NANO – Collecting Surface Samples [Complete]
+Robotics On-board Trainer (ROBoT) OBT Conference [Complete]
+MOD27 – Sample Insertion into MELFI [Complete]
+On-board Training (OBT) Dragon Robotics Review  [Complete]
+Photography of installed БВН (Air Heater) units in Soyuz and Progress vehicles on DC1, MRM1, MRM2, and T265 sensors / r/g 5615 [Complete]
+MEMBRANE Deactivate Heating Mode / r/g 5594 [Complete]
+G1 – Camcorder Setup [Complete]
+CSPN – Sample Fixation 2 [Complete]
+CSPN – MELFI Sample Insertion 2 [Complete]
+G1 Closeout Ops. [Complete]
+ПФ1-4 Dust Filter Cartridge Replacement in SM (ФГБ1ПГО_4_419_1, Zone 28Б enclosure.) [Complete]
+Equipment Pre-pack for return in ТК 711 / r/g 5266, 5463nu [Complete]
+MATRYOSHKA-R. Removal of Passive Detector Assemblies (СПД) for return on Soyuz / r/g 5596 [Complete]
+FIR Door Opening [Complete]
+VEG – Daily Plant Check [Complete]
+LMM – Light Microscopy Module Rotation [Complete]
+EMCS – Gas Valve Close [Complete]
+MATRYOSHKA-R. Transfer of Passive Detector Assemblies (СПД) to ТК / r/g 5596 [Complete]
+СОЖ Maintenance [Complete]
+GRAVI2 – Hardware Removal and Stowage [Complete]
+LMM – Removal of Petri plates from LMM AFC [Complete]
+FGB Dust Collector ПС1, ПС2 Filter Replacement (Zone 28Б enclosure.) [Complete]
+IMS and Stowage Conference [Complete]
+Crew Departure Prep [Complete]
+BLR48 – Data Saving [Complete]
+LMM – Light Microscopy Module Rotation [Complete]
+BLR48 – Data Saving [Complete]
+FIR – Door Closure [Complete]
+IMS Update [Complete]
+PETRI – Photography [Complete]
+Preparing for МО-21.Ecosfera Battery Charge / r/g 5586 [Complete]
+Crew Departure Prep [Complete]
+Sample Transfer Review [Complete]
+MELFI to Glacier 2 Sample Transfer [Complete]
+MEMBRANA. Removal of capsules from incubator and stowage. / r/g 5594 [Complete]
+OBT – Dragon Rendezvous and Berthing Procedures Review [Complete]
+MEMBRANE Hardware Removal and Stowage / r/g 5594 [Complete]
+G1 – Camcorder Setup [Complete]
+CSPN – Sample Fixation 3 [Complete]
+ARED – Cable R&R [Complete]
+CALCIUM. Photograph, Process and Downlink Photos / r/g 5597 [In work]
+ARED – Rope Replacement Assistance [Complete]
+HRF Urine Collection Hardware Setup [Complete]
+CSPN – MELFI Sample Insertion 3 [Complete]
+PETRI – Turning lights off
+Daily Planning Conference (S-band) [Complete]
+Flight Director/ISS Crew Tagup [Complete]
+G1 – Start Video Downlink [Aborted]
+G1 – Video Downlink End [Aborted]
+
+Task List
+
+37S US prepack [In work]
+ARED Cylinder Evac
+WHC KTO Replace  [Complete]
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+Crew departure prep (CDR) [In work]
+Data prep return (FE-4)
+Data prep return (FE-5) [In work]
+FPS tool gather [In work]
+HMS FFQ
+ST ISS Read
+Dragon cargo ops
+MOOT restow
+NOD1OS2 LHA R&R
+NOD1PD2-LHA R&R
+
+Ground
+
+Nominal commanding
+SMILES relocation [Complete]
+STP-H4 and SCAN Testbed surveys [Complete]
+

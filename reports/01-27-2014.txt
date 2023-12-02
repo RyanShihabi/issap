@@ -1,0 +1,118 @@
+
+Russian Segment (RS) EVA 37A: Kotov (EV1) and Ryazansky (EV2) performed RS EVA 37A within 6 hours and 8 minutes duration.  During the EVA, Flight Engineer (FE)-3 Hopkins was isolated in the Mini-Research Module (MRM)-2/36S while FE-4 Tyurin, FE-5 Mastracchio, and FE-6 Wakata had access to all modules forward of the Service Module (SM).  Tasks completed during today’s EVA included:
+
+Installation of High Resolution Camera (HRC) on SM Plane IV
+Installation of Medium Resolution Camera (MRC) on SM Plane IV
+Take photos of electrical connectors on ФП11 and ФП19 connector patch panels of SM
+Removal of Worksite Interfaces (WIF) adaptor from SSRMS LEE B
+Retrieve СКК #2-СО cassette container from DC-1
+
+MCC-M will be performing HRC and MRC checkout activities in the days to come.
+Story Time From Space:  Wakata gathered materials, set up a camcorder and read The Wizard Who Saved the World.  Story Time From Space combines science literacy outreach with simple demonstrations recorded aboard the ISS. Crewmembers will read five science, technology, engineering and mathematics-related children’s books in orbit and complete simple science concept experiments. Video and data collected during the demonstrations are downlinked to the ground and posted in a video library with accompanying educational materials on the Center for the Advancement of Science in Space (CASIS) Academy educational website.
+USOS Food Warmer Status: The Express Rack 6 drawer in which the Lab Food Warmer resides, experienced another over current trip on Saturday, January 25th.  A similar trip indication was first observed on January 16th and a subsequent inspection revealed a broken ground cable that was replaced this past Friday.  The Crew has been instructed to use an alternate degraded USOS Food Warmer meanwhile ground teams work on a forward troubleshooting plan.
+Advanced Resistive Exercise Device (ARED) Rope Remove and Replace (R&R):  Mastrachio completed routine maintenance on ARED by performing an R&R of the Exercise Rope.
+Today’s Planned Tasks
+
+Biochemical Urine Test prior to EVA  [Complete]
+S/G2 Configuration in MRM2  [Complete]
+TERMO-LADA. Visual Inspection of Hardware Operation [Complete]
+ENERGY Diet Log of Breakfast [Complete]
+DC1 and ПхО configuration for EVA  [Complete]
+MRM2 Configuration for EVA 37A  [Complete]
+SM TVS Configuration setup and Test.  Closing CP SSC Application and Deactivation of МАК-001 ВКУ.   [Complete]
+Ham Radio Deactivation [Complete]
+CUCU Deactivation [Complete]
+Periodic Fitness Evaluation – Nom Ops (subject) [Complete]
+Image Processing Unit (IPU) Hard Disk Exchange [Complete]
+СОЖ Maintenance  [Complete]
+Spacesuit Systems Checkout  [Complete]
+Periodic Fitness Evaluation – Nom Ops (assistance) [Complete]
+Removal of Air Duct РО-ПрК Hatch protective ring, Closure of РО-ПрК Hatch  [Complete]
+Checkout of БСС (Spacesuit Interface Unit) in DC1 [Complete]
+Checkout of БСС (Spacesuit Interface Unit) in ПхО  [Complete]
+Acoustic Dosimeter Setup [Complete]
+VCA2 – Setting Adjustment [Complete]
+Transition to Columbus SW 14 – MMU2 Software Loading [Complete]
+USOS Window Shutter Close [Complete]
+Condensate Transfer Initiation [Complete]
+DC1 БК-3М Check  [Complete]
+Comm config before EVA, reconfiguring ПСС (C&W) panel  [Complete]
+Pre-EVA ISS Onboard Systems Configuration  [Complete]
+Spacesuit Systems, БСС (Spacesuit Interface Unit), Comm System, Biomed Telemetry Checks  [Complete]
+Connecting SSC Laptop in MRM2 [Complete]
+Transition to Columbus SW 14 – Deactivation of PWS2 [Complete]
+Orlan and БСС (Orlan interface unit) Final Inspection prior to entering Orlan  [Complete]
+Condensate Transfer Terminate [Complete]
+Gather equipment for Inventory of ARIS clamps and brackets kit [Complete]
+Transition to Columbus SW 14 – PWS2 Image Loading, Part 1 [Complete]
+ARIS hardware inventory  [Complete]
+EVA Gear Donning  [Complete]
+Air duct disassembly in DC1 (without removal of B3 fan) [Complete]
+CBCS Cable Gather  [Complete]
+PRE-EVA airlock depress  [Complete]
+MRM2-СУ (SM) Hatch Closure  [Complete]
+ТК 710 Crew Isolation in MRM2 during EVA-37A [In Work]
+Pre-EVA airlock operations – assistance  [Complete]
+Transition to Columbus SW 14 – PWS2 Image Loading, Part 2 [Complete]
+ENERGY Diet Log of Lunch  [Complete]  
+ТК 710 Crew Isolation in MRM2 during EVA-37A [Complete]  
+EVA-37A Tasks [Complete]
+ARED rail grease [Complete]
+Kazbek Fit Check  [Complete]
+Inventory of equipment clamps and brackets kit [Complete]
+CBCS Cable Photography [Complete]
+FPS R&R Questions [Complete]
+HMS Defibrillator Inspection [Complete]
+ARIS hardware inventory  [Complete]
+ARED – Cable R&R  [Complete]
+ARED – Rope Replacement Assistance [Complete]
+Post-EVA airlock operations  [Complete]
+Post-EVA airlock operations – assistance  [Complete]
+ТК 710 Crew Isolation in MRM2 during EVA-37A  [Complete]
+MRM2- СУ(SM) Hatch Opening [Complete]
+ST-WIZARD – Crew gathers materials, sets up camcorder, reads the book  [Complete]
+Post-EVA-37A MRM2 Reconfig to Initial State [Complete]
+ST-HIST – Documentation Photo  [Complete]
+SSC deactivation in MRM2  [Complete]
+RS ISS Reconfiguration to initial state  [Complete]
+Reconfigure comm system for nominal ops, C&W from ПОВ (EVA Support Panel) to Caution & Warning Panel (ПСС) in ПхО  [Complete]  
+Assemble air ducts in DC1 and SM post-EVA  [Complete]
+Journal Entry [Complete]
+CBCS Cables Stow  [Complete]
+S/G2 Deactivation in MRM2  [Complete]   
+Return cables to be connected to SSC in MRM2 after RS EVA  [Complete]
+Closeout ops with dismantled СКК after EVA-37A [Complete]  
+Scheduled Maintenance of Compound Specific Analyzer- Combustion Products (CSA-CP) [Complete]
+Inventory of equipment clamps and brackets kit stow  [Complete]
+Biochemical Urine Test after EVA   [Complete]
+ARIS hardware inventory  [Complete]
+Health Maintenance System (HMS) Profile of Mood States (POMS) Questionnaire [Complete]
+Post-Eva Orlan Suit Maintenance  [Complete]
+РО-ПрК Hatch Opening ((after opening РО-ПрК PEV via CRL and pressure equalization) [Complete]
+Install protective ring on РО-ПрК hatch and air duct  [Complete]  
+RS ISS Reconfiguration to initial state  [Complete]
+Post-EVA 37A Video SM Camera Teardown  [Complete]  
+Deactivation of ТК 710 after EVA-37А  [Complete]
+ENERGY Diet Log of Dinner [Complete]
+
+Task List
+
+ARED Cylinder Evac
+IMS Update
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+A/L PCS Troubleshoot
+CFE ICF 9 [Complete]
+JSL Survey
+KTO Replace
+EVA Wanted Poster Print
+HMS Trash Gather
+Spotlight Audit
+St Moon Read.
+
+Ground
+
+Nominal Commanding  [Complete]
+Solar array feather for RS EVA  [Complete]
+Return solar array to autotrack  [Complete]
+

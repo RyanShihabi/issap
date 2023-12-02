@@ -1,0 +1,109 @@
+
+Microgravity Science Glovebox (MSG) Troubleshooting:  Kelly and Lindgren attempted to restore full functionality to the slide mechanism that allows the MSG work volume to be extended for crew access but were not successful.  The MSG Ground Team is working with a ground unit to develop additional procedures for correcting the problem.  The slide mechanism initially malfunctioned last Tuesday, November 17th.
+ 
+EXPRESS (EXpedite the PRocessing of Experiments to Space Station) Rack 7 Laptop Software Load:  Yui supported the ongoing software updates to ISS EXPRESS Rack laptops by copying a software load to the EXPRESS Rack 7 laptop.  These software updates include enhanced security with the Windows 7 operating system, new features and support for new capabilities.
+ 
+Biological Rhythms 48 Hours:  Lindgren donned the Holter Electrocardiogram to support JAXA’s Biological Rhythms 48 Hours investigation.  He then synchronized data between the Actiwatch and Holter.  This investigation studies the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours. While the ISS schedule follows Greenwich Mean Time (GMT), it is not known whether a separate biological rhythm is imposed on long-term flight crews. To study this, astronauts wear an Actiwatch for 96 hours and a Holter electrocardiograph for 48 hours.
+ 
+Intracranial Pressure and Visual Impairment (IPVI):  For JAXA’s IPVI investigation, Lindgren took front and side photos of his face with a USB camera attached to the Medical Laptop.  He then participated in a conference with the ground to discuss any current medical conditions and upcoming IPVI operations.  Long-duration spaceflight may cause an elevation of intracranial pressure (ICP), resulting in changes in the optic nerve and ocular structure. The aim of this study is to non-invasively estimate the changes in intracranial pressure and brain circulation induced by long-duration spaceflights, by analyzing the arterial blood pressure and brain blood flow waveforms before and after space flight.  In addition, researchers hope to correlate the occurrence of abnormalities of the eye (e.g. optic disc edema) with ISS crewmembers experiencing an increase in intracranial pressure.
+ 
+Veggie (Veg-01):  Kelly thinned seedlings today so that each Veg-01 Plant Pillow has one plant, and then refilled the pillows with water.  The Veg-01 investigation is used to assess on-orbit function and performance of the Veggie facility, focusing on the growth and development of seedlings in the spaceflight environment and the composition of microbial flora on the plants and the facility.  For this run, Zinnias will be grown for 60 days and are expected to produce flowers.
+ 
+Story Time From Space:  Yui read “Atmospheres and Telescopes” from the book Max Goes to the Moon,” discussed the subject on camera, and demonstrated the scientific principles involved. Video recording of the activity will be downlinked to the ground and used for educational purposes.
+ 
+Integrated Resistance and Aerobic Training Study (Sprint) Volume of Oxygen Utilized (VO2) Max:  For his Return minus 30 day (R-30) Sprint VO2 session, Yui attached Electrocardiogram (ECG) electrodes to himself, set up and donned Heart Rate Monitor hardware, performed Portable Pulmonary Function System calibrations, and then performed the VO2 protocol.  The Sprint VO2 investigation evaluates the use of high intensity, low volume exercise to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers while reducing total exercise time during long-duration space missions.
+ 
+Fine Motor Skills:  Kelly completed a session of the Fine Motor Skills experiment.  During the experiment he performed a series of interactive tasks on a touchscreen tablet. This investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. Fine Motor Skills sessions completed by Kelly and Kornienko will provide data for identification of trends or variations in fine motor performance in microgravity over the duration of their year-long space mission and upon their return to earth.  Kelly’s results will also be compared with a closely matched participant on Earth.
+ 
+Cygnus/Orbital ATK (OA)-4 Preps:  Kelly, Yui, and Lindgren participated in a conference with Robotics Ground Controllers to discuss rendezvous operations for the OA-4 flight.  Following the conference, the crew completed a procedure review and then Kelly and Lindgren performed a Computer Based Training session.
+ 
+Russian Joint Research (RJR) Microbiological Sampling:  On Saturday, Kornienko used the Microbial Air Sampler (MAS) and Surface Sample Kit (SSK) to take surface and air samples in the ISS to support a microbiological assessment of the ISS.  These activities are performed as part of a joint cooperative research program between NASA and the Russian Space Agency. The results of incubation and analysis of these samples will be used to identify ISS locations and surfaces prone to microbial contamination and will provide a scientific basis for decisions about future microbial monitoring on ISS and on future spacecraft used for human exploration.
+ 
+Cognition:  Lindgren performed his Flight Day 122 session of the Cognition experiment on Saturday.  The Individualized Real-Time Neurocognitive Assessment Toolkit for Space Flight Fatigue (Cognition) investigation is a battery of tests that measure how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. Cognition includes ten brief computerized tests that cover a wide range of cognitive functions, and provides immediate feedback on current and past test results. The software used allows for real-time measurement of cognitive performance while in space.
+ 
+Journals:  Kelly completed a Journals entry on Saturday. The Journals investigation obtains information on behavioral and human issues that are relevant to the design of equipment and procedures used during astronauts during extended-duration missions. Study results provide information used in preparation for future missions to low-Earth orbit and beyond.
+ 
+Water Processing Assembly (WPA) Fault:  Over the weekend on Saturday, WPA experienced a fault associated with the pre-heater in the Catalytic Reactor unit not staying above the required temperature.  Ground Teams assessed then modified temperature limits in order to allow WPA operations to continue, while longer term plans are discussed.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Calf Volume Measurement
+IPVI – Photography
+SEISMOPROGNOZ. Download Data from Control and Data Acquisition Module (МКСД) HDD (Start)
+WRM – баланс расхода воды, закладка
+FINEMOTR – Experiment Ops
+ISS Crew Medical Officer (CMO) Computer Based Training (CBT)
+Story Time (ST) – Photography
+Photography of Soyuz 718 [СА] Windows, plane 2, data file downlink via OCA
+Story Time (ST) – Videotaped Reading
+IPVI – Private Medical Conference
+WRS – Water Sample Analysis
+VSG – Trouble shooting
+Close out operations  with hardware “Tropical Cyclone”
+OASIS – Sample Container Exchange [Deferred] 
+Sample Container Exchange and Glycerol/Water Fill. Handover
+DAN. Payload Ops
+DAN. Experiment Operator Assistance
+ER7 – Hard Drive Insertion into the Laptop
+ISSPRESSO – SD Card Ops
+ER7 – Close-out Ops with Laptop
+ER7 – DVD Insertion into Laptop
+HMS – Vision Test
+SPRINT Partial Setup
+Vision Test – Complete Questionnaire
+SPRINT – Hardware Activation
+Inspection of СРВ-К2М Sediment Insert-Trap
+WRM – Water Consumption Balance, place holder
+Auxiliary Laptop Computer System Virus Definition File Update
+SABL2 Preparation Ops
+SPRINT – P/L Operations and Video
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup
+SABL1 Preparation Ops
+Repairs of SM Interior Panel 326 by Installing Overlay Panel – Day 1
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ) Detachable Screens 1, 2, 3
+Symbolic Activity Preparation
+Private Psychological Conference
+Repairs of SM Interior Panel 326 by Installing Overlay Panel – Day 1
+TOCA Data Recording
+Preparation of hardware disposed on Progress #428 (DC1) with  IMS update
+VEG-01 – Plant Thinning
+VIDEO – Locating Item
+SPRINT – Equipment Stowage
+VEG-01 – Refilling Root Mat with Water
+WORF – Cables Connection
+JRNL – Journal Entry
+IMS Delta File Prep
+OBT – Cygnus Rendezvous and Docking Conference
+OBT – Cygnus Robotics Review
+ISSPRESSO – SD Card Re-insertion
+ER7 –  DVD Removal and Stowage
+Filling (separation) of EDV (KOV) for Elektron or EDV-SV
+SPRINT – Closeout Ops
+OBT – On-board Training (OBT) Cygnus Rendezvous Review
+Evening Work Prep
+Life On The Station Photo and Video / r/g 0290
+Exercise Data Downlink via OCA
+СОЖ Maintenance [Deferred]
+BLR48 – starting measurement
+Preparing for Antivirus scan on Auxiliary Computer Laptops
+Fine Motor Skills Test Reminder
+Installation of inserts to ease opening of SM interior panel locks (Unstow Structural Elements kit – Элементы конструкции (004890R), ФГБ1ПГО_4_427_1, СТВ №1112 (004106J)
+Preparation of Reports for Roscosmos Web Site and Social Media
+ECON-M. Observation and Photography
+
+ 
+Completed Task List Items
+
+JAXA Report 10
+Wanted Poster for MSS-2 Closeout Panel
+Wanted Poster for Catalytic Reactor ORU
+
+ 
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal ground commanding
+
+ 

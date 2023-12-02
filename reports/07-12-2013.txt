@@ -1,0 +1,83 @@
+
+New Status:
+Advanced Colloids Experiment (ACE)-1: Flight Engineer (FE)-6 Nyberg mixed a new sample in  preparation for the 4th of 10 runs planned for Increments 35 and 36. ACE-1 is a series of microscopic imaging investigations that uses the microgravity environment to examine flow characteristics and the evolution and ordering effects within a group of colloidal materials.
+Internal Thermal Control System (ITCS) Fluid Sampling: Samples of the Lab, Node 2, and Node 3 ITCS fluid were taken today which is required every 180 days to test for Ortho-Phthalaldehyde (OPA) levels. The purpose of this testing is to verify there are no micro-leaks present in any of the Interface Heat Exchangers (IFHXs) that would provide a path for ammonia to enter the Lab, Node 2, or Node 3 ITCS coolant loops.
+Water Processing Assembly Particulate Filter Remove and Replace (R&R): Following WPA shutdown last Friday and subsequent recovery, the delta pressure and pump speed have steadily increased, indicating that the particulate filter Orbital Replacement Unit (ORU) is becoming loaded. In order to prevent impact to WPA operations, today the crew R&R’d the particulate filter with an on-orbit spare and the WPA is functioning nominally.
+Advanced Resistive Exercise Device (ARED) Troubleshooting: The crew reported that the ARED cable arms were not staying in the ball detents as designed, causing difficulty while doing bar exercises.  The crew performed troubleshooting that included de-tensioning each of the cable arms until they were back in a nominal configuration.  Following a subsequent ARED cylinder evacuation there appeared to be a significant amount of slack in the exercise ropes.  The crew was able to adjust the ropes to remove the extra slack which seems to have resolved the issues seen with the ARED cable arms but ground teams will continue to monitor.
+Russian Smoke Detector Trips: On Thursday, the MRM2 Smoke Detector (SD) #2 tripped at 6:28 am CDT. A few minutes later, MRM2 SD #3 also tripped. Shortly after the second trip a fire alarm and automatic response was initiated. The crew verified there was no smoke or fire and using the Compound Specific Analyzer-Combustion Products (CSA-CP) they verified no combustion products were present. Ground specialists placed MRM1, MRM2, and DC1 module smoke detectors in a telemetry mode to monitor the status of the smoke detectors in those modules. Later Thursday, the SD algorithm was inhibited, then enabled eight minutes later in the FGB. At 9:20 am CDT, FGB SD1 tripped, generating a warning tone. Again, the crew verified no smoke, fire, or combustion products in the area. Russian specialists monitored the situation and data from the FGB SDs and subsequently powered down FGB SD1. A total of four of ten FGB smoke detectors remain powered.
+On Thursday night at 11:54 pm CDT/Friday GMT 4:44 am (approximately 1 hour before crew wake), the event code (472) associated with the previous trip of FGB SD1 re-annunciated due to peculiarities related to the transition of FGB data processing between play-back and real-time modes over Russian ground sites. The audible alarm woke the crew. The message was cleared, and Russian specialists continue to  monitor and troubleshoot the SD issues. FGB SD #8 tripped at 6:04 am CDT.  At 07:52 CDT, MCC-M commanded the FGB smoke detection system to “telemetry mode” to allow for monitoring by the Russian FCT while preventing additional false alarms and automated system responses. Following several hours of monitoring of the telemetry, and no subsequent SD trips, Mission Control Center-Moscow (MCC-M) enabled the SDs prior to crew sleep.
+Today’s Planned Tasks
+
+EKAM Battery Swap [Complete]
+Daily Planning Conference (S-band) [Complete]
+ISS Crew Weekly Conference with ГОГУ Management Team [Complete]
+IMS Tagup (S-band)  [Complete]
+EVA Tool Config [Complete]
+EVA Tool Config [Complete]
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure  [Complete]
+SM Ventilation System Preventive Maintenance. [Complete]
+СТТС Configuration for MRM2 Kulonovskiy Kristall Experiment  [Complete]
+MRM2 Comm Reconfig for Nominal Ops [Complete]
+KULONOVSKIY KRISTALL. Copy and Downlink Data via РСПИ [Complete]
+KULONOVSKIY KRISTALL. Hardware Teardown [Complete]
+Lab Camcorder setup at LAB RWS Mon 1 for ground observation of RWS Overlay commanding [Complete]
+Lab ITCS Sampling [Complete]
+Changeout of 240ГК.52Ю 5100-0 Replaceable Unit Panel (ПАС) in MRM2 СОТР [Complete]
+Coolant Sampling from Node2 TCS moderate temperature loop [Complete]
+IV-ТЕРС Transfer [Complete]
+ТКГ 418 Tank 2 analysis [Complete]
+PAO Hardware Setup [Complete]
+СОЖ Maintenance
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+HMS Visual Testing Activity [Complete]
+WPA Particulate Filter R&R [Complete]
+Fill Out Vision Test Form [Complete]
+EKAM Battery Swap [Complete]
+Coolant sampling from Node2 TCS low temperature loop [Complete]
+TVIS Hardware Search for Handover to USOS [Complete]
+Replacement of EVA connector and static electricity sets [Complete]
+Changeout of 240ГК.52Ю 5100-0 Replaceable Unit Panel (ПАС) in MRM2 СОТР [Complete]
+ARED Flywheel Cylinder Evacuation [Complete]
+FIR Rack Doors Open [Complete]
+IMS and Stowage Conference [Complete]
+LMM – Setup and Video [Complete]
+Treadmill Т2 Monthly Inspection [Complete]
+Food Frequency Questionnaire [Complete]
+ACE – Sample Prep [Complete]
+MATRYOSHKA-R. Monitoring Lulin-5 readings [Complete]
+Coolant Sampling from Node3 TCS moderate temperature loop [Complete]
+LMM – Setup and Video [Complete]
+MATRYOSHKA-R. Monitoring Tritel Readings [Complete]
+FIR – Rack Door Close and Video [Complete]
+Lab ITCS Sampling [Complete]
+TVIS Hardware Search for Handover to USOS [Complete]
+SHD – Weekly Questionnaire [Complete]
+Start EMU METOX Regeneration [Complete]
+Battery Stowage Assembly (BSA) Battery Recharge Terminate [Complete]
+IMS Update [Complete]
+Installation of REBA batteries [Complete]
+Stow Lab ITCS Samples [Complete]
+Daily Planning Conference. (S-band)  [Complete]
+Flight Director / ISS Crew Tagup (S-band) [Complete]
+EKAM Battery Swap [Complete]
+
+Task List
+
+CEO Ops [Complete]
+CSL Server Reboot [Complete]
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+ARED Reference Print [Complete]
+OGS Hardware Sort
+Regen WSTA Fill
+ROBO Cue Card Print [Complete]
+Tools Drawer 2 Deploy
+Wipes Retrieve  [Complete] 
+
+Ground
+
+Nominal Commanding
+

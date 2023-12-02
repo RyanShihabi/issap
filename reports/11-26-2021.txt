@@ -1,0 +1,26 @@
+
+Russian Node Module Docking (6R): The newest Russian docking port, the Prichal module, docked to the ISS today at 9:20 am CST. The five-ton docking module automatically docked to the Multipurpose Laboratory Module (MLM) successfully after launching from Kazakstan on Wednesday, November 24th. Prichal, also referred to as the 6R Node Module, will provide five additional docking ports and fuel transfer capability to the ISS.
+78 Progress (78P) Undocking:  Yesterday, the Russian cargo vehicle, 78P, undocked from the MLM nadir docking port at 5:22 am CST taking the docking adapter. The deorbit burn occurred at 8:34 am CST followed by atmospheric entry and destruction. Progress telemetry was lost at 9:09 am and burn up occurred shortly after at 9:17 am CST.
+Payloads:
+HRF Veg:  In conjunction with the harvest of the Plant Habitat-04 hatch chili peppers earlier in the day, the crew participated in the HRF Veg taste test.  The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System investigation is a phased research project that includes Veg-04A, Veg-04B, Veg-05, and HRF Veg. This work addresses the need for a system to produce healthy, fresh food on future long-duration exploration missions to supplement the standard pre-packaged astronaut diet. HRF Veg uses psychological surveys and crew evaluations of the flavor and appeal of plants grown for other investigations on the ISS to focus on the overall behavioral health benefits to crew members of having various plants and fresh food in space.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions 4 (InSPACE-4):  Due to commanding issues, the first of the three scheduled runs for the day was delayed, and only two runs were performed as a result.  The science runs both used the same sample vial, but with different frequency, amplitude, and duty cycle parameter settings.  InSPACE-4 studies the assembly of tiny structures from colloids using magnetic fields. These structures change the properties of the assembled material, such as its mechanical response to or interaction with light and heat. Microgravity allows observation of these assembly processes free of confining sample walls and sedimentation and during timescales not possible using simulated microgravity. Results could provide insight into how to harness nanoparticles to fabricate and manufacture new materials.
+Muscle Tone in Space (Myotones): The crew located and marked measurement points on the body, performed an experiment session with the Myotones device.  The Myotones investigation observes the biochemical properties of muscles (e.g. muscle tone, stiffness, elasticity) during long-term exposure spaceflight environment. Results from this investigation can provide a better understanding of the principles of human resting muscle tone. This could lead to the development of new strategies for alternative treatments for rehabilitation on Earth, as well as for future space missions.
+Plant Habitat-04 Harvest: Following several months of growth and an earlier pepper harvest, today the crew performed the final harvest for the Hatch Chile Peppers.  Microgravity Growth of New Mexico Hatch Green Chile as a Technical Display of Advanced Plant Habitat’s Capabilities (Plant Habitat-04) demonstrates using the Advanced Plant Habitat (APH) by growing peppers in space for the first time. An excellent source of Vitamin C, peppers are more difficult to cultivate than many possible space crops because they take longer to germinate, grow, and develop fruit. The investigation includes microbial analysis to improve understanding of plant-microbe interactions in space and assessment of flavor and texture, which vary based on the growth environment and care such as amount of watering.
+Systems: 
+S-Band Antenna Support Assembly (SASA) Extravehicular Activity (EVA) Preparations: Teams continue to prepare for the upcoming EVA to replace a failed communications unit on the P1 truss.  The crew reviewed procedures and participated in a conference with ground specialists today. US EVA #78 is scheduled next week on Tuesday, November 30th with Joint Airlock Egress occurring at ~6:40am CST.
+Max Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS): The crew completed Max CEVIS today which is used by the medical community to evaluate astronauts’ aerobic fitness. The test is performed every 90 days and upon the crew’s arrival and departure from the ISS.
+Completed Task List Activities:
+
+Emergency Hardware Relocate
+Robotics Procedure Print
+ISS Crew Handover
+Record ESA PAO Message with Matthias Maurer
+SpaceX-24 Dragon Prepack (ongoing)
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Ground Support for RS Node Docking
+SDMS Data Dump
+ASIM Daily File Uplink and Transfer
+

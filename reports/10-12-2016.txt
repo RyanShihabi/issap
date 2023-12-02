@@ -1,0 +1,78 @@
+
+Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts): Following yesterday’s Dilution Measurements, today, FE-5 performed Day 2 of his final Fluid Shifts collection.  With assistance from FE-6, the crew performed various collections and measurements including Optical Coherence Tomography (OCT), Distortion Product Otoacoustic Emissions (DPOAE), Tonometry, and Ultrasounds.  Today’s sessions will conclude FE-5’s Fluid Shift activities, as the crew will not be performing Cerebral and Cochlear Fluid Pressure (CCFP) measurements or Chibis/Lower Body Negative Pressure (LBNP) measurements.  The CCFP measurement device was returned on SpaceX-9 for failure analysis, and due to the shortened 47S increment duration, it was determined that the LBNP would not be required.  Both instances of science loss were reviewed and accepted by the payload teams.  Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage. 
+Portable Emergency Provisions (PEPS) Audit:  FE-5 completed an audit of the PEPS hardware in the FGB, Lab, Node 2, Japanese Pressurized Module (JPM), Japanese Logistics Platform (JLP), and Columbus (COL) locations this morning.  The PEPS audit is performed to verify Portable Fire Extinguisher (PFE), Extension Hose Tee Kit (EHTK), the Portable Breathing Apparatus (PBA), and Pre-Breathe Mask are all free of damage to ensure functionality. The Audit also includes a Mask Harness Inspection. The audit is to be performed once every 365 days. For an audit the crew will also record the hardware serial numbers or barcodes, and locations. This information is needed to track shelf life and life cycles on the hardware.
+Combustion Integration Rack (CIR) Multi-user Droplet Combustion Apparatus (MDCA) Chamber Dryout:  Following maintenance of MDCA in September, it was discovered that some water leaked into the CIR from the Internal Thermal Control System (ITCS) due to a damaged Quick Disconnect (QD).  The Vacuum Exhaust System (VES) is being used for vaporizing any water present.  Today, prior to CIR activation the Rack Flow Control Assembly (RFCA) valve was commanded to open. However, no coolant flow was recorded. The crew confirmed that the TCS return and supply QDs were not connected to the CIR rack Z-panel.  The crew reconnected both QDs and flow was established.   The venting will continue for the next 32 hours.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Fluid Shifts Saliva Baseline Collection
+Fluid Shifts MELFI Insertion Operations
+Fluid Shifts Urine Collection
+Fluid Shifts Blood Baseline Collection
+Fluid Shifts Galley Water Collection Tracer Ingestion Operations
+Fluid Shifts Refrigerated Centrifuge Configuration
+Reminder 1 Fluid Shifts Baseline Imaging Measures
+Fluid Shifts Refrigerated Centrifuge Spin Conclude
+Closing Window Shutters # 6, 8, 9, 12, 13, 14
+Transfer of Cosmocard Results to the Memory Card for Return
+ИП-1 Sensors Installation Monitoring
+Periodic Health Status (PHS) Evaluation – Crew Medical Officer (CMO)
+DOSIS  Mode Switching Mode 2 to Mode 1
+Samples Collection from the Gas-Liquid Mixture
+Fine Motor Skills Experiment Test
+Fluid Shifts MELFI Retrieve Insertion Operations
+Kazbek Fitcheck
+Formaldehyde Monitoring Kit (FMK) Deployment Operations
+Personal CO2 Monitor Donn
+Grab Sample Container (GSC) Sampling Operations
+Fluid Shifts Blood 3-Hour Collection
+Fluid Shifts Blood Collection
+Fluid Shifts Refrigerated Centrifuge Configuration
+Fluid Shifts Saliva 3-Hour Collection
+Fluid Shifts MELFI Retrieve Insertion
+Periodic Health Status Stow
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Transfer of Cargo to SM Aft Progress #432 for Disposal. IMS Update Removal of ССД305 Light Fixture from Progress #432
+Fluid Shifts Refrigerated Centrifuge Spin Conclude
+Fluid Shifts MELFI Retrieve Insertion Operations
+Fluid Shifts Blood Collection Conclude Stow
+Water Resource System (WRS) Microbial Removal Filter (MRF) Cartridge Removal and Replacement
+Fluid Shifts Saliva 5-Hour Collection
+Fluid Shifts MELFI Retrieve Insertion Operations
+Fluid Shifts Urine Collection End – Subject
+Report on Completion of Cargo Transfer to SM Aft Progress #432
+Fluid Shifts MELFI Insertion Operations
+INTER-MAI-75. РЛС Hardware Activation
+Personal CO2 Monitor Power Cycle
+PK4. Experiment Ops
+SPHERES Slosh Hard Drive Stow
+Fluid Shifts Urine Collection Stow
+Meteor Hard Drive Swapout
+Preventive Maintenance of the Sealing Mechanisms of SM АСП-О and SM Aft Progress 432 Active Docking Assembly ([ACA]) Hatches.
+Water Recovery System Waste Water Tank Drain Init
+Habitability Human Factors Directed Observations
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Filling In (Degassing) of EDV (KOV) for Elektron or EDV-SV
+Fluid Shifts Hardware Battery Installation
+Water Recovery System Waste Water Tank Drain Termination
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+JAXA EPO Electrostatic Levitation Furnace Introduction Message
+СОЖ maintenance
+INTER-MAI-75. РЛС Hardware Deactivation
+Treadmill 2 System (T2) Monthly Inspection
+Meteor Shutter Open
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+PK4. Experiment Ops
+
+Completed Task List Items
+
+SPHERES Slosh Hard Drive Unstow
+Optical Coherence Tomography (OCT) Laptop Power Supply Troubleshooting
+JAXA Report Part 8 (Active)
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+VDPU Switching Unit Configuration
+T2 Power Cycle 
+

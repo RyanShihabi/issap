@@ -1,0 +1,79 @@
+
+Robotics Refueling Mission (RRM) Operations: Over the weekend, the Special Purpose Dexterous Manipulator (SPDM) picked up Task Board 2 (TB2) and the Safety Cap Tool (SCT) from the RRM. The Mobile Transport (MT) was translated to Work Site (WS) 7 where the SPDM stowed TB2 and the Safety Cap Tool on the RRM On-orbit Transfer Cage (ROTC). The SPDM picked up TB4 and the VIPIR payload and the MT was translated to WS2. The SPDM installed TB4 on the RRM and performed a checkout of the Visual Inspection Poseable Invertebrate Robot (VIPIR). ROBOs stowed the VIPIR on the RRM and maneuver the SSRMS and SPDM to a park configuration.  With this, the RRM Phase 2 Transfer operations will be complete.  Task Board 2 was inspected by Virts today, and will be stowed on the Slide Table at a later date. 
+Rodent Research-2 Center for the Advancement of Science in Space (RR-2 CASIS):  Kelly restocked and set up the Microgravity Science Glovebox (MSG) in preparation for the third RR-2 specimen processing session scheduled for the week of May 11. This research is to monitor the effects of the space environment on the musculoskeletal and neurological systems of mice as model organisms of human health and disease. Living in microgravity results in significant and rapid effects on the physiology of mice that mimic the process of aging and some diseases in humans on Earth, including muscle atrophy and the loss of bone mineral density. This project will help scientists to discover new molecular targets that can facilitate the development of novel therapeutics for the treatment of muscle and bone-related diseases. Long-duration exposure to microgravity will also induce changes in gene expression, protein synthesis, metabolism, and eye structure/morphology that will be identifiable as a series of assessable biomarkers for tracking the onset and progression of disease.
+Moon Imagery: Cristoforetti took photographs of the full moon and downlinked files for ground evaluation.  If a spacecraft loses communication with the ground or with NASA’s Deep Space Network, its crew must navigate just as ancient mariners did using the moon and stars. The moon Imagery investigation collects pictures of the moon from the ISS which are then used to calibrate navigation software to guide the Orion Multi-Purpose Crew Vehicle in case its transponder-based navigation capability is lost. Crew members photograph the moon’s phases during one 29-day cycle, providing images of varying brightness to calibrate Orion’s camera software. Moon Imagery primary objectives must be completed by June 1, 2015 to support a key Orion Program design review.
+Skin-B: Cristoforetti performed Corneometer (measuring the hydration level of the stratus coreum, or outer layer of the skin), Tewameter (skin barrier function measurement), and Visioscan (skin surface topography) measurements in support of the Skin-B experiment. The Skin-B investigation aims to improve the understanding of skin aging which is slow on Earth but greatly accelerated in space. This will also provide insights into the aging process in other (similar) bodily tissues in general. This could help in determining impact on astronauts on future missions to the Moon and Mars where environmental conditions are more challenging.
+Urine Processing Assembly (UPA): On Saturday, while the UPA was in process there were 3 instances of High Pressure Error, each fault resulted in the UPA shutting down.  The UPA is currently in Standby. Ground Teams are currently developing troubleshooting steps.
+Carbon Dioxide Removal Assembly Bed Remove & Replace (R&R) Prep: In preparation for this week’s Node 3 (N3) CDRA beds and Air Selector Valves (ASV) 104 and 106 R&R, Virts and Kelly reviewed procedures and  gathered equipment.
+SpaceX (SpX)-6 Cargo Operations: As of late last Friday, SpX-6 cargo transfer was approximately 75% complete.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Greasing exposed ARED wires
+ARED Flywheel Cylinder Evacuation
+Set up Video Equipment to Record Exercise Session
+ТК 715 Kentavr Suit Adjustments
+CARDIOVECTOR. Experiment Ops / r/g 8700
+Crew Departure Prep
+Audio Dosimeter Preparation
+Carbon Dioxide Removal Assembly (CDRA) Recovery Procedure Review
+MOON – Timer start
+Surface samples from FGB equipment and structures / r/g 8677
+Conference of Search and Rescue (ГПСК) specialists with returning crew
+MOON – Camera D4 tuning
+Verification of ИП-1 Flow Sensor Position
+CDRA – Equipment gathering for air valve R&R
+MRM1 Interior Imagery and photos downlink via OCA / r/g 8682
+“CHIBIS-M’’ Functionality Check.Tag up with specialists / r/g 8701
+MOON – Photography (Part 1)
+SKNB – Experiment Ops with Data Downlink
+Surface samples from SM equipment and structures / r/g 8677
+URAGAN. Observations and Photography / r/g 8703
+EXPRESS Rack 5. Absent Doors and Panels installation
+EXPRESS Rack 5. Absent Doors and Panels installation
+US Hardware Preparation For Stowage in Soyuz #715
+Collecting condensate water samples from СРВ-К2М before Gas-Liquid Mixture Filter r/g 8683
+JEM- SLT Laptop Reboot
+Periodic Fitness Evaluation – subject
+JEM AL- FOD Survey
+VIZIR. Experiment Ops. / r/g 8698
+JEMAL – JEM Airlock Slide Table (ST) Retraction from JEF side
+Potable Water Collection in SM for In-Flight Chemical and Microbial Analysis
+WRS – Recycle Tank Fill [Aborted]
+Water Purification System Sampling
+RR – Retrieval from MELFI
+Surface samples from SM equipment and structures / r/g 8677
+Photography and Downlink of Interior behind SM Panel 326 photos via OCA /  r/g 8697 [Aborted]
+RR – Mice Habitat Restock
+Preparation of Returned and Disposed Items on Soyuz #715 / r/g 8650nu, 8461, 8636
+Crew Return Preparation
+Surface samples from FGB equipment and structures / r/g 8677
+TOCA Potable Water Dispenser (PWD) Sample Analysis
+Exercise data downlink / r/g 6797
+MATRYOSHKA-R. Monitoring Lulin-5 readings / r/g 8695
+MOON – Camera Settings Check Out
+Photography and Downlink of MRM2 Interior photos via OCA / r/g 8682
+MOON – Photography (Part 2)
+Pre-pack cargo items for return or disposal on ТК 715 / r/g 8650, 8461, 8636
+RR- Cleaning Animal Access Unit
+Camcoder Settings Check for Photo/TV
+Water Analysis with MCD
+IMS Delta File Prep
+TOCA Data Recording
+COGN – Battery Testing
+
+Completed Task List Items
+
+COL stowage consolidation
+IMAX – 1DC body swap
+IMAX C500 card format
+ISSPRESSO ops
+WHC EDV-Y R&R 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+RRM ops 
+

@@ -1,0 +1,64 @@
+
+54S Launch: 54S, carrying Ricky Arnold, Drew Feustel, and Oleg Artimyev to the International Space Station, launched today from the Baikonur Cosmodrome in Kazakhstan at 17:44:23.396 GMT (12:44:23 CDT).  54S is scheduled for a 34-orbit rendezvous with ISS and docking is planned for Friday, March 23 at 19:43 GMT (14:43 CDT).
+Lab Mass Constituent Analyzer (MCA):  Yesterday the crew successfully replacement the Lab MCA Mass Spectrometer (ORU 02) with the on orbit spare. ORU 02 has been pumped down to vacuum and the ion pump is operating. The ground has activated the MCA and it is now in its dryout period (up to 72 hours). 
+Microgravity Science Glovebox (MSG) Video Upgrade Equipment (VUE): This morning the crew loaded software onto a Universal Serial Bus (USB) Flash Drive. They were unsuccessful in their subsequent attempt to boot up the MSG VUE using the USB.  Ground teams are evaluating additional troubleshooting activities.  
+Fluids Integrated Rack (FIR):  The crew replaced the Neodymium-doped Yttrium Aluminum Garnet (YAG) laser assembly in the FIR today.  The laser assembly that was resplaced experienced a failure on March 10th.  The YAG laser is needed for imaging science with the Confocal camera.   
+Circadian Rhythms: Today a crewmember removed Thermolab Double sensors attached to his body, which he had worn for the previous 36 hours. The objective of the experiment is to get a better understanding of alterations in circadian rhythms in humans during long-term space flights. Such knowledge will not only provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions. 
+Earth Imagery from ISS Target (EIISS):  Later today the crew is scheduled to capture images of the Nile at night. EIISS captures a series of videos showcasing targets around the world as seen from the ISS. These videos will be integrated into a product for later release.
+Lighting Effects: A 53S crewmember completed a daily sleep log entry this morning upon waking to record his sleep patterns and wakefulness. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have major implications for people on Earth who use electric lights.
+JEM Ethernet Extender Installation and Checkout: Today the crew installed an Ethernet Extender at the JPM1A7 location.  This extender adds a new capability for communication between Payloads on the Multi-Purpose Experiment Platform (MPEP) and JEM Payload Local Area Network (LAN). The first user of this new capability is the JAXA Loop Heat Pipe Radiator System. 
+US Extravehicular Activity (EVA) 49 Preparation: Today the crew configured two D5 cameras and initiated the final MetOx Regeneration cycle in preparation for next week’s EVA. 
+Advanced Resistance Exercise Device (ARED) Quarterly Maintenance: The crew performed routine maintenance to inspect the X-rotation dashpots, cycled main arm through full range of motions and greased the Vibration Isolation and Stabilization (VIS) rails and rollers.
+Dragon Robotics Review On-Board Training (OBT): Today the crew reviewed nominal Dragon robotics procedures to include vehicle capture and berthing operations.  SpaceX-14 is currently scheduled to launch on April 2 and berth to the ISS on April 4.  
+Radiator Beam Valve Module (RBVM) Reposition: Today ground specialists repositioned the RBVM P1-3-2 from the Closed to Vent position in order to purge any remaining ammonia in the P1-3-2 Radiator flow path in preparation for next week’s US EVA 49. The P1-3-2 RBVM supply and return jumpers are tasked to be removed during the EVA and brought inside ISS for future return to Earth. 
+Space Station Remote Manipulator System (SSRMS) Operations:  Ground specialist are unstowing the Special Purpose Dexterous Manipulator (SPDM) from Mobile Base System (MBS) 2 in order to maneuver the SSRMS and SPDM into the Force Movement Sensor (FMS) fine characterization configuration. SPDM Arm1 will grasp the H-fixture on the MBS while the FMS fine characterization is performed on all rotational axes for SSRMS Latching End Effector (LEE) A on both SSRMS strings. Finally, the SPDM will be stowed on MBS2 after conclusion of the test. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Sleep Log Entry – Subject
+Closure of Lab MCA Hand Valve 01
+Circadian Rhythms Deinstrumentation
+SM-AGAT-U55 external batteries charge (2 pieces) from Soyuz 737, recharge initiation
+Lab Major Constituent Analyzer (MCA) Jumper Teardown
+СОЖ maintenance
+Coliform Water Sample Analysis 44 +/- 4 hours post processing
+JEM Ethernet Extender Internal Installation
+Diagnostics on the БСШ-2 Main Bus Assembly & БФ-2 Filter Unit in the FGB Power Supply System.
+Countermeasures Systems (CMS) Exercise Equipment Gather
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Photo/TV Extravehicular Activity (EVA) Camera Configuration
+Vacuum Cleaning FGB Gas Analyzer
+CONSTANTA-2. Installation and Moding of ТБУ-В No.05 to + 4 deg С.
+USOS Window Shutter Close
+VEG-03 Dual Facility Watering for each Plant Pillow
+Transfer of [СППЗ] Kits to the nominal stowage location in FGB
+Fluids Integrated Rack Rack Doors Open
+ИП-1 Sensors Positioning Check
+Fluids Integrated Rack YAG Laser Replace
+Delta File Prep for IMS
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Advanced Resistive Exercise Device (ARED) Quarterly Inspection
+SM-AGAT-U55 external batteries charge (2 pieces) from Soyuz 737, recharge initiation
+GoPro HERO3 Battery Charge from Soyuz-737, recharge termination
+Fluids Integrated Rack Doors Close
+Portable air samples with Portable O2 Monitor and CDM
+Earth Imagery from ISS Nikon Target Operations
+GoPro HERO3 Battery Charge from Soyuz-737, recharge termination
+SSC-5 Logout
+URISYS Hardware Setup
+On-board Training (OBT) Dragon Robotics Review
+Metal Oxide (METOX) Regeneration Initiation
+Onboard Training (OBT) Robotics On-board Trainer (ROBoT) Setup
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Standard Commanding
+FMS Fine Characterization 
+

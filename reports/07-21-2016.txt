@@ -1,0 +1,95 @@
+
+Dragon Operations:  The crew was scheduled to ingress and configure Dragon for on-orbit operations today, however, these tasks were completed yesterday. Today they transferred critical cargo and unpacked double cold bags to retrieve science as well as transferring 2 “Polar” freezers from Dragon into the EXPRESS rack locations that had been prepared for them. 
+Mouse Epigenetics Setup Operations: Crewmembers reconfigured the Cell Biology Experiment Facility (CBEF) to establish an alternate power resource from the Utility Outlet Panel (UOP) and transferred the mice from the Transportation Cage Unit (which was used to house them during launch) into the Mouse Habitat Cage Units onboard ISS. The Mouse Epigenetics investigation studies altered gene expression patterns in the organs of male mice that spend one month in space and also examines changes in the deoxyribonucleic acid (DNA) of their offspring. Results from the investigation identify genetic alterations that happen after exposure to the microgravity environment of space.
+Heart Cells Habitat Preparation and Sample Installation: Today, the Heart Cells samples were removed from the SpaceX-9 Dragon capsule and transferred to SABL 2.  The crew then prepared for operations in SABL 1 by configuring the carbon dioxide (CO2) Incubator Controller and installing hardware inside.  The samples were placed in active temperature and CO2 control when they were transferred from SABL 2 into SABL 1. The Heart Cells investigation studies the human heart, specifically how heart muscle tissue contracts, grows and changes (gene expression) in microgravity and how those changes vary between subjects. Understanding how heart muscle cells, or cardiomyocytes, change in space improves efforts for studying disease, screening drugs and conducting cell replacement therapy for future space missions.
+NanoRacks Platform-1 Module Install: Six NanoRack Modules were installed on NanoRacks Platform 1. NanoRacks Modules 41 (Awty-BE-HDPE Rad Shielding), 43 (Slime Mold), and 44 (Awty-Yeast Cell Growth in a Microgravity Environment) were configured on the left side of the NanoRack Platform and Modules 45 (Duchesne-Light Wavelengths on Algae Production), 46 (Duchesne-Plant Growth Chamber), and 69 (Silver Electrolysis/ Eagelcrest) were configured on the right side. The NanoRack Platform is a multipurpose research facility that supports NanoRacks Modules by providing power and data transfer capabilities to operate investigations in microgravity.
+NanoRacks Module 9: The crew performed tasks for the NanoRack Module-9 experiment by activating, deactivating, and shaking the mixture tubes. This experiment is a collection of student research projects utilizing the NanoRacks Mixsticks. Student teams from across the United States design their own experiments using flight approved fluids and materials. 
+Fluids Integration Rack (FIR) RPC trip troubleshooting – RPCM LA2A3B-G RPC-2 (FIR Main Power) tripped in late June.  The payload that was running inside FIR at the time (MicroChannel Diffusion) was able to complete their operations on auxiliary power.  Troubleshooting on the RPC trip was completed today.  FIR was initially powered using auxiliary power, but gradually transitioned to main power. FIR was then deactivated and re-activated in a nominal configuration. No RPC trips were seen throughout the troubleshooting. FIR was deactivated upon completion. There are currently no liens on future use of FIR main power.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+NEUROIMMUNITET. Saliva Sample Psychological Testing (Session 1) r/g 2857
+CORRECTSIYA. NEUROIMMUNITET. Blood Collection r/g 2857
+NEUROIMMUNITET. Venous blood sample processing (smear)  r/g 2857
+CORRECTSIYA. NEUROIMMUNITET. Venous blood sample processing using Plasma-03 centrifuge / r/g 2857
+RUEXP Blood Sample Insertion into MELFI
+CORRECTSIYA. NEUROIMMUNITET. Handover to USOS for MELFI Insertion / r/g 2857
+CORRECTSIYA. NEUROIMMUNITET. Closeout Ops / r/g 2857
+Crew Quarters Closing Doors
+On MCC Go Regeneration of БМП Ф1 Micropurification Cartridge (start)
+DRAGON Ingress
+SpX9 Air Sampling using АК-1М sampler prior to Air Duct Installation r/g 2858
+24-hour BP monitoring (start) / r/g 2856
+NEUROIMMUNITET. Psychological Test / r/g 2857
+Sprint Exercise, Optional
+24-hour ECG Monitoring (start) / r/g 2855
+Dragon Arrival Photos
+Dragon Center Stack Transfers
+NEUROIMMUNITET. Hair Sample / r/g 2857
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2822
+Familiarization with Auxiliary Computer System r/g 2863
+PRODUTSENT. Removal from ТБУ-В No.02 (+30 deg C), switching to +26 deg C and transfer to ТБУ-В No.04 r/g 2865
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start) r/g 2224
+Crew time for ISS adaptation and orientation
+Photography of Plume Impingement and Deposit Monitoring Unit (БКДО) position on MRM2 through SM window No.13  (after Progress 433 docking) / r/g 1348
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 1589
+XF305 Camcorder Settings Adjustment
+Early unstow items
+CBEF Backup power reconfig
+CARDIOVECTOR. Experiment Ops r/g 2859
+Preventive Maintenance of Docking Assembly (АСП)/ Hatch Sealing Mechanisms (DC1) and Progress 433 Hatch
+CASKAD. Completion of Anabioz P/L battery charge / r/g 2848
+Dragon Double Cold Bag Unpack
+BODYM  Equipment Setup
+MOUSE. Item gathering
+STEM CELL Insertion of bio-dosimeters into MELFI
+UOP. Activation
+HRTCEL. Installation of СО2 Controller in SABL
+IMS Delta File Prep
+UOP. Activation
+XF305 Camcorder Settings Adjustment
+GLOVE BOX. Installation of Glove Box
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2822
+Filling (separation) of EDV [KOB] for Elektron
+Multi-Purpose Small Payload Rack (MSPR) Hard Drive Exchange
+Restow Dragon Vestibule Outfitting Kit (VOK)
+Polar Transfer and Installation in EXPRESS rack
+СОЖ Maintenance
+MSG Installation of Gloves in the Glove Box
+Polar Transfer and Installation in EXPRESS rack
+OTKLIK. Hardware Monitoring / r/g 1588
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup r/g 2224
+NANO Viewing OBT materials for MODULE-9
+NANO Experiment ops and video.
+CORRECTSIYA. NEUROIMMUNITET. Experiment setup / r/g 2864
+MOUSE. Module Transfer to JPM
+INTERACTION-2. Experiment Ops / r/g 2861
+NANO – Module installation
+Dragon Double Cold Bag Unpack
+Vacuum Cleaning area behind panels 405, 406 and MRM1 Interior
+CASKAD. Glovebox-S hardware prep r/g 2866
+RWS Power Down
+POLAR sample transfer 1
+Dragon Cargo Operations Conference
+CEVIS Exercise
+INTERACTION-2. . Experiment Ops / r/g 2862
+POLAR sample transfer 1
+GLOVE. Close-out ops with the Glove Box
+HRTCEL. Experiment Setup
+On MCC Go Regeneration of БМП Ф1 Absorption Cartridge (end)
+NEUROIMMUNITET. Saliva Sample. Psychological Test / r/g 2857
+NEUROIMMUNITET. End of ECG Recording. Close-out Ops, Data Downlink / r/g 2857
+NEUROIMMUNITET. Saliva Collection / r/g 2864
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2822
+NEUROIMMUNITET. Starting 24-hr ECG Recording / r/g 2864
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Dragon ops
+Nominal ground commanding.
+

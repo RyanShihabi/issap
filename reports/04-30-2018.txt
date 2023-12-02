@@ -1,0 +1,89 @@
+
+Japanese Small Satellite Orbital Deployer 8 (J-SSOD#8):  Today the crew extended the Slide Table into the Japanese Experiment Module (JEM) from the JEM Airlock (JEMAL) and installed the Multipurpose Experiment Platform (MPEP).  They then installed two J-SSOD#8 deployers on the MPEP.  The J-SSODs are used to launch small satellites from the JEM Remote Manipulator System (JEMRMS). The crew will also set up and photograph flags for the United Nations, Costa Rica, Kenya and Turkey.  The Slide Table will then be retracted back into the JEMAL.
+Multi-Use Variable-G Platform (MVP):  The crew fixed specific Drosophila modules and inserted them into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) today.  MVP is used to conduct research in space with a wide variety of sample types, such as fruit flies, flatworms, plants, fish, cells, protein crystals and many others.  It includes internal carousels that simultaneously can produce up to 2 g of artificial gravity. Each carousel hosts 6 separate removable experiment modules on each carousel. Video and still imagery, including microscopy, can be included. The platform also provides temperature and humidity controls and monitors and records oxygen and carbon dioxide levels.
+Center for the Advancement of Science in Space (CASIS) Protein Crystal Growth (PCG)-9: The crew removed PCG-9 sample bags containing Copper Sulfate from a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) and checked them for crystal growth.  Crystals were observed in all of the sample bags, so the crew photographed and extracted fluid from the bags prior to the samples being returned to the MELFI. The Wisconsin Crystal Growing Contest-Wisconsin Space Crystal Mission (CASIS PCG 9) investigation provides student researchers the opportunity to explore crystal growth in the microgravity environment of the ISS. Crystals grown without the influence of gravity have shown to contain fewer imperfections and grow to larger sizes. Middle and high school students compete to grow the most perfect ground-based crystal, as judged by experts in the crystallography field. The students who present the crystals with the fewest imperfections have the opportunity to fly their experiments to the space station.   
+Divert Unwanted Space Trash (DUST):  On Saturday the crew collected samples and photographs of various vents in the US Laboratory and Nodes 1, 2 and 3.  They then inserted the samples into cold stowage and downlinked the photographs.  The DUST investigation collects and analyzes particulates in airborne debris from the ISS cabin. Unique aspects of the spacecraft environment, such as lack of gravity and no fresh air, influence the size, quantity, and components of airborne particulate matter, which in turn affects air quality aboard the station. The data also provides baseline information for future spacecraft particle detector design, and the debris can be used for realistic testing of possible particulate monitors for future long-duration missions.
+Human Research Facility (HRF)-2:  Today the crew installed a payload drawer containing the new HRF centrifuge into the HRF-2 rack.  The HRF racks support human life science research that evaluates the physiological, behavioral, and chemical changes induced by space flight. Experiments that use the capabilities provided by the racks will produce data to help scientists understand how the human body adapts to long-duration space flight.
+Dragon Cargo Transfer:  The crew continued transferring cargo to the Dragon vehicle today.  Samples were moved from Minus Eighty Laboratory Freezer for ISS (MELFI)-2 and MELFI-3 to the Polar freezers identified for return. Tomorrow, the crew will load the center stack cargo as well as close out and egress the vehicle.  While release of Dragon is currently scheduled for Wednesday, 2 May, the weather forecast at the Prime Recovery site is marginal.  Teams continue to evaluate weather conditions and planners will rescheduled cargo operations if necessary to support a slip to the backup landing date of 5 May.  
+Node 3 (N3) Low Temperature Loop (LTL) Status: Saturday, the N3 LTL pump unexpectedly shutdown. This pump was installed last Thursday due to degraded performance of the old N3 LTL pump.  The system successfully transitioned to single Moderate Temperature (MT) and cooling to all N3 hardware was maintained.  Engineering teams reviewed the data and were not able to identify the cause of the pump shutdown; pump performance appeared to be nominal until the event.  The N3 LTL pump was restarted Sunday morning and has been operating nominally in single LTL mode.  Tomorrow, the N3 will be transitioned to Dual Loop Mode in order to put the system in a nominal configuration prior to SpaceX-14 unberth. Ground teams will continue to monitor pump performance.
+Space Station Remote Manipulator System (SSRMS) Operations: Saturday morning, the Robotics Ground Controllers maneuvered the SSRMS and the Special Purpose Dexterous Manipulator (SPDM) Arm2 to stow Robot Micro Conical Tool 2 (RMCT2) on SPDM Tool Holder Assembly 2 (THA2).  After performing the SPDM Backup Drive Unit (BDU) checkouts (required every 180 days), they maneuvered SSRMS as required to stow SPDM on MBS PDGF2.  Next they maneuvered SSRMS to walk off on Node2 PDGF and finally they grapple Dragon Flight Releasable Grapple Fixture (FRGF). SSRMS is now in position for Dragon Unberth and Release planned Wednesday, May 2nd. MSS performance was nominal.
+Extravehicular Activity (EVA) Preparations: Today the crew initiated a Metox canister regeneration cycle in preparation for the upcoming US EVA Pump Flow Control System (PFCS) Relocate currently planned on May 16th.  Shortly after initiating the cycle, however, the LAB Carbon Dioxide Removal Assembly (CDRA) unit shutdown due to a fault. Flight Rules do not allow for Metox regeneration when CDRA is unavailable and the operation was terminated and rescheduled for tomorrow. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+Multi-use Variable-g Platform On-Board Training Review
+Multi-use Variable-g Platform Module Ops
+Space Pup Bio Dosimeter Retrieval in MELFI
+Set up KMA-01 unit and KMA-TM telemetric adapter. Check out KMA-01
+XF305 Camcorder Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+KOSMOKARD. 24hr electrocardiogram recording (prep + init).
+Waste and Hygiene Compartment (WHC) Full Fill
+MPEP Installation to JEM Airlock Slide Table
+Install additional fans to improve SM power control system’s 800А units thermal performance.
+ISS ROS light inventory taking in MRM1, MRM2, DC1
+MPEP Installation to JEM Airlock Slide Table Support
+JEM Small Satellite Orbital Deployer (SSOD) onto Multi-Purpose Experiment Platform Installation
+DC1 В3 fan grid cleaning
+Small Satellite Orbital Deployer Checkout Prep
+On-board Training (OBT)  for Dragon Ground Release
+[ВКС] Laptops Virus Definition File Update
+Polar Sample Transfer From Cold Stowage 3
+Mouse Stress Defense Post-mission Transfer Familiarization 2
+Multi-Use Variable-G Platform Sample MELFI Insertion
+EDV (KOV) or EDV-SV fill (separation) for ELEKTRON
+Polar Sample Transfer From Cold Stowage 2
+FAZOPEREKHOD. Prep ops and science ops launch
+Polar Sample Transfer From Cold Stowage 1
+СОЖ maintenance
+Measure the meal table’s side handrail fixture points
+Cold Stowage Dragon Double Coldbag Pack Overview Review
+WORF Laptop Connect
+Small Satellite Orbital Deployer Checkout Cleanup
+Countermeasures System Advanced Resistive Exercise Device Cue Card Print
+Cargo Transfer to Dragon
+ELEKTRON [БКО] treatment assy R&R
+Vacuuming [ГЖТ4]’s [ВТ-7] screen behind FGB panel 108
+Countermeasures System Advanced Resistive Exercise Device Exercise Bench Photos
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+HRF1 And HRF2 Payload Drawer Reconfiguration And Installation
+On-board Training (OBT) Dragon Departure Review
+SSOD 8 Flag Set and Photo
+FAZOPEREKHOD. Closeout ops.
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Retrieval of PCG-9 Hardware from MELFI
+Polar and TCU Transfer from ISS Overview
+Inspection of Sample Bags for Crystal Growth
+FAZOPEREKHOD. Prep ops and science ops launch
+HRF Centrifuge Post-Installation Setup
+Dragon Cargo Operations Conference
+Extraction of Liquid from Sample Bags and Association Photos
+Umbilical Interface Assembly (UIA) R&R Audit
+Interest Photos and Recorded Video for Downlink
+Polar and TCU Transfer from ISS Overview
+Condensate Tank to Water Processor Assembly (WPA) Transfer
+Delta file prep
+TReK Laptop Reconnect
+BD-2 position verify
+InvitroBone-2 Transfers from ExPRESS Rack to Dragon capsule
+Cold Stowage Dragon Double Coldbag Pack Overview Review
+Node 2 Nadir Vestibule Outfitting Kit (VOK) Gather
+FAZOPEREKHOD. Closeout ops
+Metal Oxide (METOX) Regeneration Initiation [Aborted]
+Wastewater Storage Tank Assembly (WSTA) Fill [Aborted]
+Exercise Data Downlink via OCA
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+
+Completed Task List Activities
+
+Solid Waste Container [KTO] R&R [Completed GMT 119]
+Invitrobone Fan Setup [Completed GMT 118]
+ Veggie Ponds Wick Open [Completed GMT 118]
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+MVP Support
+MELFI/POLAR Transfer Support
+JEM RMS Support
+

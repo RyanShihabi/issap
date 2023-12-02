@@ -1,0 +1,101 @@
+
+Sprint: With assistance from Flight Engineer (FE)-3 Swanson, Commander (CDR) Wakata took data for his Return-7 days ultrasound Sprint session. Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions. Ultrasound scans are on FD 14, 30, 60, 90, 120, 150, and R-7 for mission duration of six months and are used to evaluate spaceflight-induced changes in the muscle volume.
+Micro-7 Canister D Activation: FE-5 Mastracchio removed the Micro-7 fixation kit from Commercial Generic Bioprocessing Apparatus (CGBA)-4 and the BioCell Habitat D from CBGA-5. He processed BioCell Habitat D and placed it in Microgravity Experiment Research Locker Incubator II (MERLIN). The majority of cells in the human body are non-dividing cells that provide critical functions, from blood cells to cells in different organs. Micro-7 studies how microgravity affects the genetic expression and physical shape of these types of cells for the first time. Understanding how these cells function in microgravity is a step toward understanding how organs, tissues, and the entire body change during spaceflight.
+Petri Plant Operations: The first run of Petri Plants was completed today.  Wakata successfully acquired data on four distinct plant types at 2.5X and 10X magnifications using two different microscope filters.  Following this run, Swanson removed the Petri Plate from the Light Microscopy Module (LMM) and returned it to the Petri Plate Fabric Mount.  Petri Plants investigation focuses on the growth and development of Arabidopsis thaliana seedlings in the spaceflight environment, with a specific focus on how a root knows which direction to grow in when gravity is absent. Plants are grown in agar, a nutrient solution with a gelatin-like consistency, and exposed to light or dark conditions. Plants are harvested on-orbit, preserved with a chemical preservative, and returned to the ground for post-flight evaluation.
+Threshold Acceleration for Gravisensing (GRAVI)-2:  After today’s completion of GRAVI-2 run #1, Mastracchio disassembled the culture chambers and fixative units from the European Modular Cultivation System (EMCS) and stored them in the Biolab Temperature Control Unit.  The aim of GRAVI-2 is to subject lentil seedling roots to different centrifugal acceleration levels in microgravity, in order to determine the threshold of acceleration the roots respond to. The seedling roots are stimulated by means of a centrifuge for several hours, and the gravitropic response (root curvature) is followed by time-lapse photography or video observation during this centrifugation; making it possible to determine precisely the threshold acceleration at which the root responds to the gravity stimulus. After the stimulation period, the roots are chemically fixed in glutaraldhyde, formaldehyde, and RNALater to determine the movement of amyloplasts under the influence of the stimulation.
+SpaceX-3 Optical PAyload for Lasercomm Science (OPALS): Following yesterday’s successful extraction of OPALS from the Dragon trunk, Robotics Ground Controllers prepared for tomorrow’s installation of OPALS on Express Logistics Carrier (ELC)1.  This afternoon they walked off the Space Station Remote Manipulator System (SSRMS) to Mobile Base System (MBS) Power Data Grapple Fixture (PDGF)4.  Later today they will unstow the Special Purpose Dexterous Manipulator (SPDM) and translate the Mobile Transporter (MT) from Work Site (WS)-6 to WS-7.
+37 Soyuz (37S) Departure Preparations: In preparation for 37S undock scheduled for next Tuesday, May 13, Mastracchio and FE-4 Tyurin performed On Board Training (OBT) Soyuz Drill #1.
+ISS Emergency Drill:  Wakata, Swanson, FE-1 Skvortsov, and FE-2 Artemyev participated in an ISS emergency drill and debrief.  Today’s case was a cabin depress. The purpose of this drill was to practice ISS emergency responses based on information provided by the onboard simulator. The crew physically translated through ISS to appropriate locations in order to visualize the use of station equipment and interfaces. They also practiced procedure execution and associated decision making, all while exercising communication skills with MCC-H and MCC-M.
+Today’s Planned Tasks
+
+Circadian Rhythms Experiment Constraints Reminder [Complete]
+SM ПСС (Caution & Warning Panel) Test [Complete]
+Laptop RS1(2) Reboot / Onboard Computer System (БВС)  [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+Biochemical Urine Test [Complete]
+URYSIS Hardware Stow [Complete]
+Daily Planning Conference (S-band) [Complete]
+USND2 – Hardware activation [Complete]
+PETRI – Turning Lights On [Complete]
+SPRINT – Camcorder setup and SW config [Complete]
+On MCC Go БМП Ф2 Absorption Cartridge Regeneration (start) [Complete]
+MOTOCARD. Experiment Ops  r/g 5556 [Complete]
+ТК 711 Descent Drill and Return Equipment List & Stowage Consultation.r/g 5463, 5266, 5561 [Complete]
+MOTOCARD. Experiment Assistance. r/g 5557 [Complete]
+SPRINT – Experiment Ops [Complete]
+Diagnostics of FGB СУБК instruments  r/g 5513 [Complete]
+Diagnostics of FGB Power Supply System БФ-2 and БСШ-2. r/g 5520 [Complete]
+Sampling condensate water [КАВ] upstream of СРВ-К2М Gas-liquid mixture filter  r/g 5552 [Complete]
+Crew Departure Prep [Complete]
+USND2 – Equipment Deactivation and Stowage [Complete]
+Locating and preparing equipment for cable routing and EKTS Antenna Equipment installation. r/g 5563 [Complete]
+Restow of NASA hardware used for FGB EPS Diagnostics [Complete]
+Sampling condensate water [КАВ] upstream of СРВ-К2М БКО–sampler replacement  r/g 5552 [Complete]
+MICRO7 – Fixation Ops Procedure Review [Complete]
+ISS Emergency Response OBT. [Complete]
+MICRO7 – Fixation Ops [Complete]
+БРП-М water sampling to drink bags  r/g 5552 [Complete]
+СВО-ЗВ water sampling to Russian drink bags  r/g 5552[Complete]
+ISS Emergency Drill Debrief [Complete]
+WRS Sample Collection [Complete]
+RGN REC-TNK – Remove depress hose for nominal operations [Complete]
+SEINER. Photo Spectral System (ФСС) Battery Charge (start) / r/g 3620 [Complete]
+ТК 711 Prepack Ops / r/g 5463, 5266 [Complete]
+СОЖ Maintenance [Complete]
+Sampling condensate water [КАВ] upstream of СРВК-2М БКО – removing sampler, disassembling config  r/g 5552 [Complete]
+TOCA Potable Water Dispenser (PWD) Sample Analysis [Complete]
+OBT ISS Emergency Response Conference [Complete]
+HRF Blood Collection Hardware Setup [Complete]
+PETRI – Photography [Complete]
+Photo/TV Camcorder Setup Verification for ARED Exercise Video [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+DRAGON. Transfer Ops [Complete]
+PAO Event [Complete]
+APEX – Sample Retrieval from GLACIER [Complete]
+БД-2 SW Update. r/g 5558[Complete]
+APEX – Sample Exchange [Complete]
+APEX GLACIER Sample Insertion [Complete]
+GRAVI2 – crew procedure review for post-experiment run operations [Complete]
+FIR Door Opening [Complete]
+Dragon Cargo Operations Conference [Complete]
+Crew Departure Prep [Complete]
+Set up video equipment to record ARED exercise [Complete]
+EMCS – Experiment end [Complete]
+LMM – Light Microscopy Module Rotation  [Complete]
+EMCS – Container Removal [Complete]
+SEINER. Observation and Photography  r/g 5559 [Complete]
+LMM – Removal of Petri dishes from LMM AFC [Complete]
+GRAVI2 – equipment deactivation and  stowage [Complete]
+IMS Update [Complete]
+LMM – Light Microscopy Module Rotation  [Complete]
+FIR – Door closure [Complete]
+Water processing using MCD [Complete]
+CONYUGATSIYA. Setup of TBU-V No. 2 / r/g 5566  [Complete]
+TOCA Data Recording [Complete]
+PETRI – Turning lights off 
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+37S US prepack [In work]
+XFER Dragon Cargo Ops [In work]
+MELFI1 tray inspect [Complete]
+SSC12 recovery [In work]
+Crew departure prep (CDR) [In work]
+Data prep return (CDR, FE-5) [In work]
+FPS tool gather [In work]
+NOD1OS2 LHA R&R
+NOD1PD2-LHA R&R
+ST ISS Read
+
+Ground
+
+Nominal commanding
+SSRMS walkoff, unstow SPDM, translate MT to WS7 [In Work]
+

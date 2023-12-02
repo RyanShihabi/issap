@@ -1,0 +1,73 @@
+
+Node 3 Carbon Dioxide Removal Assembly (CDRA) Repair:  Kelly and Kopra replaced the Fan Motor Controller (FMC) on the Node 3 CDRA which had failed on January 19th.  In addition to the FMC change out, the crew took advantage of the CDRA configuration and also replaced a faulty Secondary Heater Controller, an Air Selector Valve 104, and cleaned the Node 3 Avionic Rack Air Assembly.  Following the repair, ground controllers successfully reactivated the unit.
+ 
+Habitability:  Today Kopra recorded a narrated task video of his activities to remove and replace the Node 3 Carbon Dioxide Removal Assembly (CDRA) Heater Controller, Motor Controller and CO2 Selector Valve.  He captured details such as hardware and tool interface issues, volume needed to perform the task, or other human factors concerns for task performance.  The Habitability investigation results will be used to assess the relationship between crew members and their environment in order to better prepare for future long-duration spaceflights to destinations, such as near earth asteroids and Mars. Observations recorded during 6 month and 1 year missions can help spacecraft designers determine how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+ExtraVehicular Activity (EVA) Tool Stow:  Peake received USOS tools from Volkov that were used as part of yesterday’s Russian Segment EVA.  Once the tools were transferred, he stowed the items within the US Airlock.  Among the items transferred were Tethers, Radio Frequency Camera Assemblies, Helmet Interchangeable Portable Lights, and Rechargeable EVA Battery Assemblies.
+ 
+Potable Water Dispenser Sample Analysis:  Peake visually analyzed water samples within Coliform Detection Bags and Microbial Capture Devices (MCDs) after 48 hours of incubation. The samples had been obtained from the USOS and RS water dispensers on Tuesday. The samples will be returning to the ground by way of Soyuz 44 next month.
+ 
+Special Purpose Dexterous Manipulator (SPDM) Main Bus Switching Unit (MBSU) Demonstration:  Ground controllers began 3 days of activities designed to validate robotic transfer of battery style Orbital Replacement Units (ORUs) prior to the delivery of new ISS batteries on HTV-6.  A successful demonstration will allow planners to reduce the number of EVAs to install the batteries.  This afternoon, controllers are using the SPDM to move the spare MBSU Flight Releasable Attachment Mechanism (FRAM) from Express Logistics Carrier (ELC)-2 to the Enhanced ORU Temporary Platform (EOTP) on SPDM.  Controllers will then use the Right-hand Off-Set Tool (ROST) to unfasten the MBSU secondary bolt.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Gathering CDRA Kits
+Columbus Stowage Consolidation – Part 3 of 3
+EPO – Review Video Demonstration
+Photo/TV CDRA Node 3 Video Setup
+Carbon Dioxide Removal Assembly (CDRA) Removal
+Unstow of EPO and Classroom Videos Demonstrations (CVD) items
+MELFI – Retrieval of Ice Bricks
+Position JEM Camcorder for a view of CDRA activities
+CDRA R&R
+Node1 Camcorder Settings Adjustment
+Post-EVA Orlan Debrief With Specialists
+EXPOSE-R. Copy and Downlink Data
+Deinstall US TV cameras, Lights, and REBA power supply from Orlan No.4 and No.6
+HABIT. Overview Video
+Handover of US EVA Tools to the USOS after RS EVA 42
+Post-EVA Pille Dosimeter Reading
+ISS HAM Radio – Radio Power up
+Drying Orlan-MK Water Feed Line
+Portable Computer System (PCS) Hard Drive (HD) Swap and Image
+Orlan Feedwater Bladder Refill
+Post-EVA Medical Kits Restow
+EVA – RS EVA Tool Stowage
+HABIT – Launching the Application
+Carbon Dioxide Removal Assembly (CDRA) CO2 Selector Valve (ASV) Remove and Replace
+On MCC Go Progress 431
+Cygnus Cargo Operations
+Orlan-MK Drying – start
+HABIT – End Task
+Digital Media Setup
+DC1 – СУ Hatch Opening
+CSA PAO Recording and Downlink (Marrow P/L)
+On MCC GO ТКГ-СУ Hatch Opening
+Installing Quick-Release Screw Clamps on DC1 side
+ТКГ 431 (DC1) deactivation, air duct installation
+INTERACTION-2. Experiment Ops / r/g 1316
+Environmental Health System (EHS) Microbial Capture Device (MCD) – In-flight Microbiology Water Analysis and GMT Day 33 Data Recording
+Orlan-MK Drying (switching to a backup fan)
+On-orbit hearing assessment using EARQ
+CIR – Post-Experiment Hardware Stowage
+СОЖ Maintenance
+HAM radio session from Columbus
+HABIT – Hardware Setup
+Orlan-MK Drying – terminate
+BRI log download from RSS1
+Setting up Orlan and БСС for storage mode
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+SPDM MBSU Demo
+
+ 

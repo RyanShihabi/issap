@@ -1,0 +1,95 @@
+
+Advanced Combustion via Microgravity Experiments (ACME):  The crew replaced the Combustion Integrated Rack (CIR) manifold bottles this morning. To prepare for the second part of the CLD Flames investigation the crew configured the ACME Chamber Insert, replaced the igniter tip, and replaced two ACME controllers.  The ACME experiment series being performed in the CIR includes five independent studies of gaseous flames.  The primary goals of ACME are to improve fuel efficiency and reduce pollutant production in routine fuel combustion activities on Earth.  Its secondary goal is to improve spacecraft fire prevention through innovative research focused on materials flammability.
+Kubik 6:  The commissioning for ESA’s Kubik 6 facility continued today.  The crew set up the Kubik 6 in the Columbus module, adjusted the sensor signal and calibrated the temperature sensors.  They then installed the Foam Carriers in Kubik 6.  Kubik is a small controlled-temperature incubator or cooler used to study biological samples in a microgravity environment.  It is equipped with removable inserts designed for self-contained, automatic experiments using seeds, cells, and small animals. 
+Atomization:  Today the crew set up and activated Atomization hardware in the Multi-purpose Small Payload Rack (MSPR).  The Atomization experiment investigates the disintegration processes of a low-speed water jet for various jet issue conditions in the Japanese Experiment Module (JEM) to validate the new atomization concept by observing the process using a high speed camera. The knowledge gained can be applied to improve various engines utilizing spray combustion.
+Human Research Program (Biochemical Profile, Marrow, Vascular Echo, and Repository): 53S crewmembers collected urine samples for their Return minus 14-day session of the Biochem Profile, Marrow, Vascular Echo and Repository investigations.  Collecting of blood samples has been delayed because of an issue with activating the Refrigerated Centrifuge (RC).  The alternate centrifuge will be used.  Troubleshooting plans are in work by the team.  A 54S crewmember collected urine samples for his Flight Day 60 session of the Biochem Profile and Repository investigations. 
+
+The Biochemical Profile investigation tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results; which scientists can use to study the effects of spaceflight on the body.
+Marrow looks at the effect of microgravity on bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow.
+Vascular Echo examines changes in blood vessels and the heart while the crew members are in space, and then follow their recovery on return to Earth. The results could provide insight into potential countermeasures to help maintain crew member health, and quality of life for everyone.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. The repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+
+NeuroMapping: A 53S crewmember set up the Neuromapping hardware today and performed his Flight Day 150 tests in “strapped in” and “free floating” body configurations. The NeuroMapping investigation studies whether long-duration spaceflight causes changes to brain structure and function, motor control, and multi-tasking abilities. It also measures how long it takes for the brain and body to recover from possible changes. Previous research and anecdotal evidence from astronauts suggests movement control and cognition can be affected in microgravity. The NeuroMapping investigation includes use of structural and functional magnetic resonance brain imaging (MRI and fMRI) to assess any changes that occur after spending months on the ISS. 
+OA-9 Robotics Onboard Training:  Today the crew scheduled to capture OA-9 performed a second Robotics Onboard Trainer (ROBoT) session a reviewed their Cygnus Attached Phase procedures. ROBoT is an on-orbit version of the ground-based Dynamics Skills Trainer (DST) that simulates robotics operations with graphical feedback. 
+Extravehicular Activity (EVA) Preparations: Today the crew conducted Extravehicular Mobility Unit (EMU) maintenance and EVA tool configurations in preparation for the upcoming US EVA #51 Node 2 EWC.  Following the EMU Cooling Loop Scrubs, the crew took water samples from the cooling loops, performed and iodination of EMU Ion Filters, and tested the water samples for conductivity. The Node 2 EWC EVA is currently planned for June 14th. 
+Public Affairs (PAO) Live Event: Today Arnold and Tingle participated in a live PAO event with the Vaughn Next Century Learning Center in San Fernando, California.  The audience for this event consisted of student representatives from all grade levels and ages across Vaughn’s TK-12 span and Science, Technology, Engineering and Math (STEM) programs.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Marrow Breath And Ambient Air Sample Collection
+HRF Generic Frozen Blood Collection Double Spin Collection and Configuration 1 [Aborted]
+HRF Generic Urine Collection
+HRF Generic Refrigerated Centrifuge Double Spin Configuration 2 [Aborted]
+Installation of the Columbus Payload LAN Switch in Columbus
+MORZE. Log Entry of Liquid and Food (Medicine) Intake
+HRF Generic Refrigerated Centrifuge Spin Conclude [Aborted]
+Water Transfer from Progress 438 Rodnik H2O Tank 2 and Compression
+XF305 Camcorder Setup
+Multi-purpose Small Payload Rack (MSPR) Component Deactivation for Atomization
+Combustion Integrated Rack Hardware Gather
+Activation of the Columbus Payload LAN Switch
+Verification of ИП-1 Flow Sensor Position
+Atomization set up 2
+ISS HAM Video Power Down
+COSMOCARD. Closeout Ops
+ISS HAM Service Module Pass
+PILOT-T. Preparation for the experiment.
+Combustion Integrated Rack Rack Doors Open
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+PILOT-T. Experiment Ops and Data Downlink
+Combustion Integrated Rack Front End Cap Open
+ACME Chamber Insert Configuration
+Multi-purpose Small Payload Rack (MSPR) Component Activation for Atomization
+Extravehicular Mobility Unit (EMU) Loop Scrub Check
+Crew departure return to earth prep
+NeuroMapping Experiment Neurocognitive Test Subject
+PILOT-T. Experiment Ops.
+Extravehicular Mobility Unit (EMU) Post Scrub Cooling Loop Water (H2O) Sample
+HRF Generic Frozen Blood Collection Conclude And Stow [Aborted]
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Iodination
+LBNP Training (PRELIMINARY)
+BIOS Setup of the European IP Communication Laptop
+Extravehicular Mobility Unit (EMU) Conductivity Test
+Combustion Integrated Rack Front End Cap Close
+Combustion Integrated Rack Rack Doors Close
+Combustion Integrated Rack Hardware Return
+RSK2 Laptop SW Version 5.0 Hard Drive Swap.
+MORZE. Log Entry of Liquid and Food (Medicine) Intake
+Hardware prepack for return and disposal on Soyuz 737
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+iPad 1020 Troubleshooting
+Mouse Stress Defense Item Consolidation
+PAO Preparation
+Columbus Video Camera Assembly 1 Adjustment
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Deck 1 cleanup for KUBIK activty
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Collecting condensate water samples from СРВ-К2М before Gas-Liquid Mixture Filter (ФГС) into Russian Samplers, initiate
+KUBIK 6 Setup
+CONTENT. Experiment Ops
+Adjustment of KUBIK sensor signal to e-box
+Extravehicular Activity (EVA) Tool Configuring
+On-board Training (OBT) Cygnus Attached Phase Operations review.
+KUBIK Temperature Measurement
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Self study Session
+Stow Syringes used in H2O Conductivity Test
+HRF Generic Frozen Blood Collection Setup
+On-board Training (OBT) Cygnus Attached Phase Operations review.
+MORZE. Experiment setup
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+MORZE. Log Entry of Liquid and Food (Medicine) Intake
+Reminder 1 Vascular Echo 24 Hour Blood Pressure
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+EMU Loop Scrub
+A/L IATCS LTL Flow Term
+STP-H5 File Transfers 
+

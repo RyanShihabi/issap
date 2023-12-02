@@ -1,0 +1,60 @@
+
+Crew Handover Conference: In preparation for 38 Soyuz (38S) arrival scheduled for March 26, Commander (CDR) Wakata and Flight Engineer (FE)-5 Mastracchio participated in a conference to pass on lessons learned to the 38S Crew. The purpose of this activity is to begin the handover process through videocons and data exchanges between the current crew and the upcoming crew prior to a crew’s arrival on orbit.
+Combustion Integration Rack (CIR) Needle Remove and Replace (R&R) Preparation: Wakata reviewed the plan and gathered hardware in preparation for the bent CIR needle R&R this Friday, On February 13th the Multi-user Droplet Combustion Apparatus (MDCA) CIR needle was bent during igniter position ground commanding. The CIR is currently configured for MDCA FLame Extinguishment Experiment (FLEX)-2, which uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Robotics On Board Trainer (ROBoT) Session 2: Wakata and Mastracchio conducted the second session of this training today in preparation for SpX-3 which is scheduled to launch this Sunday, March 16. This session covers Dragon approach from 30m hold through capture. It also provides a big picture review of required coordination between the two crew members.
+Periodic Fitness Evaluation (PFE): Mastracchio completed this periodic examination with assistance from Wakata acting as Crew Medical Officer (CMO). PFEs monitor crewmembers’ overall fitness levels to ensure that cardiovascular and musculoskeletal health and performance is satisfactory. The activity consists of performing a graded exercise test on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
+Node 3 Mass Constituent Analyzer (MCA) Sample Pump:   The Node 3 MCA sample pump 1 reached end of life today.  The MCA was successfully restarted using sample pump 2.  Sample pump 1 was well beyond expected life.  There is a spare pump on board, and the Laboratory (LAB) MCA is also outfitted with a pump not currently in use and is available if necessary.  No further troubleshooting is planned at this time.
+Lab Carbon Dioxide Removal Assembly (CDRA) Air Selector Valve Fault:  The Lab CDRA air select valve experienced a fault earlier today during a half cycle transition.  Ground teams recovered and CDRA is back in operate mode.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) Test [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+Audio Dosimeter Preparation [Complete]
+Daily Planning Conference (S-band) [Complete]
+ISS Crew / SSIPC FD Conference [Complete]
+ISS HAM – Radio Activation [Complete]
+GLACIER3 – Desiccant Pack Swap [Complete]
+ISERV – Window Shutter Open[Complete]
+WHC Fill [Complete]
+Periodic Fitness Evaluation – Nom Ops (subject) [Complete]
+Periodic Fitness Evaluation – Nom Ops (assistance) [Complete]
+MDCA – Test Payload Review [Complete]
+CIR Hardware Gather [Complete]
+IDENTIFIKATSIYA. r/g 3636  [Complete]
+BCAT – Transfer of images from the camera [Complete]
+On MCC GO ISS О2 Repress from ТКГ 422 (DC1) СрПК section 1 (start) [Complete]
+ISS О2 Repress from ТКГ 422 (DC1) СрПК Section 1 (terminate) [Complete]
+СОЖ Maintenance [Complete]
+Crew Handover Conference [Complete]
+CUCU – Activation [Complete]
+CUCU Check [Complete]
+Crew Command Panel (CCP) Stow for Crew Sleep [Complete]
+OBT – Dragon Rendezvous Review [Complete]
+Exercise data downlink / r/g 2639 [Complete]
+Onboard Training (OBT) Robotics Onboard Trainer (ROBoT) Conference [Complete]
+Daily Planning Conference (S-band) [Complete]
+USOS Window Shutter Close [Complete]
+
+Task List
+
+ARED Cylinder Evac [Complete]
+IMV CM Maint
+WHC EDV-Y R&R
+WHC KTO replace
+EKON-M. Observations and photography
+AC Vacuum Bag R&R
+CSA CP Battery Check
+Dragon ROBoT self stury [In work]
+CFE – ICF1 OPS Parts 1,2,3
+NOD1S4 Rack Labels
+EMU SLE Deltas Training
+WHC SW Rec R&R
+Hatch Seal Inspection Pt. 1 [Complete]
+Hatch Seal Inspection Pt. 2
+PMA-1 Duct Clean [Complete]
+
+Ground
+
+Nominal Commanding [Complete]
+

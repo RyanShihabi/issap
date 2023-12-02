@@ -1,0 +1,21 @@
+
+Payloads:
+Flow Boiling and Condensation Experiment (FBCE): FBCE Avionics 1 was replaced within the Fluids Integrated Rack (FIR) and test fluid was refilled. A test Module data cable was left capped as the connector was clocked 180 degrees from the expected configuration. Ground teams are assessing to address this issue. FBCE seeks to validate a model for flow boiling critical heat flux (CHF) and develop an integrated two-phase flow boiling and condensation facility for the ISS. Data from microgravity and the ground are compared to determine the influence of various forces and processes needed for gravity-independent flow boiling and condensation. Results could support development of boilers and heat exchangers that work in both microgravity and partial gravity.
+NanoRacks Bishop Airlock (NRAL) Preparations for Gambit: Today, the crew cleared stowage from the Node 3 Port Endcone and gathered Gambit materials to support upcoming setup and installation activities in NRAL. The crew set up a Pressure Management Device (PMD) to prepare for NRAL depressurization. The objective of Gambit is to evaluate and catalog performance of the NRAL external sites. Gambit will be moved to all six external NRAL sites throughout the course of the investigation, and various sensors measure temperature, vibrations, and radiation to characterize each site. Results could support design and development of future science investigations that use these sites.
+Project EAGLE: Media bag S/N 1 was retrieved from Minus Eighty-degree Laboratory Freezer for the ISS
+(MELFI)-1 and placed into the Microgravity Experiment Research Locker Incubator-3 (MERLIN-3) facility. Culturing human cardiomyocytes or heart cells holds potential for disease modelling and drug discovery. In microgravity, cardiac cells can grow into 3D cultures that have better structural maturation compared with 2D cultures grown on Earth. ISS: Engineering Stem Cell-Derived Cardiac Microtissues with Metabolic Regulators in Space to Promote Cardiomyocyte Maturation (Project EAGLE) grows 3D cultures of cardiomyocytes that could provide a better model of heart disease and improve assessment of therapeutic measures.
+Systems:
+Crew-6 Dragon Endeavour Deorbit Paper Simulation: The Endeavour crew completed a Crew Dragon paper simulation with the ground team and participated in a discussion afterwards to prepare for their departure from the ISS, which is planned for September 1st.
+Crew Quarters Cleaning: In preparation for Crew-6 departure, the crew cleaned the intake and exhaust ducts, fans, and airflow sensors in the Overhead crew quarters. Due to the large amounts of dust seen during previous crew quarter cleanings, the crew removed all relevant panels, temporarily stowed them, and then cleaned all areas at once. The crew also completed troubleshooting by adjusting the flapper valves improve airflow which resolved the crew quarters fan error seen today.
+Crew-6 Dragon Endeavour Thermal Protection System (TPS) Inspection: Robotics Ground Controllers are continuing the second day of the TPS survey for the Crew-6 Dragon using the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM). The survey will conclude this evening. TPS inspections are performed on returning vehicles prior to undock from the ISS to ensure the vehicle is in a good configuration for re-entry. 
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+MSS Survey of Crew Dragon
+Potable System Configuration for EDV fills
+Crew Quarters Overhead Activation
+

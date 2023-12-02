@@ -1,0 +1,96 @@
+
+Bigelow Expandable Aerospace Module (BEAM) Inflation: The crew began inflation operations this morning. During the course of two hours, the crew slowly pressurized BEAM using ISS cabin air, but BEAM only moved ~5 inches compared to the expected 72 inches in displacement and increased from 12 inches compared to the expected ~34 inches of increase in diameter. Once the pressure rose above the maximum planned levels, teams agreed to stand down on operations to discuss the forward plan and analyze the situation. There will be no inflation attempts tomorrow. BEAM pressures will be checked overnight and tomorrow morning. The ISS and BEAM are in safe configuration.
+ 
+Auxin Transport Run #2: Following a three day incubation of samples in the Cell Biology Experiment Unit (CBEF), the crew completed fixation of those samples, which closes out the Auxin Transport experiment run. The Japan Aerospace Exploration Agency (JAXA) Auxin Transport investigation clarifies the role of auxins in pea and maize (corn) seedlings grown in microgravity, leading to new insight into how gravity, or the lack of gravity, affects plant development. This study is expected to contribute to increasing efficiency of plant cultivation in plant factories. The data obtained from the second experiment run will provide evidence of spaceflight‐alterations in auxin polar transport and endogenous levels of auxin, resulting in automorphogenesis.
+ 
+Human Research Facility (HRF) Resupply: The crew removed expired limited life items and resupplied with fresh items with coordination from the ground. Photos of the new items and their location were downlinked for review and verification by ground teams.
+ 
+Treadmill 2 (T2) Inspection: The crew completed this monthly maintenance to inspect the bungee shackle key mount witness marks, Y-Axis isolators, 2 bottom snubbers and all 4 snubber arms for signs of free play. No issues were reported.
+ 
+Compound Specific Analyzer-Combustion Products (CSA-CP) Maintenance: The crew completed this regularly scheduled maintenance to zero calibrate and replace battery packs in all CSA-CPs. Following these activities the units were deactivated.
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+MORZE. Evaluation using SPRUT-2
+MAGVEC Disconnection of MagVector Umbilicals from COL1F2 UIP
+Folding ARED Platform
+BEAM Extended Leak Check
+MAGVEC Hardware Connection
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start) r/g 2224
+HRF2 Supply Kit Resupply
+Surface samples from FGB equipment and structures / r/g 2354
+MORZE. Psycho-physiological Evaluation: Tsentrovka
+Node3 Camera Setup
+BEAM Preparation for Manual Inflation
+BEAM. Deployment Controller Run 1
+BAR. Experiment Ops / r/g 2361
+BEAM NSI (NASA Standard Initiator, aka pyro) Circuit Check
+MORZE. Psycho-physiological Evaluation: Cattell’s Test
+BEAM. Deployment Controller,  Activation and charge monitoring
+MAGVEC MagVector umbilicals re-mating to COL1F2 UIP
+BEAM. Deployment Controller Run 2
+BEAM Manual Inflation [Aborted]
+MORZE. Psycho-physiological Evaluation: Strelau Test
+Scheduled Maintenance of Compound Specific Analyzer- Combustion Products (CSA-CP)
+Cygnus Cargo Operations
+Verification of ИП-1 Flow Sensor Position
+BEAM Preparation for auto pressurization [Deferred]
+BEAM. Deployment Controller Run 3 [Deferred]
+MORZE. Psycho-physiological Evaluation: SUPOS Test
+BEAM. Deployment Controller, deactivation and stowage [Deferred]
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup r/g 2224
+BEAM Pressure and Temperature Reading [Deferred]
+Download of log-files from БСПН P/L Server and БЗУ memory storage device / r/g 2364
+BEAM Vestibule reconfiguration after completion of BEAM deployment [Deferred]
+MORZE. Closeout Ops
+СОЖ Maintenance
+AUT Hardware Gather
+ARED Footplate Unfold to Nominal Position
+RWS Power Down
+MELFI Ice Brick Insertion
+Crew OBT, Crew Medical Officer (CMO), Computer based training
+XF305 Camcorder Settings Adjustment
+AUT R2 Hardware Removal
+AUT R2 Sample fixation
+ALGOMETRIA. Experiment Ops / r/g 1808
+BRI service data download from RSS1 laptop / r/g 2052
+Cleaning fan screens on FGB interior panels (116, 316, 231, 431)
+Cygnus Cargo Operations
+GREAT START. Video Script Review r/g 2353
+GREAT START. Preparation for the Experiment / r/g 2353
+OTKLIK. Equipment Check / r/g 1588
+GREAT START. EPO session and video recording of Regeneratsiya experiment / r/g 2353
+Cygnus Cargo Operations Conference
+MELFI 2 Ice Brick Insertion
+AUT Sample Insertion into MELFI
+AUT R2 Hardware Removal
+AUT R2 Sample fixation
+GREAT START. Closeout Ops / r/g 2353
+Monthly Inspection of T2 Treadmill System
+INTERACTION-2. Experiment Ops / r/g 2350
+SAMS-CU CREW Space Acceleration Measurement System Control Unit Activation
+Health Maintenance System (HMS) Fundoscope Setup
+IMS Delta File Prep
+INTERACTION-2. Experiment Ops / r/g 2351
+AUT Sample Insertion into MELFI
+AUT R2 Closeout Ops
+Fundoscope Eye Exam
+Inspection and photos of space behind SM panels / r/g 2334
+Health Maintenance System (HMS) Fundoscope Setup
+Hematocrit  Hardware Setup r/g 2362
+Fundoscope Eye Exam
+Health Maintenance System (HMS) – Fundoscope Teardown and Stowage
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+BEAM activities
+Nominal ground commanding
+
+ 

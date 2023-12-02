@@ -1,0 +1,112 @@
+
+SpaceX (SpX)-3 Launch Scrub: Today’s planned SpX-3 launch from Cape Canaveral was scrubbed due to an issue with the launch vehicle.  The next launch opportunity would be Friday, April 18, at 2:25pm CDT if the issue can be resolved.
+External (EXT) Multiplexer/Demultiplexer (MDM)-2: EXT MDM-2 did not fully boot when powered up on Friday, drawing only 33 watts of power rather than a nominal 50 watts.  It did not respond to subsequent mode code commands, despite several power cycles. The MDM manages communications from ISS computers to ISS Orbital Replacement Units (ORUs) and replacement of an EXT MDM is one of the critical contingency Extravehicular Activity (EVA) tasks. The ISS Mission Management Team (IMMT) convened yesterday and approved moving forward with SpX-3 launch and berth, as well as an EVA to be performed No Earlier Than (NET) April 22 to replace the MDM.
+ISS HAM Video Commissioning: Wakata successfully completed the fourth ISS HAM video test pass. The first three passes tested the ground reception of the configuration. This fourth pass was a functional test of the optimal configuration over the duration of a full ground pass. All testing was nominal.
+Radi-N2 Neutron Field Study (Radi-N2): Mastracchio deployed eight bubble detectors around the ISS for the Radi-N2 experiment. The objective of this investigation is to better characterize the ISS neutron environment and define the risk posed to the crewmembers’ health and provide the data necessary to develop advanced protective measures for future space flight.
+Hybrid Training Part Five: Wakata donned the Hybrid Training hardware which provides electrical impulses to his non-dominant arm during concentric and eccentric arm motions. The electrical impulses will help to simulate the resistance that gravity would provide on the ground. This was Wakata’s fifth of twelve Hybrid Training sessions. Hybrid Training will be used for Wakata’s upper limbs (the non-dominant arm) for four weeks, and his muscular strength and bulk will be compared to those of his dominant arm to examine its orbital operation capability utility, as well as the preventive for muscle atrophy. Hybrid Training can become a useful back-up for the standard training device on the ISS. It can also be a useful training device in small space ships for the exploration of the Moon and Mars.
+FLame Extinguishment Experiment (FLEX)-2 Operations: ISS CDR Wakata removed the Combustion Integration Rack (CIR) alignment guides, which isolated the rack and allowed ground teams to start another FLEX-2 test point via ground commanding. The fuel mixture will consist of 95% Propanol and 5% glycerol for this test point. FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Extravehicular Mobility Unit (EMU)/Airlock Cooling Loop Flush, Sampling Operations, Fan Pump Separator (FPS) R&R:   Over the weekend the crew successfully completed the second phase of EMU airlock flushes on EMUs 3010 and 3011 to mitigate silica contamination. The EMUs were recharged with fresh water from Payload Water Reservoirs (PWR)s. A second water sample from EMU 3010 was collected for return and ground analysis. Today Wakata collected a third water sample on EMU 3010.  Swanson and Mastracchio performed an FPS R&R on EMU 3005. These activities are in preparation for the EVA planned for NET April 22. Tomorrow the crew will perform the 3rd and final Airlock flush on 3005, 3010 and 3011, collect a water sample from 3005 and 3011, and will complete a Return-to-Service checkout on 3005.
+Reboost: On Saturday, ISS performed a nominal reboost using 53P thrusters. This reboost set up phasing for 37S undock and landing scheduled for May 13 and 39S launch and 4-orbit rendezvous scheduled for May 29.
+Mobile Servicing System (MSS) Operations: Last Friday, in preparation for SpX-3 capture, Robotics Ground Controllers powered up the MSS and performed Space Station Remote Manipulator System (SSRMS) LEE, Brake and Joint Diagnostics. Controllers then powered down the SSRMS, powered it up again on the Redundant String and repeated the diagnostics. They then maneuvered the SSRMS to the Latching End Effector (LEE) Snare Cables Inspection Position and verified visually that the LEE-A Snares Cables closed and opened properly. The SSRMS was then maneuvered back to the SpX Capture High Hover Position.
+Yesterday Controllers translated the MT from Worksite 4 (WS4) to WS2. This was in preparation for the Extravehicular Activity (EVA) to replace External Multiplexer/Demultiplexer 2 (EXT-2 MDM) as the MT needed to be moved away from WS4 to allow EVA access to the EXT MDMs.  The MT was translated to WS2 vice another WS in order to preposition the Special Purpose Dexterous Manipulator (SPDM) at WS2 for contingency camera support for SpX-3 capture. Controllers powered up the MSS in the Hot Backup Configuration to protect against the next worst failure (should EXT-1 MDM fail, Space Station Remote Manipulator System (SSRMS) power up would not be possible).
+Today’s Planned Tasks
+
+Laptop RS1(2) reboot  [Complete]
+RSS1,2 reboot / r/g 1009 [Complete]
+SM ПСС Test / РСУ, [Complete]
+СМ-У connection inspection at МНР-НС behind АСУ panel 139 [Complete]
+RGN – water transfer to ЕДВ, start [Complete]
+FPS R&R [Complete]
+БМП Ф1 cartridge cycling (start) [Complete]
+NAPOR-miniRSA. ТВМ1-Н software version update. r/g 5352 [Complete]
+NAPOR-miniRSA. RSS2 laptop script installation. r/g 5353 [Complete]
+Sound recording using EARQ software [Complete]
+MATRYOSHKA-R. BUBBLE dosimeter detector setup and initializer/g 5350 [Complete]
+General photography of SM interior panels  r/g 5338 [Complete]
+RGN – water drain into ЕДВ, end [Complete]
+MATRYOSHKA-R. BUBBLE dosimeter detectors handover to USOS / r/g 5350 [Complete]
+RADIN – receive detectors form FE-2 [Complete]
+RADIN – deployment for exposure [Complete]
+MATRYOSHKA-R. BUBBLE dosimeter detector initialization/deployment for exposure.r/g 5350 [Complete]
+RELAKSATSIYA. Hardware setup.  r/g 5347 [Complete]
+Urine transfer from EDV-U to 53P Rodnik БВ2  r/g 5339 [Complete]
+55P unstow with IMS updates  r/g 5317 [Complete]
+CIR – alignment guide removal [Complete]
+MERLIN3 – desiccant transfer [Complete]
+EMU Swap [Complete]
+EMU Pre Water Sample [Complete]
+RELAKSATSIYA. Parameter setup.r/g 5347 [Complete]
+RELAKSATSIYA. Observation.  r/g 5347 [Complete]
+EMU Airlock mix [Complete]
+EMU Airlock Flush Config [Complete]
+SEYSMOPROGNOZ. МКСД HDD data copy (start). / r/g 5349 [Complete]
+HYBRID – simulation [Complete]
+EMU Airlock sample [Complete]
+RELAKSATSIYA. Observation. Specialist conference / r/g 5347 [Complete]
+Soldering iron operability check / r/g 5356 [Complete]
+RELAKSATSIYA. Closeout ops. r/g 5347 [Complete]
+ISS O2 repress from Progress 421 СРПК Section 1(start) [Complete]
+OBT – Space X joint mission procedures review [Complete]
+EMU Airlock Flush De-Config [Complete]
+ISS O2 repress from Progress 421 СРПК Section 1 (end) [Complete]
+Address video shooting / r/g 5357 [Complete]
+Space X cargo ops review
+Sound recording using EARQ software [Complete]
+ВКС laptop antivirus database update / r/g 5201[Complete]
+KONSTANTA. 3rd study setup and execution.r/g 5351[Complete]
+Space X cargo ops review
+BIOEMULSIYA. Thermostate uninstall / r/g 5345 [Complete]
+ARIL. Thermostate uninstall / r/g 5346 [Complete]
+Log update [Complete]
+SEYSMOPROGNOZ. МКСД HDD data copy (end). r/g 5349 [Complete]
+MERLIN3 – dessicant R&R [Complete]
+СОЖ maintenance [Complete]
+IMS update  [Complete]
+Exercise data dump / r/g 2639 [Complete]
+DPC (S-band) [Complete]
+RELAKSATSIYA. Battery charging for Relaksatsiya / r/g 5256 [Complete]
+БМП Ф1 cartridge cycling (end) [Complete]
+
+Task List
+
+CMS ARED cylinder evac
+IFM Sabatier purge [Complete]
+Journal Audio Entry FE3
+Journal Audio Enter FE5 [Complete]
+WHC KTO Replace
+WHC EDV R&RCSL Cleint reload
+CSL Client Reload
+EHS-Dosimeter startup
+EHS-Dosimeter transter/stow
+EVA tether inspect [Complete]
+EVA RET inspect, tape
+EVA FPS tool gather [Complete]
+EVA MDM R&R overview
+Safer OBT
+Gamah seal locate
+H2O in helmet brief
+IFM cotherm verify
+IFM MDM prep/gather
+JAXA Report7
+Petri light eval
+Dragon Robot self study [Complete]
+FE-3 ECWS OBT [Complete]
+Transfer Dragon Cargo Review (FE-5) [Complete]
+WHC KTO replace
+IMS Edit
+WHC EDV-Y R&R
+Roscosmos Report
+Econ photo
+Uragan photo
+ARED RHEOlube fix
+ARED SSCV5 pre-gather
+CWC-I relocate
+Data prep return
+KTO EDV audit
+MI core return prep
+ST-ISS read
+
+Ground
+
+Nominal commanding 
+

@@ -1,0 +1,62 @@
+
+39S Crew Departure Preparations:  Wiseman and Gerst continued to pack their personal items in preparation for their return to earth.  The packed items will be returned via Soyuz 39, SpaceX-4, and SpaceX-5.   In addition, Wiseman and Suraev conducted a test of the Soyuz 39S Motion Control System.  The 39S crew is scheduled to undock from ISS at 6:30pm CST on Sunday, 09 November then land in the Kazakhstan northern landing zone at approximately 9:58pm CST.
+Integrated Resistance and Aerobic Training Study (Sprint) Ultrasound:  Wiseman, with the assistance of Wilmore completed his seventh and final (Return-7 day) ultrasound session. With remote guidance teams on the ground, ultrasound scans were taken of the calf and thigh.  Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions.
+Quantification of In-Flight Physical Changes – Anthropometry and Neutral Body Posture (Body Measures): Gerst performed his final Body Measures session.  He placed the Body Measure markers at prescribed locations and took photographs that will be downlinked to analyze the neutral body position (NBP) changes over the course of his mission.  The Body Measures experiment increases the quantity of in-flight anthropometric data (body measurements) gathered to assess the impact of physical body shape and size changes on suit sizing. This study will involve collecting anthropometric data using digital still and video imagery and a tape measure to measure segmental length, height, depth, and circumference data for all body segments from astronauts for pre-, post-, and in-flight conditions.
+Saliva Collection: Gerst performed a salivary collection and inserted the sample into MELFI.  The sample collections for today through Sunday are in support of his participation in the Human Research Program (HRP) experiments: Biochem Profile, Repository, and Cardio Ox. 
+Seedling Growth: The first of three six-day-growth sessions were completed today. Based on images downlinked, specialists are reporting an overall germination of 91% in the 7 Experiment Containers (ECs) that hydrated last Saturday.  The eighth EC was stored at ambient temperature for subsequent diagnostic testing.  Wilmore removed the ECs from the European Modular Cultivation System (EMCS), processing the samples and placing them in MELFI for freezing and stowage until return on a later flight.  Seedling Growth-2 is the second part of the Seedling Growth Experiment series and uses the plant Arabidopsis thaliana to determine the effects of gravity on cellular signaling mechanisms of phototropism and to investigate cell growth and proliferation responses to light stimulation in microgravity conditions. Seedling Growth 2 requires three EMCS runs to be performed to collect image data and frozen samples. The next run of Seedling Growth will be started on Saturday.
+Mobile Servicing System (MSS) Operations:  Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) to an IMAX Park Position.  This was done to give the ISS Crew a clear view for upcoming IMAX filming out of the Cupola windows.  During this operation, the SSRMS cameras were used to survey Pressurized Mating Adapter (PMA) 2 in support of planning activities for future Extra Vehicular Activities (EVAs).  MSS performance today was nominal.
+Remote Power Controller (RPC) Trip:  Following yesterday’s RPC trip associated with the Lab Carbon Dioxide Removal Assembly (CDRA) Air Selector Valves (ASV), Flight Controllers have successfully commanded the RPC closed. After the RPC closure, one of the Air Selector Valves (ASV) did not reach the expected position. After subsequent attempts, they were able to cycle the valve successfully in the alloted time. The Ground Team still declared the ASV suspect and is recommending to replace the valve with one of the three spares on-orbit. This changeout will be scheduled in the coming days.  Meanwhile, the Node 3 CDRA is operating nominally.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+PARODONT-2. Collecting Samples
+HRF – Generic Sample Operations & Sample Blood MELFI Insertion
+ТК 713 Motion Control System (СУД) Test Prior To Undocking
+CONYUGATSIYA ops.
+BIORISK. Removal from SM and Transfer to ТК
+PHS Evaluation Setup
+АСУ Activation and ТК 713 АСУ Collector Replacement
+Periodic Health Status
+SPRINT – Hardware prep and installation
+MELF3 – Insert Ice Bricks
+ТКГ 424 Transfer Ops (РПР)
+Periodic Fitness Evaluation – Nom Ops (subject)
+SPRINT – Assistance with the Experiment
+Periodic Fitness Evaluation – Nom Ops (assistance)
+Download Pille Dosimeter Readings
+BODYM – Experiment Ops
+Microbial Sample Collection (Sampling for Kit 1)
+Monitoring MRM1 Passive Docking System (ССП) Hatch Sealing Mechanism (МГК) and ТПК 713 Active Docking Assembly [АСА] before hatch closure for undocking
+ТКГ 424 (DC1) Transfers and IMS Ops)
+ISERV – Opening window shutters in the LAB
+Transfer EDV-U to UPA WSTA for processing
+Acoustic Dosimeter Stow
+Kulonovskiy Kristall Experiment Run
+RGN – Initiate drain into EDV
+Kulonovskiy Kristall Experiment Photography
+ТПК 713 Return Cargo Ops
+USND2 – Procedure Ops
+RGN – Terminate drain into EDV
+KULONOVSKIY KRISTALL. Hardware Teardown
+MRM2 Comm Reconfig for Nominal Ops
+SPACETEX – Handover
+Photography of SM interior panels (225, 226
+Transfer EDV-U to UPA WSTA for processing
+Space Headaches Weekly Questionnaire
+SDGR2 – Experiment Ops
+Health Maintenance System (HMS) – Medical kits prepack for disposal or return
+Preparation for МО-21. Charging of Ekosfera Battery Pack
+
+Completed Task List Items
+
+CMS ARED cylinder evacuation
+ATV cargo transfer ops [In work] 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+ISS attitude handovers in support of 39S Thruster Test
+SSRMS Clearing Manuever in preparation for IMAX Filming from the Cupola Windows
+

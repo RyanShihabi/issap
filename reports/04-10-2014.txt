@@ -1,0 +1,77 @@
+
+Hybrid Training Part Four: Commander (CDR) Wakata donned the Hybrid Training hardware which provides electrical impulses to his non-dominant arm during concentric and eccentric arm motions. This was the fourth of twelve planned sessions. The electrical impulses help to simulate the resistance gravity would provide on the ground. Hybrid Training will be used for Wakata’s upper limbs (the non-dominant arm) for four weeks, and his muscular strength and bulk will be compared to those of his dominant arm to examine its orbital operation capability utility, as well as the preventive for muscle atrophy. Hybrid Training can become a useful back-up for the standard training device on the ISS. It can also be a useful training device in small space ships for the exploration of the Moon and Mars.
+Burning and Suppression of Solids (BASS)-II:  Flight Engineer (FE)-5 Mastracchio resumed BASS-II test points, following repair activities that were completed on April 1st. Four fabric samples were successfully completed during operations. Two of the samples were ignited at reduced Oxygen (O2) levels in the Microgravity Science Glovebox (MSG). The samples were ignited at two different flow speeds with the flow speed reduced incrementally. The second set of samples were ignited at similar flow speeds as the first two, but with a lower O2 level. One of these samples self-extinguished. The BASS-II investigation examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity. The BASS-II experiment will guide strategies for materials flammability screening for use in spacecraft as well as provide valuable data on solid fuel burning behavior in microgravity. BASS-II results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Node 3 (N3) Carbon Dioxide Removal Assembly (CDRA) Maintenance (Day 3): The crew completed the re-installation of the CDRA into the Air Revitalization (AR) rack today. Ground teams followed with a successful checkout to ensure good electrical and data connections. The crew then proceeded with completing the rack closeout. The ground team then activated CDRA for one half cycle to confirm no leaks.  Both beds and the vacuum circuit are undergoing fine leak checks.  Once that is complete, CDRA will be operated for 24 hours to complete the checkout. After the 24 hour operations, ground teams will be able to assess the performance including the dP of the cleaned Adsorbent/Desiccant bed.
+Centerline Berthing Camera System (CBCS): In preparation for SpaceX (SpX)-3 berthing scheduled for April 16th, FE-3 Swanson installed the CBCS and checked out all related avionics which are required for a visiting vehicle mating to Node 2 Nadir. He performed a video system checkout by routing CBCS to the Robotics Work Station (RWS) and Ground, then powered down and removed CBCS.
+Extravehicular Mobility Unit (EMU)/Airlock Cooling Loop Flush: Following yesterday’s successful flushes of EMUs 3005 and 3010, today Wakata flushed EMU 3011. Silica was identified during ground testing of previously returned EMU hardware which indicated a higher level of non-reactive silica. This non-reactive silica may not be scrubbed out by the EMU Ion Filter used in the Cooling Loop Maintenance procedure.
+Portable Emergency Provisions (PEPS) Inspect: Swanson performed this routine maintenance, verifying that  the Portable Fire Extinguishers (PFE), Portable Breathing Apparatus (PBA) and Pre-Breathe Masks are free of damage and are fully functional.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+SM ПСС (Caution & Warning Panel) Test  [Complete]
+HW prep to conduct PAO in mpeg2 from SM / r/g 5307 [Complete]
+Daily Planning Conference (S-band) [Complete]
+PAO – crew prep [Complete]
+TV broadcast for the city of Saratov / r/g 5320 [Complete]
+ARIL. Thermostat Activation at +29 deg С / r/g 5315 [Complete]
+Transfer  EHS AQM air analysis equipment [Complete]
+TV PAO Event  w/winners of the 8th S.P. Korolev Russian National Youth Science Readings r/g 5321 [Complete]
+ISS HAM – Radio Activation [Complete]
+On MCC GO ТКГ 427 and DC1 Interface Leak Check [Complete]
+CDRA – Filter Screen R&R and Leak Check [Complete]
+CONYUGATSIYA. Thermostat Activation at +4 deg С / r/g 5313 [Complete]
+ISERV – Opening Window Shutter [Complete]
+СОЖ Maintenance [Complete]
+Dragon – VOK assembly [Complete]
+DC-СУ Transfer Hatch Opening [Complete]
+On MCC GO ТКГ-СУ (DC1) Hatch Opening [Complete]
+ТКГ 427 (DC1) Air Sampling using АК-1М sampler  r/g 5308 [Complete]
+EMU 3011 A/L flush  [Complete]
+Photography of СтА docking probe trace on acquisition cone of DC1 passive assembly ССП / r/g 2664 [Complete]
+WRS Water Sample Analysis [Complete]
+BASS ops [Complete]
+PAO Hardware Setup [Complete]
+Deactivation of ТКГ 427 (DC1)  Air duct Installation [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+SHD – Weekly Questionnaire
+Photo of docking cone inside surface [Complete]
+Removal of ТКГ 427 Docking Mechanism and Installation two handles on the front surface  r/g 4412 [Complete]
+CDRA – Replace Desiccant Absorbent Bed (DAB) [Complete]
+SHD – Weekly Questionnaire [Complete]
+Inspection of Portable Breathing Apparatus (PBA) and Portable Fire Extinguisher (PFE) [Complete]
+TOCA Data Recording [Complete]
+PEPS Inspect [Complete]
+CBCS Gather [Complete]
+CBCS Install and Checkout [Complete]
+ТКГ 427 (DC1) Early Unstow, Priority  and US Cargo Transfers r/g 5317, 5322, 5323, 5324 [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+CONYUGATSIYA. Hardware Transfer to SM and Setting up in Thermostat at +4 deg C / r/g 5318 [Complete]
+BIOEMULSIYA.  / r/g 5318 [Complete]
+MEMBRANA. Kit Transfer to MRM2 / r/g 5319 [Complete]
+Bringing ODF up to date using ТКГ 427 (DC1) delivered files / r/g  5301 [Complete]
+REGENERATSIYA-1. Hardware transfer and stow / r/g 5316 [Complete]
+HYBRID – Muscle Training [Complete]
+REGENERATSIYA-1. Photography at Setup Location / r/g 5316 [Complete]
+ARIL. Transfer of Bioecologiya cases and Insertion in Thermostat at +29 deg C / r/g  5314 [Complete]
+IMS and Stowage Conference [Complete]
+ARIL. Photography of ARIL Pack / r/g 5314 [Complete]
+Daily Planning Conference (S-band) [Complete]
+SHD – Weekly Questionnaire [Complete]
+
+Task List
+
+CMS ARED cylinder evac
+Dragon Robot self study [In work]
+WHC KTO replace
+IMS Edit
+WHC EDV-Y R&R
+Roscosmos Report
+Econ photo
+Uragan photo 
+
+Ground
+
+Nominal commanding
+

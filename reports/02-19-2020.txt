@@ -1,0 +1,128 @@
+
+Dose Distribution Inside the ISS – 3D (DOSIS 3D): As a continuation of the troubleshooting, the crew swapped the DOSTEL-1 and DOSTEL-2 data cables inside the DOSIS Main Box, then checked status of the DOSIS LEDs, and removed the DOSTEL-1 if needed.  This experiment uses active and passive detectors to determine the radiation doses inside the ISS and provides documentation of the actual nature and distribution of the radiation fields. A concise three dimensional dose distribution map of all the segments of the ISS will be developed based on this data and data from JAXA and NASA monitoring devices.
+Mobile Space Lab (MoSL) install: The crew transferred the Mobile SpaceLab hardware from NG-13 to Basic EXPRESS Rack 10B and powered it up.  The MoSL is a tissue and cell culturing facility that launches and returns on International Space Station (ISS) resupply vehicles to offer investigators a quick-turnaround, high-throughput platform to perform sophisticated microgravity biology interrogations. The MoSL operates with autonomous microfluidic delivery of multiple reagents as well as automated brightfield and fluorescence microscopy. The Mobile SpaceLab can perform a biology experiment autonomously for up to a month on the ISS without the need for crew operations.
+NRCSD-17 (NanoRacks CubeSat Deployer-17):  The ground commanded the deployment of a total of 9 satellites as part of the NRCSD-17 mission and the crew took photos of the deployments as they occurred.  Some brief details on the satellites are shown below:
+SOCRATES has two mission goals: The first is to demonstrate the operation of an X-ray spectrometer on orbit, which will be used to record incoming high-energy X-rays (10-100keV) from distant pulsars. This can be used to demonstrate a new method of navigation, X-ray navigation or XNAV. The second goal is to record spectra from x-rays coming from solar flares. This will be used to investigate electron acceleration mechanisms in solar flares, which can better inform models of solar weather.
+Argus-02 will capture new images of the Earth limb, and software aboard the spacecraft looks for events such as lightning strikes and aurora.  Ground analysis determines if noted events are false positives. On board algorithms are adjusted with the long-term goal of enabling autonomous deep-space missions that perform their own science missions without much ground contact.  The experiment has two objectives: study the effects of radiation on electronics, and testing machine-learning algorithms that identify natural events.
+HARP will demonstrate a technology for measuring the properties and size of aerosols, cloud droplets, and cloud ice particles and their interactions.  The wide field-of-view (FOV) imager splits three spatially identical images into three independent polarizer and detector arrays. This technique achieves simultaneous imagery of the three polarization states and is the key innovation to achieve a high polarimetric accuracy with no moving parts.
+SORTIE will study wave-like plasma disturbances in Earth’s upper atmosphere and the roles of various factors in their formation. A better understanding of these phenomena may improve the ability to predict the location of such disturbances and their effect on radio signals.
+RadSat-u tests the performance of a computer designed to detect and withstand the harmful effects of space radiation.  The computer technology employs a novel fault-mitigation strategy that uses redundant processing cores and real-time reconfiguration of the hardware to quickly recover from radiation-induced failures.
+Phoenix CubeSat takes thermal images of cities in the U.S. to examine the Urban Heat Island Effect, which is when developed areas become much warmer than the environment around them.
+QARMAN measurements assess the efficiency and behavior of the thermal protection system and helps scientists to better understand re-entry phenomena.
+CryoCube demonstrates on-orbit thermal management technology with a variety of potential applications, including storing rocket propellants in space and cooling instruments to improve their signal-to-noise ratios.  The small satellite uses a deployable shield to block radiation from the Sun and Earth and an attitude control system to point its experiment into deep space.
+AztechSat-1 is a CubeSat technology demonstration developed by UPAEP (Universidad Popular Autonoma del Estado de Puebla) in Puebla, Mexico, that will use the low-Earth orbit Globalstar satellite constellation for satellite phone and low-speed data communications.
+Phage Evolution: The crew performed the appropriate SABL (Space Automated Bioproduct Lab) insertions/removals and MELFI insertions to support the Phage Evolution investigation.  Evolution of New Phage-Bacteria Interactions from Exposure to Space Environment (Phage Evolution) examines the effects of microgravity and radiation exposure on phage and bacterial host interactions, including phage specificity for a bacterial host and host resistance to specific phages. Bacteriophages, or phages, are viruses that invade and destroy targeted bacteria without harming human cells or the body’s beneficial bacterial population. Characterizing microgravity’s effects on phages could lead to improved therapies that provide alternative treatments for antibiotic-resistant infections. 
+Tangolab-2 card cube replace: The crew performed the appropriate card cube exchanges with the new items that arrived on NG-13.  Space Tango’s TangoLab-2 locker is a reconfigurable general research facility designed for microgravity research and development (R&D) and pilot manufacturing aboard the International Space Station (ISS). TangoLab-2 is similar to TangoLab-1 with the primary difference being an upgraded fan system which allows for a greater heat rejection capability. 
+Systems:
+Emergency On-Board Training (OBT): All three crewmembers reviewed the iPad ISS Emergency Simulator functionality in preparation for tomorrow’s Emergency response refresher OBT. Tomorrow’s training will consist of training exercises for the three primary ISS emergency scenarios: fire, rapid depressurization, and toxic atmosphere.
+Completed Task List Activities:
+
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+NRCSD 17 Cubesat Deploy Support
+Cygnus POLAR 2 & 4 Xfer Support
+Cygnus Power Channel Test
+S-Band String Swap
+Primary Power System Battery 1B1 Parameter Update
+
+Thursday, 2/20 (GMT 051)
+Payloads:
+
+
+Food Acceptability
+ISS HAM pass
+OsteoOmics
+
+Systems:
+
+Payload Laptop Terminal 3 (PLT3) Shell Change out
+Emergency Response On-board ISS Simulator Training
+Emergency Response Review and Debrief Conference
+
+Friday, 2/21 (GMT 052)
+Payloads:
+
+
+ELF
+Food Acceptability
+Food Physiology
+MSL-HERMES vacuum valve close
+OsteoOmics
+Plasma Krystal-4
+POLAR desiccant swap
+
+Systems:
+
+Payload Laptop Terminal 3 (PLT3) BIOS Settings
+On-board Training (OBT) Dragon Robotics and Rendezvous Review
+On-Board Training (OBT) Dragon OBT Conference
+
+Saturday, 2/22 (GMT 053)
+Payloads:
+
+
+MSL-HERMES valve open
+
+Systems:
+
+Crew Off-Duty
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+NanoRacks Cubesat Video Setup
+Polar Cygnus Uninstall, Transfer, And EXPRESS Rack Install
+Recharging Soyuz 744 Samsung PC prior to OBT, start recharge
+Cleaning ventilation screens on FGB interior panels 116, 316, 231, 431
+Polar Cygnus Uninstall, Transfer, And EXPRESS Rack Install
+NanoRacks Cubesat Video Setup
+Cleaning В3 fan screen in MRM2
+Centerline Berthing Camera System (CBCS) Stow
+Transfer Cygnus Cargo Operations
+NanoRacks Cubesat Video Setup
+OsteoOmics MWA Prep
+Polar Samples to Cold Stowage
+TERMINATOR. Remove from the window, closeout ops with Terminator-Nadir PL.
+Payloads Network Attached Storage (NAS) Vent Cleaning
+Phage Evolution US Lab Camcorder Video Setup
+Phage Evolution MELFI Sample Retrieval
+Phage Evolution SABL Sample Insertion
+NanoRacks Cubesat Video Setup
+Preventive Maintenance of FS1 Laptop
+Phage Evolution SABL Sample Removal
+BRI Monthly Maintenance. Note 8
+NanoRacks Zero-G Oven Polar Sample Removal
+OsteoOmics BioCell Split
+Phage Evolution MELFI Sample Insertion
+Mobile Spacelab Installation
+NanoRacks Cubesat Video Setup
+Repair work on reconnecting ТМ168-04 sensor to Onboard Measurement System (СБИ) БКС cabling.
+Phage Evolution SABL Sample Removal
+Phage Evolution MELFI Sample Insertion
+TangoLab-2 Card Cube Replace
+OsteoOmics Bag Retrieval
+On MCC GO Mating X53-1Б3 Connector
+NanoRacks Cubesat Video Setup
+Analysis of the current state of space behind panels and devices behind SM panel 229А
+OsteoOmics Operations
+DOSIS 3D DOSTEL DATA CABLE SWAP
+Routine monthly maintenance of BRI, closeout
+Phage Evolution Historical Documentation Photography
+Phage Evolution SABL Sample Removal
+Recharging Soyuz 744 Samsung PC prior to OBT, remove from recharge
+Countermeasures System (CMS) VELO Exercise session, Day 1
+Phage Evolution MELFI Sample Insertion
+NanoRacks Cubesat Video Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Thermal Amine Scrubber Powercycle
+Review Emergency OBT Simulator Functionality
+OsteoOmics Payload Crew Conference
+OsteoOmics-2 Glacier Sample Removal
+LSG Work Volume Deploy
+
+ 

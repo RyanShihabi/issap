@@ -1,0 +1,24 @@
+
+Payloads:
+BioNutrients-2: BioNutrients-2 Production Bags were hydrated and inspected. BioNutrients demonstrates a technology that enables on-demand production of human nutrients during long-duration space missions. The process uses engineered microbes, like yeast, to generate carotenoids from an edible media to supplement potential vitamin losses from food that is stored for very long periods. Specially designed storage/growth packets are intermittently activated by astronauts over a five-year period, then frozen and returned to Earth for examination.
+GRIP: GRIP hardware was stowed. The GRIP experiment studies long-duration spaceflight effects on the abilities of human subjects to regulate grip force and upper limbs trajectories when manipulating objects during different kind of movements such as oscillatory movements, rapid discrete movements and tapping gestures.
+Microbial Aerosol Tethering on Innovative Surfaces in the ISS (MATISS): The Matiss-3 Sample Holder was uninstalled from the Columbus module. Bacteria are a big problem in space as they tend to build up in the constantly-recycled atmosphere of the ISS. The main objective of the MATISS experiment is to find better materials with which to build a space station or spacecraft, which is especially important for longer missions farther from Earth. Researchers will also monitor how bacteria form biofilms that protect them from cleaning agents and help them adhere to surfaces.
+Mass Measurement Device (MMD): The MMD hardware was setup in the JEM Module and calibrated. The MMD provides a system to quantify the mass of objects, including live animal specimens, in the microgravity environment aboard the International Space Station by providing the capability to measure mass in the range of 1 to 100 grams with accuracies that exceed 0.1 grams.
+Veg-05: Plants were checked, watered if necessary, and any detached tomatoes were collected and weighed. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System (Veg-05) investigation is the next step in efforts to address the need for a continuous fresh-food production system in space.
+Systems:
+USOS Extravehicular Activity (EVA) #84 Preparations: Extravehicular Mobility Units (EMU) 3004 and 3009 were resized in preparation for the 1A ISS Roll-Out Solar Array (IROSA) Prep EVA scheduled for January 20th. In addition, the crew charged and installed Rechargeable EVA Battery Assembly (REBA) Li-Ion batteries into each EMU. The main goal of this EVA is to route cables on two Mod kits and install the 1A Mod kit on the 1A Solar Array Wing (SAW) Mast Canister to prepare these SAWs for future IROSA installations.
+Transfer Crew Dragon Cargo Operations: Today, the crew continued transferring science experiments, crew provisions, and hardware from the SpX-26 cargo vehicle to the ISS. SpX-26 is scheduled to remain at the ISS until January 9th before it undocks to return cargo and payloads to the ground.
+Health Maintenance System (HMS) Optical Coherence Tomography (OCT2) Exam: The crew completed routine OCT eye exams. OCT is an imaging technique analogous to ultrasound imaging that uses light instead of sound to capture micrometer-resolution, two- and three-dimensional images of tissue; in this case, the objects of interest are the crewmembers’ eyes. Eye exams are performed regularly on-board to monitor crewmember’s eye health. Eyesight is one of the many aspects of the human body that may be affected by long-duration stays in a microgravity environment.
+Completed Task List Activities:
+
+N/A
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+ESA Col-CC Monitoring and Control Subsystem Instance Checkout
+RPCM Powerdown
+Laptop Preparation for OCT2 Exam
+PRO FIR Activation Commanding
+MSS RPCM S11A-A Removal to Swap with S12B-C [Active]
+

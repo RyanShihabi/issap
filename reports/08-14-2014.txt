@@ -1,0 +1,87 @@
+
+Electromagnetic Levitation (EML) Preparation: Commander (CDR) Swanson and Flight Engineer (FE)-6 Gerst transferred EML cargo from ATV-5 in preparation for EML installation in the European Drawer Rack (EDR) in the Columbus module. Bags were unpacked and EML hardware was temporarily installed. EML installation activities will continue next week. EML aims to increase the performance of metallic/alloy structures through an understanding of how solidification can be controlled and develop a data base of properties to allow better process modeling. The experiment investigates solidification and microstructural evolution and evaluates thermo-physical properties of highly reactive molten metals.
+Cygnus Unberth Preparations:  After a successful stay at the ISS, final closeouts of Orb-2 were completed today in preparation for tomorrow’s departure.  The Node 2 Nadir vestibule was configured for demate and then depressurized.  Cygnus is currently being powered by the Space Station Remote Manipulator System (SSRMS).  Cygnus unberth is scheduled for 4:10 am CDT, with release scheduled for 5:40 am CDT. 
+Automated Transfer Vehicle (ATV)-5 Final Ingress: The last remaining air duct was installed this morning, reverse air flow is in place and all ingress activities are complete. The crew has begun cargo transfer operations.
+ISS Reboost:  At 11:58 am CDT today, ISS performed a reboost using the ATV-5 Orbital Control System (OCS) thrusters. The reboost tested ATV reboost execution as well as set up phasing to support 38 Soyuz (38S) landing on September 10 and 40S 4-orbit rendezvous on September 25. Reboosts planned for August 27 and September 18 will finalize the phasing for those events.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+Cygnus – Cygnus PROX Power Activation [Complete]
+Final ATV Ingress. r/g 6368, 6354 [Complete] [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238 [Complete]
+Photo/Video of ATV Final Ingress / USOS procedures [Complete]
+Gather EVA Equipment and Tools.  r/g 6377, 6378, 6379 [Complete]
+Remating БИТС 2-12 connectors from ЭА025М (ЗУ1Б) to ЭА025М (ЗУ1А) Device. r/g 6370 [Complete]
+Demating/mating БИТС2-12 telemetry connectors. r/g 6370 [Complete]
+Remating БИТС 2-12 connectors from ЭА025М (ЗУ1Б) to ЭА025М (ЗУ1А) Device. r/g 6370 [Complete]
+Cygnus/Node 2 Vestibule Configuration for Demate [Complete]
+Preparing Orlan Comm and Telemetry Assets [Complete]
+EVA Medical Kit Configuration / r/g 6376 [Complete]
+Cygnus Departure Conference [Complete]
+Checkout of Beta-08 Data Output Device (УСИ) using Gamma-1M. r/g 6364 [Complete]
+Node 2 Nadir CBM Controller Panel Assembly (CPA) Installation [Complete]
+CALCIUM. Experiment session 5. r/g 6362 [Complete]
+CIR – Hardware Setup [Complete]
+ATV Fan Cleaning [Complete]
+Orlan and БСС Telemetry Check. Orlan comm check and medical parameter test [Complete]
+Comm reconfig into initial after Orlan Comm. Check [Complete]
+Closure of SM window shutters No.6,8,9,12,13,14 / r/g 5451 [Complete]
+Installation of Portable Repress Tank (БНП) No. 3  [Complete]
+Cygnus/Node 2 Vestibule Configuration for Demate [Complete]
+Video Camera Assembly (VCA1) Adjustment [Complete]
+EDR – Hardware Replacement [Complete]
+Closing USOS Window Shutters [Complete]
+EDR – Hardware Replacement [Complete]
+Review EVA Translation Paths and Work Zones using DOUG Application. [Complete]
+ТКГ 423 (DC1) Activation, Air Duct Removal /Deactivation/Activation [РК] [Complete]
+Video Camera Assembly (VCA2) Adjustment  [Complete]
+EML – Bag Unpack and Transfer from ATV5 [Complete]
+Cygnus/Node 2 – Vestibule Depress and Leak Check [Complete]
+EML – Hardware Setup [Complete]
+RADIOSKAF. Set up dosimeters to charge.r/g 6371 [Complete]
+DC1-ТКГ 423 Hatch Closure [Complete]
+EML – Bag Unpack and Transfer from ATV5 [Complete]
+On MCC Go DC1-СУ and СУ-ТГК Hatch Leak Check [Complete]
+EML – Hardware Setup [Complete]
+Photography of a traces left by the СтМ Active Docking  Mechanism probe on АСП-О receiving cone r/g 2664 [Complete]
+EML – Hardware Setup [Complete]
+Downlink of Photos of traces left by the СтМ Active Docking Mechanism probe on АСП-О receiving cone [Complete]
+Installation of US EMU lights, TV cameras, and REBA power supply units  r/g 6355, 6356 [Complete]
+EML – Bag Unpack and Transfer from ATV5 [Complete]
+IMS Delta File Prep [Complete]
+VZAIMODEISTVIYE Experiment Ops / r/g 5895 [Complete]
+EML – ATV5 Bag Transfer [Complete]
+Regenerative Environmental Control and Life Support System (RGN) [Complete]
+Installation of US EMU lights, TV cameras, and REBA power units on Orlan 4 and 5 r/g 6355, 6356 [Complete]
+ATV Transfer Tagup [Complete]
+Installing Additional Portable Repress Tank (БНП) No.17 in DC1 / r/g 6375 [Complete]
+RWS – Setup [Complete]
+ATV – Photography of Closeout Ops [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238 [Complete]
+
+Task List
+
+ARED Cylinder Evac
+Earth imagery
+WHC KTO Replace
+WHC-ЕДВ-У R&R
+Ekon photo
+WHC UR/IF R&R
+SSCV5 data move
+SSCV5 server load
+SSCV5
+3DA1 cam ops
+AQM H/W relocate
+ARED detent flip
+Data prep return
+CTB unpack/relocate
+Food warmer mod
+NOD2OP2-2 LHA R&R
+
+Ground
+
+Nominal commanding
+

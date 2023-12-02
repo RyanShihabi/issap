@@ -1,0 +1,64 @@
+
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3 Experiment Runs:  Flight Engineer (FE)-6 Nyberg completed runs 23 through 26 out of a total of 42 runs planned as part of this experiment series.  InSPACE-3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state by the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and to improve the design of structures.
+Node 3 Major Constituent Analyzer (MCA) Mass Spectrometer Remove and Replace (R&R): FE-5 Parmitano performed an R&R of the Mass Spectrometer today. The MCA was activated today and will begin the normal dryout process for a new mass spectrometer.  The MCA data accuracy is expected to be at specification levels by the 19th of September.  Since the failure on August 31st, the ground has been monitoring telemetry from Service Module and Columbus constituent analyzers as a work around. As an added precaution, the Crew has been using a Portable Oxygen Monitor (POM) and Carbon Dioxide Monitor (CDM) to call down measurements twice per day.
+Cygnus Proximity Communications System (PROX) Activation and Checkout: Ground controllers from Tsukuba and MCC-H worked with Nyberg to activate and checkout the PROX equipment located within the JEM. Ground teams will continue checkout activities overnight. The activity is in preparation for Cygnus Orbital Demo 1 (Orb-D1) launch currently scheduled to occur on 17 September. Cygnus Launch Commit Criteria Flight Rules require verification of two fully functional ISS PROX equipment strings prior to launch.
+Space Station Remote Manipulator System (SSRMS) Checkout: Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and performed the SSRMS Latching End Effector (LEE) Checkout and the SSRMS LEE, Brake and Joint Diagnostics.  They then maneuvered the SSRMS into position to use the Starboard Truss Camera in order to verify that the Tip LEE Snare Cables were in the correct configuration for Orb-D1 capture next week.  The Robotics Ground Controllers also performed a checkout of Mobile Transporter (MT) Worksite (WS) 2 in case the MT has to be translated to this WS.  This activity satisfies launch commit criteria for Orb-D1. MSS performance today was nominal.
+Total Organic Carbon Analyzer (TOCA) Network Connectivity: Last week, the crew installed a software update to the TOCA and connected a network cable to allow TOCA data to be downlinked without crew intervention.  Initially, the network connectivity capability did not work.  Today, the crew rerouted the network cable to a different port and ground controllers confirmed that the TOCA is now connected to the Joint Station LAN as intended.
+Today’s Planned Tasks
+
+Reaction Self Test [Complete]
+MSG – Visual inspection and activation [Complete]
+Major Constituent Analyzer (MCA) Mass Spectrometer Remove and Replace (R&R) [Complete]
+Regeneration of БМП Ф2 Micropurification Cartridge (start) [Complete]
+InSPACE3 Experiment Run Operations  [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (start)  [Complete]
+IMS Tagup (S-band) [Complete]
+Gathering O2/CO2 Samples [Complete]
+Replace EVA connectors, EVA equipment inventory and photo. [Complete]
+WHC Fill [Complete]
+CIR – Alignment Guide Installation [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (termination) [Complete]
+СОЖ Maintenance [Complete]
+Cygnus PROX and НСР Activation [Complete]
+INSP3 – Closeout Ops [Complete]
+InSPACE3 Experiment Run Operations  [Complete]
+WRS Water Sample Analysis [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop [Complete]
+OBT – Cygnus Rendezvous and Docking Review [Complete]
+SM Ventilation System Preventive Maintenance. Group А [Complete]
+ROBoT OBT Debrief [Complete]
+Atmosphere Revitalization System Major Constituent Analyzer (MCA) HV01 Valve Open [Complete]
+INSP3 – Closeout Ops [Complete]
+TOCA 2 Data Recording [Complete]
+ИП-1 Flow Sensor Position Check [Complete]
+TOCA Waste Water Bag (WWB) Changeout [Complete]
+Cygnus HARDWARE COMMAND PANEL(HCP) SELFCHECK for PROX C/O [Complete]
+РСПИ. РСПИ File Downlink via БСПН [Complete]
+SHD – Weekly Questionnaire [Complete]
+MSG Hardware Deactivation [Complete]
+БМП Ф2 Absorption Cartridge Regeneration (termination) [Complete]
+Reaction Self Test [Complete]
+
+Task List
+
+CEO Ops  [Complete]
+ARED Cylinder Evacuation   
+КТО replace
+ЕДВ-У R&R
+IMS Update
+URAGAN. Observations and Photography
+ECON-M. Observations and Photography
+Preparation of reports for Roskosmos site
+WSTA Fill
+HMS WinSCAT Test
+ESA Recorded Video Message
+
+Ground
+
+PROX Activation and Checkout  [In Work]
+Battery 3B2 Capacity Test [Complete]
+MCA Activation  [Complete]
+Lab CDRA Activation [Complete]
+SSRMS LEE Checkout and snare cable inspection [Complete]
+Nominal Ground Commanding [Complete] 
+

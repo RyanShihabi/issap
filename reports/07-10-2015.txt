@@ -1,0 +1,52 @@
+
+ISS Reboost: Overnight a planned reboost using the 58P 8R&D thrusters was performed.  This reboost is the second of two to set up 4-orbit rendezvous for 43S launch scheduled for July 22.  The reboost is also the first of three scheduled to set up 4-orbit rendezvous conditions for 44S launch and 42S landing in the primary landing zone in September, 2015.  The next ISS reboosts are scheduled for August 7 and August 24.
+NanoRack Cubesat Deployer (NRCSD) Preparations:  Today Kelly continued preparations begun yesterday for a series of deployments of CubeSats from a NRCSD.  The deployments will be made via the Japanese Experiment Module (JEM) Remote Manipulator System (JEMRMS), beginning on Monday, July 13.  Kelly completed the cable configuration and installation of Multi-Layer Insulation (MLI) to the deployers.  Initially there were some difficulties with the MLI coverage of the deployers due to a new deployer cable configuration.  The problem was resolved with the use of an additional piece of MLI secured with existing velcro attachments.  The slide table was then retracted into the JEM Airlock (AL).  Depressurization will be completed tomorrow.  Once depressurization is complete Kelly will perform a leak check and vent residual air. A total of 16 cubesats will be deployed next week:  14 Planet Lab Doves, 1 Arkyd 3 and 1 Centennial-1. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly r/g 9272
+IMS Tagup (S-band)
+OTKLIK. Hardware Check / r/g 8408
+JEM Airlock Slide Table extension to JPM side
+Download Pille Dosimeter Readings / r/g 9297
+CASKAD. Manual Mixing in Bioreactor / r/g 9277
+NanoRacks CubeSat Deployer Installation on the MPEP
+Audit of Personal Hygiene Aids for Priority Use / r/g 9304
+Replacement of Vozdukh Atmosphere Purification System [СОА] Assemblies r/g 9303
+On MCC Go Re-mating Vozdukh [СОА] TLM-connectors / r/g 9303
+JEM Airlock Slide Table Retraction
+Replacement of Vozdukh Atmosphere Purification System [СОА] Assemblies r/g 9303
+JEM Airlock Depressurization [Deferred]
+Audit of Personal Hygiene Aids for Priority Use / r/g 9304
+Crew labels common trash CTBs, JSBs, and bags containing KTOs for RS crew to gather for disposal on 58P.
+Greetings Video Footage / r/g 9302, 9305
+Air Heater Fan (БВН) Screen Cleaning in ТК 716
+ALGOMETRIA. Experiment Ops / r/g 9299
+Private Exercise Conference (PEC)
+JEM Airlock Vent [Deferred]
+CDRA Leak Inspection in Node 3 [Deferred]
+ТКГ 425 (AO) Transfers and IMS Ops / r/g 9288
+MRM1 Fan Screen Cleaning (Group C)  r/g 8393
+JEM Airlock Vent Confirmation [Deferred]
+СОЖ Maintenance
+ABOUT GAGARIN FROM SPACE. Experiment Ops / r/g 9300
+IMS Delta File Prep
+CASKAD. End of Anabioz P/L Battery No.1 Charge / r/g 9283
+ISS Crew Medical Officer (CMO) Computer Based Training
+Preventive maintenance of DC1 АСП-О hatch sealing mechanisms and ТКГ 428 hatch
+CASKAD. Manual Mixing in Bioreactor / r/g 9277
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+JEMRMS/SEDA ops
+EFU 9 checkout
+N3 CDRA Activation
+N3 TCCS Activation [In work]
+

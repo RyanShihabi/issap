@@ -1,0 +1,24 @@
+
+Payloads:
+Cold Atom Lab (CAL): A checkout of the of the new CAL fiber optic inspection system was successfully performed. CAL produces clouds of atoms that are chilled to about one ten billionth of a degree above absolute zero — much colder than the average temperature of deep space. At these low temperatures, atoms have almost no motion, allowing scientists to study fundamental behaviors and quantum characteristics that are difficult or impossible to probe at higher temperatures. In microgravity, researchers may be able to achieve even colder temperatures than what is possible on the ground and observe these cold atom clouds for longer periods of time.
+Systems:
+SpaceX Crew Dragon On-Board Training (OBT): The crew completed several OBTs, including SpaceX Crew Dragon free-flight fire, emergency departure, and depressurization response reviews. The crew also completed the Robotics OBT to reset their Space Station Remote Manipulator System (SSRMS) proficiency.
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test: The crew performed a monthly WinSCAT test. The test is a screen tool developed by NASA to monitor astronauts and their neuro-cognitive status while in space and alert NASA flight surgeons to any accuracy or reaction time changes in an astronaut’s performance. WinSCAT tests working memory, computational skills, attention, visual tracking, and spatial processing.
+Node 2 Activities: The crew replaced a Smoke Detector (SD) ground wire and rotated the SD to relieve stress on the ground wires. The crew also cleaned up and stowed excess cables in the Node 2 area. Finally, the crew configured the Radio Frequency Identification (RFID) logistics readers in Node 2 for evaluation by ground teams to diagnose the root cause of a recent loss in connectivity.
+Potable Water Dispenser (PWD) Standoff Inspection: The crew took photo documentation of the PWD standoff hose configuration in the Lab to allow for verification of the configuration for the Exploration PWD (xPWD) technology demonstration that will be installed after its arrival on Northrup Grumman -19 (NG-19). The PWD receives water from the ISS Potable Water Bus and has the capability of dispensing hot and ambient temperature de-iodinated water in various quantities.
+Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace (R&R): Today, the pre-treat tank was R&Red as part of nominal WHC preventative maintenance. Each tank contains five liters of pre-treat solution, a mix of acid, chromium oxide, and water, used for toilet flushing and required for nominal WHC operation.
+Hardware Organization Activities: The crew performed multiple hardware organization activities including an Extravehicular Activity (EVA) Tool Stow for the hardware used on the recent US and RS EVAs, a Personal Protective Equipment (PPE) audit, an EVA Airlock restow, and EDV reorganization.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+JEM Airlock and ACDU-RC Deactivation
+TCS P1 TRRJ Reposition
+MT Translation
+MSS Hover Maneuver
+SSRMS LEE Checkout
+SPDM OTCM Checkout
+

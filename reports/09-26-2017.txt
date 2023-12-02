@@ -1,0 +1,68 @@
+
+Marrow:  Today a 51S crewmember completed their Flight Day (FD) 60 breath and ambient air sample collections for the Marrow investigation, which looks at the effect of microgravity on bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow. 
+BioLab Glovebox Health Check: Today the crew exchanged the BioLab Glovebox gloves with new ones, and performed periodic health check of the BioLab Glovebox seals and gloves including sensors for the fan status, delta pressure, temperature and relative humidity. This procedure can also be used to perform individual ground-only checks of the Biolab Glovebox pressure, temperature, relative humidity and fan status. The BioLab is a multiuser research facility located in the Columbus laboratory. It is used to perform space biology experiments on microorganisms, cells, tissue cultures, small plants, and small invertebrates.  BioLab allows scientists to study the effects of microgravity and space radiation on biological organisms.
+Circadian Rhythms:  Today a crewmember instrumented themselves with Thermolab Double Sensors and mount the Thermolab Unit to their belt, which will begin 36 hours of monitoring for the Circadian Rhythms investigation.  Circadian Rhythms investigates the role of synchronized circadian rhythms, or the “biological clock,” and how it changes during long-duration spaceflight. Researchers hypothesize that a non-24-hour cycle of light and dark affects crew members’ circadian clocks. The investigation also addresses the effects of reduced physical activity, microgravity and an artificially controlled environment. Changes in body composition and body temperature, which also occur in microgravity, can affect crew members’ circadian rhythms as well. Understanding how these phenomena affect the biological clock will improve performance and health for future crew members.
+Human Research Program (HRP) Collections (Biochemical Profile, Repository): A 52S crewmember completed their Flight Day (FD) 15 urine sample collections in support of the Biochemical Profile and Repository experiments. A 52S crewmember completed their FD-60 urine samples, and with operator assistance, conduct blood sample collections. The blood samples will be processed for double spin operations using the Refrigerated Centrifuge prior to being placed in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).
+
+The Biochemical Profile experiment tests blood and urine samples are obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions. 
+
+Lighting Effects Meter Readings: The crew setup and configured the Light Meter hardware and obtained the Light Meter readings before downloading the data, and stowing the hardware. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance.
+European Modular Cultivation System (EMCS) Gas Valve Open: The crew manually opened the EMCS Gas Valves, which is conducted within 24 hours prior to the start of the EMCS Experiment. The European Modular Cultivation System (EMCS) is an ESA experiment facility that is dedicated to studying plant biology in a reduced gravity environment. It supports the cultivation, stimulation, and crew-assisted operation of biological experiments under controlled conditions (e.g. temperature, atmospheric composition, water supply, illumination, observation, and gravity). The facility has performed multi-generation (seed-to-seed) experiments and studies the effects of gravity and light on early development and growth, signal perception and transduction in plant tropisms. Experiments with insects, amphibia, and invertebrates as well as studies with cell and tissue cultures are also foreseen in EMCS. 
+VEG-03: The crew completed on-board training and installed the Root Mat and Plant Pillows. They powered up and set intervals, before filling Root Mats in support of the VEG-03 experiment. Veg-03 is a direct follow-on to the Veg-01 hardware validation test, which demonstrated plant growth in the Veggie facility. Organisms grow differently in space, from single-celled bacteria to plants and humans. But future long-duration space missions will require crew members to grow their own food, so understanding how plants respond to microgravity is an important step toward that goal. Veg-03 uses the Veggie plant growth facility to cultivate a type of cabbage, lettuce and mizuna which are harvested on-orbit with samples returned to Earth for testing.
+Extra Vehicular Activity (EVA) preparations:  Today the crew reviewed EVA tasks, configured tools, performed EVA Mobility Unit (EMU) fit verifications, and performed Simplified Aid for EVA Rescue (SAFER) checkouts in preparation for the upcoming trio of EVAs in October.  The goals of the EVAs include Remove and Replace (R&R) of a Space Station Remote Manipulator System (SSRMS) Latching End Effector (LEE), lubrication of the LEEs, and R&R of two external cameras. 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+Extravehicular Activity (EVA) Reminder for On-Orbit Fitcheck Verification (OFV) Measurements
+HRF Generic Urine Collection Male – Subject
+HRF Generic Frozen Blood Collection Double Spin Collection
+HRF Generic Refrigerated Centrifuge Double Spin
+HRF Generic Sample MELFI Insertion
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review
+Inventory audit of СМО ССГО and СГО АСУ accessories
+Demating telemetry connector from [ТВМ] (А13).
+HRF Generic Frozen Blood Collection Conclude Stow
+Terminal Computer [ТВМ] (А13) Replacement.
+VEGGIE Software On-Board Training
+Extravehicular Activity (EVA) Tool Configuring
+VEG Series Experiment On-Board Training.
+Lighting Effects Light Meter Readings Alternate 1
+VEG-03 Experiment Install
+Mating [ТВМ] (А13) telemetry connector.
+Study of cardiovascular system under graded physical CYCLE load.
+Gathering reference data for the development and manufacture of keys for mating / demating hydraulic connectors of the Replaceable Pump Panel СПН unit.  Tagup with specialists as necessary
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Handover of Increment 53 Crew
+СОЖ maintenance
+Collect SM and FGB Air Samples Using АК-1М Sampler
+VIZIR. Fit check of СКПФУ-УМ Receiver Platform (ПП) mockup on window No.6.
+Extravehicular Mobility Unit (EMU) On-orbit Fitcheck Verification Measurements
+Photography of ТП228 mockup temperature sensors on the external surface of MRM2
+Biolab Glovebox Gloves Exchange
+ISS Crew Orientation
+IMS Update
+Crew support for Biolab Glovebox Health Check.
+CONTENT. Experiment Ops
+Simplified Aid For EVA Rescue (SAFER) Checkout
+PROFILAKTIKA-2. Countermeasures System (CMS) Exercise session using КОР-01-Н set
+Marrow Breath And Ambient Air Sample Setup – Subject
+Crew time for ISS adaptation and orientation
+Health Maintenance System (HMS) – ESA Nutritional Assessment
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Set Up
+European Modular Cultivation System Gas Valve Open
+Circadian Rhythms Instrumentation
+
+Completed Task List Activities
+
+Crew Support LAN (CSL) 1 hard drive swap and client reload
+Extravehicular Activity Mobility Unit (EMU) Enhanced Caution and Warning System (ECWS) On-Board Training
+Virtual Reality Training (VRT) Extravehicular Activity (EVA) Simplified Aid for EVA Rescue (SAFER)
+CIR MDCA Fiber Arm Trash
+RFID Antenna Secure
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+Standard commanding
+

@@ -1,0 +1,61 @@
+
+Orbital ATK (OA)-5 Cargo Operations:  Today, CDR continued transferring cargo from Cygnus to ISS. Afterwards, CDR participated in a cargo conference with ground specialists. At last report approximately 9.5 hours of cargo operations had been completed and an estimated 16 hours of operations remaining. 
+Human Research Program (HRP) Collections: CDR began 24-hour urine collections this morning in support of the Biochemical Profile and Repository experiments. Collected samples are placed in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for return at a later date. This afternoon, CDR setup for tomorrow’s blood collections. The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body. Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions. 
+Compound Specific Analyzer-Combustion (CSA-CP) Checkout:  The CDR changed out the batteries in two newly resupplied CSA-CP units and update internal clock settings. The CSA-CP units will sit deactivated with new batteries for at least 24-hours for sensors to re-establish bias voltages, and for 10-12 days in an open environment for sensor off-gassing.
+Premature Combustion Integration Rack (CIR) Ignitor Burnout: Following seven successful FLame Extinguishment-2 (FLEX-2) test points, ground teams observed the CIR Ignitor #2 had burned out during the radiometer calibration. Yesterday’s test points was the third day using the ignitors, with two additional days scheduled prior to the planned ignitor replacement. Ground teams will activate the rack today and bring down the images from yesterday’s test. A forward plan for ignitor replacement and future CIR operations is in development. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Regeneration of Micropurification Unit (БМП) Ф2 Cartridge (start)
+ALGOMETRIYA. Pressure and Thermal Algometry preparation for and measurement session
+Veggie fan speed change
+HRF Generic Urine Collection Setup First Time
+SM Ventilation Subsystem Preventive Maintenance. Group А
+MORNING PREPARATION WORK
+Food Frequency Questionnaire (FFQ) or ISS Food Intake Tracker (ISS FIT)
+Combustion Integrated Rack Alignment Guide Installation
+P/TV CEVIS Video Setup
+Preparation for ИП-1 Flow Indicator R&R.
+Measuring CO partial pressure at Central Post using CSA-CP analyzer (Located on SM Central Post panel 208). Battery replacement (as necessary) Report to MCC measurement data and analyzer number
+Soyuz 732 Samsung Tablet Recharge, Initiate
+24-hour ECG Recording (termination)
+CEVIS Exercise Video Stow
+24-hour BP recording (terminate)
+Crew time for ISS adaptation and orientation
+Preparation for Nitrogen Purge Unit (БПА-M) R&R in Elektron-VM Oxygen Generation Unit [СКО].
+СОЖ maintenance
+Transfer Cygnus Cargo Operations
+Soyuz 732 Samsung Tablet Recharge, Terminate
+Cygnus Cargo Operations Conference
+ALGOMETRIYA. Pressure Algometry Measurement Ops
+24-hour ECG Recording (start)
+Soyuz 732 Transfers and IMS Ops
+HRF Generic Frozen Blood Collection Setup
+Download of BRI log from RSS1
+Crew time for ISS adaptation and orientation
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+PAO Preparation
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Compound Specific Analyzer-Combustion (CSA-CP) Checkout
+INTERACTION-2. Experiment.
+Inventory Management System (IMS) Conference
+CB/ISS CREW CONFERENCE
+ISS Crew Orientation
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Flight Director/ISS CREW CONFERENCE
+Regeneration of БМП Ф2 Absorption Cartridge (end)
+ALGOMETRIYA. Pressure and Thermal Algometry Measurement Session. Closeout Ops 
+
+Completed Task List Items
+
+On-board Training (OBT) Cygnus Attached Phase Operations review
+Tropical Cyclone Operations Review
+Connects and powers on the WORF Laptop.
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Channel 4B Battery Capacity Test
+P4 IEA Survey
+

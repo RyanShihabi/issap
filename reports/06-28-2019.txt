@@ -1,0 +1,98 @@
+
+NRCSD (NanoRacks External Cygnus CubeSat Deployer): The crew reviewed procedures for the upcoming NRCSD-16 installation currently planned for next week. The NanoRacks CubeSat Deployer is a stackable, modular, ground loaded launch case.  Each NanoRacks CubeSat Deployer accommodates up to eight launch cases. The NanoRacks CubeSat Deployer meets the growing demand to deploy CubeSat format satellites from the ISS for a variety of customers.
+RED-EYE Satellite: The RED-EYE program develops and demonstrates technologies which increase the utility of low-cost microsatellites. RED-EYE is a satellite designed for ISS deployment via the Kaber Micro Satellite Deployer using Special Purpose Dexterous Manipulator (SPDM). Following yesterday’s successful deployment of the RED-EYE satellite, today’s activities included JEM Airlock Slide Table extension and return of the Kaber Deployer into the JEM. Once inside ISS, the Kaber Deployer was removed from the Slide Table and stowed by the crew.
+Space Station Remote Manipulator System (SSRMS) Jumper Installation: The crew completed Node 1 SSRMS jumper routing and installation activity. This jumper can be used in a contingency power loss scenario to regain power to the SSRMS and other external loads.
+Completed Task List Activities:
+
+Spare tool reconfiguration
+ISS Experience SSD checkout
+JLP PMM consolidate
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload ops support
+JEMAL slide table ops
+SSRMS jumper install support
+
+Look Ahead:
+Saturday, 6/29 (GMT 180)
+Payloads:
+
+
+ActiWatch Spectrum swaps (NASA)
+VEG-04 chk and Mass Measurements (NASA)
+
+Systems:
+
+Crew off duty; housekeeping
+
+Sunday, 6/30 (GMT 181)
+Payloads:
+
+
+VEG-04 chk and Mass Measurements (NASA)
+Food Acceptability (NASA)
+
+Systems:
+
+Crew off duty
+
+Monday, 7/1 (GMT 182)
+Payloads:
+
+
+VEG-04 chk and Mass Measurements and OBT (NASA)
+NanoRacks Cubesat Deployer Mission 16 Install  (EntrySat, IOD-1 GEMS, KRAKsat, Swiatowid, VVC) (NASA)
+GLACIER rack relocate (NASA)
+
+Systems:
+
+WRS hardware gather
+WPA MF bed reconfiguration
+T2, WRS rack prep 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Cognition Test 1 HRF PC 1
+Inventory Management System (IMS) conference
+JEM Airlock Press
+[ТНК-У-1М] Training Harness IMS Audit on the RS
+NREP XF305 Video Setup
+JEM Airlock Leak Check
+JEM Airlock Slide Table (ST) Extension to JPM Side
+PILOT-T. Preparation for Experiment
+KABER REMOVAL
+PILOT-T. Experiment Ops
+A/L Adapter Plate (JCAP) and NanoRacks Kaber Plate (STEP) Removal
+MPEP and Passive Capture Mechanism Installation to JEM Airlock Slide Table
+MPEP Installation to JEM Airlock Slide Table Support
+PILOT-T. Closeout Ops
+VEG-04 Water Check and Mass Measurement Device Operations
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+HRF Generic Urine Collection Stow
+Combustion Integrated Rack Upper Rack Doors Open
+Combustion Integrated Rack Manifold #2 Bottle Replacement
+Combustion Integrated Rack Upper Rack Doors Close
+Lighting Effects Cognition Test 2 HRF PC 1
+ISS HAM Service Module Pass
+EML Gas Valves Closing
+In Flight Maintenance (IFM) Waste and Hygeine Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace
+Preventive Maintenance of SM Ventilation Subsystem. Group А
+NanoRacks CubeSat Deployer Installation Procedure Review
+NanoRacks CubeSat Deployer Hardware Gather
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Progress 441 Water Tank 2 [БВ2] Bladder Compression
+Port Space Station Remote Manipulator System (SSRMS) Jumper Routing
+Private Special Conference (PSC)
+Lighting Effects Cognition Test 3 HRF PC 1
+Atmosphere Control and Supply (ACS) Oxygen Manual Valve Open
+VEG-04 Mass Measurement Device Calibration
+Lighting Effects Sleep Log Entry
+
+ 

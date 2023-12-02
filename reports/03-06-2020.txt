@@ -1,0 +1,93 @@
+
+CBEF-L (Cell Biology Experiment Facility-L):  The crew performed a check on the Fungicide Disinfection status of the CBEF facility in preparation for Space Moss. CBEF-L is a Japan Aerospace Exploration Agency (JAXA) new subrack facility, which is an upgraded facility of the original Cell Biology Experiment Facility (CBEF) currently aboard the International Space Station (ISS). CBEF-L provides new capabilities with additional new resources such as Full High Definition video interface, Ethernet, 24 VDC power supply, and a larger diameter centrifugal test environment. By using the original CBEF and CBEF-L as one facility for the same experiment, the payload user is provided with an upgraded experimental environment that can handle the processing of more experimental samples for a wider array of experiments.
+FSL (Fluid Science Laboratory): The crew removed the MultiScale Boiling Experiment container from the FSL and stowed the hardware and installed the Soft Matter Dynamics hardware into the FSL. The Fluid Science Laboratory (FSL) is a multiuser facility designed by the European Space Agency (ESA) for conducting fluid physics research in microgravity. It can be operated as a fully automatic or semiautomatic facility and can be controlled onboard by the International Space Station (ISS) crew or from the ground in telescience mode.
+JEM Water Recovery System: The crew performed a verification of internal cable connection in the JEM-WRS processor as part of troubleshooting steps. The Demonstration of JEM Water Recovery System (JWRS) generates potable water from urine. In the past on manned spacecraft, urine and waste water were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Transparent Alloys-SEBA: The crew installed the Sample Cartridge into the Transparent Alloy hardware. The aim of the Transparent Alloys-SEBA (Solidification along a Eutectic Path in Binary Alloys) experiment is to study the morphological instabilities of directional solidified, transparent binary eutectic alloys under purely diffusive conditions. This experiment provides a real-time observation of the dynamics of eutectic front structures with a micron-scale resolution, over a large (centimetric) space scale, and over long (several 10 hours) periods of time. These observations are strongly sensitive to convective motions in liquid, which, in ordinary conditions on earth, entail a detrimental redistribution of the solute on a scale comparable to the container size. Such convective motions are suppressed in microgravity.
+OsteoOmics: The crew performed BioCell Media Changeout in BioCell Habitat S/N 2 for one of the six cell plates as the other five were identified as contaminated and were bagged for return. Millions of Americans experience bone loss, which results from disease or the reduced effects of gravity that can occur in bed-ridden patients. OsteoOmics tests whether magnetic levitation accurately simulates the free-fall conditions of microgravity by comparing genetic expression osteoblastic cells, a type of bone cell, levitated in a high-field superconducting magnet with cells flown in low-Earth orbit. This information helps scientists determine the molecular and metabolic changes that take place in magnetic levitation and real microgravity.
+Systems
+Dragon On-Board Training (OBT): The crew spent their afternoon participating in a robotics OBT session in preparation for the SpX-20 Dragon arrival later this week. Today’s session was the second in a series of Robotics Onboard Trainer (ROBoT) sessions designed to help the crew maintain their training proficiency. The ROBoT is an on-orbit version of the ground-based Dynamics Skills Trainer (DST) that simulates robotics operations with graphical feedback. Dragon launch is currently scheduled for March 7th at 10:49 CT. Capture and berthing is planned for the morning of March 9th, with an ISS/Dragon rendezvous time of ~6:00 am CT.
+Northrop Grumman 13 (NG-13) Cygnus Cargo Operations: The crew continued to perform Cygnus cargo operations today; they have completed ~70% of the offload portion of the NG-13 logistics mission. Ground teams are continuing to work on the estimated time remaining to complete the NG-13 cargo offload. Cygnus cargo operations will be paused when the SpX-20 mission arrives on ISS, currently planned for March 9th, and will resume once Dragon departs ISS, currently planned for April 2nd.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload operations support
+SpX-20 arrival preparations
+
+Saturday, 3/7 (GMT 067)
+Payloads:
+
+
+No crew activities
+
+Systems:
+
+Crew off duty
+
+Sunday, 3/8 (GMT 068)
+Payloads:
+
+
+HRF Saliva Collect Setup (NASA)
+
+Systems:
+
+Crew off duty
+
+Monday, 3/9 (GMT 069)
+Payloads:
+
+
+MHU5 Equip prep (JAXA)
+HRF Saliva Collect (NASA)
+Cold Stowage Review (NASA)
+STaARS Bio-9 Sample insert (s/n 1011) (NASA)
+OsteoOmics Media Retrieval (NASA)
+
+Systems:
+
+SpX-20 Dragon Capture and Integration with ISS.
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Dragon Rendezvous Operations Review
+Inventory Management System (IMS) Tagup (S-band)
+JEM Water Recovery System (JWRS) Inside Check
+Gather items for FSL activities.
+БД-2 cable lay down
+FSL Facility Core Element locking at the end of scientific operations
+FSL MULTISCALE BOILING Experiment Container Deinstallation
+Maintenance Work Area Preparation for FSL activity
+Polar 2 Desiccant Swap
+FSL soft matter dynamics experiment container feedthrough panel reconfiguration
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Transparent Alloys Cartridge Installation
+FSL Soft Matter Dynamics Experiment Container Installation
+FSL Facility Core Element release in preparation of SMD or RUBI operations
+Food Acceptability Survey
+Dragon Rendezvous Operations Review
+Restow items used for FSL activities.
+OsteoOmics-2 Media Relocate
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Tension Adjustment
+Overlay Camera Calibration
+On-board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT) Session 2
+TERMINATOR. Remove from the window, closeout ops with Terminator-Nadir PL.
+SEPARATION. Preventive maintenance of [СРВ-У-РС] Vacuum Unit.
+LSG Primary Crew Restraint Unfold
+OsteoOmics-2 Media Change On Bio Habitat S/N 2
+LSG Primary Crew Restraint Fold
+Vacuum cleaning of ВТ7 screens on ГЖТ4 behind FGB panel 108
+MELFI Ice Brick Inserts
+Food Physiology Crew Diet Briefing
+LSG Work Volume Stow
+Glacier Desiccant Swap
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+
+ 

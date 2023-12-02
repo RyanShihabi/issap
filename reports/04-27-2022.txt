@@ -1,0 +1,24 @@
+
+Crew-4 Launch: At 2:52 AM CT today, SpaceX Crew Dragon Freedom lifted off from Launch Complex-39A at Kennedy Space Center on a Falcon 9 rocket and is scheduled to dock to the ISS tonight at 6:30 PM CT. Crew Dragon Freedom carries NASA astronauts Kjell Lindgren, Bob Hines, and Jessica Watkins and ESA astronaut Samantha Cristoforetti. The crew complement onboard the ISS will increase from 7 to 11 upon Crew-4 arrival.
+Payloads:
+Analyzing Interferometer for Ambient Air-2 (ANITA-2): Kapton tape was used to build a small shield around the ANITA-2 switch to protect it from being bumped into the wrong position. ANITA-2 is a compact gas analyzer which can analyze and quantify 33 trace contaminants in the atmosphere onboard the ISS automatically. ANITA-2 can also detect the presence of unknown substances which can be evaluated later on the ground.
+Freezer-Refrigerator Of STirling (FROST) Cycle: The FROST2 Controller-2 CPU Switch was reset for checkout. The FROST facility is an active freezer/refrigerator used aboard the ISS. FROST offers cold stowage capability inside of the JEM and is commonly used to support the Low Temperature Protein Crystal Growth (LT PCG) experiment.
+Solid Combustion Experiment Module (SCEM): SCEM Nitrogen valves were opened to check for any leaks in the combustion vessel. The SCEM is designed to investigate the oxygen concentration required to sustain a flame over solid fuels. It is also possible to obtain the limiting electric current caused by self-ignition of the insulated wires due to short-circuit. Combustion characteristics of solid materials in the microgravity environment where no buoyancy-induced convection occurs will be identified, as well as the effect of gravity on the combustion limit of solid materials, through studies by SCEM.
+Systems:
+Crew-4 Arrival Preparations: In preparation for Crew-4 arrival tonight, the crew staged emergency equipment by transferring an oxygen Portable Breathing Apparatus (PBA) from COL to LAB and auditing emergency hardware in cargo transfer bags (CTBs). Additionally, the crew will review big picture words for reminders, tips, and actions for setting up sleeping bags and personal items for campout. The review will also include steps for moving Station Support Computers (SSCs) to their proper locations for campout and the arriving crew.
+Advanced Resistive Exercise Device (ARED) Left Upper Stop Cable Remove and Replace (R&R): Following its failure today, the crew successfully R&R’d the left upper stop cable on ARED. The upper stop cables are use-to-failure hardware, and failure of a cable is when the arm is unable to be racked. With the successful R&R, ARED is considered fit for use. ARED uses adjustable resistance piston-driven vacuum cylinders along with a flywheel system to simulate free-weight exercises in normal gravity. 
+Crew Dragon Endurance Deorbit Paper Simulation: The Endurance crew completed a Crew Dragon paper simulation with the ground team and participated in a discussion afterwards to prepare for their departure from the ISS in early May. The crew then had a pre-departure conference to discuss open items and the departure plan.
+Recycle Tank Drain/Fill: The recycle tank was set up to drain via the Urine Processor Assembly (UPA) Fill Drain Valve into a Brine EDV using the Urine Transfer System (UTS). Following the setup, the ground performed the tank drain using the UTS. Once the ground specialists completed the transfer, the crew verified the recycle tank was empty, terminated the drain, repositioned the fill/drain valve to force fill the recycle tank using UTS, and configured for nominal processing operations. The crew also swapped the EDV in the offload EDV spot of the UTS.
+Waste and Hygiene Compartment (WHC) Manual Fill Initiation and Termination: Today, the crew initiated a manual fill of the WHC EДВ-СВ (Water Container) using a Post-Flight Analysis Bag to capture any pressure relief to protect the dose pump. The ЕДВ-CB is intended for short-term storage and manual water transportation between facilities. After successfully filling the EДВ-СВ, the crew returned the WHC to nominal use.
+Completed Task List Activities:
+
+ARED Left Upper Stop Cable R&R
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Control Moment Gyroscope (CMG) 3 Gimbal 5-Year Maintenance
+Recycle Tank Drain/Fill Commanding
+Crew-4 Docking Support [In Work]
+Thermal Amine Scrubber (TAS) Mode Change [Planned]
+

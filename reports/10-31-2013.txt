@@ -1,0 +1,77 @@
+
+Microbiome Investigation: Flight Engineer (FE)-6 Nyberg performed her return minus 14 (R-14) day session of the Microbiome investigation. This included taking surface samples in the ISS, performing body sample collections, inserting samples into cold stowage and answering survey questions.  The Microbiome experiment investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time). To monitor the status of the crewmembers’ microbiome and immune system and their interaction with the unique environment of the ISS, periodic samples from different parts of the body and the surrounding ISS environment are taken. As part of this study, the likelihood and consequences of alterations in the microbiome due to extreme environments, and the related human health risk, will be assessed.
+Reversible Figures Experiment:  FE-3 Hopkins connected the Reversible Figures hardware to a laptop in the Columbus module and performed the experiment protocol in free floating conditions. This was his second session.  Each subject performs this activity at least four times during their stay on board.  Reversible Figures investigates whether the perception of ambiguous perspective-reversible figures that can normally be seen to change in perspective or orientation is affected by microgravity. A comparison will be made of the perceived reversals during visualization of the figures in crewmembers that occurs before, during, and after long-term exposure to microgravity.  It is expected that measurable perceptual differences will provide insight into human cognitive-perception dynamics in the microgravity environment of the ISS and in normal gravity on Earth.
+Soyuz Relocation Onboard Training (OBT): Commander (CDR) Yurchikhin and Parmitano performed an OBT in preparation for their upcoming Soyuz Relocation. The training session covered undock and docking procedures as well as a walkthrough of associated relocation milestones. On Friday November 1, the Soyuz 35S crew are scheduled to undock from MRM-1 at 03:34am (CDT) and then dock to the Service Module Aft port at 03:58am (CDT).
+Space Headaches Investigation:  Hopkins and Parmitano filled out a weekly questionnaire for ESA’s Space Headaches investigation.  They will complete these questionnaires at the end of every week throughout their mission. Headaches can be a common complaint during space flights and can negatively affect mental and physical capacities of astronauts and cosmonauts which can influence performance during a space mission. This investigation involves obtaining pre-flight, in-flight, and post-flight data via the questionnaires to evaluate the prevalence and characteristics of crewmembers’ headaches in microgravity.  Investigators will use this data to assess crewmember headache episodes, analyze characteristics of the headaches and provide the basis for developing future countermeasures.
+Crew Health Care System (CHeCS) Drill:  FE-1 Kotov, FE-2 Ryazanskiy, and Hopkins participated in a training session that provides crewmembers with the opportunity to work as a team in resolving a simulated medical emergency onboard ISS. This training session had the crew review on-orbit stowage and deployment locations of the emergency medical equipment and procedures.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3 Experiment:  Nyberg conducted the 4th of the new series of 12 InSPACE-3 runs. This new series uses the same test parameter settings as previous runs but with an increase in the duration from 2 hours to 6 hours.   This will allow investigation of a continued chain-like aggregation phenomena observed towards the end of some of the previous shorter duration runs.  InSPACE-3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state with the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and to improve the design of structures.
+Capillary Flow Experiment (CFE) Interior Corner Flow (ICF)-3:  Hopkins set up and initiated a CEF ICF-3 run.  CFE ICF studies capillary flow in interior corners.  Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity.  The units used in the ICF-3 runs differ from other ICF series in the capillary geometry of the test chambers.  Equations governing the process are known but have not been solved analytically because of a lack of experimental data identifying the appropriate boundary conditions for the flow problem. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can then be used to improve propellant management aboard spacecraft.
+Lab P6 Common Cabin Air Assembly (CCAA) Wet Indications – The Lab P6 CCAA had exhibited unexpected wet indications since Tuesday’s Water Separator replacement. Ground teams suspected that the wet indications were due to a sticky solenoid valve within the new Water Separator.  This afternoon, Flight Controllers successfully sent commands to cycle the valve. The system is now operating nominally with the valve in its normal software configuration.
+Today’s Planned Tasks
+
+Pro K Urine PH Test  [Complete]
+BIOME – Perspiration Sampling [Complete]
+HRF Urine Sample Collection and Scanning [Complete]
+HRF – MELFI Sample Insertion [Complete]
+HRF Blood Collection Operations [Complete]
+HRF – MELFI Sample Insertion [Complete]
+HRF – Centrifuge Configuration [Complete]
+Check and maintain comm from ТК 709 via RGS (VHF2)  [Complete]
+HRF – Sample removal and centrifuge deactivation [Complete]
+Experiment Laptop Terminal 2 (ELT2) Setup [Complete]
+HRF – Blood Sample MELFI Insertion [Complete]
+ТК 709 (35S) Relocation OBT [Complete]
+СОЖ Maintenance   [Complete] 
+HRF – equipment stow [Complete]
+ABOUT GAGARIN FROM SPACE. Hardware Setup and Activation.  [Complete]
+Stow Sample Urine Collection [Complete]
+ABOUT GAGARIN FROM SPACE. Hardware Activation and Checkout  [Complete]
+ABOUT GAGARIN FROM SPACE. Equipment deactivation and cleanup  [Complete]
+RVF – Experiment Protocol [Complete]
+BIOME – Perspiration Sampling Setup [Complete]
+Battery Installation in Orlan Telemetry Unit (БРТА) [Complete]  
+BIOME – Perspiration Sampling [Complete]
+Beta-08 Data Output Device (УСИ) Checkout Using Gamma-1M [Complete]  
+HRF – MELFI Sample Insertion [Complete]
+KENTAVR fit check [Complete]  
+Spacesuit comm and telemetry configuration  [Complete]
+Crew Departure Prep [Complete]
+IMS Delta File Prep [Complete]  
+Orlan and БСС telemetry check. Orlan comm check and medical parameter test  [Complete]
+ESA Weekly Crew Conference [Complete]
+Comm reconfig after Orlan Comm. Check [Complete]  
+Installation of USOS EMU Lights and Video Camera and REBA On Orlan-MK Spacesuits [Complete]
+BIOME – Surface Sampling Operations [Complete]
+PROK – Diet and Log Sheet Photos [Complete]
+System Laptop Terminal (SLT) Reboot [Complete]
+Crew Departure Prep [Complete]
+HRF – MELFI Sample Insertion [Complete]
+SHD – Weekly Questionnaire [Complete]
+BIOME – Sampling Stowage Ops [Complete]
+NanoRacks Module-9 OBT [Complete]
+CheCS OBT [Complete]
+SHD – Weekly Questionnaire [Complete]
+HAM Radio Session [Complete]
+
+Task List
+
+ARED Cylinder Evacuation
+Crew Discretion PAO [Complete]
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+InSPACE3 Experiment Run [Complete]
+Load Master Questionnaire [In Work]
+35S Prepack [In Work]
+CFE ICF5 [Complete]
+Crew Arrival Prep [Complete]
+Crew Departure Prep [In Work]
+Data Prep for Return
+Windows on Earth Photos
+
+Ground
+
+Nominal Commanding [Complete]
+

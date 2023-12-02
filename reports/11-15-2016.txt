@@ -1,0 +1,51 @@
+
+Human Research Facility (HRF) Software Upgrades: The crew initiated the first of three days of HRF software transitions.  Today’s upgrade were made to the HRF Rack 1 Personal Computer (PC).  The new software loads will support new experiments and on-board capabilities.  Although the load and checkout of PC1 was successful, ground teams discovered that several of the common software fixes were incompatible with the current Rack Interface Controller (RIC) software. Ground teams are looking into work-arounds for and do not expect any impacts to the crew or science. Over the next two days, the HRF Rack 2 PC and HRFPC3 will be updated as well, without expected impacts from the newly discovered issues.  The HRF Racks provide an on-orbit laboratory that enables scientists conducting human life science research to evaluate the physiological, behavioral, and chemical changes induced by space flight. Research performed using the capabilities within the racks provide data to help scientists understand how the human body adapts to long-duration space flight.
+NanoRacks Science Box installation: The crew installed the NanoRacks Science Box into the EXpedite PRocessing of Experiments to Space Station (EXPRESS) Rack 4, located in the Japanese Experiment Module (JEM). Currently, ground teams are troubleshooting a data connectivity issue.  The NanoRacks Science Box is an EXPRESS Rack locker payload, designed to operate in mission cycles and will be launched and returned on a regular basis. Each mission will host a number of customer payloads and a multitude of science objectives. The Science Box installed today houses five individual payloads, each with their own mission objective ranging from robotic arm proof of concepts to seedling microgravity exposure experiments. 
+Node 3 to Node 1 Inter-Module Ventilation (IMV) Cone Screen Installation and Cleaning: Today the crew installed an IMV Cone Screen in the Node 1 to Node 3 vestibule to prevent FOD from entering the Node 3 Starboard Zenith IMV fan when operating in IMV Split Atmosphere Configuration. After the installation, the crew performed cleaning of the N1 to N3 IMV ducting.
+Station Support Computer (SSC) Server 2 Deploy: Today, the crew replaced ISS-Server1 (T61p Laptop) with SSC Server-2 (ZBook), which will act as a backup in the event of a failure of the already-deployed SSC Server-1.
+Special Purpose Dexterous Manipulator (SPDM) Stow:  Last night (GMT 319-320), the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered the Space Station Remote Manipulator System (SSRMS) to stow the SPDM on Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2). After MSS Software version, Mt Thor, uplink (completed on GMT 313), SPDM LEE capture of MBS PDGF2 was successfully performed for the first time using Gear Box Limping (GBL) feature, also called Active limping of SSRMS.  After completing the SPDM base change, SSRMS was maneuvered to park position in preparation of the re-grapple of Cygnus Wednesday (GMT 321), before Cygnus unberth and release Monday (GMT 326).
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+MORZE. Evaluation using SPRUT-2.
+MORZE. Logging Liquid and Food (Medicine) Intake
+Network Information for JSL Administration (NINJA) SWAP
+Measuring CO partial pressure at Central Post using CSA-CP analyzer (Location: SM Central Post panel 208). Battery replacement (as necessary)
+MORZE. Psycho-physiological Evaluation: Tsentrovka, SENSOR Tests
+Vacuum cleaning ventilation grille on FGB interior panels (201, 301, 401)
+HRF1 PC 1 USB Load Installation Preparation
+CONTURE-2. Setup and Experiment Session.
+СОЖ maintenance
+CONTURE-2. Experiment session and Closeout Ops.
+MORZE. Psycho-physiological Evaluation: SUPOS Test
+MORZE. Psycho-physiological Evaluation: Strelau Test
+CONTURE-2. De-installation of master arm with adapter from panel 418
+FSL MPCC Laptop Relocation, Powering On & Software Image Installation
+FSL MPCC1 USB Stick move from SSC11 Laptop to MPCC Laptop
+MORZE. Closeout Ops
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Plug-in Plan (PiP) – Deploy AC Inverter to NOD2 UOP3-J3.
+SSC (Station Support Computer) Server-2 Deploy
+Agat-2 Audio/Video Hardware Setup (monitor, speakers, and USB cables)
+MORZE. Logging Liquid and Food (Medicine) Intake
+Cleaning panel vent screens (panels 116, 316, 231, 431)
+Node 3 Starboard Overhead Intermodule Ventilation Fan Cleaning
+Progress 433 (DC1) Transfers and IMS Ops
+Intermodule Ventilation (IMV) Cone Screen Installation
+RS lighting system audit (SM, MRM1, MRM2, DC1)
+Science Box Installation
+Waste and Hygiene Compartment (WHC) Full Fill
+HRF1 PC 1 USB Load Installation Conclude
+Compound Specific Analyzer-Combustion Products (CSA-CP) Extended Maintanence
+MORZE. Experiment setup
+MORZE. Logging Liquid and Food (Medicine) Intake 
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+SSC Server 2 Transition 
+

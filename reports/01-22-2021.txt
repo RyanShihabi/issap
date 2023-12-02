@@ -1,0 +1,24 @@
+
+Payloads
+Antimicrobial coatings: The crew touched coupons A-G (uncoated), then touched H-N, then took photos of each of the coupons. The experiment was set up in early January and is planned to remain deployed for a period of 6 months. Boeing Environment Responding Antimicrobial Coatings tests an antimicrobial coating on several different materials that represent high-touch surfaces. Some microbes change characteristics in microgravity, which could create new risks to crew health and spacecraft systems as well as creating the possibility of contaminating other planetary bodies. The samples remain in space approximately six months then return to Earth for analysis.
+Astrobee status check: The crew performed an Astrobee check in an attempt to resolve Bumble’s communication issues. This is being performed so the REGGAE data can be transferred to the ground.  Astrobee supported the REGGAE investigation earlier this week. REGGAE tests capture and active removal of space debris in low-Earth orbit using materials that mimic the microscopic structures in the feet of geckos, flies, spiders and beetles that allow them to adhere to almost any surface.
+CBEF reconfig: The crew continued with the CBEF reconfiguration by releasing the Control Equipment (CE) from the Drawer Interface Panel. This was done in support of the configuration “A” through “B”, which is needed to support later science. The CBEF is a JAXA subrack facility and includes an incubator with an artificial gravity generator. CBEF is housed in the Saibo (living cell) Experiment Rack with the Clean Bench.
+ManD print removal: The crew removed the printed object, cleaned the extruder print nozzle, photographed, bagged & stowed the printed object. Following this, they set the power switches to the ON position to enable a post-print calibration.  The Manufacturing Device enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the MAND printer that is installed into an Express Rack locker location. MAND is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Story Time from Space (STFS): The crew participated in STFS by reading from the book Give Me Some Space.   Story Time From Space combines science literacy outreach with simple demonstrations recorded aboard the ISS. Crewmembers videotape themselves reading the books and completing demonstrations. Video and data collected during the demonstrations are downlinked to the ground and posted in a video library with accompanying educational materials.
+Systems
+Rechargeable Extravehicular Battery Assembly (REBA) Hardware Checkout: In support of the upcoming Columbus Upgrades EVA next week, crewmembers installed freshly charged REBAs and perform a series of checkouts to ensure optimum performance.   
+Extravehicular Mobility Units (EMU) 3006/3009 Loop Scrub, and Iodination: The crew performed EMU water loop scrubs and then acquired and tested water samples for conductivity on units 3006 and 3009. EMU Loop Scrubs are required preventive maintenance needed to remove any chemical and biological contaminants from the EMU transport loop. 
+Japanese Experiment Module (JEM) Window Inspection: The crew inspected and photo documented the JEM windows. This inspection documents any contamination (smudges, particulates, etc.) or damage (scratches, cracks, etc.) there may be on any of the Window pane surfaces. Emphasis was placed on the exterior surface of the debris pane and interior surface of the Primary Pressure Pane.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+JEM Airlock Pressurization
+Caution and Warning Software State Change
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+Atmosphere Control and Supply (ACS) High Pressure (HP) Oxygen Valve Open
+Thermal Control System (TCS) P1 Thermal Radiator Rotary Joint (TRRJ) FDIR Enable
+

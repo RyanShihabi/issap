@@ -1,0 +1,129 @@
+
+Airway Monitoring: Today the crew performed preparatory activities for the GMT 250 Airway Monitoring US Airlock Session. These activities include review of big picture words, hardware location, etc. The Airway Monitoring investigation aims to determine in detail the pulmonary nitric oxide turnover in weightlessness and in combined weightless, hypobaric and hypoxic environments as well as determining the lung diffusion capacity for nitric oxide. With dust particles present in the ISS atmosphere, this investigation studies the occurrence and indicators of airway inflammation in crewmembers, using ultra-sensitive gas analyzers to analyze exhaled air. This will help to identify health impacts and support maintenance of crewmember well-being on future human spaceflight missions, such as to the Moon and Mars, where crewmembers will have to be more self-sufficient in identifying and avoiding such conditions.
+Atomization: Today the crew successfully removed the used syringe and water trap from Atomization Operation Equipment (AOE). The Atomization experiment investigates the disintegration processes of a low-speed water jet for various jet issue conditions in the Japanese Experiment Module (JEM) to validate the new atomization concept by observing the process using a high-speed camera. The knowledge gained can be applied to improve various engines utilizing spray combustion. 
+Electro-Magnetic Levitator (EML): Today the crew installed a new (next generation) High-Speed Camera Controller in EML which is located in the European Drawer Rack (EDR).  They also installed a new hard disc with more storage capacity. The activity was not fully completed, however, due to incompatible threads between the fasteners of the electrical connectors and the camera controller; the facility was placed in a good temporary configuration while ground teams considering the forward plan. The EML is a multi-user facility is designed for containerless materials processing in space. It supports research in the areas of meta-stable states and phases along with the measurement of high-accurate thermophysical properties of liquid metallic alloys at high temperatures.
+EXpedite the PRocessing of Experiments for Space Station (EXPRESS) rack 5: Today the crew successfully replaced the EXPRESS Rack 5 lower payload valve. This is the second EXPRESS Rack 5 valve that was replaced following indications of a leak from the Moderate Temperature Loop (MTL) in the Japanese Experiment Module (JEM); the first valve was replaced successfully on 23-August. Of note, a successful recovery of EXPRESS Rack 5 will allow installation of the Plant Habitat Science Carrier #2 and subsequent resumption of science in the facility.
+Radi-N2 Neutron Field Study (Radi-N2): Today the eight detectors were retrieved from the Russian crew and deployed in the JPM1D5 area. This Canadian Space Agency investigation measures neutron radiation levels in the ISS. These bubble detectors are designed to only detect neutrons and ignore all other radiation. 
+SpaceTex-2 and Metabolic Space:  A crewmember donned Thermolab equipment, a heart rate monitor, and a SpaceTex material 3 shirt for ESA’s SpaceTex-2 investigation.  He also donned Metabolic Space equipment and completed an exercise session using the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).  SpaceTex fabrics provide a higher rate of sweat evaporation and a corresponding higher evaporative heat loss compared to conventional cotton fabrics used by astronauts on the ISS.  Metabolic Space provides a technology demonstration for a measurement system worn by astronauts that supports cardio-pulmonary diagnosis during physical activities of astronauts living onboard the ISS, while maintaining unrestricted mobility. 
+Service Module (SM) ISS Reboost: Tonight at 7:50 PM CT, the ISS will perform a 13-second reboost using the SM main engines. This reboost is the second in a series of three burns to set up proper phasing for 54S landing on October 4th and 56S launch on October 11th, which will use the 4-orbit rendezvous profile. ISS velocity will be increased by 0.20 meters per second (m/s) during tonight’s reboost.     
+Environmental Health System (EHS) Microbial Air and Surface Sampling: Today the crew took surface and air samples for microbial analysis using the Microbial Air Sampler (MAS) and Surface Sample Kit (SSK). Both samples will be placed into a Petri Dish and allowed to incubate approximately five days for future analysis. The EHS monitors the ISS environment for gaseous contaminants from off-gassing, combustion products, and propellants as well as microbial contaminants from crewmembers and ISS activities.
+Space Station Remote Manipulator System (SSRMS) Operations: Last night, the Robotics Ground Controllers (ROBO) performed the Mobile Base System (MBS) Payload/Orbit Replaceable Unit (ORU) Accommodation (POA) checkouts on both string and diagnostics on only the prime string as required to meet H-II Transfer Vehicle (HTV) 7 Launch Commit Criteria. Then, the ROBO performed a checkout of the SSRMS Force and Moment Sensor (FMS) for Wrist Roll compensation.  Finally, the SSRMS was maneuvered to the start position of the Columbus Survey, to be performed later today. The European Space Agency (ESA) has requested an optical impact survey of the outer surface of the Columbus module with emphasis on the forward-and zenith-facing areas. This status check will verify the status of the Columbus meteoroid and debris protection system (MDPS) and obtain information on the space debris and meteoroid environment of the ISS. MSS performance remains nominal.
+Nacho Service Pack: Yesterday, ground specialists successfully reloaded various Space Station Computers (SSCs) with the Nacho Service Pack. Controllers will continue reloading additional SSCs during crew sleep tonight and are scheduled to complete installation of the Service Pack tomorrow during the workday. One of the many updates included in the Nacho Service Pack are crew accounts for the 56S and 57S crewmembers as well as an upgrade to Microsoft Office 2016.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Solar Array Maximum Power Output Test (Channels 3B, 1A, 2A, 1B)
+SSRMS Ops: Columbus Zenith MDSP Survey Part 1 [Planned overnight]
+Reboost [Planned at 249/00:50 GMT]
+
+Two-Day Look Ahead:
+Thursday, 09/06:
+Payloads
+
+Biomolecule Extraction and Sequencing Technology (BEST) Experiment 3 RNA Run
+Rodent Research-7 Habitat Camera Clean
+Team Task Switching Experiment Survey
+Airway Monitoring US Airlock setup
+
+Systems
+
+JEM Exposed Facility High Definition TV Camera Unit install on EFU Adapter on JEM AL Slide Table
+HTV Prep: HTV ROBOT training session 1
+EVA Prep: EVA DOUG review, CWC-I degas,  EVA Tool Configuration, Extravehicular Activity Mobility Unit (EMU) Enhanced Caution and Warning System (ECWS) On-Board Training
+Ground SSRMS Ops: SSRMS Walkoff to Node 2, SPDM Relocate and maneuver to HTV offset grapple position
+
+Friday, 09/07: 
+Payloads
+
+Airway Monitoring US Airlock session
+MSG Setup for Rodent Research-7 Session 2
+
+Systems
+
+HTV Prep:  Offset Grapple Training
+EVA Prep:  Initiate Long Life Battery (LLB) charging
+Ultrasound Eye Exams
+JEM Airlock Depress and Vent
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Periodic Health Status (PHS) Evaluation Setup
+Airway Monitoring Big Picture Words Read
+Check network settings on Laptop RSK2.
+T2 SSC Wired to Wireless
+Periodic Health Status (PHS) Evaluation
+Metabolic Space equipment connection and calibration
+Atomization syringe removal
+Nacho Load Prep
+Periodic Health Status (PHS) Stow Hardware
+Thermolab instrumentation for Spacetex-2
+Verification of ИП-1 Flow Sensor Position
+Surface Sample Kit (SSK) Collection/Incubation
+FGB Gas Analyzer Vacuum Cleaning
+EXPRESS Rack-5 Rotate
+Metabolic Space instrumentation
+CEVIS exercise session for MetabolicSpace and Spacetex-2 experiments
+BIOCARD. Experiment Session
+ER5 Payload Valve R&R
+MetabolicSpace de-instrumentation
+Thermolab de-instrumentation for Spacetex-2
+T61p installation for Metabolic Space
+Metabolic Space data transfer and equipment stowage
+СТТС Configuration for MRM1 comm
+SEPARATSIYA. Flushing Centrifugal Multi-Purpose Vacuum Distiller (ЦМВД) and Urine Circulation Loop. Auto distillation of water with pre-treat solution.
+T61p stowage
+MATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors
+EXPRESS Rack-5 Rotate Up
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test [Deferred] 
+EXPRESS Rack-5 Plant Habitat Photo
+Clean Bench (CB) Valve Checkout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+US SSC Wireless to Wired
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors to USOS
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Microbial Air Sampler (MAS) Kit Sample Collection
+Food Acceptability Questionnaire
+Installation of new High-Speed Camera Controller Installation of next generation High Speed Camera Controller into EML in EDR
+Comm reconfig for nominal ops
+Handover of 5.5 mm Screwdriver from Russian to USOS crew for EML HSC Installation
+Airway Monitoring Big Picture Words Read
+Lighting Effects Light Meter Setup
+Food Acceptability Questionnaire
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Extravehicular Activity (EVA) Airlock Unstow
+Filling (separation) of ЕДВ (КОВ) for Elektron-VM or ЕДВ-СВ
+Lighting Effects Light Meter Readings
+24-hour ECG Recording (termination)
+24-hour BP recording (terminate)
+СОЖ maintenance
+Lighting Effects Light Meter Stow
+VIZIR. Experiment Ops using СКПФ-У PL.
+Airway Monitoring PPFS reconfiguration
+Airway Monitoring Hardware Location
+Deploy PS-120 JUNCTION BOX into Air Lock to support Airway Monitoring activity.
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+СТТС Configuration for MRM2
+ALBEDO. Prep, photo and closeout operations
+Metabolic Space data transfer and equipment stowage
+Nacho Load Prep
+СТТС reconfiguration in MRM2
+Handover  from USOS to Russian Crew of 5.5 mm Screwdriver used for EML HSC Installation
+Fundoscope Prep
+On-Board Training (OBT) HTV OBT Conference
+Advanced Resistive Exercise Device (ARED) Platform Grip Tape Trim and Pulley inspection
+Fundoscope Setup
+USOS Window Shutter Close
+Eye Exam – Fundoscope
+Fundoscope Tear Down and Stow
+ECON-L. Observations and photo
+Monitoring shutter closure on windows 6, 8, 9, 12, 13, 14
+
+ 

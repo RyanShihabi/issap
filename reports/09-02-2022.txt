@@ -1,0 +1,41 @@
+
+Significant Items:
+RS Extravehicular Activity (EVA) #54A: Today, Oleg Artemyev (EV1) and Denis Matveev (EV2) performed RS EVA #54A with Sergey Korsakov supporting as the IV operator. Hatch opening occurred at 8:25 AM CT. The trio performed several tasks to configure and test the European Robotic Arm (ERA) for operations on the station’s Russian Segment. The final Phase Elapsed Time (PET) from today’s EVA was 7 hours and 47 minutes and the following tasks were completed:
+
+Install platform with adapters on MLM [БТП] (Plane III)
+Relocate and Connect EMMI to БТЛ3 Basepoint
+Install gap spanners (2) on MLM [ПГО1] (Plane I)
+Calibrate ERA End Effector-2 TRM Override
+Remove MLI and LFM Ring from ERA End Effector-1
+Perform R&R of ERA End Effector-1 CLU1 Protective Window
+Calibrate ERA End Effector-1 TRM Override
+Test ERA Operability using EMMI Control Panel
+Install Retainer on Strela-1
+Extend Strela-2 boom from FGB [ГА] to MRM2 (time permitting)
+
+The following tasks were deferred from today’s EVA:
+
+Jettison removed LFM Rings
+Install Retainer on Strela-2 (time permitting)
+
+ERA is currently in the following configuration:
+
+End Effector-1 grappled to MLM БТЛ2 basepoint
+End Effector-2 grappled to MLM БТЛ3 basepoint
+
+Payloads:
+Manufacturing Device (ManD): In response to unexpected print tray temperature readings seen previously, today the crew exchanged the current print tray for a new print tray. ManD enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the ManD printer that is installed into an EXPRESS locker location.  ManD is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Systems:
+Treadmill 2 (T2) Monthly Inspection: The crew completed a regular maintenance inspection to ensure the T2 exercise device is in good operational condition. The crew inspected all four Snubber Arms for any sign of free play as well as make any necessary adjustments to reduce the free play.
+Life Support Rack and Oxygen Generation Assembly (LRS/OGA) Rack Preparation: Today, the crew demated LSR fluid and electrical umbilicals for LSR rack rotation and transfer starting on Monday. Also, the crew gathered the necessary hardware for the LSR/OGA rack swap.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Solar Alpha Rotary Joint (SARJ) Lock and Unlock
+PRO LSG Facility Deactivation Commanding
+HRF Rack 1 Rack Power Down Commanding
+

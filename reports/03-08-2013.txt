@@ -1,0 +1,81 @@
+
+New Status:
+Node 3 (N3) Carbon Dioxide Removal Assembly (CDRA) Maintenance:  Commander (CDR) Ford and Flight Engineer (FE)-6 Marshburn began CDRA maintenance yesterday and are scheduled to complete the multi-day task on Saturday. Over the last 2 days, they installed the 2 new Desiccant / Sorbent beds delivered on SpX-2 in the Node 3 (N3) CDRA. They also removed and replaced the Air Selector Valves (ASVs) 101 and 103. Upon completion of the task tomorrow, the crew will reinstall Node 3 CDRA into the rack and reactivate for ground teams to perform an activation and checkout. After activation and checkout, ground specialists will determine whether to proceed with the planned maintenance of the Lab CDRA.  SpX-2 will return 2 CDRA Desiccant / Sorbent Beds for refurbishment.
+Integrated Cardiovascular (ICV) Ambulatory Monitoring:  Hadfield downlinked data from the 2 Actiwatch Spectrums (waist & ankle) and the Cardiopres from Marshburn’s Flight Day (FD) 75 ICV data take session.  This was the 3rd of 5 sessions planned while he is on orbit. Integrated Cardiovascular aims to quantify the extent, time course and clinical significance of cardiac atrophy (decrease in the size of the heart muscle) associated with long-duration space flight and identify the mechanisms of this atrophy and the functional consequences for crewmembers who spend extended periods of time in space.
+
+Previous Status (3/07/13)
+Carbon Dioxide Removal Assembly (CDRA) Maintenance:  Today Commander (CDR) Ford and Flight Engineer (FE)-6 Marshburn removed the Node 3 (N3) CDRA from the Atmosphere Revitalization 2 (AR2) rack and moved it into the Japanese Experiment Module (JEM), which will be the primary worksite for the next 3 days.  The goal is to remove and replace the current N3 CDRA Desiccant/Sorbent Beds with 2 new ones delivered by SpX-2.  Today the crew removed some ducts, associated selector valves, and a pump filter.  Maintenance will continue tomorrow with the removal of more components to gain eventual access to the 2 Desiccant/Sorbent beds.
+Robonaut Experiment:  FE-5 Hadfield deployed and attached Robonaut to the taskboard in the US Lab.  He also cabled and powered up Robonaut for commanded operations from the Ground.  Today the Robonaut will be working once again at the taskboard.  The purpose of Robonaut is to demonstrate a dexterous robot can launch and operate in a space vehicle, manipulate mechanisms in a microgravity environment, operate for an extended duration within the space environment, assist with tasks, and eventually interact with the crewmembers.
+Binary Collodial Alloy Test (BCAT)-C1:  Hadfield will complete the third and final run of this BCAT sample today. The BCAT-C1 experiment studies nano-scale particles dispersed in liquid, known as a colloidal suspension, commonly found in such commercial commodities as paint, electronic polishing compounds and food products. These suspensions will have the unique property that the particles will phase separate (like oil and water) and the particles will self-assemble into crystals that interact strongly with light (like opal). Photographing these samples in microgravity allow the measurement of these processes while avoiding the effects of particle sinking due to gravity. This study will allow the development of new insights into this important material process.
+
+Coarsening in Solid Liquid Mixtures – 3 (CSLM-3) Experiment:  FE 5 Hadfield will continue the CSLM-3 experiment operations today.  The goal is to complete this set of samples, so they can be returned on SpX-2 on March 25.  The experiment is proceeding as planned.  Today he will terminate vacuum draw on the sample and start the processing of the sample.  The sample will be heated to a liquid state to allow the coarsening to occur.  CSLM-3 is a materials science investigation that studies the growth and solidification processes (i.e., coarsening) in lead-tin solid-liquid mixtures that contain a small amount of tin branch-like (dendrite) structures, some of which possess many arms. During sample heating, the growth at the tip of each dendrite continues over time, whereas side branches, behind the tip, develop during constant temperature conditions. By understanding how temperature and time control the growth of such dendrites, researchers hope to develop more efficient and economical means of producing higher quality products derived from the casting of molten metals.
+Today’s Planned Tasks
+· ТЕХ-22-COPY-1  [Complete] 
+· CIR-ALIGN GUIDE-INST  [Complete] 
+· JEMRMS-RLT-ACT  [Complete] 
+· IFM-N3 CDRA-MAINT  [Complete] 
+· IMS-СУБА-СД-INV / р/г 1751  [Complete] 
+· РБО-3-2-LUL-VFY / р/г 1488   [Complete] 
+· Т-33S-ИРИД-SEAL-IN / РТК   [Complete] 
+· ISS-CREW-DEPART-PREP  [Complete] 
+· ТЕХ-22-COPY-2 / р/г 1757   [Complete] 
+· Т-33S-ИРИДИУМ-CK / РТК    [Complete] 
+· Т-33S-ИРИДИУМ-CLS / РТК   [Complete] 
+· FSL-VMU HDD-GATHER  [Complete] 
+· Т-32S-ИРИД-SEAL-IN / РТК  [Complete] 
+· IFM-N3 CDRA-MAINT  [Complete] 
+· CREW-DEPARTURE-PREP  [Complete] 
+· Т-32S-ИРИДИУМ-CK / РТК   [Complete] 
+· Т-32S-ИРИДИУМ-CLS / РТК   [Complete] 
+· IMS-СУБА-СД-INV / р/г 1751  [Complete] 
+· N3-CDRA COMP-RPLC  [Complete] 
+· HRF-SUPPLY-RESUPPLY  [Complete] 
+· ГРО-SYMBOLIC / р/г 1743  [Complete] 
+· CBTD-CREW-OBT
+· ГРО-SYMBOLIC / р/г 1743  [Complete] 
+· SHD-WEEK- QUES-CH  [Complete] 
+· SHD-WEEK- QUES-TM  [Complete] 
+· SHD-WK-
+· БТХ-11-CLCT-PHOTO / р/г 1765  [Complete] 
+· ТПК-32S-PACK-STOW / р/г 1593  [Complete] 
+· СОЖ-MNT  [Complete] 
+· HMS-FFQ  [Complete] 
+· PAO-PREP  [Complete] 
+· HRF-URINE-SETUP  [Complete] 
+· PAO-PREP  [Complete] 
+· PAO-HD-SETUP  [Complete] 
+·  PAO-HD-EVENT  [Complete] 
+· COL-VCA1-ADJ.   [Complete] 
+· ТЕХ-52-EXE / р/г 1759  [Complete] 
+· N3-CDRA COMP-RPLC  [Complete] 
+· FSL-VMU HDD-SWAP  [Complete] 
+· CUCU-PWR-OFF  [Complete] 
+· ICV-AMB DATA-DNLD  [Complete] 
+· IMS-EDIT 4  [Complete] 
+· МБИ-16-FE-1 / р/г 1758  [Complete] 
+· RS-USB CBL-H/O  [Complete] 
+· ICV-DATA-CNCLD_SUP  [Complete] 
+Task List
+· CEO Ops
+· SSC data gather (FE-6)
+· SSC data gather (FE-5)  [Complete] 
+· SSC data gather (CDR)
+· WHC EDV R&R
+· WHC KTO Replace
+· Roscosmos Report
+· Uragan photo
+· ECON photo
+· Elektron VM search
+· SSC HDD stow
+· CSA Video Scripts 5,6
+· IFM caps/plus stow
+· IFM N1 Aft hatch clean
+· IFM N3 Duct Clean
+· J-HDP Cloth Remove
+· PPFS poster print
+· SODF cuecard update [Complete] 
+· Tool kit poster print
+· SpX-2 Cargo Ops
+
+Ground
+· Nominal Commanding

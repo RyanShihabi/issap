@@ -1,0 +1,66 @@
+
+USOS ExtraVehicular Activity (EVA) 48 status:  Over the weekend, ground teams were able to identify a root cause and a fix for the Space Station Remote Manipulator System (SSRMS) Latching End Effector (LEE) anomaly seen after USOS EVA 47.  Because of this, the EVA to return the LEE to the configuration prior to EVA 47 has been deferred.  EVA 48 is now targeted for mid-February, and the tasks for that EVA are currently being replanned. 
+SSRMS LEE status:  During USOS EVA 47, LEE serial number 201 was removed from the SSRMS and replaced with the spare LEE, serial number 204.  After the installation, ground teams were unable to bring LEE 204 to an operational state on primary power.  Redundant power operated as expected.  Due to this anomaly, plans were put in place to swap the LEEs back and place LEE 201 on the SSRMS as it was before.  Over the weekend, ground teams were able to install diagnostic software that identified the root cause as a faulty initial force reading.  Ground and on orbit testing confirmed the root cause, and also confirmed the ability to operate the LEE on the prime power string if the LEE was already grappled to a fixture.  A software update is being developed to resolve the issue, and is targeted for uplink in two weeks, at which point it is expected that the LEE currently installed on the SSRMS (LEE 204) will be fully operational.
+Electro-static Levitation Furnace (ELF) sample transfer:  Today the crew moved samples within ELF to prepare for upcoming ground commanded operations.  The Electrostatic Levitation Furnace (ELF) is an experimental facility designed to levitate/melt/solidify materials by containerless processing techniques using the Electrostatic Levitation method.  With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved.  The ELF is located in the JEM Multipurpose Small Payload Rack (MSPR) in Kibo.
+At Home in Space:  The crew completed an At Home in Space questionnaire this morning.  This Canadian Space Agency experiment assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space.  At Home in Space uses a questionnaire to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth.
+EPO:  Today the crew recorded several demonstration videos to explain different aspects of life in space to schoolchildren on the ground.  The first video completed today demonstrates the way that crewmembers sleep in space, while the second demonstrates the challenges of and solutions used for exercising the human body while on orbit.
+Lighting Effects:  The crew conducted a Visual Performance Test by stowing the hardware in their crew quarters, setting the light to the correct mode, turning all other light sources in the crew quarters off, and performing a Color Discrimination Test.  The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. 
+Permanent Multipurpose Module (PMM) rack moves:  In order to increase efficiency in the PMM, today the crew moved several stowage racks inside the PMM.  The crew moved a Zero-G Stowage Rack (ZSR) and Resupply Stowage Platform (RSP), allowing easier accessibility to the stowage in these racks. 
+Temperature and Humidity Control (THC) High-Efficiency Particulate Air (HEPA) filter R&R:  Today the crew removed and replaced HEPA filters in the JEM.  This is regularly schedule maintenance to keep airflow high and particulate contamination low. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Big Picture Word Review for PMM Rack Swap Activities
+Electrostatic Levitation Furnace(ELF) Sample Transfer On-board Training
+JEM DMS1 Rack (JPM1O5) Cable Reconfiguration
+On MCC Go Regeneration of БМП Ф1 Micropurification Cartridge (init)
+JEM Stowage Consolidation Part 1
+Electrostatic Levitation Furnace(ELF) sample Cartridge Retrieval
+Electrostatic Levitation Furnace(ELF) sample Holder Removal
+Electrostatic Levitation Furnace(ELF) Sample Refill
+Water Recovery System Waste Water Tank Drain Init
+SPHERES Battery Setup
+Water Recovery System (WRS) Waste Water (WW) Tank Sample and Drain Termination
+Glacier Desiccant Swap
+ПФ1, ПФ2 Dust Filter Cleaning and DC1 В1, В2 Fan Grille Cleaning
+Station Support Computer 23 Hard Disk Drive Swap
+Electrostatic Levitation Furnace(ELF) Sample Holder Installation
+Vacuum cleaning of ВД1 and ВД2 air ducts in DC1
+Electrostatic Levitation Furnace(ELF) sample Cartridge Installation
+At Home In Space Questionnaire
+Robotic Workstation (RWS) Teardown
+В3 fan grill cleaning in DC1
+File downlink from Soyuz 734 Samsung PC per ODF DESCENT
+Extravehicular Activity PGT Battery Removal
+Extravehicular Activity (EVA) Airlock Restow
+Structures and Mechananisms Permanent Multipurpose Module (PMM) Rack Reconfiguration Part 1
+CWC-I to EDV transfer init
+Record of EPO Paxi script
+SPHERES Battery Swap
+JPM THC A High Efficiency Particulate Air (HEPA) Filter R&R
+СОЖ maintenance
+JPM THC B High Efficiency Particulate Air (HEPA) Filter R&R
+CWC-I to EDV transfer term
+Crew Medical Officer (CMO) On Board Training (OBT)
+БД-2 harness carrier adjustment and equipment restart
+Lighting Effects Visual Performance Tests Light Setting – Subject
+Water Resource Management (WRM) Condensate Sample Init
+JPM THC A&B High Efficiency Particulate Air (HEPA) Filter Closeout
+Exercise Data Downlink via OCA
+Structures and Mechanisms Permanent Multipurpose Module (PMM) Rack Reconfiguration Part 2
+Water Resource Management (WRM) Condensate Sample Terminate
+On MCC Go Regeneration of БМП Ф1 Absorption Cartridge (term)
+
+Completed Task List Activities
+
+Manufacturing Device ABS Print Removal, Clean and Stow
+WHC KTO Replace
+Ziplock Restow 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Standard commanding.
+

@@ -1,0 +1,18 @@
+
+Payloads:
+Cerebral Autoregulation (CA): The crew attached the electrocardiogram (ECG) leads, set up other experiment hardware, and performed a CA science session. As the body’s most important organ, the brain needs a strong and reliable blood supply, so the brain is capable of self-regulating blood flow even when the heart and blood vessels cannot maintain an ideal blood pressure. The Cerebral Autoregulation investigation tests whether this self-regulation improves in the microgravity environment of space. Non-invasive tests measure blood flow in the brain before, during, and after a long-duration spaceflight, and provide new insights into how the brain safeguards its blood supply in a challenging environment.
+Fast Neutron Spectrometer (FNS): The FNS systems was disconnected, moved from its Node 2 location to the US lab, reconnected and powered on. Neutron spectrometers are used to make a wide range of measurements, including studies of a planetary body’s composition and measuring the flux of high-energy neutrons that could be harmful to humans. The FNS investigation studies a new neutron measurement technique that is better suited for the mixed radiation fields found in deep space. Future manned and exploration missions benefit from clearer, more error-free measurement of the neutron flux present in an environment with multiple types of radiation.
+Light Ions Detector for ALTEA (LIDAL): Following the completion of the Grip and GRASP science sessions, the LIDAL hardware was moved back to its nominal location. The capability of Anomalous Long-Term Effects in Astronauts (ALTEA) to measure the linear energy transfer (LET) of protons and helium and the kinetic energy of protons and heavy ions was upgraded by the addition of a new time of flight (TOF) system detector called LIDAL. LIDAL upgrades the ability of ALTEA to make measurements that can be converted, by dedicated software in real-time, into radiation risk coefficients – effectively enabling ALTEA to become the first ever dosimetric (risk meter) aboard the ISS.
+Systems:
+Extravehicular Mobility Units (EMU) Resize: Crew stowed EMUs 3004 and 3015 in the crewlock and installed EMUs 3009 and 3013 on EMU Don/Doff Assembly (EDDA). Crew then installed legs and boots on EMU 3009 and swapped arms on EMU 3013.
+EMU 3009/3013 Loop Scrub, and Iodination: The crew performed EMU water loop scrubs and then acquired and tested water samples for conductivity on EMUs 3009 and 3013. During the loop scrub on EMU 3009, the suit’s HECA unit received a software upgrade. Additionally, the crew installed the Hard Upper Torso (HUT) ORU Scrubber to spare HUT 2038 to scrub and iodinate the spare HUT water lines. EMU Loop Scrubs are required preventive maintenance needed to remove any chemical and biological contaminants from the EMU transport loop.
+Boeing Orbital Flight Test 2 (Boe-OFT2) Mission Prep: Today the crew reviewed the OFT mission overview and the Boeing Starliner vehicle familiarization and conference in preparation for Boe-OFT launch, currently planned on 19-May-2022.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+C2V2 Checkout
+

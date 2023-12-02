@@ -1,0 +1,118 @@
+
+Bone Densitometer (BD): The crew completed a calibration of the Bone Densitometer in preparation for operations later this week. Approximately the size of a consumer microwave oven, the Bone Densitometer uses X-rays to measure the bone mineral density (and the lean and fat tissue) of mice living aboard the ISS. As a result, researchers hope to develop medical technology that will combat bone density loss in space and on Earth, helping millions of senior citizens who suffer from osteoporosis.
+Confined Combustion: The crew performed Fabric sample ignitions. This project aims to study flame spread in confined spaces – specifically the interactions between spreading flames and surrounding walls. Flame spread in confined spaces (such as buildings and vehicles) may pose a more serious fire hazard than flame spread in open spaces because of acceleration caused by radiative heat feedback from the surrounding walls and a tunnel flow acceleration effect. However, several aspects of flame spread are difficult to study in normal gravity conditions. Gravity-driven buoyancy flow complicates the fire growth process and prohibits a fundamental understanding of the underlying physics. However, in microgravity, buoyancy is eliminated, allowing scientists to better study the physics of flame spread.
+Cell Biology Experiment Facility-L (CBEF-L): The crew reconfigured the CBEF-L facility from the G to F configuration. Cell Biology Experiment Facility-L (CBEF-L) is a Japan Aerospace Exploration Agency (JAXA) new subrack facility, which is an upgraded facility of the original Cell Biology Experiment Facility (CBEF) currently aboard the International Space Station (ISS). CBEF-L provides new capabilities with additional new resources such as Full High Definition video interface, Ethernet, 24 VDC power supply, and a larger diameter centrifugal test environment. By using the original CBEF and CBEF-L as one facility for the same experiment, the payload user is provided with an upgraded experimental environment that can handle the processing of more experimental samples for a wider array of experiments.
+The ISS Experience: The crew completed the setup of the ISS Experience camera to record the SLAMMD bag Installation activity. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses.
+SPHERES-ReSwarm: The crew performed the last ReSwarm run this year. The test run will be using both the Blue and Red SPHERES satellites in a separate configuration and a Kapton taped together configuration as part of the test plan. SPHERES-ReSwarm tests algorithms to control a swarm of uninhabited aerial vehicles (UAVs). Separate algorithms are used to 1) maintain a formation configuration and 2) steer that formation across the environment. Multiple UAVs can overcome the limitations of individual UAVs for tasks such as manipulating objects or providing full environment coverage. Using relative sensing and minimum or no communication maintains the formation configuration and allows steering of a formation by a centralized unit programmed to achieve a specific goal.
+Systems:
+Space Linear Acceleration Mass Measurement Device (SLAMMD): Today, the crew took mass measurements of cargo bags that are being returned on the SpX-19 Dragon vehicle. The measurements were taken using the SLAMMD which was originally designed to provide an accurate means of determining the on-orbit mass of humans between the 5th percentile Japanese female and the 95th percentile American male. Engineering teams are investigating the feasibility of using the SLAMMD unit to measure the mass of cargo bags to ensure accurate center of gravity calculations for visiting spacecraft prior to their departure. The on-orbit measurements will be compared to ground measurements after landing.
+Thermal Amine Blower Installation:   Today, the crew installed the refurbished blower in the Thermal Amine H2O locker.  Following several Thermal Amine blower motor overcurrent failures this year, the hardware was returned to the ground on SpX-18, refurbished and flown back to ISS on SpX-19.  Thermal Amine System tests a method to remove carbon dioxide (CO2) from air aboard the ISS, using actively heated and cooled amine beds.  Carbon Dioxide Removal Assemblies (CDRA) are operating nominally and remain the primary method for removing CO2 from ISS atmosphere.  Controlling CO2 levels on the station reduces the likelihood of crew members experiencing symptoms of CO2 buildup, which include fatigue, headache, breathing difficulties, strained eyes, and itchy skin. The system includes elements that reduce loss of water vapor, and recover CO2 for use in electrolysis to produce oxygen.
+Completed Task List Activities:
+
+WHC-ЕДВ-Y-R&R
+Node 2 Forward Restow
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Atmosphere Revitalization System (ARS) Thermal Amine Scrubber (TAS) Activision and Checkout
+Command and Data Handling(CDH) Bus Channel B Swap
+
+Wednesday, 1/1 (GMT 001) – Off Duty Day
+Payloads:
+
+
+NUTRISS ON and log (ESA)
+
+Systems:
+
+Crew Off Duty
+
+Thursday, 1/2 (GMT 002)
+Payloads:
+
+
+NUTRISS ON and log (ESA)
+TangoLab-2 Card 07 removal and telemetry check (NASA)
+BioFabricator Media replace (NASA)
+Food Acceptability (NASA)
+Bone Dosimeter QC check (NASA)
+CIR Manifold-4 H2 and CH4 Bottle Replace (Joint)
+ISS Experience H/W Stow (NASA)
+HERA H/W stow (NASA)
+Rodent Bone Densitometer Scans (NASA)
+ADSEP Historical Photo (NASA)
+
+Systems:
+
+Dragon Cargo Transfer 
+
+Friday, 1/3 (GMT 003)
+Payloads:
+
+
+NUTRISS ON and log (ESA)
+ICE CUBES #6 Removal for Dragon Return (ESA)
+Space Moss Run 2 Micro-G and 1-G Sample Fixation and closeout (JAXA)
+CBEF Humidifier fan unit removal (JAXA)
+Rodent Bone Densitometer Scans (NASA)
+Rodent Transporter Setup (NASA)
+Bone Densitometer Imaging Unit Changeout for return and Photo (NASA) 
+
+Systems:
+
+CUCU Checkout
+SDS Survey
+Crew reconfigures PPSB SOX switches to DISCHARGE
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+UF-ATMOSPHERE. Science Hardware Deactivation
+Reminder NutrISS ESA Nutritional Assessment
+XF305 Camcorder Setup
+CBEF-L Configuration Change
+Environmental Health System (EHS) – Formaldehyde Monitoring Kit (FMK) Deployment Operations
+UF-ATMOSPHERE. Closeout Ops
+Fungistat Treatment of FGB Structural Elements
+Environmental Health System (EHS) Grab Sample Container (GSC) Sampling Operations
+Confined Combustion Test Operations
+Audit of Laptop Power Units in SM
+Cargo Transfer to Dragon
+NutrISS – ESA Nutritional Assessment
+SREDA-MKS. Hardware Focusing and Activation
+In Flight Maintenance (IFM) Waste and Hygeine Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace
+Flow Meter Tube Removal and Air Injection for return on SpX-19.
+Environmental Health System (EHS) – Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Analysis T + 5
+Columbus overhead bay 4 temp stowage
+ISS Experience Hardware Stow
+SREDA-MKS. Closeout ops
+MATRYOSHKA-R. BUBBLE dosimeter detector setup and initializing
+SLAMMD Hardware Review Body Mass Measurement
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRIOSHKA-R. Handover
+СОЖ maintenance, ИП-1 Flow Sensor Position Check
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE-dosimeters initialization and deployment for exposure
+In-Flight Maintenance Thermal Amine Scrubber Blower Installation
+MRM1 Fan Screen Cleaning (Group B)
+ISS Experience Introduction Recording
+Space Linear Acceleration Mass Measurement Device (SLAMMD) Bag Installation Assist
+Space Linear Acceleration Mass Measurement Device (SLAMMD) Bag Mass Measurement
+WHC Air Filter Remove and Replace
+VPT Fan Screen Cleaning
+ISS Experience Record Conclude
+Nikon Camera Time Sync
+SPHERES Crew Conference
+SPHERES Test Session Setup
+On Board Training (OBT) Dragon Ground Control Release Self Study
+SPHERES Reswarm Run
+In-Flight Maintenance Thermal Amine Scrubber Power-up
+On-board Training (OBT) Dragon Departure Review
+ISS Experience Hardware Relocate
+SPHERES Test Session Shutdown
+LSG Work Volume Deploy
+Reminder Rodent Research Thermal Consideration
+
+ 

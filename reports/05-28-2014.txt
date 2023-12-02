@@ -1,0 +1,112 @@
+
+39 Soyuz (39S) Launch/Dock: 39S launched from the Baikonur Cosmodrome at 2:57pm CDT today with Max Suraev, Reid Wiseman and Alexander Gerst onboard.  Docking to the Mini-Research Module (MRM)-1 port of the ISS occurred at 8:44pm CDT.  Following hatch opening, the entire crew participated in a welcome ceremony and later will conduct a safety briefing.  With the 39S crew arrival, the ISS is back to a full 6-crew complement.
+Sprint Ultrasound: Commander (CDR) Swanson collected ultrasound data for his Flight Day (FD) 60 Sprint session. Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions. Ultrasound scans are on FD 14, 30, 60, 90, 120, 150, and 7 days before return for a mission duration of six months and are used to evaluate spaceflight-induced changes in the muscle volume.
+Environmental Health System (EHS) Sound Level Meter (SLM) Activities: Swanson measured the acoustic environment in the habitable areas of the ISS by taking sound level readings. He then downlinked results to the ground for evaluation.
+Advanced Resistive Exercise Device (ARED) Status: Following an ARED dashpot inspection yesterday it was discovered that 2 of the 4 x-axis dashpots were broken and the other 2 were degraded. The crew was instructed to stand down on ARED use until a Remove & Replace (R&R) could be scheduled. Today Swanson began replacing the broken dashpots. When he finishes the activity later this week he will conduct a  2-part activation and checkout prior to ARED being declared GO for use. 
+Crew Medical Officer (CMO) On-Board Training (OBT): Swanson performed a session of this OBT today. It is a Computer Based Training (CBT) module that requires no ground interaction and is performed periodically to maintain proficiency for designated CMOs. 
+Today’s Planned Tasks
+
+Laptop RSS1, RSS2 reboot / r/g 1009 [Complete]
+SM Caution and Warning Panel (ПСС) test [Complete]
+Laptop RS1(2) reboot [Complete]
+VEG-Daily Plant Check [Complete]
+USND2- Equipment set up and activation [Complete]
+ВД1 and ВД2 air ducts cleaning in DC1  [Complete]
+SHD- Daily log entry [Complete]
+SPRINT – Scanning operations [Complete]
+Crew Medical Officer (CMO) Proficiency Training [Complete]
+SPRINT – prep and experiment run – assist [Complete]
+OTKLIK. Mate БКС connectors. Tag up with specialist / r/g 5684 [Complete]
+On MCC Go OTKLIK. Mate connector 171=А1-Х4. r/g 5684 [Complete]
+OTKLIK. Close out operations. r/g 5684 [Complete]
+EARTH – Saving data [Complete]
+Acoustic dosimeters stowage [Complete]
+USND2 – Ultrasound 2 h/w deactivation [Complete]
+Connect USB CEVIS to SSC [Complete]
+VEG-01 [Complete]
+USOS windows shutters closure [Complete]
+BIOSIGNAL. Kriogem-03 set up / r/g 5730 [Complete]
+IMS update [Complete]
+WRS – water samples analysis [Complete]
+Reviewing ТК 713 vehicle documentation [Complete]
+TOCA – data recording [Complete]
+Closing covers, windows prior to ТК 713 docking to MRM1 / r/g 5451 [Complete]
+ISS HAM- equipment power off [Complete]
+Reviewing procedure for TV events: Opening Hatches from MRM1 and ISS-40 Arrival  r/g 5731 [Complete]
+Inventory and Cargo Placement Conference  [Complete]
+Closing USOS Window Covers [Complete]
+Prepare crew quarters for the arriving crew [Complete]
+SSC1- connect to Network [Complete]
+Power cycling mpeg2 multicast TV [Complete]
+Noise levels measurement device data transfer  [Complete]
+Preparation for the ТК 713 docking to ISS МRМ1 r/g 5729 [Complete]
+Configuring communications for the ТК 713 docking [Complete]
+Activating  mpeg2 multicast TV [Complete]
+Monitoring ТК 713 rendezvous with ISS (from МRМ1 side)  r/g 5729 [Complete]
+On MCC Go Activate mpeg2 multicast recording mode [Complete]
+Photography and video recording of life aboard the ISS  r/g 5720 [Complete]
+Noise levels measurement device data transfer [Complete]
+On MCC Go Switching МRМ1-ТК PEV to ЭЛЕКТ УПР position [Complete]
+CMO skills training [Complete]
+Activating ТК 712 gas analyzer [Complete]
+On MCC Go Leak-check ТК 713 – МRМ1 [Complete]
+Two Space Suits drying – start [Complete]
+Closing apps on CP SSC and downlinking mpeg2 multicast recording via ОСА [Complete]
+Comm. Reconfig. after ТК 713 docking [Complete]
+Printing out Greetings message for the crew [Complete]
+Preparing КСПЭ equipment in SМ and МRМ1 for the Hatch Opening TV-event r/g 5731 [Complete]
+Opening ТК – МRМ1 Hatches  [Complete]
+TV-event  ISS-40 Arrival / r/g 5731 [Complete]
+Transfering Space Suit No. 3 into ТК 712 for drying
+Closing apps. on CP SSC and deactivating TV equipment /  r/g  5731
+Space Suit No. 3 drying – start
+Safety briefing after ТК713 docking
+Space Suits 1,2 drying completion
+SHD1ST – completing daily questionnaire
+Setting the 1st pair of gloves to dry
+VEG – daily visual inspection of plants
+Preparing crew quarters for the arriving crew
+VEG-01 – adding water to containers
+TK 713 deactivation (without ГА deactivation)/
+Photographing the mark left by the active СтА docking mechanism boom on the passive MRM1 unit receiving cone / r/g2664
+VEG-01 – weekly photography 1
+Closing USOS window covers
+1st pair of gloves drying completion and setting the 2nd pair for drying
+Downlinking images of the docking cone internal surface via ОСА
+Remove USB CEVIS from SSC
+2nd pair of gloves drying completion
+Stowing Space Suits 1,2 and 1-st and 2-nd pairs of cloves after drying
+TK 713 deactivation (without ГА deactivation)
+Space Suit No. 3 drying – completion, start drying 3rd pair of gloves
+3rd pair of gloves drying completion
+Stowing Space Suit No. 3 and gloves into ТК 713 after drying
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO replace [Complete]
+WHC EDV-U R&R
+ARED Dashpot R&R [In work]
+3DA1-Cam-Ops
+CEVIS Isolator MOD
+Cygnus pre-gather
+EMU LLB Auto-Init
+EMU LLB SSC Relocate
+EMU LLB SSC Return
+Exercise ARED
+P/TV ARED ACO S/U
+P/TV ARED Video stow
+EVA ORU Bag Inspection
+IFM MOOT restow
+NOD2O2 Cleanout
+No-skid tape audit
+NOD3 PEPS assessment
+P/TV Hardware questions
+POSSUM PL Photo
+PMM cleanup
+WRS MRF Remove
+
+Ground
+
+Nominal commanding
+

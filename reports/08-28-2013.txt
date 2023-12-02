@@ -1,0 +1,92 @@
+
+Robonaut Operations:  Flight Engineer (FE)-3 Cassidy deployed and attached the Robonaut Taskboard and Robonaut in the U.S. Lab for ground commanded operations. Today the ground performed a checkout of the operating software which involved Robonaut performing large and small arm and finger motions while the ground monitored the generated forces. The purpose of Robonaut is to demonstrate that a dexterous robot can launch and operate in a space vehicle, manipulate mechanisms in a microgravity environment, operate for an extended duration within the space environment, assist with tasks, and eventually interact with the crewmembers.
+BioLab Microscope D&C Cassette Troubleshooting:  After the BioLab Handling Mechanism troubleshooting and the insertion of the Microscope cassette during week 20, the checkout of the BioLab microscope could not be successfully performed. Ground analysis indicates that the interaction between the microscope Flow-Through-Cell (FTC) grabber and the microscope cassette FTC holder did not work as it should. The root cause can be attributed to the FTC holder not being fully mounted and correctly positioned in front of the microscope objective revolver.  In order to troubleshoot this issue, today FE-5 Parmitano fully extracted the BioLab Handling Mechanism (HM) drawer, opened the Microscope (MS) housing from the top, checked the positions of MS cassette FTC holder and MS FTC grabber, separated the FTC holder and grabber, extracted the MS cassette from MS, and retracted the HM drawer. Ground Controllers were able to successfully intitiate the BioLab Microscope after the FE-5 Parmitano activity.
+Freezer-Refrigerator Of STirling cycle (FROST) Install:  FE-3 Cassidy installed FROST onto JEM1A7-10 panel.  FROST is a new domestic refrigerants delivered on HTV4 developed to keep cold even in a case of power outage.  FROST is a Stirling cooler that is able to keep temperatures under -70 deg C.
+Mobile Servicing System (MSS) Status/Ops: Robotics Ground Controllers continue to work a series of Space Station Remote Manipulator System (SSRMS), Special Purpose Dexterous Manipulator (SPDM), and Mobile Transporter (MT) operations to remove external ORU’s from H-II Transfer Vehicle (HTV)-4 and install them on ISS. Last night (GMT 239) the ground controllers powered up the MSS and translated the MT from Worksite (WS) 2 to WS7.  They then used the SPDM on the SSRMS to pick up Space Test Program – Houston (STP-H) 4 from the HTV4 Exposed Pallet (EP) and install it on EXpedite the PRocessing of Experiments to the Space Station (EXPRESS) Logistics Carrier (ELC) 1 Site 3.  Next the Robotics Ground Controllers maneuvered the SSRMS as required to perform a video survey of STP-H4 using SPDM Camera Light Pan Tilt Unit (PTU) Assembly (CLPA) 2.  Finally they maneuvered the SSRMS to a park position.
+Robotics Ground Controllers have powered up the MSS and will use the SPDM on the SSRMS to pick up STP-H3 from the ELC3 Site 5 and install it on the HTV-4 Exposed Pallet (EP).  During these operations the Robotics Ground Controllers will also perform a video survey of the Space Communication and Navigation (SCAN) Testbed as well as the zenith face of STP-H4.
+Port Thermal Radiator Rotary Joint Imagery:  FE-3 Cassidy configured the D2X camera and took imagery of the Port Radiator from the Docking Compartment (DC)1 window. During this task the Radiator was rotated to two different angles to photograph both sides of the Radiator from the DC1 window. This is a routine activity to inspect the radiator for damage include possible Micrometeoroid/Orbital Debris (MMOD) strikes.
+Payload-1 (PL-1) Multiplexer/Demultiplexer (MDM) Loss of Comm (LOC): Overnight, the PL-1 MDM exierenced a LOC. The MDM was in standby mode at the time of the failure, therefore there was no impact to payload data or operations. It has since been power cycled and returned to standby mode.  Although the ops concept is to normally have the backup PL MDM powered off, this MDM has been powered and in standby mode since GMT 228. This allows ground teams to monitor its health since the LOC signature had been seen in the past. The MDM is expected to remain powered until GMT 288. 
+Today’s Planned Tasks
+
+KHROMATOMASS. Experiment Setup [Complete] 
+RSS1, RSS2 Reboot [Complete] 
+HRF – Generic Sample Operations  [Complete]
+HRF – Sample Insertion into MELFI  [Complete]
+KHROMATOMASS. Saliva and Blood Collection [Complete] 
+BIOME – Questionnaire Data Entry  [Complete]
+GLACIER 4 Desiccant Pack Swap  [Complete]
+ТК 709 Kazbek Fit Check  [Complete]
+PAO hardware setup  [Complete]
+ROBONAUT- Camcorder Setup  [Complete]
+EHS MCD Water Processing  [Complete]
+Crew Prep for PAO  [Complete]
+Robonaut Taskboard Setup  [Complete]
+Interactive TV PAO with the Guests of MAKS-2013 International Aviation and Space Salon  [Complete]
+Ocular Health (OH) Cardiac Operations  [Complete]
+ROBONAUT – Hardware Setup  [Complete]
+KHROMATOMASS. Closeout Ops
+Crew Departure Prep  [Complete]
+Ocular Health (OH) Blood Pressure Operations  [Complete]
+WRS Water Sample Analysis  [Complete]
+Pump Urine from ЕДВ-У to ATV tank 1
+Ocular Health (OH) – Tonometry Test Setup  [Complete]
+BCAT -Image Transfer [Complete]
+HMS – Tonometry Test – CMO [Complete]
+СОЖ Maintenance [Complete] 
+ROBONAUT- Video Setup [Complete]
+ROBONAUT System Power Up [Complete] 
+Ocular Health (OH). Tonometry Test Crew Medical Officer (CMO) [Complete]
+Ocular Health (OH). Tonometry Test – Subject [Complete]
+TV Greetings Recording for Knowledge Day and City Day   [Complete]
+Ocular Health (OH). Ocular Health (OH) Tonometry Test Stow [Complete]
+BIOLAB MICROSCOPE D&C Cassette Troubleshooting [In Work] 
+Restow equipment and tools after EVA, reflect changes in IMS [Complete] 
+JEM FROST Installation. [Complete]
+Evaluation of Orthostatic Stability with LBNP (with direct transition to LBNP exercise) [Complete] 
+LBNP Exercise (PRELIMINARY) [Complete] 
+Re-install Toilet Pretreat Container Plugs
+Thermal Control System (TCS) P1 Thermal Radiator Rotary Joint (TRRJ) Imagery [Complete] 
+Evaluation of Orthostatic Stability with LBNP (with direct transition to LBNP exercise) [Complete] 
+TOCA 2 Data Recording [Complete] 
+LBNP Exercise (PRELIMINARY) [Complete] 
+Binary Colloidal Alloy Test(BCAT)-3 Module Stow [Complete] 
+Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Analysis T + 5 [Complete] 
+Restow equipment and tools after EVA, reflect changes in IMS [Complete] 
+Crew Departure Prep [Complete] 
+Crew Prep for PAO [Complete] 
+Crew Departure Prep [Complete] 
+PAO Hardware Setup [Complete] 
+PAO Event – The Arsenio Hall Show [Complete] 
+IMS Update [Complete] 
+ROBONAUT System Power Down [Complete] 
+Routine Maintenance of КН, КВ, and КД Valves in SM Rodnik Tanks [Complete] 
+ROBONAUT – Camcorder Configuration [Complete] 
+Setup for Robotics OBT [Complete] 
+EP Insertion with HBCS review [Complete] 
+SSRMS OBT Using ROBoT Simulator [Complete] 
+ROBoT OBT Debrief [Complete] 
+Ocular Health Vision Test [Complete] 
+Hematocrit  Hardware Setup [Complete]
+
+Task List
+
+CEO Operations [In Work]
+ARED Cylinder Evacuation [Complete]
+ЕДВ-У Remove and Replace
+КТО replace
+Data Prep for Return (CDR)
+Data Prep for Return (FE-2)
+Data Prep for Return (FE-3)
+34S US Prepack [In Work]
+Airlock Camera Setup  [Complete]
+Crew locates HRF PFM/PAM Sample Catheters and take photos   [Complete]  
+Crew Departure Prep [Complete]
+URAGAN. Observations and Photography
+Preparation of reports for Roskosmos site
+ECON-M. Observations and Photography
+
+Ground
+
+MT to Work Site 7
+STPH-4 moved to ELC1 site 3
+

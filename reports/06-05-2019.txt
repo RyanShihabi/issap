@@ -1,0 +1,150 @@
+
+Capillary Structures: The crew performed a scheduled battery exchange for the camera and flash system used for Capillary Structures. They also refilled the science containers to allow further evaporator science operations. Earlier in the day, it was noted the camera battery failed earlier than expected, resulting in a loss of 10-12hrs of imagery. Ground teams are assessing the impacts. The investigation studies a new method using structures of specific shapes to manage fluid and gas mixtures as well as water recycling and carbon dioxide removal systems, benefiting future efforts to design lightweight, more reliable life support systems for future space missions.
+Fluidics:  The crew set up the hardware and initiated the first Fluidics science session. The measurement of liquid displacement within a sphere in microgravity relates to a given kinematic representation of a spacecraft’s fuel tank. The FLUIDICS investigation evaluates the Center of Mass (CoM) position regarding a temperature gradient on a representation of a fuel tank. The observation of capillary wave turbulence on the surface of a fluid layer in a low-gravity environment can provide insights into measuring the existing volume in a sphere.
+High Definition Television Camera-Exposed Facility 2 (HDTV-EF2): The planned activities needed to support today and tomorrow’s JAXA HDTV-EF2 operations were aborted today due to an error from the Japanese Experiment Module Remote Manipulator System (JEMRMS).  HDTV-EF2 is a high-definition television camera system that is used for Earth observation from the ISS and is exposed to the space environment on the Japanese Experiment Module -Exposed Facility (JEM-EF).  HDTV-EF2 has the ability to smoothly track targets on the surface of the Earth, using its camera platform. The high sensitivity of the camera enables the ability to capture video imagery of the Earth at night. 
+The ISS Experience: The crew set up the ISS Experience hardware and discussed the Vascular Echo science session. Talking points included how the arteries and heart react to blood pressure changes, evaluation of a countermeasure for excess blood in the upper body, etc. The crew also used the ISS Experience hardware to observe the performance of the Ultrasound Eye Exam activities. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved.  The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses.
+Story Time From Space: The crew performed a reading of chapters 1-3 from the book Ada Lace, Take Me to Your Leader.  Story Time From Space combines science literacy outreach with simple demonstrations recorded aboard the ISS. Crewmembers read five science, technology, engineering and mathematics-related children’s books in orbit, and complete simple science concept experiments. Crewmembers videotape themselves reading the books and completing demonstrations. Video and data collected during the demonstrations are downlinked to the ground and posted in a video library with accompanying educational materials.
+Vascular Echo: The crew marked their femoral artery on right leg, donned the PDOP femoral probe, donned the exercise equipment, and performed a 1-minute light leg exercise followed by the CDL PDOP (Cardiolab Portable Doppler) data collection during the 3-minute recovery. Vascular Echo examines changes in blood vessels, and the heart, while the crew members are in space, and then follow their recovery on return to Earth. The results could provide insight into potential countermeasures to help maintain crewmember health, and quality of life for everyone.
+Window Observational Research Facility (WORF) Zbook Setup: The crew removed the previous generation rack support laptop (T61p) and set up a new Zbook laptop. Following the completion of ths activity, the ZBook was left shut down but with power applied so the battery can charge prior to laptop power up.  The WORF is a facility for Earth science remote sensing instruments using the Destiny science window in the U.S. Laboratory. WORF has an available internal volume of ~0.64m3 (22.6ft3) for hosting payloads.  The Destiny window has the highest quality optics ever flown on a human-occupied spacecraft.
+Node 2 (N2) Low Temperature Loop (LTL) Pump Package Assembly (PPA) Gas Trap Install: Today the crew installed the last of the new Gas Trap Plugs on the N2 LTL PPA. Intended to give the crew extra time to response to an on-orbit emergency, these plugs will slow the release of ammonia into the atmosphere in the event of an Interface Heat Exchanger (IFHX) breach.
+Emergency Egress Guidance System (EEGS) Installation: In preparation for United States Crew Vehicles (USCV), the crew installed the final EEGS markers at the Node 2 Zenith and Forward hatchways. EEGS are Photo-luminescent markers that provide the crew with the path to their escape vehicles in the event an emergency requires an evacuation of ISS when power to the lights have failed.
+Potable Water Dispenser (PWD) Sample Collection: The crew collected water samples from the PWD for in-flight and post-flight analysis. Collection is performed multiple times throughout the increment to verify water quality.
+Eye Exams: Today the crew completed a second day of routine eye exams using both an Ultrasound machine and Optical Coherence Tomography (OCT). Eye exams are performed regularly onboard in order to monitor crewmembers eye health.  Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment.  
+Completed Task List Activities:
+
+ARED cylinder evacuation [Completed GMT 155]
+CCHA serial number report [Completed GMT 155]
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+RPCM firmware update
+Payload ops support
+
+Look Ahead:
+Thursday, 6/6 (GMT 157)
+Payloads:
+
+
+Fluidics
+Standard Measures
+JEMAL pressurize
+Photobioreactor
+The ISS Experience
+Veg-04A questionnaire
+
+Systems:
+
+BEAM Ingress
+BEAM MSS/SSK Sampling
+BEAM Stowage Consolidation
+N3 Aft Hatch Handle Guide Ring Install
+WSS Install 
+
+Friday, 6/7 (GMT 158)
+Payloads:
+
+
+Capillary Structures
+Veg-04A questionnaire and wick open
+PBR file download
+
+Systems:
+
+Crew off duty 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+ALGOMETRIYA. Pressure and Thermal Algometry preparation for and measurement session
+ABOUT GAGARIN FROM SPACE. HAM Radio Session with students of Amur State University in Blagoveshchensk
+Health Maintenance System (HMS) Ultrasound 2 Scan Prep
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Experiment Laptop Terminal 2 (ELT2) Closeout
+Health Maintenance System (HMS) Ultrasound 2 Scan performed by a Crew Medical Officer (CMO)
+Health Maintenance System (HMS) Ultrasound 2 Scan
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+SW upgrade on RSS1 laptop for diagnostics of MDM-1 and MDM-2 via Ethernet I/F.
+Microgravity Measurement Apparatus Laptop Terminal 2 (MLT2) Power Cable Connection
+COSMOCARD. Closeout Ops
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Lighting Effects Light Meter Setup
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+JEM Common Gas Support Equipment (CGSE) Lower CO2 Gas Supply Stop.
+MOTOCARD. Experiment Session.
+ISS Experience Hardware Stow
+MOTOCARD. Operator Assistance with the Experiment
+Acoustic Monitor Setup for Static Measurements
+In-Flight Maintenance (IFM) Emergency Egress Guidance System (EEGS) Installation
+Lighting Effects Light Meter Readings
+ISS Experience Columbus Setup
+MOTOCARD. Experiment Ops in lieu of Exercise.
+Health Maintenance System (HMS) Ultrasound 2 Scan performed by a Crew Medical Officer (CMO)
+Health Maintenance System (HMS) Ultrasound 2 Scan
+Environmental Health System (EHS) Coliform Water Processing
+Lighting Effects Light Meter Stow
+Node 2 Low Temperature Loop (LTL) Pump Package Assembly (PPA) Gas Trap Plug Installation
+Laptop RS3 Configuration for Sending Commands to Soyuz 741 Central Computer ЦВМ101
+COLUMBUS Deck 2 clean-up
+In-Flight Maintenance Glass Cloth Tape Audit Followup
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+Health Maintenance System (HMS) Ultrasound 2 Scan performed by a Crew Medical Officer
+Health Maintenance System (HMS) Ultrasound 2 Scan Subject
+URAGAN. Observation and Photography using VSS.
+Health Maintenance System (HMS) Ultrasound 2 Post Exam
+INTER-MAI-75. HAM Radio hardware setup and activation in SSTV mode.
+Soyuz 741 ИнПУ-2 Setup for TV System Test.
+Photo/TV Camcorder Setup Verification
+Team Task Switching Experiment Survey
+ISS Experience Recording Preparation
+Water Recovery Management (WRM) Condensate Pumping Initiation
+Monitoring RS structural shell surfaces using Multipurpose Eddy Current Device МВП-2К; Equipment setup, r/g review
+ISS Experience Introduction Recording
+Vascular Echo Exercise PDOP Measurement
+Water Recovery Management (WRM) Condensate Pumping Termination
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Team Task Switching Experiment Survey
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Capillary Structures Camera Battery Exchange
+ALGOMETRIYA. Tenso-algometry measurements.
+БД-2 Semi-Annual Maintenance.
+Capillary Structures Evaporation Science 2 Article Water Refill
+ISS Experience Hardware Relocate
+Rodent Hab 4 Cable Retrieve
+Rodent Hab 4 Cable Swap 1
+Story Time Book Ada Leader Book Read
+Story Time Historical Photo Documentation
+Fluidics hardware installation
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Set Up
+INTER-MAI-75. Equipment deactivation and cleanup
+Rodent Hab 4 Cable Move 1
+ПхО and DC1 post-EVA reconfiguration to initial state
+Private Medical Conference (PMC)
+Rodent Hab 4 Cable Swap 2
+Hygiene Cover Build
+Space Automated Bioproduct Lab, CO2 Incubator Swap
+Team Task Switching Experiment Survey
+Emergency Operations (EMER) Chip Measurement System (CMS) Battery Changeout
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test [Aborted]
+Rodent Hab 4 Cable Swap 3
+Team Task Switching Experiment Survey
+Fluidics Run 1 execution
+Checking attachment of БД-2 SLD system cord.
+EXPRESS Rack ZBook Setup
+Countermeasures System (CMS) Treadmill 2 System (T2) Monthly Inspection
+Health Maintenance System (HMS) OCT Setup
+Rodent Hab 4 Cable Move 2
+Flight Director Conference
+Health Maintenance System (HMS) OCT2 Prep
+Atmosphere Control and Supply (ACS) Oxygen Manual Valve Open
+Evening Preparation Work
+Health Maintenance System (HMS) – OCT Exam – Operator
+Health Maintenance System (HMS) OCT Exam – Subject
+Fluidics Power OFF
+Health Maintenance System (HMS) OCT2 Stow
+ALGOMETRIYA. Conducting measurements in tenso- and thermo-algometry mode. Closeout Ops
+
+ 

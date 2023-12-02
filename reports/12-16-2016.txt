@@ -1,0 +1,89 @@
+
+Medical Consumables Tracker (MCT) Installation: The crew installed the HTV-6 delivered MCT hardware in the Crew Health Care System (CHeCS) Resupply Stowage Rack (RSR). MCT uses Radio-Frequency Identification (RFID) codes to track medicines and medical supplies on board the ISS. Ground managers will be able to track which medical supplies are being used, and how many remain. This tracking information will help teams determine how many medicines and supplies will be necessary for long-duration space missions. This investigation is expected to improve our ability to have the proper supplies available in the necessary quantities for ISS and long duration missions and help refine the use of RFID technology in tracking a large number of RFID tags in a small confined space. 
+Japanese-Small Satellite Orbital Deployer (J-SSOD) Installation:  Yesterday, the crew was unable to locate the Multi-Layered Insulation (MLI) required for protection of the J-SSOD and slide table. Ground teams were able to locate alternate MLI that could be used, and the crew completed J-SSOD installation operations this morning. The Slide Table was retracted back into the JEM Airlock and is currently being depressurized in preparations for satellite deployment on Monday. J-SSOD #5 contains one Cubesat, STARS-C(2U), which will conduct a technical demonstration of a tether extending system using a mother and daughter satellite.
+Biolab Glovebox Health Check: The crew performed a periodic health check of the Biolab Glovebox seals and gloves including sensors for the fan status, delta pressure, temperature and relative humidity. This procedure can also be used to perform individual ground-only checks of the Biolab Glovebox pressure, temperature, relative humidity and fan status.
+Commercial Off the Shelf (COTS) Ultra High Frequency (UHF) Communication Unit (CUCU) Redundant Power Cable Re-route: The crew rerouted the CUCU redundant power cable from Express Rack 2 to the Lab Deck 3 location in order to maintain two independent power sources for fault tolerance. This protects for a single upstream ISS Power failure removing all power to CUCU. The COTS UHF Communication Unit (CUCU) is used for space-to-space communication between Dragon and ISS during rendezvous. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+360 Camera Checkout
+EveryWear Doffing of Biometric Patch and data transfer
+KULONOVSKIY KRISTAL. Video copy & downlink
+Preparation of Reports for Roscosmos Web Site and Social Media
+URAGAN. Observation and photography
+Search for removable screen #2 for Chibis-М assembly
+EKON-M. Observations and photography
+Personal CO2 Monitor Donn
+XF305 Camcorder Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Volumes measured after minimum 10 hours
+Inventory Management System (IMS) conference
+Small Satellite Orbital Deployer Checkout Prep Part 1
+AMS Hard Drive Changeout
+Ultrasound 2 HRF Rack 1 Power On
+PELIKAN. Photo Spectral System (ФСС) Battery Charge (start)
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) High Calibration
+Health Maintenance System (HMS) Ultrasound 2 Scan Prep
+Audit of Food Rations Containers
+J-SSOD Deployer onto Multi-Purpose Experiment Platform Installation
+Troubleshooting of a damaged СУБК cable as a cause of malfunction of Program-Logic Control Device [УПЛУ] and associated equipment (Stage 5)
+Health Maintenance System (HMS) Ultrasound 2 Scan
+Aerosol Samplers Cartridge Removal
+Environmental Health System (EHS) – Coliform Water Sample Analysis 44 +/- 4 hours post processing
+Health Maintenance System (HMS) Ultrasound 2 Post Exam
+Packed Bed Reactor Experiment Lab Video Setup
+Crew support for Biolab Glovebox Health Check
+PELIKAN. Observation and Photography using Photo Spectral System (ФСС)
+Changeout of СРВК-2М Water Conditioning Unit Purification Columns (БК БКВ)
+MRM2 comm config to support the P/L Ops
+Kulonovskiy Kristall Experiment Run.
+Replacement of Filters in FGB Dust Collectors 1, 2.
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+JEM Airlock Depressurization
+MRM2 Comm Reconfig for Nominal Ops
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) High Calibration Data Record
+CONTURE-2. P/L Assembly Setup on panel 418
+Columbus Payload Power Switching Box (PPSB) – Switch reconfiguration
+Flush [СРВК-2М] Water Conditioning Unit Purification Columns [БК БКВ]
+Combustion Integrated Rack Hardware Gather
+Battery Stowage Assembly (BSA) Operation Initiation
+CONTURE-2. Experiment Session Ops
+AMS Software Load Disc 1
+CONTURE-2. De-installation of master arm with adapter from panel 418
+Personal CO2 Monitor Power Cycle
+AMS Software Load Disc 2
+Medical Consumables Tracking Hardware Installation Activation
+Initiate EDV fill from PWD
+Packed Bed Reactor Experiment Lab Video Return
+Ultrasound 2 HRF Rack 1 Stow Alternate
+Replacement of СД1-7 Light Unit in MRM1
+OTKLIK. Hardware Monitoring
+СОЖ Maintenance
+JEM Airlock Vent
+EDV Fill from PWD Term
+AMS Software Load Finish
+JEM Airlock Vent Confirmation
+MERLIN Desiccant Maintenance
+COTS UHF Communication Unit (CUCU) Redundant Power Cable Re-route
+Station Support Computer (SSC) 13 and 18 Reload Preparation
+Intravehicular Tissue Equivalent Proportional Counter (IV-TEPC) Relocate
+NanoRacks Platform-1 Module Install
+INTERACTION-2. Experiment Ops
+Space Headaches – Weekly Questionnaire
+On-Board Training (OBT) HTV post capture Conference
+HRF Kit Locate
+Phase Change HX
+Personal CO2 Monitor Power Cycle 
+
+Completed Task List Items
+
+Veg03 Pillow Water
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+SSRMS Stow SPDM and Walkoff to MBS1
+S6 PVCU Patch
+IEA Video Survey
+

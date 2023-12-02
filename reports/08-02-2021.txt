@@ -1,0 +1,24 @@
+
+Payloads
+Combustion Integrated Rack/Advanced Combustion via Microgravity Experiments (CIR/ACME): The crew exchanged a used 85% O2/ 15% N2 bottle with a new one of the same composition; however, during the installation, a loose pressure relief valve body was found.  The ground is discussing steps to re-tighten the valve body and proceed with operations.  This will allow the continuation of the Cool Flames Investigation with Gases (CFI-G) part 2 test points. Cool diffusion flames were discovered during droplet combustion experiments aboard the ISS in 2012, and this initiated a rapidly growing field of combustion research. A cool flame is one that burns at about 600 degrees Celsius. A typical candle is about two times hotter, burning at around 1,400 degrees Celsius. Most internal combustion engines are designed using computer models that neglect cool flame chemistry, but ignition and flame propagation in engines depend on cool flame chemistry. Cool flame chemistry also has a significant impact on fuel octane and cetane numbers, whose understanding has large economic consequences.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Ellipsoids (InSPACE-4): The crew performed the steps necessary to initiate experiment runs, with a goal of working through runs 57-60. InSPACE-4 studies the assembly of tiny structures from colloids using magnetic fields. These structures change the properties of the assembled material, such as its mechanical response to or interaction with light and heat. Microgravity allows observation of these assembly processes free of confining sample walls and sedimentation and during timescales not possible using simulated microgravity. Results could provide insight into how to harness nanoparticles to fabricate and manufacture new materials.
+Repository: The crew set up for blood collections later in the week and performed urine sampling in support of the Repository investigation. Repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+T2 Treadmill Augmented Reality (T2AR) Monthly Maintenance: The crew performed the science operations for the T2AR system. The objective is to use the T2AR system to assist the crew with the ISS treadmill monthly maintenance. T2AR, conducts tests using augmented reality to help crew members perform inspection and maintenance on the Combined Operational Load Bearing External Resistance Treadmill (COLBERT), also known as the T2 Treadmill. The ability to perform such tasks without assistance from Mission Control is vital for future space exploration such as a mission to Mars, where significant time delays occur in communications between space and ground. Using augmented reality to guide astronauts through complex spacecraft maintenance and repair activities also reduces the time needed for training and task performance.
+Systems
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance: The crew performed this regularly scheduled maintenance today on the two EMU suits that are not going out the door in the upcoming EVA as well as a spare Hard Upper Torso (HUT).  This activity included ionic and particulate filtration (scrubbing) and biocidal maintenance (iodination) of EMUs 3006 and 3004 and Airlock cooling/water loops.
+Crew Alternate Sleep Accommodation (CASA) Blocked Airflow and CO2 Test: The crew measured airflow within CASA to fulfill a data gathering request.  The intent of this test is to intentionally block the CASA outlet and measure the effect on airflow and CO2 levels within CASA with the doors open 1”. FE-14 stayed in CASA for a 30 minute monitoring period while the Carbon Dioxide Monitor recorded continuous data for downlink. CASA is a crew accommodation located in the Columbus module that can host a 5th United States On-orbit Segment (USOS) crewmember when needed during periods of increased crew capacity. When not used as a crew accommodation, CASA is used for stowage.
+Cygnus Rendezvous Training: FE-15 and FE-17 completed on-board training in preparation for the upcoming NG-16 mission.  They reviewed the mission profile, rendezvous crew procedures and interfaces for monitoring/commanding.
+Completed Task List Activities:
+
+EML Sample Chamber Repacking
+ESA PAO Message
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Internal Thermal Control System (ITCS) Airlock Low Temperature Loop (LTL) Flow Initiate
+Internal Thermal Control System (ITCS) Airlock Low Temperature Loop (LTL) Flow Terminate
+UHF-2 Activation
+UHF-2 Deactivation
+EMU Loop Scrub Support
+

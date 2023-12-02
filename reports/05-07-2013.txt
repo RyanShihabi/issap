@@ -1,0 +1,91 @@
+
+New Status: 
+Robonaut Taskboard/Teleops: Following yesterday’s procedures review and camcorder setup, today Cassidy and Marshburn retrieved Robonaut and supporting hardware, installed Robonaut to a seat track and connected the cables for powered/commanded operations. Today and tomorrow will be the 3rd 2-day session of these activities. The Robonaut Tele-operation System is used to demonstrate the ability to effectively control Robonaut from the ISS. The research objective is to evaluate this control method in terms of its ability to perform tasks as well as measure the time necessary to complete the defined tasks. This capability will need to be developed to support future operations of Robonaut in the EVA environment as well as certain Intravehicular Activity (IVA) situations.
+On-Board Training (OBT) Soyuz Descent Training: Hadfield, Romanenko and Marshburn performed the 2nd of 2 Soyuz descent drills in preparation for their return to Earth on 33 Soyuz scheduled for May 13, 2013.
+Capillary Flow Experiments (CFE) Vane Gap 2 (VG2) Test Operations: Cassidy set up hardware and performed a session of the CFE-2 Interior Corner Flow (ICF)-9 experiment. On completion, he dismantled and stowed the hardware. CFE is a suite of fluid physics experiments that investigate capillary flows and flows of fluids in containers with complex geometries. Results will improve current computer models that are used by designers of low gravity fluid systems and may improve fluid transfer systems on future spacecraft.
+European Space Agency (ESA) NightPod Experiment: Hadfield performed a firmware upgrade and conducted a session of this experiment, which investigates improvements to digital photography for Earth observations at night by using long exposure time and compensating for the relative motion of the ISS and Earth. Scenario’s include cities at night, vegetation fires at night, visual analysis of maritime traffic / road traffic, volcano activity at night, urban pollution, squid fishing at night and day/night transitions.
+Robotic Refueling Mission (RRM) Operations: Last night, Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and began Day 3 of the RRM Tertiary Task Ops. Video scrolling issues were seen again with the Wire Cutting Tool (WCT) camera video. Ground controllers worked with their Ku System experts to troubleshoot the issue in order to try to provide an acceptable view for the planned Test Port Panel (TPP) task ops. While that troubleshooting was in work, robotics controllers continued with completing the Torque Set Adapter (TSA) task. Using the TSA attached to the Safety Cap Tool (SCT) on Arm 1, the uncaged screw, unfastened during Day 2 ops, was refastened. This completed the TSA task set. The Space Station Remote Manipulator System (SSRMS) and Special Purpose Dextrous Manipulator (SPDM) were then reconfigured into position for the Test Port Panel (TPP) task. At this position, the quality of the tool camera video was assessed to be acceptable to continue with the TPP task. The Wire Cutting Tool (WCT) attached to Arm 2 was used to cut the Multi-Layer Insulation (MLI) tape on the first of three sides of the panel. At the start of the attempt to cut the second side of the panel, the MLI was ripped. The SPDM was maneuvered to a park position and operations were ended for the day. The RRM team will assess the situation and determine if this task can be continued on Day 4.
+Previous Status (05/06/13)
+Spinal: Hadfield and Marshburn conducted their 3rd and final session of this experiment with Cassidy as operator and remote guidance from ground teams. Spinal Ultrasound uses ground and space-based studies to characterize spinal changes during and after spaceflight.  Ground based pre- and post-flight Magnetic Resonance Imaging (MRI) and high fidelity ultrasound, combined with in-flight ultrasound will be used to characterize and assign a mission health risk to microgravity-associated spinal alterations for back pain and potential injury. This research will determine the accuracy of MRI and musculoskeletal ultrasound in characterizing the anatomy of the vertebral unit and develop novel imaging and training methodologies.
+On-Board Training (OBT) Soyuz Descent Training: Hadfield and Romanenko performed the first of 2 Soyuz descent drills. This morning they received a briefing from ground teams on return cargo stowage plan and cargo list. They then reviewed the descent timeline. Later Hadfield, Romanenko and Marshburn performed a Sokol Suit leak check. These activities are in preparation for their return to Earth on 33S scheduled for May 14.
+Binary Colloidal Alloy Test (BCAT) Photos: Cassidy checked the setup of the D2Xs Camera, SB-800 Flash, and laptop. He then set up the BCAT-3 Slow Growth Sample Module for a multi-flash-angle photography session for BCAT-3, 4, and, 6 hardware and then photographed the sample manually with specific flash angles using the Earth Knowledge Acquired by Middle School (EarthKAM) software. The next BCAT operations are scheduled for May 13.
+Robonaut Operational Review: Cassidy and Marshburn performed a procedures review and set up the camcorder in preparation for the 3rd 2-day Taskboard/Teleops session scheduled for tomorrow and Wednesday.
+Carbon Dioxide Removal Assembly (CDRA) Air Selector Valve (ASV) 102 Remove & Replace (R&R): On Saturday, Cassidy completed a procedures review of the Node 3 CDRA valve R&R scheduled for this Wednesday. He will be assisting Marshburn with the task.
+Today’s Planned Tasks
+· PROK. Urine Spot Test [Complete] 
+· Laptop RS2(1) Reboot  [Complete] 
+· RSS1, RSS2 Reboot  [Complete] 
+· SM ПСС (Caution & Warning Panel) Test  [Complete] 
+· KHROMATOMASS. Experiment Setup  [Complete] 
+· USOS Window Shutter Close [Complete] 
+· PROK. Urine Spot Test [Complete] 
+· KHROMATOMASS. Saliva and Blood Collection  [Complete] 
+· CIR – Hardware Setup [Complete] 
+· ТК 704А СУД No. 2 Test Prior to Undocking  [Complete] 
+· ТКГ 419 Aft Transfers and IMS Ops  [Complete] 
+· Robonaut Hardware Assembly [Complete] 
+· ROBONAUT- MPC Setup [Complete] 
+· KHROMATOMASS. Closeout Ops
+· Robonaut Power Up [Complete] 
+· ТКГ 419 Aft Transfers and IMS Ops / ТКГ 419 Cargo Transfers [РПР]  [Complete] 
+· ELT2 Setup [Complete]
+· NightPod – Battery Charge [Complete] 
+· ТК 704A Descent OBT. Tagup with specialists (S-band, VHF) [Complete] 
+· PAO Hardware Setup [Complete] 
+· Crew Prep for PAO  [Complete] 
+· TV Greetings  [Complete] 
+· IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop  [Complete] 
+· RS1, RS3 Laptops Inspection And Cleaning. [Complete] 
+· Activate Laptop RS1. RS2 Laptop Inspection and Cleaning. [Complete] 
+· Nitrogen Purge Unit (БПА) R&R in Elektron-VM Oxygen Generation Unit [СКО].  [Complete] 
+· ISERV – Opening LAB window shutters [Complete] 
+· SDGR. Preparation of Work Space [Complete] 
+· On MCC GO Mating БКС and БПА-М Connectors [Complete] 
+· PROK. Diet Log Day 1 [Complete] 
+· IMS Update  [Complete] 
+· NightPod Firmware Upgrade [In Work]  
+· NightPod – NightPod Checkout after Firmware Upgrade [Complete] 
+· SSC Ops Conference [Complete] 
+· Private Medical Conference  [Deferred] 
+· СОЖ Maintenance
+· Robonaut Power Down [Complete] 
+· PROK. Diet Log Day 2-4 [Complete] 
+· Handover of pre-packed USOS cargo items for return on 33S [Complete]
+· ROBONAUT – Camcorder Configuration [Complete] 
+· Collection of Surface Samples from Cabling, FGB Equipment and Structural Elements [Complete]
+· Capillary Flow Experiments (CFE) Hardware Setup, Test Ops, and teardown [Complete]
+· ТК 704A АСУ Activation [Complete]
+· Physical Fitness Evaluation (on treadmill) [Complete]
+· Crew Departure Prep x 3 [Complete]
+· PAO Hardware Setup, Crew Prep, and event [Complete]
+· Crew Discretionary Conference [Complete]
+· SDGR. Work Space Config [Complete]
+· ТКГ 419 (51P) Aft Transfers and IMS Ops  [Complete]
+· IMMUNO. Setting up Saliva-Immuno Kit for experiment ops [Complete]
+· Data Prep on RSS2 for Downlink via РСПИ [Complete]
+· Preparation of reports for Roskosmos site [Complete]
+· ECON-M. Observations and Photography [Complete]
+· URAGAN Observations and Photography / r/g 2298 [Complete]
+Task List
+· 33S US prepack [In Work] 
+· CEO ops  [Complete] 
+· RGN WSTA fill
+· SSC data gather (FE-6)
+· SSC data gather (CDR)  [Complete] 
+· WHC EDV R&R
+· Roscosmos Report
+· CDRA procedures review
+· EHS TOCA data rc/xfr  [In Work] 
+· Data prep return-CDR [In Work] 
+· Data prep return-FE4
+· Data prep return-FE6 [In Work] 
+· HMS stow – FE6 [In Work]
+· HMS stow – CDR  [In Work]
+· Journals-FE6
+· T2 SSC swap  [Complete] 
+· VOK Consolidat PT2  [Complete] 
+· N2 ATU1 t/s  [Complete] 
+· ION exchange locate  [Complete] 
+
+Ground
+· Nominal Commanding  [In Work] 

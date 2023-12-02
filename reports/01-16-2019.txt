@@ -1,0 +1,103 @@
+
+Bio-monitor commissioning: The crew completed the first part of the Bio-Monitor commissioning activity.  The ground team is still assessing the data from the commissioning and reported an issue with one of the iPad application tests, but reported everything else looks good so far.  The missed iPad application test can be performed during the next commissioning activities in the upcoming weeks.  Although the ISS is equipped with health and life sciences research tools, the existing instrumentation for continuous and simultaneous recording of several physiological parameters is lacking. To tackle this issue, the Bio-Monitor Commissioning activity tests the Bio-Monitor facility; a wearable garment capable of monitoring relevant physiological parameters for up to 48 hours in a non-invasive and non-interfering way.  The physiological parameters which can be monitored consist of heart rate, respiration rate, ECG (Electrocardiogram), skin temperature, peripheral blood oxygen saturation, etc. 
+Fluid Shifts: The crew performed the dilution measures portion of the ongoing Fluid Shifts investigation.  This involves the ingestion of a tracer solution and collection of blood, saliva and urine samples.  Fluid Shifts is a NASA investigation, divided into Dilution Measurements, Baseline Imaging, and Baseline Imaging with Chibis (Lower Body Negative Pressure). The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronaut’s eyes.  Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and prevention of eye damage.
+Transition to (X2) R17 Software Transition: Ground teams continued with the R17 software transition by loading both of the Internal (INT) Multiplexer/Demultiplexers (MDMs) with INTSYS R10 software. The teams will continue to load X2R17 software into the Node 1 and Airlock MDMs tomorrow.
+Waste and Hygiene Compartment (WHC) Urine Hydraulic Components R&R: Today, the crew performed periodic maintenance in order to replace the WHC urine valve block, urine lines, urine pressure sensors along with the flush water tank empty pressure sensor.
+Completed Task List Activities:
+
+Transition SSC-6 to Wired Configuration
+Cygnus Trash Gather
+T2 CTB Audit Follow up
+Stowage Locker Trash Fill (Active)
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+X2R17 Software Transition (Ongoing through January 17)
+
+Two-Day Look Ahead:
+Thursday, 01/17:
+Payloads:
+
+Bio-monitor power off
+CIR hardware gather
+Fluid Shifts
+Kubik
+MERLIN desiccant swap
+MSPR bonding strap installation closeout
+
+Systems
+
+X2_R17 Software Transition
+
+Friday, 01/17:
+Payloads:
+
+Behavioral Core Measures
+CIR/ACME reconfiguration
+SODI DSC flash disk exchange
+Fluid Shifts
+MSG/SAMS TSH troubleshooting
+Slingshot preparation
+Team Task Switching
+Veggie light meter installation
+
+Systems
+
+ISS Reboost
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Actiwatch Plus Evaluation Display Check
+Behavioral Core Measures Journals Entry
+Bio-Monitor Historical Photo
+Bio-Monitor System Commissioning Measurement
+Bio-Monitor Wearables Data Transfer And Removal Alternate
+Bio-Monitor Wearables Setup
+CB/ISS CREW CONFERENCE
+PWS2 Laptop Deinstallation from Columbus
+PWS2 Laptop Installation in Columbus
+PWS2 Laptop Deinstallation from Node 2
+PWS2 Laptop Installation in Node 2
+Record video of 1 orbit of Earth for CSA outreach
+Record video for CSA about physical activity in space
+Fluid Shifts CCFP Baseline Setup
+Fluid Shifts HRF Centrifuge Frozen Blood 3-Hour Collection Subject
+Fluid Shifts HRF Centrifuge Frozen Blood Baseline Collection Subject
+Fluid Shifts HRF Centrifuge Frozen Blood Collection Operator
+Fluid Shifts HRF Centrifuge Frozen Blood Collection Conclude And Stow
+Fluid Shifts Galley Water Collection And Tracer Ingestion Operations
+Fluid Shifts HRF Centrifuge Blood Collection Configuration
+Fluid Shifts HRF Centrifuge Blood Collection Spin Conclude
+Fluid Shifts Hardware Battery Installation
+Fluid Shifts MELFI Retrieval And Insertion Operations
+Fluid Shifts OCT2 Gather
+Fluid Shifts Saliva 3-Hour Collection
+Fluid Shifts Saliva 5-Hour Collection
+Fluid Shifts Saliva Baseline Collection
+Fluid Shifts Urine Collection
+Fluid Shifts Urine Collection Stow
+Fluid Shifts USOS Operations Historical Documentation Photography
+WHC Urine Hydraulic Components R&R
+Delta file prep
+Install Bio-Monitor App
+Program Management/ISS Crew Conference
+Preparation of Reports for Roscosmos Web Site and Social Media
+SODI External Hard Disk Connect
+Transition SSC6 to Wired configuration
+Inspection and photography of ISS RS windows 3, 5, 6, 7, 8, 9, 26
+SCENARY. Observation and photography using photo equipment
+ECON-M. Observations and Photography
+Nikon still camera sync with station time
+Weekly monitoring of video recording equipment performance on the ISS RS
+MRM1 fan screen (Group B) cleaning, cleaning behind panels 405, 406
+Replacing СКПФ1, СКПФ2 Dust Collector Filters (ФГБ1ПГО_4_426_1, bag 436-3 (00071434R). Discard de-installed items. Update IMS) and cleaning MRM1 Gas-Liquid Heat Exchanger (ГЖТ)
+Gathering and relocation of ССВП kits to MRM1
+MRM1-FGB Screw Clamp Tightening
+COSMOCARD. Closeout Ops
+Insert-cable installation in DC1, radiogram review, equipment pre-gather.
+СОЖ maintenance
+
+ 

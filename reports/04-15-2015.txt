@@ -1,0 +1,51 @@
+
+The Effect of Long-Term Microgravity Exposure on Cardiac Autonomic Function (Biological Rhythms): Kelly set up and donned a Holter Electrocardiogram (ECG).  He will record his ECG data for 48 hours, synching and downlinking the data between 21 and 24 hours after starting.  Biological Rhythms studies the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours. While ISS keeps Greenwich Mean Time (GMT), it remains unknown whether a separate biological rhythm is imposed on long-term flight crews. To study this, astronauts wear an Actiwatch sleep monitor for 96 hours and a Holter electrocardiograph for 48 hours in the middle of that sequence.
+Circadian Rhythms: Cristoforetti configured the Circadian Rhythm Armband Monitor and donned the Thermolab sensors and belt.  She will wear the Circadian Rhythm monitors for 36 hours then doff and download the data on Friday.  The objective of the Circadian Rhythm experiment is to obtain a better understanding of any alterations in circadian rhythms in humans during long-duration spaceflight.  Such knowledge will provide important insights into the adaptations of the human autonomic nervous system in space over time, and has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.  The Circadian Rhythms will be measured by monitoring the bodies core temperature. During the first, mid and last session, the armband system will also be used.
+Node 3 (N3) Forward Midbay Intermodule Ventilation (IMV) Reconfiguration: Following yesterday’s procedure review and hardware gather, Cristoferetti removed existing IMV hardware from N3 Forward Midby and installed new ducting and an IMV Manual Valve in preparation for the PMM relocate to N3 Forward.
+Extravehicular Activity (EVA) Hard Upper Torso (HUT) Swap: Yesterday the crew moved Extravehicular Mobility Unit (EMU) 3011 from the Forward EMU Don/Doff Assembly (EDDA) to the Crewlock and EMU 3005 from the Crewlock to the Forward EDDA. Today Virts and Kelly swapped HUTs between EMU 3005 (size XL) and EMU 3010. This results in EMUs 3003 (size L) and 3010 (size XL) as primary EMUs with 3005 as backup.  Following the HUT swap the crew performed a successful EMU checkout of both 3005 and 3010
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Inspection of БПП-4, БПП-7 fuses in MRM1 based on LED indication
+BLR48 – Preparing for and starting measurements
+Water Transfer to EDV from ТГК 424 (DC1) Rodnik tanks  r/g 8530
+Replacement of air filter in АСУ
+CASKAD. Manual Mixing in Bioreactor / r/g 8358
+Replacement of urine receptacle (МП) and filter-insert (Ф-В) in АСУ
+Verification of ИП-1 Flow Sensor Position
+ТКГ424 (DC1) Stowage and IMS Ops / r/g 8410, 8523
+Node1 Stowage
+Checking БКС connections to XP 704 and XP 711 r/g 8528
+DATA TRANSMISSION RADIO LINK (РСПИ) r/g 8508
+VIZIR. Experiment Ops / r/g 8527
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ) Detachable Screens 1, 2, 3
+Node 3 – IMV Reconfiguration
+MDCA – Preparation steps
+URAGAN. Observations and Photography / r/g 8519
+NAPOR-miniRSA. Cleaning БЗУ-М vents / r/g 8518
+ТКГ424 (DC1) Stowage and IMS Ops / r/g 8410, 8523
+EMU – Hard Upper Torso (HUT) Swap
+Isolation of LED metallic surface on ТК 716 БРУС front panel / r/g 8525
+TV Conference with Samara Region Representatives r/g 8529
+DATA TRANSMISSION RADIO LINKr/g 8508
+Node 3 – IMV Reconfiguration
+IMS Delta File Prep
+EMU checkout
+EMU water dump, fill [Deferred]
+ТГК 424 (DC1) Rodnik Tank 1 and 2 shell compression / r/g 8530
+Measurements No.1 & 2 to Identify the Root Cause of unusual noise during SM SA ops r/g 8505, 8515
+CASKAD. Manual Mixing in Bioreactor / r/g 8358
+Thermolab – Instrumentation Ops for Circadian Rhythms
+VIRU. Battery Charge (start) / r/g 6827
+Self-Reaction Test Reaction Time Test (evening)
+
+Completed Task List Items
+
+Wearable Monitoring Vest part 2
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+UHF2 powerup and down. 

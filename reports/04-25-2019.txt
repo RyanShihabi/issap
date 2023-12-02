@@ -1,0 +1,134 @@
+
+MISSE-FF (Materials ISS Experiment Flight Facility): Robotics Flight Controllers successfully installed one of the new MISSE Science Carrier (MSC) in the #1 position of the MISSE-FF facility and verified commanding capability. Robotics will continue to install the remaining 3 MSCs that arrived on NG-11. The primary Materials ISS Experiment Flight Facility (MISSE-FF) platform provides the ability to test materials, coatings, and components or other larger experiments in the harsh environment of space, which is virtually impossible to do collectively on Earth. Testing in low-Earth orbit (LEO) allows the integrated testing of how materials react to exposure to ultraviolet radiation (UV), atomic oxygen (AO), ionizing radiation, ultrahigh vacuum (UHV), charged particles, thermal cycles, electromagnetic radiation, and micro-meteoroids in the LEO environment.
+Space Fibers: The crew swapped the Space Fibers hardware with the 2nd unit in the Microgravity Science Glovebox. Upon completion of the last run, the hardware was deactivated and stowed. Manufacturing Fiber Optic Cable in Microgravity (Space Fibers) evaluates a method for producing fiber optic cable from a blend of zirconium, barium, lanthanum, sodium and aluminum, called ZBLAN, in space. ZBLAN produces glass one hundred times more transparent than silica-based glass, exceptional for fiber optics. Microgravity suppresses two mechanisms that commonly degrade fiber, and previous studies showed improved properties in fiber drawn in microgravity compared to that fabricated on the ground.
+Astrobee: The crew activated the Astrobee Docking station. Astrobee is a series of three free-flying, cube-shaped robots. The robots are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the ISS. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+The ISS Experience: The crew performed the hardware setup in Node 3 to record an ARED exercise session, then the hardware was relocated to Node 2 and stowed. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved.  The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses.
+Veggie PONDS Validation: The crew installed the Veggie Ponds clear modules hardware into the Veggie Facility. Water was filled into each module. The unit was powered up and the lighting intervals were set to initiate the experiment. The same steps were performed for the opaque modules for the 2nd Veggie Facility. Organisms grow differently in space, from single-celled bacteria to plants and humans. Future long-duration space missions will require crew members to grow their own food. Therefore, understanding how plants respond to microgravity and demonstrating the reliable vegetable production on orbit are important steps toward that goal. Veggie PONDS uses a newly developed passive nutrient delivery system and the Veggie plant growth facility aboard the International Space Station (ISS) to cultivate lettuce and mizuna greens which are to be harvested on-orbit, and consumed, with samples returned to Earth for analysis. 
+Thermal Amine Scrubber Installation: The crew installed the Thermal Amine Scrubber which is an upgraded version of the Amine Swingbed and will be used as a long term CO2 scrubber. Thermal Amine launched on NG-11 and provides the capability to operate the Life Support Rack (LSR), one (or no) Carbon Dioxide Removal Assembly and Thermal Amine during 7 (or fewer) crew instead of two CDRAs continuously. Activation is planned for next week. 
+ISS Emergency On-Board Training (OBT): The crew utilized a simulator to practice response to an ISS emergency including procedure review, equipment gather and communication with the ground. Scenarios included US and Russian segment fire, rapid depress, and ammonia release.
+Northrop Grumman 11 (NG-11) Cygnus Cargo Operations: The crew completed Cygnus Cargo Message #2 yesterday afternoon. Approximately 32 hours of cargo operations have been performed.  The next cargo message, which will be ready late next week, will direct the crew to begin loading items for disposal for Cygnus unberth in July.
+Completed Task List Activities:
+
+Thermal Amine cable retrieval
+PCS HD pre-gather
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Ultrasound ops
+Dragon ROBoT OBT
+SPDM MSC transfer
+
+Look Ahead:
+Friday, 04/26 (GMT 116):
+Payloads:
+
+Rodent Research-12 Habitat Restock and access unit clean (NASA)
+Astrobee Docking Station Deact (NASA)
+Fluid Shifts Ops (NASA)
+ISS Experience Message (NASA) 
+
+Systems:
+
+OBT ISS Emergency Simulation/results conference with ground teams
+Compound Specific Analyzer-Combustion (CSA-CP) checkout 
+
+Saturday, 04/27 (GMT 117):
+Payloads:
+
+No Payload activities
+
+Systems:
+
+Crew off duty – housekeeping
+
+Sunday, 04/28 (GMT 118):
+Payloads:
+
+Veggie PONDS Germination Cap removal (NASA)
+
+Systems:
+
+Crew off duty
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+ISS Emergency OBT Prep
+Review Emergency OBT Simulator Functionality
+Astrobee Docking Station Power On
+Fluid Shifts OCT2 Baseline Setup
+ISS Experience Node 3 Setup
+RYASKA. Deactivation of LED Panel. Disconnecting Circuitry. Hardware stow
+RYASKA. Photography of the hardware teardown on the background
+Fluid Shifts Ultrasound 2 HRF Rack 1 Power On
+Fluid Shifts CDL Holter Arterial BP Hardware Don
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Atmospheric Control System (ACS) Nitrogen Oxygen Recharge System(NORS) Nitrogen Transfer Termination
+Fluid Shifts Ultrasound Baseline Scan Subject
+VIZIR. Transfer of Container with medication from Progress 441
+Space Fibers Hardware Exchange
+СТТС Reconfiguration in MRM1
+Fluid Shifts Ultrasound Baseline Scan Operator
+VIZIR. Repairing Screen on Smart Drawer Coordinate Referencing System (СКП-УП) P/L
+COSMOCARD. Closeout Ops
+Atmospheric Control System (ACS) Nitrogen Oxygen Recharge System(NORS) Nitrogen Transfer Termination
+PROFILAKTIKA-2
+PROFILAKTIKA-2. Operator Assistance in Preparation for the Experiment
+Review Emergency OBT Simulator Functionality
+Weekly monitoring of video recording equipment performance on the ISS RS
+Fluid Shifts CCFP Baseline Test
+PROFILAKTIKA-2. Closeout Ops, Operator
+Fluid Shifts USOS Operations Historical Documentation Photography
+ISS Experience Recording Preparation
+Fluid Shifts OCT2 Baseline Exam Operator
+Fluid Shifts OCT2 Baseline Exam Subject
+Locating equipment and a tagup with specialists prior to ПТАБ-1М replacement with ПТАБ-2 (A304)
+Fluid Shifts DPOAE Baseline Test
+Fluid Shifts OCT2 Baseline Stow
+PROFILAKTIKA-2. Closeout Ops
+Fluid Shifts Tonometry Baseline Setup
+Payload Laptop Terminal 3 (PLT3) Power Cable Connection
+Fluid Shifts Tonometry Baseline Exam Operator
+Fluid Shifts Tonometry Baseline Exam Subject
+PROFILAKTIKA-2. Hygiene Procedures
+Fluid Shifts CDL Holter Arterial BP Hardware Doff Alternate
+Fluid Shifts Tonometry Baseline Stow
+ISS Experience Record Conclude
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+VIP High Definition (HD) LAB EVENT
+Inventory Management System (IMS) Conference
+ISS Experience Hardware Relocate
+Team Task Switching Experiment Survey
+CONSTANTA-2. Cassette removal from ТБУ-В and setup on panel for 1-hour warmup
+On MCC Go Replacing ИДЭ-3 Smoke Detectors in MRM1 with ИДЭ-4
+Progress 441 (DC1) Priority Transfers and IMS Ops
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Environmental Health System (EHS) – Rad Detector Relocate
+Space Fibers Hardware Stow
+VEGGIE Display On-Board Training
+Veggie Ponds Hardware Gather
+CONSTANTA-2. Preparation and Execution 6
+Veggie Ponds MWA Preparation
+Veggie Ponds Experiment Initiation
+Robotics Onboard Training (ROBoT) Session for Dragon
+Wide-Band Communication System (ШСС) Hardware Health Check
+Scheduled monthly maintenance of Central Post Laptop. Downlink Log-files via OCA
+In-Flight Maintenance Thermal Amine Installation
+SM Air Sampling for CO using ИПД Samplers
+Veggie Ponds Historical Documentation Photography
+Team Task Switching Experiment Survey
+Air sample collection using ИПД sampler for ammonia in SM
+Robotics Onboard Training (ROBoT) Session for Dragon
+Air sample collection using АК-1М adsorber in SM for Freon
+Review Emergency OBT Simulator Functionality
+Collecting SM and FGB Air Samples Using АК-1М Sampler
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Progress 441 (DC1) Priority Transfers and IMS Ops
+Team Task Switching Experiment Survey
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+ISS Experience Hardware Stow
+
+ 

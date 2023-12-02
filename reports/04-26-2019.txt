@@ -1,0 +1,131 @@
+
+SpX-17 Launch Status:  SpX-17 is now scheduled to launch on Wednesday, May 1 with capture/berthing on Saturday, May 4.
+Rodent Research-12 (RR-12): The crew restocked all four Rodent Habitats by adding new food bars, and cleaning the interior lid and camera lenses. The access unit was also cleaned. Rodent Research-12, Tetanus Antibody Response by B cells in Space (TARBIS), examines the effects of spaceflight on the function of antibody production and immune memory. Spaceflight is known to have a dramatic influence on immune response, but there is little research on its effect following an actual challenge to the body’s immune system. Using a mouse model makes this possible, as the mouse immune system closely parallels that of humans.
+Astrobee: The crew removed and deactivated the Astrobee Docking Station. Astrobee is a series of three free-flying, cube-shaped robots. The robots are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the ISS. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+Fluid Shifts: Crewmembers continued Fluid Shifts ultrasound operations, Cerebral and Cochlear Fluid Pressure (CCFP), Distortion-product Otoacoustic Emissions (DPOAE) and Ocular Structure (OCT) measurements. The purpose of this study is to characterize fluid distribution and compartmentalization associated with long-duration space flight, and to correlate these findings with vision changes and other elements of the SANS syndrome. 
+Emergency Response On-Board Training (OBT): All crewmembers participated in today’s simulator drill to practice emergency response with ground controllers using information provided by simulator displays. Over the course of several sessions, the crew practiced the following:
+
+Physically translating through ISS to the appropriate response locations to visualize the use of station emergency response equipment and interfaces.
+Procedure execution, and the associated decision making, based on cues provided by simulator.
+Communication and coordination with MCC-H and MCC-M as required for a given emergency scenario.
+
+Following the drill, the crew completed a conference with ground teams to discuss results of the OBT.
+Commercial Orbital Transport Services (COTS) UHF Communication Unit (CUCU) Checkout:  In preparation for the upcoming arrival of SpaceX-17 planned on May 4, the crew coordinated with ground teams to activate the CUCU system and perform a Crew Command Panel (CCP) checkout. CUCU provides a command and telemetry communications link between ISS and Dragon during free flight operations near ISS.    
+Compound Specific Analyzer-Combustion (CSA-CP) Checkout: The crew completed this routine maintenance today by replacing batteries in the CSA-CP units and updating internal clock settings. The CSA-CPs are used by the crew to detect evidence of fire and/or hazardous environment.
+Public Affairs Office (PAO) Live Event:  Saint-Jacques participated in a live PAO event with approximately 800 grade 7-9 students from Prince Edward Island featuring the Exploring Earth initiative which showcases photos of our planet taken by David from space. During the event, students discussed some of the things they have learned about our planet using David’s pictures and about our impact on the environment and the importance of protecting our planet.
+Mobile Servicing System (MSS) Operations: Robotics Ground Controllers powered up the Mobile Servicing System (MSS) video system for Materials ISS Experiment (MISSE) transfer operations day 4. They maneuvered the MSS from the Park position to MISSE Sample Carriers (MSC) transfer position. Then, they commanded the Special Purpose Dexterous Manipulator (SPDM) Arm2 to extract the MSC17 from MISSE Transfer Tray (MTT) slot T5 and to insert it in the Flight Facility (FF) W3 slot. The operations are progressing with the MSS maneuver in preparation for the MT translation from Worksite (WS)2 to WS7 and the stowing of MTT onto Japanese Experiment Module (JEM) Airlock. The MSS will be parked and powered down.
+Completed Task List Activities:
+
+PCS Relocate [Completed GMT 115]
+PCS HD Image [Completed GMT 115]
+Dragon pre-pack
+HUNCH downlink message
+NORS O2 install
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Emergency Response OBT
+JEMAL Support – Install ORU on JOTI
+Battery 4A3 Capacity Check
+
+Look Ahead:
+
+Saturday, 04/27 (GMT 117):
+Payloads:
+
+
+No Payload activities
+
+Systems:
+
+Crew off duty – housekeeping 
+
+Sunday, 04/28 (GMT 118):
+Payloads:
+
+Veggie PONDS Germination Cap removal (NASA)
+
+Systems:
+
+Crew off duty
+
+Monday, 04/29 (GMT 119):
+Payloads:
+
+RADIN Retrieve and Handover (CSA)
+Food Acceptability (NASA)
+Fiber Optics Production H/W setup (NASA)
+ISS Experience Log Recording and relocate and stow (NASA)
+Behavioral Core Measures tests (NASA)
+Z-Book on ER8 update (NASA)
+HRF1 drawer reconfig and HRF2 drawer install (NASA)
+Astrobee Battery swap (NASA)
+HRF Post Centrifuge Install setup (NASA)
+HRF Centrifuge counterweight tube removal (NASA)
+
+Systems:
+
+N3 filter R&R
+SpX-17 arrival prep 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Fluid Shifts OCT2 Baseline Setup
+Fluid Shifts Ultrasound 2 HRF Rack 1 Power On
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+Fluid Shifts CDL Holter Arterial BP Hardware Don
+Inventory Management System (IMS) conference
+Fluid Shifts Ultrasound Baseline Scan Subject
+Perform the experiment IN ROTATION MODE per ПРОФИЛАКТИКА-2 and МО-3
+Fluid Shifts Ultrasound Baseline Scan Operator
+PROFILAKTIKA-2. MO-3 Test Operator
+Rodent Research Habitat 1 & 2 Restock
+Fluid Shifts CCFP Baseline Test
+СТТС Reconfiguration in MRM2
+On MCC GO Replacing ИДЭ-3 Smoke Detectors in MRM2 with ИДЭ-4
+Fluid Shifts OCT2 Baseline Exam Operator
+Fluid Shifts OCT2 Baseline Exam Subject
+PROFILAKTIKA-2. Closeout Ops
+Fluid Shifts DPOAE Baseline Test
+Fluid Shifts OCT2 Baseline Stow
+Environmental Health System (EHS) – Compound Specific Analyzer-Combustion (CSA-CP) Checkout
+PROFILAKTIKA-2. Hygiene Procedures
+Fluid Shifts Tonometry Baseline Setup
+Fluid Shifts Tonometry Baseline Exam Operator
+Fluid Shifts Tonometry Baseline Exam Subject
+Fluid Shifts CDL Holter Arterial BP Hardware Doff
+Fluid Shifts Tonometry Baseline Stow
+Fluid Shifts CCFP Baseline Stow
+ISS Emergency Response Training
+Training for Emergency Response On-board ISS
+OBT ISS Emergency Drill Debrief Restoring Nominal Comm Configuration
+OBT ISS Emergency Drill Debrief
+Photo/TV Extravehicular Activity (EVA) Infrared (IR) Camera Swap
+Rodent Research Habitat 3 & 4 Restock
+Nikon still camera sync with station time
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+ISS Experience Message Review
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+PILLE Dosimeter Reading
+Removal of the instrument and ПТАБ-1М (А304) patch-cable
+Installing Storage Battery Current Converter ПТАБ-2 in А304 location, securing temperature sensor and mating connectors of 800А unit
+Health Maintenance System (HMS) ISS Medical Accessories Kit (IMAK) Unpack from NG-11
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop
+Influence of Vibration on Diffusion of Liquids (IVIDIL) Vibration Mechanism Hardware Locate
+Astrobee Docking Station Power Down
+Photo/TV CUCU SD Video Setup
+INTERACTION-2. Experiment Ops
+COTS UHF Communication Unit (CUCU) Activation
+Rodent Research Access Unit Clean
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Checkout
+On-board Training (OBT) ISS Emergency Drill Conference
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Stow
+Photo/TV CUCU SD Video Deactivation
+
+ 

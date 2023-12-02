@@ -1,0 +1,116 @@
+
+H-II Transfer Vehicle (HTV)-7 Launch: HTV-7 Launch is currently scheduled on Saturday, 22 September at 12:52 CT. If HTV-7 launches on Saturday, a 5-day rendezvous profile will result in capture and berthing on the morning of 27 September.  The current weather forecast looks promising for tomorrow’s launch.
+Plant Habitat:  Today the crew took photos of the plants in science carrier #2.  Plant Habitat is a fully automated facility that will be used to conduct plant bioscience research on the ISS.  The space environment is stressful for all living organisms. Understanding how plants respond will help crews on future missions successfully grow plants for food and oxygen generation. The Plant Habitat-1 investigation compares differences in genetics, metabolism, photosynthesis, and gravity sensing between plants grown in space and on Earth. This investigation is expected to provide key insights on major changes occurring in plants exposed to microgravity.
+Human Research (Cell-Free Epigenome (CFE) and Medical Proteomics): The crew collected blood samples for JAXA’s CFE and Medical Proteomics investigations on Flight Day 120.
+
+For the CFE study, blood samples are collected from astronauts and cellular genes are analyzed.  The results provide insight into how human bodies function during space flight.
+Marrow looks at the effect of microgravity on bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow.
+The Medical Proteomics investigation evaluates changes of proteins in blood serum, bone and skeletal muscles after space flight, and also supports identification of osteopenia-related proteins. By combining research results for space mice, astronauts and ground patients, proteins related to osteopenia can be identified using the latest proteome analysis technique.  It is anticipated that the use of the marker proteins related to osteopenia will be of benefit in the future for assessing the health of astronauts as well as osteoporosis patients on ground. 
+
+Human Research Program (Biochemical Profile and Repository):  A crewmember collected Flight Day R-14 blood and urine samples for the Biochemical Profile and Repository investigations today.
+
+The Biochemical Profile investigation tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results; which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. The repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+
+SpaceTex-2 and Metabolic Space:  A crewmember donned Thermolab equipment, a heart rate monitor, and a SpaceTex shirt for ESA’s SpaceTex-2 investigation. He will also don Metabolic Space equipment and complete an exercise session using the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).  SpaceTex fabrics provide a higher rate of sweat evaporation and a corresponding higher evaporative heat loss compared to conventional cotton fabrics used by astronauts on the ISS. Metabolic Space provides a technology demonstration for a measurement system worn by astronauts that supports cardio-pulmonary diagnosis during physical activities of astronauts living onboard the ISS, while maintaining unrestricted mobility.
+LAB 16-Port Ethernet Switch Deploy: The crew installed a new 16-Port Ethernet Switch at the LAB1SD4 location today to allow more Joint Station LAN (JSL) connections in the LAB.  Since all available ports on the old JSL LAB Router were in use, this upgraded router was required to support all of the upcoming users who need access to the JSL.
+Space Station Remote Manipulator System (SSRMS) Operations: The European Space Agency (ESA) has requested an optical impact survey of the outer surface of the Columbus module with emphasis on the forward-and zenith-facing areas. Later today ground robotic specialist will perform the second, and final, part of the survey. This status check will verify the status of the Columbus meteoroid and debris protection system (MDPS) and obtain information on the space debris and meteoroid environment of the ISS.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SSRMS Operations: Columbus Survey
+N3 Smoke Detector Activation
+
+Two-Day Look Ahead:
+Saturday, 09/21: Weekly Housekeeping, Crew Off-Duty
+Payloads
+
+Glacier Ice Brick/Cold Block Insert
+BCAT Camera Activities
+
+Sunday, 09/22: Weekly Housekeeping, Crew Off-Duty
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic Urine Collection
+Japan Aerospace eXploration Agency Generic Frozen Blood Collection
+HRF Generic Sample MELFI Insertion Operations
+MORZE. Psycho-physiological Evaluation: Tsentrovka, SENSOR Tests
+Japan Aerospace eXploration Agency Frozen Blood Collection Centrifuge Configure
+Japan Aerospace eXploration Agency Frozen Blood Collection Centrifuge Spin Conclude
+Japan Aerospace eXploration Agency Sample MELFI Insertion
+Metabolic Space equipment connection and calibration
+Thermolab instrumentation for Spacetex-2
+Countermeasures System Treadmill 2 Pre-Maintenance Acoustics Measurement
+Conference of Search and Rescue (ГПСК) specialists with returning crew
+Metabolic Space instrumentation
+MERLIN EXPRESS Rack Installation
+PAO hardware setup. Audi/Video check with Glavny
+Node 3 (N3) Smoke Detector (SD) Closeout
+CEVIS exercise session for MetabolicSpace and Spacetex-2 experiments
+Crew Prep for PAO
+EXPRESS Rack 2 Locker Install
+TV conference with the participants of the Space Lesson
+Story Time Book Read
+MetabolicSpace de-instrumentation
+Thermolab de-instrumentation for Spacetex-2
+T61p installation for Metabolic Space
+LBNP Training (PRELIMINARY)
+LBNP (ОДНТ) training (preliminary)
+LIGHT INSTALLATION AT JPM1OF5
+Metabolic Space data transfer and equipment stowage
+T61p stowage
+ISS HAM Service Module Pass
+HRF Generic Urine Collection Stow
+Thermolab data downlink for Spacetex-2
+Countermeasures System Treadmilll 2 Remove Closeout Panels
+AC Vacuum Cleaner Debris Bag Remove and Replace
+Crew Departure Prep
+Countermeasures System Treadmill 2 Axle Greasing
+Crew Quarter 4 Crew Support LAN (CSL) Stow [Deferred]
+MORZE. Psycho-physiological Evaluation: Cattell’s Test
+Countermeasures System Treadmill 2 Install Closeout Panels
+EXPRESS Rack 2 Locker Install
+СОЖ Maintenance
+LSG ZBook Hardware Gather
+IMS Tagup
+Treadmill 2 (T2) Unmanned Activation and Checkout (ACO) Video Setup
+Countermeasures System Treadmill 2 Activation and Checkout
+Treadmill 2 (T2) Unmanned Activation and Checkout (ACO) Video Stow
+MORZE. Psycho-physiological Evaluation: Cattell’s Test
+PROBOY. Copy data to memory card (start)
+Pre-pack cargo items for return or disposal on Soyuz 738
+EVA SAFER Virtual Reality Trainer Retrieval
+MORZE. Closeout Ops
+HRF RACK RELABEL
+LAB 16-Port Ethernet Switch Deploy
+Plant Habitat Science Carrier Installation #2 Photography
+Inspection of SM structural elements in [СКВ2] area
+LSG Laptop Computer Initial Software Load for ZBook
+Formaldehyde Monitoring Kit (FMK) Stow Delta
+Wastewater Storage Tank Assembly (WSTA) Fill
+Waste and Hygiene Compartment (WHC) Full Fill
+FIR/LMM Hardware Audit [Deferred]
+EXPRESS Rack 2 Locker Install
+Electrical Protective Caps and Plugs Cargo Transfer Bag (CTB) Audit
+MELFI 3 Dewar Maintenance [Deferred]
+Crew Departure Preparations for Return to Earth
+FSL Spare Items Relocation
+Earth Guardian Seeds Photo Shooting
+Recycle Tank Fill
+Japan Aerospace eXploration Agency Frozen Blood Collection Conclude And Stow
+IMS Update
+Soyuz 738 Cargo Ops
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+MERLIN3 Ice Brick Insert
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+CCE Preparation
+Crew Choice Event (CCE) High Definition (HD) LAB
+
+ 

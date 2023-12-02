@@ -1,0 +1,141 @@
+
+Behavioral Core Measures (BCM): Over the weekend, the crew completed BCM cognition test sessions. Behavioral Core Measures for Detecting Behavioral Health Risks during Exploration Missions examines an integrated, standardized suite of measurements for its ability to rapidly and reliably assess the risk of adverse cognitive or behavioral conditions and psychiatric disorders during long-duration spaceflight.
+Meteor: Over the weekend, the crew deinstalled the Meteor camera hardware from the Window Observational Research Facility (WORF) in preparation for return. The Meteor payload is a visible spectroscopy instrument used to observe meteors in Earth orbit. Meteor uses image analysis to provide information on the physical and chemical properties of the meteoroid dust, such as size, density, and chemical composition. The study of the meteoroid dust on orbit provides information about the parent comets and asteroids.
+Moon Imagery (Optical Nav): Over the weekend, the crew performed two Optical navigation (Moon Imagery) sessions. If a spacecraft loses communication with the ground or with NASA’s Deep Space Network, its crew must navigate just as ancient mariners did, using the moon and stars. The Moon Imagery investigation collects pictures of the moon from the ISS, which are used to calibrate navigation software to guide the Orion Multi-Purpose Crew Vehicle in case its transponder-based navigation capability is lost. Crewmembers photograph the moon’s phases during one 29-day cycle, providing images of varying brightness to calibrate Orion’s camera software.
+At Home in Space (AHIS): The crew completed the At home in Space questionnaire. This Canadian Space Agency investigation assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home in Space also uses questionnaires to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth.
+Materials Science Laboratory (MSL): The crew performed the Vacuum Sensor Combination R&R and performed a water loop check after the Core Facility extraction. The MSL is used for basic materials research in the microgravity environment of the ISS. The MSL can accommodate and support diverse Experiment Modules. In this way many material types, such as metals, alloys, polymers, semiconductors, ceramics, crystals, and glasses, can be studied to discover new applications for existing materials and new or improved materials.
+Glovebox Freezer: The crew installed the Glovebox Freezer hardware setup in the Life Science Glovebox facility. The Glovebox Freezer integrates into the Life Science Glovebox (LSG) and Microgravity Science Glovebox (MSG) to provide rapid freeze capability in support of biological sciences.
+The ISS Experience: Crewmembers recorded an ISS crew conference. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved.  The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses. 
+Mobile Servicing System (MSS) Operations: After the successful completion of US Extravehicular Activity (EVA)#53 on Friday, Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) with the Special Purpose Dexterous Manipulator (SPDM) to complete the 4A channel battery R&R.  The remaining two NiH2 batteries, which were being held by SPDM Arms, were installed on the H-II Transfer Vehicle 7 (HTV7) Exposed Pallet (EP) which is stowed on the Mobile Base System (MBS) Payload/Orbit Replaceable Unit (ORU) Accommodation (POA). To complete the day’s robotic activities, both SPDM and SSRMS were maneuvered to the park position.
+Today, the SPDM grasped the spare Battery Charge Discharge Unit (BCDU) on External Logistic Carrier (ELC) 1 with SPDM Arm2. The spare BCDU was unfastened and removed from the Flight Releasable Attachment Mechanism (FRAM) and the MSS was moved over the P4 Integrated Electronic Assembly (IEA). SPDM Arm1 has grasped the failed BCDU at the P4 4A3 location and controllers will continue the R&R later tonight.
+Post Extravehicular Activity (EVA) Activities: The US crew completed several cleanup activities on Saturday including post-EVA health assessments and an EVA debrief session with ground specialists.
+US EVA #54 Preparations: In preparation for the Truss Jumper EVA currently scheduled on 8 April, on Saturday the crew completed an EVA procedures conference and prepared the Simplified Aid for EVA Rescue (SAFER) Virtual Reality Trainer (VRT) for use. The VRT allows crewmembers to practice using SAFER in various rescue scenarios. Today the crew configured various EVA tools, completed METOX canister operations, and resized an Extravehicular Mobility Unit (EMU). Each EMU contains exchangeable components allowing each astronaut to adjust the EMU fit to their individual body sizing and fit preferences. 
+Battery Charge Discharge Unit (BCDU) Remove and Replace (R&R): During the checkout of the three new batteries installed during US EVA #52, ground controllers saw anomalous behavior during activation of Li-Ion Battery 4A3 and its associated BCDU. After reviewing all available telemetry, and testing in the ISS Power Lab (IPL), specialists have declared this BDCU failed; in an attempt to recover the 4A3 battery, robotics specialists are currently using the SSRMS and SPDM to replace this BCDU with an on-orbit spare. Checkout of the newly installed BCDU is scheduled to occur tonight.
+Public Affairs Office (PAO) Event: On Monday, Nick Hague, Christina Koch, and Anne McClain conducted a series of PAO events with the Today Show, CBS News, and Good Morning America.  The crew answered multiple questions, discussing the research being conducted on the ISS, the recent EVAs, and the importance of continued space exploration.
+Completed Task List Activities:
+
+EVA ECWS OBT [Completed GMT 90]
+EVA SAFER OBT [Completed GMT 90]
+EVA Tether Inspection [Completed GMT 90]
+WHC-KTO Replace [Completed GMT 90]
+WHC Urine Receptacle Operations [Completed GMT 91]
+Veggie03 Plant Check [Completed GMT 91]
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+BCDU R&R Robotics Operations
+MCA Data Gathering
+
+Wednesday, 4/3:
+Payloads
+
+
+HRF Blood and Urine Collection (NASA)
+MSL Gas Valve Open (NASA)
+HRF Urine Collection (NASA)
+ISS Experience Message Review (NASA)
+MELFI 2 Dewar 3 cleaning (NASA)
+GloveBox Freezer Teardown (NASA)
+
+Systems
+
+EVA prep
+Medical contingency OBT
+GPS receiver R&R
+
+Thursday, 4/4:
+Payloads
+
+
+AWP chk (NASA)
+BCM questionnaires (NASA)
+Standard Measures presleep Questionnaire (NASA)
+ISS HAM powerdowns (NASA)
+RR lab video setup (NASA)
+ISS Experience SD c/o (NASA)
+JAXA PCG sample insert (JAXA)
+LTE Visual test (NASA)
+
+Systems
+
+EVA prep
+T2 and AV-2 rack config for N3 rack rotation
+RAIU-3 removal 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+HRF Generic Urine Collection Female
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+HRF Generic HRF Centrifuge Frozen Blood Collection 25 Minutes Subject
+HRF Generic Urine Collection Male
+HRF Generic HRF Centrifuge Frozen Blood Collection Operator
+Checkout of Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops and Report
+HRF Generic Sample MELFI Insertion Operations
+Glovebox Freezer Review
+HRF Generic HRF Centrifuge Frozen Blood Collection Configuration
+Extravehicular Activity (EVA) Tool Configuring
+VOZDUKH Atmosphere Revitalization Subsystem [СОА] Mode Change
+HRF Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+HRF Generic Sample MELFI Insertion
+Voice check in S/G1 from Baikonur (S-band)
+Acoustic Monitor Setup for Crew Worn Measurements
+Vacuum Cleaning of Dust collectors ПC1, ПС1 filter cartridges in FGB
+Window Glass Photography on EV Hatch 1, Hatch 2 in MRM2 and EV Hatch 1 in DC1
+HRF Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+PILOT-T. Preparation for the experiment
+PILOT-T. Experiment Ops
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Extra Vehicular Activity (EVA) External Mobility Unit (EMU) Resize
+PILOT-T. Experiment Ops
+Progress 440 [AO] Transfers and IMS Ops
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+At Home In Space Questionnaire Verision 1 Subject
+Environmental Health System (EHS) Coliform Water Processing
+Extravehicular Activity (EVA) Suit Intravehicular (IV) Review
+PILOT-T. Closeout Ops. Tagup with specialists
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+HRF Generic Urine Collection Male
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Countermeasures System (CMS) VELO Exercise session
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Food Acceptability Questionnaire
+PRODUTSENT. Installation and Activation of ТБУ-В No.05 at + 4 deg С
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Metal Oxide (METOX) Regeneration Termination
+INTER-MAI-75. Moding HAM Radio Hardware to SSTV
+Material Science Laboratory Vacuum Sensor Remove and Replace
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+ISS Experience Crew Conference
+HRF Generic Urine Collection Male
+ISS Crew Orientation
+LSG Work Volume Deploy
+Remove Battery No.3 from charge and install Makita drill tool battery No.4 to charge
+Water Transfer to ЕДВ from Progress 440 [AO] H2O Tank 2 Using Compressor and H2O Tank 2 Bladder Compression
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ
+Glovebox Freezer – Life Science Glovebox – Setup
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Dragon Prepack
+Remove Battery No.4 from charge and install Makita drill tool battery No.5 to charge
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Private Medical Conference (PMC)
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB)/Metal Oxide (METOX) Installation
+Glovebox Freezer Leak Check
+LSG Work Volume Stow
+Remove Makita tool battery No.5 from charge. Deconfig charge setup, Stow batteries and charger
+ISS Crew Orientation
+Material Science Laboratory Waterloop Check Part 1
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Acoustic Monitor Battery Swap
+Material Science Laboratory Waterloop Check Part 2
+INTER-MAI-75. Equipment deactivation and cleanup
+HRF Generic Urine Collection Male
+
+ 

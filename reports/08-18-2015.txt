@@ -1,0 +1,116 @@
+
+Human Research Program (HRP) Operations: Kelly and Kornienko performed day two of their Flight Day (FD) 150 Ocular Health session.  Kelly completed his Video Walk Through #4 and Observation #11 for Habitability and his second of three weekly Journal activities. Lindgren completed his FD 27 Cognition and Yui completed FD 30 Sprint Ultrasound.
+
+Ocular Health: OCT is used to measure retinal thickness, volume, and retinal nerve fiber layer, and the fundoscope is used to obtain images of the retinal surface.
+Journals obtains information on behavioral and human issues that are relevant to the design of equipment and procedures and sustained human performance during extended-duration missions.
+Individualized Real-Time Neurocognitive Assessment Toolkit for Space Flight Fatigue (Cognition) is a battery of tests that measures how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance.
+Habitability assesses the relationship between crew members and their environment in order to better prepare for future long-duration spaceflights to destinations, such as Near Earth Asteroids (NEA) and Mars. The ultimate goal is to understand how much habitable volume is required for vehicle internal design and layout, and if mission duration impacts the volume needed.
+Yui configured video, Ultrasound 2 machine, and donned the calf and thigh reference guides.  He then performed thigh and calf scans with guidance from the Sprint ground team.  Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume. The Sprint investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions.
+
+Capillary Effects of Drinking in the Microgravity Environment (Capillary Beverage): Microgravity affects the way fluids behave, and as such, crew members must drink from special sealed bags instead of using straws or normal cups. Capillary Beverage studies the process of drinking from specially designed Space Cups that use fluid dynamics to mimic the effect of gravity. In this instance of Capillary Beverage, Lindgren used Lemon-Lime drink to demonstrate how a complex fluid reacts to the cup’s special designs in an attempt to mimic the gravitational flow of a liquid through capillary forces.
+NanoRack Cubesat Deployer (NRCSD) #5 Imagery: Kelly retracted the JEM Airlock (JEMAL) Slide Table (ST) into the cabin and took pictures of the NRCSD doors and latch configurations.  The images were downlinked for specialists to evaluate prior to NRCSD #6 activities and the ST was extended back into the JEMAL.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Vertigo: Kelly performed a procedure review and conference with the ground team prior to the SPHERES Vertigo run scheduled for Wednesday. This investigation uses SPHERES free-flying satellites and is designed to demonstrate and test enhanced technologies and techniques related to visual inspection and navigation. This effort incorporates hardware and software that enables multiple SPHERES to construct 3D models of a target object. Additionally, this investigation explores how well the SPHERES free-flyers then perform relative navigation solely by reference to these 3D models.
+On-Board Training (OBT) Robotics On-Board Trainer (ROBoT): In preparation for capture and berthing of HTV5 currently planned for next Monday, August 24, the crew completed a session of this training where they practiced a 30 meter approach and two Capture Point (CP) hold runs.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Hematocrit. Test
+Hematocrit Hardware Stowage
+Verification of anti-virus scan results on Auxiliary Computer System (ВКС) laptops
+SPHERES – Battery Replacement
+USND2 – activation of Ultrasound Hardware and Camcorder
+Swap NINJA password document with new one
+BLR48 – starting measurement
+Camcorder Setup to View LAB RWS Monitor 3
+SPRINT – Hardware prep and installation
+Transfer water from Progress 428 (DC1) Rodnik Water Tank БВ2 to SM Rodnik Water Tank 2
+SPRINT – Operator
+HMS – Vision Test
+ECLSS Recycle Tank Remove and Replace
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves [АВК СОА]
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start)
+Verification of ИП-1 Flow Sensor Position
+HMS – Vision Questionnaire
+Transfer water from Progress 428 (DC1) Rodnik Tank БВ2 to SM Rodnik Tank БВ2 – compressor restart
+Optical Coherence Tomography (OCT) Setup
+VIBROLAB. Monitoring hardware activation
+EML – Opening Gas Valves
+SSIPC Management / ISS Crew Tagup
+Transfer water from Progress 428 (DC1) Rodnik Tank БВ2 to SM Rodnik Tank БВ2 – compressor restart
+Health Management System (HMS) – Optical Coherence Tomography (ОСТ)
+USND2 – Hardware Deactivation and Closeout Ops
+Filling (separation) of EDV (KOV) for Elektron or EDV-SV
+SPHERES – File Transfers from USB drive
+ТКГ 428 (DC1) Rodnik Water Tank Shell Compression
+СОЖ maintenance
+SPHERES – Battery Replacement
+HAM Radio session from Columbus
+ТК 716 IRIDIUM Phone Charging – Battery Status Check
+ТК 716 IRIDIUM Phone Charging – Terminate Charge
+JEM Airlock Slide Table Retraction
+Laptop RS3 Commanding.
+Robotic Workstation (RWS) Teardown
+ТК 717 IRIDIUM Phone Charging – Initiate Charge
+NRCSD-5 Deployer 2, Photography
+OCT Exam
+Charging ТК 717 IRIDIUM Phone – Battery Charge Status
+Health Management System (HMS) – Optical Coherence Tomography (ОСТ) – Operator
+RS3 Laptop-КЦП2-ЦВМ-ТВМ Path Command & Data Test. 
+24-hour ECG Monitoring (termination)
+Charging ТК 717 IRIDIUM Phone – terminate charge, tear down the setup, closeout ops
+JEM Airlock Slide Table Retraction
+24-hour BP Monitoring (end)
+CONTUR-2. Hardware Installation on panel 418
+Laptop RS3 Commanding.
+SPHERES – Battery Replacement
+Swap condensation collection from the Lab Condensate Tank to the Water Processing Assembly (WPA) Waste Water Tank (WW tank) while the Sabatier Jumper is installed
+WRM. Condensate Pumping Initiation
+CONTUR-2. Experiment Session Ops.
+24-hour ECG Monitoring (start)
+CAPBEV – Preparation Ops
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop
+Rodent Research (RR) – Samples Retrieval from MELFI
+OCT Hardware Stowage
+SPHERES – Review
+24-hour BP Monitoring (start)
+CIR – Inspection and Removal
+WRM. Condensate Pumping Terminate
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup.
+CAPBEV – Configuration Setup
+DAN. Experiment Ops.
+Swap condensation collection from the Lab Condensate Tank to the Water Processing Assembly (WPA) Waste Water Tank (WW tank) while the Sabatier Jumper is installed
+SPHERES – Payload Conference
+CAPBEV – Photography
+CAPBEV – hardware testing
+VIBROLAB. Copy and Downlink Data
+IMS Delta File Prep
+Fundoscope Ops – Dilation Drops 
+CAPBEV – Stowage
+Progress 428 (DC1) Rodnik Water Tank2 Shell Compression – Closeout Ops
+HABIT – Video Recording
+HMS – Fundoscope Prep
+HABIT – Experiment Ops
+Fundoscope – OCT Exam
+JRNL – Journal Entry
+CONTUR-2. Experiment Session Ops.
+SPHERES – Stowage of batteries
+OBT – HTV Robotics Session 
+Eye Prep for Fundoscopic Exam
+CONTUR-2. Hardware Disassembly from panel 418
+Fundoscope – Vision Test
+Fundoscope Removal and Stowage
+COGN – Experiment Ops and Filling Questionnaire
+
+Completed Task List Items
+
+WHC-KTO/Seat-Replace
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+DONUT Service Pack update
+SPRINT Ultrasound ops
+Capillary Beverage ops 
+

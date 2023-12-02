@@ -1,0 +1,16 @@
+
+Japanese Small Satellite Orbital Deployer (J-SSOD) #13: The crew performed photographic documentation of the J-SSOD#13 deployment. The JEM Small Satellite Orbital Deployer (J-SSOD) provides a novel, safe, and small satellite launching capability to the International Space Station (ISS). The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites. Once J-SSOD, including satellite install cases with small satellites, is installed on the Multi-Purpose Experiment Platform (MPEP) by crew members, it is passed through the JEM airlock for retrieval, positioning, and deployment by the JEMRMS.
+SlingShot: The crew performed a partial setup of the Slingshot payload in order to allow ground commanding to test the WIDAR communication link through Wallops ground site using the Cygnus spacecraft. Unfortunately, the data cables did not connect properly and the task was aborted. Ground teams are discussing a forward plan to get a data connection in order to proceed with the test at a later date. SEOPS’ SlingShot is a small satellite deployment system that fits inside the Cygnus spacecraft’s Passive Common Berthing Mechanism (PCBM). SlingShot can accommodate up to 18 satellites that are deployed post Cygnus unberth.
+Advanced Combustion via Microgravity Experiments (ACME): The crew replaced an ACME controller In preparation for the continuation of s-flame runs. The ACME experiment series being performed in the CIR includes five independent studies of gaseous flames. The primary goals of ACME are to improve fuel efficiency and reduce pollutant production in routine fuel combustion activities on Earth.  Its secondary goal is to improve spacecraft fire prevention through innovative research focused on materials flammability.
+Systems
+Acoustic Monitoring:  Crew-worn acoustic monitors were set up and distributed to the crew onboard the ISS. These will be worn for 24 hours before they will be deployed to static locations within ISS.  The acoustic monitoring sessions gather data to characterize any changes to the acoustic environment throughout the station.
+Completed Task List Activities:
+
+Network Attached Storage (NAS) Hard Drive Swap
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Ground Cmding for SlingShot Test
+

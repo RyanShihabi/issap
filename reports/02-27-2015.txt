@@ -1,0 +1,79 @@
+
+NanoRack Cubesat Deployer (NRCSD) Operations:  The ground started a series of deployments of CubeSats from the NRCSD via the Japanese Experiment Module (JEM) Remote Manipulator System (JEMRMS).  The NRCSD is installed on top of the Multi-Purpose Experiment Platform (MPEP) and was taken outside through the JEM Airlock (JEMAL) via the slide table. The JEMRMS grappled the MPEP, positioned the NRCSD, and deployed two Dove Sats. Wilmore took still photos and video for downlink.  Ground teams performed most of the operations. Communication was established with the two Dove Sats.  Over the next week, twelve Dove sats, one TechEdSat-4, one GEARRSat, one LambdaSat, one MicroMas will be jettisoned.
+TripleLux-B:  Cristoforetti reviewed overview and back-ground information of the TripleLux-B experiment and then unstowed hardware and gathered items and tools needed for the Triplelux-B activities. Later, the crew removed the Biolab Automatic Ambient Stowage (AAS) standard insert from the AAS compartment and inserted the Triplelux AAS Insert. Finally, the crew inserted the Biolab video tape into the video tape recorder (VTR) and then stowed items and tools.  The objective of Triplelux-B is to further understand the cellular mechanisms underlying the increase in radiation responses, and the impairment of the immune system functions, under spaceflight conditions. Triplelux-B specifically studies phagocytosis in invertebrate immune cells, using Hemocyte primary cells (non-adherent suspension) derived from the blue mussel (Mytilus edulis), for investigating basic immune functions. Those functions include the induction of gene activation, phagocytosis, and DNA repair on the radiation affected cells.
+Microbe IV sample collection:  Cristoforetti prepared Microbe IV microbial detection sheets, set up cameras, took photos of sampling locations and then sampled for microbes in the JEM Pressurized Module (JPM) and Japanese Experiment Logistics Module – Pressurized Section (JLP).  Monitoring microbes that can cause illness is crucial for maintaining crewmember health. Microbe-IV uses several passive devices to capture and sample microbes, such as bacteria, on the International Space Station (ISS). The sampling devices will be frozen and returned to Earth, where researchers and students will count and classify the microbes. Sampling the microbial environment on the ISS will help scientists monitor the station’s air purity. 
+Plant Rotation:  Virts removed Plant Rotation Run #2 samples from Cell Biology Experiment Facility (CBEF) Incubator Unit (IU) 1G Centrifuge, took close out photos and configured the sample on the microscope for two days of observation by ground teams.  This is the second of two planned Plant Rotation experiments.   Many species of climbing plants grow upward in a spiraling shape, a process known as circumnutation. Plant organs also grow in a spiraling, helical shape. This spiraling process can take many forms, including very tight loops and broad curves. Plant Rotation verifies the hypothesis that this type of plant growth requires gravity. Scientists on the ground will study images of rice and morning glory plants growing in microgravity and simulated gravity conditions on the International Space Station.
+Binary Colloidal Alloy Test (BCAT)-Low Gravity Phase Kinetics Platform (KP): Wilmore changed the camera battery, set the intervalometer, and checked camera alignment and focus.   BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties. The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses.
+EVA 31 Preparations:  The crew swapped out batteries and installed Metal Oxide (Metox) canisters for carbon dioxide scrubbing in EMUs 3003 and 3005.  Wilmore and Virts will continue configuring tools in preparation for EVA 31 planned for this Sunday, March 1. They will also review the EVA procedures. 
+Mobile Transporter Relay Assembly (MTRA) Commissioning:  The Robotics Ground Controllers performed the commissioning MTRA.  This consisted of powering off the Mobile Servicing System (MSS), checking the MTRA relays, demating the Mobile Transporter (MT) Umbilical Mechanism Assemblies (UMA) and powering up the MSS on both the Prime and the Redundant Strings using the MTRA.  The MTRA commissioning was completed nominally.
+Today’s Planned Activities
+All activities are completed unless otherwise noted.
+
+
+IMMUNO. Saliva Sample (Session 1) / r/g 8103
+Body Mass Measurement
+МО-8. Closeout Ops
+ISS Crew and ГОГУ (RSA Flight Control Team Management) Weekly Conference (S-band)
+JEMRMS RLT Laptop Activation
+Crew Departure Prep
+RELAKSATSIYA. Health Check of UV-camera (УФ) / r/g 8121
+Prepare Microbe-III Microbial Detection Sheet
+WRS – Recycle Tank Fill from EDV
+Slide Table Extension to JEF Side Part 1
+MICB – Sample Photos
+D2XS Battery Charge
+Columbus Portable Workstation CLSW Configuration Tool Opening
+IMS tagup (S-band) / r/g 8124
+Terminate EMU Metox Regeneration
+Crew Departure Prep
+PROBOY. RSЕ1 Laptop Ops. / r/g 8125 + Proboj_Init4.rar
+PROBOY. Penetration Simulator Ops. / r/g 8126
+JEMRMS Small Fine Arm (SFA) Ungrapple
+MICB – Sample MELFI Insertion
+TPLXB – Review Big Picture Words
+EMU Metal Oxide (METOX) Canister Installation
+VIRTUAL. Experiment Ops / r/g 7782
+BCAT – Binary Colloid Alloy Test Intervalometer Change
+EVA Tool Config
+TPLXB – Hardware Unstow & Setup
+JEM Airlock Slide Table Retraction from JEF side part 1
+TPLXB – Video Tape Installation
+D2XS Battery Charge
+TPLXB – Equipment Stowage
+PRT-1G – Disconnecting PEU (2) from CBEF 1G
+PRT – Sample Retrieval
+Plant Rotation (PRT) – Closeout Ops
+CASKAD. Manual Mixing in Bioreactor / r/g 8041
+PRT – Data Export
+CUBESAT – Photos to Inspect Secondary Latch of NanoRacks Cubesat
+ГЛ2106 Gas Analyzer Replacement / r/g 8120
+PAO Event
+CUBESAT – Photos to Inspect Secondary Latch of NanoRacks Cubesat
+Replacement of В1, В2 and В3 fans in DC1 with low-noise ones. / r/g 8122
+CUBESAT – Photography in Cupola
+Mating Telemetry Connectors to БИТС2-12 / r/g 8120
+ГЛ2106 Gas Analyzer Replacement – Closeout Ops / r/g 8120
+D2X EVA Cameras Configuration for EVA
+IMMUNO. Saliva Sample (Session 2) / r/g 8103
+EVA Tool Config
+IMS and Stowage Conference
+PROBOY. Removal of СОКП P/L in ПрК. / r/g 8123
+EVA2 Procedure Review
+Transfer of АОК ГАНК Gas Analyzer to ПрК for Nominal Ops.  Adjustment of CO channel factor and taking readings followed by report to MCC / r/g 8118
+CASKAD. Manual Mixing in Bioreactor / r/g 8041
+WRS – Recycle Tank Fill from EDV
+Flight Director / ISS Crew Tagup
+Crew conference with Astronaut Office
+
+Completed Task List Items
+
+COL ETC A2 Photo audit
+Thermolab Kit Audit
+
+Ground Activities
+All activities are completed unless otherwise noted.
+
+
+Routine ground commanding.
+Cubesat deploy
+

@@ -1,0 +1,90 @@
+
+Mobile Servicing System (MSS) SpX-14 Operations: Overnight, the Robotics ground controllers released the Space Station Remote Manipulator System (SSRMS) from the SpaceX-14 Dragon Flight Releasable Grapple Fixture (FRGF).  They performed a survey of the Dragon trunk and then unstowed the Special Purpose Dexterous Manipulator (SPDM) from Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2).  The Robotics ground controllers configured the SSRMS and the SPDM for the start of the extraction of the Pump Flow Control Subassembly (PFCS) and the Material on ISS Experiment – Flight Facility (MISSE-FF) payloads from the Dragon Trunk.  Later today, ground robotic controllers will extract MISSE-FF and the PFCS from the Dragon Trunk. PFCS will be temporarily stowed on the Enhanced ORU Temporary Platform (EOTP) Side 1 while MISSE will temporarily be stowed on EOTP Side 2. 
+Plant Gravity Perception (PGP):  Today, the crew replaced Experiment Containers in the European Modular Cultivation System (EMCS).  Ground Specialists have started powering up the Plant Gravity Perception experiment.  Power up will continue through tomorrow at which time they will begin hydration. For this investigation, normal and mutated forms of thale cress, a model research plant, are germinated to support the study of the plants’ gravity and light perception. Results provide insight into the plants’ adaptation to a microgravity environment and supports efforts to grow plants for food on future space missions.
+Veg-03:  The crew watered the plants and harvested leaves from each plant to complete the Veg-03E investigation.  The leaves were preserved and inserted into cold stowage for later return to the Earth.  Plants for the Veg-03F investigation will continue to grow. Veg-03 supports the proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long duration space missions will require a fresh food supply grown in space to supplement crew diets. 
+Team Task Switching:  A crewmember completed a Team Task Switching survey today.  Crew members are often required to switch their attention from one task to another.  If they struggle with those shifts, performance on the original task and the subsequent task can be affected. Additional impacts (e.g., on motivation) are also possible. The objective of the Team Task Switching investigation is to gain knowledge about whether or not crew members have difficulty in switching tasks and determine the impacts of these switches in order to both reduce any negative consequences and improve individual and team motivation and effectiveness.
+Invitrobone:  The crew configured EXPRESS Racks 6 and 8, then retrieved Invitrobone-1 and Invitrobone–2 from the Dragon vehicle and inserted them into those racks, respectively.  The Invitrobone investigation seeks to provide insight into the effect of the microgravity environment on bone turnover, to support development of more efficient countermeasures for astronauts. 
+NanoRacks Module-66:  The crew installed NanoRacks Module-66 into the NanoRacks Platform-1 today.  Alzheimer’s disease, an irreversible neurodegenerative process, is characterized by formation of neurofibrillary tangles of tau protein and plaques, or clumps of amyloid beta peptide, that kill brain cells. Research suggests that an intermediate stage in fibril formation is ten times more toxic and may play a greater role in cell death and development of Alzheimer’s disease. This investigation examines fibril formation and beta amyloid peptides in microgravity using a fluorescence spectrometer. Results could lead to ways to slow down the rate at which Alzheimer’s disease affects the brain or to eliminate toxic effects of beta amyloid peptide. 
+Multi-Use Variable-G Platform (MVP):  The crew installed the Drosophila module and food cylinders into the MVP today.  MVP is used to conduct research in space with a wide variety of sample types, such as fruit flies, flatworms, plants, fish, cells, protein crystals and many others.  It includes 2 internal carousels that simultaneously can produce up to 2 g of artificial gravity. Each carousel hosts 6 separate removable experiment modules on each carousel. Video and still imagery, including microscopy, can be included. The platform provides temperature and humidity controls and monitors and records oxygen and carbon dioxide levels. 
+Made in Space Fiber Optics (MSFO):  The crew set up the MSFO locker and cables in preparation for 3D print operations in the Manufacturing Device. This investigation demonstrates the merits of manufacturing fiber optic filaments in microgravity.
+Microgravity Science Glovebox (MSG):  Today the crew configured the MSG Life Science hardware to support Metabolic Tracking and Micro-11 operations. 
+On-Board Training (OBT) Medical Emergency: This onboard training provides the opportunity for the 54S crew to review procedures, hardware and communication methods necessary to manage a medical emergency onboard ISS. Emergency medical equipment was deployed and the crew practiced Cardiopulmonary Resuscitation (CPR) positioning to ensure familiarity with procedure execution should a medical emergency occur.
+Public Affairs Office (PAO) Events:  Feustel and Kanai participated in two live-to-air PAO events today. Kanai’s event was with Toho University’s Junior and Senior High Schools in Narashino City, Japan.  Feustel’s event, was with Queen’s University in Kingston, Ontario. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Microbial Tracking-2 Sample MELFI Retrieval Insert
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Set Up
+Move Station Support Computer (SSC) 17 for Earth Knowledge Applied to Middle schools (EarthKAM)
+Waste and Hygiene Compartment (WHC) Inspection
+Inventory Management System (IMS) conference
+iPad Verify Kindle App
+CHeCS Emergency Health Maintenance System Contingency Drill Training
+Force Loader [НС-1М] Memory Card Check.
+XF305 Camcorder Setup
+Cell Biology Experiment Facility (CBEF) Filter Case Attachment
+Glove Box Cleaning
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Preparation to install thermal mode enhancement equipment for Electric Power System 800А unit in SM.
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+Fruit Fly Lab-03 Hardware Transfer
+Glove Box Gloves Replacement
+Recycle Tank Drain
+European Modular Cultivation System Gas Valve Open
+Water Recovery System (WRS) Waste Tank Sample
+DAN. Experiment Session.
+DAN. Experiment Operator Assistance
+Temp Stowage of H/W for JEM PAO event
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Plant Gravity Perception/European Modular Cultivation System Experiment Container Removal
+Invitrobone-1 Transfer from Dragon capsule to ExPRESS Rack
+Plant Gravity Perception/European Modular Cultivation System Experiment Container Installation
+Environmental Health System (EHS) – Rad Detector Rotate
+Invitrobone-2 Transfer from Dragon capsule to ExPRESS Rack
+СОЖ maintenance, Replacement of CO sensor in ГЛ2106 gas analyzer.
+VEG-03F Plant Pillow Water
+CALCIUM. Experiment Session 5.
+Soyuz 737 Kazbek Fit Check
+Made In Space Fiber Optics Locker and Cable Setup
+Multi-Use Variable-G Platform On-Board Training Review
+Multi-Use Variable-G Platform Installation Operations
+VEG-03E MWA Preparation
+MPEG2 Video Streaming Multicast Test (after BRI cleaning).
+VEG-03E Harvest
+Gas-Analyzer ГЛ2106 mode changing to operation. Executed 2 hours after activation.
+Comm config for conference from MRM1
+Acoustic logger ops during Soyuz 738 and ISS mated flight. 
+SEPARATION Removal and transfer of ТБУ-В 521ГК.1213-0 frame to MRM1.
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+VEG-03E MELFI Insertion #2
+VEG-03E Harvest
+Metabolic Tracking MSG Life Science Hardware Setup
+Team Task Switching Experiment Survey – Subject
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Comm reconfig for nominal ops
+NanoRacks Module-66 MELFI Sample Retrieve
+NanoRacks Platform-1 Module Install
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill [Aborted]
+Space Headaches – Weekly Questionnaire
+Polar Samples to Cold Stowage – Transfer 2
+Polar Desiccant Swap
+Replaces stowage in JEM that was removed before PAO event
+Countermeasures System (CMS) Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Conclude
+ISS Crew Orientation
+Inventory Management System (IMS) Conference
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Space Headaches – Weekly Questionnaire 
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+C2V2 Checkout
+MSS Operations to Extract PFCS and MISSE from Dragon Trunk 
+

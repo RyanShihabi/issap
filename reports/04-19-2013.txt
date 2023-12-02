@@ -1,0 +1,113 @@
+
+New Status:
+Russian Segment (RS) Extravehicular Activity (EVA) #32: Flight Engineer (FE)-1 Vinogradov and FE-4 Romanenko performed a 6 hour 38 minute EVA. Egress was at 9:03 am. All planned tasks were completed nominally, including installation of the Obstanovka experiment, and the removal and replacement of the Laser Radar Reflector (LRR).  The LRR is used as a reference point during docking of the ATV vehicle to the Service Module (SM) port.  The crew also retrieved the Biorisk experiment which was a get-ahead task. Due to additional hatch closures during a RS EVA, FE-3 Cassidy and FE-2 Misurkin were isolated in the Mini Research Module (MRM)-2/34 Soyuz, and Commander (CDR) Hadfield and FE-6 Marshburn were isolated in the US Segment from the Functional Cargo Block (FGB) forward.
+Blood Pressure (BP) Regulation (Reg) Experiment: Wednesday Hadfield set up the Human Research Facility (HRF) PFS (Pulmonary Function System) and the European Physiology Module (EPM) CDL (Cardiolab) LACS (Leg/Arm Cuff System) and conducted the first ever session of this experiment. Today Marshburn conducted another session of the experiment. The test will help to identify the astronauts who could benefit from countermeasures before returning to Earth. This method has great potential for astronaut health monitoring during future long-term space flights and it also has important implications for testing of individuals on Earth, especially the elderly, who are at risk for fainting. The research will also allow demonstrating the feasibility of obtaining a set of indicators of overall cardiovascular regulation from the non-invasive measurement of continuous blood pressure.
+EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Laptop Computer (ELC) Software Updates: Marshburn loaded EXPRESS Software Version 9.0, Basic Input/Output System (BIOS), Serial Network Flow Monitor (SNFM) software and configured the EXPRESS Rack-8 Laptop Computer (ELC) for operations. He configured and loaded Microgravity Experiment Research Locker/Incubator (MERLIN) and General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) payload application software onto the ELC.
+Education Payload Operations (EPO) DualFields Demonstration: Marshburn reviewed procedures, gathered materials, watched a video and with assistance from Hadfield performed a demonstration showing onboard technology used to capture Earth images from the ISS for Earth Knowledge Acquired by Middle School (EarthKAM) missions. EPO demos are educational videos conducted by crewmembers on-board the ISS and are seen by grades 5-12 students and educators.
+Waste and Hygiene Compartment (WHC) Pump-Separator Remove and Replace: Earlier today the WHC was not functioning and the check separator light illuminated. Hadfield replaced the Pump-Separator Orbital Replacement Unit (ORU) and the WHC is operating nominally again.
+Previous Status (04/18/13)
+Ku-Comm Unit #1 High-Rate Communications System (HRCS) COAX Connections: Commander (CDR) Hadfield and Flight Engineer (FE)-6 Marshburn connected Ku Comm Unit 1 to the Space to Ground Transmitter Receiver Controller (SGTRC) final configuration.  The Ground activated Ku-Comm Unit 1 and confirmed video, payload data and Orbiter Communication Adapter (OCA) were functioning nominally. This completes all Ku Comm Unit installation activities.
+ENERGY Experiment: Hadfield completed the final day of his 10-day ENERGY session. Afterwards he transferred the data to the European Physiology Module (EPM) laptop, for downlink to the Ground for analysis. The experiment includes eating a standardized meal, diet logging, specific water intake, measurements of Oxygen uptake, collection of urine samples, and wearing an armband activity monitor. A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+
+Countermeasures System (CMS) Periodic Fitness Evaluation (PFE): Marshburn performed his monthly physiological evaluation, with assistance from Cassidy.  PFEs monitor crewmembers’ overall fitness levels, to ensure that cardiovascular and musculoskeletal health and performance is satisfactory. The activity consists of performing a graded exercise test on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
+Capillary Flow Experiment (CFE):  Following yesterday’s crew procedures and setup review, Cassidy secured the CFE hardware on the Maintenance Work Area (MWA) and positioned the High Definition (HD) camcorder for today’s 3rd test session of this experiment.  CFE is a suite of fluid physics experiments that investigates how fluids translate across surfaces in microgravity. The results will be used to improve current computer models that are used by designers of low gravity fluid systems, and may improve fluid transfer systems for water on future spacecraft.
+Russian Segment (RS) Extravehicular Activity (EVA) #32 Timeline Review: Hadfield, Romanenko and Vinogradov reviewed the EVA timeline in preparation for tomorrow’s planned Russian EVA #32.
+Today’s Planned Tasks
+· RSS1, RSS2 Reboot / r/g 1009 step 1  [Complete] 
+· Reboot Laptop RS2(1)  [Complete]
+· Visual Inspection of Circuit Breakers (АЗСО)on DC1 Power Switch Panel (БВП) and Fuses on DC1 Fuse Boxes [Complete]
+· SM ПСС (Caution & Warning Panel) Test [Complete]
+· Biochemical Urine Test before EVA [Complete]
+· Biochemical Urine Test before EVA [Complete]
+· PROK. Urine РН Test [Complete]
+· HRF Urine Sample Collection [Complete]
+· HRF. MELFI Urine Sample Insertion [Complete]
+· Test of Photo Cameras prior to RS EVA and Handover to RS crew [Complete]
+· DC1 and ПхО config for EVA [Complete]
+· P/L – Preparation Ops [Complete]
+· BCAT. Camera Battery Changeout [Complete]
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954 [Complete]
+· MRM2 Preparation and ТК 708 Activation before EVA / r/g 2108, 2113 [Complete]
+· EVA Panel Inhibits [Complete]
+· Food Frequency Questionnaire [Complete]
+· Ham Radio Deactivation [Complete]
+· СОЖ Maintenance [Complete]
+· Spacesuit Systems Checkout / EVA from DC, [Complete]
+· Removal of Air Duct РО-ПрК Hatch protective ring, Closure of РО-ПрК Hatch [Complete]
+· DC1 БСС (Spacesuit Interface Unit) Checkout [Complete]
+· ПхО БСС (Spacesuit Interface Unit) Checkout [Complete]
+· Acoustic Dosimeter Stow [Complete]
+· BP. Experiment ops  [In Work] 
+· Comm config before EVA, reconfiguring ПСС (C&W) panel [Complete]
+· DC1 Oxygen Tank БК-3М Check [Complete]
+· USOS Window Shutter Close [Complete]
+· Spacesuit Systems  Biomed Telemetry Checks [Complete]
+· Pre-EVA ISS Onboard Systems Configuration  r/g 2109  [Complete] 
+· Orlan and БСС (Orlan interface unit) Final Inspection  [Complete] 
+· Sensewear Activity Monitor -Stowage [Complete]
+· RGN REC-TNK – Remove depress hose for nominal operations [Complete]
+· EVA Gear Donning r/g 2103 [Complete]
+· Air duct removal from DC1 (skip B3 fan removal)    [Complete] 
+· P/L Closeout Ops  [Complete] 
+· Pre-EVA A/L Depress  r/g 2121  [Complete] 
+· ON MCC GO MRM2-СУ (SM) Hatch Closure  [Complete] 
+· ТК 708 Crew Isolation in MRM2 for EVA-32 / r/g 2108, 2113  [Complete] 
+· HRF Urine Sample Collection  [Complete] 
+· HRF MELFI Urine Sample Insertion  [Complete] 
+· Depress for EVA – assistance  r/g 2121 [Complete]
+· CWC Audit [Complete]
+· EVA-32 Tasks / r/g 2118 [Complete]
+· Food Frequency Questionnaire [Complete]
+· EXPRS8-ELC – Computer Software Load [Complete]
+· PRO K – Diet Logging Day 2- Day 4 [Complete]
+· BCAT3. Camera Checkout [Complete]
+· HRF Urine Sample Collection [Complete]
+· HRF. Urine Sample MELFI Insertion [Complete]
+· EXPRS2 – Laptop SW load [Complete]
+· NANORACK – Copy Data to Laptop [Complete]
+· EPO – Experiment Procedure Review [Complete]
+· EPO Operations Demo [Complete]
+· EPO – Experiment Ops [Complete]
+· P/L Video Playback [Complete]
+· BP. Hardware Stowage  [Complete] 
+· Post-EVA Repress Ops  r/g 2121 [Complete]
+· SHD. Weekly Questionnaire [Complete]
+· ON MCC GO MRM2- СУ(SM) Hatch Open
+· Biochemical Urine Test after EVA
+· Post-EVA air ducts installation in DC1, MRM2, and SM
+· Switching comm system to initial configuration
+· RS ISS Reconfig for nominal ops (СРВ-К2М and food warmer activation  r/g 2103, 2109
+· P/L Closeout Ops
+· JSL-OCA ROUTER – Power Down
+· SHD – Weekly Questionnaire
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954
+· Post-Eva Orlan Suit Maintenance  [In Work] 
+· SSC – Battery Installation
+· Post-EVA MRM2 Reconfiguration for nominal Ops r/g 2108, 2113
+· RS ISS, DC1 reconfiguration to initial config after EVA  r/g 2107
+· РО-ПрК Hatch Opening, Installation of protective ring on РО-ПрК Hatch and air duct.
+· P/TV Playback Start
+· Stow ATV video meter target post-EVA / r/g 2119
+· BCAT. Camera Battery Changeout
+· ATV – Stow LRR  [In Work] 
+· ISERV – Opening LAB window shutters
+· HAM Radio Power Up
+· REMINDER. Blood Draw
+· P/TV Playback Stop
+Task List
+· CEO ops [Complete] 
+· RGN WSTA fill
+· SSC data gather (FE-6)  
+· SSC data gather (CDR)  [Complete]  
+· WHC EDV R&R
+· WHC KTO replace
+· HRCS restow Pt2  [Complete] 
+· ProK diet config  [In Work] 
+· Data prep return CDR  [In Work] 
+· Data pre return FE4
+· Data prep return FE6  [In Work] 
+· JPM rack labels
+· Trash gather  [In Work] 
+
+Ground
+· Nominal Commanding  [In Work] 

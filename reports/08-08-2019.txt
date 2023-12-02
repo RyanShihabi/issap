@@ -1,0 +1,116 @@
+
+ISS HAM pass:  The crew participated in a HAM pass with Kyoto Tachibana Junior and Senior High Schools in Japan.  Some of the questions involved how the ISS avoids other orbiting satellites, what Earth looks like when it’s night in Japan, and many others.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+NanoRacks Emulsion Tube:  In this experiment, the crew demonstrated the mixing properties of two liquids contained inside the Emulsion Tube. The experiment allows the liquids to be easily separated, then shaken to create an emulsion which can be observed.  NanoRacks-Emulsion Tube demonstrates phenomena of the separation of immiscible fluids, or fluids such as oil and water that cannot be mixed or blended. On Earth, buoyancy is the dominant force driving the separation of oil and water into uniform volumes, but in microgravity, surface tension and polarity differences dominate and slow the separation. Analyzing differences between the mixture in Earth’s gravity and microgravity provides insight into fluid physics.
+Rodent Research-17: The crew restocked the habitats and cleaned the units.  Rodent Research-17 uses young and old mice as model organisms to evaluate the physiological, cellular and molecular effects of the spaceflight environment. Some responses to spaceflight in humans and model organisms such as mice resemble accelerated aging. This investigation provides a better understanding of aging-related immune, bone, and muscle disease processes, which may lead to new therapies for use in space and on Earth.
+Spacecraft Atmosphere Monitor (SCRAM): The crew installed SCRAM in the EXPRESS Rack 8 and powered up the payload to begin a 24 hour checkout prior to starting nominal ops. The investigation demonstrates the capabilities of a small, reliable, portable gas chromatograph mass spectrometer instrument aboard the ISS to conduct major and minor elements of air measurement (Nitrogen, Oxygen, Carbon Dioxide, Methane, Water, etc). The instrument transmits data back to the ground research team every two seconds, providing a continuous analysis to the ground research team. It has a mass of less than 9.5 kg, and consumes less than 40 watts of power. 
+Medical Contingency On-Board Training (OBT): The 59S crew reviewed medical emergency procedures and rescuer roles during a medical event requiring CPR. They also reviewed emergency medical hardware configuration as well as crew communication and coordination of care during an emergency medical event.
+Extravehicular Mobility Unit (EMU) Swap: The crew unpacked EMU 3009 which is a new unit that arrived on SpX-18. The crew then packed EMU 3003, which will be returned to ground on SpX-18 for refurbishment.
+Mobile Servicing System (MSS) Ops: Yesterday Robotics Ground Controllers powered up the MSS to perform troubleshooting for garbled video on Trunk Line MSS 4 to the External Video Switch Unit (EVSU). When they attempted to route the Special Purpose Dexterous Manipulator (SPDM) Body Camera 2 through a downlink the image was scrolling. Following troubleshooting, they translated the Mobile Transporter (MT) from Work Site (WS) 7 to WS6, where they performed planned direct drive data gathering on the Space Station Remote Manipulator System (SSRMS) wrist pitch and wrist yaw joints on the prime string. SSRMS direct drive testing continued today and teams are discussing a forward plan for the video issue.
+Completed Task List Activities:
+
+BFF smart pump R&R
+Symptom questionnaire
+Soldering kit audit
+Node 1 Deck 2 stow
+PWD filter circuit breaker reset
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SSRMS Direct Drive testing
+JEMAL depress
+Payloads ops support
+
+Look Ahead:
+Friday, 8/9 (GMT 221)
+Payloads:
+
+
+Acoustic Diagnostics
+BFF
+FSL reconfig
+Food Acceptability
+Ice Cubes R&R
+Lighting Effects
+MSPR reconfiguration
+Repository
+SCRAM
+SPHERES Zero Robotics dry run and competition
+Standard Measures
+
+Systems:
+
+EVA BSA battery ops
+EMU LiON battery ops
+
+Saturday, 8/10 (GMT 222)
+Payloads:
+
+
+Lighting Effects
+
+Systems:
+
+Crew off duty; housekeeping 
+
+Sunday, 8/11 (GMT 223)
+Payloads:
+
+
+Lighting Effects
+Standard Measures setup
+
+Systems:
+
+Crew off duty
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Simplified Aid For EVA Rescue (SAFER) Checkout
+Lighting Effects Sleep Log Entry
+HRF Generic Urine Collection Male Lighting Effects
+HRF Generic Sample MELFI Insertion Operations
+Ultrasound 2 HRF Rack 1 Power On
+JEM Airlock Depressurization
+Health Maintenance System (HMS) Ultrasound 2 Scan Prep
+PILOT-T. Preparation for the experiment
+Ultrasound 2 Scan performed by a Crew Medical Officer (CMO)
+PILOT-T. Experiment Ops
+Spacecraft Atmosphere Monitor Initial Installation into EXPRESS Rack
+PILOT-T. Photography of the Experiment Ops
+ISS HAM Service Module Pass
+HRF Generic Urine Collection Male
+Rodent Research Habitat 1 & 2 Restock
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+JEM Airlock Vent
+MRM1 Fan Screen Cleaning (Group C)
+JAXA Multi-purpose Small Payload Rack Experiment Laptop Terminal(MSPR ELT) Activation
+JEM Airlock Vent Confirmation
+Extravehicular Activity (EVA) Procedure Review
+Extravehicular Mobility Unit (EMU) Swap
+Verification of ИП-1 Flow Sensor Position
+Preventive Maintenance of FS1 Laptop
+HRF Generic Urine Collection Male
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Routine Monthly Maintenance of BRI
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Inventory Management System (IMS) Conference
+SEMU Launch Enclosure (SLE) Rotation.
+IMS Delta File Prep
+TIMER. Marker gathering, setting up and taking measurements along the Operator
+Emergency RS ISS VHF-1 Comm Checkout from USOS
+SEMU Launch Enclosure (SLE) Launch Reconfigure
+Station Support Computer (SSC) System Vent Cleaning
+TIMER. Closeout Ops
+FOTOBIOREACTOR. Visual inspection with photography
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Extravehicular Activity (EVA) Procedure Conference
+Reminder Rodent Research Thermal Consideration
+Reminder Lighting Effects Cognition Tests
+Lighting Effects Sleep Log Entry
+
+ 

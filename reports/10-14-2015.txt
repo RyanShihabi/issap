@@ -1,0 +1,103 @@
+
+Plant Gravity Sensing 2 (PGS2): Today Lindgren retrieved culture dishes from a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) and treated the plants growing in them with a chemical reagent that induces a bioluminescence response that is dependent on the concentration of calcium ions in the plants.  The Plant calcium concentrations have been shown to change in response to the direction of gravity:  the plants emit photons when the culture dishes they are growing in are turned upside down so that the direction of gravity is changed relative to the plants.  The reagent will be removed tomorrow with an absorbent and on Thursday the culture dishes will be turned upside down and returned to a Photon Counting Unit (PCU) so that photon measurements can be taken. The PGS2 investigation supports the study of cellular formation of the gravity sensors and the molecular mechanism for gravity sensing in plants grown in microgravity conditions.
+ 
+Ocular Health:  Lindgren and Yui initiated their Flight Day 90 Ocular Health testing by performing vision and tonometry tests and taking blood pressure measurements.  The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+ 
+SOLAR: Measurements continue to be taken for European Space Agency’s (ESA’s) SOLAR investigation during the current sun visibility window which began last Friday, October 9th.  The goal of the SOLAR instruments is to measure solar spectral irradiance and variability.
+ 
+Habitability:  Today Kelly documented his recent observations related to human factors and habitability for the Habitability investigation.  Habitability assesses the relationship between crew members and their environment in order to better prepare for future long-duration spaceflights to destinations, such as near earth asteroids and Mars. Observations recorded during 6 month and 1 year missions can help spacecraft designers determine how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+ISS Extravehicular Mobility Unit (EMU) Umbilical (IEU) Checkout:  As a follow up to yesterday’s IEU replacement, Yui succesfully performed an IEU activation and checkout.  On September 23, the crew found a damaged seal on the coolant loop outlet port in the connector that connects the IEU to the EMU.  Both IEUs were due to be changed out early next year due to life time expiration.  The team elected to replace both expiring IEUs to support upcoming EMU operations.
+ 
+Node 1 Nadir Berthing Port Cabling:  Last Friday, the crew was unable to mate two pre-routed power cables due to interference resulting from connector backshell clocking.  Today, the crew succesfully re-clocked the 90° connectors and completed the installation of the wire harnesses to the Node 1 Forward Overhead and Lab Aft Overhead Bulkheads.  These cables will provide power to Node 1 Nadir Berthing Port and Galley Rack.  The crew also removed the airlock y-jumper that was installed as an interim measure last Friday.
+ 
+Extravehicular Activity (EVA) Preparation:  Kelly has packed International Docking Adapter (IDA) Cables into an EVA cable bag.  The cables will be installed on Pressurized Mating Adapter (PMA)-3 during the ISS Upgrades EVA currently scheduled for October 28th.  The ISS Program plans to establish two docking ports on the US On-orbit Segment compatible with the International Docking System Standard (IDSS).  In the future, the docking adapters will be installed onto the existing PMA-2 and PMA3 interfaces.  Each adapter will permanently convert a passive Androgynous Peripheral Attachment System (APAS) docking interface into a passive IDSS interface.
+ 
+Special Purpose Dexterous Manipulator (SPDM) Troubleshooting:  Today, Robotics Controllers performed data collection on the SPDM Arm 2 Shoulder Yaw Joint utilizing a diagnostics software patch.  The troubleshooting was conducted as a result of an anomaly that occurred on the joint last Thursday, 08 October. The data will now be analyzed by ground teams.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+HMS Visual Testing Activity
+EMU – Packing Cable Bag
+Hose prep for sample collection from EDV-ZV (EDV 1198) Replacement of urine receptacle (МП) and filter-insert (Ф-В) in АСУ.
+АСУ Activation after Replacement Life Support System (СОЖ)
+PGS2 – Equipment Gathering
+HMS – Vision Questionnaire
+ТКГ 429 (SM Aft) Transfers and IMS Ops
+Soyuz 717 Samsung tablet charging – end
+Ocular Health (OH) Blood Pressure Operations
+Ocular Health (OH) – Tonometry Test Configuration
+Ocular Health Experiment – Tonometry – Crew Medical Officer (CMO)
+Ocular Health Experiment – Tonometry – Subject
+Ocular Health (OH) Blood Pressure Operations
+MOTOCARD. Experiment Ops
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves [АВК СОА]
+Ocular Health Experiment – Tonometry – Crew Medical Officer (CMO)
+KULONOVSKIY KRISTALL. Experiment Ops
+Ocular Health Experiment – Tonometry – Subject
+MOTOCARD. Operator Assistance with the Experiment
+EMU – Long Dryout
+Post-Tonometry Stowage
+EMU – Long Dryout
+MOTOCARD. Photography of the Experiment Ops
+XF305 Camcorder Settings Adjustment
+PGS2-ELT2 – Cable Reconfig
+PGS2. Sample Retrieval from MELFI
+HMS – Vision Test
+PGS2. Sample Treatment Run 1
+Power down hardware downstream of NOD2 UOP2 per Plug in Plan (PiP)
+HMS – Vision Questionnaire
+СКПФ1 & СКПФ2 Dust Filter Changeout.  Reflect in IMS and clean MRM1 Gas-Liquid Heat Exchanger (ГЖТ)
+Acoustic Dosimeter Setup for Crew-worn Measurement Sessions
+Copy CLS 10 from SSC laptop
+HMS Defibrillator Inspection
+EMU – Long Dryout
+Private Medical Conference
+Node 1 Data Cable Routing/Installation
+24-hour ECG Monitoring (termination)
+On MCC Go Demating telemetry connectors from КЛ-108А
+KULONOVSKIY KRISTALL. Copy and download data to hard drive for return
+Removal of КЛ-108А Radio transmitter module.
+Checkout of Compound Specific Analyzer-Combustion (CSA-CP)
+24-hour Holter monitoring (terminate)
+KULONOVSKYI KRISTALL. Hardware Removal
+ТКГ 429 (SM Aft) Transfers and IMS Ops
+Installation of КЛ-121/122Ц module
+EMU – Long Dryout
+CONTUR-2. Installation of master arm with adapter on panel 418
+CONTUR-2. Experiment Session Ops
+IMS Delta File Prep
+De-installation and installation of TVS Antenna Feeder
+СОЖ maintenance
+Evening Work Prep
+Start EMU Battery Charge
+CONTUR-2. Experiment Session Ops
+On MCC Go Mating Telemetry Connectors to TVS Antenna Feeder after installation
+HABIT – Experiment Ops
+Plug in Plan (PiP) – Node 2 – Hardware Power-up downstream UOP1
+Crew conference with Astronaut Office
+CONTUR-2. De-installation of master arm with adapter from panel 418
+CONTENT. Experiment Ops
+HAM radio session from Columbus
+Preparation of reports for Roscosmos site
+ECON-M. Observations and Photography
+URAGAN Observations and Photography
+
+ 
+Completed Task List Items
+
+PCS R17 Hard Drive Pre-Gather
+Safety Video Followup
+61P USOS cargo unpack [In Work]
+AMS Blanket Prep
+Photo survey of PMM1O1 A&B
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Powerdowns in support of Node 1 Nadir Berthing Port cable connects
+SPDM Troubleshooting
+
+ 

@@ -1,0 +1,45 @@
+
+Group Combustion Leak Check: The crew performed additional Group Combustion Experiment Module (GCEM) troubleshooting today, and completed a leak check of the Gaseous Nitrogen (GN2) supply line and associated Quick Disconnects (QDs). The International Standard Payload Rack (ISPR) valves and QDs for the gas supply line were connected and reconfigured then underwent a five hour leak check of the Combustion Chamber (CC). Ground teams are assessing the data. The Group Combustion investigation tests a theory that fuel sprays change from partial to group combustion as flames spread across a cloud of droplets. In the Multi-purpose Small Payload Rack in the Kibo module, droplets of decane, a component of gasoline or kerosene, are arranged randomly on thin-fiber lattice points, and the flame and droplet positions and temperature distribution are measured as the flame spreads. Microgravity blocks convection, which on Earth would quickly disperse the droplets and combustion products before such measurements could be made.
+Oxygen Generation System (OGS) Maintenance:  After running nominally overnight, the Oxygen Generation Assembly (OGA) was put in a safe configuration this morning to allow the crew to inspect the H2 ORU QD.  This inspection was due to the not fully mated configuration the QD remained in after yesterday’s activities.  No water was noted on the QD or tape during the inspection.  The rack was closed and OGS was reactivated and moded to operate at 22% producing approximately 2 kg of Oxygen (O2) per day. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Crew Evaluation of New Food Items
+Group Combustion Module (GCM) GN2 Leak Check Start
+Inventory Management System (IMS) conference
+Changeout of Dust Filter ПФ1-4 Cartridges in SM (ТГК433ГрО_з2_КII-1).
+Progress 433 (DC1) Transfers and IMS Ops
+Regenerative ECLSS Urine Processor Assembly (UPA) Brine Filter Changeout
+BIOKARD. Performing experiment
+Progress 433 (DC1) Transfers and IMS Ops
+Vacuum Cleaning of ВД1 and ВД2 air ducts in DC1
+СОЖ maintenance
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Activation
+Food Frequency Questionnaire (FFQ) or ISS Food Intake Tracker (ISS FIT)
+VEG-03 Plant Photo
+BAR. Experiment. Tagup with specialists
+SM Ventilation Subsystem Preventive Maintenance. Group В1
+Strata Status Check
+Group Combustion Module (GCM) GN2 Leak Check Stop
+Oxygen Generation System Hydrogen Orbital Replacement Unit Quick Disconnect Inspection
+Replacement of MRM1 Dust Filter cassettes СКПФ1, СКПФ2 (ТГК433ГрО_з2_КII-1).
+VIZIR. Experiment Ops. Tagup with specialists as necessary
+Crew Medical Officer (CMO) On Board Training (OBT)
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) Valve Operations
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Space Headaches – Weekly Questionnaire
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Deactivation 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+4B3 Battery Reconditioning
+SSC Server1 transition
+OGS deactivation/reactivation for QD leak check
+Transition ISS Server1 to ZBook
+

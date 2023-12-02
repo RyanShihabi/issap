@@ -1,0 +1,115 @@
+
+Nitrogen/Oxygen Recharge System (NORS) Airlock Interface Kit (AIK) Installation:  Kelly prepared the US Airlock in support of NORS AIK install by removing closeout panels and flexible ventilation ducting.  Yui then assisted Kelly with the installation of the NORS primary and redundant power cables.  The NORS AIK activities will continue tomorrow with leak checks extending through Friday.  NORS provides the capability to refill the US Airlock High Pressure Gas Tanks (HPGTs) with nitrogen and oxygen following Shuttle retirement.
+ 
+Exposed Experiment Handrail Attachment Mechanism (ExHAM) #2 Deploy:  Yui opened the outer hatch and extended the Japanese Experiment Module (JEM) Airlock slide table external to ISS.   The ground operations team then used the JEM Remote Manipulator System (JEMRMS) Small fine Arm (SFA) to retrieve ExHAM#2 from the slide table and set it on the JEM exposed pallet.  ExHAM is a cuboid mechanism equipped with a fixture on the upper surface for grappling by the JEMRMS SFA, and has components on the under surface for attaching the ExHAM to the handrail on the Exposed Facility.  Up to 7 experiment samples can be loaded on the ExHAM upper surface and 13 on the side surfaces.
+ 
+Mycological Evaluation of Crew Exposure to ISS Ambient Air (Myco):  Shortly after wakeup, Kelly took samples from his nasal cavities, pharynx, saliva and skin for the Myco investigation.  This is the third body sample collection for this one year mission crewmember.  Analysis of the samples will focus on microflora, particularly fungi, which may cause opportunistic infections or allergies if a crewmember’s immunity is compromised on the ISS.
+ 
+EXPRESS (EXpedite the PRocessing of Experiments to Space Station) Rack 5 Laptop Software Load: Lindgren supported the ongoing software updates to ISS EXPRESS Rack laptops by copying a software load to the EXPRESS Rack 5 laptop.
+ 
+Cancellation of Plant Gravity Sensing 2 (PGS2) Experiment Run 2:  Japan Aerospace Exploration Agency (JAXA) stopped the second PGS2 run due to failure of the investigation’s seeds to germinate.
+ 
+Haptics-1:  Lindgren set up equipment and performed experiment protocols for the European Space Agency (ESA) Haptics-1 investigation.  Haptics-1 supports analysis of engineering parameters and the merits of body-grounded versus non-body grounded force feedback to a crewmember within a microgravity environment.  The physiological property analysis will identify changes in human kinesthetic perception and performance in position and force-torque control tasks and in cognitive performance.  The Haptics-1 experiment is performed in two different configurations to evaluate hardware and human performance under varying mounting conditions: wall-mounted on rack seat-tracks and body-mounted in a vest assembly.
+ 
+Biochemical Profile:  Yui continued his Flight Day 120 collections for the Biochem Profile investigation.  Samples will be stowed in a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for return on a later flight. The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+ 
+Oxygen Generation System (OGS) Recirculation Loop Sample:  Kelly obtained a water sample from the OGS Recirculation Loop for return-to-ground analysis.  A sample was also drawn for a later on-orbit conductivity test, in case the return sample is delayed.  Periodic water samples are returned for chemical, particulate, and microbial analysis in order to determine when total organic carbon remediation should be implemented to avoid risk of irreversible contamination damage to the OGS.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+MYCO – Morning Sample Collection
+HRF Urine Sample Collection
+HRF – Sample MELFI Insertion
+MYCO – Sample MELFI Insertion
+Reminder – ARED Photo/TV
+HRF – Sample MELFI Insertion
+Morning Inspection
+CONTUR-2. Experiment Session Ops
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start)
+SPHERES – Battery Replacement
+JEMRMS RLT Laptop Activation
+Express Rack ER5 – Copy CLS 10 from SSC Laptop
+MELF2 – Ice Brick Insertion into Dewar
+CONTUR-2. De-installation of master arm with adapter from panel 418
+JEMAL – Slide Table (ST) Extension to JPM Side
+Express Rack ER5 – Insertion of USB drive to allow starting of the SW load
+Audit of Lighting System in RS MRM1
+JEMRMS – Start BUS Monitoring
+HAPTICS-1 – Camera Adjustment and Hardware Setup
+Access to Allow NORS Equipment Installation
+Repairs of SM Interior Panel 314 by Installing Overlay Panels – Day 1. Tagup with specialists
+СД1-7 Lamp Replacement in MRM1
+ER5 – Finishing Software Load
+Repairs of SM Interior Panel 314 by Installing Overlay Panels – Day 1
+SPHERES – Procedure Review
+SPHERES – Familiarization with Experiment Plan
+ER5 – Insertion of SNFM DVD to allow starting of the SW load
+Verification of ИП-1 Flow Sensor Position
+HAP1 – Hardware Activation and Experiment Start
+Installation of NORS Primary and Redundant Power Cables
+HRF Urine Sample Collection
+PAO Hardware Setup
+Crew Prep for PAO
+HRF – Sample MELFI Insertion
+Routing NORS Primary Power Cables
+TV Conference with Lyceum No.504 Students and Teachers
+OTKLIK. Hardware Monitoring
+Routing NORS Redundant Power Cables
+SPHERES – Battery Replacement
+HAP1 –  Experiment Ops
+HRF Urine Sample Collection
+VELO Exercise, Day 3
+HRF – Sample MELFI Insertion
+JEMAL – JEM Airlock Retraction of slide table from JEF side
+СОЖ Maintenance
+Oxygen Generation System (OGS) Water Sample
+SPHERES – Battery Replacement
+XF305 Camcorder Setup
+PGS2 Sample Retrieval from MELFI
+HAPTICS-1 Experiment Ops
+PGS2  Retrieval from MELFI
+On MCC Go Replacement of Navigation Receiver Module НПМ-3 using the spares kit
+PGS2 – Plant Experiment Unit (PEU) Closeout Ops
+SM Ventilation System Preventive Maintenance. Group В2
+PGS2  Saving Temperature Data
+HAP1 Hardware Stowage
+Collect SM and FGB Air Samples Using АК-1М Sampler
+N1N Mod Kit Hardware Stowage
+On MCC Go Mate НПМ-3 Telemetry Connectors to БИТС2-12
+Replacement of Navigation Receiver Module НПМ-3 using the spares kit – Closeout Ops
+РСПИ – Onboard Memory Device (БЗУ). БЗУ Test Checkout
+INTERACTION-2. Experiment Ops
+On-orbit Hearing Assessment using EARQ
+SPHERES – Battery Replacement
+Stopping JERMRS Arm Bus Monitor
+Download Pille Dosimeter Readings
+JEMRMS USB Memory Stick Virus Check
+JEMRMS Data Transfer
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (end)
+JEMRMS RLT Laptop Deactivation
+HRF Urine Sample Collection
+EKAM Lens Changeout
+Crew Discretionary Conference
+HRF – Sample MELFI Insertion
+IMS Delta File Prep
+CONTENT. Experiment Ops
+ER5 – SNFM DVD Removal and Stowage
+SPHERES Crew Conference
+SPHERES – Battery Replacement
+Preparation of Reports for Roscosmos Web Site and Social Media
+ECON-M. Observation and Photography
+URAGAN Observations and Photography
+
+ 
+Completed Task List Items
+
+JAXA Voluntary Science Video
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+ExHAM #2 installation via JEMRMS
+
+ 

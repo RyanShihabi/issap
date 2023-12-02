@@ -1,0 +1,21 @@
+
+82 Progress (82P) Docking: Following the completion of a 34-orbit rendezvous, 82P successfully docked to the ISS Poisk Mini-Research Module 2 (MRM-2) Zenith port yesterday at 9:49 PM CT. The crew then performed leak checks, opened hatches, and began unloading cargo. Carrying food, fuel, and supplies, 82P launched from the Baikonur Cosmodrome on Tuesday, October 25th at 7:20 PM CT.
+Payloads:
+Electrostatic Levitation Furnace (ELF): The crew gained access to the experiment volume, gathered any loose samples, and then exchanged sample holder 2 in the sample cartridge. This marks the change from the Interfacial Energy experiment samples to the B4C-SS Eutectic experiment samples. Thermophysical Property of Eutectic Melting Material of Control Rods for Severe Accident Analyses in Fast Reactors (ELF-B4C-SS Eutectic) collects data for the first time on the thermophysical properties of a material that simulates the melting behavior of a mixture of boron carbide (B4C) and stainless steel (SS). This data could be incorporated into models used to analyze severe accident scenarios for sodium-cooled fast reactors (SFRs). These nuclear reactors are cooled by molten sodium rather than water. Microgravity conditions make it possible to levitate a sample and melt it with a laser in order to reach the high temperatures needed for the simulation.
+eXposed Root On-Orbit Test System (XROOTS): The crew performed fluid management and seed cartridge/plant inspections. XROOTS is currently in the final week of the fourth and last planting for the experiment series. The large pea and tomato plants in Root Module 4 have multiple fruits visible, and three of the newer seed cartridges in Root Module 1 have young plants visible. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media. Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Space Automated Bioproduct Laboratory (SABL): The spent CO2 incubator controller was removed from SABL-1 and replaced with a fresh CO2 controller. The SABL unit supports a wide variety of investigations in the life, physical, and material sciences with a focus on supporting research of biological systems and processes. It has over 23 liters of temperature-controlled volume with LED lighting for scientific hardware and investigations. It can be fitted to provide 5% CO2 (or any required concentration of CO2) for cell cultures or other types of investigations and has two USB 2.0 ports and two Ethernet LAN connections. It also has switchable 28VDC and 5VDC power supplies for investigation use.
+Systems:
+Extravehicular Activity (EVA) Preparations: The crew completed an EVA Suit Intravehicular (IV) review to review the Suit IV briefing package, including reminders, emergency briefing, helpful tips, and procedures used during EVA prep. The Extravehicular Mobility Units (EMUs) were also reconfigured on the EMU Don/Doff Assemblies.
+Health Maintenance System (HMS) Optical Coherence Tomography (OCT2) Exam: The crew completed routine OCT2 eye exams today. OCT is an imaging technique analogous to ultrasound imaging that uses light instead of sound to capture micrometer-resolution, two- and three-dimensional images of tissue; in this case, the objects of interest are the crewmembers’ eyes. Eye exams are performed regularly on-board to monitor crewmembers’ eye health.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+S-Band RFG 2 Activation
+MCC step-up for FSW and Recon for R21 Transition MCE-B/MSE-B
+ACS Handover Attitude Control from USOS to RS
+ACS Handover Attitude Control from RS to US Momentum Management control
+

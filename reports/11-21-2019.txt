@@ -1,0 +1,117 @@
+
+AMS-02 (Alpha Magnetic Spectrometer) EVA Preparation: The crew continued preparation for the AMS repair EVAs completing a multitude of prep tasks including the crewlock prep work, tool configurations, suit review, procedure reviews and a crew conference.  The multiple AMS-02 repair EVAs are being performed to recover a series of cooling pumps within the AMS-02 experiment. The first of the series of EVAs occurred last Friday. The second EVA is scheduled to occur this Friday, November 22nd.  AMS-02 is a state-of-the-art particle physics detector that uses the unique environment of space to advance knowledge of the universe and lead to the understanding of the universe’s origin by searching for antimatter, dark matter and measuring cosmic rays.
+BFF (BioFabrication Facility) test print:  The crew installed cleaning syringes and smart pump tips as needed.  During the ground-commanded cleaning, the BFF team noted one of the four smart pumps (#3) appeared clogged and can’t be cleaned.  This clogged smart pump will be considered unusable going forward, but we should be good to continue the BFF operations with 3 of the 4 smart pumps functional.  The BFF is dedicated to manufacturing human organs and tissues in space, primarily for use by patients on Earth. Besides printing tissue, the BFF also can help maintain the health of deep space exploration crews by producing food and personalized pharmaceuticals on demand.
+ISS HAM pass:  The crew participated in an ISS HAM Istituto San Paolo delle Suore Angeliche, Milano, Italy and Istituto Comprensivo Di Merone – Mons. A. Pirovano, Merone, Italy.  Some of the questions included what tools the crew uses most, if there’s a different perception of time for astronauts in space, and if the ISS is polluting outter space.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+JEM Water Recovery System (JWRS):  The crew completed the set-up of the JEM WRS earlier this week. The ground team subsequently performed a successful leak check of the system, including the waste gas line in the JEM system, and on Wednesday, the ground team performed a checkout of the JEM RWS itself.  Based on the results of these checkouts, the JAXA team is go to start the first run of the experiment early next week.  The JWRS demonstration will generate potable water from urine. In the past on manned spacecraft, urine and waste water were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions. 
+NutrISS (Nutrition Monitoring for the International Space Station): Using the EveryWear application, the crew participated in an ESA Nutritional Assessment (ENA). Long-duration spaceflight induces relevant changes in body composition and a loss of body mass. In the NutrISS investigation, a periodic assessment of body composition (body weight, fat mass, and fat-free mass) during spaceflight aboard the ISS is carried out using a dedicated bio-impedance analysis device to allow for the measurement of long-term energy balance modification over time. It is hypothesized that an adjusted diet maintaining a near-neutral energy balance, and/or increasing protein, intake can limit microgravity-induced bone and muscle loss.
+Systems:
+Inventory Management System (IMS) Stowage Conference:  The ISS crew along with the ground stowage specialists completed an IMS Stowage Conference and discussed the current ISS stowage configurations and future plans. 
+Completed Task List Activities:
+
+No Task List activities were completed.
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+
+Friday, 11/22 (GMT 326) AMS EVA #2
+Payloads:
+
+
+ISS Experience
+NutrISS
+Veg-04B plant check
+
+Systems:
+
+AMS EVA#2
+EHS Formaldehyde Monitoring Kit (FMK) Stow
+
+Saturday, 11/23 (GMT 327)
+Payloads:
+
+
+CBEF-L
+ISS Experience stow
+Veg-04B
+TReK video shutdown and WORF laptop re-cable
+
+Systems:
+
+Extravehicular Mobility Unit (EMU) Water Recharge
+Extravehicular Activity (EVA) Debrief
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate 
+
+Sunday, 11/24 (GMT 328)
+Payloads:
+
+
+Veg-04B plant check
+
+Systems:
+
+EVA Metox Regen
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Preparation of Reports for Roscosmos web site and social media
+ECON-M. Observation and Photography
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+REMINDER NutrISS ESA Nutritional Assessment
+Daily Planning Conference
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+IMS Conference (S-band)
+Ring Sheared Drop Hardware Stow
+Replacement of 800А battery unit No.8. Assistance. Install unit  #2394821403, place removed unit # 2394921502 for disposal in Progress # 442, plane I.
+Photo TV Extra Vehicular Activity (EVA) Camera Turnaround
+VEG-04B Plant Check/Watering for each Plant Pillow
+Replacement of 800А battery unit No.8. Assistance. Place removed unit # 2394921502 for disposal in Progress # 442, plane I.
+ISS HAM Service Module Pass
+Replacement of Filters in FGB Dust Collectors 1, 2 (panels 203, 403)  (ФГБ1ПГО_1_108, interior panel (00059781R), bag 432-26 (00069525R) or bag 436-25 (00071451R) or bag 441-14 (00076074R). Place removed filters for disposal. Update IMS
+NutrISS – ESA Nutritional Assessment
+Checking cover closure on SM windows 6, 8, 9, 12, 13, 14. Note 6
+Extravehicular Activity (EVA) Tool Configuring
+Air Conditioning System [СКВ1] Inspection post activation and checkout (post R&R)
+Extravehicular Activity (EVA) Tool Audit
+RSD MELFI Sample Insertion
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Setup
+BioFabrication Facility Cleaning Syringe Install and Tip Replacement
+Equipment Lock (E-LK) Preparation
+Equipment Lock (E-LK) Preparation
+PILLE ISS sensors gathering and setup prior to USOS EVA
+Telemetry Cable and ДС-7А No.5 Smoke Detector Test.
+USOS EVA. EVA suit donning IV assistance review
+Crew Discretionary Event
+Microgravity Science Glovebox Power Down
+On MCC GO Telemetry Cable and ДС-7А No.5 Smoke Detector Test (mating Telemetry connector).
+Telemetry Cable and ДС-7А No.5 Smoke Detector Test.
+On MCC GO ISS repress with O2 from Progress 442 (DC1) СрПК Section 2, initiate
+Rodent Research Dissection Review
+Rodent Research 14 Dissection Conference
+BioFabrication Facility Test Cassette Removal
+Private Psychological Conference (PPC)
+СОЖ maintenance Verification of ИП-1 Flow Sensor Position
+Telescience Resource Kit Laptop Setup
+Extravehicular Activity (EVA) iPad Contingency Procedures preparation
+On MCC GO ISS repress with O2 from Progress 442 (DC1) СРПК Section 2, terminate
+AMS Procedure/video review
+Inventory Management System (IMS) Conference
+Intermodular TORU Test with Mated Progress 442 (DC1).
+Glovebox Freezer Leak Check
+ISS Experience Node 1 Setup
+Environmental Health System (EHS) – Coliform Water Sample Analysis 44 +/- 4 hours post processing
+Food Physiology Crew Diet Briefing
+Extravehicular Activity (EVA) Procedure Conference
+Extravehicular Activity (EVA) Station Support Computer (SSC) Relocate
+Rodent Research LSG Dissection Setup
+INTERACTION-2. Experiment Ops
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+VELO-1 Exercise
+Progress 442 (DC1) Stowage and IMS Ops
+
+ 
+ 

@@ -1,0 +1,79 @@
+
+Mobile Servicing System (MSS) Operations: On Saturday, Robotics Ground Controllers powered up the Mobile MSS cameras and maneuvered the Space Station Remote Manipulator System (SSRMS) to move the Special Purpose Dexterous Manipulator (SPDM) into position to install the spare Pump Module (PM) on External Stowage Platform (ESP) 2.  SPDM Arm 2 then installed the PM on ESP2 site 1 and released it.  Finally, Controllers maneuvered SPDM Arm 2 away from ESP2 and powered down the MSS. These operations completed the swap of the degraded PM and the spare PM between ESP2 and Express Logistics Carrier (ELC) 2.  This swap was done to better position the spare PM for a PM Remove & Replace (R&R) Extravehicular Activity (EVA) should one be required.
+Airlock Remote Power Controller Module (RPCM) AL2A3B_B RPC 5 Trip: On Saturday, the RPCM AL2A3B_B RPC 5 Common Cabin Air Assembly (CCAA) Temperature Control and Check Valve (TCCV) tripped followed by a Power On Reset (POR).  All powered loads on this RPCM were temporarily lost.  The upstream DC-to-DC Converter Unit (DDCU) 50 Hz data did not detect an overcurrent event. This is the common signature of a suspect RPC FET hybrid failure, as is the POR. RPC 5 was confirmed failed following an attempt to reclose the RPC.  All powered Airlock RPCM AL2A3B_B loads were recovered following the trip with the exception of RPC 5. The loss of power to the CCAA TCCV prevents the ability to command control of the temperature in the Airlock when ITCS coolant is flowing through its heat exchanger. TTCV can be actuated manually by the crew, if needed, to set the temperature in the Airlock. There are spare RPCMs available to perform an R&R.
+NRCSD (JEMAL): Wilmore extended the Japanese Experiment Module (JEM) Airlock (JEMAL) JEMAL slide table, monitored soft dock of the Multi-Purpose Experiment Platform (MPEP) to the slide table capture mechanism, retracted the slide table and powered off the remote manipulator system (RMS) monitors.
+Body Measures:  Wilmore, acting as an operator, assisted Virts in setting up equipment to collect the calibration and body pose photographs and circumference measurements in support of the Body Measures experiment.  Currently, NASA does not have sufficient in-flight anthropometric data (body measurements) to assess the impact of physical body shape and size changes on suit sizing. This study will collect anthropometric data using digital still and video imagery and a tape measure to measure segmental length, height, depth, and circumference data for all body segments (i.e., chest, waist, hip, arms, legs, etc.) of astronauts for pre, post, and in-flight conditions.
+Dose Distribution Inside the International Space Station 3D (DOSIS 3D):  Cristoforetti collected passive Detector Packs from the Columbus Module and prepared for return on 40S.  The objective of the experiment is the determination of radiation field parameters absorbed dose and dose equivalent inside the ISS with various active and passive radiation detector devices, aiming for a concise three dimensional (3D) dose distribution map of all the segments of the ISS. To achieve the three dimensional (3D) dose distribution within the ISS the Dosis 3D experiment will not only use data from their own detector systems, but also data provided by JAXA, NASA and IBMP based on their currently applied area monitoring devices.
+International Docking Adapter (IDA) Ethernet Cable Install:  Cristoforetti installed a Node 2 IDA Ethernet Cable IDA Wire Harness from the Node 2 Forward Endcone to the Node 2 Integrated Station LAN (ISL) Router. The new cable will provide unified data and ethernet connectivity for future visiting vehicles. The ISS Program plans to establish two docking ports on the US On-orbit Segment compatible with the International Docking System Standard (IDSS).  In the future, the docking adapters will be installed onto the existing Pressurized Mating Adapter (PMA)-2 and PMA3 interfaces.  Each adapter will permanently convert a passive Androgynous Peripheral Attachment System (APAS) docking interface into a passive IDSS interface.
+Crew Quarters (CQ) Cleaning: Wilmore cleaned his crew quarters in preparation for his departure on 40S later this week. Among other tasks, he cleaned/vacuumed intake and exhaust ducts, fans and airflow sensors. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+PARODONT-2. Collecting Samples / r/g 8203
+HRF – Sample Collection and Prep for Stowage
+Regeneration of БМП Ф1 Micropurification Cartridge (start)
+Photo/TV Battery Charge Initiation
+JEMAL Table Extension
+Equipment Gathering per procedure
+SpO2 connect swap and Airway Monitoring power up
+CASKAD. Manual Mixing in Bioreactor / r/g 8041
+Download Pille Dosimeter Readings / r/g 8199
+ARED Flywheel Cylinder Evacuation
+Collecting SM and FGB Air Samples Using АК-1М Sampler r/g 8198
+ Installation of International Docking Adapter (IDA) Ethernet Cable
+Handling ARED unsecured cables
+WRS tank refill for recycling system
+Airway Monitoring equipment zoomed photo
+ИПД Air Sampling for Ammonia in SM r/g 8198
+Taking measurements to test sensor performance
+Crew Departure Prep
+GLACIER4- absorbent replacement
+ТК 714 Stowage for Return / r/g 8092nu
+JEMAL – Hardware Setup
+AIRMON. Equipment power down
+LBNP Exercise (FINAL) / r/g 8206
+Installation of International Docking Adapter (IDA) Ethernet Cable in NODE2
+RGN – Initiate drain into EDV
+IDA cable set up procedure review
+JEM Airlock Slide Table Retraction from JEF side part 1
+BODYM – Equipment Setup
+JEMRMS RLT Laptop Deactivation
+RGN – Terminate drain into EDV
+Installation of International Docking Adapter (IDA) Ethernet Cable in NODE2
+PTV – Charger Battery Swap
+BODYM – Experiment Ops Measurements
+Russian Joint Research (RJR) – Collecting Surface Samples using SSK
+WRS – WRS tank refill for recycling system
+Microbial Sample Collection / r/g 8201
+Russian Joint Research (RJR) – ISS Microbial Air Samples  
+IFM – Port Crew Quarters (CQ) Cleaning
+CALCIUM. Photography and Transfer of Bioecologiya cases to ТК / r/g 8197
+ТК 714 Return Stowage / r/g 8092
+AIRMON stowage
+DOS3D – Handover of Detectors to RS
+International Docking Adapter (IDA) Ethernet Cable Installation
+Monitoring MRM2  passive docking assembly АСП  hatch sealing mechanism  (МГК) and ТПК 714 Active Docking Assembly [АСА] before undocking
+PiP – Equipment Teardown in A/L
+Terminate Photo/Video Battery Charge
+Private special conference [Aborted]
+CASKAD. Manual Mixing in Bioreactor / r/g 8041
+MO-21 prep. Ecosfera battery charge  r/g 8201
+IMS Delta File Prep
+Exercise data downlink / r/g 6797
+Regenegation of Micropurification unit (БМП) Ф1 cartridge (end) 
+
+Completed Task List Items
+
+COL ET B1 Photos [Completed Saturday]
+MOON1 camera startup/focus [Completed Saturday]
+MOON2 experiment photo 1 [Completed Saturday]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+JEMRMS maneuver ops
+Crew Quarters safing
+Battery Set 3B3 Capacity Test [In work]
+

@@ -1,0 +1,72 @@
+
+Bone Densitometer (BD) Imaging On-orbit Replacement Unit (ORU) Remove and Replace (R&R): Following a failed checkout of the BD, ground controllers determined that the Imaging Unit had failed. Cristoforetti R&R’ed the unit today in advance of Rodent Research sample collections next Monday. Ground controllers successfully calibrated the unit and are ready to proceed with Rodent Research operations on Monday.  Per experiment requirements, ground controllers will perform another calibration within 24 hours of operation.
+Binary Colloidal Alloy Test-Low Gravity Phase Kinetics Platform (BCAT-KP) Sample Initiation: Cristoforetti transferred images taken from Sample #5, reset the intervelometer, and initialized Sample #3 for a three week session run.  Following this sample, two more samples are planned before all the BCAT-KP samples are initialized and stowed for approximately 6 months while the colloids are left undisturbed to allow for continued growth.  The BCAT-KP experiment aims to help materials scientists develop new consumer products with unique properties and longer shelf lives. Colloids are mixtures of small particles distributed throughout a liquid, which include milk, detergents and liquid crystals. Gravity affects how the particles clump together and sink, making the International Space Station an ideal platform to study their fundamental behaviors.
+Cell Mechanosensing-3 Thermal Container Reconfiguration: Virts configured the Thermal Container to the Microscope in the Multi-Purpose Small Payload Rack (MSPR) for the Cell Mechanosensing-3 experiment, scheduled for delivery on SpaceX-7.  Ground controllers received off-nominal health and status from the Microscope and Thermal containers and are investigating the cause prior to proceeding with the checkout.  The investigation identifies gravity sensors in skeletal muscle cells to develop countermeasures to muscle atrophy, a key space health issue. Scientists believe that the lack of mechanical stress from gravity causes tension fluctuations in the plasma membrane of skeletal muscle cells, which changes the expression of key proteins and genes, and allows muscles to atrophy. Muscle cells from rats, and kidney cells from African clawed frogs are tagged with fluorescent gene markers, and attached to an extracellular matrix to study their performance under different tensions, simulating use on earth. 
+Node 3 (N3) Carbon Dioxide Removal Assembly Bed Remove & Replace (R&R):  Today Virts and Kelly completed CDRA reassembly and installed CDRA back into the rack.  Tomorrow the crew will complete the maintenance by reconnecting the power/data and fluid lines.   
+Acoustic Dosimeters:  Kelly retrieved 3 acoustic dosimeters that were deployed in various locations throughout the ISS. He downloaded the data for review by ground teams and stowed the dosimeters.
+Mobile Servicing System (MSS) Operations: Today, the Robotics Ground Controllers powered up the MSS and reconfigured the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) for translation.  Next they translated the Mobile Transporter (MT) from Worksite 2 (WS2) to WS4.  Finally the Robotics Ground Controllers maneuvered the SSRMS/SPDM to a park position. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+HRF Urine Sample Collection
+HRF – Sample Collection and Prep for Stowage
+HRF – Sample MELFI Insertion
+COSMOCARD. Closeout Ops. r/g 8731
+Video camera GoPro HERO3 Setup and Adjustment for Operation during ТК 715 Descent
+ABOUT GAGARIN FROM SPACE.  r/g 8744
+Acoustic Dosimeter Stow
+HRF – Sample MELFI Insertion
+SM Ventilation System Preventive Maintenance. Group В2  r/g 8393
+Measuring air flow speeds on 800А using anemometer. r/g 8669
+WRM Condensate Pumping Start
+Charging GoPro HERO3 Camcorder Battery – start
+Crew Departure Prep
+WRM Condensate Pumping Terminate
+HRF Urine Sample Collection
+HRF – Sample MELFI Insertion
+CDRA Component Replacement
+IDENTIFIKATSIYA  r/g 8732
+Crew Medical Officer (CMO) – Computer Based Training (OBT)
+Physical Fitness Evaluation (on treadmill)  r/g 8728
+Applying Ultrasound gel to Bluetooth HRM electrodes to assist in acquiring better heart rate data
+Dust Filter Changeout  r/g 8393
+BCAT-D2XS – Battery Charge Initiation
+Charging GoPro HERO3 Camcorder Battery – end
+ESA Weekly Crew Conference
+Life On The Station Photo and Video / r/g 8544
+CDRA – NODE 3 CDRA Chassis Removal
+Changeout of СРВ-К2М purification column assembly (БКО) / r/g 8751
+Stowage of Camcorder for Advanced Resistive Exercise Device (ARED) Exercise Video
+Dragon Transfer Ops
+RS Lights Audit (SM, MRM1, MRM2, DC1) / r/g 8737
+BRI Log Dump from RSS1
+HRF Urine Sample Collection
+Post-IFM CDRA Hardware Stowage
+HRF – Sample MELFI Insertion
+OTKLIK. Hardware Check / r/g 8408
+Replacement of ИК0501 Gas Analyzer СО2 Filter Units  r/g 8729
+MRLN2 – MERLIN Preparation for SpX-6 Descent
+VIBROLAB. Copy and Downlink Data / r/g 8739
+Dragon Cargo Operations Conference
+IMS Delta File Prep
+Bone Densitometer Troubleshooting Part 2
+Photography of Plume Impingement and Deposit Monitoring Unit Position on MRM2 r/g 8748
+BCAT – Transfer of images from the camera
+BCAT – Sample Initialization
+FMK Deployment Ops
+Grab Sample Container (GSC) Sampling Operations
+THERM – Container Reconfiguration 
+
+Completed Task List Items
+
+ESA PAO Event
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+MT Translation
+BCAT ops
+SSRMS maneuver to park position
+

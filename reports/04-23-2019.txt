@@ -1,0 +1,157 @@
+
+Solidification Using Baffles in Sealed Ampoules SUBSA): The crew de-installed the SUBSA hardware facility from the Microgravity Science Glovebox (MSG) work volume. The objective of the SUBSA investigation is to advance understanding of the processes involved in semiconductor crystal growth. It offers a gradient freeze furnace for materials science investigations that can reach 850°C. Samples are contained in transparent quartz or ceramic ampoules with high definition video imaging available in real-time along with remote commanding of thermal control parameters.
+Fluid Shifts: The crew performed blood and Urine collections in support of the Fluid Shifts study. The purpose of this study is to characterize fluid distribution and compartmentalization associated with long-duration space flight, and to correlate these findings with vision changes and other elements of the SANS syndrome.
+Rodent Research-12 (RR-12): The crew performed a water and lighting check on the Rodent Habitat facilities. Rodent Research-12, Tetanus Antibody Response by B cells in Space (TARBIS), examines the effects of spaceflight on the function of antibody production and immune memory. Spaceflight is known to have a dramatic influence on immune response, but there is little research on its effect following an actual challenge to the body’s immune system. Using a mouse model makes this possible, as the mouse immune system closely parallels that of humans.
+Glacier (General Laboratory Active Cryogenic ISS Experiment Refrigerator): The crew installed the Basic Express Rack Glacier-5 (unpowered) into a Lab module Express Rack. Once installed the crew removed the tray and the left vertical support. GLACIER provides a double middeck-locker-size freezer/refrigerator for a variety of experiments that require temperatures ranging from +4 °C (39 °F) and -160 °C (-301 °F). The GLACIER is compatible with the EXpedite the PRocessing of Experiments to Space Station (EXPRESS) rack.
+EPO AstroPi: The crew relocated the AstroPi hardware from Node 2 to the Columbus module. In the European AstroPi Challenge, students and young people are offered the amazing opportunity to conduct scientific investigations in space by writing computer programs that run on Astro Pi’s – special Raspberry Pi computers aboard the ISS.  Students can choose either ‘Life in Space’ or ‘Life on Earth’ as themes for their experiments.
+Space Fibers: The crew installed the Space Fibers experiment hardware into the Microgravity Science Glovebox (MSG) work volume. Manufacturing Fiber Optic Cable in Microgravity (Space Fibers) evaluates a method for producing fiber optic cable from a blend of zirconium, barium, lanthanum, sodium and aluminum, called ZBLAN, in space. ZBLAN produces glass one hundred times more transparent than silica-based glass, exceptional for fiber optics. Microgravity suppresses two mechanisms that commonly degrade fiber, and previous studies showed improved properties in fiber drawn in microgravity compared to that fabricated on the ground.
+Cryo Chiller: The crew installed the Cryo Chiller facility into JEM Express rack J1 and installed an empty sample cartridge into the volume. Cryo Chiller is a single Expedite the Processing of Experiments to Space Station (EXPRESS) locker replacement unit which provides rapid freezing capability in support of biological sciences, as well as temperature-controlled transfer to/from the International Space Station (ISS) on visiting vehicles.
+Mutation, Selection and Population Dynamics (MVP Cell-02): The crew installed the MVP-2 platform onto Express Rack 4 and historical took photos. The Experimental Evolution of Bacillus subtilis Populations in Space: MVP-02 investigation seeks to understand how organisms adapt to the space environment, an important component of future space exploration. Microbes may play fundamental roles in the development of biologically-based closed-loop regenerative life support, in-situ resource utilization, and will have extensive interactions with human and plant hosts. Further, microbes may pose challenges through virulence and contamination, and as nuisance factors such as biofilms in water supply and ventilation systems.
+Materials ISS Experiment Flight Facility (MISSE-FF): Today a crewmember installed three new MSCs onto the Materials ISS Experiment (MISSE) Transfer Tray (MTT) in the JEM airlock. These MSCs will be robotically moved to the MISSE-FF facility. The primary Materials ISS Experiment Flight Facility (MISSE-FF) platform provides the ability to test materials, coatings, and components or other larger experiments in the harsh environment of space, which is virtually impossible to do collectively on Earth. Testing in low-Earth orbit (LEO) allows the integrated testing of how materials react to exposure to ultraviolet radiation (UV), atomic oxygen (AO), ionizing radiation, ultrahigh vacuum (UHV), charged particles, thermal cycles, electromagnetic radiation, and micro-meteoroids in the LEO environment. 
+Treadmill 2 (T2) Remove & Replace (R&R): Yesterday, T2 experienced an anomaly during crew exercise. After reviewing all available data, ground experts determined that this T2 had reached its end of life and an R&R, using an on-orbit spare, was required. After ingressing the Bigelow Expandable Activity Module (BEAM) module, where the spare T2 treadmill was stowed, the crew completed the R&R and a subsequent Activation and Checkout (ACO). Since the new T2 treadmill has been stowed for several years, specialists are currently reviewing the data from the ACO to ensure full functionality and capture a data baseline for future maintenance activities.
+Northrop Grumman 11 (NG-11) Cygnus Cargo Operations: The crew continued with NG-11 cargo ops today, having completed approximately 23 hours of cargo operations since berthing on Friday.  Ground teams estimate ~14 hours of cargo operations remain to completely unload the vehicle of the newly arrived equipment and science.
+Dragon Onboard Training (OBT) and Crew Conference: The crew reviewed Dragon Robotics procedures and participated in a conference with ground specialists to cover the OBT plan in preparation for SpaceX-17 Dragon arrival. Using computer based training, the crew reviewed the Dragon mission profile, rendezvous crew procedures, and the crew interfaces for monitoring and commanding Dragon. Dragon launch is currently scheduled for April 30 with capture and berthing on May 2.
+Mobile Servicing System (MSS) Operations: Today Robotics Ground Controllers powered up the MSS and translated the Mobile Transporter (MT) from Work Site (WS)3 to WS6.  Once complete, they configured the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) to release the Cygnus vehicle in preparation for tonight’s walkoff to the start position for MISSE robotics operations later this week.
+Completed Task List Activities:
+
+NORS N2 tank install
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+MT Translate and SSRMS Walk-Off
+Battery Capacity Test – 2A1 and 2A2
+JEMAL Depress and Vent Support
+
+Look Ahead:
+Wednesday, 04/24 (GMT 114): 
+Payloads:
+
+ASTROPI Transfer to COL module (ESA)
+KUBIK 5&6 setup (ESA)
+ICE CUBES Cube install and remove (ESA)
+Z-Book Hard drive Update (NASA)
+Actiwatch-Plus Chk (NASA)
+STPH5-ICE photo (NASA)
+Fluid Shifts Blood, urine and saliva collect (NASA)
+Space Fiber sample exchange (NASA)
+NeuroMapping (NASA)
+Team Task Switching (NASA)
+Food Acceptability (NASA)
+ISS HAM (NASA)
+
+Systems:
+
+NG-11 Cargo Transfer
+Dragon Rendezvous Review OBT
+Dragon ROBoT OBT
+IFM N2 Filter R&R
+IFM WHC Pre-Treat Tank R&R
+MT Translation 
+
+Thursday, 04/25 (GMT 115): 
+Payloads:
+
+ASTROBEE Docking station activation (ESA)
+ISS Experience Node3 setup (NASA)
+Team Task Survey (NASA)
+PONDS Historical Photo and work area prep (NASA)
+Fluid Shifts ops (NASA)
+Space Fiber hardware stow (NASA)
+Veggie Display OBT (NASA)
+
+Systems:
+
+NG-11 Cargo Transfer
+ROBoT Session for Dragon
+THC IMV Flow Measurement Survey
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Fluid Shifts Saliva Baseline Collection
+Fluid Shifts MELFI Insertion Operations
+Fluid Shifts Urine Collection
+Fluid Shifts MELFI Insertion Operations
+Fluid Shifts HRF Centrifuge Frozen Blood Baseline Collection Subject
+Fluid Shifts HRF Centrifuge Frozen Blood Collection Operator
+Fluid Shifts Galley Water Collection And Tracer Ingestion Operations
+Fluid Shifts HRF Centrifuge Blood Collection Configuration
+Fluid Shifts USOS Operations Historical Documentation Photography
+Fluid Shifts HRF Centrifuge Blood Collection Spin Conclude
+ARED Platform Partial Fold
+Fluid Shifts MELFI Insertion
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Unstow
+Bigelow Expandable Activity Module (BEAM) Ingress
+COSMOCARD. Closeout Ops
+RYASKA. Photography of plant cultivation chambers
+Glacier Basic EXPRESS Rack Install (No Water Lines)
+Materials ISS Experiment (MISSE) MSC Hardware Gather
+CARDIOVECTOR. Experiment Session
+Bigelow Expandable Activity Module (BEAM) Corridor Clear
+Progress 441 (DC1) Priority Transfers and IMS Ops
+MISSE-FF MSC Installation for JEM RMS Small Fine Arm Deployment
+ISS HAM Service Module Pass
+BEAM Treadmill Gather
+ARED Platform Unfold Back to Nominal Position
+Solidification Using Baffles in Sealed Ampoules Hardware Stow
+Fluid Shifts Urine Collection Mid
+CARDIOVECTOR. Experiment Session
+Fluid Shifts MELFI Retrieval And Insertion Operations
+Fluid Shifts HRF Centrifuge Frozen Blood 3-Hour Collection Subject
+Fluid Shifts HRF Centrifuge Frozen Blood Collection Operator
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Fluid Shifts HRF Centrifuge Blood Collection Configuration
+Fluid Shifts Saliva 3-Hour Collection
+Fluid Shifts MELFI Retrieval And Insertion Operations
+Materials ISS Experiment (MISSE) MTT Install
+Fluid Shifts HRF Centrifuge Blood Collection Spin Conclude
+Fluid Shifts MELFI Retrieval And Insertion Operations
+Glacier Tray Insert
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Study of cardiovascular system under graded physical CYCLE load
+Study of cardiovascular system under graded physical load on VELO, Operator
+JEM Airlock Depressurization
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Waste Water Bag (WWB) Changeout
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Food Acceptability Questionnaire
+Fluid Shifts Saliva 5-Hour Collection Alternate
+Wide-Band Communication System (ШСС) Hardware Health Check
+Verification of ИП-1 Flow Sensor Position
+Fluid Shifts MELFI Retrieval And Insertion Operations
+Fluid Shifts Urine Collection [Aborted]
+Fluid Shifts MELFI Retrieval And Insertion Operations
+Food Acceptability Questionnaire
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+T2 Treadmill Replacement
+Separation Unit R&R
+On MCC Go Replacing ИДЭ-3 Smoke Detectors in DC1 with ИДЭ-4
+Cryo Chiller Hardware Installation into EXPRESS Rack
+JEM Airlock Vent
+Cryo Chiller Sample Cartridge Installation
+JEM Airlock Vent Confirmation
+Multi-use Variable-g Platform 2 Hardware Install
+Countermeasures System (CMS) Treadmill 2 (T2) Unmanned Activation and Checkout (ACO) Setup
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+MVP Historical Photo
+Space Fibers Hardware Gather
+Countermeasures System (CMS) Treadmill 2 (T2) Unmanned Activation and Checkout (ACO) [In work]
+Space Fibers Hardware Set Up in MSG Work Volume
+Transfer Cygnus Cargo Operations
+Countermeasures System (CMS) Treadmill 2 (T2) Unmanned Activation and Checkout (ACO) Video Stow [In work]
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+ARED Platform Partial Fold
+Rodent Research Water Box and Light Check
+BEAM Treadmill Stow
+Bigelow Expandable Activity Module (BEAM) Corridor Stow
+On-Board Training (OBT) Dragon OBT Conference
+INTERACTION-2. Experiment Ops
+On-board Training (OBT) Dragon Robotics Review
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+BEAM Cleanup and Egress
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Stow
+ARED Platform Unfold Back to Nominal Position
+
+ 

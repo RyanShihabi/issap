@@ -1,0 +1,100 @@
+
+Autonomous Mission Operations (AMO) Run 2: Following the successful completion of the first AMO experiment run last week, today the crew executed the second of three crew initiated experiment runs by using onboard AMO software to complete the autonomous deactivation and activation of an EXPRESS Rack (ER) 7 at Lab P2.  The AMO investigation tests advanced software and operational concepts to determine how crew members on the ISS can automate spacecraft systems with less involvement from the ground support staff.
+ 
+Multi-Omics: The crew collected saliva samples and inserted them into a Box Module in Minus Eighty-degree Freezer for ISS (MELFI). The Multi-Omics analysis of human microbial-metabolic cross-talk in the space ecosystem evaluates the impacts of space environment and prebiotics on astronauts’ immune function by combining the data obtained from the measurements of changes in the gut microbiological composition, metabolites profiles, and the immune system.
+ 
+Columbus Endcone Space Acceleration Measurement System (SAMS) Sensor Removal and Relocation:  The crew removed the SAMS Sensor Enclosure (SE) and the SAMS Adapter from Columbus Starboard Endcone and re-routed the SAMS cable from ER 3 to the European Physiology Module (EPM). SAMS is an ongoing study of the small forces (vibrations and accelerations) on the ISS resulting from the operation of hardware, crew activities, docking and maneuvering. Results generalize the types of vibrations affecting vibration-sensitive experiments. Investigators seek to better understand the vibration environment on the ISS.
+ 
+Bigelow Expandable Aerospace Module (BEAM) Sensor Installation:  The Crew successfully completed Day 1 of BEAM sensor suite installation (impact and temperature sensors) as well as a tap test and photo documentation of the sensor and cable configuration.  Sensor installation will continue tomorrow.
+ 
+Urine Processor Assembly (UPA): The UPA was shut down today due to erratic conductivity of the urine distillate. High conductivity levels caused the UPA to reprocess for an extended period of time as the Wastewater Storage Assembly Tank (WSTA) was approaching full.  The process run was terminated and the Waste and Hygiene Compartment (WHC) has been configured to internal EDV.  To expedite continued use of the UPA, the current concentration cycle will be ended early and both the Advanced Recycle Filter Tank Assembly (ARFTA) and the WSTA contents will be drained.  WHC will then be configured back to UPA to attempt a clean process cycle.
+ 
+Mobile Servicing System (MSS) Operations: Overnight, Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) Arm 2 for rotating the Enhanced On-Orbit Replaceable Unit (ORU) / Tool Platform (EOTP) to its nominal stow position to stow the SPDM on Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2). Before grasping the EOTP drive fixture, checkouts of the Orbit Replaceable Unit (ORU) Tool Changeout Mechanism 2 (OTCM2) mechanisms (gripper, advancer, umbilical, torquer) were performed to assess potential impacts of the high loads event on Friday when trying to extract the P12B-A Remote Power Control Module (RPCM). Each mechanism passed the test and data is being reviewed by engineering teams.
+ 
+Japanese Experiment Module (JEM) Stowage Frame Installation Part 3: The crew continued assembly and installation of the JEM Stowage Frame.  Once fully installed, the frame will increase JEM stowage capability by 12 Cargo Transfer Bag Equivalents (CTBE).
+ 
+On-Board Training (OBT) Cygnus Departure: In preparation for OA-6 unberth and release planned for next Tuesday, June 14, the crew reviewed required departure steps.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+MO- saliva sampling
+MO- placement of samples into МELFI
+MO- equipment stow
+MO- questionnaire fill out
+On MCC GO БМП Ф2 absorption cartridge regeneration (start)
+KORREKTSIA. Registration of food, liquids (medicaments) acceptance  r/g 2448
+Daily planning conference (S-band)
+Acoustic Dosimeters Setup – Day  1
+Synchronize RS photo cameras with on-board time / r/g 1594
+Fold ARED
+JEMAL – depress
+BEAM – remove hatch cover and ingress
+Air sampling with АК-1М sampler during ingress into BEAM module  r/g 2442
+T2 – monthly inspection
+JAXA – install frame for cargo stowage
+BEAM – install handrails in the module
+Recharge Samsung tablet in Soyuz ТК №719 – start
+BIOCARD. Experiment ops r/g 1907
+BIOCARD. Experimetn assist / r/g 1907
+BEAM – install sensors and internal cables – part A
+Preparation of items to be returned and disposed of in Soyuz ТК №719 r/g 2374, 2446
+On MCC GO ISS oxygen repress from the 1st section of СрПК Progress
+Recharge Samsung tablets in Soyuz ТК №720 – start
+JAXA – install stop for cargo stowage frame
+SOZh maintenance
+On MCC GO ISS oxygen repress from the 1st section of СрПК Progress
+WHC – replace urine receptacle and filter-insert
+Recharge Samsung tablet in Soyuz ТК №719 – term
+Photo and video imagery of life at the ISS / r/g 2000
+JEMAL – check completion of depress
+Preventive maintenance program (CMS) – T2 treadmill
+BEAM – install sensors and internal cables – part В
+Recharge Samsung tablets in Soyuz ТК №720 – term
+IDENTIFIKATSIA. Copy ИМУ-Ц measurement results to a laptop r/g 1589
+JEMAL – confirm end of ventilation in JEM
+WRS – water fill from EDV for processing
+COL-SSD- read instruction
+Closeout ops and egress BEAM, close Node 3 Aft hatch
+Tighten QD bolts between DC1 and Progress ТКГ №431
+KORREKTSIA. Registration of food, liquids (medicaments) acceptance r/g 2448
+AMO2 – deactivate ER7
+Put ARED into working position
+Stowage operations prior to undock of Soyuz ТК №719 r/g 2374, 2446
+AMO2 – status check
+Old data removal from RSE-Med laptop/ r/g 2463
+WRS water sample analysis
+Tighten QD bolts between SM aggregate compartment АО and Progress и ТКГ №432
+ASTROPI. Preparation for connection to ISS LAN
+Dust filter cartridge R&R in SM
+COL – relocate cargo from the kit to a vacant place
+COL. Retrieve and reposition the sensor
+URAGAN. Observation and imagery with НА ВСС equipment / r/g 2462
+Relocate cargo into COL-STBD_ENDCONE AFT-DECK zone
+VIZIR. Experiment run with СКПФУ equipment r/g 2461
+AMO2 – activate ER7
+INTERACTION-2. Experiment run / r/g 2460
+TOCA – data entry
+WRS – water fill from EDV for processing [Deferred]
+TOCA – WWB replacement
+Preventive maintenance program-sprint exercises-at crew convenience
+AMO2 – status check
+OBT – Cygnus undock procedure review
+IMS update
+HRF- equipment install
+On MCC GO БМП Ф2 absorption cartridge regeneration (term)
+KORREKTSIA. Registration of food, liquids (medicaments) acceptance r/g 2448
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+BEAM operations
+Nominal ground commanding
+
+ 

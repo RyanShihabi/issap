@@ -1,0 +1,62 @@
+
+SpaceX-3 Dragon Cargo Packing:  ISS CDR Swanson & FE-1 Skvortsov completed several cargo transfer activities today, including the transfer of all powered payloads for return.  Dragon is now loaded with two Glaciers, one Commercial Generic Bioprocessing Apparatus (CGBA), and a Biotube Micro (unpowered) in the powered middeck locker locations.  Final transfer of the center stack return items and double cold bags will occur tomorrow.  SpaceX is continuing to plan for unberth and splashdown on Sunday, May 18th.  The latest forecasts are projecting a marginal sea state for splashdown and recovery, and ground specialists are continuing to monitor.  
+Glacier Swap: While Swanson and Skvortsov were swapping Glacier 2 and Glacier 4 between the ISS Laboratory (LAB) and the Dragon vehicle, a small water leak resulted from difficulty connecting Glacier 2 to the LAB cooling line.  The crew cleaned the water up and connected the cooling line and power cables.  Shortly after power-up, the Glacier power tripped off.  The crew disconnected the power cables and found additional water.  Following cleanup, the power cables were re-connected and Glacier 2 was repowered with no issues.  The thermal clock was not violated during these activities.
+Space Station Remote Manipulator System (SSRMS):  Yesterday, ground controllers walked off the SSRMS to Mobile Base system (MBS) Power Data Grapple Fixture (PDGF) #1 and captured the Lab PDGF.  Today, they walked off the SSRMS from the Lab PDGF to the Node 2 PDGF, then grappled Dragon in preparation for unberth and release operations on Sunday. 
+Today’s Planned Tasks
+
+SM ПСС (Caution & Warning Panel) Test [Complete]
+Laptop RS1(2) Reboot [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+Daily Planning Conference (S-band) [Complete]
+ISS crew and ГОГУ weekly conference (S-band) / r/g 5636 [Complete]
+HDPCG – Closeout Ops [Complete]
+MSPR ELT – copy and downlink data [Complete]
+SPACE PUP – Data Gathering [Complete]
+SPACE PUP – Data Transfer [Complete]
+Replacement of RSK2 Laptop Shell. Tagup with specialists / r/g 5656 [Complete]
+SPACE PUP – Sample Retrieval from MELFI [Complete]
+SPACE PUP – Sample Stowage [Complete]
+VACCINE-21 – Transfer of Express Rack to Dragon [Complete]
+Food Frequency Questionnaire [Complete]
+Test 1 of PCE, PCE antenna feeder (АФУ), ATV control panel commands. [Complete]
+Photography of ВБ-3М harness attached to the operator and the seat / r/g 5655 [Complete]
+MSPR ELT – Software Setup [Complete]
+JRNL – Journal entry [Complete]
+СРВ-К2М Line 3 Functional Check / r/g 5657 [Complete]
+Preparing Laptop RSK2 Keyboard / r/g 5656 [Complete]
+DRAGON Transfer Ops [Complete]
+SLM data collection [Complete]
+SLM data transfer GLACIER2/4 – Transfer to Dragon  [Complete]
+GLACIER2 – Replacement in Dragon [Complete]
+СОЖ Maintenance [Complete]
+GLACIER – Photo and video [Complete]
+MSPR ELT – Closeout Ops [Complete]
+MICRO7 – Hardware Deactivation and Transfer to Dragon [Complete]
+VEG – Daily Plant Check [Complete]
+Daily Planning Conference (S-band) [Complete]
+
+Task List
+
+ARED Cylinder Evac
+IMS Audit
+No Skid Tap Audit
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Ekon Photo
+CTB 1048 Relocate
+Dragon Temp Logger Find [In work]
+MOOT restow
+NOD1OS2-LHA R&R
+NOD1PD2-LHA R&R
+KTO EDV Audit
+NOD3 PEPS assessment
+P/TV Hardware questions
+
+Ground
+
+Nominal commanding
+SSRMS walkoff from MBS PDGF1 to Lab [Complete]
+SSRMS walkoff from Lab to Node 2 [Complete]
+SSRMS Dragon Grapple [Complete] 
+

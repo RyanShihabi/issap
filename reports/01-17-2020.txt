@@ -1,0 +1,141 @@
+
+Acoustic Diagnostics: The crew set up the appropriate hardware, performed the audio measurements, and used the EveryWear application to answer the questionnaires.  The investigation tests the hearing of ISS crew members before, during, and after flight. This study assesses the possible adverse effects of noise and the microgravity environment aboard the ISS on human hearing. The investigation compares the relationship between the detection of otoacoustic emissions, sounds naturally generated from within the inner ear, and hearing loss levels when exposed to noisy environments.
+Bionutrients: The crew hydrated, agitated (mixed), and started the incubation of the BioNutrients-1 Production Packs.  The experiment uses engineered microbes, like yeast, to generate carotenoids from an edible media.   The carotenoids can be used to supplement potential vitamin losses from food that is stored for very long periods. The experiment includes specially designed storage/growth packets which are intermittently activated by astronauts over a 5-year period, then frozen and returned to Earth for examination.
+CIR/ACME (Combustion Integration Rack/Advanced Combustion via Microgravity Experiments): In support of the continuing s-Fames investigation, the crew replaced a used 3.8L Nitrogen/Oxygen manifold bottle with a new one.  They also replaced the 1.0L hydrogen/methane manifold fuel bottle with a 100% hydrogen fuel bottle.  The purpose of s-Flame is to advance our ability to predict the structure and dynamics, including extinction and instabilities, of both soot-free and sooty flames. The results may contribute to the development of lean-burn engines for improved efficiency and reduced pollutant emissions here on Earth.  S-Flame is one of five experiments hosted by CIR/ACME, which is designed to study gaseous flames.
+Confined Combustion: The crew installed the samples and baffles per direction from the ground team, set the airflow and radiometer gain parameters, and ignited the samples.  The baffles are used to change the airflow path and alter the radiated heat environment around the flame.  This project aims to study flame spread in confined spaces—specifically the interactions between spreading flames and surrounding walls. Flame spread in confined spaces (such as buildings and vehicles) may pose a more serious fire hazard than flame spread in open spaces because of acceleration caused by radiative heat feedback from the surrounding walls and a tunnel flow acceleration effect. However, several aspects of flame spread are difficult to study in normal gravity conditions. Gravity-driven buoyancy flow complicates the fire growth process and prohibits a fundamental understanding of the underlying physics. However, in microgravity, buoyancy is eliminated, allowing scientists to better study the physics of flame spread. 
+JWRS (JAXA Water Recovery system) bubble removal: The crew performed the bubble removal activities for the urine simulant bag and the ground is currently performing ground commanded checkouts.  The JWRS demonstration will generate potable water from urine using some different, and possibly more efficient, technologies than the water reclamation currently in use on the ISS.  In the past on manned spacecraft, urine and waste water were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Veggie-1 R&R: In order to return to a nominal configuration, the crew replaced a cabin fan and torn bellows in the Veggie1 plant growth facility.  The Vegetable Production System (Veggie) is a deployable plant growth unit capable of producing salad-type crops to provide the crew with a palatable, nutritious, and safe source of fresh food and a tool to support relaxation and recreation. The Veggie provides lighting and nutrient delivery and utilizes the cabin environment for temperature control and as a source of carbon dioxide to promote growth.
+Systems:
+P6 Battery Extravehicular Activity (EVA) Preparation:  Today, the crew completed multiple road-to-EVA activities for the P6 Battery 4B EVA #2.  Their activities included EVA procedure reviews, robotics tasks familiarization, and Extravehicular Activity Mobility Unit (EMU) battery charging and Metox Regeneration operations.  The crew also performed water recharges on EMUs 3004 and 3008; the recharges ensure there is a full supply of fresh cooling water to each EMU suit.  Additionally, the crew gathered and prepared the EVA tools needed for the final P6 4B Battery R&R’s and potential get-ahead tasks.  The P6 4B Channel Battery EVA #2 is currently planned for Monday, January 20.
+Completed Task List Activities:
+
+No items were completed off the task list
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+SSRMS P6 Battery EVA Support
+
+Friday, 1/17 (GMT 017)
+Payloads:
+
+Acoustic Diagnostics
+Bionutrients
+CIR/AMCE manifold bottle replacement
+Confined Combustion
+Food Acceptability
+JWRS bubble removal
+GLACIER2 desiccant swap
+HERMES vacuum valve
+Standard Measures
+Veggie-1 h/w R&R
+
+Systems:
+
+Rechargeable EVA Battery Assembly Installation
+EVA Tool Configuration
+EVA Procedures Review and Conference
+Camera Battery Charge Initiation and Swap
+EVA LLB Ops Init/Term
+METOX Removal/Install
+BSA and METOX Term
+EMU Water Recharge
+EHS TOCA Buffer Container Change Out
+COL PWS2 T61P Software Loads, Activation, and C/O (Cycle 15)
+
+Saturday, 1/18 (GMT 018)
+Payloads:
+
+Payload NAS clean
+
+Systems:
+
+Crew Off-Duty
+
+Sunday, 1/19 (GMT 019)
+Payloads:
+
+Bionutrients
+Confined Combustion
+LIDAL
+
+Systems:
+
+EVA Procedure Review
+EVA Procedure Conference
+EVA Tool Configuration
+EVA Tool Audit
+EVA Equipment Lock Prep Part 2
+Crew Departure Prep
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Reminder Probiotics Intake
+Reminder Standard Measures Cognition Testing
+Extravehicular Activitiy (EVA) Suit Intravehicular (IV) Review
+Preparation of reports for Roscosmos website and social media
+ECON-M. Observation and Photography
+Reminder Probiotics Fecal Operations
+Reminder Acoustic Diagnostics
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB)/Metal Oxide (METOX) Removal
+Photo TV Battery Charge Initiation
+Acoustic Monitor Setup for Crew Worn Measurements
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate
+Rechargeable EVA Battery Assembly (REBA) Installation
+Extravehicular Activity (EVA) Procedure Review
+BioNutrients-1 OBT Review
+URAGAN. Test Activation of SOVA hardware. Tagup with specialists
+ASEPTIC. Photography of media culture in Poverkhnost 18.4, 18.5 and Vozdukh 18.3 devices. Copying data.
+BioNutrients Maintenance Work Area Preparation
+Acoustic Diagnostics Instruments Set-Up
+ASEPTIC. Activation of Glovebox. Setup of Poverkhnost 18.4-18.5 and Vozdukh 18.3 devices. Start Glovebox-S cleaning mode.
+BioNutrients-1 Preparation snd Incubation
+ASEPTIC. Photo Edit and Downlink
+Acoustic Diagnostics Operations – Calibration and Measurement
+Acoustic Diagnostics Data Copy
+Soyuz 746 Kazbek Fit Check
+Charging of EVA Camera D4 Battery
+Standard Measures Cognition Testing HRF PC1
+ASEPTIC. Gloves and Equipment Reconfig in the Glovebox
+Checking the cable routing of the БД-2 treadmill strain gauge system
+Columbus Video Camera Assembly 2 Adjustment
+Extravehicular Mobility Unit (EMU) Water Recharge
+JEM Water Recovery System (JWRS) Bubble Removal
+Acoustic Diagnostics Instrument Deinstallation and Stowage
+ASEPTIC. Sterilization Deactivation. Glovebox-S Poverkhnost 18.4 – 18.5 surface sampling and starting air sampling in Vozdukh 18.3.
+Combustion Integrated Rack (CIR) Manifold 2 Bottle Replacement
+Environmental Health System (EHS) – Rad Detector Rotate
+ISS HAM Radio Power Up
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Acoustic Diagnostics EveryWear Questionnaire
+Monthly health check of RS video recording equipment.
+PWS2 T61P Software Load Part 2 of 2
+Combustion Integrated Rack (CIR) Manifold 4 Bottle Replacement
+Portable Workstation 2 Activation
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+Glacier Desiccant Swap
+Portable Workstation 2 Telecommand and Telemetry Checkout
+VEGGIE1 Remove and Replace Cabin Fan and Bellows
+Acoustic Monitor Data Transfer
+ASEPTIC. Glovebox power-off. Sample Insertion for incubation in the thermostat at +37 deg C.
+Photo TV Battery Charge Swap
+Extravehicular Activity (EVA) Procedure Conference
+ASEPTIC. Dismantling Glovebox-S Hardware. Tagup with specialists as necessary
+ВЗАИМОДЕЙСТВИЕ-2. Выполнение эксперимента
+BioNutrients-1 Incubation Agitation
+Extravehicular Activity (EVA) Tool Configuring
+Stereo macro-photography of window No.1 cavity – Equipment setup, work station setup and still camera settings adjustment
+Confined Combustion Test Operations
+Stereo macro-photography of window No.1 cavity
+Battery Stowage Assembly (BSA) Operation Termination
+Metal Oxide (METOX) Regeneration Termination
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB)/Metal Oxide (METOX) Installation
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Buffer Container (BC) Changeout
+Hermes Vacuum Valve Close
+
+ 

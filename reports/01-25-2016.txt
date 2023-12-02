@@ -1,0 +1,74 @@
+
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Zero Robotics Competition:  Kelly and Kornienko set up the SPHERES hardware and executed the SPHERES Zero Robotics tests with participation from students on the ground. The SPHERES Zero Robotics investigation establishes an opportunity for high school students to design research for the ISS. As part of a competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS.
+ 
+Combustion Integration Rack (CIR) Switch Reconfiguration:  Peake reconfigured the CIR to prepare for the resumption of FLame Extinguishment Experiment (FLEX)-2 which is scheduled to begin in early February.  He used the EXPRESS Laptop Computer (ELC) to reconfigure the Fluids and Combustion Facility (FCF) Input/Output (I/O) Processor Ethernet switch to increase the data transfer rate in CIR.  FLEX-2 studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning.  The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+ 
+Electrostatic Levitation Furnace (ELF) Setup Troubleshooting:  On Friday, Kelly was only able to connect one of two Quick Disconnects (QDs) to mate the Moderate Temperature Loop (MTL) supply and return lines due to inadequate accessibility. Today Peake performed steps to increase the accessibility but was unable to provide enough additional room for crewmembers to connect the remaining QD.   The JAXA ground team is evaluating today’s results.  The ELF is an experimental facility designed to levitate, melt and solidify materials employing containerless processing techniques that use the electrostatic levitation method with charged samples and electrodes. With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+ 
+Urine Processor Assembly (UPA) Fill Drain Valve Modification Kit Installation:  Kopra replaced the existing Water Recovery System (WRS)-2 Access Panels with new modified panels that will allow the Recycle Tank to be filled and drained in place.
+ 
+Orbital ATK (OA)-4 Cargo Operations:  Peake and Kopra continued transferring Cygnus cargo to ISS today.  There are approximately 26 hours of Cygnus cargo ops remaining to be completed.
+ 
+Cygnus Cabin Fan Anomaly:  Overnight, the Cygnus cabin fan performance degraded significantly and was subsequently powered off.  Delta pressure (DP) had been slowly decreasing through the OA-4 berthed duration and initial trending was predicting that the DP would remain within operational limits through a February 19 departure.  However, in recent days the downward DP trend has increased more rapidly.  Portable fans are available for the crew to use in order to ingress Cygnus in support of today’s cargo operations.  Ground teams are looking into possible troubleshooting plans.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+RSS1,2 Reboot
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start)
+CIR – Familiarization with Experiment Plan
+Activation and Inspection of Orlan suits No. 4, No. 6
+Urine Processor Assembly (UPA) – Gathering assembly equipment from the kit for the drain valve
+SPHERES – Crew Conference
+Cygnus Cargo Operations
+SPHERES – Hardware Setup and Checkout
+Urine Processor Assembly (UPA) – Installation of equipment from the kit for the drain valve
+DAN. Experiment Ops
+WRS Sample Collection
+Проверка БСС в СО1
+RS still cameras date and time synchronization to the station time
+SAMS Adapter Setup in Columbus Procedure Review
+ПхО БСС checkout.
+SPHERES Greeting Students
+SPHERES Camera Setup and Test Ops
+Exercise Data Downlink via OCA
+Scrubbing water system by using БОС in ПхО
+Urine Processor Assembly (UPA) – Equipment Stowage
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup
+RGN – Initiate drain into EDV
+Multi purpose Small Payload Rack 2 (MSPR2) Electrostatic Levitation Furnace (ELF) QD Troubleshoot
+SPHERES Hardware power off, battery replacement, and stowage
+Ops with Orlan ORU
+24-hour ECG Monitoring (start)
+RGN – Terminate water drain into EDV
+Water Processing using MCD
+24-hour BP monitoring (start)
+Columbus GFI Test Preparation
+GFI test of all twelve COLUMBUS SUPs 120V DC power outlets
+TOCA Potable Water Dispenser (PWD) Sample Analysis
+CIR ELC Install
+Install battery packs on Orlan No.4 and No.6 Telemetry Unit (БРТА)
+Cygnus Cargo Operations Conference
+HABIT – Adjusting camcorder and conducting conference
+Preparing for replacement of microintegrators МИРТ-3 (А507, А607, А707). Gather new МИРТ-3 S/N 10395332 (008746R, ФГБ1ПГО_4_420_1), 10343135 (00043325R, ФГБ1ПГО_4_418_1), 10343136 (00056396R, ФГБ1ПГО_2_219_1)
+БК-3М Oxygen bottle pressure check in DC1
+БК-3М oxygen bottle pressure check in ПхО
+Columbus GFI Test Post Reconfiguration
+CIR – Switching Device Reconfiguration
+IMS Delta File Prep Journals Nominal Entry Subject
+CIR ELC Install
+TOCA Data Recording
+ER4 – Laptop network interface config
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+
+ 

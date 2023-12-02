@@ -1,0 +1,78 @@
+
+Japanese Experiment Module Airlock (JEM A/L) Depress: The crew has depressurized the JEM A/L and vented the remaining air in preparation for the deployment of Satlet Initial Mission Proofs and Lessons (SIMPL) early Friday morning.
+Personal Carbon Dioxide (CO2) Monitor Installations: After reviewing reference material, the crew completed software and hardware installation activities by configuring the iPad applications, recalibrating 3 Personal CO2 Monitors and installing them near the Major Constituent Analyzer (MCA) intake located in the LAB. The sensors were synced with the 3 iPads, which will remain near the monitors. The Personal CO2 Monitor demonstrates a system capable of unobtrusively collecting and downlinking individual crew members’ CO2 exposure for weeks to months. This investigation evaluates wearability principles in microgravity and also demonstrates the Modular Wearable Architecture Base Board, allowing rapid certification of future wearable devices. 
+Fluidics:  The crew began the first of a two day Fluidics experiment run. Today’s operations included the hardware installation in the Columbus module and the start of the first science run. Fluidics will remain deployed tonight but it will be powered off.  Fluidics is a fluid mechanics experiment with two main objectives: a Slosh Study to investigate fluid behavior under microgravity during satellite maneuvers, and a Wave Turbulence Study to investigate the impact of capillary effect on wave turbulence without being masked by the effect of gravity. Two tanks with different filling rations (50% and 75%) for Slosh and one tank with water for Wave Turbulence will be used. 
+Plant Habitat Overview and Hardware Gather: The crew reviewed Plant Habitat assembly reference material and gathered hardware to support upcoming facility installation activities. The Advanced Plant Habitat Facility (Plant Habitat) is a fully automated facility that will be used to conduct plant bioscience research on the International Space Station (ISS). It occupies the lower half of the EXpedite the PRocessing of Experiments to Space Station (EXPRESS) rack and two International Subrack Interface Standard (ISIS) drawers, providing a large, enclosed, environmentally controlled chamber. 
+Astronaut’s Energy Requirements for Long-Term Space Flight (Energy): Today the subject performed Day 3 activities of the 11-day Energy investigation by logging his food and drink consumptions throughout the day. The Energy investigation measures an Astronaut’s Energy Requirements for Long-Term Space Flight, a crucial factor needed for sending the correct amount of the right types of food with space crews. Nine astronauts will be examined during exercise and rest cycles three months before launch, three months after arriving at space station and adapting to the space environment, and after return to Earth. Physicians will measure metabolic rates, urine content, and bone density to determine energy needs. 
+Fine Motor Skills (FMS): Today a 51S crewmember conducted a Flight Day 90 FMS session which was executed on a touchscreen tablet, where the subject performed a series of interactive tasks. The investigation studies how fine motor skills are affected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of FMS is to answer how fine motor performance in microgravity trend/vary over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trend/vary before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods.
+ISS Emergency Drill:  All six crewmembers participated in an ISS emergency drill and debrief.  The crew used an onboard simulator to guide their responses during two separate simulations. The purpose of this training is to practice ISS emergency responses based on information provided by the simulator. The crew physically translates through ISS to appropriate locations in order to visualize the use of station equipment and interfaces. They also practice procedure execution and associated decision making, all while exercising communication skills with MCC-H and MCC-M.
+Ocular Ultrasounds:  Today the crew assisted each other in performing routine medical eye imaging ultrasound.  The ultrasound images will be used to identify changes in globe morphology and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement. 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+Biochemical urine test
+URISYS. Hardware Stowage
+ENERGY Diet Log of Breakfast
+Fine Motor Skills Experiment Test – Subject
+HRF2 Supply Kit Resupply
+JEM Airlock Depressurization
+COSMOCARD. Closeout Ops
+ISS HAM Service Module Pass
+Personal CO2 Monitor Payload On Board Training
+Personal CO2 Monitor iPad Application Check
+PROFILAKTIKA-2. Preparation for the experiment.
+Manufacturing Device Extruder Exchange
+Personal CO2 Monitor Sensor Recalibration and Deployment
+ESA Weekly crew conference
+ПРОФИЛАКТИКА-2. Помощь при подготовки к эксперименту
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation
+Biolab Reference Experiment Container Removal [ABORTED]
+PROFILAKTIKA-2. Experiment Ops on БД-2 Treadmill (Individual Strategy Test)
+Plant Habitat On-Board Training
+Plant Habitat Procedure Review
+PROFILAKTIKA-2. Closeout Ops (Assistance)
+Fluidics hardware installation and science run setup
+PROFILAKTIKA-2. Closeout Ops.
+JEM Airlock Vent
+Payloads Network Attached Storage (NAS) Failed Hard Drive Retrieve
+CO Gas Analyzer toggle position to Warm up on SM panel 449.
+Checking [СКВ1] sound proofing insulation for moisture
+Public Affairs Office (PAO) Educational  Imagery Recording
+VIZIR. Preparation Steps.
+СОЖ maintenance
+Crew Medical Officer (CMO) Proficiency Training
+NOD1 Deck2 Stowage reconfig
+Inventory Management System (IMS) Conference
+CO Gas Analyzer toggle position to Work.
+Multi-purpose Small Payload Rack (MSPR) Two-Phase Flow Experiment Equipment Deactivation
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+Glacier Battery Remove
+Training for Emergency Response On-board ISS
+Fluids Integrated Rack Hardware Return
+Fluidics science run start
+Glacier Tray Insert
+VIZIR. Closeout Ops.
+Health Maintenance System (HMS) Ultrasound 2 Scan
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Plant Habitat Hardware Gather.
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+ENERGY Diet Log of Lunch
+Delta file prep
+Linux Server 1 USB Drive Teardown
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Metal Oxide (METOX) Regeneration Initiation
+On-board Training (OBT) ISS Emergency Drill Conference
+Flight Director/ISS CREW CONFERENCE
+ENERGY Diet Log of Dinner
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+JEM Airlock Venting
+SIMPL retrieval and deployment
+Standard commanding
+

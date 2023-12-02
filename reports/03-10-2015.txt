@@ -1,0 +1,82 @@
+
+Russian Joint Research (RJR) Augmented Microbial Sampling:  Shkaplerov collected samples from various locations throughout the ISS that are prone to microbial contamination.  Samples will be returned on 40S.  The data gathered and monitoring technologies used in Augmented Microbial Sampling are shared between NASA and Roscosmos. The purpose is to provide a scientific basis for decisions about future microbial monitoring both on ISS through its extended life, and on other future human exploration spacecraft.
+Airway Monitoring:  Cristoforetti continues to stow Airway Monitoring hardware and returning EVA hardware that was removed from the AirLock in order to complete the Airway Monitoring operations.
+General Laboratory Active Cryogenic ISS Experiment Refrigerator #5 (GLACIER #5):  Virts performed desiccant pack swap on GLACIER #5 in preparation for SPX-6 cold stowage utilization.
+Plant Rotation:  Cristofotetti stowed the seeds to be used in the Plant Rotation experiment in the Freezer-Refrigerator Of STirling cycle (FROST) located in the Japanese Experiment Module (JEM) Multi-Purpose Small Payload Rack (MSPR).  This activity will decrease the ambient stowed germination rates until Plant Rotation runs #3 and #4 are scheduled in Inc 43/44. 
+Aniso Tubule: Cristoforetti prepared for the Aniso Tubule observations by retrieving a sample from the Cell Biology Experiment Facility (CBEF) and setting up on the Aquatic Habitat microscope.  The sample observation is started by ground commanding after sample installation and continues over 48 hours. Experimenters will examine growth modifications of Arabidopsis hypocotyls and the changing orientation of cortical microtubule under microgravity conditions in space. Scientists will further observe changes in dynamics of cortical microtubules and microtubule-associated proteins by observing Arabidopsis hypocotyls and microtubule-associated proteins with a fluorescence microscope
+Area Passive Dosimeter for Life-Science Experiments in Space (Area PADLES):  Cristoforetti removed 17 area dosimeters which have been attached in JPM and JLP and transferred the units to the Russian crew for return on 40S.  JAXA Area PADLES is an investigation that uses area dosimeters to continuously monitor the radiation dose aboard the ISS. Radiation exposure can have significant biological effects on living organisms and on the biological investigations being done on ISS and on the Japanese Experiment Module Kibo. By installing area dosimeters at 17 fixed locations inside the Kibo Module, continuous area radiation monitoring can be provided throughout the ISS Kibo program. PADLES dosimeters measures absorbed doses, Linear Energy Transfer (LET) distributions and dose equivalents. The measurement of radiation environmental parameters in space is essential to support radiation risk assessment for astronauts and to be a benchmark of simulation codes of space radiation models for present and future human space activities.
+Node 2 (N) Zenith International Docking Adapter (IDA) Cable Install:  With assistance from Wilmore, Virts successfully completed the installation of the N2 IDA panel power cable, sensor cable, and ethernet cables in the N2 Forward Starboard and Port Endcones. The ISS Program plans to establish two docking ports on the US On-orbit Segment compatible with the International Docking System Standard (IDSS).  In the future, the docking adapters will be installed onto the existing Pressurized Mating Adapter (PMA)-2 and PMA3 interfaces.  Each adapter will permanently convert a passive Androgynous Peripheral Attachment System (APAS) docking interface into a passive IDSS interface.
+Change of Command: A change of command ceremony was conducted to hand over command of the ISS from Wilmore to Virts. During this event, all 6 crew discussed with Mission Control Center (MCC)-Houston and MCC-Moscow flight control teams their roles and responsibilities for the timeframe between the change of command event and the departure of 40S.
+Emergency Roles and Responsibilities Review: In preparation for 40S departure and 3-crew operations, Cristoforetti, Virts and Shkaplerov reviewed priorities during emergency response to achieve safety of the crew and safe configuration of the ISS. Topics included communication and coordination, ISS Commander responsibility, maintenance of Soyuz configuration and escape vehicle access.
+False Smoke Alarm in Service Module (SM): At 5:45am CDT today, the “SM Smoke-RS” alarm annunciated. It cleared 35 seconds later.  The crew confirmed no visual signs of smoke and no odors. Compound Specific Analyzer-Combustible Products (CSA-CP) readings were taken and were nominal. The RS crew was stowing the Local Commutator (ЛКТ) that was removed from 40S on a neighboring panel which caused dust accumulation. MCC-M officially declared a false alarm. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+HRF Saliva Collection
+HRF Urine Sample Collection
+Regeneration of БМП Ф2 Micropurification Cartridge (start)
+CASKAD. Manual Mixing in Bioreactor
+Russian Joint Research (RJR) – Collecting Surface Samples using SSK
+Set up Video Equipment to Record Exercise Session
+LBNP Exercise (CLOSEOUT).
+RPDA Switch ESEM 3-2 OUT4 to FIX OFF
+Stowage of Airway Monitoring Hardware
+WRS – Recycle Tank Fill from EDV
+Crew Departure Prep
+WRS Water Sample Analysis
+Installation of Node 2 International Docking Adapter (IDA) Cables – Accessing
+Plant Sample Insertion into FROST Freezer-Refrigerator
+GLACIER5 – Desiccant Pack Swap
+Data Prep for Return
+Node 2 International Docking Adapter (IDA) Cables Installation
+Dismantling ЛКТ (ТА251МБ) and ROM from ТК 714 БО
+Russian Joint Research (RJR) – ISS Microbial Air Samples
+Handover of Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Samples
+HRF – MELFI Sample Insertion
+Prepacking of MAS/SSK Samples for Return
+MSPR – Ultrasound Power On
+Emergency Roles and Responsibilities Review
+EHS – Handover of Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Samples
+ТК 714 Return Stowage
+Microbial Sample Collection
+BIOSIGNAL.
+CQ Audio Reconfiguration
+PAO Hardware Setup
+Change of Command Ceremony
+Sanitary-Epidemiological Status Monitoring
+ANISO – Sample Prep for Observation
+Node 2 International Docking Adapter (IDA) Cables Installation
+HRF – Hardware Setup
+IMS Delta File Prep
+TOCA Data Recording
+WRS – Recycle Tank Fill from EDV
+CASKAD. Connecting Anabioz Incubator to РБС and Power Up
+DOSIMETER – Area Dosimeter Removal
+MATRYOSHKA-R. Transfer of PADLE Detectors and Handover for Return
+Photo/TV Camcorder Setup Verification
+CASKAD. Starting Anabioz No. 2 Battery Charge
+ТК 714 P/L Container Transfer Report
+Signing ISS RS Handover Protocol
+CASKAD. Manual Mixing in Bioreactor
+Photo/TV Camcorder Setup Verification
+Node 2 International Docking Adapter (IDA) Cables Installation – Closeout Ops
+Stowage of Camcorder for Advanced Resistive Exercise Device (ARED) Exercise Video
+Check and maintain comm from ТК 714 via RGS (VHF2)
+Regeneration of Micropurification unit (БМП) Ф2 cartridge(end)
+ТПК 714 [СА] cool down prior to descent
+
+Completed Task List Items
+
+Crew departure prep (CDR)
+Data prep return (CDR)
+Journal Audio Entry (CDR)
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Battery Set 3B3 Capacity Test
+GLACIER5 deactivation
+JSL v5.1 transition [Scheduled this evening]
+

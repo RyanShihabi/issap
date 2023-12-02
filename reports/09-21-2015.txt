@@ -1,0 +1,93 @@
+
+Ocular Health Testing:  Lindgren and Yui have initiated their Flight Day 60 Ocular Health testing by performing vision and tonometry tests, taking blood pressure measurements, and completing a vision questionnaire.
+ 
+Microbiome Investigation: Kelly completed survey questions and performed body sample collections for his Flight Day 180 session of the Microbiome investigation. Microbiome investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time).
+ 
+Observation Analysis of Smectic Islands in Space (OASIS) Sample Exchange: Kononenko performed an OASIS sample exchange today, installing the third of four sample cartridges into the experiment hardware housed in the Microgravity Science Glovebox (MSG). OASIS studies the unique behavior of liquid crystals in microgravity, including their overall motion and the merging of crystal layers known as smectic islands. Liquid crystals are used for display screens in televisions and clocks, and they also occur in soaps and in cell membranes. The experiment allows detailed studies of the behavior of these structures, and how microgravity affects their unique ability to act like both a liquid and a solid crystal.
+ 
+Treadmill 2 (T2) Yearly Maintenance:  Lindgren performed a thorough inspection of T2’s drive shaft, pulley teeth, motor, motor carriage bolts, motor belt, mounting screws, lateral belts, and clean the bearing housing.  All observations were photo documented and downlinked to the ground for analysis.  Once the maintenance was completed, T2 was powered up and is back in operation.
+ 
+USOS Hatch Seal Inspections:  Lindgren cleaned and inspected USOS Hatch Seals, Hatch Plate Sealing Surfaces, and Hatch Handle Mechanisms.  Hatches targeted for today’s inspection included the Node 1 (Port, Stbd, Fwd, Aft), Lab (Fwd, Aft), Node 2 (Aft), and Node 3 (Nadir, Fwd).  Additional hatch inspections are scheduled to occur this Thursday, September 24th.
+ 
+Sound Level Meter (SLM) Ops:  Kelly measured the acoustic environment in habitable areas of the ISS by taking sound level readings. Today’s measurements took place within Node 3, Cupola, MRM1, SM, and T2 operating at various speeds before the treadmill’s yearly maintenance.  One set of measurements, those following completion of the T2 yearly maintenance, were deferred to tomorrow due to crew time constraints.
+ 
+Lab Bacteria Filter Change out:  As part of routine maintenance, Yui changed out six bacteria filters in Lab today.
+ 
+Water Recovery System (WRS) Total Organic Compound Analyzer (TOCA) Results:  Today’s TOC level was 2932 µg/L.  This continues an upward trend, though currently still below the screening limit of 3000 µg/L.  The WRS Ion Exchange (IX) Bed and Microbial Check Valve (MCV) replacement are planned in early October and should help lower the TOC levels.  The date for the Multifiltration (MF) bed replacement is TBD.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+EDV (KOV) (#1162 (00063575R, ФГБ1ПГО_4_404_1) Fill (Separation) from EDV #1165 (00063577R, ФГБ1ПГО_1_111). Label EDV “only for KOV”) for Elektron or EDV-SV
+Drive (start).
+Ocular Health (ОН) – Vision Test
+Ocular Health (ОН) – VIS Questionnaire
+BIOME – Sample Collection
+SM Ventilation System Cleaning (Group A)
+Ocular Health (ОН) – Vision Test
+СОЖ Maintenance
+HRF – Sample MELFI Insertion
+BIOME – Sample Stowage
+OASIS – Sample Container Exchange
+OH – Blood Pressure Measurement
+Ocular Health (ОН) – VIS Questionnaire
+Ocular Health (ОН) – Tonometry Hardware Setup
+OH – Blood Pressure Measurement
+BIOME – Sample Stowage
+Ocular Health (ОН) – Tonometry Test
+DAN. Experiment Ops.
+DAN. Assistance during Experiment Ops
+WRS – Water Samples Analysis
+DAN. Photography during Experiment Ops
+Ocular Health (ОН) – Tonometry Hardware Stow
+Sound Level Meter (SLM) Data Transfer
+ВД1 and ВД2 Air Ducts Vacuum Cleaning in DC1
+DAN. Experiment Ops.
+DAN. Assistance during Experiment Ops
+Hatch Seal Inspection
+DAN. Photography during Experiment Ops
+Health Maintenance System (HMS) CBT
+SEISMOPROGNOZ. Data Downlink from МКСД Hard Drive (end) and archiving
+ISS Medical Accessories Kit (IMAK) Unpack from Soyuz No. 718 (44S)
+КСПЭ Cables Inventory Audit
+Post-Exercise Hygiene
+Т2 – Yearly Maintenance
+Video Recording of Greetings
+Hardware Gather for LAB Bacteria Filter R&R
+EXPRESS Rack 4 – Laptop Config
+SM Ventilation System Cleaning (Group A)
+MRM1 CTTC Configuration
+VIZIR. Experiment Ops
+EXPRESS Rack 4 – Laptop and Gateway Configuration
+Removal of Hydraulic Connector from Replacement Unit No. 39 of the Hydraulic Circuit in MRM1.
+LAB Bacteria Filter R&R
+MELFI2 Kits Operations
+[ВКС] Hardware Bag Search
+LAB Bacteria Filter R&R
+Ice Brick – Stow
+Determine the contents of and relocate hardware from JPM1F6_E1.
+Return to Nominal Comm Config
+IMS Data File Prep
+Hardware Restow after LAB Bacteria Filter R&R
+TOCA – Data Recording
+Sound Level Meter (SLM) Setup and Measurement Ops [Deferred]
+PCS Relocate
+Health Maintenance System (HMS) CBT
+Sound Level Meter (SLM) Data Transfer [Deferred]
+ПФ1 and ПФ2 Dust Filters R&R (ФГБ1ПГО_4_419_1, Bag 428-25 (00067328R). Update IMS) and [В1] and [В2] Fan Grills Cleaning in DC1
+EKON-M. Observation and Photography
+OPTIMIS Viewer Familiarization
+Preparation of reports for Roscosmos site
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+
+ 

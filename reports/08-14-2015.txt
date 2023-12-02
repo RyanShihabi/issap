@@ -1,0 +1,77 @@
+
+58 Progress (58P) Undock: 58P successfully undocked from the ISS at 5:19 am CDT. The crew reported that the docking ring surface showed no damage or Foreign Object Debris (FOD). Deorbit burn, atmospheric entry and destruction occurred at 9:10 am CDT.
+HII Transfer Vehicle (HTV)5 Launch Delay: HTV5 launch that was scheduled for this Sunday has been scrubbed due to weather. The next launch attempt will be Monday, August 17 at 7:35 am CDT with capture on August 21 at 6:00 am CDT and berthing approximately 3 hours later.
+Haptics-2: Yui performed On-Board Training (OBT), then set up and executed two protocols for Haptics-2. Protocol 1B tests the Ku-forward communications path. Protocol 2B is the bilateral control test that is used to verify which performance can be achieved with force-feedback control from space. Haptics-2 compares the performance achievable through two different communication links; an IP forward link through Tracking and Data Relay Satellite System (TDRSS) with substantial amount of time-delay and high bandwidth and, a direct S-band link through the KONTUR-2 system which has a short time-delay and reduced bandwidth. Haptics-2 consists of 2 independent experiment protocols aimed at quantifying the performance characteristics of the two different communication channels between space and ground. It also demonstrates for the first time, real bilateral teleoperation with force-feedback to take place between space and ground through both communication links.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Zero Robotics: Kelly, Kononenko, and Yui conducted a conference with the SPHERES Principal Investigator, then configured the satellites for the Zero Robotics competition. The SPHERES Zero-Robotics investigation establishes an opportunity for middle school students to design research for the ISS. As part of a competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS. Each season begins with the unveiling of a game motivated by a challenging problem of interest to NASA and Massachusetts Institute of Technology (MIT). During the competition, each team must complete a set of pre-determined tasks. During all phases, the students are challenged not only with programming, but with the development of documentation and presentations to add to their engineering and communication skills.
+Russian Joint Research (RJR) Sampling: Padalka completed Microbial Air Sampling (MAS) and took surface samples using both microbial and fungal Surface Sample Kits (SSKs).  The samples will be incubated and analyzed on Tuesday, April 21.  The investigation refines locations and surfaces prone to microbial contamination throughout the ISS, share monitoring technologies and data between NASA and Roscosmos, and provides a scientific basis for decisions about future microbial monitoring, both on ISS through its extended life, and on other future human exploration spacecraft.
+Extravehicular Activity Mobility Unit (EMU) 3003, 3010 Maintenance:  Lindgren completed a partial water dump and fill for EMU 3003 and a full water dump and fill for EMU 3010 followed by loop scrubs and water sampling on both suits. Following these activities he completed a dryout on both suits.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference
+OBT – HAPTICS-2 1B and 2B protocols OBT
+Closing window shutters 6,8,9,12,13,14 / r/g 6965
+USOS Window Shutter Close
+ISS HAM – Radio Power Down
+Comm Config prior to MRM2 Ops
+Checkout of thermostat ТБУ-В No.6 in MRM2
+HAP2. Hardware setup
+Russian Joint Research (RJR) – Microbiology air sampling of the ISS
+Changeout of СРВК-2М Water Conditioning Unit Purification Columns (БК БКВ)
+HAP2- Protocol Operations
+HAP2. Photo Documentation
+BLR48 – Hardware Ops
+WRS – Recycle Tank Fill from EDV
+HAP2. Closeout Ops
+Photography of 58P Docking Assembly from SM Window No.27 after Separation from the ISS
+Flushing СРВК-2М БКВ water conditioning unit water purification columns (start)
+Comm reconfig for nominal ops following MRM2 activities
+EMU backpack replacement
+Russian Joint Research (RJR) – Microbiology air sampling of the ISS
+Switch ПрК-ТК PEV to CLOSED position
+EMU – Flush and Water Tank Fill
+IMS Tagup (S-band)
+Air sampling using АК-1М sampler in SM, FGB
+Terminate the 2nd Orlan-MK 825М3 Battery Pack discharge No.1267271172
+SPHERES – Payload Conference
+EMU Cooling Loop Scrub, Part 1
+RGN – Initiate drain into EDV
+SPHERES – Hardware Setup and Checkout
+Removal of deployed Formaldehyde Monitoring Kit (FMK) Monitors
+RGN – Terminate water drain into EDV
+SPHERES – Welcoming Students in the comm session
+EMU Cooling Loop Post Scrub Water Sample
+SPHERES – Camera Setup and Test Start
+SPHERES – Setup Equipment and Run the Experiment
+Russian Joint Research (RJR) – Surface Sampler Kit (SSK)- Surface Sampling
+OTKLIK. Hardware Check
+EMU Cooling Loop Maintenance.
+VIZIR. Experiment Ops with СКП-И P/L
+ISS HAM Radio Power Up
+WRS – Recycle Tank Fill from EDV
+In Flight Maintenance (IFM) – Waste and Hygiene Compartment (WHC) – Full Fill
+TV Conference with LifeNews TV Channel Correspondent
+SPHERES – Hardware power off, battery replacement, and stowage
+In Flight Maintenance (IFM) – Waste and Hygiene Compartment (WHC) – Full Fill
+EMU – Cooling Loop Maintenance – EMU Reconfig
+Gather Centerline Berthing Camera System (CBCS) and Vestibule Outfitting Equipment
+EMU – Long Dryout
+Unlatching N2 Nadir Hatch Hardstops
+Centerline Berthing Camera System (CBCS) Installation and Checkout
+EMU – Cooling Loop Scrub – Deconfiguration
+ABOUT GAGARIN FROM SPACE. Experiment Ops
+
+Completed Task List Items
+
+Crew Provisions Consolidation [In Work] 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+EVA EMU ops
+SPHERES ZR ops
+ISS Server 1 reload [In Work]
+N2 CBCS checkout
+

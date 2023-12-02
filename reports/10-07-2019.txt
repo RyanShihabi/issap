@@ -1,0 +1,135 @@
+
+US P6 Battery Extravehicular Activity (EVA) Operations:  Today, the ground teams and the USOS crew participated in an EVA Debrief conference to discuss any technical issues from the previously completed P6 Battery EVA#1 (US EVA#56) on Sunday October 6, which was the first of five planned P6 Solar Array battery upgrade EVAs.  The crew also participated in Post-EVA health checks as well as downlinking images of the Extravehicular Mobility Unit (EMU) gloves for ground analysis.  In addition, the crew also completed EVA procedure reviews in preparation for the next planned P6 battery EVA. The second P6 battery EVA (US EVA#57) is scheduled on Friday, October 11.
+Mobile Servicing System (MSS) Operations:  In support of the P6 Battery EVA#1, the Robotic Ground Controllers powered up the Mobile Servicing System (MSS), and maneuvered the Space Station Remote Manipulator System (SSRMS) holding the External Pallet 8 (EP8) into position for the start of the Integrated Equipment Assembly (IEA) 2B batteries EVA #1 and removed power from the EP8. The Extra Vehicular (EV) crew egressed the airlock and moved to the IEA 2B worksite where they performed the following swaps with Intra Vehicular (IV) crew maneuvering the SSRMS+EP8 to the required positions:
+
+
+
+Battery 1 (IEA) to EP X
+Battery A (EP) to IEA Slot 1
+Adapter Plate (AP) A to IEA slot 2
+Battery 2 (IEA) to EP A
+Battery 3 (IEA) to AP A located on IEA Slot 2 (get ahead task)
+Battery B (EP) to IEA slot 3 (get ahead task)
+
+
+
+The EV crew performed some additional get ahead tasks (releasing torque on some batteries H1 bolts for upcoming EVAs) and then cleaned up the worksite and ingressed. Following that, the IV crew maneuvered the SSRMS+EP8 to a back away position. SSRMS Ground Controllers maneuvered it to the overnight park position and powered down. 
+Payloads:    
+Actiwatch Plus: The crew charged and swapped four Actiwatch plus units. The Actiwatch is a waterproof, nonintrusive, sleep-wake activity monitor worn on the wrist of a crewmember. The device contains a miniature uniaxial accelerometer that produces a signal as the subject moves. The data are stored in nonvolatile memory within the Actiwatch until they are downloaded for analysis.
+Food Acceptability: The crew completed a Food Acceptability Survey. This investigation seeks to determine the impact of repetitive consumption of food currently available from the spaceflight food system.  Results will be used in developing strategies to improve food system composition to support crew health and performance on long duration missions.
+Completed Task List Activities:
+
+SSC15-U Key Troubleshooting
+EVA EMU Resize prep
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Support Operations
+Mobile Servicing System EVA support
+
+Look Ahead:
+Tuesday, 10/8 (GMT 281)
+Payloads:
+
+
+Cerebral Autoregulation Setup (JAXA)
+SCRAM sample (NASA)
+VEG-04B Pillow Prime (NASA)
+Astrobee Battery charge and swap (NASA)
+
+Systems:
+
+Robotics OBT for EVA
+EMU Suit water recharging
+HTV Cargo Ops
+EVA procedure reviews
+
+Wednesday, 10/9 (GMT 282)
+Payloads:
+
+
+No payloads
+
+Systems:
+
+EVA Metox Regen
+
+Thursday, 10/10 (GMT 283)
+Payloads:
+
+
+Cerebral Autoregulation Data measurement (JAXA)
+Food Acceptability Survey (NASA)
+Food Physiology Diet Briefing (NASA)
+VEG-04B Water Check (NASA)
+Microgravity Crystals Set C (NASA)
+BEST Sample Transfer to media (NASA)
+
+Systems:
+
+EVA Tool Audit
+EVA REBA C/O and Install
+EVA LK Prep Part 2
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+HRF Generic Saliva Collection 10 Minutes
+Reminder Periodic Health Status (PHS) Evaluation
+IMS Delta File Prep
+Preparation of Reports for Roscosmos web site and social media
+Photography of Removable Covers Installed on Handrails inside RS
+SCENARIY. Observation and photography of catastrophic events and their aftermath
+SM-behind-panel-area Photography
+ECON-M. Observation and Photography
+HRF Generic MELFI Sample Retrieval And Insertion Operations
+HRF Generic Saliva Collection Stow
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Installation of Gas Analyzer ГЛ2106.
+ISS HAM Radio Power Up
+EVA Pistol Grip Battery Stow
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+Installation and Activation of ГЛ2106 Gas Analyzer.
+Glisser-M GoPro HERO3 camcorders battery charging – equipment setup and installation for charging
+PILLE dosimeter readings after USOS EVA
+Health Maintenance System (HMS) Periodic Health Status (PHS) Post EVA Examination – Crew Medical Officer (CMO)
+SM ventilation systems preventive maintenance.
+Reading Data from Pille Dosimeter Sensors
+Health Maintenance System (HMS) Post-EVA Periodic Health Status Examination – Stow
+Actiwatch Plus HRF Rack 1 Setup
+MRM1 comm config for tag-up
+SEPARATSIA. [ВН] Change-out.
+Actiwatch Spectrum HRF Rack 1 Setup
+Actiwatch Spectrum HRF Rack 1 Swap
+СARDIOMED-LBNP. Replacement of КДМ cable # 61
+СОЖ maintenance
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Actiwatch Spectrum HRF Rack 1 Swap
+Extravehicular Mobility Unit (EMU) Swap
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Actiwatch Spectrum HRF Rack 1 Stow
+Recharging Glisser-M GoPro HERO3 camcorder batteries – replacing battery sets
+EVA Glove Photo Downlink
+Food Acceptability Survey
+CONSTANTA-2. Cassette retrieval from ТБУ-В and stowage on panel for 1-hour warmup
+IMPACT. Photography of «IMPACT» plate # 1 from DC1 EV Hatch 1 Window. Photography Time 13:02-13:07
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Extravehicular Activity (EVA) Procedure Review
+CONSTANTA-2. Preparation and Execution of Session 3.
+ISS Crew Orientation
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Extravehicular Activity (EVA) Debrief
+Glisser-M GoPro HERO3 camcorders battery charging – termination and closeout ops
+Extravehicular Activity (EVA) Suit Intravehicular (IV) Review
+Actiwatch Plus HRF Rack 1 Stow
+УФ-АТМОСФЕРА. Documentation review and equipment setup
+ISS Crew Orientation
+УФ-АТМОСФЕРА. Preparatory ops. H/w installation and electrical setup.
+Station Support Computer (SSC) System Vent Cleaning
+VIP Conference Preparation
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+УФ-АТМОСФЕРА. Scientific Hardware Activation.
+
+ 

@@ -1,0 +1,23 @@
+
+63 Soyuz (63S) Undock/Landing: The 63S vehicle carrying Kate Rubins, Sergei Kud-Sverchkov, Sergey Ryzhikov undocked Friday at 8:33 PM CT and landed at 11:56 PM CT. The departure of 63S reduced the crew complement on board from 10 to 7.
+Payloads
+Combustion Integrated Rack (CIR) – Fluids and Combustion Facility: The crew replaced the Manifold 2 and 4 gas bottles for upcoming CIR operations. The CIR includes an optics bench, combustion chamber, fuel and oxidizer control, and five different cameras for performing combustion investigations in microgravity.
+Integrated System for Autonomous and Adaptive Caretaking (ISAAC): The crew prepared the JEM module for the Astrobee/ISAAC operations conducted by the ground and then the ISAAC targets were removed from the JEM and RFID Recon hardware was removed from the Astrobee units. The ISAAC project demonstrates using autonomous robots in human exploration vehicles to track vehicle health, transfer and unpack cargo, and respond to critical faults such as leaks and fires. ISAAC uses the space station’s Astrobee and Robonaut robots for the demonstration. This technology could be used on vehicles and habitats on future exploration missions to the Moon and Mars to maintain vehicles while astronauts are away for extended periods.
+Life Sciences Glovebox (LSG): The crew performed the routine replacement of used Life Science Filter(s) from the rear wall of the LSG Work Volume. The Life Sciences Glovebox (LSG) is a sealed work area that accommodates life science and technology investigations in a “workbench” type environment. Due to its larger size design, two crew members can work in the LSG simultaneously.
+Myotones: The crew collected and processed blood samples using the HRF Centrifuge in support of the Myotones study. The investigation observes the biochemical properties of muscles (e.g. muscle tone, stiffness, elasticity) during long-term exposure spaceflight environment. Results from this investigation can provide a better understanding of the principles of human resting muscle tone. This could lead to the development of new strategies for alternative treatments for rehabilitation on Earth, as well as for future space missions.
+Real-Time Protein Crystal Growth-2 RTPCG-2): Crew removed the Real-time Protein Crystal Growth sample plate S/N 1B1 from SABL-3, and performed Day 3 observations and photography of the sample wells using the microscope. The samples were then returned to SABL-3. RTPCG-2 demonstrates new methods for producing high-quality protein crystals in microgravity. Previous work has shown that microgravity produces high-quality protein crystals that can be analyzed to identify possible targets for drugs to treat disease. RTPCG-2 produces high-quality protein crystals for up to eight proteins for detailed analysis back on Earth.
+Systems
+External Television Camera Group (ETVCG) Maintenance: The crew swapped the primary bulb with the secondary bulb in the ETVCG light and tested the secondary bulb. The ETVCG light will eventually be installed onto an ETVCG assembly in preparation for a future Extravehicular Activity (EVA).
+Node 1 (N1) Starboard Aft Intermodule Ventilation (IMV) Fan Cleaning: The crew removed foreign object and debris (FOD) from IMV fan inlet flow straighter and silencers located at the N1 Starboard Aft location.
+Common Cabin Visiting Vehicle (C2V2) Updates and Checkout: Today ground teams updated the C2V2 software to prepare for the upcoming Crew-2 vehicle.  The updates were completed and checked out nominally.  Ground teams also completed the Launch Commit Criteria (LCC) checkout of C2V2 and the system is now ready and in a good config for Crew-2 arrival at the end of the week.
+Portable Breathing Apparatus (PBA) Relocation: In preparation for the arrival of Crew-2 later this week, PBAs were relocated to white 1.0 Cargo Transfer Bags (CTBs). Eight air PBA bottles without Quick Don Mask Assemblies were stowed in two reinforced white 1.0 CTBs.
+Completed Task List Activities:
+
+Toolbox Label install
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Payloads ops support
+MT translate from WS4 to WS7
+

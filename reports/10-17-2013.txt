@@ -1,0 +1,139 @@
+
+Cygnus Onboard Training Sessions:  Flight Engineer (FE)-5 Parmitano and FE-6 Nyberg have taken part in onboard training sessions to gain proficiency on the Cygnus departure profile, procedures, and the crew interfaces for monitoring and commanding Cygnus. Unberth from ISS is scheduled for 05:00am CDT Tuesday, 22 October.
+Spinal Ultrasound Scan Operations: Nyberg performed her third and final Spinal Ultrasound Scan session prior to her return in November. FE-3 Hopkins supported this session as the operator with guidance from ground specialist. This investigation aims to characterize microgravity-associated spinal alterations during and after spaceflight using in-flight ultrasound. Results from this research will provide data to enhance crew health for long duration space missions.
+Biolab Microscope Cassette Checkout and Troubleshooting: Parmitano performed steps to isolate the root cause of problems with the cassette that were experienced during prior testing of the Biolab microscope.  Preliminary indications are that the troubleshooting was fully successful in identifying the root cause of the issue.  The BioLab is a multiuser research facility located in ESA’s Columbus laboratory used to perform space biology experiments on microorganisms, cells, tissue cultures, small plants, and small invertebrates. BioLab will allow scientists to gain a better understanding of the effects of microgravity and space radiation on biological organisms.
+Cygnus Cargo Operations: Hopkins and Nyberg performed the final loading of disposal items into the Cygnus spacecraft. Cygnus will be disposing more than 1305 kg of trash when it departs on Tuesday, 22 October. Destructive re-entry will occur on Wednesday, 23 October.
+Command and Data Handling (C&DH) 1553 Data Bus Checkout:  Ground operators successfully performed a checkout of redundant channels for each 1553 data bus connected to ISS Multiplexer/Demultiplexers (MDMs).  As part of this checkout, each of the 1553 buses were swapped to channel B and remained in that configuration for 7.5 hours to ensure that no unexpected communication errors were experienced. The 1553 redundant buss checkout is performed every 6 months.
+Today’s Planned Tasks
+
+Elektron-VM Liquid Unit Pressurization before Activation  [Complete] 
+SPINAL – Ultrasound Ops Review  [Complete] 
+Cygnus Release and Departure Review  [Complete] 
+CASKAD. Manual Mixing in Bioreactor [Complete] 
+Disconnect Integrated Command and Telemetry System (ЕКТС) АФУ cable from PCE АФУ [Complete] 
+BAR  Experiment Ops  [Complete]
+Installation of PCE БКС cables  [Complete] 
+SPINAL – Experiment Tagup  [Complete] 
+USND2 – Hardware Setup and Activation [Complete] 
+Installation of PCE box. [Complete] 
+SPINAL – Ultrasound Ops  [Complete] 
+Connecting БКС cable network to PCE  [Complete] 
+СОЖ Maintenance  [Complete] 
+Cygnus Transfers  [Complete]  
+Setup for Robotics OBT  [Complete]
+Installing and Connecting ATV Control Panel in ISS SM.  [Complete] 
+Camera Assembly Activation in High Definition Mode  [Complete] 
+Mating РСЕ, ATV Control Panel and БУАП Telemetry Connectors to БИТС2-12  [Complete]
+Cargo Handover to USOS for disposal via Cygnus  [Complete]
+Biolab Microscope D&C Cassette Check and Trouble-shooting  [Complete] 
+ISS RS Intermodular Network Communication Check  [Complete]
+CONSTANTA. Setup and Ops  [Complete] 
+VZAIMODEISTVIYE. Experiment Ops  [Complete]
+Water Recovery Management (WRM) -Condensate Pumping Initiation  [Complete]
+CONSTANTA. Assisting During the Experiment  [Complete] 
+HRF Generic Frozen Blood Collection Setup  [Complete] 
+On-orbit Hearing Assessment using EARQ  [Complete]
+EXPOSE-R.  Locate and Photograph P/L Connection Points  [Complete] 
+Cygnus Cargo Transfers Conference  [Complete]
+Handover / Handover Recommendations (РПС)  [Complete] 
+CYGNUS. Cargo Transfer Tagup  [Complete]
+Water Recovery Management (WRM) – Terminate Condensate Pumping  [Complete]
+Camera Assembly Switch to SD Mode  [Complete]
+Cygnus Departure OBT  [Complete]
+Test 1 of PCE, PCE antenna feeder (АФУ), ATV control panel commands  [Complete] 
+Symbolic Activity – prep  [Complete] 
+IMS Update  [Complete]
+SSRMS OBT Using ROBoT Simulator  [Complete]
+CASKAD. Manual Mixing in Bioreactor  [Complete] 
+Robotics OBT Debrief  [Complete]
+CIR Alignment Guide Removal  [Complete]
+CIR Equipment Stow  [Complete]
+USND2 – Power Off And Stow  [Complete]
+
+Task List
+
+ARED Cylinder Evacuation
+USOS Cargo Handover for Cygnus
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+Recording video for Roskosmos Press Service
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+Retrieve CWC-Is from the PMM Water Wall
+EMU FPS R&R Study
+EMU FPS Tool Gather [In Work]
+15th Anniversary PAO Messages
+SM Printer Troubleshooting
+ATV Cargo Transfer
+35S Prepack [In Work] 
+CFE ICF3 Ops
+Crew Discretion PAO [In Work] 
+CDRA ASV Clean
+
+Ground
+
+Nominal Commanding
+Battery Reconditioning for set 1B1 [Complete] 
+
+QUICK ISS Status – Environmental Control Group:
+
+
+
+                              Component
+
+Status
+
+
+
+Elektron
+On
+
+
+Vozdukh
+Manual
+
+
+[СКВ] 1 – SM Air Conditioner System (“SKV1”)
+On
+
+
+[СКВ] 2 – SM Air Conditioner System (“SKV2”)
+Off
+
+
+Carbon Dioxide Removal Assembly (CDRA) Lab
+Standby
+
+
+Carbon Dioxide Removal Assembly (CDRA) Node 3
+Standby
+
+
+Major Constituent Analyzer (MCA) Lab
+Off
+
+
+Major Constituent Analyzer (MCA) Node 3
+Operate
+
+
+Oxygen Generation Assembly (OGA)
+Process
+
+
+Urine Processing Assembly (UPA)
+Standby
+
+
+Trace Contaminant Control System (TCCS) Lab
+Off
+
+
+Trace Contaminant Control System (TCCS) Node 3
+Full up
+
+
+
+ 
+ 

@@ -1,0 +1,96 @@
+
+Orbital-2 (Orb-2) Capture/Berthing: The crew successfully captured Cygnus using the Space Station Remote Manipulator System (SSRMS) at 5:39 am CDT. The ground used the Space Station Remote Manipulator System (SSRMS) to maneuver Cygnus into position near the Node 2 Nadir berthing port for Passive Common Berthing Mechanism (PCBM) inspection and berthing. Following berthing, the crew proceeded with post-berthing activities including leak checks, hatch opening and vestibule outfitting and the vehicle is now on ISS power. The crew completed removal of the CBM Controller Panel Assemblies (CPAs) that were originally scheduled for tomorrow.  The crew is scheduled to ingress the vehicle tomorrow.
+Sprint Operations: Flight Engineer (FE)-5 Wiseman completed his Flight Day (FD) 45 Sprint Volume of Oxygen Utilized (VO2) protocol using the Blood Pressure (BP)/Electrocardiogram (ECG) hardware. Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions.
+Body Mass Measurements: Commander (CDR) Swanson, Wiseman, and FE-6 Gerst conducted body mass measurements using the Space Linear Acceleration Mass Measurement Device (SLAMMD) hardware. The hardware follows Newton’s Second Law of Motion by having two springs generate a known force against a crewmember mounted on an extension arm with resulting acceleration used to calculate the subject’s mass. The device is accurate to 0.5 pounds over a range from 90 pounds to 240 pounds.
+Robonaut Operations: Swanson reviewed procedures and conferred with the Robonaut ground team before beginning the first of six days of Robonaut hardware setup to upgrade the mobility unit. Swanson Removed & Replaced (R&Rd) the Robonaut helmet, elbow and shoulder softgoods. Afterward, the ground initiated a firmware update. Tomorrow, Swanson will continue Robonaut torso upgrades.
+Oxygen Generation Assembly (OGA) Status: Following yesterday’s OGA fault due to high H2 readings, it was moded to standby to allow low O2 flow to purge nitrogen from the H2 sensor Orbital Replacement Unit (ORU).  All three H2 sensors returned to normal readings.   OGA was reactivated and is currently in process mode.
+Russian Router [БРИ] Connection Issue – The crew reported a problem with the Russian router БРИ. Several reboots were attempted with no change in status. Log files were downlinked and БРИ was shutdown. MCC-M is working to bypass the BRI and transition to the backup onboard LAN configuration in the Russian Segment. 
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+USOS Window Shutter Close [Complete]
+Centerline Berthing Camera System (CBCS) installation on Node2 Nadir hatch and power up [Complete]
+Camera Setup to Feed Video to LAB Remote Workstation (RWS) Monitor 3 [Complete]
+RWS configuration to monitor Cygnus approach [Complete]
+SPRINT – Hardware Setup [Complete]
+HRF1 – Connection and Hardware Checkout [Complete]
+Inspection and Photography of FGB Structural Elements, БКС, and Pressurized Shell ring  r/g 6116 [Complete]
+ТКГ 427 (DC1) Stowage and IMS Ops  r/g 5987, 6088, 6134 [Complete]
+HRF1 – Software Installation [Complete]
+VIRU. Battery Charge (start) / r/g 6039 [Complete]
+Cygnus – PCS Command Test [Complete]
+Test of Sigma SW Version 8.6.6 using СУДН data on RSK1 laptop.  r/g 6126 [Deferred]
+Cygnus – R-BAR Approach [Complete]
+Study of Cardiovascular System Under Graded Physical Load on VELO. [Aborted]
+Cygnus – R-BAR Approach [Complete]
+SSRMS – Cygnus Capture [Complete]
+HRF1 – Software Installation [Complete]
+Video Downlink End [Complete]
+R2 – Experiment Review [Complete]
+NANO – Ops Review [Complete]
+HRF1 – Software Installation [Complete]
+EHS MCD – In-flight Microbiology Water analysis and data recording [Complete]
+HRF1 – Hardware Deactivation and Removal [Complete]
+R2 – P/L conference [Complete]
+RWS – Deactivation [Complete]
+Robonaut –  HD Camcorder Setup in LAB [Complete]
+Node2 Nadir CBM Status Check [Complete]
+Waste Water Bag Changeout [Complete]
+ROBONAUT – Hardware Setup [Complete]
+WRS Water Sample Analysis [Complete]
+Node 2 CBM – Capture and Abolts [Complete]
+Inspection and Photography of FGB Structural Elements, Onboard Cables [БКС], and Pressurized Shell Ring / r/g 6116 [Complete]
+Return of MiniCam to A/L [Complete]
+CBCS – Removal of Camera from NODE2 Nadir Hatch [Complete]
+HCP – Deactivation and Temp Stowage in JPM [Complete]
+R2 – Hardware Setup [Complete]
+EarthKAM. Hardware Deactivation, camera battery changeout, and hardware reactivation / USOS procedures [Complete]
+IMS Delta File Prep [Complete]
+Cygnus/Node 2 – Pressurization and leak check [Complete]
+Water Transfer and ТКГ 427 (DC1) Rodnik Tank 2 Bladder Compression / r/g  6131 [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data to RSS1 Laptop (start) /r/g 5161 [Deferred]
+MPEG-2 video downlink test via KU-band prior to ТКГ 423 docking to the ISS. [Aborted]
+IDENTIFIKATSTIYA. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 5186 [Complete]
+Filling (separation) of EDV (KOV) No. 1013 for Elektron [Complete]
+R2 – Re-stow
+Node 2 Nadir – Cygnus Outfitting Part 1 [Complete]
+VIRU. Software Upgrade. [Complete]
+VIRU. Hardware Setup for Relaksatsiya Experiment  r/g 6132 [Complete]
+СОЖ Maintenance [Complete]
+Waste and Hygiene Compartment (WHS) Urine Receptacle and Insert Filter Changeout [Deferred]
+ROBONAUT – Camcorder Setup
+VIRU. Hardware parameter adjustment for Relaksatsiya Experiment r/g 6132 [Complete]
+Cygnus Emergency Book updates [Complete]
+Monitoring DC1 АСП-О and ТГК 427 АСА sealing mechanism (DC1) prior to undocking / r/g 6128 
+JRNL – Journal Entry
+VIRU. Earch Observation Relaksatsiya Experiment r/g 6132 [Complete]
+R2 – Re-stow
+Cygnus – PROX Power Switch OFF [Complete]
+VIRU. Closeout Ops and Hardware Teardown after Relaksatsiya Experiment r/g 6132  [Complete]
+Camera and Equipment Setup to Photograph S1 TRRJ [Complete]
+HD Photography of Loop A Radiators (HRS) [Complete]
+VIRU. Fill out and Downlink VIRU Log Sheet / r/g 6132 [Complete]
+TOCA Data Recording [Complete]
+Daily Planning Conference (S-band) [Complete]
+R2 – Hardware Deactivation EarthKAM. Hardware Deactivation, camera battery changeout, and hardware reactivation / USOS procedures
+ТКГ 427 БВ2 Tank Compression – Closeout ops / r/g 6131 
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO Replacement [Complete]
+WHC-ЕДВ-У R&R
+Roscosmos Report
+Econ photo
+3DA1 cam ops
+IMAK unpack
+JSL CBL deploy [Complete]
+Cygnus transfer cargo ops 
+
+Ground
+
+Nominal commanding 
+

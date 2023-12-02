@@ -1,0 +1,22 @@
+
+Payloads:
+NanoRacks CubeSat Deployer Mission-24 (NRCSD-24): The crew set up a camcorder to record video and take still photos of the satellite deployment from the NRCSD-24 deployer. NRCSD-24 is an external deployer that is installed in the JEM airlock and robotically placed in the deploy configuration using the JEM Remote Manipulator System (RMS). NRCSD-24 deployed eight different satellites: DanteSat, which is a deorbiting drag sail study; TJREVERB, developed by Thomas Jefferson High school to measure the strength of iridium signals; MARIO is a Macro-Fiber Composite Actuator experiment; NUTSat uses an ADS-B receiver to demonstrate and enhance commercial aviation safety technology; LORIS will provide detailed views of the Nova Scotian peninsula and its surrounding shorelines; ORCASat will demonstrate technology to calibrate optical telescopes; SPORT will study the effects of space weather in the upper atmosphere and its effects on communication; PetitSat will study local plasma density enhancements and buoyancy waves in the 380-420 km altitude.
+Veggie Monitoring: Photographs were taken of a crewmember performing Veggie Monitoring Surface Sample Collection operations. Culture-based Environmental Monitoring of Crop-based Space Food Systems (Veggie Monitoring) collects microbial samples from the surface of the station’s Veggie plant production system in conjunction with quarterly Environmental Health System (EHS) sample collection. Longer exploration missions require space-based systems for growth of plants, and this investigation is expected to help establish requirements to protect these systems, plants, and crew from contamination.
+Systems:
+Extravehicular Activity (EVA) Maintenance: The crew retrieved the Hard Upper Torso (HUT) On-Orbit Replacement Unit (ORU) from its long-term stowage location, as well as calibrated the Pistol Grip Tool (PGT) Torque Analyzer Kit (TAK). The HUT is the portion of the pressure suit that encloses the upper torso of the body and provides structural mounting interfaces for most of the Extravehicular Mobility Unit (EMU). The PGT is a self-contained, microprocessor controlled, battery powered, 3/8” drive handheld tool, designed for use by astronauts during EVA to apply torque to the Hubble Space Telescope mechanical interfaces and fasteners and was subsequently adopted for use on the ISS as well. The crew also performed a cooling loop maintenance scrub for EMU 3009.
+In Flight Maintenance (IFM) – Node 1 Nadir Common Berthing Mechanism (CBM) Controller Panel Assembly (CPA) 3 Latch Actuator Cable Remove & Replace (R&R): The crew replaced the damaged CPA 3 CBM Latch Actuator Power/Data Cable at Node 1 Nadir. The CBM is the attachment system used to mate and demate the USOS ISS pressurized elements and visiting vehicles. It provides the structural load-carrying capability and sealing interface that allows the shirtsleeve transfer of people and material between modules. The CPAs are the brains of the CBM, routing commands to twenty controllers.
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation and Microbial Air Sampler (MAS) Kit Sample Collection: Samples for microbial analysis were taken from the ISS air and surfaces using the SSK and MAS. These samples will be incubated on media slides and in Petri dishes, giving medical personnel a gauge of microbial growth in the air and on surfaces of the ISS. The EHS monitors the atmosphere for gaseous contaminants from nonmetallic materials off-gassing, combustion products, propellants, microbial contaminants from crew members and Station activities, water quality, acoustics, and radiation levels.
+Mobile Servicing System (MSS) P34B-E Remote Power Controller Module (RPCM) R&R: Today, the spare S04B-C RPCM was extracted from an ISS truss slot using the Special Purpose Dexterous Manipulator (SPDM) on the Space Station Remote Manipulator System (SSRMS) in preparation to R&R the failed P34B-E RPCM. The RPCM is the workhorse of the secondary power distribution system, containing solid-state or electromechanical switches known as RPCs. They act as multi-channel, high power circuit breakers and are able to distribute power from a single power input to multiple outputs.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+CCS S-band TLM HK1 Preempt
+EMU Data Recorder Operations
+EVA Loop Scrub Operations
+MSS RPCM P34B-E swap with S04B-C [Active]
+JEMRMS NRCSD Satellite Deployment Maneuver
+

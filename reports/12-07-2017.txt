@@ -1,0 +1,78 @@
+
+Electrostatic Levitation Furnace (ELF) Sample Operations: The crew retrieved and cleaned the ELF sample cartridge and then transferred three samples from one set of sample holders to another set of holders. ELF is an experimental facility designed to levitate, melt and solidify materials by container less processing techniques using the electrostatic levitation method. With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) SmoothNav: The crew completed several battery swaps to prepare for the upcoming SmoothNav experiment test run next week.  SmoothNav develops an estimation algorithm aggregating relative state measurements between multiple, small, and potentially differently instrumented spacecraft. The algorithm obtains the most probable estimate of the relative positions and velocities between all spacecraft using all available sensor information, including past measurements. The algorithm remains portable between different satellite platforms with different onboard sensors, adaptable in the case that one or more satellites become inoperable, and tolerant to delayed measurements or measurements received at different frequencies. 
+Fundoscope and Optical Coherence Tomography (OCT) Eye Exams:  Two crewmembers completed routine fundoscope and OCT exams today.  Eye exams are performed regularly onboard in order to monitor crewmembers eye health.  Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment.  
+Extravehicular Mobility Unit (EMU) 3003 Checkout and Liquid Cooled Venting Garment (LCVG) Fill:  Following the recent gas trap and pump inlet filter R&Rs, the crew checked out EMU 3003 and performed a leak check on it to verify proper installation of the hardware.  The crew also filled a backup LCVG with water. 
+Robotic Workstation (RWS) Ground Camera Calibration: Today, Part 1 of the 2 part RWS camera calibration was completed successfully.  Part 2 was not required.  The calibration will provide an accurate tool for crew monitoring of Visiting Vehicle (VV) overlays on the RWS.  The actual cameras were not modified during the process, but rather the RWS’ knowledge of the camera pointing was modified to compensate for any misalignment. This activity was performed in support of the upcoming SpaceX-13 VV launch and capture.
+LS1 Server Transition:  Today, ground teams transitioned the LS1 server over to run on a new ZBook computer onboard station.  The server will now run as a virtual machine under HyperVisor. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Sleep Log Entry – Subject
+Gas Trap Remove and Replace
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Samsung tablet personal files delete
+Electrostatic Levitation Furnace(ELF) sample Cartridge Retrieval
+ABOUT GAGARIN FROM SPACE. Hardware Deactivation and Closeout
+Echo External Hard Disk connection to SSC 11
+Laptop FS1 maintenance
+Emergency Equipment (АФОТ, БНП, ИПК) relocate from Soyuz to MRM1
+SPHERES Battery Swap
+Stowage of the equipment to be deleted
+Levitation Furnace(ELF) sample Cartridge Cleaning
+Monthly BRI Cleaning
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Pump Filter Remove and Replace
+NAPOR-mini RSA. Cleaning Onboard Memory Storage БЗУ-М vents
+Health Maintenance System (HMS) OCT Exam
+BIOKARD. Performing experiment (assist)
+BIOCARD. Experiment Session.
+Electrostatic Levitation Furnace(ELF) Sample Refill
+FAGEN. Deactivation of MSK kit No.5
+FAGEN. Kit Photography
+Electrostatic Levitation Furnace(ELF) Sample Holder Retrieval
+Electrostatic Levitation Furnace(ELF) sample Cartridge Installation and Photodetector Amplifier(PD AMP) Setting
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+JEM Camera Robot Cable Swap
+In Flight Maintenance (IFM) Multiplexer Demultiplexer (MDM) Card Pack
+Crew Departure Preparations for Return to Earth
+INTER-MAI-75. HAM Radio Hardware Activation
+Crew Handover Conference
+Post On-orbit Removable Unit (ORU) Remove and Replace Checkout
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+СОЖ maintenance
+Crew Preference Transfer from Polar 2 to MERLIN 1
+Polar Desiccant Swap
+Telescience Resource Kit Laptop Setup
+In Flight Maintenance (IFM) Crew Quarters (CQ) Overhead Cleaning
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+Arthrospira-B On Board Training
+51S transfer operations report
+ISS Crew departure preparation
+Nikon still camera sync with station time
+SSC Server-3 Loading Prep
+Health Maintenance System (HMS) Eye Exam – Fundoscope
+INTER-MAI-75. Closeout
+Delta file prep
+Flight Director/ISS CREW CONFERENCE
+High Definition (HD) Config JEM Camera Setup for Crew Choice Event
+Crew Choice Event 
+
+Completed Task List Activities
+
+Aramis script recording
+PERSEO message recording
+Reconfigure LAB camcorder and Dual Canon Li-Ion Battery Charger to nominal config
+Deconfigure power string for 2nd camcorder in LAB
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+LS1 transition to ZBook
+RWS camera calibration
+Standard commanding
+

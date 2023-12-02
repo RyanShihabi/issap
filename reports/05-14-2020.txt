@@ -1,0 +1,21 @@
+
+Payloads
+Food Physiology Diet Brief:  The crew participated in a diet briefing with the ground team to discuss details of the experiment.  The Integrated Impact of Diet on Human Immune Response, the Gut Microbiota, and Nutritional Status During Adaptation to Spaceflight (Food Physiology) experiment is designed to characterize the key effects of an enhanced spaceflight diet on immune function, the gut microbiome, and nutritional status indicators. These factors are interlinked, but diet is the only one that can be easily and meaningfully altered on Earth or during flight. This investigation aims to document the effect of dietary improvements on human physiology and the ability of those improvements to enhance adaptation to spaceflight.
+Spacecraft Atmosphere Monitor (SCRAM):  In support of the on-going SCRAM experiment, the crew relocated the experiment from EXPRESS rack 8 in the US Laboratory to Node 2.  Unfortunately, following this, the ground and crew were not able to boot the SCRAM hardware nominally.   The ground team is discussing a forward plan.  SCRAM demonstrates the capabilities of a small, reliable, portable gas chromatograph mass spectrometer instrument aboard the ISS to conduct major and minor elements of air measurement (Nitrogen, Oxygen, Carbon Dioxide, Methane, Water, etc). The instrument transmits data back to the ground research team every two seconds, providing a continuous analysis to the ground research team. It has a mass of less than 9.5 kg, and consumes less than 40 watts of power.
+Systems 
+Health Maintenance System (HMS) Eye Exams: Today the crew completed the third day of routine eye exams using Optical Coherence Tomography (OCT). OCT is an imaging technique analogous to ultrasound imaging that uses light instead of sound to capture micrometer-resolution, two and three-dimensional images of tissue. Eye exams are performed regularly onboard in order to monitor crewmember’s eye health. Eyesight is one of the many aspects of the human body affected by long-duration stays in a microgravity environment.
+Columbus Rack Bag Installation: The crew installed and filled several stowage bags behinds Deck 1 and Deck 3 in the Columbus module today. Bags were also installed in Deck 2 but will be filled in the near future.  The installation of the bags was required to relocate contents from the European Transport Carrier (ETC) Rack in Deck 4. The empty ETC Rack will be transferred to HTV9 for disposal following the vehicle’s arrival.
+Completed Task List Activities:
+
+PCS Laptop Relocate
+Crew Arrival Preparations
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+External High Definition Camera Checkout on EHDC 2.4
+Maneuver to -6° degree yaw bias attitude
+BGA 2B feather for stall mitigation at high beta
+BGA biasing PPL update for high beta
+

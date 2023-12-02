@@ -1,0 +1,71 @@
+
+Japanese Experiment Module (JEM) Low Temperature Loop (LTL) Pump Troubleshooting, Part 2:  Flight Engineer (FE)-5 Wakata used a multimeter to take resistance measurements to determine if there is a short circuit in the power feed path from Power Distribution Box (PDB) TCS1 to the LTL Pump Package. This troubleshooting is part of the investigation into the trip of the JEM Remote Power Controller (RPC) feeding power to the JEM LTL pump on January 14th.  The JEM Internal Thermal Control System (ITCS) has been configured to single loop since the failure.
+ISS SERVIR Environmental Research and Visualization System (ISERV):  FE-3 Hopkins and Wakata partially removed the ISERV from the Window Observation Research Facility (WORF) and successfully replaced a failed pointing mount on the telescope tube with a new mount flown up on the Orbital-1 vehicle.  This replacement will allow ISERV to be used for pointed at desired targets instead of being restricted to a fixed pointing direction.  ISERV automatically takes images of Earth through a small telescope with an off-the-shelf digital camera mounted in the US Laboratory module. There is a significant and persistent need for image data to support environmental decision-making, and to assess and monitor the impact of disasters and other significant events of the Earth surface. The unique attributes of the ISS, both in terms of orbital characteristics and available human and infrastructure support make it a highly desirable platform from which to acquire these data.
+Fluids and Combustion Facility (FCF) Light Microscopy Module (LMM) Objective Lens Troubleshooting:  Hopkins installed LMM 10x lens inside the LMM Auxiliary Fluids Container (AFC).  This lens had become loose from position 4 in the LMM Objective Revolver.
+Capillary Flow Experiment (CFE)-2 Vane Gap 1 Test:  FE-5 Mastracchio set up and initiated a CFE-2 Vane Gap 1 fluid test run.  Because liquids behave differently in space than they do on Earth, containers that can process, hold or transport them must be designed to work in microgravity. The CFE-2 furthers research on wetting (a liquid’s ability to spread across a surface) and its impact over large length scales in strange container shapes in microgravity environments. The results of these tests may be used to improve the capability to quickly and accurately predict how related processes occur, and support the design of improved systems to process liquids aboard spacecraft (i.e., liquid fuel tanks, thermals fluids, and water processing for life support).
+Today’s Planned Tasks
+
+REACTION – Self-reaction test [Complete]
+ENERGY Diet Log of Breakfast [Complete]
+Acoustic Dosimeters: hardware setup for static measurements [Complete]
+Post-EVA Orlan Debrief With Specialists (S-band) [Complete]
+ISS Crew / SSIPC FD Conference [Complete]
+Microbial Air Sampling (media 1, locations No. 9 – No. 16) and downlink of results  [Complete]
+End discharge of the 1st Orlan battery 825М3 and start discharge of the 2nd battery.  [Complete]
+ISERV – Payload Removal [Complete]
+Post-EVA debrief.  [Complete]
+СТТС Reconfiguration for MRM1
+Columbus SW Cycle 14 transition – PWS2 Activation [Complete]
+KAPLYA-2. Camcorder installation and adjustment, light installation  
+Columbus SW Cycle 14 transition – PWS2 command and telemetry checkout [Complete]
+KAPLYA-2. Hardware Activation and Mode 1 Selection (static warmup of МКХИ loop) [Complete]
+СТТС Reconfiguration in MRM1 [Complete]
+CFE Procedure Review [Complete]
+ISERV – Payload Removal Assistance [Complete]
+CFE –  Hardware Clearing off and Preparation  [Complete]
+CFE – Hardware Setup [Complete]
+G1 – Camcorder Setup [Complete]
+KAPLYA-2. Temperature check
+JEM Low Temperature Loop Pump Troubleshooting, Part 2 [In Work]
+CFE – Hardware Test [Complete]
+TERMO-LADA. Visual Inspection of Hardware Operation  [Complete]
+G1 – Closeout Ops [Complete]
+Post-EVA Orlan-MK Spacesuit Equipment Stowage  [Complete]  
+СТТС Configuration for MRM1 [Complete]  
+KAPLYA-2. АЗК checkout  [Complete]  
+ENERGY Diet Log of Lunch  [Complete]
+FIR – Hardware Checkout, Rack Doors Open. Video Recording  [Complete]
+Light Microscopy Module (LMM) – Rotate Spindle Bracket Assembly  [Complete]
+СТТС Reconfiguration for MRM1 [Complete]
+CFE – Hardware Teardown  [Complete]
+LMM – Lens Search [Complete]
+KAPLYA-2. Data Download to HDD and Downlink  [Complete]  
+СОЖ Maintenance [Complete]  
+Closeout with dismantled СКК after EVA-37A  [Complete]  
+ИП-1 Flow Sensor Position Check [Complete]  
+JEM Cabin Duct Engagement  [Complete]
+Post-EVA Medical Kits Restow  [Complete]
+LMM – Rotate to Operate Position  [Complete]
+Removal of Portable Repress Tank (БНП) No. 3 п.1 (001473R) in SM [РО] and stowage in МИМ2_Пт_302  [Complete]
+FIR Rack Door Close [Complete]
+Intermodular TORU Test with Mated ТГК 420 (DC1) [Complete]  
+Journal Entry [Complete]
+Crew Discretionary Conference  [Complete]
+REACTION – Self-reaction test  [Complete]
+ENERGY Diet Log of Dinner  [Complete]
+
+Task List
+
+ARED Cylinder Evac
+IMS Update
+National Geographic B-roll part 4  [In Work]
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+52P Transfer Ops
+EKON-M. Observations and photography
+
+Ground
+
+Nominal Commanding  [Complete]
+

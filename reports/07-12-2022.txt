@@ -1,0 +1,29 @@
+
+Payloads:
+Human Research Facility-1 (HRF-1): HRF Consumables Kit contents were transferred to the HRF-1 Supply Kit Purple and the HRF-1 Supply Kit Green. Crew photographed HRF Supply Kits and transferred photos to an SSC laptop for downlink. HRF-1 provides an on-orbit laboratory that enables scientists conducting human life science research to evaluate the physiological, behavioral, and chemical changes induced by space flight. Research performed using HRF-1 provides data to help scientists understand how the human body adapts to long-duration spaceflight.
+Universal Intelligent Glass Optics (UNIGLO): The final preform/spool and IGO hardware was removed from Microgravity Science Glovebox (MSG) work volume. UNIGLO tests the effects of microgravity on a glass optics module capable of processing various types of complex glasses. The module uses artificial intelligence (AI) to help adapt materials processing techniques to the microgravity environment and a sensor based on laser-Doppler interferometry to measure the effects of microgravity on processing complex glasses for a variety of applications in space and on Earth.
+eXposed Root On-Orbit Test System (XROOTS): Fluid from Root Modules was recirculated back into the Fluids Reservoir and the wicks were examined and opened when required. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media. Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Systems:
+RS EVA ESA Preparations: Crewmember Samantha Cristoforetti continued preparation activities for the upcoming RS EVA ESA, beginning with gear preparation for the Orlan suit including the cooling garment, communications cap, pressure gloves, thermal garments, and other crew-specific items. The crew also began telemetry checks for medical parameters and comm checks. The Russian EVA is planned for Thursday, July 21.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: The crew performed an analysis of the Water Processing Assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Lab Major Constituent Analyzer (MCA) Mass Spectrometer Remove and Replace (R&R): The Lab MCA Mass Spectrometer, also referred to as ORU-2, was R&Red after failure last week. The rack-front and rack-rear MCA utilities were disconnected to access the MCA Drawer and then replaced and closed out. The MCA mass spectrometer separates the constituents of a sample, and measures the percent concentrations of O2, N2, H2O, H2, CH4, and CO2. 
+In-Flight Maintenance (IFM) Activities: The crew completed IFM activities today, starting with the Node 3 Port Endcone and Nanoracks Airlock (NRAL) stowage replace after the NRAL Trash Jettison. Miscellaneous found items that were temp stowed during previous activities were stowed or trashed. A continuation of the ongoing USOS Common Hatch Window Cover Audits was also performed for installed Hatch Window Covers (Hyzod Covers) in multiple locations.
+T2 Moderate temperature Loop (MTL) Internal Thermal Control Systems (ITCS) Line Wear Inspection: The crew inspected the T2 ITCS MTL Lines and surrounding areas using the USOS Endoscope for any damage/abrasion and Foreign Object Debris (FOD). The hoses had been previously damaged and repaired due to an unknown source of abrasion. The crew determined the effectiveness of the repair and whether the abrasion damage has continued. The ITCS provides equipment cooling and heat rejection through a combination of water loops and interface heat exchangers.
+RS Water Transfers: Per documented agreements between the US and IP Russia, the crew began transferring water from the USOS to the RS. Surplus water in the USOS was transferred from the Contingency Water Container – Iodine (CWC-I) to an ЕДВ. An ЕДВ is intended for short-term storage and manual water transportation between facilities.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+PPS High Beta Operations
+JEMRMS EFU Adapter 2 Transfer to JEMAL
+JEM Airlock Capture Mechanism Capture EFU Adapter 2
+Lab MCA Checkout
+MSS File Uplink
+Cargo Dragon C2V2 Checkout without Ground Site for LCC
+SPDM OTCM Checkout
+SSRMS LEE Diagnostics
+JEM Airlock Pressurization
+

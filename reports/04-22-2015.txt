@@ -1,0 +1,87 @@
+
+Ocular Health: Padalka performed his Flight Day (FD) 30 fundoscopy, with assistance from Virts as his CMO and ground remote guiders. The fundoscope is utilized to image the fundus (interior surface of the eye including the retina, optic disc, macula, and fovea). Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Rodent Research-2 Center for the Advancement of Science in Space (RR-2 CASIS): Kelly completed a fixative swap on the samples collected during yesterday’s RR-2 operations.  Following the swap, the samples in the new fixative were inserted into MELFI.
+Mycological Evaluation of Crew Exposure to ISS Ambient Air (MYCO) Familiarization: Kelly reviewed the procedure prior to his first MYCO collection scheduled for tomorrow. The MYCO experiment evaluates the risk of microorganisms’ via inhalation and adhesion to the skin to determine which fungi act as allergens on the ISS.
+Nanoparticles and Osteoporosis and Kubik Closeout: Cristoforetti removed the last 6 of the 8 Nanoparticles and Osteoporosis Experiment Containers (ECs) and stowed them in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  She comleted a data download, stowed the Kubik and packed Kubik-3 for return on SpX-6. Nanoparticles based countermeasures for Treatment of microgravity induced osteoporosis (Nanoparticles and Osteoporosis) studies how microgravity changes the metabolic environment of bone leading to site-specific alterations in bone remodeling. This study uses strontium containing hydroxyapatite nanoparticles (nHAP-Sr) as a countermeasure to prevent osteoporosis induced by microgravity during space flight. The in vitro biological effect of nHAP-Sr will be evaluated on differentiated human osteoblasts and osteoclasts and during their differentiation process, varying incubation time and dose-dependence in simulated microgravity and during space flight.
+Nematode Muscle: Cristoforetti retrieved the nematode samples from the Cell Biology Experiment Facility (CBEF) and performed sample fixation using the Chemical Fixation Apparatus. The samples were then inserted into MELFI.  The Alterations of C. elegans muscle fibers by microgravity (Nematode Muscles), aims to clarify how and why these changes take place in microgravity. Studying worms exposed to both microgravity, and gravity-like conditions in a centrifuge, could help scientists understand the molecular mechanisms responsible for muscle atrophy and other spaceflight-induced changes.  
+Advanced Resistance Exercise Device (ARED) Maintenance: Virts performed this regularly scheduled quarterly maintenance. He greased the Vibration Isolation System (VIS) rails, rollers and upper stop catch plates and inspected the X-rotation dashpots. The task was completed nominally and no problems were reported. 
+Robotics Operations:  Today the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and released the Dragon Flight Releasable Grapple Fixture (FRGF). They then walked SSRMS off Node 2 Power Data Grapple Fixture (PDGF) onto the Mobile Base System (MBS) PDGF 1. After completing the walk off, the Robotics Ground Controllers manoeuvred the SSRMS to the Mobile Transported (MT) translation position for tomorrow (GMT113) translation from Worksite #4 to Worksite #7 in preparation of the Robotic Refueling Mission (RRM) transfer ops next week. MSS performance today was nominal.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+SLEEP – Complete Questionnaire
+Biochemical Urine Test
+URISYS Hardware Stow
+PHS Evaluation Setup
+NANO/CSE – Removal of Containers from KUBIK
+MRM2 comm config to support the P/L Ops
+KULONOVSKYI KRISTALL. Experiment Ops
+COSMOCARD. Preparation. Starting 24-hr ECG Recording.
+NATO/CYTO – Sample Insertion into MELFI
+EML – Hardware Activation
+Replacing РТ-50-1М No.9 (А209) device with the new unit No.П3001009.
+Periodic Health Status
+Periodic Health Status (PHS) Data Entry and Stowage of All Hardware Used in PHS
+URAGAN. Observations and Photography
+MRM2 Comm Reconfig for Nominal Ops
+KULONOVSKYI KRISTALL. Copy and Downlink Data via РСПИ
+Demating РТ-50-1М TLM Connectors from БКС
+BAR. Experiment Ops.
+Replacement of РТ-50-1М No.9 (А209).
+VIZIR. Experiment Ops. [Deferred]
+ABOUT GAGARIN FROM SPACE. HAM Radio Session
+RGN-REC TK – Transfer and Replacement
+KULONOVSKYI KRISTALL. Hardware Teardown
+BAR. Experiment Ops.
+Dragon Transfer Ops
+On MCC GO Mating РТ-50-1М TLM Connectors to БКС
+РТ-50-1М No.9 (А209) R&R – Closeout Ops.
+Preventive Maintenance of АСП Hatch Sealing Mechanisms (DC1) and Progress 424 Hatch.
+PAO Hardware Setup
+Crew Prep for PAO
+PAO Event
+Rodent Research (RR) – Water Box and Light Check
+BCAT – Camera Focus Setup
+ISS N2 Repress from Progress 424 (DC1) СрПК Section 2 (start)
+Rodent Research (RR) – Camcorder Setup
+CMS – ARED Quarterly Maintenance
+PPS – Closeout Ops
+ISS N2 Repress from ТКГ424 (DC1) СрПК Section 2 (terminate) [Aborted]
+Life On The Station Photo and Video
+Replacement of СД1-7 Lights in DC1
+KUB3 – Hardware Packing
+BCAT –  D2Xs Battery Charge
+СОЖ Maintenance
+NEMATODE – Data Gathering
+Rodent Research (RR) – Sample Relocation to MELFI
+IMS Delta File Prep
+VZAIMODEISTVIYE-2. Experiment Ops [Deferred]
+JRNL – Journal Entry
+MSG – Powerdown
+MYCO – Session Review
+Health Maintenance System (HMS) – Fundoscope Preparation
+NEMATODE – Container Retrieval from MELFI
+Fundoscope – Eye Exam
+SLEEP – Hardware Setup and Activation
+NEMATODE – Sample Fixation
+Dragon Cargo Operations Conference
+NEMATODE – Sample Insertion into MELFI
+Health Maintenance System (HMS) – Fundoscope Removal and Stowage
+
+Completed Task List Items
+
+ARED detent adjust
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+57P Prop Purge
+Rodent Research operations
+Ocular Health operations
+MSS powerup
+SSRMS walkoff from N2 to MBS1
+MSS power down
+CATS Fiber Distributed Data Interface operations
+

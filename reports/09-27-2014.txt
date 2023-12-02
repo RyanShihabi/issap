@@ -1,0 +1,73 @@
+
+Zebra Fish:  With the arrival of 40 Soyuz (40S), Wilmore transferred Zebrafish from the Fish Carrier to Fish fixation Aquariums to start the experiment in the Aquatic Habitat.  This experiment investigates if the atrophy of muscles under the condition of microgravity also occurs in zebrafish and why their atrophy occurs in the microgravity.
+Dosimeter Installation:  Gerst installed 17 Dosimeters on various locations within the JEM Pressurized Module (JPM) and Japanese Experiment Logistics Module – Pressurized Section (JLP) walls.  Once installed, he photo documented each of the Dosimeters. The Dosimeters continuously monitor the radiation dose aboard the ISS. Radiation exposure can have significant biological effects on living organisms, and on the biological investigations being done on ISS.
+Cell Mechanosensing 2 (CMS-2): Gerst performed a medium exchange using “Meas Exp Solution Exchanger” and Medium Cassette and then set the samples on the microscope for the first observation. The ground has been unable to get video from the microscope.  Gerst performed some troubleshooting to ensure proper cable connections.  The ground will proceed with additional power cycles of the microscope to attempt to recover video. Cell Mechanosensing-2 is a continuing investigation to identify gravity sensors using several cultured cells and help develop countermeasures to muscle atrophy.  On the basis of the images obtained in orbit and from the chemically fixed cells on returning to Earth, the influence of gravity on the fine structures such as adherence, organelles will be assessed.
+Experiment installations:  Gerst removed Nanoracks Modules 24, 31 and 50 from the Dragaon/SpaceX-4 today.  He installed these in Nanoracks Platform-2 along with Module 28 which was delivered on Dragon/SpaceX-4 and previously unloaded during double coldbag transfer.  Wilmore accepted the offload  from the Russian crew of the Protein Crystal Growth (PCG) #8 canisters delivered on 40 Soyuz and installed them into the Protein Crystallization Research Facility (PCRF) in the Ryutai Rack.
+Extravehicular Activity (EVA) Preparations:  Wiseman gathered EVA related hardware which arrived onboard 40S. In addition, Gerst and Wilmore started configuring the airlock, including removal of equipment that will not be needed for the upcoming EVA. Gerst also initiated a battery charger autocycle for the two new Extravehicluar Mobility Unit (EMU) Long Life Battery (LLB) delivered on 40S.  EVA 27 will be performed for a Pump Module (PM) relocation and Mobile Transporter Relay Assembly (MTRA) installation on October 7th.
+Treadmill 2 (T2) Data Avionic Unit (DAU) Remove and Replaced (R&R): T2 has been experiencing connectivity issues between the Station Support Computer (SSC) and the T2 Rack.  The DAU contains a network switch that is believed to be failed.  Today the Crew performed an R&R of the T2 DAU.  Following the DAU R&R, a T2 power test was conducted that confirmed connectivity has been restored.  The ground team successfully uploaded new Command Logic Unit (CLU) software.  Wiseman put T2 in a temporary stow configuration at the end of the day.  Additional T2 alignment and checkout activities will need to be scheduled prior to nominal operations.  Meanwhile, the Crew is able to exercise on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).  
+Robotics Operations:  Robotics Ground Controllers translated the Mobile Transporter (MT) from Worksite (WS) 4 to WS6.  They then ungrappled the Space Station Remote Manipulator System (SSRMS) from the SpaceX-4 Dragon Flight Releasable Grapple Fixture (FRGF) and maneuvered the SSRMS to an Overnight Park Position.  This was done in preparation for tomorrow’s activities.  Tomorrow Robotics Ground Controllers will unstow the Special Purpose Dexterous Manipulator (SPDM) from Mobile Base System (MBS) Power Data Grapple Fixture (PDGF) 2 and perform a survey of the SpaceX-4 Dragon Trunk.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Laptop RS1(2) Reboot
+Laptop RSS2 Reboot / r/g 1009
+SM ПСС (Caution & Warning Panel) Test
+Daily Planning Conference (S-band)
+Pressurization of Elektron-VM Liquid Unit before Activation.
+CMS-ARED Overview
+ТК 714 Transfers and IMS Ops / r/g 6713
+CMS Exercise Overview
+СОЖ Maintenance
+AKVARIUM. Transfer from ТК 714 (MRM2) and Handover to USOS / r/g 6728
+T2 Rack Rotation
+Luch-2 Hardware Transfer from ТК. / r/g 6737
+STRUCTURA Photography At Exposure Location / r/g 6738
+STRUCTURA. Process Activation and Placement / r/g 6737
+Dragon Cargo Transfers for CMS2 experiment
+AKVARIUM. Kit Handover Photography / r/g 6719
+Nanroacks Preps
+MATRYOSHKA-R. PADLES detectors Transfer from ТК 714 (MRM2) and Handover to USOS / r/g 6729
+ZEBRA – Receiving kits from FE-1
+MATRYOSHKA-R. Photos of Handover / r/g 6730
+Nanoracks Platform 2 Install
+CMS Microscope Obs1
+ASEPTIC. Hardware Transfers from ТК 714 to MRM1 / r/g 6721
+DOSIMETER – Handover
+KRISTALLIZATOR. PCG kits transfer from ТК 714 (MRM2), Inspection, and Handover to USOS / r/g 6733
+CASKAD. Transfer of Bioreactor from ТК 714 / r/g  6731
+KRISTALLIZATOR. Photo of PCG Kits Handover / r/g 6734
+Installation of ЛКТ (ТА251М1Б) No.1419532185 and ROM No.1419531907 (СМ1РО_ 3_314_1, bag 427-1 (00063501R)) in  ТК 714 БО (MRM2)
+CASKAD. Setup inТБУ-В No.04 at +4 deg С / r/g 6731
+CASKAD. Photography during the insertion into ТБУ-В No.04 / r/g 6725
+Zebrafish Fish P/L Assembly
+Handover of USOS EVA equipment delivered on ТК 714 / r/g 6713
+VIRTUAL. Experiment Ops Tagup with specialists / r/g 6724
+Glacier Dessicant Swaps
+CMS T2 DAU R&R
+ZEBRA – Transferring fish to Aquariums 1 and 2
+EVA – EQUIPMENT TRANSFER FROM AIRLOCK
+T2 MTL Connect
+ZEBRA – Transfer and setup of samples from Fish Carrier to Fish Fixation Apparatus C
+EMU – Initiate EMU LLB Battery Autocycle
+T2 Power Test
+T2 Temp Stow
+ZEBRA – Insertion of Fixation Apparatus with samples into MELFI
+RR-PD Conference
+Crew time for ISS adaptation and orientation
+DOSIMETER Installation
+Dragon Delta Emergency Procedure Drill
+IVA – Complete Questionnaire
+CEVIS installation
+CGBA – Checkout and Cleanup
+Daily Planning Conference (S-band)
+IVA – Clothes Transfer and Drying
+
+Completed Task List Items
+
+T2 Tools Pregather [Completed on day 268]
+
+Ground
+
+MT Translation from WS4 to WS6 [Complete]
+SpaceX-4/Dragon Ungrapple [Complete]
+

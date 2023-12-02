@@ -1,0 +1,79 @@
+
+Combustion Integrated Rack (CIR) Advanced Combustion via Microgravity Experiments (ACME) Electric-Field Effects on Laminar Diffusion (E-Field) Flames:  The crew replaced the compensator module in the CIR Hi Bit-depth Multi-Spectral (HiBMS) Imaging package today.  This is in preparation for the upcoming ACME E-Field Flames investigation. The ACME investigation is a set of five independent studies of gaseous flames to be conducted in the CIR.  ACME’s primary goal is to improve fuel efficiency and reduced pollutant production in practical combustion on Earth.  For E-Field Flames an electric field with voltages as high as 10,000 volts is established between the burner and a mesh electrode. The motion of the charged ions, which are naturally produced within the flame, are strongly affected by a high-voltage electric field. The resulting ion-driven wind can dramatically influence the stability and sooting behavior of the flame. Conducting the tests in microgravity allows for great simplifications in the analysis, enabling new understanding and the development of less polluting and more efficient combustion technology for use on Earth.
+Meteor:  This morning the crew installed the Meteor Small Camera Bracket and Meteor camera in the US Laboratory Window Observational Research Facility (WORF) and then activated the camera.  They then photographed the camera, lens settings and the position of the camera relative to the Lab window. The Meteor payload uses a visible spectroscopy instrument to observe meteors in Earth orbit and then analyze the images to provide information on the physical and chemical properties of meteoroid dust. The study of the meteoroid dust on-orbit provides information about the parent comets and asteroids.   
+Electrostatic Levitation Furnace (ELF):  Today the crew took photographs of Sample Cartridge 2 to allow the ground to determine if it has any damage.  This is in preparation for the upcoming ELF sample exchange planned for March 10th. The ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the electrostatic levitation method. With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+Veg-03:  Over the weekend the crew took photographs to document plant growth for the VEG-03 investigation.  Photos of the plants are taken about every 3 days.  The crew also watered the plants over the weekend and today. Veg-03 supports the proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long duration space missions will require a fresh food supply grown in space to supplement crew diets.
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N): After retrieving the RaDI-N hardware from a Russian crewmember, a USOS crewmember deployed eight Space Bubble Detectors on a Node 3 rack front today. This Canadian Space Agency (CSA) investigation measures neutron radiation levels while onboard the ISS. Bubble detectors used as neutron monitors are designed to only detect neutrons and ignore all other radiation.
+Earth Imagery from ISS Target (EIISS): Today the crew captured images of Southern California to the tip of Baja. EIISS captures a series of videos showcasing targets around the world as seen from the ISS. These videos will be integrated into a product for later release. 
+Lab Window Inspection: The crew performed an inspection of the Lab window to include still imagery and video, both with the external window shutter open and closed, to note any contamination or damage.  This inspection is routine maintenance performed once a year.
+Node 3 (N3) Intermodule Ventilation (IMV) Cleaning:  Today the crew cleaned the N3 deck IMV starboard fan inlet flow straighteners, inlet silencer and outlet silencer.  During the cleaning, the crew attempted to correct the configuration of the bellows-style flex ducts, which were collapsed and may have been contributing to the reduced airflow measured through the fan. The crewmember noted that the duct was deformed, attempted to correct it, and took photos for later engineering review.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+Tropical Cyclone Operations Review
+Auxiliary Laptop Anti-Virus Refresh
+Meteor On Board Training Review
+Ethernet Cables Audit.
+Airway Monitoring Big Picture review
+Airway Monitoring Hardware Location
+EHS Acoustic Monitor SSC Installation
+SM RODNIK КД1 drain valve replacement, opening КН1 air pressure
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors to USOS
+Meteor Camera and Small Camera Bracket Partial Removal
+Tropical Cyclone Untended Operations
+Wastewater Storage Tank Assembly (WSTA) Fill [Aborted]
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors to USOS
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure
+LAB Window Inspection Setup
+LAB Window Inspection Review
+SM Rodnik КД1 Drain Valve Replacement.
+LAB Window Inspection
+Electrostatic Levitation Furnace(ELF) Sample Cartridge Photo Taking
+LAB Window Inspection Cleanup
+Mating Telemetry Connectors to КД1 drain valve.
+EHS Acoustic Monitor SSC Uninstallation
+SM Rodnik КД1 drain valve replacement.
+MELFI 3 Ice Brick Insert 6
+Meteor Small Camera Bracket  and Camera Partial  Installation
+Node 3 Deck Starboard Intermodule Ventilation (IMV) Cleaning Prep
+Installation of Replaceable Condensate Removal Lines [СМОК], preparation.
+Combustion Integrated Rack Rack Doors Open
+Combustion Integrated Rack Optics Bench Translation Out
+Node 3 Deck Starboard Intermodule Ventilation (IMV) Cleaning
+СОЖ maintenance
+Verification of ИП-1 Flow Sensor Position
+CIR Imaging Reconfiguration
+Delta file prep
+Combustion Integrated Rack Optics Bench Translation In
+Combustion Integrated Rack Rack Doors Close
+VEG-03 Dual Facility Watering for each Plant Pillow
+Two-Phase Flow Experiment Multi-purpose Small Payload Rack (MSPR) Video Compression And Recording Unit (MSPR VRU) Power Cycle
+Tropical Cyclone Hardware Closeout
+RED Camera Setup.
+Exercise Data Downlink via OCA
+EIISS Crew Preference RED Camera Target Operations
+RED Camera Deactivation.
+Station Support Computer (SSC) Server Re-Label and Cable Move
+Preparing for Antivirus scan on Auxiliary Computer Laptops
+
+Completed Task List Activities
+
+AstroPi USB swap [Completed GMT 62]
+BEAM Station Support Computer Connection Check [Completed GMT 62]
+Galley Food Warmer Door Pictures [Completed GMT 62]
+JSL Firewall Location Assessment [Completed GMT 62]
+ACY Inserts and Wipes Kits Audit [Completed GMT 63]
+54S Crew Arrival Prep [Completed GMT 63]
+SpaceX-14 Stowage Prep [Completed GMT 63]
+WHC KTO R&R [Completed GMT 63]
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+CIR Support
+EPS Max Loading test
+Standard Commanding
+

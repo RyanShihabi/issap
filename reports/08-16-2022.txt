@@ -1,0 +1,18 @@
+
+Payloads:
+Today, the crew performed payload activities to achieve mission objectives. At any given time on board the ISS, a large array of different experiments are underway within a wide range of disciplines.
+Systems:
+Emergency Russian ISS Very High Frequency (VHF-1) Communication Checkout from USOS: The Russian ISS VHF-1 Emergency Communication was checked out from the USOS. The communication tested the ability for the Houston, Huntsville, Munich, Tskuba, and Moscow control centers to communicate with the crew while over a US VHF site. The ISS can communicate via the Russian Segment’s VHF radios when the ISS is over a VHF ground site and both the ISS and the ground site are configured to transmit and receive VHF signals. The ability to use VHF communications from a US groundsite is periodically verified in the event it is needed during an emergency where the nominal communication path is unusable.
+Russian Water Transfers: Per documented agreements between the US and IP Russia, the Russian crew began transferring water from the USOS to the RS. Surplus water in the USOS was transferred from the Contingency Water Container – Iodine (CWC-I) to an ЕДВ (Russian water container). An ЕДВ is intended for short-term storage and manual water transportation between facilities
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+DDCU 50Hz Data Gathering
+LSR Outgoing Check-Out Operations & RPC Check
+Cargo Dragon Checkouts for Departure
+Node 3 Major Constituent Analyzer (MCA) Zero Calibration
+

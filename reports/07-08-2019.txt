@@ -1,0 +1,112 @@
+
+NanoRacks CubeSat Deployer (NRCSD) Hardware Removal:  As a closeout activity for NRCSD-16, the crew removed the deployers from the Multipurpose Experiment Platform(MPEP) on the JEM airlock slide table, and stowed them.  NRCSD-16 successfully depolyed all 7 of its satellites last week.  The NRCSD is a self-contained CubeSat deployer system for small satellites staged from the ISS. NRCSD is transported to orbit inside the Pressurized Cargo Module of ISS cargo resupply vehicles and utilizes the ISS Japanese Experiment Module (JEM) as a staging facility for operations. NRCSD is integrated with payloads (CubeSats) on the ground.
+Lighting Effects: The crew set up the light meter using Human Research Facility (HRF) PC1 and performed the ambient meter reading.  The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance.
+Medical Proteomics: The 58S crew participated in the fourth Medical Proteomics blood draw.  JAXA’s Medical Proteomics evaluates changes of proteins in blood serum, bone and skeletal muscles after space flight, and supports identification of osteopenia-related proteins. By combining research results for space mice, astronauts and ground patients, proteins related to osteopenia can be identified using the latest proteome analysis technique. It’s anticipated that the use of the marker proteins related to osteopenia will be of benefit in the future for assessing the health of astronauts as well as osteoporosis patients on ground.
+Repository: Blood and/or urine collections continue through Wednesday for the Flight Day  (FD)120 samples for FE5/FE6.  Repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+VEG-04 check and MMD: The crew performed a routine plant check, watered the plants as appropriate, and weighed any broken leaves using the MMD (Mass Measurement Device).  Similar to what was reported late last week on one of the plant pillows, a small area of mold-like substance was reported on 9 of the remaining 11 plant pillows at the base of the plants.  The crew was asked to clean up the mold and water the plants in preparation for the harvest tomorrow (9-July).  The research of Veg-04A focuses on the impact of light quality and fertilizer on leafy crop growth for a 28-day grow-out, microbial food safety, nutritional value, taste acceptability by the crew, and the overall behavioral health benefits of having plants and fresh food in space.
+Extravehicular Mobility Unit (EMU)s 3006 and 3008 Maintenance: The crew performed ionic and particulate filtration and biocidal maintenance of EMU and Airlock cooling water loops. In addition, EMU 3008 Water Line Vent Tube Assembly (WLVTA) was removed and replaced followed by a leak check which is performed periodically as preventive maintenance.
+Completed Task List Activities:
+
+Wanted poster-CQ organizer
+Photo TV bag audit
+WHC KTO replace
+COL toolbox audit
+COL CIMON items relocate
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+EVA loop scrub assist
+CubeSat deployer remove
+EVA EMU WLVTA R&R
+SSRMS FMS fine characterization
+
+Look Ahead:
+Tuesday, 7/9 (GMT 190)
+Payloads:
+
+
+HRF GDS tank photo
+Medical Proteomics
+MERLIN4 install
+Repository
+The ISS Experience
+Two-phase flow valve setting
+Veg-04A harvest
+
+Systems:
+
+RUC cable install hardware gather
+
+Wednesday, 7/10 (GMT 191)
+Payloads:
+
+
+Cerebral Autoregulation
+JAXA EPO dry run
+Repository
+Radi-N2 retrieval
+The ISS Experience hardware stow
+Veggie questionnaire
+
+Systems:
+
+RUC cable routing
+External HD camera boom build 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic HRF Centrifuge Frozen Blood Collection 25 Minutes Subject
+HRF Generic HRF Centrifuge Frozen Blood Collection Operator
+HRF Generic HRF Centrifuge Frozen Blood Collection Configuration
+HRF Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+Japan Aerospace eXploration Agency Sample MELFI Retrieval and Insertion
+HRF Generic Sample MELFI Insertion
+JEM Airlock Press
+On MCC GO Regeneration of БМП Ф1 Micropurification Cartridge (start)
+JEM Camera Robot Preparation for JAXA-EPO-DRUN
+Preventive Maintenance of FS1 Laptop
+NREP XF305 Video Setup
+Monthly Maintenance of Smart Switch Router (БРИ)
+HRF Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+JEM Airlock Leak Check
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+JEM Airlock Slide Table (ST) Extension to JPM Side
+NanoRacks CubeSat Deployer Removal from the MPEP
+Vacuuming [ГЖТ4]’s [ВТ-7] screen behind FGB panel 108
+Handhold Exp Platform Adapter installation
+Transfer of Samples(s) from Glacier to Glacier
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Iodination
+Lighting Effects Light Meter Setup Alternate
+TOCA Water Recovery System (WRS) Sample Analysis
+VEG-04 Water Check and Mass Measurement Device Operations
+СОЖ maintenance
+Lighting Effects Light Meter Ambient Readings
+Auxiliary Laptop Computer System Virus Definition File Update
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+Adjustment of [СКВ1] [BH1] heat valve in SM
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+HRF Generic Urine Collection Setup
+HRF Generic Frozen Blood Collection Setup
+EMU Water Line Vent Tube Assembly (WLVTA) Remove and Replace
+Lighting Effects Light Meter Stow
+Countermeasures System (CMS) Treadmill 2 (T2) Exercise Session
+Replaceable Condensate Removal Lines R&R – setup
+БД-2 treadmill carriage position monitoring and photography
+TOCA Sample Data Record
+Exercise Data Downlink via OCA
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+PROFILAKTIKA-2. Hardware Setup
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+On MCC GO Micropurification Unit (БМП) Ф1 Absorption Cartridge Regeneration (end)
+Reminder HRF Generic Urine Collection
+Preparation for Antivirus Scanning on [ВКС] Laptops
+Reminder 2F HRF Generic Frozen Blood Collection
+
+ 

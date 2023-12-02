@@ -1,0 +1,83 @@
+
+Fluids Integrated Rack (FIR): The crew replaced the two FIR white lights. One was burned out and the other had high usage and was nearing its end of life.  After replacement, the rack was powered from the ground and the Payload Developer verified both lights were functioning properly. The next FIR science operations will occur next week for Light Microscopy Module (LMM) Biophysics 3.
+Human Research Program (HRP):  The crew collected blood, urine and air samples to satisfy Flight Day 15 Biochemical Profile and Flight Day 8 Marrow requirements. 
+
+The Biochem Profile experiment tests blood and urine samples obtained from astronauts before, during and after spaceflight.  Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results which scientists can use to study the effects of spaceflight on the body.
+The Marrow investigation looks at the effect of microgravity on bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow.
+
+Electrostatic Levitation Furnace (ELF): The crew swapped sample cartridges in the ELF and investigated an unidentified object on the ELF observation window that is affecting sample position control.  The ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the Electrostatic Levitation method. With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved.
+At Home In Space: The crew completed an At Home in Space questionnaire today. This Canadian Space Agency experiment assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home In Space uses a questionnaire to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth. 
+Rodent Research-5 (RR-5) Systemic Therapy of NELL-1 for Osteoporosis:  Yesterday the crew stowed the RR-5 Habitats, completing payload operations for RR-5.  Because spaceflight has significant and rapid effects on the musculoskeletal system, it is important to investigate targeted therapies that could ameliorate some of the detrimental effects of spaceflight. The NELL-1 drug being studied in the RR-5 investigation has the potential to slow or reverse bone loss during spaceflight.
+Commercial Off The Shelf (COTS) Ultra High Frequency (UHF) Communication Unit (CUCU): In preparation for SpX-12 arrival currently planned for August 16, the crew powered up and checked out the CUCU and Dragon Crew Command Panel (CCP). CUCU provides a command and telemetry communications link between ISS and Dragon during free flight operations in the vicinity of ISS.  
+On Board Training (OBT) ISS Emergency Response Simulation: All crew members participated in this training exercise to practice a rapid depress and a fire emergency response based on information provided by the simulator displays. The crew also performed the following:
+
+Physically translated through ISS to the appropriate response locations to visualize the use of station equipment and interfaces.
+Practiced procedure execution and associated decision making based on cues provided by the simulator.
+Practiced communication and coordination with Mission Control Center (MCC)-Houston and MCC-Moscow as required for a given emergency scenario.
+
+Following the exercise, the crew and ground teams participated in a review to discuss results and address questions and comments. 
+Mobile Servicing System (MSS) Operations: Yesterday and overnight, Robotics Ground Controllers maneuvered the Space Station Remote Manipulator System (SSRMS) to grapple and unstow the Special Purpose Dexterous Manipulator (SPDM) from Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2).  Next they rotated the SPDM Enhanced Orbital Replacement Unit (ORU) Temporary Platform (EOTP), then maneuvered the SSRMS and SPDM to unstow the Main Bus Switching Unit (MBSU) from External Stowage Platform 2 (ESP2) Site 4 and stow it on EOTP Side 2. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+ISS Handover Ops
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Miniature Exercise Device Operations Session
+SARCOLAB-3 Consumables Kit Refurbishment
+URAGAN. Observation and Photography
+ECON-M. Observation and photography
+Marrow Breath And Ambient Air Sample Collection
+HRF Generic Frozen Blood Collection
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Operations
+HRF Generic Frozen Blood Collection Operations 
+Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops
+HRF Generic Refrigerated Centrifuge Operations
+JEM Airlock Depressurization
+Checkout of CO Gas analyzer toggle position Warm up 
+Move of the MagVector power cable from PPS-1 to PPS 2
+Preparing For Upcoming MagVector Science Run
+Activation and Inspection of Orlan-MK Spacesuits #6.
+Activation and Inspection of Orlan-MKS suit #4.
+Fluids Integrated Rack White Light Lamps Replacement
+ПхО БСС (Orlan Interface Unit) Checkout
+CO Gas analyzer toggle position to Work 
+Checkout of БСС (Spacesuit Interface Unit) in DC1
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Combined Orlan #4 and БСС cooling loop separation in DC1.
+Combined Orlan #6 and БСС cooling loop separation in DC1.
+Environmental Health System (EHS) – Formaldehyde Monitoring Kit (FMK) Deployment Operations
+Environmental Health System (EHS) – Grab Sample Container (GSC) Sampling Operations
+Environmental Health System (EHS) – Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Environmental Health System (EHS) Coliform Water Processing
+Cleaning Fluid System by using Degassing Pump Unit (БОС) in ПхО.
+At Home In Space Questionnaire
+Water Resource Management (WRM) Condensate Sample
+HRF1 PC 3 USB Load Installation
+Orlan #6 ORUs Activity.
+Orlan #4 ORUs activity. 
+Glacier EXPRESS Rack Relocation
+Training for Emergency Response On-board ISS
+Circadian Rhythms Instrumentation w. Armband
+JPM Window Shutter Close
+ISS Crew Orientation
+Photo/TV Photo/TV, Checking Camcorder Settings
+Marrow Breath And Ambient Air Sample Setup Historical Photo
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Checkout
+ISS HAM Video Operations
+
+Completed Task List Items
+
+Electrostatic Levitation Furnace Sample Holder Exchange
+Verify SSRE v5.2 installed and SSRE v4.1 removed
+Swap out PS-120 cables at NOD3 UOP3 and Cupola UOP2
+CEVIS IVIS Measurement
+J-Pro Kit Audit 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+OBT ISS Emergency Sim
+MT Translate WS3 to WS7
+CUCU Checkout
+

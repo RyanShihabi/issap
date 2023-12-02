@@ -1,0 +1,83 @@
+
+Space Station Remote Manipulator System (SSRMS) Operations:  Monday afternoon and overnight, Robotics Ground Controllers powered up the Mobile Serving System (MSS) and configured the SSRMS and Special Purpose Dexterous Manipulator (SPDM) Arm2 for translation.  They then translated the Mobile Transporter (MT) translation from Worksite(WS)7 to WS5, stowed the SPDM on the Lab, and walked the SSRMS onto Node 2.  As part of HTV-6 pre-launch checkouts, Diagnostics and Checkouts of the Payload Orbital Replacement Unit (ORU) Accommodation (POA) (on Prime String) and SSRMS LEE were performed along with the brakes Diagnostics (on both Strings).  Afterward, a checkout of the SSRMS Latch End Effector (LEE) Dual Stage Carriage Rates (DSCR) and the POA diagnostics and checkouts on the redundant power string were performed.
+H-II Transfer Vehicle (HTV) Onboard Training (OBT):  Today, the Robotics Ground Controllers powered up the MSS in preparation for the HTV-6 Offset Grapples Practice Session.  During the training session, the crew practiced maneuvering the SSRMS into the grapple envelope of the Permanent Multipurpose Module (PMM) PDGF.  They performed this maneuver several times and then performed a run during which the Robotics Ground Controllers safed the SSRMS to simulate a failure. After the Offset Grapples practice session, the SSRMS was maneuvered to the HTV-6 High Hover position ready for HTV-6 capture scheduled for 13-December.
+Fluid Shifts: Today was the first of two days of Flight Day 45 (FD45) Fluid Shifts operations performed in the Russian Segment, utilizing the Lower Body Negative Pressure (LBNP/Chibis).  The subject donned the Chibis device, and while the crewmember was exposed to the negative pressure (pulling the fluid feetward), the operator, with remote guidance from Houston, performed arterial and venous measurements of the head and neck; cardiac, ophthalmic, and portal vein measurements; and tissue thickness of various body parts using the Human Research Facility (HRF) ultrasound.  The crew then deconfigured the ultrasound, and configured the Cerebral and Cochlear Fluid Pressure (CCFP) and Distortion Product Otoacoustic Emissions (DPOAE) for tomorrow’s operations. Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Fine Motor Skills: The crew performed their FD20 Fine Motor Skills tests, performing a series of interactive tasks on a touchscreen tablet. The investigation studies how fine motor skills are effected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of Fine Motor Skills is to answer how fine motor performance in microgravity trend/vary over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trend/vary before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods.
+Electrostatic Levitation Furnace (ELF) Sample Holder Exchange: On December 2, the crew removed the samples from the ELF Work Volume and cleaned the internal chamber.  Today, the sample cartridge was removed and replaced with a new sample and then reconnected and integrated in the ELF. The Electrostatic Levitation Furnace (ELF) is an experimental facility designed to levitate/melt/solidify materials by containerless processing techniques using the Electrostatic Levitation method. With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved. The ELF is located in the JEM Multipurpose Small Payload Rack (MSPR) in Kibo. 
+Optical Payload for Lasercomm Science (OPALS):  Today, ground controllers will uplink a patch to the OPALS software, in an attempt to recover capability.  In July 2016, the laser modulation card that supplies data input to the OPALS laser failed.  The option of continuous wave laser operations (continuous ON rather than ON/OFF modulation) was investigated by the OPALS team and forward plan was approved by the Payload Safety Review Panel (PSRP).  During an attempted pass in September 2016, the laser unit was powered on with telemetry indicating nominal performance.  However, the OPALS flight software entered safe mode (with reboot) once the first laser command was sent.  Further investigation determined that the RS-422 commanding interface to the laser unit is not initialized in Version 1.4 in the event the laser modulation card is not detected.  The Version 1.5 update fixes this bug by initializing the RS-422 commanding interface when the laser modulation card is not detected. OPALS tests the potential for using a laser to transmit data to Earth from space.  Instead of being broadcast on radio waves, data is packaged onto beams of laser light and hardware on the ISS will point the laser to a receiver station on the ground. Radio waves transmission is limited by the speed that it can transfer data, but beaming information packages with lasers can greatly increase the amount of information transmitted over the same period of time.
+Japanese Experiment Module (JEM) Airlock (AL) Repress:  Following a week of Robotics External Leak Locator (RELL) operations, last weekend the Robotics Ground Team installed the RELL on the slide table followed by the slide table being retracted back into the JEM AL.  Earlier today the crew pressurized and performed a leak check of the JEM AL.  Tomorrow the crew is scheduled to remove the JEM ORU Xfer I/F (JOTI) and RELL from the slide table. 
+Oxygen Generator System (OGS) Flow Measurements:  Last night the Oxygen Generation Assembly (OGA) was commanded to Standby due to low air flow in the rack as measured by crew. This morning the crew repeated the flow measurements for the OGS Avionics Air Assembly (AAA). Today’s readings indicated 6.6 cubic feet per minute (cfm) which is nominal. No AAA cleaning is required at this time, and OGS has been reactivated. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+ Acoustic Dosimeter Setup Day 2
+Fine Motor Skills Experiment Test – Subject
+FLUID SHIFTS. Comm Config for Experiment
+XF305 Camcorder Setup
+Electrostatic Levitation Furnace(ELF) Sample Holder Exchange
+FLUID SHIFTS. TV Hardware Prep and Setup
+Fine Motor Skills Experiment Test – Subject
+FLUID SHIFTS. РБС Activation for Ultrasound Hardware
+Fluid Shifts Ultrasound Service Module Power On Preparation
+Monitoring the Results of Nikon Digital Matrix Cleaning and File Name Changing.
+EveryWear Biometric Patch setup for sleep assessment
+In-Flight Maintenance (IFM) Airlock Stowage Clear
+FLUID SHIFTS. Chibis Countermeasures Vacuum Suit Setup
+FLUID SHIFTS. Assistance during Operations with Chibis Countermeasures Vacuum Suit and Gamma-1.
+In Flight Maintenance (IFM) Airlock (A/L) Smoke Detector (SD) Cleaning
+Oxygen Generation System Flow Measure Placeholder
+Fluid Shifts Ultrasound Service Module Scan
+Regenerative Environmental Control and Life Support System (RGN) Recycle Tank Fill
+Robotic Workstation (RWS) Setup
+FLUID SHIFTS. Closeout Ops with Chibis Countermeasures Vacuum Suit
+FLUID SHIFTS. РБС Deactivation
+Routine Maintenance of SM Audio Subsystem [СТТС] (LP Path and УКВ Functionality Checkout).
+FLUID SHIFTS. Crew Onboard Support System (КСПЭ) Hardware Deactivation and Closing SSC Apps
+Fluid Shifts Ultrasound Service Module Stow
+FLUID SHIFTS. Nominal Comm Confit Restoration
+Fluid Shifts HRF PC CCFP Service Module Setup
+Delta file prep
+FLUID SHIFTS. Cable Assembly Setup for Power Converter.
+Fluid Shifts Ultrasound Hardware Transfer
+FLUID SHIFTS. Connection of US Invertor to Onboard Equipment Control System (СУБА).
+Public Affairs Office (PAO) High Definition (HD) Config Columbus Setup
+PAO Preparation
+JEM Airlock Press
+VEG-03 Plant Photo
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Extravehicular Mobility Unit (EMU) Conductivity Test
+Filling in (Degassing) of EDV (KOV) for Elektron or EDV-SV
+Comm Config in MRM2 for the Experiment
+On-board Training (OBT) HTV Offset Grapple
+KULONOVSKIY KRISTALL. Experiment Ops.
+JEM Airlock Leak Check
+Habitability Human Factors Directed Observations – Subject
+СОЖ maintenance
+Restoration of Nominal Comm Config in MRM2
+KULONOVSKIY KRISTALL. Data Transfer and Downlink
+On-board Training (OBT) HTV Offset Grapple
+ИП-1 Sensors Installation Monitoring
+Onboard Training (OBT) SSRMS Debrief Conference
+Measurement of CO Partial Pressure using CSA-CP near the Central Post (location: SM Central Post, Panel 208). Battery Changeout (if required) on MCC-H Go. Report the readings and CSA-CP number to MCC. Use one CSA-CP during the measurements
+Countermeasures System (CMS) Treadmill 2 (T2) Quarterly Maintenance
+Crew Medical Officer (CMO) On Board Training (OBT)
+Countermeasures System (CMS) Treadmill 2 (T2) Exercise Session
+Extravehicular Mobility Unit (EMU) Swap
+Stow Syringes used in H2O Conductivity Test
+
+Completed Task List Items
+
+ICE Brick Stow
+Automated External Defibrillator (AED) Inspection
+T2 Monthly Inspection
+EVA Payload Water Reservoir Degas
+EVA On Orbit Measurements
+MERLIN Desiccant Maintenance
+Russian Segment IWIS RSU Connection and Configuration Survey
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+SSRMS Walkoff
+

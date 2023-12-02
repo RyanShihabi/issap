@@ -1,0 +1,101 @@
+
+New Status:
+Russian Navigation Receiver Module [НПМ-3] Failure Status: Today on Daily Orbit 1, Mission Control Center – Moscow (MCC-M) power cycled НПМ-3 and recovered the GPS receiver. Specialists plan to use the GPS receiver in support of ATV4 docking scheduled for Saturday, June 15, 2013. Preliminary data indicates a software glitch triggering a failure message and subsequent НПМ switchover. In the event that НПМ-3 does fail, cable swapping can be performed to restore functionality using НПМ-2. 
+
+51 Progress (51P) Undocking: The 51P vehicle successfully undocked from the Russian Segment Service Module (SM) aft docking port at 8:58 am CDT after the command to open the vehicle hooks was issued at 8:56 am CDT. the separation appeared smooth with no vibrations noted. Video from the Progress vehicle showed that the SM docking ring surface appeared nominal and free of debris. Telemetry indicated that the АСФ-02 antenna that had not deployed prior to docking deployed after hook opening.  Pre-undocking analysis by NASA ground specialists indicated that should the antenna deploy, a nominal clearance of 2 mm between the antenna and in other SM obstructions should have existed. The first fifteen second burn separation burn was completed at approximately 9:01 am CDT. Following several days of the Russian Radar-Progress experiment, the deorbit of the vehicle is planned for GMT 170 (June 19th, 2013) starting at approximately 7:52 am CDT. Specialists are reviewing data and photography of the Progress taken by the ISS crew.
+
+Advanced Colloids Experiment (ACE) Install: Flight Engineer (FE)-3 Cassidy installed the ACE-1 investigation in the Combustion Integration Rack (CIR) Fluids and Combustion Facility (FCF). This portion of the ACE experiment series will be the second of ten wells planned for Increment 35/36. Cassidy placed two oil dispensers and a pack of wipes into the Auxiliary Fluids Container (AFC), mixed the sample, and dispensed oil onto the sample. ACE-1 is a series of microscopic imaging investigations that uses the microgravity environment to examine flow characteristics and the evolution and ordering effects within a group of colloidal materials.
+
+Periodic Fitness Evaluation (PFE): FE-5 Parmitano and FE-6 Nyberg performed their first monthly PFE.  The purpose of this activity is to monitor crewmembers’ overall fitness levels to ensure that cardiovascular and musculoskeletal health and performance is satisfactory.The activity consists of performing a graded exercise test on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
+
+Russian Segment (RS) Extravehicular Activity (EVA) Prep: FE-2 Misurkin and FE-4 Yurchikhin prepared hardware to be used and taken out during RS EVA 33, scheduled for June 24, 2013.
+Today’s Planned Tasks
+· PLAZMA CRYSTAL. Pressure Monitoring  [Complete] 
+· CHROMATOMASS. Experiment prep  [Complete] 
+· CHROMATOMASS. Saliva and blood sample collection  [Complete] 
+· Verification of virus scan outcomes on networked ACS laptop [Complete] 
+· Hardware setup  [Complete] 
+· ATV rendezvous and docking drill 1 using the on-board trainer.  [Complete] 
+· Prep for SM window inspection and photography
+· CHROMATOMASS. Closeout operations  [Complete] 
+· Video equipment install for PFE imagery [Complete] 
+· Periodic fitness evaluation  [Complete] 
+· ПхО and DC1 setup for EVA  [Complete] 
+· Comm config for experiment ops out of MRM2  [Complete] 
+· PLAZMA CRYSTAL. Equipment power-up and experiment start  [Complete] 
+· Video (Б-Ц)PLAZMA CRYSTAL. TV signal verification using ВКУ  [Complete] 
+· Video (Б-Ц)PLAZMA CRYSTAL. Start, monitoring, and experiment start  [Complete] 
+· Video-MPEG2 (Ku-band) Start of NASA MPEG2 Viewer app on CP SSC laptop, mpeg2 multicast video stream monitoring [Complete] 
+· ПхО and DC1 setup for EVA  [Complete] 
+· HRF1-SLAMMD-equipment stow [Complete] 
+· Periodic fitness evaluation  [Complete] 
+· HAM radio hardware deactivation [Complete] 
+· ACS (auxiliary computer system) familiarization. [Complete] 
+· CIR- equipment install [Complete] 
+· Periodic fitness evaluation – nominal ops  [Complete] 
+· DOUG Review  [Complete] 
+· PLAZMA CRYSTAL. Experiment termination  [Complete] 
+· FIR- rack door opening [Complete] 
+· PFE – video hw stowage [Complete] 
+· Audiography using EARQ [Complete] 
+· HRF1- equipment install [Complete] 
+· LMM- equipment prep and video imagery [Complete] 
+· PLAZMA CRYSTAL. Data transfer from HDD [Complete] 
+· ACE-sample prep and mixing [Complete] 
+· HRF1- software install and body mass measurement [Complete] 
+· Comm reconfig to nominal following MRM2 ops [Complete] 
+· Crew adaptation and station familiarization time [Complete] 
+· SSC1(3) Laptop setup for 51P undock [Complete] 
+· On-board trainer ATV rendezvous and docking drill [Complete] 
+· LMM-hardware setup and video imagery [Complete] 
+· USOS window shutter closure [Complete] 
+· Photo imagery of 51P docking mechanism out of SM Window 26 post-ISS separation  [Complete] 
+· ПхО and DC setup for EVA  [Complete] 
+· Recording of mpeg2 multicast and mpeg2 unicast video streams during 51P undock [Complete] 
+· On MCC Go Transition of ПрК-ТК Pressure Equalization valce to CLOSED  [Complete] 
+· ПхО and DC1 setup for EVA [Complete] 
+· Audiography using EARQ software [Complete] 
+· FIR- rack door closure and video imagery [Complete] 
+· TOCA – calibration [Complete] 
+· SM Window Nos. 3, 5, 6, 7 inspection and photography [Complete] 
+· HRF1- software install and body mass measurement [Complete] 
+· SPHERES- hw assembly [Complete] 
+· HRF1- software install and body mass measurement [Complete] 
+· СОЖ Maintenance 
+· HRF1 – closeout steps and stowing hw [Complete] 
+· MSG- visual inspection of hardware [Complete] 
+· IDENTIFIKATSIYA. Transfer of ИМУ-Ц measurements to laptop [Complete] 
+· REC1 – photographing connections [Complete] 
+· Draining WTA  waste water tank into CWC [Complete] 
+· HAM radio hardware activation [Complete] 
+· BASS- hardware disassembly and stow [Complete] 
+· IMS Update [Complete] 
+· Crew adaptation and station familiarization time [Complete] 
+· Draining WTA  waste water tank into CWC [Complete] 
+· HRF1-SLAMMD-hardware power-down, tear-down [Complete] 
+· RS to US handover of failed ATV4 videometer target #4  [Complete] 
+· ISERV – Lab window shutter opening [Complete] 
+· MSG- equipment power-down [Complete] 
+· TOCA- recording of calibration data [Complete] 
+· PLAZMA CRYSTAL. Pressure monitoring  [Complete] 
+· REMINDER- PFE reminder review [Complete] 
+· REMINDER- Saliva reminder review [Complete] 
+· URAGAN. Observation and photo imagery  [Complete] 
+
+Task List
+· CEO Ops [Complete]
+· ISS Crew Handover [Complete]
+· WHC KTO replace [Complete]
+· WHC EDV R&R
+· Cue card trash
+· Preparation of reports for Roskosmos site
+· ECON-M. Observations and Photography
+· URAGAN Observations and Photography
+· EVA Connector Insulating Sleeve Wanted Poster [Active]
+· CSD Holder Check
+· EVA On-Orbit Measurement/Fit Check
+· N2 Spare Tools Audit  [Complete] 
+· Payload Trash Gather [Active]
+
+Ground
+Nominal Commanding

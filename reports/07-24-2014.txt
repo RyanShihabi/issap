@@ -1,0 +1,96 @@
+
+NanoRack Cubesat Deployer-Quad (NRCSD-Q) Installation: Flight Engineer (FE)-6 Gerst installed two sets of NRCSD-Qs on the slide table in the JEM Airlock (JEMAL). The Cubesats were delivered on Orb-2 and will be deployed via the JEM Remote Manipulator System (JEMRMS) at a later time.
+Clean Bench (CB) Maintenance and Valve Check: Commander (CDR) Swanson cleaned the CB chambers and checked out the relief valves. This is periodic maintenance for the CB which is located inside the Saibo Rack in the JEM Pressurized Module (JPM).
+Earth Rim Observation: FE-5 Wiseman set up cameras in the Cupola and took sequential pictures of the Earth’s rim. The images will be taken in conjunction with the nadir-pointing Visible and Infrared Spectral Imager (VISI) on the external Multi-mission Consolidated Equipment (MCE). This will give the ground stereoscopic images to help clarify the structures and dynamics of the Earth’s upper atmosphere, using the emission of the airglow and the aurora.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Vertigo Review: Swanson and Gerst reviewed the SPHERES Vertigo procedures in preparation for the SPHERES Vertigo test run scheduled for tomorrow. The investigation uses the SPHERES facility free-flying satellites and is designed to demonstrate and test, in a complex environment, enhanced technologies and techniques related to visual inspection and navigation. This effort incorporates hardware and software that enables multiple SPHERES to construct three dimensional (3D) models of a target object. Additionally, this investigation explores how well the SPHERES free-flyers then perform relative navigation solely by reference to these 3D models.
+Maneuver Post 56 Progress (56P) Docking:  Following the successful docking of 56P last night during the maneuver to Torque Equilbrium Attitude (TEA) under Service Module thrusters, the Russians paused the maneuver due to high propellant usage. 56P was incorporated into the control system and the maneuver was continued using 56P roll thrusters.  Following the reconfiguration, the maneuver was continued.  During this phase of the maneuver, one of the thrusters in SM manifold 2 did not perform as expected and FDIR swapped to an equivalent manifold 1 thruster.  After the ISS arrived at TEA, it took some time for the rates to settle, but the Control Moment Gyro (CMG) Momentum Manager (MM) mode was subsequently enabled.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+PROK – Urine Sample Collection [Complete]
+SPHERES – Battery Charge [Complete]
+CB. Clean Bench (CB) Cleanup and Valve Checkout [Complete]
+Relocate and configure SSC in preparation for subsequent activity with EMU [Complete]
+JEMAL – Sample Module Setup [Complete]
+EMU LIB battery Charge (end) [Complete]
+J-SAM. Small Fine Arm Attachment Mechanism (SAM) Configuration Correction [Complete]
+NanoRacks Cubesat – Deployer Swap  [Complete]
+On MCC GO ТКГ 423 and DC1 Interface Leak Check  [Complete]
+Return SSC (crew’s preference) used for subsequent activity, EMU-LLB AUTO-INIT [Complete]
+PAO Hardware Setup [Complete]
+CASKAD.  r/g 6193 [Complete]
+Crew Prep for PAO [Complete]
+ТОР Kit Audit / r/g 6190 [In work]
+PAO Event [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+EARTH – Earth Observations [Complete]
+DC1-СУ Transfer Hatch Opening / Deactivation/Activation [Complete]
+On MCC GO ТГК-СУ Hatch Opening / IRS Activation/Deactivation [Complete]
+ТКГ 423 (DC1) Air Sampling using АК-1М sampler  r/g 6186 [Complete]
+Photography of a scuff mark left by the Active Docking Mechanism Probe on the Passive Mechanism Receiving Cone / r/g 2664 [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+ТКГ 423 (DC1) deactivation, air duct installation / IRS Activation/Deactivation [Complete]
+ТОР Kit Audit / r/g 6190
+JEMAL Slide Table (ST) Retraction [Complete]
+Downlink Docking Cone Internal Surface Photos/Data via OCA [Complete]
+Food Frequency Questionnaire [Complete]
+IVA. Exercise Clothes Survey [Complete]
+SPHERES – Battery charge [Complete]
+PROK – Controlled Diet Log [Complete]
+SPHERES – Review [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+AMS Replacement of hard drive. [Complete]
+AMS Historical Documentation Photography [Complete]
+Removal of ТКГ 423 docking mechanism and installation of two handles on the front of the hatch door / r/g 4412 [Complete]
+Replacement of Pretreat Container, Pretreat and Water Dispenser (ДкиВ), and Hose in АСУ / r/g 6135 [Complete]
+ISS HAM – HAM Radio Power up [Complete]
+IMS and Stowage Conference [Complete]
+CUBESAT. Downlink of video files [Complete]
+JRNL – Journal Entry [Complete]
+AU-UBNT – Closeout Ops  [Complete]
+IMS Delta File Prep 
+IVA. Everyday Clothes Survey  [Complete]
+Daily Planning Conference (S-band) [Complete]
+IVA. Everyday Clothes Survey [Complete]
+ТКГ 423 (DC1) Early Unstow, Priority and US Cargo Transfers and IMS Ops  r/g 6184, 6185 [Complete]
+SPHERES – Battery charge  [Complete]
+Dried Clothes Stowage  [Complete]
+IVA. Exercise Clothes Survey / USOS procedures [Complete]
+IVA. Everyday Clothes Survey / USOS procedures [Complete]
+REGENERATSIYA-1. Container Transfer and Setup / r/g 6179
+CASKAD. Hardware Transfer from ТКГ 423 (DC1) / r/g 6194
+BIOPOLIMER. Hardware transfer and stow / r/g 6196
+CASKAD. Bioreactor Setup in Thermostat at +4 deg C. Photography Anabioz P/L Power Off / r/g 6194
+REGENERATSIYA-1. Photography at Setup Location / r/g 6179
+CALCIUM. Calcium Kit Transfer and Setup in MRM1 / r/g 6192
+ASEPTIC. Hardware Transfer from ТКГ 423 (DC1) to MRM1 / r/g 6195
+CALCIUM. Kit Photography / r/g 6192
+MEMBRANA. Kit Transfer to MRM2 / r/g 6197
+Dried Clothes Stowage / USOS procedures
+
+Task List
+
+ARED Cylinder Evac
+Earth imagery
+WHC-ЕДВ-У R&R
+WHC KTO replace  [Complete]
+Roscosmos Report
+ORB CES data download
+Uragan photo
+3DA1 cam ops
+ACE video view
+ARED detent flip
+T2 HRM relocate
+CSA CP taping
+EVA A/L reconfig part D
+EVA A/L flr bin reconfig
+Cygnus transfer cargo ops [In Work]
+56P unpack 
+
+Ground
+
+Nominal commanding
+

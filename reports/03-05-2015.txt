@@ -1,0 +1,77 @@
+
+NanoRack Cubesat Deployer (NRCSD):  The final 2 CubeSats were successfully deployed overnight which concludes deployment activities for this increment. A total of 16 satellites have been deployed.
+Airway monitoring:  The crew reviewed information to familiarize themselves with the Airway Monitoring experiment.  Specialists on the ground were available to answer crew questions. To prepare for Friday’s measurements, Cristoforetti and Virts prepared the airlock by removing equipment, transferring and setting up Airway Monitoring hardware and configuring a video camera. The primary goal of the Airway Monitoring experiment is to determine how gravity and microgravity influence the turnover of Nitric Oxide (NO) in the lungs.  During future manned missions to the Moon and to Mars, airway inflammation due to toxic dust inhalation is a risk factor. Since dust may cause airway inflammation and since such inflammation can be monitored by exhaled NO (Nitric Oxide) analysis the present study is highly relevant for astronaut health in future space programs.
+TripleLux-B: Cristoforetti performed troubleshooting steps on Monday to recover smoke detection in the Biolab facility. She removed & replaced (R&R) an Exchangeable Standard Electrical Module (ESEM) board in the Biolab that was suspected to be the issue, however, this did not solve the smoke detector problem. Today she R&Rd the unit with a refurbished ESEM board. When the rack was reactivated, the outlet tripped which is a new signature. A forward plan is being worked for next week’s planned activities.
+Special Purpose Dexterous Manipulator (SPDM) Diagnostics/Robot Micro Conical Tool (RMCT) 1 Troubleshooting: In preparation for the Pump Module relocation scheduled for March 6-7, yesterday Ground Controllers positioned the SPDM and stowed RMCT2. They engaged launch locks on RMCT1 and successfully released its collets. The collets were cycled open and back to close one time for data collection.  Following review of preliminary data, the robotics team determined that having the launch locks engaged was affecting the data so no further cycles were performed.  Ground teams will plan further data collection activities. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+MORZE. Measuring Bioimpedance Using SPRUT-2. / r/g 8175
+HRF Urine Sample Collection
+ТК 715 Kazbek Fitcheck
+Vozdukh Deactivation
+MATRYOSHKA-R. BUBBLE  r/g 8171
+TPLXB activities 
+Periodic fitness assessment –nominal ops (subject)
+Crew Departure Prep
+Acoustic Dosimeter Setup for Static Measurements
+Measuring the gap of the Japanese Small Satellite Orbital Deployer (JSSOD) Separation Mechanism
+CASKAD. Manual Mixing in Bioreactor / r/g 8041
+WRS – Recycle Tank Fill
+End of EMU purification cartridge regeneration
+AIRMON. Airlock prep for monitoring
+ТК 714 Packing with Hardware for Disposal / r/g 8096
+Study of cardiovascular system under graded physical load on VELO
+IDENTIFIKATSIYA. r/g 8177
+Parameter settings for МRМ2 ТВУ update to Version 03.04.01. r/g 8166
+NAPOR-mini РСА. БЗУ-М SW update r/g 8185
+MRM2 [ТВУ] with New SW Version Restart,  r/g 8166
+Report Soyuz 714 loading completion / r/g 8096
+MELF3 – ice-pack install
+Med ops CBT
+AIRMON. Procedure review
+Inventory and Stowage conference
+MRM2 ТВУ SW Upgrade, / r/g  8166
+MATRYOSHKA-R. Monitoring Lulin-5 readings / r/g 8172
+HMS – food questionnaire
+Psychological Evaluation Program (WinSCAT)
+Charging GoPro HERO3 Camcorder Battery – start
+AIRMON. Equipment Stow
+Vozdukh Activation
+Comm Config for MRM2
+HRF Urine Sample Collection
+МИМ2 Multifunction Indicator Panel (МПИ) Activation.
+Comm reconfig to nominal
+Electrical measurements in Soyuz 715 Descent Module r/g 8186
+AIRMON. P/TV. Video Set Up
+Closing USOS Window Shutters
+HRF – sample insertion in MELFI
+AIRMON. Camera and Hardware setup
+HRM data transfer from iPad ISS server
+MORZE. Closeout ops / r/g 8175
+WRS – Recycle Tank Fill [Aborted]
+Airway Monitoring Tagup
+CMS HRM iPad download [Aborted]
+Audiogram reading with EARQ
+Post-PE hygiene ops
+PAO [Aborted]
+Charging GoPro HERO3 Camcorder Battery – end
+Airway Monitoring PMC [Aborted]
+Video camera GoPro HERO3 setup and Adjustment for ТК 714 Descent Operation
+CASKAD. Manual Mixing in Bioreactor / r/g 8041
+AIRMON. Hardware Deactivation 
+
+Completed Task List Items
+
+N2 IDA cable prep
+ARED grip install
+Emergency NH3 Measurement kit photo
+Moon Imaging Stowage Relocate
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Airway Monitoring
+

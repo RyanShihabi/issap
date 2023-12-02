@@ -1,0 +1,24 @@
+
+Payloads:
+Manufacturing Device (ManD): The crew replaced the feedstock canister, extruder, and build platform in ManD to enable a test object to be printed. Following a failed print attempt, the crew manually fed the feedstock into the extruder to allow another print attempt. The Additive Manufacturing Facility (AMF) enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the AMF that is installed into an EXPRESS Rack locker location. The AMF is capable of producing parts out of a wide variety of thermo-polymers including engineered plastics.
+Fixed Radio Frequency Identification (RFID) Smart Sensing: The sixteen RFID Smart Sensing drawer monitor system tags were removed from their Zero-G stowage rack doors, inserted in the RFID Smart Sensing drawer monitor system kit, and stowed for return. RFID readers and antennas have operated on ISS since 2017. Additional reader and antennas were installed on a robotic free-flying Astrobee in January 2021. RFID-Enabled Autonomous Logistics Management-3 (REALM-3) (RFID Smart Sensing) builds on this work, extending the reach of RFID signals behind stowage racks and placing motion sensors imbedded in RFID tags on rack doors. Results could increase the accuracy of RFID inventory and item location.
+Zero T2: An Isometric Mid-Thigh Pull (IMTP) exercise session was performed on the Advanced Resistive Exercise Device (ARED). Exploration-class missions including Artemis, Gateway, and beyond require an exercise device that is lightweight and has a small footprint. These devices provide a variety of full body resistance exercise options, as well as aerobic rowing and cycling, but no treadmill. Without a treadmill there is no means of ambulating, or reinforcing the motor pattern of walking and therefore the objective of this study is to quantify the effect of no treadmill usage during an entire spaceflight mission on bone, muscle, aerobic, and sensorimotor health and performance, which is important data for determining the adequacy of exercise regimens for exploration missions.
+Systems:
+Water Recovery System (WRS) Waste Tank Sample: The crew performed sampling of the Water Process Assembly (WPA) Waste Water Tank using access provided by the Process Line B on the WRS-2 Rack interface panel. The WPA is part of the Environmental Control and Life Support System (ECLSS) and provides the capability to produce potable quality water from humidity condensate and reclaimed urine distillate.
+Water Resources and Management (WRM) Condensate Sample: The crew collected a condensate sample from the Condensate Sample Port at the WRS-2 Utility Interface Panel (UIP). This procedure is performed when condensate is being collected into the WPA Waste Tanks because the lines leading to the WPA contain the most recently collected condensate. The WRM is for water venting, water transfer activities, waste disposal, and water sampling for the USOS.
+Environmental Health System (EHS) – Microbial Capture Device (MCD) and Coliform Water Sample Analysis: The crew completed post-processing analysis of the samples that were acquired on GMT 93. The samples were allowed 48 hours of incubation before the crew visually analyzed the Coliform Detection Bags and MCDs and recorded the results. 
+Kentavr Fit Check: The 69S crew performed Kentavr fit checks in preparation for the 69S relocation from MRM2 to the Russian Node Module scheduled for tomorrow, April 6th. The Kentavr is a special tight fitting protective elastic suit that the crew wears as a countermeasure to fluid shifts and circulatory issues during descent. 
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Crew Dragon Awake Mode Checkout
+MSS Maneuver to Translate
+MT Translation
+PRO LSG Facility Commanding
+PRO FIR Commanding
+CCS MT DBCL Dump
+

@@ -1,0 +1,172 @@
+
+Rodent Research-19 (RR-19): The crew completed the Life Science Glovebox Cleaning activity. Mighty Mice in Space: Preclinical Evaluation of a Broad Spectrum Myostatin Inhibitor to Prevent Muscle and Bone Loss Due to Disuse uses rodent models on the ISS to investigate the potential benefits of targeting the myostatin (MSTN) and activin signaling pathways to prevent skeletal muscle and bone loss during spaceflight and on the recovery of muscle and bone following return to Earth. This research could provide valuable preclinical data to support clinical trials for MSTN therapies for a wide range of conditions that affect muscle and bone health. Such research is particularly important for conditions that involve disuse muscle atrophy (muscle wasting due to immobility or lessened activity)—for example, patients recovering from hip fracture surgery, intensive care patients, and the elderly.
+Combustion Integrated Rack (CIR): As a continuation of the s-Flame experiment, the crew performed a manifold H2 and CH4 bottle exchanges. The CIR includes an optics bench, combustion chamber, fuel and oxidizer control, and five different cameras for performing combustion experiments in microgravity. 
+Cell Biology Experiment Facility-L (CBEF-L): The crew installed the Plant Experiment Unit into the CBEF-L facility. CBEF-L is a Japan Aerospace Exploration Agency (JAXA) new subrack facility, which is an upgraded facility of the original Cell Biology Experiment Facility (CBEF) currently aboard the International Space Station (ISS). CBEF-L provides new capabilities with additional new resources such as Full High Definition video interface, Ethernet, 24 VDC power supply, and a larger diameter centrifugal test environment. By using the original CBEF and CBEF-L as one facility for the same experiment, the payload user is provided with an upgraded experimental environment that can handle the processing of more experimental samples for a wider array of experiments.
+JAXA Mouse Habitat Unit-5 (JAXA MHU-5): The crew gathered items in preparation of the next Mouse Mission experiment and installed the food cartridges (5) to cage units. JAXA Mouse Habitat Unit-5 (MHU-5) examines the effects of partial G on mice using the JAXA-developed mouse habitat cage units (HCU) that can be installed in the newly developed Centrifuge-equipped Biological Experiment Facility-L (CBEF-L) on the ISS. Stress caused by partial G may alter gene expression in cells of the body. The investigation analyzes any such alterations and their possible effects on development of germ cells, which carry genetic information and expression to subsequent generations. 
+Saibo Experiment Rack: The crew disconnected the CO2 gas Umbilical from the Z-panel to allow ground teams to perform a CO2 leak check as part of troubleshooting steps. Saibo Experiment Rack which means “living cell,” includes a Clean Bench glovebox with microscope that isolates the organisms being studied, and Cell Biology Experiment Facility that includes incubator and centrifuges. 
+JAXA Colloidal Clusters: The crew inserted the sample container which arrived on SpX-19 into the FROST cold stowage facility. JAXA Colloidal Clusters investigates the mechanism for formation of tetrahedral clusters of negatively and positively charged particles suspended in liquid. These clusters are examined and characterized after return to Earth. The clusters may be useful as building blocks of future photonic, or light-manipulating, materials.
+Systems:
+SpX-19 Post Mission Operations:  The Dragon vehicle has been recovered after splashdown. All of the splashdown cargo operations are complete and are being transferred by ship.  The recovery ship is expected to arrive at Long Beach, California today.  On-orbit, the ISS crew completed the deactivation on the SpX Dragon CUCU unit.  
+X2R18 Database Transition: Following the X2R18 step-up, the POIC flight control team was not able to send commands through the command server. The command servers were cycled after returning to the old activity, which resolved the issue.  Today, the ISS crew completed the X2R18 PCS-Z book Imaging Part 1 activity, however, the remaining X2R18 transition activities are currently deferred while ground teams troubleshoot the root cause for the payloads command server issue.
+Resupply Stowage Platform (RSP) Transfer:  The ISS crew completed the transfer of one Resupply Stowage Platform (RSP) form the PMM1D3 location to the Cygnus aisle-way. The RSP was partially disassembled to allow it to fit through the Cygnus hatchway. The crew noted there were no contact issues with the hatch or hatch seal during the transfer procedure.
+P6 Battery Extravehicular Activity (EVA) Preparations: Today, the ISS crew completed EVA procedure reviews, DOUG review, EVA Tool Config, and participated in an EVA conference to support the P6 Solar Array battery EVAs.  The P6 battery EVA is aimed to upgrade the Solar Array battery from Nickel Hydrogen to the new Li-Ion battery.
+Completed Task List Activities:
+
+No task list activities were completed.
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+X2R18 database transition [deferred] 
+
+Wednesday, 1/8 (GMT 008)
+Payloads:
+
+
+RADIN2 – Dosimeter (8) retrieval (CSA)
+Probiotics Saliva and Questionnaire (JAXA)
+CBEF-L Plant Experiment Install (JAXA)
+Mouse Habitat Food Prep (JAXA)
+SAIBO CO2 QD removal (JAXA)
+JAXA Colloidal Clusters Sample Container in FROST (JAXA)
+Food Acceptability (NASA)
+Rodent-LSG Clean (NASA)
+HRF-Saliva Setup (NASA)
+CIR manifold 4 bottle exchange (Joint)
+
+Systems:
+
+RWS teardown
+CUCU deactivation
+EVA procedure review
+EVA procedure conference
+EVA DOUG review
+EVA tool config
+Vision Test Ethernet cable deploy
+
+Thursday, 1/9 (GMT 009)
+Payloads:
+
+
+CBEF-L Plant Experiment Unit Removal (JAXA)
+CBEF-L Mouse Habitat and video setup Reconfig (JAXA)
+AWP Data Downlink (NASA)
+Standard Measures Saliva collect (NASA)
+CSA Frozen Blood Collect (CSA)
+LIDAL Setup and Activation (NASA)
+Food Acceptability (NASA)
+
+Systems:
+
+EVA EMU Resize
+EVA SAFER C/O
+EVA REBA
+EVA Tool Config
+EVA BSA Ops
+EVA LLB Ops
+EVA Airlock Stow
+EVA LLB/Metox Install
+HMS AED Inspect
+Vision Testing
+Columbus SW Load
+X2R18 PCS and Z-book
+X2R18 PCS and Z-book Stow
+
+Friday, 1/10 (GMT 010)
+Payloads:
+
+
+Food Acceptability (NASA)
+Mouse Habitat Interface unit Install to CBEF-L and Checkout and Utility Outlet Panel config (JAXA)
+Food Physiology Briefing (NASA)
+SABL CO2 Incubator Controller install and Short Tray Insert (NASA)
+
+Systems:
+
+EVA EMU Water Recharging
+EVA EMU Loop Scrub
+UPA Brine Filter R&R
+EVA LLB Ops Term
+EVA PTV POM Battery Charge Swap
+MMU2 R&R
+HRF1 Rack Rotate
+Columbus Bay 4 Clean-up
+Columbus VCA2 ADJ
+Vision Test
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Preparation of reports for Roscosmos website and social media
+ECON-M. Observations and Photography
+Probiotics Saliva Operations
+Probiotics Saliva Sample MELFI Insertion
+Probiotics Question
+Thermal Amine AC Power Check
+XF305 Camcorder Setup
+CBEF-L Plant Exp Unit Installation
+Food Acceptability Survey
+JAXA Mouse Mission 5 Item Gathering
+Robotic Workstation (RWS) Teardown
+PILOT-T. Preparation for the experiment.
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements.
+Pressure Management Device (PMD) Teardown
+LSG Work Volume Deploy
+ESA Weekly crew conference
+CBEF-L Door Lock Confirmation
+Extravehicular Activity (EVA) Procedure Review
+CBEF-L Experiment Laptop Setup
+Radi-N Detector Retrieval/Readout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors from USOS.
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements. Memory Card pre-pack for return.
+JAXA Mouse Mission 5 Food Cartridge Preparation
+Colloidal Clusters Sample Container Transfer
+Wanted – JAXA Flag Kit 10, S/N 002 Part 1
+Combustion Integrated Rack (CIR). Upper Rack Doors Open
+PILOT-T. Experiment Ops.
+Combustion Integrated Rack Manifold #4 Bottle Replacement
+Vision Testing Ethernet Cable Deploy
+Extravehicular Activity (EVA) Procedure Conference
+Combustion Integrated Rack Upper Rack Doors Close
+Battery Stowage Assembly (BSA) Operation Initiation
+S&M Resupply Stowage Platform (RSP) Transfer to Cygnus
+PILOT-T. Closeout Ops
+Portable Computer System (PCS) Imaging Pre Gather
+Weekly check of video recording equipment performance on the ISS RS
+СОЖ Maintenance. Verification of ИП-1 Flow Sensor Position
+Probiotics Capsule Preparation
+Saibo Rack CO2 Gas Umbilical Removal
+Health Maintenance System (HMS) Vision Questionnaire
+JEM Common Gas Support Equipment (CGSE) Lower CO2 Gas Supply Start
+Photography of FGB panels: 202, 210, 211, 402, 410, 411, 102, 106
+Inspection and Cleaning of Laptops RS2, RS1 (ФГБ1ПГО_4_426_1 0.5 CTB 1166 (006615J)).
+IMS Delta File Prep
+CSA Generic Frozen Blood Collection Hardware Setup
+On MCC Go RS3 Laptop Inspection and Cleaning.
+Rodent Research Life Science Glovebox Clean up
+JEM Common Gas Support Equipment (CGSE) Lower CO2 Gas Supply Stop.
+Health Maintenance System (HMS) Vision Test
+X2R18 Software Transition Review
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+COTS UHF Communication Unit (CUCU) Deactivation
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review
+CONTENT. Experiment Ops
+HRF Generic Saliva Collection Setup
+Extravehicular Activity (EVA) Tool Configuring
+X2R18 Portable Computer System (PCS) Connect [Deferred]
+Portable Computer System (PCS) Hard Drive Image
+UF-ATMOSFERA. Hardware and electrical connections setup.
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate
+UF-ATMOSFERA. PL activation.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Non-Medical Crew Conference
+LSG Work Volume Stow
+Reminder 2 CSA Generic Frozen Blood Collection
+Reminder Standard Measures Multi-day Saliva Collection
+UF-ATMOSFERA. Hardware Monitoring
+
+ 

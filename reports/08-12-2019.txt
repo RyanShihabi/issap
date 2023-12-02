@@ -1,0 +1,103 @@
+
+Acoustic Diagnostics: The crew completed a questionnaire and used an Acoustic Monitor to measure the ambient background noise to detect otoacoustic emissions (OAEs) which are caused by the motion of the inner ear sensory hair cells as they energetically respond to auditory stimulation. The investigation tests the hearing of ISS crew members before, during, and after flight. This study assesses the possible adverse effects of noise and the microgravity environment aboard the ISS on human hearing. The investigation compares the relationship between the detection of otoacoustic emissions, sounds naturally generated from within the inner ear, and hearing loss levels when exposed to noisy environments.
+BioFabrication Facility (BFF):  The crew performed the cassette installation/removal and the syringe swaps in support of the second science print with cells.  The printed tissue will remain in the BFF until it is transferred to the thermally-controlled ADvanced Space Experiment Processor (ADSEP).  The BFF is dedicated to manufacturing human organs and tissues in space, primarily for use by patients on Earth. Besides printing tissue, the BFF also can help maintain the health of deep space exploration crews by producing food and personalized pharmaceuticals on demand.
+CASIS PCG 19:  The crew transferred 3 vials to the MELFI.  Each vial had been incubating at different temperatures for two weeks. This investigation seeks to understand the stability of monoclonal antibody formulations in microgravity. When these formulations degrade and exceed their shelf life, they must be discarded. This leads to increased cost and reduces the areas of the world where the formulations can be offered to patients. By storing formulations in microgravity, it may be possible to see additional processes that lead to degradation. Researchers hope that an understanding of the degradation process could lead to methods of slowing the degradation down. 
+Micro-15:  The crew injected media into the culture bags and placed the bags into SABL for incubation.  The goal of this investigation is to better understand the effects of gravity on the differentiation of mammalian cells using 3-D cultures of induced pluripotent stem (iPS) cells. Past flight experiments and ground-based simulations have demonstrated that microgravity influences gene expression, cell proliferation, and differentiation in stem cells but the mechanism behind these observations is not clearly understood. This study investigates how exposure to microgravity fundamentally alters cell regulation and how these changes can affect the timing, progression, and outcomes of cell differentiation.
+Materials Science Laboratory (MSL): The crew swapped the MSL gas supply drawer and performed successful leak checks. The MSL is used for basic materials research in the microgravity environment of the ISS. The MSL can accommodate and support diverse Experiment Modules. In this way many material types, such as metals, alloys, polymers, semiconductors, ceramics, crystals, and glasses, can be studied to discover new applications for existing materials and new or improved materials.
+Space Acceleration Measurement System-II (SAMS-II):  The crew cleaned the SAMS RTS/Drawer1 and RTS/Drawer2 screens.  SAMS-II is an ongoing study of the small forces (vibrations and accelerations) on the ISS resulting from the operation of hardware, crew activities, dockings and maneuvering. Results generalize the types of vibrations affecting vibration-sensitive experiments and structural life of ISS. Investigators and Structural Analysts seek to better understand the vibration environment on the ISS using SAMS-II data and assessing station loads and dynamics.
+Standard Measures: The crew completed a Body Survey using the Data Collection Tool on an SSC and collected body samples and stowed samples MELFI.  The aim of the investigation is to ensure consistent capture of an optimized, minimal set of measures from crewmembers until the end of the ISS Program in order to characterize the adaptive responses to and risks of living in space.  Among other things, the ground teams perform analyses for metabolic and chemistry panels, immune function, microbiome, etc. These measures populate a data repository to enable high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes, and support future research on planetary missions.
+Microgravity Experiment Research Locker Incubater (MERLIN) 2: On Saturday, the MERLIN2 unit was powered off by a Utility Interface Panel (UIP) Circuit Breaker (CB) trip on the Galley Rack. Contents of MERLIN 2 were moved following a circuit breaker trip. Engineering teams will meet to discuss a forward troubleshooting plan.
+International Docking Adapter (IDA)3 Extravehicular Activity (EVA) Preparations: In preparation for the IDA3 EVA currently planned for no earlier than August 21, the crew completed the following:
+
+D5 camera configuration and setup
+EVA tool configuration
+
+Waste Hygiene Compartment (WHC) Piping Remove & Replace (R&R): Today the crew attempted to replace the WHC piping between the Dose Pump and the Pump Separator. During the R&R, the crew experienced an issue mating the connection between the WHC piping and the Urine Receptacle at the Insert Filter location. The crew attempted both spare WHC piping units on board, an old Urine Receptacle hose as well as multiple insert filters with the same result. The crew described the issue as the connector on the new WHC piping was slightly too small for the Urine Receptacle connection. Based on the troubleshooting and descriptions provided, ground teams directed the crew to reinstall the old WHC piping and triple bag the two spare WHC piping units. The current, old WHC piping that was reinstalled expired today. Teams agreed with the forward plan to reinstall and run on the expired WHC piping until a forward plan for installing a new WHC piping unit is determined.
+Completed Task List Activities:
+
+EPM facility container audit
+EMU SOP SCOF valve cycling
+SODF ECLSS print
+EVA tool config
+ESA EPO Paxi script (2)
+ESA Amyloid Aggregation message recording
+ESA PAO Big City Beats transfer
+ESA PAO Skylight
+SSC4 shell swap
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+CWCI to WSS Resupply Tank transfer support
+SSRMS walkoff to MBS1
+MT translation from WS6 to WS7
+Payloads ops support
+
+Look Ahead:
+Tuesday, 8/13 (GMT 225)
+Payloads:
+
+Standard Measures, ACME (Advanced Combustion via Microgravity Experiments), Bio-Monitor, Micro-15, NanoRacks Module-9, NutrISS, Probiotics
+
+Systems:
+
+EVA prep
+OBT emergency sim review
+
+Wednesday, 8/14 (GMT 226)
+Payloads:
+
+Micro-15 Media Change
+Bioculture System Stow Assist
+
+Systems:
+
+OBT emergency sim/conference with ground
+EVA prep
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Lighting Effects Sleep Log Entry
+SPLANH-2. SPLANHOGRAF instrument setup
+SPLANH-2. Pre-morning meal ultrasound test during EGEG recording
+BioFabrication Facility Procedure Review3
+BioFabrication Facility Tissue Print With Cells Install
+Material Science Laboratory Gas Supply Exchange Part 1
+BFF MERLIN Sample Removal
+BioFabrication Facility MELFI Sample Retrieve
+BioFabrication Facility Tissue Print With Cells Install
+Charging EVA Camera D4 Battery
+Payload NAS Power Cycle
+Power Cycle USL Stbd BelAir WAP
+SPLANH-2. Post-morning meal ultrasound test during EGEG recording
+In Flight Maintenance (IFM) Waste Hygiene Compartment (WHC) Piping R&R
+SPLANH-2. SPLANHOGRAF closeout ops Specialist conference
+BioFabrication Facility Procedure Review3
+PCG-19 Ambient Unstow
+PCG-19 MELFI Sample Insertion
+PCG-19 MELFI Sample Retrieve
+PCG-19 MELFI Sample Insertion
+PCG-19 MERLIN Sample Removal
+PCG-19 MELFI Sample Insertion
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+КАВ sampling from СРВ-К2М down to ФГС using ROS samplers – init
+BioFabrication Facility Cleaning Syringe Install
+Photo/TV Extravehicular Activity (EVA) Camera Configuration
+Prepare items for 59S return/removal
+BioFabrication Facility MELFI Sample Retrieve
+BioFabrication Facility Glacier Sample Retrieve
+BioFabrication Facility Tissue Cassette Removal
+FOTOBIOREAKTOR. Visual photoregistration control
+FGB ЦВ1 fan grid cleaning
+Actiwatch Spectrum HRF Rack 1 Setup
+Material Science Laboratory Gas Supply Exchange Part 2
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Actiwatch Spectrum HRF Rack 1 Swap
+Battery Stowage Assembly (BSA) Operation Termination
+Actiwatch Spectrum HRF Rack 1 Swap
+Actiwatch Spectrum HRF Rack 1 Swap
+Exercise data ОСА downlink
+Actiwatch Spectrum HRF Rack 1 Stow
+
+ 

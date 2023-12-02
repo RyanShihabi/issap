@@ -1,0 +1,102 @@
+
+NanoRack Cubesat Deployer (NRCSD) Operations Status:  Overnight, the ground team was unsuccessful in their attempt to deploy four Cosmogia Dove CubeSats from deployers #7 and #8 via the Japanese Experiment Module (JEM) Remote Manipulator System (JEMRMS).  This morning they performed additional attempts on deployers #4, #5 and #7 without success. Teams are investigating the problem and working a forward plan.
+Sprint Ultrasound: With assistance from Commander (CDR) Swanson, Flight Engineer (FE)-5 Wiseman took Sprint ultrasound data for his Flight Day (FD) 90 ultrasound Sprint session. Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions. Ultrasound scans are on FD 14, 30, 60, 90, 120, 150, and R-7 for mission duration of six months and are used to evaluate spaceflight-induced changes in the muscle volume.
+Body Measures: With assistance from Swanson, FE-6 Gerst conducted his FD 80 session of Body Measures. He set up body marker instrumentation and took calibration and body pose pictures as well as circumference measurements. He then recorded a neutral body posture video. The goal of this study is to gather data to better understand the magnitude and variability of changes due to microgravity and fluid shifts within the human body during long-duration space flight. Results of the investigation may result in changes to space suit fit and sizing, workstation design for future missions to maximize performance, prevent injury, and reduce crew time to accommodate their anthropometrics.
+Facility for Absorption and Surface Tension (FASTER) Uninstall: Gerst removed FASTER from the European Drawer Rack (EDR) and packed it for return on a future flight for refurbishment. FASTER was delivered to the ISS on SpX-3 and the science was completed from the ground. The experiment investigated links between emulsion stability and physico-chemical characteristics of droplet interfaces. 
+Japanese Experiment Module (JPM) Payload Data Handling Unit (PDH) Replacement:  Swanson replaced the PDH which failed in January with a new unit that arrived on Automated Transfer Vehicle (ATV)-5.   The activity restored redundancy for JAXA payload commanding and payload data downlink.
+Station Support Computer (SSC) Version 5 (v5) Transition:   Today, ground controllers successfully completed the SSCv5 transition.   SSCv5 updated the operating systems, security, and data storage for the on-board Ops LAN.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+BIOME – Questionnaire [Complete]
+HRF Sample Collection [Complete]
+HRF – Urine Sample MELFI Insertion [Complete]
+Reading REMINDER [Complete]
+Calf Volume Measurement [Complete]
+ISS crew and ГОГУ (RSA Flight Control Management Team) r/g 6417 [Complete]
+JRNL – Journal Entry [Complete]
+CIR – Hardware Setup [Complete]
+Symbolic Activity / r/g 6423 [Complete]
+USND2 – Hardware Activation [Complete]
+SPRINT – Hardware Setup [Complete]
+BODYM – Gather equipment in preparation for data collection ops [Complete]
+EXPRS6 – Battery Changeout in the Laptop [Complete]
+BODYM – Camcorder Setup [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+SPRINT – Assisting with the Experiment. [Complete]
+BODYM – Experiment Ops [Complete]
+IMS Tagup (S-band) / r/g 6446 [Complete]
+Configuring ПхО and DC1 to Initial State after EVA / r/g 6305 [Complete]
+Study of veins in lower extremities  r/g 6426 [Complete]
+Removal of Orlan Battery Charger ЗУ-С / r/g 6441 [Complete]
+On MCC Go Demating TLM connectors from ЗУ-С [Complete]
+Return of SSC1, SSC3 to initial configuration after SSC transition to v5 / r/g 6443 [Complete]
+SSCv5 – Wireless Configuration for Version 5 [Complete]
+Kazbek Fit Check [Complete]
+Activation of SLT with Windows XP and Connecting SLT to JEM WAP via Ethernet-cable [Complete]
+Study of veins in lower extremities / r/g 6426 [Complete]
+On MCC Go Pumping Water from ТКГ 423 (DC1) Rodnik Tank 1 to EDV and Bladder Compression / r/g 6442 [Complete]
+SSCv5 – Wireless Configuration for Version 5 [Complete]
+Periodic Fitness Evaluation – Nom Ops (subject) [Complete]
+System Laptop Terminal (SLT) Reboot [Complete]
+USND2- Power OFF [Complete]
+Periodic Fitness Evaluation – Nom Ops (assistance) [Complete]
+СОЖ Maintenance [Complete]
+PAO hardware setup in Columbus [Complete]
+Crew Prep for PAO [Complete]
+COMMD – Questionnaire [Complete]
+PAO Event [Complete]
+PAO TV Hardware Setup [Complete]
+Crew Prep for PAO/ r/g 6452 [Complete]
+TV Greetings / r/g 6452 [Complete]
+Food Frequency Questionnaire [Complete]
+EDR-FASTER – Hardware Removal [Complete]
+XF305 – Camcorder Setup [Complete]
+SLT – Closeout [Complete]
+Payload Data Handling unit (PDH) – R&R [Complete]
+Post-EVA SM ПхО and DC1 Reconfig Back To Nominal /r/g 6305 [Complete]
+Post-EVA SM ПхО and DC1 Reconfig Back To Nominal / r/g 6305 [Complete]
+CALCIUM. Experiment Session 6. r/g 6436 [Complete]
+SSCV5 – SODF Printout [Complete]
+Crew Medical Officer (CMO) Proficiency Training [Complete]
+CALCIUM. Photography of the Experiment Ops / r/g 6437 [Complete]
+Configuring ПхО and CO1 to Initial State after EVA / r/g 6305 [Complete]
+IMS Delta File Prep [Complete]
+EDR – FASTER-Controller packing for download [Complete]
+Psychological Evaluation Program (WinSCAT) [Complete]
+JRNL – Journal Entry [Complete]
+BIOME – Sampling Preparation [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+HAM Radio Session [Complete]
+Astronaut Office Conference (S-band) [Complete]
+Food Frequency Questionnaire [Complete]
+On MCC Go Pumping Water from ТКГ 423 (DC1) БВ1 to EDV – Closeout Ops / r/g 6442 [Complete]
+COMMD – Questionnaire [Complete]
+
+Task List
+
+ARED Cylinder Evac
+Earth Imagery
+WHC KTO replace
+WHC EDV-Y R&R
+Roscosmos Report
+Uragan Photo
+AMO shortcut install
+3DA1 cam ops
+ARED detent flip
+CTB’s 1128, 1153, 1217 unpack,  CTB 1236, 4045 relocate [Complete]
+CTB’s 1226 unpack [In work]
+Food warmer mod
+Data prep return
+Journals [Complete]
+Sprint VO2 Kit ops [Complete]
+ATV cargo ops
+
+Ground
+
+Nominal commanding
+JEMRMS cubesat operations 
+

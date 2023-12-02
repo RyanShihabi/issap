@@ -1,0 +1,99 @@
+
+Extravehicular Activity (EVA) #26 Preparations:  The crew completed the following tasks in preparation for EVA 26 to Remove and Replace (R&R) the failed External (EXT) Multiplexer/Demultiplexer (MDM).  The plan is to use Extravehicular Mobility Unit (EMU)s 3005 and 3011 for the EVA. 
+
+EMU 3005 Return To Service (RTS):  Today Swanson performed a visual water leakage inspection, structural gas leakage test at the maximum operating suit pressure, and a long-duration leak check on EMU 3005.  The tests confirmed good operation of the Fan Pump Separator (FPS) that was installed yesterday.  EMU data and video was recorded and downlinked for review by the ground.  The crew will perform additonal RTS activities tomorrow.
+EMU Flush and Samples: The 3rd and final flushes were performed on EMUs  3005, 3010 and 3011.  Additionally, water samples were collected on EMUs 3005 and 3011.
+
+In addition to the above activities, Swanson and Mastracchio completed On-Board Training (OBT) for EVA Simplified Aid for EVA Rescue (SAFER), practicing SAFER rescue and checkout.  All three crew members participated in a conference with ground controllers to discuss EVA procedures.  Mastracchio configured tools that are planned to be used for the EVA.
+Hybrid Training Part Six: Commander (CDR) Wakata donned the Hybrid Training hardware which provides electrical impulses to his non-dominant arm during concentric and eccentric arm motions. The electrical impulses will help to simulate the resistance gravity would provide on the ground. This was Wakata’s sixth of twelve Hybrid Training sessions. Hybrid Training will be used for Wakata’s upper limbs (the non-dominant arm) for four weeks, and his muscular strength and bulk will be compared to those of his dominant arm to examine its orbital operation capability utility, as well as the preventive for muscle atrophy. Hybrid Training can become a useful back-up for the standard training device on the ISS. It can also be a useful training device in small space ships for the exploration of the Moon and Mars.
+Petri Plants Light Evaluation: Wakata provided the Petri Plant ground team with an evaluation of the lighting conditions at the Deck 1 rack in the US LAB and reported lighting was best in the middle of the rack at this location. Previous lighting measurements at LAB Deck 1 were lower than expected. He also provided light meter readings in other locations in the ISS. Since lower than expected lighting levels could affect the growth rate of the plants, the Petri Plant ground team will use this information to maximize the growth of these plants. Petri Plants will be delivered on SpaceX-3.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot
+SM ПСС (Caution & Warning Panel) Test [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+Check position of MRM2 manual Circuit Breakers [АЗС] on DC БВП [Complete]
+Check БПП-4, БПП-7 Fuses in MRM1 [Complete]
+CIR align guide install [Complete]
+EMU A/L flush config [Complete]
+EMU 3010, 3011 flush [Complete]
+EMU swap [Complete]
+EMU 3005 RTS Pt. 1 [Complete]
+EMU A/L mix [Complete]
+EMU 3011 sample [Complete]
+EMU A/L flush deconfig [Complete]
+On MCC Go БМП Ф2 Absorption Cartridge Regeneration (start) [Complete]
+EVA procedures review [Complete]
+WRM condensate pump init [Complete]
+EHS TOCA WRS sample [Complete]
+Glacier dessicant pack insert [Complete]
+ВКС Laptops Antivirus Scan Check and Status Report / r/g 5201[Complete]
+Daily Planning Conference (S-band) [Complete]
+Hybrid Training [Complete]
+БИД 1,2 Leak Check / r/g 5379 [Complete]
+EVA tool config  [Complete]
+EVA FPS tool stow [Complete]
+EVA procedures review [Complete]
+EVA tagup [Complete]
+EMU 3005 A/L flush [Complete]
+EMU 3005 water recharge  [Complete]
+EMU 3005 A/L mix [Complete]
+EMU 3005 sample  [Complete]
+EMU flush deconfig [Complete]
+EVA tool config [Complete]
+ТКГ 427 (DC1) Transfers and IMS Ops / ТКГ 427 Transfer Ops (РПР) + r/g 5317 [Complete]
+Audit of volume behind RS panels / r/g 5371 [Complete]
+БИД 1,2 Pressure Check / r/g 5379 [Complete]
+RELAKSATSIYA.  Hardware set up  r/g 5370 [Complete]
+БИД 1,2 Pressure Check / r/g 5379 [Complete]
+Inventory of Personal Hygiene Articles / r/g 5372 [Complete]
+RELAKSATSIYA. Observation. r/g 5370 [Complete]
+IDENTIFICATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 5186 [Complete]
+RELAKSATSIYA. Closeout Ops.  r/g 5370 [Complete]
+Seiner. Photo Spectral System (ФСС) Battery Charge (start) / r/g 3620 [Complete]
+БИД 1,2 Pressure Check / r/g 5379 [Complete]
+ТКГ 427 (DC1) Trasfers  and IMS OpsТКГ 427 Cargo Transfers (РПР) + r/g 5317 [Complete]
+Troubleshooting  Sony HVR-Z7E camcorder recording failure. r/g 5378 [Complete]
+Measuring absolute pressure in Elektron Oxygen Generation Hardware H2 Line / r/g 5379 [Complete]
+Life On The Station Photo and Video / r/g 5136 [Complete]
+Monthly vacuum cleaning of the BRI instrumentation surface  r/g 5373 [Complete]
+Pressure Check in Elektron Oxygen Generation Hardware H2 Line / r/g 5379  [Complete]
+Preparation for measuring pane deflection on windows  r/g 5368 [Complete]
+Seiner. r/g 5374 [Complete]
+СОЖ Maintenance  [Complete]
+ABOUT GAGARIN FROM SPACE. r/g 5369 [Complete]
+Pressure Check in Elektron Oxygen Generation Hardware H2 Line / r/g 5379 [Complete]
+IMS Update  [Complete]
+Pressure Check in Elektron Oxygen Generation Hardware H2 Line / r/g 5379 [Complete]
+Daily Planning Conference (S-band) [Complete]
+On MCC Go БМП Ф2 Absorption Cartridge Regeneration (termination) [Complete]
+
+Task List
+
+CMS ARED cylinder evac
+IFM Sabatier purge [Complete]
+Journal Audio Entry FE3
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+CSL Client Reload [In work]
+EHS-Dosimeter startup [Complete]
+EHS-Dosimeter transter/stow
+EVA RET inspect, tape [Complete]
+ECWS OBT  [Complete]
+Gamah seal locate
+H2O in helmet brief [Complete]
+ARED RHEOlube fix
+ARED SSCV5 pre-gather
+CWC-I relocate
+Data prep return
+KTO EDV audit
+MI core return prep
+ST-ISS read
+
+Ground
+
+Nominal commanding
+

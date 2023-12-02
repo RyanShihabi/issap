@@ -1,0 +1,24 @@
+
+Payloads:
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM): The EarthKAM software was shut down and equipment was stowed completing five days of Mission 84 objectives. Not everyone can go to space, but everyone can see Earth from an astronaut’s perspective with the EarthKAM program. Thousands of students can remotely control a digital camera mounted on the ISS, and use it to take photographs of coastlines, mountain ranges, and other interesting features and phenomena. The EarthKAM team posts the students’ images on the internet, where the public and participating classrooms can view Earth from a unique vantage point.
+JEM Small Satellite Orbital Deployer-26 (J-SSOD-26): Satellites were installed onto Launcher 2 and the Multi-Layer Insulation (MLI) cover was installed on top of the launcher. A video tour was performed. J-SSOD-26 is planned for deploy on July 19th. J-SSOD provides a novel, safe, and small satellite launching capability to the ISS. The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites. Once J-SSOD, including satellite install cases with small satellites, is installed on the Multi-Purpose Experiment Platform (MPEP) by crew members, it is passed through the JEM airlock for retrieval, positioning, and deployment by the JEMRMS.
+Surface Avatar: A Universal Serial Bus (USB) key was installed into the laptop in order to prepare the Surface Avatar bootable disk for operations. The Surface Avatar: Multi-Avatar and Robots Collaborating with Intuitive Interface (Surface Avatar) investigation evaluates how effectively multiple robots can be commanded in scalable autonomy under conditions in space. Surface Avatar also seeks to provide information on how well the robot operator responds to haptic feedback, and – crucially – what the challenges and sticking points are for a real orbit-to-ground setup to operate robots remotely.
+TELe-Luminescence Analysis System (TELLAS): The Observation Cartridge was installed to allow ground observations and analysis operations. The TELLAS is an experimental facility that uses luminescence and an imager to make observations of tissues/genes in small living animals. Such in-vivo observations facilitate the study of mechanisms related to aging in the microgravity environment. Installed in the Kibo module, the TELLAS facility can provide information that contributes to aging research and improves the health and longevity of people on Earth.
+Systems:
+In Flight Maintenance (IFM) Node 2 Spare Tools Audit: Multiple USOS crew performed an audit of the Node 2 Spare Tools Cargo Transfer Bag (CTB). The crew verified tools such as screwdrivers, wrenches, hex keys, crimp tools, pliers, tape measures, calipers, gauges and much more. This audit will help the ground team and the crew organize tools and better track what is available and where they are located at on station.
+Permanent Multipurpose Module (PMM) Standoff Audit: The crew performed audit activities in the PMM Standoffs to decongest some of the clutter built up over the years. Additionally, the crew organized the stowage and backfilled any open space in the module. The reorganization will aid the crew as they translate though the module to store items for disposal and retrieve items such as hardware, food, and spare parts.
+Crew Quarters (CQ) Blanket Inspection: Today, the crew inspected and documented photos of the conditions of the acoustic blankets and blanket covers in the Node 2 Starboard CQ. This will help to prioritize the replacement of the acoustic blankets or blanket covers. This was the final CQ blanket inspection for this series of inspections.
+Extravehicular Activity (EVA) Lower Torso Assembly (LTA) Stowage Bag and Extravehicular Mobility Unit (EMU) Cover Audit: The crew began by verifying the quantity of LTA stowage bags and LTA restraint straps, inspected the units for any damage, and separated excess hardware for eventual staging and return to ground. The crew then verified the quantity of EMU protective covers. The LTA is a component of the EMU and consists of the boot, leg, thigh, and waist assemblies. There are a wide range of EMU covers but their main purpose serves to go over the connections of EMU suit parts to protect connectors and/or keep Foreign Object Debris (FOD) out. 
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+EPS Solar Array Voltage Maximum Power (VMP) Test
+JEMRMS Ops
+SSOD Checkout
+COL WPA IFHX Limit Update
+S-Band Index Change
+

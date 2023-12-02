@@ -1,0 +1,74 @@
+
+Combustion Integration Rack (CIR) Multi-user Droplet Combustion Apparatus (MDCA) Replace: In preparation for the start of FLame Extinguishment Experiment (FLEX)-2J, Virts removed the MDCA Chamber Insert Assembly (CIA) from the CIR Combustion Chamber and replaced the MDCA Needles, fuel reservoirs, MDCA Igniter Tips and the MDCA Fiber Arm. Following the changeouts, he reinstalled the MDCA CIA into the CIR Combustion Chamber. Ground controllers will perform calibrations from the ground prior to the first planned test of the FLEX-2J in early June. FLEX-2J studies the interactions of flames on the ignition (or non-ignition) and motion of millimeter-sized droplets. The experiment operates in the CIR and consists of a linear array of droplets, several of which are fixed, while the others are free to move along the support fiber. The fixed droplets are ignited and the resulting flame spread and motion of the droplets observed with the CIR diagnostic cameras. The experiment extends the results of single droplet studies to the conditions where droplet-droplet interactions are important. This provides insight into the fundamental physics of practical combustors. Specifically, droplets in practical combustors interact with each other as a flame spreads through a fuel spray. This includes not only how the flame spreads between the droplets, but also how the flame influences the motion of the droplets.
+JEM Airlock (JEMAL) Slide Table Preparation: Kelly installed the Small Fine Arm (SFA) Attachment Mechanism (SAM) and Multi-Purpose Experiment Platform (MPEP) to the JEMAL Slide Table and retracted the table back into the airlock. Tomorrow Kelly will install the JAXA exposure experiments, ExHAM and Tanpopo.
+Node 3 (N3) Power Reconfiguration: Cristoferetti partially installed the N3 Forward Permanent Multipurpose Module (PMM) power cable which will provide power to the PMM when it is relocated to N3 Forward. The relocation is currently planned for May 27.
+Node 1 (N1) Stowage/Relocation: Cristoferetti continued moving infrequently used hardware from N1 to Permanent Multipurpose Module (PMM)-1. The relocation is to create space in the N1 for food stowage and the Galley Rack scheduled to arrive in August on H-II Transfer Vehicle (HTV)-5.
+Dragon Cargo Transfer Operations: As of today, the crew is 85% complete with SpX-6 cargo operations. 
+ISS Server 1:  The onboard server 1 experienced a degraded ultrabay hard drive today.  The crew replaced the drive with a spare, and ground teams are currently reloading data from the available backups.  This operation is expected to be completed before crew wake tomorrow.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Self-Reaction Test. Reaction Time Test (morning)
+WRS – Recycle Tank Fill
+OTKLIK. Hardware Check
+XF305 Camcorder Settings Adjustment
+JEM Airlock Slide Table (ST) Extension to JPM Side
+NAPOR-miniRSA. Cleaning БЗУ-М Vents
+Airlock Attachment Mechanism (SAM) Installation
+OBSTANOVKA. Download of Obstanovka P/L Data (start)
+Life On The Station Photo and Video
+VIZIR. Experiment Ops
+Airlock Attachment Mechanism (SAM) Installation – Assistance
+Life On The Station Photo and Video
+MSG – Locating lost filter caps
+DAN. Experiment Ops. Tagup with specialists
+DAN. Photography of the Experiment Ops
+JEM Airlock – Releasing Capture Mechanism
+Life On The Station Photo and Video
+JEM Airlock – Slide Table Retraction
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Installation of Multi-Purpose Experiment Platform Part 1
+CIR – Video Setup and Rack Doors Open
+Multi-Purpose Experiment Platform Installation Support
+JEMAL – MPEP Capture
+DRAGON. Transfers Ops
+CIR – Hardware Activation and Vide Ops
+Installation of Multi-Purpose Experiment Platform Part 2
+MDCA – Equipment Transfer (Part 1)
+JEM Airlock – Slide Table Retraction
+Closing USOS Window Shutters
+OBSTANOVKA. Download of Obstanovka P/L Data (end)
+WRS – Recycle Tank Fill
+Private Medical Conference
+Actiwatch – Hardware Setup
+Actiwatch spectrum configuration modification for data collection
+WHC Fill
+Life On The Station Photo and Video
+ALGOMETRIA. Experiment Ops
+MDCA – Equipment Transfer (Part 2)
+Node3 Power Reconfiguration
+Audit of Personal Hygiene Articles
+WHC Fill
+СОЖ Maintenance
+Waste and Hygiene Compartment (WHS) Urine Receptacle and Insert Filter Changeout
+Rodent Research (RR) – Stowage Prepack
+DRAGON. Transfers Ops
+CIR – Front End Cap Closure
+PROBOY. Document review and equipment gathering r/g 8800
+CIR – Rack Doors Closure
+IMS Delta File Prep
+CONTENT. Experiment Ops
+Self-Reaction Test. Reaction Time Test (evening)
+
+Completed Task List Items
+
+Capillary Beverage Galley Demonstration [In Work]
+
+Ground Activities
+All activities complete unless otherwise noted.
+
+
+JEMAL ops
+CIR ops
+

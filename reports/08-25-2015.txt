@@ -1,0 +1,118 @@
+
+HII Transfer Vehicle (HTV)5 Activities: Following yesterday’s successful capture and berthing, today the crew completed vestibule outfitting, opened the HTV hatch and installed Portable Fire Extinguishers, breathing apparatuses and handrails prior to ingressing the vehicle and completing 3-hours of cargo transfer. Later in the day the crew participated in a post-capture debrief with ground teams.
+ 
+Mobile Servicing System (MSS) Operations: Last night, the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered the Space Station Remote Manipulator System (SSRMS) to extract the External Platform (EP) from the HTV5 Unpressurized Logistics Carrier (ULC).  The EP was then maneuvered to the handoff position at which point the Japanese Experiment Module Remote Manipulator System (JEMRMS) Ground Controllers maneuvered the JEMRMS to grapple the EP Flight Releasable Grapple Fixture (FRGF).  The Robotics Ground Controllers then released the SSRMS from the EP Power and Video Grapple Fixture (PVGF) and maneuvered the SSRMS to a park position.  Early this morning, the JEMRMS Ground Controllers installed the EP on JEM Exposed Facility (JEF) Exposed Facility Unit 10 (EFU10) and then removed the Calorimetric Electron Telescope (CALET) from the EP and installed it on JEF EFU9.  The SSRMS was then walked from the Node 2 Power and Data Grapple Fixture (PDGF) to the Mobile Base System (MBS) PDGF #4.  The SSRMS was then used to pick up the Special Purpose Dexterous Manipulator (SPDM) from the Lab PDGF.  MSS performance today was nominal.  Later today, the Mobile Transporter (MT) will be moved to Worksite 7 and the SPDM will be used to open HTV Exposed Facility Units (HEFU) 1 and 2.
+Human Research Program (HRP) Operations: 
+
+Kornienko began his Flight Day (FD) 150 Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts) Dilution Measurements.  Upon wakeup he collected baseline saliva, blood and urine and inserted them into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) prior to ingesting a Sodium Bromide (NaBr) tracer.  Throughout the day, he performed more urine, blood, and saliva collections, inserting those samples into MELFI as well.  The Dilution Measurements are the first part in the series of FD150 Fluid Shifts measurements.  The next step in the Fluid Shifts experiment is the Baseline Imaging portion, occurring for both Kornienko and Kelly the week of August 31. The third portion of the Fluid Shifts experiment involves utilization of the Russian Chibis (Lower Body Negative Pressure – LBNP) during ultrasound measurements which will occur during the second week of Increment 45.  Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Kelly performed his FD150 Cognition. Individualized Real-Time Neurocognitive Assessment Toolkit for Space Flight Fatigue (Cognition) is a battery of tests that measures how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. Cognition includes ten brief computerized tests that cover a wide range of cognitive functions, and provides immediate feedback on current and past test results. The software allows for real-time measurement of cognitive performance while in space.
+Kelly and Kornienko performed their morning Reaction Self-Test and another session prior to sleep. This week-long session is in advance of the sleep shift required for the 42 Soyuz relocation later this week. Reaction Self-Test aids crewmembers to objectively identify when their performance capability is degraded by various fatigue-related conditions that can occur as a result of ISS operations and time in space (e.g., acute and chronic sleep restriction, slam shifts, extravehicular activity (EVA), and residual sedation from sleep medications).
+Kelly and Kornienko are performing a week of sleep logging. The Sleep ISS-12 experiment monitors ambient light exposure and crew member activity, and collects subjective evaluations of sleep and alertness, to examine the effects of space flight and ambient light exposure on sleep during a year-long mission on the International Space Station (ISS).
+
+ 
+NanoRacks Multi-Gas Monitor (MGM): Lindgren deployed the MGM in Node 3 today.  The MGM is the first laser sensor to continuously measure four gases that are key for crewmembers’ health aboard the ISS. The multiple low-power, tunable lasers train an infrared laser beam on a cabin air sample, and sensors tuned to specific wavelengths of light detect oxygen, carbon dioxide, ammonia, and humidity. The instrument fits in a device the size of a shoebox and detects the presence of gases in less than one second.
+ 
+CALorimetric Electron Telescope (CALET) Video Survey: Yui captured video of the installation of CALET as it was moved from the HTV-5 EP to the JEM EFU #9. CALET is an astrophysics mission that searches for signatures of dark matter and provides the highest energy direct measurements of the cosmic ray electron spectrum to observe discrete sources of high energy particle acceleration in our local region of the Galaxy.  CALET addresses many outstanding high-energy astrophysics questions such as the origin of cosmic rays, how cosmic rays accelerate and travel across the galaxy and the existence of dark matter and nearby cosmic-ray sources.
+ 
+On-Board Training (OBT) Emergency Review: All 6 crew members participated in this OBT to review emergency response during the upcoming direct handover timeframe. They specifically covered 6 crew with a Soyuz on SM Aft and MRM1; 9 crew timeframe; and 6 crew with a Soyuz on MRM1 and MRM2.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Self-Reaction Test. Reaction Time Test
+SLEEP Questionnaire
+FLUID SHIFTS – Saliva Test
+FLUID SHIFTS – Urine Sample Collection
+FLUID SHIFTS – Urine Sample MELFI Insertion
+FLUID SHIFTS – Blood Sampling
+FLUID SHIFTS – Galley Water Collection and Tracer Ingestion Ops
+FLUID SHIFTS – Centrifuge Setup
+JEMRMS – RLT2 Activation
+GoPro HERO3 Video camera Setup and Adjustment for Operation during ТК 716 Descent r/g 9715
+Regeneration of БМП Ф2 Micropurification Cartridge (start)
+Node 2 Nadir/HTV Vestibule Outfitting, Part 2
+FLUID SHIFTS – Blood Sample Transfer
+FLUID SHIFTS – Sample MELFI Insertion
+COSMOCARD. Preparation Ops. Starting 24-hr ECG Recording
+Acoustic Dosimeter Setup
+SVO-ZV water sampling to Russian drink bags
+Node 2 Nadir CBM Controller Panel Assembly (CPA) Removal
+WRS Water Sample Analysis
+Collecting condensate water [КАВ] samples from [СРВ-К2М] up to Gas-Liquid Mixture Filter (ФГС) to Russian Sampler – end
+Charging GoPro HERO3 Camcorder Battery – start
+SYN_MUSCL – Documentation Photo
+Hardware prepack for return and disposal on ТК 716
+Collecting condensate water samples [КАВ] up to СРВ-К2М БКО – configuration setup, sampler installation
+TROPICYC – Procedure Review
+Node 2 Nadir/HTV Vestibule Outfitting, Part 3
+FLUID SHIFTS – Urine Sample Collection
+MYCO – Big Picture
+FLUID SHIFTS – Sample MELFI Insertion
+FLUID SHIFTS – Blood Sampling
+FLUID SHIFTS – Blood sample collection operator
+FLUID SHIFTS – Saliva Test
+FLUID SHIFTS – Centrifuge Setup
+Sampling condensate water [КАВ] upstream of СРВ-К2М БКО – sampler replacement
+FLUID SHIFTS – Sample MELFI Insertion
+Orthostatic Stability Evaluation with LBNP.
+Evaluation of Orthostatic Stability with LBNP (assistance)
+Collect Air Samples Using АК-1М Sampler in HTV-5
+HTV Hatch Opening and Ingress
+HTV Ingress
+FLUID SHIFTS – Blood Sample Transfer
+FLUID SHIFTS – Sample MELFI Insertion
+БРП-М water sampling to drink bags
+FLUID SHIFTS – Samples Cleanup Ops
+Hardware prepack for return and disposal on ТК 716
+FAGEN. ISS No.4 Sample Fixation and Setup on SM panel 428
+FAGEN. Kit Photography
+CALET –  Obtaining video with XF305 camcorder
+TOCA Data Recording
+CONTUR-2. Hardware Installation on panel 418
+FLUID SHIFTS – Saliva Test
+PHS Evaluation Setup
+FLUID SHIFTS – Sample MELFI Insertion
+CONTUR-2. Experiment Session Ops.
+Periodic Health Status
+Periodic Health Status (PHS) Data Entry and Hardware Stowage
+FLUID SHIFTS – Sample MELFI Insertion
+Charging GoPro HERO3 Camcorder Battery – end
+CALET – Terminate Video
+COL – Hardware Removal
+Delta Emergency Response Review after HTV-5 arrival
+Review changes to Emergency response associated with the upcoming crew rotation operations
+Pre-pack hardware for return and disposal on Soyuz 716.
+Sampling condensate water [КАВ] upstream of СРВК-2М БКО – removing sampler, setup teardown
+RWS Teardown
+HTV Transfers Ops
+Installation of Version 4.0 SW on new HDD
+Filling (separation) of EDV (KOV) No.1192 (ФГБ1ПГО_1_106, ATV-5 delivery) for Elektron or EDV-SV
+PGS2 Setup in MELFI
+СОЖ maintenance
+STEM – Stowage
+WRS – Recycle Tank Fill
+FLUID SHIFTS – Stowage
+IMMUNO. Setting up Saliva-Immuno kit for experiment
+NANO – Experiment Ops
+HTV – Cargo Transfer Tagup
+JRNL – Journal Entry
+OBT – On-Board Training HTV OBT post capture Conference
+COGN – Experiment Ops and Filling Questionnaire
+COGN – Documentation Photo
+БМП Ф2 Absorption Cartridge Regeneration (end)
+Termination of charging of the Samsung tablet computer from Soyuz 716
+Self-Reaction Test (evening)
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Robotics Operations
+MT Translate from WS 5 to WS7 [Planned later this evening]
+
+ 

@@ -1,0 +1,95 @@
+
+Change of Command Ceremony:  The Change of Command Ceremony was completed at the end of the crew day today in preparation for return of the 37S crew tomorrow.  ISS CDR Wakata, handed over to Expedition 40 CDR Swanson.  Undock tomorrow is scheduled at 5:36pm CDT with landing at 8:58pm CDT.
+Salivary Markers: On Sunday, FE-3 Swanson collected saliva and urine samples for his Flight Day 90 Salivary Markers session. These samples will be used to measure markers of latent viral reactivation (a global indicator of immune impairment and infection risk) in conjunction with salivary antimicrobial proteins and immune cell functional assays. This research study will help identify if there are any risks of an adverse health event in crewmembers due to an impaired immune system. Maintaining a robust immune system during prolonged spaceflight missions (i.e., to other planets or asteroids) will be important to ensure mission success. If any impairment in immunity is found due to spaceflight, this will allow the development of appropriate countermeasures to help mitigate the risks.
+Blood Pressure (BP) Reg (Regulation): ISS CDR Wakata set up the BP Reg hardware and then completed his first and only BP Reg data collection session. This investigation tests the effectiveness of an in-flight manipulation of arterial blood pressure (BP) as an indicator of post-flight response to a brief stand test, since space flight negatively impacts the regulation of BP on return to upright posture on earth. A Leg Cuff test induces a brief drop in BP following the release of a short obstruction of blood flow to the legs. The change in BP from pre-flight to in-flight will be used to predict those astronauts who might be susceptible to experience the greatest drop in BP in the post-flight stand test. A second objective of this investigation is to determine whether cardiac output calculated from the analysis of the finger blood pressure waveform provides an accurate estimate both pre-flight and in-flight by comparison with a rebreathing method.
+Radi-N2 Neutron Field Study (Radi-N2): FE-5 Mastracchio deployed eight bubble detectors around the ISS for the Radi-N2 experiment. The objective of this investigation is to better characterize the ISS neutron environment and define the risk posed to the crewmembers’ health and provide the data necessary to develop advanced protective measures for future space flight.
+Microbiome Blood Collection: With the help of Swanson, Mastracchio collected his last Microbiome blood sample. This sample will return ambient on 37 Soyuz. The Microbiome experiment investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time).
+Optical PAyload for Lasercomm Science (OPALS):  On Saturday, ground personnel successfully performed the OPALS initial system checkout.  This included verification of Health & Status, command capability, file transfer, gimbal activation/calibration, and laser system activation (without laser firing). Ground teams will analyze data downlinked from these activities. Today, during additional checkout activities by the ground, the OPALS camera system experienced a high photon flux and shut itself down. OPALS is currently in safe mode while ground teams analyze data to verify there was no damage to the camera system.
+Extravehicular Mobility Unit (EMU) Fan Pump Separator (FPS) Removal: Swanson and Mastracchio completed removal of the  FPS from EMU 3010. This FPS will be returned on SpaceX-3.  The crew was well ahead of the timeline and were able to also complete installation of the new FPS into EMU 3010.    These activities are part of the effort to recover full EVA capability.
+Today’s Planned Tasks
+
+SM ПСС (Caution & Warning Panel) Test / Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete]
+Laptop RS1(2) Reboot [Complete]
+Laptop RSS1,2, Reboot / r/g 1009 [Complete]
+HRF – Sample Collection and Prep for Stowage [Complete]
+HRF – MELFI Sample Insertion [Complete]
+Daily Planning Conference (S-band) [Complete]
+PETRI – Plants Light On [Complete]
+ABOUT GAGARIN FROM SPACE. Restoring KENWOOD settings.  / r/g 5604 [Complete]
+SEISMOPROGNOZ. Data downlink from БСПН via RSS1 (start) / r/g 5617 [Complete]
+Blood Pressure (BP) – Procedure review [Complete]
+Locating TVS КЛ-108/109Ц  / r/g 5605 [Complete]
+BP. Hardware setup [Complete]
+Dismantling ЛКТ (ЛКТ2Д3) No. 1417726325 and ROM No. 1417726934  from 37S  БО. Medical Kit Stow [Complete]
+BP. Experiment Ops [Complete]
+СОЖ Maintenance [Complete]
+LBNP Exercise (CLOSEOUT). / r/g 5599
+Auxiliary Laptop Anti-Virus Update / r/g 5201 [Complete]
+Screw Clamp Tightening on MRM1 side [Complete]
+EMU – Fan Pump Separator (FPS) Remove and Repair [Complete]
+IMS Update [Complete]
+Crew Departure Prep [Complete]
+SEISMOPROGNOZ. Data Downlink from БСПН via RSS1 (end) / r/g 5617 [Complete]
+BP. Hardware Stowage [Complete]
+37S Transfers for return / r/g 5266, 5463nu
+BAKTERIOFAG. Dismantle and Transfer BIOECOLOGIA Case to ТК / r/g 5611 [Complete]
+STRUKTURA.  Photography / r/g 5607 [Complete]
+STRUKTURA.  Deactivation of crystallization process / r/g 5606 [Complete]
+Locating equipment to configure PCE setup and run PCE tests/ r/g 5603 [Complete]
+Transfer of Luch-2M kit to ТК / r/g 5606 [Complete]
+REGENERATSIYA-1. Container Transfer to ТК / r/g 5612 [Complete]
+ARIL. Case Removal from Incubator (+4 deg C) and Transfer to ТК / r/g 5613 [Complete]
+Preparing SM panels 225 and 226 to install PCE. / r/g 5603 [Complete]
+Medical Kit Stowage [Complete]
+Crew Departure Prep [Complete]
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves [АВК СОА] [Complete]
+37S Transfer Operations Completion Report /  r/g 5266, 5463nu [Complete]
+ATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors / r/g 5608 [Complete]
+EMU-FPS – Stowage [Complete]
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters to USOS / r/g 5608 [Complete]
+Handover of RADIN dosimeters [Complete]
+VEG – Daily Plant Check [Complete]
+MATRYOSHKA-R. BUBBLE-Dosimeter Initialization and Deployment for Exposure / r/g 5608 [Complete]
+RADIN – Deployment for Exposure  [Complete]
+Information entry in audio journal – subject [Complete]
+HRF – Preparation for blood draw [Complete]
+HRF Blood Draw [Complete]
+HRF – Blood collection assistance[Complete]
+Exercise data downlink / r/g 2639 [Complete]
+Daily Planning Conference (S-band) [Complete]
+Signing ISS RS Handover Protocol / r/g 5602 [Complete]
+Hardware setup for Change of Command Ceremony [Complete]
+PETRI – Plants Light Off [Complete]
+Change of Command Ceremony [Complete]
+Comm check and Ops from 37S  via RGS (VHF2)
+Crew Quarters Comm Configuration [Complete]
+
+Task List
+
+ARED Cylinder Evac
+FPS tool gather [Complete]
+ST ISS Read
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+37S US prepack [In work]
+Crew departure prep (CDR) [In work]
+Data prep return (CDR) [In work]
+Data prep return (FE-4)
+Data prep return (FE-5) [In work]
+MOOT restow
+No Skid Tap Audit
+P/TV Hardware Questions
+CTB 1048 Relocate
+FPS Tool Stow [Complete]
+NOD1OS2-LHA R&R
+NOD1PD2-LHA R&R
+KTO EDV Audit
+NOD3 PEPS assessment
+
+Ground
+
+Nominal commanding
+

@@ -1,0 +1,129 @@
+
+Bio-Monitor: The crew donned the Bio-Monitor Hardware for 50 min in order to verify communication telemetry. Although the ISS is equipped with health and life sciences research tools, the existing instrumentation for continuous and simultaneous recording of several physiological parameters is lacking. To tackle this issue, the Bio-Monitor Commissioning activity tests the Bio-Monitor facility; a wearable garment capable of monitoring relevant physiological parameters for up to 48 hours in a non-invasive and non-interfering way.  The physiological parameters which can be monitored consist of heart rate, respiration rate, Electrocardiogram (ECG), skin temperature, peripheral blood oxygen saturation, etc.
+BioFabrication Facility (BFF): Crew installed two Tissue Cassettes into the BioFabrication Facility. The print was aborted due to an issue with the cassettes. Ground teams are assessing and will be coming up with a forward trouble-shooting plan. The BFF is dedicated to manufacturing human organs and tissues in space, primarily for use by patients on Earth. Besides printing tissue, the BFF also can help maintain the health of deep space exploration crews by producing food and personalized pharmaceuticals on demand.
+Rotifer-B1: The crew removed the Kubik Centrifuge Insert from Prime Kubik-6 in preparation of Rotifer-B1. The crew then performed a setup of Kubik Electronics into Kubik (5 & 6). The Rotifer-B1 investigation aims to explore the effects that spaceflight has on both the metabolism and genomic/genetic level of the bdelloid rotifer Adineta vaga. This is achieved by culturing rotifers in Kubik, an on-orbit incubator facility. After exposing rotifers to space conditions inside the ISS, samples are frozen and returned to Earth for postflight analyses.
+NanoRacks Zero-G Oven: The crew performed a preheat and status check for the Zero-G Oven. The Zero-G Oven examines heat transfer properties and the process of baking food in microgravity. It uses an oven designed specifically for use aboard the space station with a top temperature of 363.3° C. On future long-duration missions, fresh-baked food could have psychological and physiological benefits for crewmembers.
+Fluids Integrated Rack (FIR) Light Microscopy Module (LMM) Biophysics: The crew performed CCU avionics Hard Drive Replacement as the current hard drive has failed. Proteins are important biological molecules that can be crystallized to provide better views of their structure, which helps scientists understand how they work. Proteins crystallized in microgravity are often higher in quality than those grown on Earth. The Effect of Macromolecular Transport on Microgravity Protein Crystallization studies why this is the case, examining the movement of single protein molecules in microgravity.
+Systems:
+74P Launch: 74P successfully launched from the Baikonur Cosmodrome today at 03:34 AM CT.  74P will be performing a 49 orbit rendezvous with ISS, which sets the stage for docking on Monday at 4:38 AM CT.
+SpX-19 Arrival Preparations: In preparation for SpX-19 arrival on Sunday, 12/08/19, the crew completed three Capture Point Hold runs that allows practice in free drift timing, malfunction response and nominal rate approaches. They also had a conference with ground teams to discuss cargo transfer operations.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Configure RMAD PPL 178 for Dragon Rendezvous
+Payload Support
+
+Saturday, 12/7 (GMT 341)
+Payloads:
+
+
+Rodent H/W gather and LSG setup (NASA)
+Bone Densitometer Calibration OBT (NASA)
+Bio-Monitor HW power down (CSA)
+BFF Cassette inserts and syringe swaps (NASA)
+ISS HAM (NASA)
+
+Systems:
+
+EMU Cooling Loop Maintenance
+
+Sunday, 12/8 (GMT 342)
+Payloads:
+
+
+Fluid Shifts Baseline Line Imaging Setup (NASA)
+Bone Densitometer Calibration load (NASA)
+BEST Box module inserts into MELFI (NASA)
+BFF Cassette inserts and syringe swaps (NASA)
+
+Systems:
+
+Dragon Capture, Leak Check, Ingress
+Dragon Center Stack Transfer
+
+Monday, 12/9 (GMT 343)
+Payloads:
+
+
+GRIP Seat Setup (ESA)
+Fluid Shifts Baseline Scans (NASA)
+Bone Densitometer Rack install and Calibration and photo (NASA)
+JAXA-PCG Crystallization Start (JAXA)
+Rodent-19 Habitat install (NASA)
+Space Moss Item Gather and sample attach (JAXA)
+Cold Atom lab module 3 transfer to powered temp stow ER1 (NASA)
+XENOGRISS activation (NASA)
+NanoRacks Module 83 install (NASA)
+TangoLab PAUL Hardware install (NASA)
+Food Acceptability (NASA)
+
+Systems:
+
+Dragon Cargo Ops
+HMS AED Inspection
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+UF-ATMOSFERA. PL Deactivation
+NanoRacks Zero-G Oven Preheat
+Change out of FGB Onboard Complex Control System (СУБК) 23А287М Program-Logic Control Device (УПЛУ).
+Rodent Research Habitat Stow
+BioFabrication Facility Tissue Print With Cells Install
+UF-ATMOSFERA. Closeout Ops
+BFF MERLIN Sample Removal
+BioFabrication Facility MELFI Sample Retrieve
+Rodent Research Habitat Stow
+BioFabrication Facility MELFI Sample Retrieve
+BioFabrication Facility Tissue Print With Cells Install
+NanoRacks Zero-G Oven Status Checks
+Extravehicular Activity Airlock Restow
+Rodent Research Habitat Stow
+On-board Training (OBT) Dragon Attached Phase Operations Review
+BioFabrication Facility MELFI Sample Retrieve
+INTER-MAI-75. Moding HAM Radio Hardware to SSTV
+NanoRacks Zero-G Oven Power Off
+VIZIR. Multi-module ultrasound coordinate referencing system (СКПФ-УМ) PL Session.
+Fluids Integrated Rack – Rack Doors Open
+Cold Stowage Double Coldbag Icebrick Stow
+Fluids Integrated Rack Avionics Package (CCU) Hard Drive Replace
+Transfer of Samples(s) from Glacier to Glacier
+Remove & Replace charge/discharge current integrator МИРТ-3 (А721) in SM Power Supply System Main Bus Assembly (БСШ-1М).
+Glacier Tray and Support Structures Installation
+Rodent Research Habitat Stow
+MELFI Polar Transfer
+Fluids Integrated Rack – Rack Doors Close
+Installation of HP printer and voltage converter in the RS – Installation of voltage converter, Routing cables and panel modification in SM.
+Bio-Monitor Wearables Setup
+Bio-Monitor System Commissioning Measurement Modification 2
+Dragon Cargo Operations Review
+Life on the Station Photo/Video
+Dragon Cargo Operations Conference
+Bio-Monitor Wearables Data Transfer And Removal Alternate
+Columbus Bay 3 and 4 cargo relocation
+JEM Dragon19 Stowage Reconfiguration
+BioFabrication Facility Cleaning Syringe Install
+Inventory audit of technical support and repair equipment
+Kubik Centrifuge Insert removal
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Rodent Research Transfer Crew Conference
+MELFI 2 & 3 Ice Brick Insert 3
+On-board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT) Session 2
+BioFabrication Facility Glacier Sample Retrieve
+BioFabrication Facility Tissue Cassette Removal/Troubleshooting
+INTER-MAI-75. Equipment deactivation and cleanup
+Installation of HP printer and voltage converter in the RS – Installation of HP printer in SM.
+Fluid Shifts (FS) OCT2 Station Support Computer (SSC) Wired
+Kubik 6 setup on COL1D3
+Merlin Desiccant Swap
+Kubik 5 setup on COL1D4
+BFF MERLIN Sample Insertion
+
+ 

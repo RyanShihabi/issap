@@ -1,0 +1,19 @@
+
+Payloads
+ExHAM sample detach: The crew removed and stowed 15 ExHAM#1 samples.  The samples were exposed to the ISS external environment and include several exposure panels (each with multiple test materials), an actuator, capture panels, etc.  Taking advantage of Kibo’s unique function of having both an airlock and a robotic arm on the ISS, the ExHAM (Exposed Experiment Handrail Attachment Mechanism) facility enables space experiments to be performed in the exposed space environment, by attachment to the Japanese Experiment Module Kibo’s Exposed Facility.
+Iceberg install: The crew performed the steps necessary to install the Iceberg cold stowage facility into EXPRESS rack 4.  Iceberg is a Double Locker equivalent designed for EXPRESS Rack operation and provides additional cold stowage resources aboard the International Space Station (ISS). The units provide an operating range of +4°C to -95°C.   Iceberg is similar to the Glacier and Polar units currently in use, but provides additional volume to help reduce the number of EXPRESS Rack locations needed.
+MSG facility activation: The crew assisted with the activation of the MSG (Microgravity Science Glovebox) facility, which will be used to support ops later this week.  The MSG is a rack-level payload facility located in the U.S. Laboratory module on the ISS. MSG provides resources such as power, data, video, heat rejection, vacuum, nitrogen and containment for investigations. The facility is well suited for handling hazardous materials when crew are present. MSG is capable of accommodating both physical science and biological research payloads.
+Systems
+Special Purpose Dexterous Manipulator (SPDM) Latching End Effector (LEE) Survey: Ground teams positioned the SPDM LEE near the P1 Lower Outboard External High Definition Camera (EHDC) and are currently performing a survey of the LEE. Imagery from this survey will be used to perform a SPDM LEE snare cable health assessment.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SSRMS LEE High Definition Survey
+VB-RC Off-nominal Motion Checkout
+ER4 ICEBERG Activation
+SPDM OEUCS Checkout
+

@@ -1,0 +1,113 @@
+
+Biomolecule Sequencer WIFI Reconnection and Sample Sequence Completion: Over the weekend the crew completed the deoxyribonucleic acid (DNA) sequencing process that began last week and transferred the screenshots to the Surface Pro 3 tablet for downlink. The Biomolecule Sequencer investigation seeks to demonstrate for the first time that DNA sequencing is feasible in an orbiting spacecraft. A space-based DNA sequencer could identify microbes, diagnose diseases and understand crew member health, and potentially help detect DNA-based life elsewhere in the solar system.
+Marrow Blood, Breath, and Ambient Air Sample Collection: Over the weekend the crew set up the Marrow air sample collection hardware in the crew quarters and today upon waking the crew took breath and ambient air samples to measure carbon monoxide concentration for the Canadian Space Agency (CSA) Marrow experiment. Marrow investigates the effect of microgravity on human bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on bone marrow and the blood cells that are produced in the marrow. The extent of this effect and its recovery are of interest to space research and healthcare providers on Earth. 
+Human Research Program (HRP) Generic Urine and Frozen Blood Collection Double Spin: The crew continued HRP operations that began over the weekend by collecting saliva and urine samples for 24-hours and processing a set of blood samples for double spin operations using the Refrigerated Centrifuge. The samples were stowed in the Minus Eighty-degree Freezer for ISS MELFI. 
+Mouse Epigenetics Closeout and Reconfiguration Operations: The crew performed Mouse Epigenetics closeout and reconfiguration activities to clean up and disassemble the Glove Box before removing the Mouse Habitat Cage Unit from the Cell Biology Experiment Facility (CBEF). The crew also changed the CBEF video output cable configuration from multiple channel cable to single channel cable and disconnect the CBEF Multiple Video Cable between CBEF and Image Processing Unit (IPU) as well as the CBEF and Video compression and Recording Unit 2 (VRU2) on Multi-purpose Small PayloadRack2 (MSPR2). 
+Thermolab Instrumentation for Circadian Rhythms: The crew began the first of a three-day European Space Agency (ESA) Circadian Rhythms experiment by performing instrumentation with the Thermolab Double sensors, mounting the Thermolab Unit in the belt, connecting and powering on the Thermolab Unit before beginning a 36 hour continuous measurement. After the measurement was completed, the data was transferred and hardware stowed. The objective of the experiment is to get a better understanding of alterations in circadian rhythms in humans during long-term space flights. Such knowledge will not only provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+Multi-Omics Operations: Today the crew supported the Japan Aerospace Exploration Agency (JAXA) Multi-Omics investigation by collecting body samples and inserting them into a Box Module in the Minus Eighty-degree Freezer for ISS (MELFI). The investigation evaluates the impacts of space environment and prebiotics on astronauts’ immune function by combining the data obtained from the measurements of changes in the microbiological composition, metabolites profiles, and the immune system. 
+Habitability Human Factors Directed Observations: The crew will recorded and submited a walk-through video documenting observations of life onboard ISS, providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the ISS. Observations can help spacecraft designers understand how much habitable volume is required and whether a mission’s duration impacts how much space crew members need. 
+Trailing Thermal Control Radiator (TTCR) Extravehicular Activity (EVA) Preparations: The Extravehicular (EV) crew conducted a review of procedures that cover the suit donning plan, pre-breathe protocol, Equipment Lock activities, egress  and detailed EVA timeline. Following the review they participated in a conference with ground teams. The Intravehicular (IV) crew accessed the Dynamic Onboard Ubiquitous Graphics (DOUG) software and completed a robotics review of Space Station Remote Manipulator System support plan for US EVA #37 this Thursday.
+External Television Camera Group (ETVCG) Troubleshooting Test Lead Build:  The crew performed part 1 of a procedure to verify the heaters on the spare ETVCG Light are functional. They built two jumpers from pin kit materials for use in tomorrow’s task. 
+Remote Power Control Module (RPCM) Remove & Replace (R&R):  Over the weekend, Robotics Ground Controllers unstowed the Special Purpose Dexterous Manipulator (SPDM) from Mobile Base System (MBS) Power Data Grapple Fixture (PDGF)2.  At the end of re-rigidizing the SPDM Latching End Effector (LEE) for SPDM unstow, the SPDM safed, which has been observed previously. Controllers performed the necessary recovery steps and released the SPDM LEE from MBS PDGF2. Once the SPDM had been unstowed, controllers maneuvered the SSRMS and SPDM to position SPDM Arm2 to use Robot Micro Conical Tool #2 (RMCT2) to demate and remove RPCM P12B_A from its slot which was previously attempted on June 14, 2016 without success.  Today, after numerous pull and wiggle attempts, the RPCM came out of its slot.  Both the RPCM and its slot were inspected and nothing was seen that would preclude pressing with stowing the RPCM in a spare slot and installing another RPCM in Slot P12B_A.  This RPCM was then stowed in Spare Slot P13A_H.  Controllers commanded the SPDM Arm 2 On-Orbit Replaceable Unit (ORU) Tool Change-out Mechanism (OTCM) handling the RMCT2 to release the Failed RPCM (removed from P12B_A slot) in the P13A_H  slot.  They then maneuvered the SSRMS and SPDM to position SPDM Arm2 to align RMCT2 with the spare RPCM located in P11A_D to demate and remove it from its slot.  This RPCM was then moved to the P12B_A slot. It was successfully inserted and bolted to P12B_A worksite after being pushed with the maximum force allowed of 200 N.  SPDM Arm 2 released the spare RPCM in P12B_A and ground teams confirmed it was functioning nominally.  
+46 Soyuz Survey:  Following the RPCM R&R, controllers walked the SSRMS off MBS PDGF3 onto the Node 2 PDGF then onto the Lab PDGF and finally onto the Functional Cargo Block (FGB) PDGF.  From there, the SSRMS was used to perform a survey of the 46S Soyuz using the Tip LEE.  When the survey was completed they walked the SSRMS off the FGB PDGF onto the Lab PDGF, then off the Lab PDGF onto MBS PDGF3.  Finally, the SSRMS was maneuvered to its start position for the Trailing Thermal Control Radiator (TTCR) Extra Vehicular Activity (EVA) scheduled this Thursday. 
+Today’s Planned Activities
+All activities completed unless otherwise noted.
+
+MARROW  Air Samples
+NEUROIMMUNITET. Saliva Sample. Psychological Test (morning).
+HRF Urine Sample Collection
+CORRECTSIYA. NEUROIMMUNITET. Blood Collection.
+HRF, MELFI Sample Insertion
+HRF Blood Draw
+NEUROIMMUNITET. Venous blood sample processing (smear)
+CORRECTSIYA. NEUROIMMUNITET. Venous blood sample processing using Plasma-03 centrifuge
+HRF Blood Collection Operator
+CORRECTSIYA. NEUROIMMUNITET. Handover to USOS for MELFI Insertion
+ Russian Experiments (RUEXP) FE-2 Blood Sample Handover for MELFI Insertion (Correctsiya, Neuroimmunitet)
+CORRECTSIYA. NEUROIMMUNITET. Closeout Ops
+HRF Refrigerated Centrifuge Configuration
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake
+HRF Refrigerated Centrifuge Configuration
+HRF  MELFI Sample Insertion
+D4 Batteries Recharge for USOS EVA Camera
+HABIT Data Recording to iPad
+Multi Omics (MO) Sample Collection
+Final printout of EVA procedures
+HRF Refrigerated Centrifuge Configuration
+HRF MELFI Sample Insertion
+HRF Refrigerated Centrifuge Closeout Ops
+ЦВМ1 R&R Preparation Ops.
+Multi Omics (MO) Sample Insertion into MELFI
+Multi Omics (MO) Equipment stowage after sample collection
+XF305 Camcorder Settings Adjustment
+Mouse Epigenetics Close-out Ops, Part 1
+NEUROIMMUNITET. End of ECG Recording. Close-out Ops and Data Downlink
+EVA Tool Config
+Demate Central Computer [ЦВМ] telemetry connector (J-04).
+ЦВМ1 R&R.
+Crew Departure Prep
+CARDIOVECTOR. Experiment
+MSG Close-out Ops, Part 3
+Mating ЦВМ1 (J-04) Telemetry Connectors.
+P/TV – camcorder setup
+Water Recovery Management (WRM) Water Consumption Balance, place holder
+ЦВМ1 R&R Closeout Ops.
+MHU-I/F UNIT  Removal
+CARDIOVECTOR. Photography of the Experiment Ops
+NEUROIMMUNITET. Hair Sample
+LBNP Exercise (PRELIMINARY).
+HRF Hardware Stowage after Urine Collection
+Soyuz 731 Samsung tablet recharge, initiate
+CBEF – video hardware cable reconnection
+WRS – water sample analysis
+Kentavr Fit Check for Soyuz 720 Crew
+Routine Maintenance of H2O valves (КН), Air Press Valves [КВ], and Drainage Valves (КД) in SM Rodnik Tanks
+ELT2 – laptop relocation
+Soyuz 731 Samsung tablet recharging, termination
+Sokol Space Suit leak check
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ.  Fill ЕДВ (КОВ) No.1212 (00067599R, ФГБ1ПГО_1_109) from ЕДВ No.1265 (00058343R, ТКГ433ГрО_з4_пл 4-1). Use ЕДВ No.1160 for separation, if necessary (00068243R, ФГБ1ПГО_1_108)
+Psychological Evaluation Program (WinSCAT)
+СОЖ Maintenance
+Sokol Suit Dryout, Setup Suits 1 and 2 for Drying
+USOS items prepack for return on 46S
+WRS Tank fill for EDV processing
+METEOR Rack Doors Open
+EVA Procedure Review
+NEUROIMMUNITET. Psychological Test
+IMS Delta File Prep
+LBNP Exercise (PRELIMINARY).
+USOS EVA Procedure Review
+Terminate Drying of Suits 1,2
+Start drying the 3rd space suit and setup the 1st pair of gloves for drying
+Finish drying the 1st pair of gloves and start drying the 2nd pair
+FMK Deployment Ops
+Environmental Health System (EHS), GSC Sample Container
+TOCA – data recording
+Terminate Drying the Second Pair of Gloves
+Pre-EVA PMC
+IFM, ETVCG configuration for EVA
+Sprint Exercise, Optional
+CORRECTSIYA. NEUROIMMUNITET. Experiment Setup
+Hygienic ops
+Finish Drying the 3rd suit, Start Drying the 3rd Pair of Gloves
+WRS – Tank fill for EDV processing
+Thermolab, Instrumentation Ops for Circadian Rhythms
+Exercise Data Downlink via OCA
+Terminate drying the 3rd pair of gloves
+Stowage of suits and gloves after drying
+NEUROIMMUNITET. Saliva Sample. Psychological test (evening)
+SPLANH. Diet Restrictions Reminder
+NEUROIMMUNITET. Saliva Sample
+NEUROIMMUNITET. Measuring Blood Pressure and Starting 24-hr ECG Recording
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+46S survey
+DOUG review
+Nominal ground commanding
+

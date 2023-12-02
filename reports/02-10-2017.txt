@@ -1,0 +1,80 @@
+
+Japanese Experiment Module (JEM) ORU Transfer Interface (JOTI) and Robotics External Leak Locator (RELL) Installation on JEM Airlock (JEMAL) Slide Table: The crew installed the JOTI on the JEM A/L Slide Table. Afterwards, the crew installed the Robotics External Leak Locator (RELL) onto the JOTI, and retracted the Slide Table inside the JEMAL.  RELL operations are scheduled for this weekend to try and locate the source of the ammonia leak on External Active Thermal Control System (EATCS) Loop B.
+JEM Pressurized Module (JPM) Thermal Control Assembly (TCA) Accumulator Package Remove & Replace (R&R): Today, the crew replaced the JPM TCA Accumulator package. They disengaged Cabin Ducts and rotating the Environmental Control Life Support System / Thermal Control System (ECLSS/TCS) rack. They then removed the Accumulator Package and installed a spare. After mating the rack umbilical and attaching the accumulator, they rotated the rack and engaged the Cabin Ducts. The removed Accumulator Package was packaged for return to the ground. 
+Packed Bed Reactor Experiment (PBRE) Removal: The crew removed the PBRE from the Microgravity Science Glovebox (MSG) and packed it for return on SpX-10. The PBRE investigation studies the behavior of gases and liquids when they flow simultaneously through a column filled with fixed porous media. The porous media or “packing” can be made of different shapes and materials and are used widely in chemical engineering as a means to enhance the contact between two immiscible fluid phases (e.g., liquid-gas, water-oil, etc.). Packed columns can serve as reactors, scrubbers, strippers, etc. in systems where efficient interphase contact is desired, both on Earth and in space. 
+Fluids Integrated Rack (FIR) Light Remove & Replace: The crew translated the Optics Bench out in the FIR rotating it to 60°. They then removed and replaced both FIR White Light Lamps in the FIR White Light Chassis on the back of the Optics Bench. The Optics Bench was then rotated back to vertical position and translated into the rack. The White Light Lamps were close to their expected end of life, and to prevent a burn out during the Light Microscopy Module (LMM) Biophysics experiment, which is arriving on SpaceX-10 (SpX-10), the light was changed out early. LMM Biophysics 1 (The Effect of Macromolecular Transport of Microgravity Protein Crystallization) will launch on SpX-10. When installed, investigators will use the results from LMM Biophysics 1 to examine the movement of single protein molecules in microgravity. By studying the crystals of a higher quality that can be grown in microgravity, scientists will be able to better understand their structure and how they work. 
+48 Soyuz (44S) Emergency Egress Drill: The crew participated in an emergency decent drill. This training session focused on off-nominal procedures that would be used in the event the crew needs to egress the ISS and perform an emergency descent. The drill is scheduled when the crew has been aboard the ISS for 12-14 weeks, then once every 2.5 months. 
+Mobile Servicing System (MSS) Operations: Overnight, Robotics Ground Controllers powered up the MSS and walked the Space Station Remote Manipulator System (SSRMS) off the Node2 Power Data Grapple Fixture (PDGF) and onto Mobile Base System (MBS) PDGF1. They then unstowed the Special Purpose Dexterous Manipulator (SPDM) from MBS PDGF2 and maneuvered the SSRMS (holding the SPDM) to a translation configuration.  Finally, Ground Controllers translated the Mobile Transporter (MT) from Worksite #4 (WS4) to WS7.  The MSS is now in position for the start of the Robotic External Leak Locator (RELL) operations scheduled to begin this afternoon. 
+Treadmill 2 (T2) Secure Digital (SD) Card Recovery – On February 9th T2 was declared non-operational.  The ground teams were not successful in performing the nominal weekly powercycle and later on that day crew was unable to get the T2 treadbelt to spin.  T2 had been operating in debug mode, due to previous anomalies, which increased the amount of data files stored on the SD card.  Teams determined that yesterday’s failed powercycle was due to the SD card being too full.  In order to recover T2, crew and ground teams executed a successful recovery of the SD card and unmanned activation and checkout. T2 is GO for operations.
+Extravehicular Activities (EVA) Pistol Grip Tool (PGT) Torque Analyzer Kit (TAK) Data Gather: The crew installed the TAK onto each of the PGTs and recorded their torque output for ground analysis. This activity is part of a 6-month requirement for all on-orbit PGTs.  
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Video for Russia Today TV Channel
+DUBRAVA. Observations and photography
+Preparation of Reports for Roscosmos Web Site and Social Media
+EKON-M. Observations and photography
+Inventory Management System (IMS) conference
+Treadmill 2 (T2) SD Card Recovery
+Fluids Integrated Rack Doors Open
+JEM Cabin Duct Disengagement
+RELAKSATSIYA Hardware Setup
+Glisser-M Video Battery (2) Charge (GoPro HERO3 No.6):  setup and initiate battery charge
+Crew will bag Actiwatches on the HRF Rack 2 front and stow for return.
+VIZIR. Experiment set up and start using СКПИ P/L
+Crew will access and save the VUE error logs for drives E and F by using the MSG laptop
+БД-2 control panel software installation
+JEM Airlock Slide Table (ST) Extension to JPM Side
+JEM Airlock (AL) Slide Table Passive Capture Mechanism Removal
+JPM TCA L Accumulator Package R&R
+RELAKSATSIYA. Parameter Settings Adjustment
+Structures and Mechanisms JEM ORU Xfer I/F and Robo Ext Leak Locator Installation
+RELAKSATSIYA. Observation
+RS2, RS3 Laptops Inspection And Cleaning
+RELAKSATSIYA. Closeout Ops and Hardware Removal
+СОЖ maintenance
+Fluids Integrated Rack Rack Doors Close
+Glisser-M Video Battery (2) Charge (GoPro HERO3 No.6):  Terminate charge and stow
+RS1 Laptop Inspection and Cleaning
+Structures and Mechanisms (S&M) JEM ORU Xfer I/F (JOTI) and Robo Ext Leak Locator (RELL) Assist 1
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+SEISMOPROGNOZ. Cable Disconnect from Autonomous Temperature Monitoring Module [МАКТ] Х4 cnctr
+JEM Airlock Depressurization
+Meteor hard drive swap
+Space Headaches – Weekly Questionnaire
+JEM ECLSS/TCS1 Rack Umbilical Mate
+SEISMOPROGNOZ. Cable 17КС.42Ю -8242А-9130 Disconnect from Х4 МАКТ
+SEISMOPROGNOZ. Removal of [МАКТ] unit and Control and Data Acquisition Module (МКСД)
+SPHERES USB Download
+JEM Cabin Duct Engagement
+Packed Bed Reactor Experiment Hardware Stow
+IMS Update
+VIZIR. СКПИ Closeout Ops
+ISS Emergency OBT Drill (Soyuz 732 Descent)
+Life On The Station Photo and Video
+JPM Accumulator Package-FSE Attaching To Removed Accumulator Package
+JEM Airlock Vent
+Robotic Workstation (RWS) Lab Setup
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+JEM Airlock Vent Confirmation
+Treadmill 2 (T2) Cable Secure
+In Flight Maintenance (IFM) Urine Processor Assembly (UPA) QD27 Remate
+SPHERES USB Stow
+ISS HAM Service Module Pass
+Consolidate MSG spare hardware from two CTBs into one CTB.
+Remote Workstation Monitor HD Video Downlink Deactivation RWS.
+
+Completed Task List Items
+
+Veg-03 Pillow Water
+EVA PGT TAK Data Gather
+P/L Hardware Relocate
+EVA EHDC Inspection
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+RELL Operations
+Battery Capacity Test 3A3
+JEM Airlock Depressurization 
+

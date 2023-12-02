@@ -1,0 +1,65 @@
+
+Orbital 1 Launch Status:  To allow additional time for ground specialist to continue to work the ETCS Loop A issues the Orb-1 Launch date has changed from December 18th (CST) to December 19th (CST).
+External Thermal Control System (ETCS) Loop A Status:  ETCS Loop A is operating, however due to a bias on the flow control valve (FCV) temperatures are currently not being controlled within the range to allow integration of the Interface Heat Exchangers (IFHX).  MCC-H is currently performing tests on ETCS Loop A to regain enough temperature control to allow the N2 IFHX to be reintegrated.   The Lab and N3 have been configured to reject all internal heat loads on ETCS Loop B.  However due to the loss of heat rejection for the Node 2 Moderate Temperature Loop (MTL), half of the loads Node 2, JEM and Columbus modules have been powered down. 
+Extravehicular Activity (EVA) Prep: The decision has not been made to perform an EVA to Last night, the crew initiated a MetOx regeneration to recondition  the canisters in the event contingency EVAs are needed to recover the ETCS. Today the crew configured the Airlock by relocating any cargo that was temporarily stowed in the airlock.  FE-3 Mike Hopkins and FE-5 Rick Mastracchio completed adjusting the fit on their EMUs (S/N 3005 and 3010).  Additional EVA prep activities performed today included Long Life Battery (LLB) charging, Simplified Aid for EVA Rescue (SAFER) checkout, and reviewing the Pump Module and a Water in EVA Mobility Unit (EMU) briefing packages.
+COSMO Shoot: FE-6 Wakata performed a session of this activity today. He will be taking high definition photos of the ISON comet, Earth, and various celestial events from Cupola over the next few months. By utilizing the advantage of high definition and high sensitivity of the camera, the video images can be also used for science purposes.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot / Onboard Computer System (БВС) [Complete]
+SM ПСС (Caution & Warning Panel) Test (after breakfast) /Manual Controls [РСУ], [Complete]
+HAM Radio Session [Complete]
+Weekly Housekeeping [Complete]
+SM Ventilation Subsystem Preventive Maintenance, [Complete]
+Inspection of Air Conditioner / Thermal Mode Control System [СОТР] [Complete]
+EMU resize (FE-3) [Complete]
+EMU resize (FE-5) [Complete]
+EMU PWR degas [Complete]
+EVA VRT setup [Complete]
+EVA A/L unstow [Complete]
+COSMO – Hardware Setup
+COSMO – Video Camera Setup [Complete]
+COSMO – Setting Camera, Connecting Microscope [Complete]
+COSMO – Camera View Check [Complete]
+CGBA – Status Check and Monitor Cleaning [Complete]
+Video for Roscosmos TV Studio / r/g 4280 [Complete]
+EVA Procedures Review [Complete]
+EMU LLB charge initiate [Complete]
+Telephone Conference with Russian Space Magazine Editor  r/g 4294 [Complete]
+Gas Analyzer ИК0501 O2 sensor adjustment. [Complete]
+Food Frequency Questionnaire [Complete]
+COSMO – Hardware Deactivation, Closeout [Complete]
+СОЖ Maintenance [Complete]
+COSMO – Data Transfer [Complete]
+COSMO – Closeout Ops [Complete]
+COSMO – Temporary Stowage [Complete]
+JRNL – Data Entry [Complete]
+ISS-Server1 Hard Drive Reseat [Complete]
+
+Task List
+
+ARED Cylinder Evacuation 
+EVA QD Trainer
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+URAGAN. Observations and Photography
+ECON-M. Observations and Photography
+Network Information for JSL Administration (NINJA) Print [Complete]
+National Geographic B-Role
+EMU OFV Measurements  [Complete]
+COL D1 FD2 MSR
+H2O EMU Review
+Cosmo Media Audit
+DOS3D PDP Check
+Kubik 6 Belt Search
+National Engr Week Message
+P/TV Trash
+PPS Wipe
+Pre-gather COL A/L
+Pre-gather Empty CTBs
+WINEARTH HISD Photos
+
+Ground
+
+Nominal Commanding 
+

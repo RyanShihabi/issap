@@ -1,0 +1,60 @@
+
+NanoRack Cubesat Deployer (NRCSD) #11 Deploy: The final six CubeSats for NRCSD #11 were deployed today from the ISS:  Aerosat, Link, CSUNSat, UpSat, SpaceCube and Hoopoe.  CSUNSAT was developed at California State University Northridge (CSUN) in partnership with the Jet Propulsion Laboratory (JPL).  It is being used to validate in space a new low temperature energy storage system developed at JPL. The remaining cubesats being launched today are from the QB50 constellation of CubeSats from countries around the world. The constellation aims to study the upper reaches of the Earth’s atmosphere over a period of 1 to 2 years. The QB50 satellites conduct coordinated measurements on a poorly studied and previously inaccessible zone of the atmosphere referred to as the thermosphere. The project monitors different gaseous molecules and electrical properties of the thermosphere to better understand space weather and its long term trends. 
+Sprint Ultrasound 2 Operations: The crew configured Ultrasound 2, placed reference marks on the calf and thigh of right leg, donned Sprint (Integrated Resistance and Aerobic Training Study) thigh and calf guides, and performed thigh and calf scans with guidance from the Sprint ground team. Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume. The Sprint investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions. 
+Fluid Shifts:  A 49S crewmember performed their Flight Day 30 Fluid Shifts Chibis operations in the Russian Segment. They donned the Lower Body Negative Pressure (LBNP/Chibis) device while the operator, with ground support in Moscow, assisted in the medical monitoring.  While the subject was in the LBNP and experiencing the negative pressure (pulling the fluid feetward), the USOS crewmember will take measurements for Cerebral and Cochlear Fluid Pressure (CCFP), a Distortion Product Otoacoustic Emission (DPOAE) test, Optical Coherence Tomography (OCT), and a Tonometry examination.  Fluid Shifts is a joint NASA-Russian experiment that investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage. 
+Biolab:  Today the crew replaced the Biolab Centrifuge rotor belt.  On August 4, 2016 the crew noticed that the centrifuge would not rotate due to the rotor belt not being properly aligned. The BioLab is a multiuser research facility located in the Columbus laboratory. It is used to perform space biology experiments on microorganisms, cells, tissue cultures, small plants, and small invertebrates.
+OsteoOmics:  The crew fixated BioCells in Biocell Habitat 4 today and inserted the sample into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  Crewmembers experience bone loss in orbit, stemming from the lack of gravity acting on their bones. OsteoOmics investigates the molecular mechanisms that dictate this bone loss by examining osteoblasts, which form bone, and osteoclasts, which dissolve bone.  Improved understanding of these mechanisms could lead to more effective countermeasures to prevent bone loss during space missions and in a wide range of disorders on Earth. This may lead to better preventative care or therapeutic treatments for people suffering bone loss as a result of bone diseases like osteopenia and osteoporosis, or for patients on prolonged bed rest.
+Service and Cooling Umbilical (SCU) Remove & Replace (R&R): In preparation for last week’s EVA, at the beginning of In-Suit Light Exercise (ISLE) Prebreathe a water leak was discovered at the SCU for Fischer’s Extravehicular Mobility Unit (EMU) suit. The leaking SCU was subsequently disconnected and a single functioning SCU was shared between the two EMU suits. Today the crew R&Rd the faulty SCU, removed air from the feed water line and filled transport water lines. The faulty SCU will return to the ground for investigation.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+SPLANKH. Setup and Initiate EGEG Recording
+Equipment Audit in the SM recess under ИнПУ  (panel 214)
+Personal Data Prep for Return
+ECON-M. Observation and Photography
+SPLANKH. Photography of the Experiment Session
+Ultrasound 2 HRF Rack 1 Power On
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Power Up
+FLUID SHIFTS
+OsteoOmics MELFI Removal
+Sprint Ultrasound Operations – Subject
+Sprint Guide Donning Operator
+Compound Specific Analyzer-Combustion Products (CSA-CP) Checkout Part 2
+NanoRacks Cubesat Video Setup
+Condition check of Fuel Supply Syringe of Group Combustion Module (GCM)
+SPLANKH. Termination EGEG Recording and Closeout Ops
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Biolab Rotor Belt Troubleshooting Unstow
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+Fluid Shifts Tonometry Service Module Stow
+High Definition Video Camera Assembly 1 Activation in High Definition Mode
+Manufacturing Device Print Clean
+Biolab Centrifuge Recovery
+USOS Window Shutter Close
+OsteoOmics Media Relocate
+Service and Cooling Umbilical (SCU) Installation
+Service and Cooling Umbilical (SCU) Activation and Checkout Part 1
+OsteoOmics Media Change
+Service and Cooling Umbilical (SCU) Activation and Checkout Part 2
+Biolab Centrifuge Recovery
+Removal of insert-cable КВ БРП-М No.1409001 from БРП-М No.1406003
+Pre-pack cargo items for return or disposal on Soyuz 733
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+Crew Departure Prep
+Replacement of ПУРВ-К (А308) (No.10326332) on ПУРВ-К (А308) (No.10322900) and removal of cable-insert. Test checkouts after replacement
+Clean up of Biolab Rotor Belt Troubleshooting activity
+High Definition Video Camera Assembly 1 Switch to SD Mode
+Inventory Management System (IMS) Conference
+Service and Cooling Umbilical (SCU) Activation and Checkout Part 3
+LS1 (Linux Server 1) Ultrabay drive reseat
+INTERACTION-2. Experiment Ops
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+SCU R&R Support
+

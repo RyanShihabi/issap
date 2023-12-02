@@ -1,0 +1,141 @@
+
+Combustion Integration Rack (CIR)/Advanced Combustion via Microgravity Experiments (ACME) Hardware Replacement:  The crew changed the CIR/ACME system from the BRE (Burning Rate Emulator) experiment configuration to the Flame Design experiment configuration. The Flame Design investigation studies the production and control of soot to optimize oxygen-enriched combustion and the design of robust, soot-free flames. Soot can adversely affect efficiency, emissions, and equipment lifetime, so this may lead to more efficient and cleaner burner designs. The experiment is conducted with spherical flames of gaseous fuels in the CIR as part of the Advanced ACME project. Flame Design is one of five experiments hosted by CIR/ACME.
+Probiotics: A crewmember performed saliva sample collections and completed a questionnaire in support of the JAXA Probiotics study. The objective of the Probiotics investigation is to study the impact of continuous consumption of beneficial bacteria (probiotics) on immune function and intestinal microbiota in astronauts in a closed microgravity environment. The results of this investigation may be used to support improvements in crew members’ intestinal microbiota and their immune function on long-duration space missions 
+SUBSA (Solidification Using a Baffle in Sealed Ampoules) sample exchange: The crew removed the completed Indium Iodide vapor deposition sample and inserted another sample cartridge to be processed.  Indium iodide (InI) is ideal for space experiments in the SUBSA Transparent Furnace because it is non-toxic, has a relatively low melting point of only 365°C, and does not react or stick to the silica crucible.  Directional solidification of InI from the melt can be performed at a rate of 5 mm/hour, and growth from the vapor can be performed at ~5 mm/week.  This work advances the process of fabricating high-quality InI and other crystals on Earth for use as better and less expensive detectors of nuclear radiation.
+Post Extravehicular Activity (EVA) Operations: Following yesterday’s EVA, today the crew completed the following activities.
+
+Refilled water tanks in Extravehicular Mobility Unit (EMU)s 3006 and 3008 using iodinated water to satisfy maintenance requirements for on-orbit stowage.
+Airlock reconfig
+Debrief with ground teams
+Photo/TV camera disassembly
+
+Mobile Servicing System (MSS) Operations: Yesterday, Robotics Ground Controllers powered up the MSS on the redundant string to allow the EVA to execute one of the tasks to install the truss jumpers that will provide Space Station Remote Manipulator System (SSRMS) with an alternate power path in case of an upstream electronic box (Battery Charge Discharge Unit (BCDU), Direct Current to Direct Current Converter Unit (DDCU) or Pump Module (PM)) failure. During the EVA, the MSS provided camera viewing support. After the EV Crew installed the Spider Cable on the Lab, ROBO performed a successful connectivity checkout. Following the EVA, ROBO reconfigured MSS in a nominal Dual String Keep-alive state.
+Compound Specific Analyzer: Combustion Products (CSA-CP) Maintenance: The crew completed this routine maintenance to zero calibrate and replace battery packs in all four units. The CSA-CPs are used by the crew to detect evidence of fire and/or hazardous environment.
+Completed Task List Activities:
+
+Item for trash found
+Assessment for Thermal Amine install
+Printed housekeeping list
+Emergency fireport label update
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+EMU water ops support/post EVA ops
+SSRMS walkoff to MBS PDGF 4
+
+Wednesday, 4/10:
+Payloads
+
+
+Airway Monitoring setup
+Actiwatch Plus check
+BCM
+Cerebral Autoregulation
+Food Acceptability
+ISS Experience
+Team Task Switching
+Veg-03H deactivation 
+
+Systems
+
+EVA loop scrub
+EVA Airlock unstow
+Cygnus rendezvous OBT
+
+Thursday, 4/11:
+Payloads
+
+
+Airway Monitoring airlock session
+Cerebral Autoregulation
+ISS Experience
+ISS HAM pass
+LMM/Biophysiics-6 config
+Medical Proteomics
+Repository
+SUBSA sample exchange
+Team Task Switching
+
+Systems
+
+Recycle tank drain
+HRF collections
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HEMATOCRIT. Mean circulating platelet volume measurement
+Probiotics Saliva Operations
+HEMATOCRIT. Equipment stowage
+Probiotics Saliva Sample MELFI Insertion
+SCENARIO. Visual observations and photography
+Probiotics Question
+ACME MWA Prep
+Health Maintenance System (HMS) Periodic Health Status (PHS) Post EVA Examination Setup
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Health Maintenance System (HMS) Periodic Health Status (PHS) Post EVA Examination – Subject
+PILLE dosimeter readings after USOS EVA
+Health Maintenance System (HMS) Periodic Health Status (PHS) Post EVA Examination – Crew Medical Officer (CMO)
+Cerebral Autoregulation Data Measurement Item Gathering
+EML Gas Valves Opening
+Combustion Integrated Rack Rack Doors Open
+FGB Lights Audit
+Health Maintenance System (HMS) Periodic Health Status (PHS) Post EVA Examination – Subject
+Vozdukh system deactivation
+Health Maintenance System (HMS) Periodic Health Status (PHS) Post EVA Examination – Crew Medical Officer (CMO)
+Combustion Integrated Rack Front End Cap Open
+ISS HAM Radio Power Up
+Health Maintenance System (HMS) Post-EVA Periodic Health Status Examination – Stow
+Transfer of priority and US cargo from Progress 441 (DC1) with IMS update
+ACME Chamber Insert Configuration
+FGB GA vacuum cleaning
+XF305 Camcorder Setup
+Cerebral Autoregulation Equipment Setup
+Desk Handrail R&R. Functional recovery of bonding points in SM
+DUCKWEED. Cutlivation chamber photography
+Robotic Workstation (RWS) Setup
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Exercise Session
+Airway Monitoring Hardware Location
+Photographing the position of the БКДО on MRM2 from the SM window №13 – preparation
+Installation of handrail removable cases inside SM. Tagup with specialist if needed
+ISS Experience Hardware Stow
+Photography of БКДО Unit position on MRM2 exterior from SM Window No.13 (closeout ops)
+Extravehicular Mobility Unit (EMU) Water Recharge
+Transfer of priority and US cargo from Progress 441 (DC1) with IMS update
+Food Acceptability Questionnaire
+Combustion Integrated Rack Front End Cap Close
+Combustion Integrated Rack Rack Doors Close
+Solidification Using Baffles in Sealed Ampoules Sample Exchange
+Extravehicular Activity (EVA) Air Lock Deconfiguration
+Prep ops for KOMPARUS R&R
+Food Acceptability Questionnaire
+Extravehicular Activity (EVA) Debrief
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Environmental Health System (EHS) – Compound Specific Analyzer-Combustion Products (CSA-CP) Extended Maintanence
+Video setup for БД-2 exercise filming
+On MCC Call БД-2 Test (day 3)
+INTERACTION-2. Experiment run
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Ultrasound 2 HRF Rack 2 Power On
+Health Maintenance System (HMS) Ultrasound 2 Scan Prep
+Health Maintenance System (HMS) Ultrasound 2 Scan performed by a Crew Medical Officer (CMO)
+Health Maintenance System (HMS) Ultrasound 2 Scan
+Video deinstall for БД-2 exercise filming. Data downlink
+Filling ЕДВ (KOВ) for Elektron
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Photo/TV Extravehicular Activity (EVA) GoPro Downlink
+PAO Preparation
+СОЖ maintenance
+MATRYOSHKA-R. Tritel unit checkup
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Health Maintenance System (HMS) Ultrasound 2 Scan performed by a Crew Medical Officer (CMO)
+Health Maintenance System (HMS) Ultrasound 2 Scan
+Vozdukh system deactivation
+Evening Preparation Work
+Health Maintenance System (HMS) Ultrasound 2 Post Exam
+
+ 

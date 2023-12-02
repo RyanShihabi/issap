@@ -1,0 +1,57 @@
+
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N) Retrieval:  Today a USOS crewmember retrieved all 8 of the Space Bubble Detectors that were deployed last week for the RaDI-N experiment, and transferred them to the Russian crewmember for processing in the Bubble Reader. This Canadian Space Agency (CSA) RaDI-N investigation measures neutron radiation levels while onboard the ISS.  Bubble detectors are used as neutron monitors designed to only detect neutrons and ignore all other radiation.
+Extra Vehicular Activity (EVA) preparations:  Today the crew performed EVA tether inspections, tool configurations, cuff checklist printing, scheduled health checkups, and procedure reviews in preparation for the tomorrow’s EVA.  The primary goal of tomorrow’s EVAs is to Remove and Replace (R&R) a Space Station Remote Manipulator System (SSRMS) Latching End Effector (LEE) which had been exhibiting some anomalies in its operation.
+Lab Carbon Dioxide Removal Assembly (CDRA) Blower Speed Test – Today, ground controllers began a 7 day test of the Lab CDRA using higher blower speeds. The CDRA blower speed will be gradually increased to determine the ability of the CDRA blower to operate at increased speeds without triggering software responses to excessive speed and to evaluate impacts of elevated speed to the blower.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Preventive Maintenance of FS1 Laptop (Cleaning and rebooting)
+Health Maintenance System (HMS) Periodic Health Status (PHS) Pre EVA Examination
+Monthly BRI Cleaning
+RELAКSATSIYA. Charging battery for Relaksatstiya experiment (initiate)
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation
+Acoustic Dosimeter Setup Day 2
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Relocate PBAs for upcoming EVA
+Live TV Conference with VKontakte Hostess
+US Extravehicular Activity (EVA) Tether Inspection
+BIOCARD. Operator Assistance During the Experiment
+BIOCARD. Experiment Session
+Extravehicular Activity (EVA) Tool Configuring
+Extravehicular Mobility Unit (EMU) Cuff Checklist Print
+Extravehicular Activity (EVA) Tool Audit.
+Onboard Training (OBT) Robotics On-board Trainer (ROBoT) Setup
+Public Affairs Office (PAO) Social Media Event
+Intermodular TORU Test with Mated Progress 436
+Scheduled monthly maintenance of Central Post Laptop. Laptop log-file downlink via OCA
+Extravehicular Activity (EVA) Procedure Review
+СОЖ maintenance
+Extravehicular Activity (EVA) Procedure Conference
+MATRYOSHKA-R. BUBBLE-Dosimeter Retrieval And Readout
+ISS HAM Video Color Bar and Tone Deactivation
+CONTENT. Experiment Ops
+Radi-N Detector Retrieval/Readout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+RELAKSATSIYA. Hardware Setup
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters from USOS
+Station Support Computer (SSC) 9/17 Laptop Relocate for EVA
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Setup
+HRF2 Supply Kit Inventory
+Delta file prep
+RELAKSATSIYA. Parameter Settings Adjustment
+PELLE Data Download & placement before EVA
+RELAKSACIA. Observation
+Equipment Lock (E-LK) Preparation
+RELAKSATSIYA. Closeout Ops and Hardware Removal 
+
+Completed Task List Activities
+
+Crew Support LAN (CSL) 1 hard drive swap and client reload [Active]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+CDRA blower speed test
+Commanding for EVA preparation
+Periodic Lab CDRA checkout
+

@@ -1,0 +1,77 @@
+
+Solidification Using Baffles in Sealed Ampoules (SUBSA):  The crew set up the SUBSA hardware today and installed a calibration sample.  The objective of the SUBSA investigation is to advance understanding of the processes involved in semiconductor crystal growth. It offers a gradient freeze furnace for materials science investigations that can reach 850°C. Samples are contained in transparent quartz or ceramic ampoules with high definition video imaging available in real-time along with remote commanding of thermal control parameters.
+European Modular Cultivation System (EMCS):  The crew decommissioned and removed ESA’s EMCS for return on the SpaceX-15 vehicle.  The EMCS Holding Structure will be temporarily stowed in the Cygnus vehicle. 
+Microbial Tracking-2 (MT-2):  Today the crew collected saliva and body samples and placed them inside a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) in support of the Microbial Tracking-2 investigation.  MT-2 monitors the different types of microbes that are present on ISS over a 1-year period.  After the samples are returned to Earth, a molecular analysis of the RNA and DNA will be conducted to identify the specific microbes that are present on ISS in order to understand the microbial flora diversity on the ISS and how it changes over time. 
+Orbital ATK (OA)-9 cargo status:  The crew is scheduled for ~8 hours of Cygnus Cargo operations today. The crew has completed 13.5 hours of cargo operations since last Friday.  Cargo specialist estimate approximately 16 hours of cargo operations remain to complete Cargo Message #1.  Cargo Message #1 will unload the Cygnus vehicle and load about 1/3 of the trash.     
+Mobile Servicing System (MSS) Operations: This evening ground robotics controllers will ungrapple the Space Station Remote Manipulator System (SSRMS) from the OA-9 Cygnus spacecraft. Once complete, the SSRMS will backaway from the vehicle, complete a walkoff to Mobile Base System (MBS)-1, and stow the Special Purpose Dexterous Manipulator (SPDM) in preparation for tomorrow‘s planned robotic surveys. 
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Microbial Tracking-2 Sample MELFI Retrieval Insert
+C/o and Report Results of Virus Scan on Auxiliary Computer System [ВКС] Laptops
+Treadmill 2 (T2) SD Card Recovery Pt 2
+Transfer Cygnus Cargo Operations
+Treadmill 2 (T2) Cable Secure
+Microbial Tracking-2 Body Sample Questionnaire
+Verification of SM Central Post Laptop connection to wireless SM Ethernet
+Wastewater Storage Tank Assembly (WSTA) Fill
+GoPro HERO3 Battery charging (6 pc) for Soyuz 737 – init
+Microbial Tracking-2 Body Sample Collection
+Stowage of Equipment for Disposal on Soyuz 737
+Flushing СРВ-К2М Multi-Filtration Unit (БКО) Prior to R&R
+STaARS Cryotube Kit removal
+Place STaARS samples into Kynar Bag
+ИП-1 Flow Sensor Positioning Check
+Microbial Tracking-2 Sample MELFI Insert
+Probiotics Fecal Sample Operations
+URAGAN. Automatic exposure mode setting and testing
+Probiotics Fecal Sample MELFI Insertion
+VIZIR. Preparation Steps and СКПИ Science Hardware Calibration.
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+MERLIN 1 Status Check
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Changeout of Dust Filter ПФ1-4 Cartridges in SM (ФГБ1ПГО_4_419_1, bag 437-13 (00072389R)). Removed filters for disposal.
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Food Acceptability Questionnaire Subject
+Cold Atom Lab Procedure Review
+СОЖ maintenance
+Cold Atom Lab Fiber Optic Cable Cleaning Dry Run
+ТК 737 Transfers Completion Report
+Delta file prep
+GoPro HERO3 Battery charging (6 pc) for Soyuz 737 – completion
+Solidification Using Baffles in Sealed Ampoules Hardware Setup
+IPEHG Installation Review
+ISS Crew departure preparation
+MPEG-2 TV Downlink Test via KU-band in preparation for Soyuz 739 Docking to the ISS
+PEHG Hardware Install
+Crew Departure Preparations for Return to Earth
+European Modular Cultivation System Decommissioning Procedure Review
+VIZIR. Closeout Ops
+European Modular Cultivation System Facility Remove from EXPRESS Rack 3
+HRF Generic Saliva Collection Setup
+Transfer Cygnus Cargo Operations
+Cold Atom Lab Hardware Gather
+European Modular Cultivation System Facility Remove Assist
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Health Maintenance System (HMS) Personal Medication Stow
+Cygnus Cargo Operations Conference
+HRF Generic Saliva Collection Setup
+RADIOSKAF. Battery charge
+STaRS Sample Stow
+
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Lab MCA Zero Calibration
+SSRMS Ungrapple Cygnus
+SSRMS Walkoff MBS1
+Unstow SPDM
+TRRJ Survey
+

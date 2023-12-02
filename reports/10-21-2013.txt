@@ -1,0 +1,143 @@
+
+Cygnus Preparation for Unberth and Release: Flight Engineer (FE)-3 Hopkins, FE-5 Parmitano and FE-6 Nyberg configured Cygnus and Node 2 vestibule today in preparation for unberth scheduled tomorrow, Tuesday October 22nd at 0545am CDT. The Cygnus hatch was closed earlier this morning followed by the removal of power, data, and air revitalization system (ARS) jumpers. Once jumpers were removed, the crew installed the Common Berthing Mechanism (CBM) Center Disk Cover and four CBM Controller Panel Assemblies (CPAs) onto an Active CBM bulkhead then closed the Node 2 nadir hatch.  Depressurization and leak check of the vestibule between the Node 2 nadir hatch and Cygnus was also performed nominally this afternoon. An additional leak check will occur tomorrow morning at 0340am CDT.
+Biological Rhythms 48 Hour Experiment:  FE-6 Nyberg configured and donned an Actiwatch, attached electrodes, and will wear the Digital Walk Holter Electrocardiogram (ECG) for JAXA’s 48 hour Biological Rhythms experiment.  This study examines the circadian variation of astronaut’s cardiac autonomic function during space flight. The research is expected to provide insight into changes in crewmember’s autonomic functions before, during, and after long-duration space flight and may be used to improve health care technology for future ISS crewmembers.
+Ku-Comm Unit (KCU)-2 Status: KCU-2 Single Board Computer (SBC) Card within the Modem failed to diagnostic mode on Saturday, resulting in a 40 minute loss of Ku-Band downlink. Ground teams successfully performed system tests and reset the card in order to recover from the anomaly. Teams are analyzing telemetry and are continuing their investigation into the root cause.
+Today’s Planned Tasks
+
+KHROMATOMASS. Experiment Setup [Complete]
+HRF-SALIVA. Sample Processing [Complete]
+HRF – MELFI Sample Insertion [Complete]
+KHROMATOMASS. Saliva and Blood Collection  [Complete]
+HRF-SALIVA. Sampling ops [Complete]
+HRF – MELFI Sample Insertion [Complete]
+Tightening QD Screw Clamps on the ATV side  [Complete]
+CASKAD. Manual Mixing in Bioreactor, switching ТБУ-В No. 04 to +4 deg. C [Complete]
+TOCA Waste Water Bag (WWB) Change out [Complete]
+ТК 709 Kazbek Fit Check [Complete]
+TOCA Calibration [Complete]
+Locating EVA hardware and tools for RS EVA #36.  [Complete]
+Psychological Evaluation Program (WinSCAT) [Complete]
+Cygnus – Cygnus PROX and НСР Power Activation [Complete]
+PHS Evaluation Setup [Complete]
+KHROMATOMASS. Closeout Ops [Complete]
+Periodic Health Status [Complete]
+RS1, RS3 Laptops Inspection And Cleaning.  [Complete]
+Periodic Health Status [Complete]
+Periodic Health Status (PHS) Data Entry and Stowage of Hardware  [Complete]
+BLR48 – Biorhythm Experiment setup and ops [Complete]
+RS2 Laptop Inspection and Cleaning.  [Complete]
+HMS Visual Testing Activity [Complete]
+Cygnus Egress [Complete]
+Answer Vision Test form in Data Collection Tool [Complete]
+Nikon D3 battery charge (charge level check) 2 off ser # HB-01 (00061044R) and HB-02 (00061043R) СМ1РО_4_413  [Complete]
+MOTOCARD. RSE-MED Laptop SW Update  [Complete]
+MOTOCARD. Experiment Ops [Complete]
+CIR – Hardware Teardown [Complete]
+TOCA Calibration [Complete]
+MOTOCARD. Experiment Assistance [Complete] 
+Cygnus/Node 2 – vestibule configuration for undocking [Complete]
+СОЖ Maintenance  [Complete]
+Node 2 Nadir CBM Controller Panel Assembly (CPA) Installation [Complete]
+Soyuz ТК 709 and 710 Comm Test (S/G1, S/G2, VHF1 and VHF2) [Complete]
+Greetings Video Footage [Complete]
+RWS – Setup [Complete]
+Urine Transfer from EDV-U to ATV4 WDS Tank [Complete] 
+TV-MPEG2 (Ku-band) TVS Test in Display + TV mode in preparation for ATV44 undocking [Complete]
+PC-DAS Configuration [Complete]
+Cygnus/Node 2 – vestibule configuration for undocking [Complete]
+Auxiliary Laptop Anti-Virus Update [Complete] 
+Cygnus/Node 2 –  Vestibule Depress and Leak Check [Complete]
+IMS Update [Complete] 
+Microbial Air Sampler (MAS) Kit Sample Collection [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (start) [Complete]
+Rendezvous and Proximity Operations Program (RPOP) Setup [Complete]
+Cygnus – Capture Reminder [Complete]
+Cygnus – Departure Conference [Complete]
+Hematocrit Hardware Setup [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 [Complete] 
+
+Task List
+
+ARED Cylinder Evacuation
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+EMU FPS R&R Study [In Work]
+15th Anniversary PAO Messages
+35S Prepack [In Work]
+Crew Discretion PAO [In Work]
+Data Prep for Return
+CWQMK Data Transfer [Complete] 
+CDRA ASV Clean [In Work]
+Node 1 JSL 16-port ethernet switch deploy assessment
+JEM Wireless Instrumentation System Environmental Remote Sensor Unit A1 Installation [Complete] 
+D2XS Sensor Clean [Complete] 
+D3S Sensor Clean
+SM Printer Troubleshooting
+Toolbox D2 Label [Complete] 
+
+Ground
+
+Nominal Commanding  [Complete] 
+
+QUICK ISS Status – Environmental Control Group:
+
+
+
+                              Component
+Status
+
+
+Elektron
+On
+
+
+Vozdukh
+Manual
+
+
+[СКВ] 1 – SM Air Conditioner System (“SKV1”)
+On
+
+
+[СКВ] 2 – SM Air Conditioner System (“SKV2”)
+Off
+
+
+Carbon Dioxide Removal Assembly (CDRA) Lab
+Standby
+
+
+Carbon Dioxide Removal Assembly (CDRA) Node 3
+Operate
+
+
+Major Constituent Analyzer (MCA) Lab
+Off
+
+
+Major Constituent Analyzer (MCA) Node 3
+Operate
+
+
+Oxygen Generation Assembly (OGA)
+Standby
+
+
+Urine Processing Assembly (UPA)
+Normal
+
+
+Trace Contaminant Control System (TCCS) Lab
+Off
+
+
+Trace Contaminant Control System (TCCS) Node 3
+Full up
+
+
+
+ 
+ 

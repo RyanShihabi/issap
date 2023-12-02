@@ -1,0 +1,93 @@
+
+Service Module (SM) ISS Reboost: This afternoon at 1:05 PM CT, the ISS completed a 17s reboost using the SM main engine. This reboost is the final reboost in a series of three burns to set up proper phasing for 54S landing on October 4th and 56S launch, which will use the 4-orbit rendezvous profile, on October 11th. ISS velocity increased by 0.27 meters per second (m/s) and the height of the ISS orbit increased by 0.49 kilometers (km).
+Express Rack 2:  The crew removed the Payload Ethernet Hub Bridge (PEHB) and replace it with an Improved Payload Ethernet Hub Gateway (iPEHG). The iPEHG design corrects performance limitations often experienced by the older PEHGs.
+Atomization: The crew replaced sample syringes for the Atomization investigation today. The Atomization experiment investigates the disintegration processes of a low-speed water jet for various jet issue conditions in the Japanese Experiment Module (JEM) to validate the new atomization concept by observing the process using a high-speed camera. The knowledge gained can be applied to improve various engines utilizing spray combustion.
+Binary Colloidal Alloy Test – Cohesive Sediment (BCAT-CS): The crew checked the camera alignment and focus by viewing the latest BCAT images on a laptop. They also performed battery change out for the camera flash.  BCAT-CS focuses on the study of forces between particles that cluster together by using sediments of quartz and clay particles. Conducting the research in the microgravity environment of the ISS makes it possible to separate the forces acting on the particles over a short range (adhesive forces) versus those acting over a long range (cohesive forces). The quartz/clay system is commonly found in a wide variety of environmental settings (such as rivers, lakes, and oceans) and plays an important role in technological efforts related to deep-sea hydrocarbon drilling and carbon dioxide sequestration.
+Team Task Switching (TTS): A crewmember completed a Team Task Switching survey today.  When crewmembers are required to switch their attention between tasks frequently, performance on each of the tasks can be negatively affected. The objective of the TTS investigation is to gain knowledge about whether or not crewmembers have difficulty in switching tasks and determine the impacts of these switches, in order to both reduce any negative consequences and improve individual and team motivation and effectiveness. 
+Spare External (EXT) Enhanced Processor and Integrated Communications (EPIC) Multiplexer/Demultiplexer (MDM) Card Swap: Based on the Test, Teardown and Evaluation (TT&E) study completed on the EXT-1 MDM that failed in 2017, teams believe the on-orbit EPIC cards could experience the same issue if subjected to cold temperatures below -20 Celsius. The crew removed the old, suspect EPIC card from the Spare EXT-1 MDM today and replaced it with a thermally tested replacement flown on OA-9 earlier this year. The MDM On-Orbit Tester (MOOT) hardware/software system will be used at a future date to perform an IVA functionality test of the MDM.
+Node 3 (N3) Smoke Detector Relocate: When the new USOS Toilet System is launched and installed in N3, there will be an interference issue preventing easy access to the N3 cabin smoke detectors and forward HEPA Filters. While several options were considered to alleviate this interference, the decision was made to move the detectors from panel NOD3D3-03 to the plenum area under NOD3D3-01; the crew partially completed this activity this morning, aborting the relocation of one Smoke Detector due to a faulty fastener. Checkouts of the successfully relocated smoke detectors was nominal and teams are working the forward plan to re-install the remaining detector at a future time.
+Public Affairs Office (PAO) Downlink Message: NASA is collaborating with National Parks Service to celebrate the 60th anniversary of NASA in conjunction with the 50th anniversary of the National Trails System Act.  As part of that celebration, the crew took photos and video today with a toy mascot named Seaman Jr.; this “pupstronaut” represents a Newfoundland dog who traveled with Lewis and Clark through the entirety of their historic expedition. His collar inscription read “The greatest traveler of my species,” and today’s activity will inspire the next generation to be curious, brave, and excited to engage in Science, Technology, Engineering, and Math (STEM) fields.
+STEMonstrations Recordings: One of NASA’s education goals is inspire the next generation to enter the fields of Science, Technology, Engineering, and Math (STEM).  “STEMonstrations,” video lessons recorded by crewmembers on-board ISS, are one of the tools used by NASA to promote and teach the various STEM topics in an exciting way. As part of this initiative, crew recorded two STEMonstrations today, one on Solar Energy and the other on the Integrated Truss, for future use in educational products, NASA TV, and social media applications.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+JEM RMS SFA Stow Completion
+
+Two-Day Look Ahead:
+Friday, 09/21: 
+Payloads
+
+Metabolic-SpaceTex2 Ops (ESA)
+ESA EPO Flying Classroom-2 (ESA)
+Blood Collection (JAXA)
+HRF Biomedical Profile Urine Blood Collections (NASA)
+FSL Spare Items Relocation
+EXPRESS Rack 2 Locker Install
+MERLIN EXPRESS Rack Installation
+Plant Habitat Science Carrier Installation #2 Photography
+LSG Laptop Computer Initial Software Load for ZBook
+Crew Earth Ops – KSC Nighttime Illumination Change
+
+Systems
+
+LAB Ethernet Switch Deploy
+IVA Tool Bag Audit
+
+Saturday, 09/21: Weekly Housekeeping, Crew Off-Duty, Glacier Ice Brick/Cold Block Insert, BCAT Camera Activities
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic HRF Centrifuge Frozen Blood Collection
+MORZE. Log Entry of Liquid and Food (Medicine) Intake
+EML Gas Valves Opening
+HRF Generic Sample MELFI Insertion
+JEM Airlock Pressurization
+In Flight Maintenance Node 3 Smoke Detector Relocate
+СВО-ЗВ water sampling to Russian drink bags
+EXPRESS RACK 2 (ER2) Rotate
+COSMOCARD. Closeout Ops
+Water sampling from Water Distribution and Heating Unit (БРП-М) to drink bags
+JEM Airlock Leak Check
+HRF Generic Urine Collection Male
+DAN. Experiment Session.
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+PEHG Hardware Install
+Station Support Computer (SSC) 8 Ethernet Cable Routing
+Regenerative Environmental Control and Life Support System (ECLSS) Urine Processor Assembly (UPA) Brine Filter Changeout
+Ultrasound 2 HRF Rack 1 Power On
+Binary Colloidal Alloy Test-Cohesive Sedimentation SB-800 Flash Battery Changeout
+XF305 Camcorder Setup
+Atomization syringe replacement 2
+ISS Crew departure preparation
+Repairs and Installation of Overlay Panels in SM
+Education-Imagery-Recording Truss
+Education-Imagery-Recording Solar Arrays
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Collecting surface samples from FGB equipment and structures
+Environmental Health System (EHS) – Compound Specific Analyzer-Combustion Products (CSA-CP) Extended Maintenance
+Monitoring shutter closure on SM windows 6, 8, 9, 12, 13, 14.
+EXPRESS Rack 2 (ER2) Reconfigure
+Resetting the memory of the microcontroller of the screen of УОВ Potok-150MK No.043. СОЖ maintenance
+Biomolecule Extraction and Sequencing Technology (BEST) On-Board Training
+In-Flight Maintenance Spare External MDM Card Swap
+MORZE. Psycho-physiological Evaluation: SUPOS Test
+AC Dry Vacuum Cleaner Cue Card Update
+Replacement of ПФ1, ПФ2 Dust Filter cassettes and cleaning В1, В2 fan screens in DC1
+PAO Downlink Message and Still Photography for National Parks
+Team Task Switching Experiment Survey Subject
+Cleaning vent screens on FGB interior panels 116, 231, 316, 431
+Microgravity Science Glovebox Activation
+Biomolecule Extraction and Sequencing Technology (BEST) Biomolecule Sequencer Stow
+Inventory Management System (IMS) Conference
+Japan Aerospace eXploration Agency Generic Frozen Blood Collection
+FGB Gas Analyzer Vacuum Cleaning
+Binary Colloidal Alloy – Cohesive Sedimentation Camera Check
+Flight Director/ISS CREW CONFERENCE
+
+ 

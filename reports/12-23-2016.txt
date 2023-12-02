@@ -1,0 +1,98 @@
+
+Fluid Shifts Dilution Measurements: The 49S subject, with blood draw assistance from a Crew Medical Officer (CMO) Operator, performed the first part of the Fluid Shift activities – Dilution Measurement. Upon wakeup the subject collected saliva, blood and urine and inserted them into Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) prior to ingesting a Sodium Bromide (NaBr) tracer. Throughout the day, the crew will perform more urine, blood, and saliva collections, inserting the samples into MELFI as well. Fluid Shifts is divided into three experiment portions – Dilution Measurements, Baseline Imaging, and Baseline Imaging with Chibis (Lower Body Negative Pressure).  The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage. 
+Aerosol Samplers Cartridge Removal: The crew closed and removed the Active Aerosol Sampler (AAS) in the LAB and PMM locations. The battery powered AAS actively pulls in air and collects particles using the principal of thermophoresis. This is accomplished by flowing the sampled air through a large thermal gradient in a narrow channel. During this process, particles are driven to the cold side of the channel where an electron microscope (EM) grid is held in place by a tiny magnet. When returned to Earth, these grids are easily removed and placed directly in the EM for analysis.
+Veg-03 Harvest and Consumption: The crew performed the second of two consumption harvests of the Outredgous Romaine Lettuce from the Veggie facility today.  The fourth and final harvest next week is scheduled, where the harvested leaves will be placed in MELFI for return. The overall goal of Veg-03 is to further demonstrate proof-of concept for the Veggie plant growth chamber and the planting pillows using ‘Outregous’ Red Romaine lettuce. Future long-duration missions into the solar system, will require a fresh food supply to supplement crew diets, which means growing crops in space. Previous investigations focused on improving productivity in controlled environments, but the limited quarters of the space shuttle and ISS made it difficult to conduct large-scale crop production tests. Veg-03 expands on previous validation tests of the new Veggie hardware, which crew members will soon use to grow cabbage, lettuce and other fresh vegetables in space. Tests determine which types of microorganisms are present in space-grown cabbage, providing baseline data for future crop-growing efforts. Behavioral health surveys assess the impact of growing plants on crew morale and mood.
+Node 1 (N1) Galley Rack Operations: The crew rotated the galley rack and routed and installed the galley data cable between the N1 aft/port endcone gore panel and the N1 Utility Interface Panel (UIP). 
+Extravehicular Mobility Unit (EMU) Maintenance: The crew completed the following in preparation for upcoming EVA’s:
+
+EMU 3006 Loop Scrub
+EMU 3008 Loop Scrub – was cancelled due to a water leak at the Service and Cooling Umbilical (SCU).  Time will be scheduled next week to changeout the SCU and complete the EMU 3008 loop scrub.
+Liquid Cooling Ventilation Garments (LVCGs) filled with water
+Conductivity tests
+
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Fluid Shifts Baseline Collections
+Fluid Shifts MELFI Insertion Operations
+Fluid Shifts Galley Water Collection Tracer Ingestion Operations
+Fluid Shifts Refrigerated Centrifuge Configuration
+Fluid Shifts Refrigerated Centrifuge Spin Conclude
+CWC-I to ЕДВ init
+Initiate water transfer from CWC-I to ЕДВ
+EMU Cooling Loop Maintenance – Part 1
+IMS Tagup (S-band)
+ [СТТС] comm system switchover to the primary set
+R&R of FGB БР-9ЦУ-8 system ЭА025М ЗУ2Б (А56)
+Test of file exchange link MCC- Soyuz 733 [СА] PC
+Terminate water transfer from CWC-I to ЕДВ
+CWC-I to EDV Term
+Search for vacuum pressure gauge hose
+VIZIR. Experiment set up and start using СКПИ P/L
+Total Organic Carbon Analyzer (TOCA) Waste Water Bag (WWB) Changeout
+Strata Status Check
+VEG-03 Consumption Harvest #2
+Aerosol Passive Samplers Status Check
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Low Calibration
+EMU Post Scrub Cooling Loop Water (H2O) Sample
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+EMU Cooling Loop Maintenance Scrub Reconfiguration
+EMU) Liquid Cooling Ventilation Garment (LVCG) Water Fill
+Fluid Shifts Refrigerated Centrifuge Spin Conclude
+SARCOLAB. EPM Hard Drive Removal and Stowage
+Fluid Shifts MELFI Retrieve Insertion Operations
+EMU loop scrub init [EMU 3008 Aborted]
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+BIOCARD. Operator Assistance During the Experiment
+BIOCARD. Experiment
+EMU Water Recharge
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Cleaning ПФ1, ПФ2 dust filters and В1, B2, Fan Grilles in MRM2
+Aerosol Samplers Cartridge Removal
+EMU Liquid Cooling Ventilation Garment (LVCG) Water Fill
+Countermeasures System (CMS) Treadmill 2 (T2) Exercise Session
+EMU Cooling Loop Scrub Termination
+FLUID SHIFTS. Big Picture Overview
+IMS Update
+Fluid Shifts Urine Containment Bag Stow Retrieval
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Low Calibration Data Closeout
+EMU Conductivity Test
+Galley Data Cable Installation
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Dose Tracker Data Entry Subject
+Ultrasound 2 HRF Rack 1 Setup
+СОЖ maintenance
+HTV-6 Cargo Stowage Ops in RS
+VIZIR. СКПИ Closeout Ops
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank R&R
+MRM2 comm config to support the P/L Ops
+Kulonovskiy Kristall Experiment Run
+MOTOCARD. Experiment Ops
+MOTOCARD. Operator Assistance with the Experiment
+EMU Long Life Battery (LLB) Charge Terminate
+MRM2 Comm Reconfig for Nominal Ops
+KULONOVSKIY KRISTALL. Copying data to removable hard drive
+Date /Time Sync on 6 RS still cameras to the station time
+LAB1O1_K1 Audit
+CMO OBT
+Stow Syringes used in H2O Conductivity Test
+CONTENT. Experiment Ops
+
+Completed Task List Items
+
+Inverter outlet label deploy
+Headset replace
+ARED cleat audit
+Handover procedures questions
+HTV6 consolidation
+Deploy aluminum tape on Saibo/Ryutai racks
+SSC5 fan clean
+VEG03 pillow water
+HTV cargo ops
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+EMU maintenance support
+

@@ -1,0 +1,83 @@
+
+Post Russia Extravehicular Activity (EVA) 35 Status: Following yesterdays 5 hour and 58 minute EVA, the ISS Crew went to sleep an hour later than usual. Today the entire crew woke up an hour late and the Russian crew had a half-duty day for the Russian crewmembers while the USOS crew works a shortened day.
+Columbus Improved Payload Ethernet Hub Gateway (iPEHG)-A Install: Flight Engineer (FE)-5 Parmitano removed the Columbus Payload Ethernet Payload Ethernet Hub / Gateway (PEHG) and replaced it with a new, improved PEHG (iPEHG). The new IPEHG design corrects performance limitations often experienced by the older PEHG.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Remove and Replace: As part of nominal maintenance activities, FE-3 Cassidy removed and replaced the Regenerative ECLSS Tank.
+Microbial Air Sampler (MAS) Kit and Surface Sample Kit (SSK) Sample Collection: FE-3 Cassidy and FE-5 Parmitano will be taking Air and Surface Samples to get a better understanding of microbial growth within the ISS modules.  The samples will be analyzed on-orbit and results will be shared with ground specialists.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3: FE-6 Nyberg will redistribute the particles in the vial assembly, activate InSPACE equipment, configure the Microgravity Science Glovebox (MSG) facility for downlink, and begin InSPACE 3 operations. InSPACE3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state by the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and can improve the design of structures.
+Mobile Servicing System (MSS) Status: Robotics Ground Controllers powered up the MSS and translated the Mobile Transporter (MT) from Worksite 4 to Worksite 6.  Later today they will walk the Space Station Remote Manipulator System (SSRMS) off the Node 2 Power Data Grapple Fixture (PDGF) and onto Mobile Base System (MBS) PDGF1.  Finally they will maneuver the SSRMS to pick up the Special Purpose Dexterous Manipulator (SPDM) in preparation for the start of H-II Transfer Vehicle (HTV) 4 Exposed Pallet (EP) SPDM operations on Saturday, August 24.
+Today’s Planned Tasks
+
+Regeneration of БМП Ф1 Micropurification Cartridge (start) [Complete]
+MSG – Visual inspection and activation [Complete]
+ISS Crew and ГОГУ (RSA Flight Control Team Management) Weekly Conference [Complete]
+RGN – Changeout of Recycle Tank [Complete]
+Installation IPEHG [Complete]
+Drying Orlan-MK Water Feed Line [Complete]
+INSP3 – Start experiment ops [Complete]
+ПрК-ATV Interface Leak Check  [Complete]
+Orlan-MK Drying  [Complete]
+Post-EVA Orlan Debrief With Specialists [Complete]
+WSTA Fill [Complete]
+ПрК-СУ Hatch Opening [Complete]
+ATV-СУ Hatch Opening [Complete]
+EMU Water Refill  [Complete] 
+Post-EVA Pille Dosimeter Reading [Complete]
+Installation of Quick Release Screw Clamps on SM Aft side, Configuring ATV-4 Life Support System to IVA Mode [Complete]
+Post-EVA Medical Kits Restow  [Complete]
+ATV Deactivation after EVA [Complete]
+Microbial Air Sampler (MAS) Kit Sample Collection  [Complete]
+Camcorder setup to capture T2 exercise [Complete]
+Orlan-MK Drying  [Complete]
+INSP3 – Closeout Ops [Complete]
+INSP3 – Start experiment ops [Complete]
+Food Frequency Questionnaire [Complete]
+HMS Defibrillator Inspection [Complete]
+Orlan-MK Drying [Complete]
+РСПИ Service Data Dump from БСПН (Payload Server) via RSS1 [Complete]
+Urine Transfer to ATV Tank [Complete]
+IMS and Stowage Conference [Complete]
+Orlan Feedwater Bladder Refill  [Complete]
+HRF – SALIVA Hardware Setup [Complete]
+Combustion Integrated Rack (CIR) Rack Door and Temperature Check [Complete]
+RGN – Remove depress hose for nominal operations [Complete]
+CIR – Manifold Bottle Replacement [Complete]
+Removal of US TV camera and Lights from Orlan Suit  [Complete]
+Photo/TV Camcorder Setup Verification [Complete]
+CIR – Rack Doors Close [Complete]
+Setting up Orlan and БСС for storage mode  [Complete]
+Surface Sample Kit (SSK) Collection/Incubation [Complete]
+Post-EVA Photo Downlink and Camera Reconfig [Complete]
+T2 Exercise Video Equipment Stow [Complete]
+Water Transfer from  Tank 3 to EDV [Complete]
+HRF1 8PU Drawer Installation and Configuration [Complete]
+INSP3- Closeout Ops [Complete]
+SHD – Weekly Questionnaire [Complete]
+MSG Hardware Deactivation [Complete]
+Flight Director/ISS Crew Tagup [Complete]
+БМП Ф1 Absorption Cartridge Regeneration (termination) [Complete]
+
+Task List
+
+CEO Operations [Complete]
+ARED Cylinder Evacuation
+ЕДВ-У Remove and Replace
+ESA Video Message Record
+Crew Choice Video Downlink
+Data Prep for Return
+34S US Prepack [In Work]
+52P US unpack [In work]
+Blackout Curtain Retrieve
+Crew Departure Prep FE-3
+WSTA Fill [Complete]
+URAGAN. Observations and Photography
+IMS Update
+СОЖ Maintenance
+ECON-M. Observations and Photography
+Preparation of reports for Roskosmos site
+
+Ground
+
+Mobile Transporter (MT) Translation from Worksite (WS)4 to WS6 [Complete]
+Space Station Remote Manipulator System (SSRMS) Walkoff from N2 Power and Data Grapple Fixture (PDGF) to Mobile Remote Servicer (MRS) Base System (MBS) PDGF 1 [In Work]
+Special Purpose Dexterous Manipulator (SPDM) Unstow from Lab PDGF [In Work]
+

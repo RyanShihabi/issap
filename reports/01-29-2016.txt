@@ -1,0 +1,67 @@
+
+Burning and Suppression of Solids – Milliken (BASS-M):  Prior to performing the first BASS-M operations today, there was an anomaly with the display overlay, which provides real time data with the downlinked images.  Kopra successfully completed a procedure that resolved the same issue that occurred during BASS-M setup earlier this week.  He then completed the first BASS-M operations, preparing and testing different samples with ground assistance from the Principal Investigator.  Ground experts are developing additional steps to avoid a recurrence of the display issue.  The BASS-M investigation tests flame-retardant cotton fabrics to determine how well they resist burning in microgravity.  Results benefit research on flame-retardant textiles that can be used on Earth and in space.
+ 
+Low Earth Orbiting Navigation Experiment for Spacecraft Testing Autonomous Rendezvous and Docking (LONESTAR):  Peake opened the outer hatch of the Japanese Experiment Module (JEM) Airlock and extended the Airlock Slide Table out to the JEM Exposed Facility.  Ground controllers then used the JEM Remote Manipulator System (JEMRMS) with the attached Small Fine Arm (SFA) to grapple Cyclops/LONESTAR, maneuvered them into position and deployed LONESTAR.  LONESTAR contains satellites AggieSat4 (built by Texas A&M University students) and Bevo-2 (built by University of Texas students).  In approximately 31 days, AggieSat4 will eject the BEVO-2 satellite.  Both satellites will then perform cross-linking communications, exchange data, link to GPS, and transmit to ground radio stations.  LONESTAR is used to further develop and refines autonomous navigation, rendezvous and docking software and procedures.  Future NASA missions to destinations such as asteroids and other celestial bodies require the use of autonomous navigation systems.
+ 
+Orbital ATK (OA)-4 Cargo Operations:  Kopra and Peake completed transferring Cygnus cargo to ISS.  The crew will start loading trash into Cygnus next week.  Cygnus is scheduled to unberth from ISS on February 19th.
+ 
+Lab Carbon Dioxide Removal Assembly (CDRA) Fault:  This morning, the Lab CDRA experienced a fault associated with its Fan Motor Controller.  After data review, ground specialists successfully restarted the Lab CDRA.  CO2 levels remained within acceptable limits.  The Node 3 CDRA had experienced a fault with its Fan Motor Controller on January 19th and is currently deactivated.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference
+IMS Conference
+Fine Motor Skills – Examination
+JEMRMS RLT Laptop Activation
+Cygnus Cargo Operations
+JEMAL – Slide Table extension
+JEMRMS Bus Monitor cable Setup
+Soyuz 719 Samsung tablet charge – initiate
+JEMRMS – Start BUS Monitoring
+Configuring ПхО for dry run
+Dry Run with Two Pressurized Orlan Suits Transfer to ПХО
+Configuring ПхО to Initial State post-Training
+СОЖ Maintenance
+Charging Soyuz 719 Samsung tablet – termination
+JEMAL – Capture Mechanism Release
+Cygnus Cargo Operations
+BASSM – Payload Ops Overview
+Installation of US EMU lights, TV cameras, and REBA power supply unit on Orlan 4 and 6
+Electrical impedance measurements in Gas Analyzer ГЛ2106 power supply circuits
+BASSM – Experiment start
+JEMAL – Slide Table Retraction
+Installation of US EMU lights, TV cameras, and REBA power supply unit on Orlan 4 and 6
+Soyuz 718 Samsung tablet charge – initiate
+RS internal lighting system audit (SM, MRM1, MRM2, DC1)
+Tests of Voltage Converter ПН28-120
+BASSM – BASS Hardware Installation and Test
+CYCLOPS – Hardware Setup
+CYCLOPS – Photography
+Stopping JEMRMS Arm Bus Monitoring
+СКПФ1, СКПФ2 Dust Filter Replacement and MRM1 Gas-Liquid Heat Exchanger (ГЖТ) Cleaning (ТГК431ГрО_з1_К5.  Reflect changes in IMS)
+BASSM – BASS Hardware Installation and Test
+JEMRMS USB Memory Stick Virus Check
+JEMRMS Data Transfer
+JEMRMS Bus Monitor Cable Teardown
+BASSM – Experiment end
+Cygnus – Cargo Operations Tagup
+Video Footage for Nauka 2.0 TV Channel
+CYCLOPS – Hardware Deactivation and Stowage
+SHD – Weekly Questionnaire
+Portable Repress Tank (БНП) No.17 (00056724R, МИМ2_Пт_302) Setup in [РО]
+Charging Soyuz 718 Samsung tablet – termination
+IMS Delta File Prep
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+
+ 

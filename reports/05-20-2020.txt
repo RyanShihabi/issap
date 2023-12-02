@@ -1,0 +1,25 @@
+
+Payloads 
+Astrobee: The crew powered on the Astrobee units for 4hrs to allow ground to perform systems evaluations. Astrobee is made up of three free-flying, cube-shaped robots which are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the space station. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+Muscle Tone in Space (Myotones): The crew performed Session #2 of Myotones Measurements using the Myotones device on 10 specific muscle locations. Blood Draws were also performed and processed through HRF2 rack centrifuge and placed in cold stowage to allow investigators to track the tissue markers in the connective tissue and extra-cellular matrix components. Myotones investigation observes the biochemical properties of muscles during long-term exposure to the spaceflight environment. Results from this investigation are expected to provide insight into principles of human resting muscle tone, which could lead to the development of new strategies for alternative treatments for rehabilitation both on Earth and for future space missions.
+Spacecraft Atmosphere Monitor: The crew powered up the Spacecraft Atmosphere Monitor unit to allow ground teams to trouble shoot steps. Unfortunately the ground was not able to recover the front display needed to interface and gather data at the current location. The Spacecraft Atmosphere Monitor investigation demonstrates the capabilities of a small, reliable, portable gas chromatograph mass spectrometer instrument aboard the International Space Station (ISS) to conduct major and minor elements of air measurement. The instrument transmits data back to the ground research team every two seconds, providing a continuous analysis to the ground research team.
+Systems
+H-II Transfer Vehicle (HTV)9 Launch: HTV9 launched successfully today from Tanegashima Space Center, Japan at 12:31 PM CT. Capture and berthing are scheduled for Monday, May 25. The vehicle will deliver approximately four tons of supplies, space parts, and experiment hardware.
+On-board Training (OBT) HTV Robotics Onboard Trainer (ROBoT) Session: Today the crew performed self-study OBT using Robotics Onboard Trainer (ROBoT) in preparation for HTV approach and rendezvous.  The training session includes a practice run for HTV approach and retreat monitoring as well as HTV capture using simulated Space Station Remote Manipulator System (SSRMS) operations.
+CREW DRAGON Rendezvous Review Computer Based Training (CBT): The crew continued their familiarization training today by utilizing a computer based trainer to review Dragon2 rendezvous operations. SpaceX Demo-2 mission is the first manned demonstration flight to the ISS for the Dragon2 spacecraft. The vehicle is planned to launch atop a Falcon 9 rocket from Launch Complex 39A at NASA’s Kennedy Space Center on May 27.
+Completed Task List Activities:
+
+ARED Quarterly Maintenance
+Extravehicular Mobility Unit (EMU) Swap
+EMU Data Recorder (EDAR) Installation on EMU 3009
+EMU Positive Pressure Relief Valve (PPRV) Cycling
+COL1F3 Hardware Consolidate
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+LSR Deactivation
+ETHOS Life Support Rack Troubleshooting Support
+DDCU Reconfiguration for decreasing beta
+

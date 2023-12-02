@@ -1,0 +1,88 @@
+
+Burning and Suppression of Solids (BASS)-II Operations: FE-5 Wiseman completed four rods in five flame tests for the BASS-II investigation. The BASS-II investigation examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity. The BASS-II experiment will guide strategies for materials flammability screening for use in spacecraft as well as provide valuable data on solid fuel burning behavior in microgravity. BASS-II results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+KUBIK Interface Test: FE-6 Gerst set up KUBIK 3 in the Columbus module with a portable power supply and tested the connection. The interface test is in preparation for T-Cell Activation in Aging Reflight which will be delivered to ISS on a future SpaceX flight. The KUBIK will be in a different configuration for T-Cell Activation in Aging Reflight than it was for the T-Cell investigation delivered on SpaceX-3 due to a reconfiguration of the European Drawer Rack (EDR).
+Soret-Facet Exchange: Gerst installed Soret-Facet into the Solution Crystallization Observation Facility (SCOF) inside the Ryutai rack. Soret-Facet will examine the comprehensive understanding of the Soret physics under steady/non-steady condition including supercooled liquid phase, which will be the first verification result to link the Soret physics and thermodynamics.
+Node 3 Common Cabin Air Assembly (CCAA) Heat Exchanger Internal Thermal Control System (ITCS) Quick Disconnect (QD) Re-Key:  During the CCAA Heat Exchanger Remove and Replace (R&R) on June 13 it was discovered that the keying of the female Quick Disconnects (QDs) on the heat exchanger hoses was opposite of male QDs mounted to ISS structure. ITCS flow direction was reversed through the CCAA heat exchanger resulting in degraded performance. Today Commander (CDR) Swanson and Gerst restored ITCS flow in the proper direction by removing the keying features from the male ITCS QDs attached to structure and reconnecting the ITCS lines to the correct QD ports.
+Space Station Remote Manipulator System (SSRMS) LEE A Photo Survey: Yesterday Robotics ground controllers positioned SSRMS LEE A over the Node 2 Zenith hatch window. Today a photographic survey was taken to address a problem seen last month when the LEE safed near the end of the latching sequence while completing an auto capture of the Lab Power Data Grapple Fixture (PDGF). A photographic survey of LEE B will be conducted tomorrow.
+Today’s Planned Tasks
+
+RSS 1, 2 Reboot / r/g 1009 [Completed]
+Laptop RS1(2) Reboot [Completed]
+SM ПСС (Caution & Warning Panel) Test [Completed]
+PROK – Urine Sample Collection [Completed]
+Health Maintenance System (HMS) – Laptop setup for ops [Completed]
+MSG – Visual inspection and activation [Completed]
+Daily Planning Conference (S-band) [Completed]
+OCT Exam – Subject [Completed]
+OCT Exam – Operator [Completed]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 5186 [Completed]
+BASS. Preparation steps [Completed]
+OTKLIK. Equipment Check. r/g 5966 [Completed]
+URAGAN. Photo Spectrum System (ФСС) Checkout. r/g 5967 [Completed]
+IFM-CCAA – Providing Access [Completed]
+OCT Hardware Stow [Completed]
+СОЖ Maintenance [Completed]
+IFM-CCAA – Cable Demating [Completed]
+Crew Medical Officer (CMO) Proficiency Training [Completed]
+GIVUS prep for R&R.r/g 5968 [Completed]
+GIVUS Replacement- review of video materials  r/g 5968 [Complete]
+БАР. Experiment ops  r/g 5969 [Completed]
+GIVUS R&R in SM r/g 5968 [Complete]
+IFM-CCAA – closeout ops [Completed]
+Demating КИНД34-020 (GIVUS) Telemetry Connectors from БИТС2-12 r/g 5968 [Completed]
+GIVUS Replacement in SM. r/g 5968 [Completed]
+Monitoring condition of RS structural  surfaces using МВП-2К device r/g 5948 [Completed]
+Video cable connection to IPU [Completed]
+BASS. Test [Completed]
+PPS- hardware unpacking and installation [Completed]
+PPS- payload checkout [Completed]
+RELAKSATSIYA. UV camera prep r/g 5973 [Completed]
+Mating КИНД34-020 (GIVUS) Telemetry Connectors to БИТС2-12 r/g 5968 [Completed]
+КИНД34-020 (GIVUS) Replacement in SM – Closeout Ops r/g 5968 [Completed]
+SHD – Space Headaches Weekly Questionnaire [Completed]
+ICS – JEM Comm Checkout [Completed]
+PROK – Diet Log Preparation [Completed]
+ISS Emergency Descent Drill. r/g 5970 [Completed]
+BASS. Closeout Ops [Completed]
+Monitoring condition of RS structural  surfaces using МВП-2К device r/g 5948 [Completed]
+Preparing to downlink RS structural element surface monitoring data r/g  5948 [Completed]
+Health Maintenance System (HMS) – Photography of Food Rations [Completed]
+SHD – Weekly Questionnaire [Completed]
+JRNL – Journal Entry [Completed]
+PPS – Payload Checkout [Completed]
+IMS Delta File Prep [Completed]
+Node 2 – Transfer Ops (Part 1) [Completed]
+RELAXATSIYA Hardware set up r/g 5971 [Completed]
+MSG – Glovebox Powerdown [Completed]
+Fundoscope – prep [Completed]
+PTV-LEE – camera setup for inspection [Completed]
+Fundoscope – Setup [Completed]
+PTV-LEE – Inspection Part 1 [Completed]
+RELAXATSIYA Parameter Settings. / r/g 5971 [Completed]
+Ocular Health (OH) – Subject [Completed]
+Fundoscope -Ocular Health (OH) – Assistance [Completed]
+PTV-LEE – Inspection Part 2 [Completed]
+PTV-LEE – Camcorder Setup for Inspection [Completed]
+RELAKSATSIYA Observation / r/g 5971 [Completed]
+Fundoscope – Ocular Health (OH) – Hardware Stowage [Completed]
+PTV – Camera Relocation [Completed]
+Node 2 – Transfer Ops (Part 2) [Completed]
+RELAKSATSIYA Closeout Ops / r/g 5971 [Completed]
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO replace
+WHC EDV-U R&R [Complete]
+Roscosmos Report
+Econ photo
+Uragan photo
+CFE-ICF5 BUB ops parts 1-4
+ARED bag audit
+COL DOSIS cable repair
+ESA record video message
+
+Ground
+
+Nominal commanding
+

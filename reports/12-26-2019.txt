@@ -1,0 +1,128 @@
+
+Advanced Nanostep: The crew inserted the Advanced Nano Step Return Bag into MERLIN.  Advanced Nano Step, more formally known as Effects of Impurities on Perfection of Protein Crystals, Partition Functions, and Growth Mechanisms, monitors and records how the incorporation of specific impurity molecules affect the development and quality of protein crystals. The crystals grown on the ISS are returned to Earth, and characterized using synchrotron X-ray diffraction. The investigation seeks to improve on the quality and success rate of crystals grown in microgravity.
+Confined Combustion: The crew performed fabric sample ignitions with the black baffles installed in the system. Confined Combustion examines the behavior of flame as it spreads in differently-shaped confined spaces in microgravity.  Flame spread observations are translated into mathematical models for use in understanding the results and applying them to areas with different shapes.  In the recent NASA Saffire project, a large-scale flame spread investigation shows that flames spread more slowly in a large confined space than in a smaller space even if all other environmental conditions are the same (oxygen, pressure, flow speed, etc). The faster flame spread in smaller chambers is suspected to be due to a combination of thermal expansion during combustion and tunnel flow acceleration. Radiation heat feedback from chamber walls may also be a factor.
+Genes In Space-6 (GIS-6): The crew performed the steps to initiate the GIS-6 Freeze and Fly 2 run 1.  Today’s session will help confirm the success of a previous sequence insertion session, as well as attempting to identify specific types of fungi present in the sample.  Deoxyribonucleic acid (DNA) damage caused by increased exposure to radiation can affect the long-term health of astronauts. Genes in Space-6 determines the optimal DNA repair mechanisms that cells use in the spaceflight environment. The investigation evaluates the entire process in space for the first time by inducing DNA damage in cells and assessing mutation and repair at the molecular level using the miniPCR and the Biomolecule Sequencer tools aboard the space station. 
+JEM Water Recovery System (JWRS): The crew checked the simulant urine bag, then re-inserted it into the JWRS unit.  During this activity, the crew noted the presence of a bubble at a location where it could have been interfering with fluid flow through a Quick Disconnect (QD). They were able to successfully remove the bubble from this location.  The JWRS demonstration will generate potable water from urine using some different, and possibly more efficient, technologies than the water reclamation currently in use on the ISS.  In the past on manned spacecraft, urine and waste water were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Systems:
+SpX-19 Cargo Operations:  In preparation for the SpX-19 unberth and return to the ground, the ISS crew took the opportunity today work on Cargo transfer operations. The ISS crew, working off a Cargo Transfer list, packed and transferred a variety cargo items on the Dragon vehicle.
+BEAM Cargo Operations: BEAM is currently being used for long-term stowage to help reduce stowage overflow in PMM and elsewhere in nominal ISS stowage locations. Some of the hardware previously stowed in BEAM is due for return or use, so the ISS crew ingressed and removed items for return (ex: HELIOS payload is being returned on SpX-19) or disposal. In addition to retrieving items from BEAM, the crew also backfilled these locations with additional hardware for long term stowage.
+Main Bus Switching Unit (MBSU)/Battery Discharging/Charging Unit (BDCU) Packing: With the SpX-19 unberth approaching, the ISS crew prepared both the MBSU and BDCU (previously failed) for return to the ground. The crew reconfigured a removed BCDU and packed into an 8.0 Cargo Transfer Bag (CTB) for return to the ground for a failure investigation.  In addition, the crew removed the MBSU from the JEM ORU Xfer I/F and installed the Stanchion Cover on an MBSU for protection during I-Level Maintenance or IVA stowage. The MBSU was placed in a 10.0 CTB and packed with foam for stowage and return.
+Completed Task List Activities:
+
+Dragon Cargo Transfer
+EVA Procedure Review
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+
+Thursday, 12/26 (GMT 360)
+Payloads:
+
+
+Advanced Nanostep
+Confined Combustion
+Food Acceptability
+Genes In Space-6
+ISS Experience message review
+JWRS bag check
+Standard Measures
+
+Systems:
+
+Dragon Transfer and Cargo Ops
+ARED Cylinder Flywheel/Valve Foam
+CCAA Maintenance Review
+MBSU/BCDU Gather, Pack and Stow
+Stanchion Tear Down
+Regen – EDV Drain Initialize, Swap, Drain Term
+OBT Emergency Mask Review
+BEAM Ingress, H/W Stow and associated activities
+
+Friday, 12/27 (GMT 361)
+Payloads:
+
+
+Confined Combustion
+Food Acceptability
+ISS Experience
+Rodent Research-19
+Standard Measures
+SPHERES reswarm prep
+
+Systems:
+
+IFM CCAA R&R
+
+Saturday, 12/28 (GMT 362) – Off Duty Day
+Payloads:
+
+
+No utilization activities
+
+Systems:
+
+No systems activities
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+AMS Procedure/video review
+Extravehicular Activity (EVA) Procedure Review
+Extravehicular Activity (EVA) Suit Intravehicular (IV) Review
+Preparation of reports for Roscosmos website and social media
+SCENARIY. Observation and photography of catastrophic events and their aftermath.  Monitoring of fires in the south of Australia
+ECON-M. Observation and Photography
+KORREKTSIYA. Venous blood sample processing using Plazma-03 centrifuge
+Insertion of Russian experiments blood samples into MELFI
+KORREKTSIYA. Transfer to USOS for MELFI Insertion
+KORREKTSIYA. Closeout Ops
+Countermeasures System Advanced Resistive Exercise Device Cylinder Flywheel Assembly Valve Foam Installation
+Integrated Emergency Procedure Review
+ARED Platform Partial Fold
+KORREKTSIYA. Data export from Actiemeter device to a data storage device
+Main Bus Switching Unit (MBSU) and Battery Charge/Discharge Unit (BCDU) Gather
+Photo/TV N3/BEAM Camcorder Setup
+Bigelow Expandable Activity Module (BEAM) Ingress
+Battery Charge Discharge Unit (BCDU) Packing
+ALGOMETRIYA. Experiment Ops.
+Comm Config to Support Tagups from MRM1
+SEPARATSIA. Letting air to vacuum pumping unit (БВ).
+SEPARATSIA. Letting air into Distilling Unit (БД) Specialist conference
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation
+Main Bus Switching Unit (MBSU) Packaging
+Weekly ISS RS Video HW functional check
+Environmental Health System (EHS) – Microbial Air Sampler (MAS) Kit Sample Collection
+Main Bus Switching Unit (MBSU) Stanchion Cover Removal Assistance
+СОЖ maintenance
+Bigelow Expandable Activity Module (BEAM) Hardware Stow
+Stanchion Cover Teardown
+Genes in Space MWA Preparation
+Cargo Transfer to Dragon
+Regen EDV Drain Swap
+JEM Water Recovery System (JWRS) Simulaunt Urine Bag Check
+Advanced Nano Step Return Bag Insertion into MERLIN.
+BEAM MAS/SSK Sample Stow
+Genes in Space 6 Freeze and Fly 2 Run Part 1
+BEAM Cleanup and Egress
+ARED Platform Unfold Back to Nominal Position
+Photo/TV Node 3 Camcorder Deactivation
+Comm Reconfig for Nominal Ops
+Food Acceptability Survey
+Confined Combustion Payload Overview
+PILOT-T. Experiment Ops.
+Confined Combustion Test Operations
+PROFILAKTIKA-2. Hardware Setup
+Genes in Space 6 CRISPR MiniPCR Stop and Stow
+GEMATOKRIT. Equipment setup
+ISS Experience Message Review
+Common Cabin Air Assembly (CCAA) Maintenance Big Picture Words Review
+CONTENT. Experiment Ops
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+USOS Window Shutter Close
+Standard Measures Pre-sleep Questionnaire
+Monitoring shutter closure on SM windows 6, 8, 9, 12, 13, 14 Прим.10
+
+ 

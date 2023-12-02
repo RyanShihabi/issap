@@ -1,0 +1,165 @@
+
+SpaceX (SpX)-17 Capture/Berthing: SpX-17 launched successfully Saturday carrying approximately 5,500 pounds of research, crew supplies, and hardware to the ISS. The vehicle was captured today at 6:03 AM CT with berthing to the Node 2 Nadir (N2N) port at 9:22 AM CT. The crew completed vestibule pressurization, leak check and vestibule outfitting and has begun cargo transfer. Dragon will remain berthed to the ISS until May 31, 2019.
+Double Coldbag (DCB) Unpack:  The crew reviewed plans for transfer and unpacking of the DCBs scheduled for tomorrow.  The Double Coldbags are loaded with phase change media to keep science items within the acceptable temperature rage during visiting vehicle ascent.
+Fluid Shifts: The crew performed Big Picture Words review, item gather, and hardware relocation in preparation for tomorrow’s Fluid Shifts operations in the Russian segment.  Fluid Shifts is a NASA investigation, divided into Dilution Measurements, Baseline Imaging, and Baseline Imaging with Chibis (Lower Body Negative Pressure in the Russian segment). The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronauts’ eyes.  Because the head-ward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and prevention of eye damage.
+Food Acceptability: The crew completed their Food Acceptability questionnaires. This investigation seeks to determine the impact of repetitive consumption of food currently available from the spaceflight food system. Results will be used in developing strategies to improve food system composition to support crew health and performance on long duration missions. 
+JAXA Mouse Mission: Hardware preparation including washer tank inspection, Mouse Habitat Cage Unit water refill and item relocation were performed in preparation for the upcoming JAXA Mouse Mission.  The purpose of this Mouse Mission is to analyze any alterations of the gene expression patterns in several organs and the effects on the germ-cell development of mice exposed to a long-term (e.g. more than 30 days) space environment.  Data collected could suggest not only experimental information about mice in the space environment, but also fundamental information about humans exposed to a prolonged space environment.
+Thermal Amine Scrubber (TAS) Status:  During today’s planned activation of TAS, the Domain Adapter Node (DAN) computer was not passing data. Ground troubleshooting discovered an abnormally large file using up all available disk space on the DAN. Once the file was deleted, data flow was restored and TAS was activated.
+Potable Water Dispenser (PWD) Sample Collection: The crew collected water samples from the PWD for in-flight and post-flight analysis. Collection is performed multiple times throughout the increment to verify water quality.
+Mobile Servicing System (MSS) Operations: Yesterday Robotic Ground Controllers used the Station Remote Manipulator System (SSRMS) to complete a survey of the Node 2 Nadir (N2N) Active Common Berthing System (CBM). Today the crew monitored the SpaceX-17 approach and captured the vehicle using the SSRMS. Ground Controllers then inspected the Dragon Passive CBM sealing surface and installed Dragon on the N2N CBM.
+Completed Task List Activities:
+
+Friday
+
+Veggie PONDS photos/check
+Rodent Research mass measurements/injections
+
+
+Saturday
+
+ESA EPO videos
+
+
+Sunday
+
+Lab AC inverter swap
+THC IMV flow measurement
+
+
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SpX-17 capture/berthing
+
+Look Ahead:
+Tuesday, 05/07 (GMT 127):
+Payloads:
+
+DCB unpack
+Fluid Shifts
+Food Acceptability
+JAXA Mouse Mission
+Micro 14
+MicroAlgae
+MVP Cell-01
+Nano Antioxidants
+PCG-18
+STaARS Bio-3
+TangoLab-2
+
+Systems:
+
+Double cold bag transfer/unpack
+POLAR/ JAXA TCU uninstall/POLAR transfer & EXPRESS Rack install 
+
+Wednesday, 05/08 (GMT 128):
+Payloads:
+
+Actiwatch Plus check
+BioCell
+Fluid Shifts Chibis ops
+JAXA glovebox
+JAXA Mouse Mission
+Kidney cells
+Life Science Glovebox
+Low Temp PCG sample prep
+Micro-14
+Mouse Measurement stow
+PAUL hardware installation
+Rodent Research-12
+
+Systems:
+
+Dragon LiOH filter bag removal
+Dragon capture debrief with ground
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Cupola Window Shutter Close
+XF305 Camcorder Setup
+Mouse Habitat Unit Equipment Preparation
+Mouse Habitat Unit Water Refill 2 for 1G
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Monitoring shutter closure on windows 6, 8, 9, 12, 13, 14. Note 8
+Robotics Workstation (RWS) Dragon Configuration
+HMS Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Water Transfer from Progress-441 (DC1) RODNIK Water Tank БВ1 into EDV
+Mouse Habitat Unit Water Refill 2 for Micro-G
+Mouse Habitat Unit Washer Fluid Filling for M5 Cage
+Dragon R Bar Approach
+JAXA Mouse Mission Cage Removal from CBEF IU Micro-G
+Mouse Habitat Unit Washer Tank Inspection
+Mouse Habitat Unit Mission Preparation
+Dragon R Bar Approach
+JAXA Mouse Mission Pre-mission Transfer Familiarization 1
+ИП-1 sensors positioning check
+Dragon R Bar Approach
+Vacuum Cleaning of Dust collectors ПC1, ПС2 filter cartridges in FGB (panels 203, 403)
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ
+Vacuum Cleaning of ВД1 and ВД2 air ducts in MRM2
+Space Station Remote Manipulator System (SSRMS) Dragon Capture
+СОЖ Maintenance
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+В3 Fan Screen Cleaning in DC1
+Robotic Workstation (RWS) Teardown
+Water Recovery Management (WRM) Condensate Pumping Initiation
+Dragon Vestibule Outfitting Kit (VOK) Gather
+MERLIN Sample Transfer  Review
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Vacuum Cleaning of ВД1 and ВД2 air ducts in DC1
+Countermeasures System (CMS) Treadmill 2 System (T2) Monthly Inspection
+Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+On-Board Training (OBT) Dragon Emergency Review
+Photo TV High Definition (HD) Dragon Video Setup
+Water Recovery Managment (WRM) Condensate Pumping Termination
+Midday Meal
+SpaceX/Node 2 Leak Check Preparation
+Fluid Shifts Chibis Reference Material Review
+Fluid Shifts Hardware USOS Disconnect
+Nikon Camera Time Sync
+Preparation for diagnostics of FGB Power Supply System Devices
+Food Acceptability Questionnaire
+Cold Stowage Double Coldbag Unpack Review
+Fluid Shifts Hardware USOS Gather
+Cold Stowage Double Coldbag Unpack Review
+Crew Command Panel (CCP) Cable Deroute
+On-Board Training (OBT) Dragon Emergency Review
+SM EPS БФ-1М filter assembly and БСШ-1М collecting buses assembly diagnostics
+Environmental Health System (EHS) – Compound Specific Analyzer-Combustion Products (CSA-CP) Checkout Part 2
+IMS Delta File Prep
+Polar and TCU Transfer from Dragon Overview
+PAO Preparation
+Fluid Shifts Hardware RSOS Transfer
+Soyuz 742 IRIDIUM Phone Charging – setup, charge init
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Fluid Shifts SSC Cable Setup
+FLUID SHIFTS. SSC1 Connection to Ethernet
+Fluid Shifts HRF PC CCFP Service Module Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+SpaceX/Node 2 Pressurized Leak Check
+Soyuz-742 IRIDIUM Phone Charging – Battery Charge Check
+Soyuz-742 IRIDIUM Phone Charging – Terminate
+[БВН] grid cleaning in Soyuz 742
+EHS Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Environmental Health System (EHS) Coliform Water Processing
+Soyuz 741 IRIDIUM Phone Charging – Charge init
+FLUID SHIFTS. Installation of Cable Assembly for Voltage Converter
+[БВН] grid cleaning in Soyuz 741
+Soyuz-741 IRIDIUM Phone Charging – Battery Charge Check
+Dragon Vestibule Outfitting
+Soyuz-741 IRIDIUM Phone Charging
+FLUID SHIFTS. Connecting US-invertor to СУБА
+VZAIMODEYSTVIYE-2. Experiment Ops
+Node 2 Nadir Controller Panel Assembly (CPA) Removal/Rotation
+Crew Quarters (CQ) Door Closing
+Dragon Ingress
+Dragon (SpX-17) Air Sampling using АК-1М sampler prior to Air Duct Installation
+Exercise Data Downlink via OCA
+Dragon Arrival Photos
+
+ 

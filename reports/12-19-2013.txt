@@ -1,0 +1,91 @@
+
+External Thermal Control System (ETCS) Loop A Status:  All Interface Heat Exchangers (IFHXs) are still bypassed and isolated from ETCS Loop A, resulting in half of the loads in the Node 2, JEM and Columbus modules to remain powered off.
+Extravehicular (EVA) Preparations: In preparation for Saturday’s planned EVA, Flight Engineer (FE)-5 Mastracchio completed pre-EVA loop scrub maintenance for EVA Mobility Unit (EMU) 3011. FE-3 Hopkins, Mastracchio, and FE-6 Wakata reviewed procedures associated with EVA Hardware, tasks that will be performed during the upcoming EVAs, and Simplified Aid for EVA Rescue (SAFER) operations. Wakata configured two D2X cameras with 28 mm EVA lens and installed an EVA camera blanket over the cameras in preparation for use in the upcoming EVAs.
+Lab Truss Contingency Jumper Installation:  In preparation for Loop A shut down during the upcoming EVAs, the crew installed the Lab Truss Contingency Jumper which provides power to the DDCU S01A downstream loads.
+Biochemical Profile: Wakata completed his Flight Day (FD) 30 Biochemical Profile and Repository blood draw.  Human Research Facility (HRF) Rack 2 was activated on auxiliary power in accordance with the power limitations imposed by the current ETCS Cooling Loop A configuration.  Blood and urine are commonly used to assess an astronaut’s health as well as conduct research in physiological disciplines by measuring key biomarkers found in these fluids.  ISS crewmembers collect, process and store blood and urine samples obtained during the preflight, in-flight and postflight phases of ISS missions. A database of results from the analysis of the samples will provide metabolic profiles of the effects of spaceflight on human physiology.
+Today’s Planned Tasks
+
+HRF Generic Frozen Blood Collection [Complete]
+HRF Generic Refrigerated Centrifuge Configure [Complete]
+HRF Generic Refrigerated Centrifuge Spin Conclude [Complete]
+HRF Generic Sample MELFI Insertion [Complete]
+EVA from DC1 procedure review  [Complete]
+Pre-EVA Periodic Health Status Examination – Setup [Complete]
+Periodic Health Status (PHS) Pre EVA Examination  [Complete]
+Periodic Health Status (PHS) Pre EVA Evaluation Data Entry & Stow [Complete]
+JAXA VIDEO Preparation [Complete]
+JAXA Video Taking Part 3 [Complete]
+JAXA VIDEO Closeout [Complete]
+TOCA Water Recovery System (WRS) Sample Analysis [Complete]
+HRF Generic Frozen Blood Collection Stow [Complete]
+Rodnik Water Tank 2 bladder compression in ТКГ 420 [Complete]
+Review Updated EVA SYS procedures for day of EVA [Complete]
+USOS Window Shutter Close [Complete]
+Initiate EMU Loop Scrub. [Complete]
+Study of Cardiovascular System Under Graded Physical Load on VELO. [Complete]
+Rechargeable EVA Battery Assembly (REBA) Installation [Complete]
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout [Complete]
+SEISMOPROGNOZ. Activation of Control and Data Acquisition Module (МКСД)  [Complete]
+Crew Medical Officer (CMO) Proficiency Training [Complete]
+ИП-1 Flow Sensor Position Check  [Complete]
+ПхО БК-3М Oxygen Tank Pressure Check  [Complete]
+MOTOCARD. Experiment Ops  [Complete]
+Terminating EMU Loop Scrub water flow. [Complete]
+Photo/TV Extravehicular Activity (EVA) Camera Configuration [Complete]
+Simplified Aid for EVA Rescue (SAFER) On-Board Training, Setup, and Stow.  [Complete]
+EMU Enhanced Caution and Warning System (ECWS) On-Board Training  [Complete]
+Water Recovery Management (WRM) Condensate Pumping Initiation [Complete]
+MATRYOSHKA-R BUBBLE-dosimeter gathering and readings. [Complete]
+Terminate charging the 2nd Orlan battery pack 825M3 and Remove the 2nd pack from charging [Complete]
+Battery Installation in Orlan Telemetry Unit (БРТА) [Complete]
+Terminate EMU  Loop Scrub. [Complete]
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record [Complete]
+Setting up NASA gear for use on Orlan-MK [Complete]
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors from USOS. [Complete]
+MATRYOSHKA-R. BUBBLE-Dosimeter Gathering and Measurements. [Complete]
+Review EVA Translation Paths and Work Zones using DOUG Application.  [Aborted]
+Extravehicular Activity (EVA) Procedure Review [Complete]
+Extravehicular Activity (EVA) Procedure Conference [Complete]
+In-Flight Maintenance Lab Truss Contingency Jumper Installation [Complete]
+NAPOR-miniRSA. TelescopePreparation before EVA-37 [Complete]
+IMS Update [Complete]
+ТГК 420 Rodnik Water Tank 2 bladder compression – Closeout Ops [Complete]
+Removal of two handles from the front of ТГК 420 hatch, installation of ТКГ 420 docking mechanism [Complete]
+СОЖ Maintenance [Complete]
+VTR Bypass Configuration [Complete]
+
+Task List
+
+ARED Cylinder Evacuation [Complete]
+PAO Event
+ТКГ 421 Transfers and IMS Updates /Transfer Ops
+Removal of 2 Solid Fuel Oxygen Generators (SFOF) from panel 429
+Replace KTO when full.
+ЕДВ-У R&R
+CWC-I (Iodinated Contingency Water Container) Degas. 
+Preparation of reports for Roskosmos site
+URAGAN. Observations and Photography
+ECON-M. Observations and Photography
+Printing and Pen & Ink updates to ISS EVA SYSTEMS CHECKLIST [Complete]
+Extravehicular Activity (EVA) Procedure Review
+Extravehicular Activity (EVA) Tool Configuring
+National Geographic B-Role
+OGS Jumper Routing
+COL D1 FD2 MSR
+DOS3D PDP Check
+IFM stowage Locate
+Kubik 6 Belt Search
+JPM1OF2 Lamp Housing Assembly (LHA) Replacement
+National Engr Week Message
+P/TV Trash
+PPS Wipe
+Pre-gather COL A/L
+Pre-gather Empty CTBs
+SM PCS HD Swap Imaging
+WINEARTH HISD Photos
+
+Ground
+
+Nominal Commanding [Complete]
+S01A powerdown and powerup [Complete]
+

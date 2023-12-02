@@ -1,0 +1,98 @@
+
+Extravehicular Activity (EVA) Preparations:  The USOS crew continued preparations for Friday’s EVA by auditing and configuring EVA tools, reviewing EVA Cuff Checklist procedures and participating in a conference with ground specialist.  Additionally, they checked out the Rechargeable EVA Battery Assemblies (REBAs) on Extravehicular Mobility Unit (EMU) suits 3006 and 3008 to verify the glove heaters are functional and helmet cameras are receiving power.
+Mobile Servicing System (MSS) Operations:  Yesterday and overnight (GMT 002-003), Robotics Ground Controllers powered up the MSS and operated the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) Body and Arm2 to remove a Nickel-Hydrogen (NiH2) battery from slot 3 on the 3A Integrated Electronics Assembly (IEA) and temporarily stow it on SPDM Enhanced ORU Temporary Platform (EOTP) Side 3.  They then removed a Lithium-Ion (Li-Ion) battery from Slot C on the H-II Transfer Vehicle 6 (HTV6) Exposed Pallet (EP) and installed it in Slot 3 of the 3A Integrated Electronics Assembly (IEA), this was the last Li-Ion battery that had to be installed in the 3A IEA.  The team is currently performing operations to drive the slot 1 and slot 5 H1 bolts with the ROST to complete the 3A pre-EVA robotics ops.
+Fluid Shifts – Baseline Imaging: The last of the three 49 Soyuz subjects performed their Baseline Imaging measurements with assistance from both onboard operators and ground remote guiders.  Ultrasound imaging was taken of arterial and venous measures of the head and neck, cardiac, ophthalmic and portal vein, and tissue thickness of lower and upper body. Additional measurements using the Cerebral and Cochlear Fluid Pressure (CCFP), Distortion Product Otoacoustic Emissions (DPOAE), Optical Coherence Tomography (OCT), ESA’s Cardiolab (CDL) Holter Arterial Blood Pressure Device, and Intraocular Pressure (IOP) using the tonometer were taken as well. Fluid Shifts is a joint NASA- Russian experiment that investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+European Space Agency (ESA) Education Payloads Operations (EPO): The crew reviewed the overview for the three EPO activities which make up the EXo-ISS – CERES, CrISStal and CatalISS.  They also installed the CERES experiment in the Veggie facility, fastening the Seed Support then watering the seeds.  The crew then prepared the CrISStal Salt Bag, dissolving the Seingnette salt then injecting the solution into the experiment bags. Finally, the crew initiated the CatalISS experiment by activating the CatalISS Gelatin Syringe by injecting degassed lemon-lime soda. CERES, is devoted to the study of plant growth; lentil, mustard, and radish seeds were selected having met the required criteria of rapid germination, vertical growth, and resistance to long-term storage. CrISStal, aims to demonstrate the role of gravity in growing crystals, where in microgravity growth is the same in all directions, giving a perfect regular shape of the crystal. The crystal grows in a liquid solution from saturated Rochelle salt. The student designed experiment, CatalISS, aims to prove the influence of gravity on the catalytic reactions. For this purpose, the experiment operates from catalysis of enzymes and gelatin for reaction with a duration of three days.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+RБМП Ф1 absorption cartridge regeneration initiate
+Unstow of the EPO Pesquet Pouch for the Ceres, Crisstal, and Cataliss experiments.
+Fluid Shifts Ultrasound 2 HRF Rack 1 Power On
+Pre-treat tank [Е-К] and hose R&R in АСУ system, АСУ activation post R&R
+Fluid Shifts OCT Baseline Setup
+Reading of Big Picture Words for Ceres, Crisstal, Cataliss
+Fluid Shifts CDL Holter Arterial BP Hardware Don – Subject
+Fluid Shifts Ultrasound Baseline Scan
+Vozdukh [АВК СОА] valves service activation
+БД-2 adjustment for physical exercise
+Crew Medical Officer (CMO) Proficiency Training
+Fluid Shifts Ultrasound Baseline Scan – Operator
+Photo and Video Recording of Life on Station
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+PROFILAKTIKA-2. Assistance in experiment setup
+ИП-1 sensors positioning check
+Nikon Camera Time Sync
+Fluid Shifts CCFP Baseline Test
+PROFILAKTIKA-2. Closeout ops (assistance)
+Fluid Shifts OCT Baseline Exam
+Central Post Laptop Monthly Maintenance Log-files Downlink
+PELIKAN PL Photo Spectral System Battery Charge (init)
+Fluid Shifts DPOAE Baseline Test – Subject
+Fluid Shifts OCT Baseline Stow
+Fluid Shifts Tonometry Baseline Setup
+Fluid Shifts Tonometry Baseline Exam
+Fluid Shifts CDL Holter Arterial BP Hardware Doff – Subject
+Formaldehyde Monitoring Kit (FMK) Deployment Operations
+Grab Sample Container (GSC) Sampling Operations
+Veggie Hardware and display OBT
+Fluid Shifts Tonometry Baseline Stow
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ
+Setup of the EPO Pesquet Ceres experiment
+Fluid Shifts CCFP Baseline Stow
+COTS UHF Communication Unit (CUCU) Circuit Breakers Close
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+СОЖ maintenance
+Progress 433 Stowage Ops (DC1) w/IMS update
+COTS UHF Communication Unit (CUCU) Circuit Breaker Open
+Extravehicular Activity (EVA) Tool Configuring
+Setup of the EPO Pesquet Crisstal Experiment.
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Setup of the Cataliss experiment
+Extravehicular Mobility Unit (EMU) Cuff Checklist Print
+Extravehicular Mobility Unit (EMU) Resize
+CONTENT. Experiment ops
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+CCE Preparation
+Extravehicular Mobility Unit (EMU) Relocate
+Extravehicular Activity (EVA) Procedure Conference
+DUBRAVA. Observation and photography
+PELIKAN Observation and photography using Photo Spectral System
+БМП Ф1 absorption cartridge regeneration; (end)
+
+Completed Task List Items
+
+Commercial Generic Bioprocessing Apparatus 1, Compact Flash Card [Completed Saturday]
+Crew Provisions Relocate [Completed Saturday]
+LAB PS-120 label fix [Completed Saturday]
+Configuring the EVA GoPro Camera [Completed Saturday]
+COL1O2 Cleanup [Completed Saturday]
+Payload Hardware Relocate [Completed Saturday]
+Tropical Cyclone Ops Overview Review [Completed Saturday]
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test [Completed Saturday]
+JEM CTB CONSOLIDATION [Completed Saturday]
+WiseNet Base Station Antenna Check [Completed Saturday]
+Cell Biology Experiment Facility (CBEF) Ventilation Valve Pedestal Installation [Completed Saturday]
+Portable Emergency Provisions (PEPS) Inspection [Completed Sunday]
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis [Completed Sunday]
+EVA Simplified Aid For EVA Rescue Practice [Completed Sunday]
+Lighting Effects Visual Performance Tests Light Setting [Completed Sunday]
+Plug-in Plan Audit – NOD1 [Completed Sunday]
+Children’s Artwork Calendar Downlink Message [Completed Sunday]
+Columbus HD video Recording on SSDs [Completed Sunday]
+Total Organic Carbon Analyzer (TOCA) Sample Data Record [Completed Sunday]
+Emergency Ammonia Measurement Kit Spare Battery Changeout [Completed Sunday]
+Recording of AstroPi Message [Completed Sunday]
+ESA PAO Recorded Message “Opening of the « Journees de linnovation en sante »” [Completed Sunday]
+Tomatoshpere Video Record [Completed Monday]
+NOD1PD2 Light Installation
+NOD1SD2 Light Installation
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+CUCU Checkout
+Day 4 – 3A Battery R&R Robotic Operations
+

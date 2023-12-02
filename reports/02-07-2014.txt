@@ -1,0 +1,93 @@
+
+FGB Power and Data Grapple Fixture (PDGF) Resistance Test:   Today Flight Engineer (FE)-4 Tyurin disconnected Russian to American Converter Unit (RACU)-5 and RACU-6 Space Station Remote Manipulator System (SSRMS) system power from the FGB PDGF Connection Panel.  FE-6 Wakata and Tyurin then performed a connection resistance test which confirmed that the SSRMS system and payloads lines were configured as required. Once resistance measurements were complete, Tyurin reconnected RACU5 and RACU6 SSRMS system power to the FGB PDGF Connection Panel.
+FGB PDGF Functional Checkout:  The Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and performed a video survey of the FGB PDGF work space for future FGB PDGF operations.  They then mated the Latching End Effector B (LEE-B) umbilicals to the FGB PDGF in order to perform the checkout.  Next the Robotics Ground Controllers powered down the SSRMS and switched its base to LEE-B on the FGB PDGF.  MCC-M powered up RACU5 providing prime string power to the SSRMS and the Robotics Ground Controllers successfully powered up the SSRMS and its video system on the prime string.  The same checkout was performed for the redundant SSRMS string via RACU 6.   With the successful completion of the FGB PDGF Checkout, the Robotics Ground Controllers powered down the SSRMS, switched its base back to LEE-A on the Lab PDGF, demated LEE-B from the FGB PDGF and powered down the MSS.  MSS performance was nominal.
+Advanced Resistive Exercise Device (ARED) Instrumentation Box (AIB) Install:   FE-5 Mastracchio removed the failed AIB and installed a replacement unit that arrived on Orbital 1.  The new AIB will not be activated until ARED is outfitted with a laptop to replace the older Pacebook and the new Station Support Computer (SSC) System 5 is loaded, currently planned for  May 2014.
+Ocular Health (OH) Cardiac and Ocular Ultrasounds: Mastracchio assisted Wakata in preparing for and conducting ocular and cardiac ultrasound scans as part of Wakata’s Flight Day 90 OH session.  Remote guidance will be provided by ground experts to ensure proper positioning and data collection. These ultrasounds are used to identify changes in ocular globe morphology, including flattening of the posterior globe, and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement.  Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent postflight recovery will assist in the development of countermeasures, clinical monitoring strategies and clinical practice guidelines.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Orange Satellite Troubleshooting:  FE-3 Hopkins and Mastracchio inspected and adjust components of the satellite battery compartments as part of the troubleshooting for the Orange SPHERES satellite.  They then verified that the satellite works properly during a nominal SPHERES test session.
+Today’s Planned Tasks
+
+Calf Volume Measurement  [Complete]
+МО-8. Setup  [Complete]
+Body Mass Measurement  [Complete]
+MO-8. Cleanup  [Complete]
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference  [Complete]
+IMS Tagup  [Complete]
+CASKAD. Removal from ТБУ-В No. 04 (+4 deg), ТБУ-В No. 04 adjustment (+ 26 deg) and placement in the Glovebox.  [Complete]
+VIRTUAL. Setup, Conduct Experiment and Closeout Ops  [Complete]
+Camcorder setup to capture T2 exercise [Complete]
+SHD – Weekly Questionnaire [Complete]
+ASEPTIC. Photography of Medium before the experiment.  [Complete]
+Ultrasound 2 HRF Rack 1 Power On [Complete]
+ASEPTIC. Placement in the GB  [Complete]
+ASEPTIC Experiment Photography  [Complete]
+Ultrasound – Scanning Prep [Complete]
+URAGAN. Observation and Photography using Photo Spectrum System  [Complete]
+Ultrasound Scan  [Complete]
+ASEPTIC Box Sterilization Activation  [Complete]
+ASEPTIC Photo Edit and Downlink [Complete]
+Kulonovskiy Kristall Experiment Ops  [Complete]
+ТГК 421 Progress (SM Aft) Rodnik БВ 1 Tank 1bladder compression  [Complete]
+ASEPTIC. Cryogem-03 Refrigerator Setup and Activation at + 37 C setting  [Complete]
+Ultrasound Post Exam Ops  [Complete]
+Ultrasound Data Export [Complete]
+ASEPTIC Repositioning Equipment in the Box  [Complete]
+WHC Fill [Complete]
+MELF2 TDR Battery Changeout [Complete]
+Cardiac Scan – Subject [Complete]
+OH – Assistance in performing cardiac scan and blood pressure measurement [Complete]
+ASEPTIC Box Sterilization Deactivation  [Complete]
+CASCADE Photography  [Complete]
+CASKAD. Fill Bioreactor, Remove from the Glovebox-S, and Setup in ТБУ-В No. 04 at +26 deg C. Photography  [Complete]
+ARED Instrument Box (AIB) Install [Complete]
+Move contents from two LAB locations in preparation for SpX-3 CPCG-HM installations  [Complete]
+Ham Radio Deactivation  [Complete]
+ASEPTIC. Surface Sampling and Beginning of Air Sampling Before Sterilization  [Complete]
+ASEPTIC Experiment Photography  [Complete]
+KULONOVSKIY KRISTALL. File Preparation and Downlink  [Complete]
+Installation of Local Temperature Sensor Switching Unit (ЛКТ) No. 1417726329 and ROM No. 1417726937 (СМ1РО_3_314_1, bag 353-8 (00037141R)) in ТКГ 422 (DC1)  [Complete]
+SHD – Weekly Questionnaire [Complete]
+IMS and Stowage Conference  [Complete]
+FGB-Power Data Grapple Fixture Cable Resistance measurement – Preparation  [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop  [Complete]
+SHD – Weekly Questionnaire [Complete]
+GFI test of all twelve COLUMBUS SUPs 120V DC power outlets  [Complete]
+SODI Equipment Stow  [Complete]
+FGB-Power Data Grapple Fixture Cable Resistance measurement  [Complete]  
+RGN REC-TNK – Recycle Tank Quick Disconnect (QD) Reconfig  [Complete]
+HAM Radio Power Up [Complete]
+IMS Update  [Complete]
+FGB-Power Data Grapple Fixture Cable Resistance measurement – Closeout Ops  [Complete]
+SPHERES – Camera Setup and Video Recording  [Complete]
+USND2 – Close-out Ops and Stowage  [Complete]
+Photo/TV Camcorder Setup Verification  [Complete]
+SPHERES Test Run  [Complete]
+Т2 Exercise Video Equipment Stow  [Complete]
+ASEPTIC Monitoring Automatic Pump Shut Off  [Complete]
+MSG – Glovebox Powerdown  [Complete]
+ASEPTIC. Retrieving samples from box and placing in thermostat  [Complete]
+ТКГ 422 (DC1) Priority and US Transfers and IMS Ops  [Complete]
+ASEPTIC Box Sterilization Activation  [Complete]
+СОЖ Maintenance  [Complete]
+SPHERES – Deactivation, Checkout, and Stowage  [Complete]
+ASEPTIC Repositioning Equipment in the Box  [Complete]
+Progress 421 Rodnik (SM Aft) БВ1 Bladder Compression closeout ops  [Complete]
+ASEPTIC. GB Sterilization Disable and Power down [Complete]
+
+Task List
+
+ARED Cylinder Evac
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+National Geographic B-roll part 4  [In Work]
+Story Time ISS Read
+NightPod Tag Removal  [Complete]
+Stow Node 1 Bacteria Filter [Complete]
+Dragon Prepack
+
+Ground
+
+Nominal Commanding  [Complete]
+FGB PDGF Checkout  [Complete]
+

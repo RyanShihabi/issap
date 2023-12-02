@@ -1,0 +1,75 @@
+
+Extravehicular Activity (EVA) #30 Preparation:  The USOS crew members made final preparations for the tomorrow’s EVA.  Today, they reviewed the detailed EVA timeline and translation paths, completed an EVA tool audit, and configured the equipment lock. Tomorrow’s EVA will complete the IDA-1 cable installation and accomplish Space Station Remote Manipulator System (SSRMS) Latching End Effector (LEE) Lubrication.  Joint Airlock Egress is scheduled to occur at ~6:15am CST with ingress taking place at ~12:10pm CST.
+Urine Processing Assembly (UPA) Status:   Flight Controllers were not able to perform a process cycle yesterday evening due to high pressure within the system, following the Fluids Control Pump Assembly (FCPA) change out. Today, ground teams worked to lower the system pressure to the required 24 mmHg.  Once the targeted pressure was reached, a process cycle was attempted.  However, UPA faulted out shortly afterwards.   The Waste and Hygiene Compartment (WHC) remains configured for internal tank (EDV), while ground teams investigate the latest UPA error code. 
+External (EXT)-2 Multiplexer/Demultiplexer (MDM):  This morning the primary EXT MDM (EXT-2) lost communication with the upstream Primary Command and Control (C&C) MDM.  Redundancy Management Software executed as expected and removed power from the MDM then commanded EXT-1 MDM as primary.   Since then, Flight Controllers have successfully re-powered EXT-2 MDM and are receiving good health and status from the MDM with no failures being reported.  Ground teams will continue to monitor EXT-2 and investigate the loss of communication event.  The EXT MDM is responsible for specific control and data processing of multiple external systems, including the Mobile Transporter (MT), Passive Thermal Control System (PTCS), Solar Alpha Rotary Joint (SARJ), Thermal Radiator Rotary Joint (TRRJ), and the Secondary Electrical Power System (SEPS).
+Potable Water Dispenser (PWD) Filter ORU Change Out:  As part of periodic maintenance, Cristoforetti changed out the PWD Filter today.
+Today’s Planned Activities
+All activities are completed unless otherwise noted.
+
+
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН (Payload Server) to RSS1 Laptop
+CASKAD. Manual Mixing in Bioreactor
+Start Battery Maintenance
+EHIP – Hardware Transfer to RS crew to be used for FGB СЭС and СУБК Units Ops
+D2XS Battery Charge
+Installation of REBA batteries
+TOCA Waste Water Bag (WWB) Changeout
+PROBOY. Temporary Transfer of РМ1 Microphone to SM [РО]
+WRS Water Sample Analysis
+REBA powered equipment test
+Pre-EVA Crew Health Status – Prep
+PROBOY. RSЕ1 Station Laptop and Otklik Hardware Ops
+PROBOY. Penetration Simulator Ops
+Pre-EVA Crew Health Status [Aborted per Surgeon and crew’s discretion]
+SM CO measurement using CMS unit
+PROBOY. Installation of РМ1 Microphone
+Pre-EVA Crew Health Status Data Entry and Stow
+OTKLIK. Hardware Check
+EMU Metal Oxide (METOX) Canister Installation
+Scheduled Maintenance of Compound Specific Analyzer- Combustion Products (CSA-CP)
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН (Payload Server) to RSS1 Laptop (terminate) / r/g 7669
+LBNP Exercise (PRELIMINARY).
+MATRYOSHKA-R. Installation of Personal Hygiene Articles СЛГ and СЛГ-3 into starboard CQ protective curtain pockets and installation of the curtain
+USOS EVA Tool Configuration
+Conference between Search and Rescue (ГПСК) specialists and the returning crew.
+Potable Water Dispenser (PWD): Filter Removal and Replacement (R&R)
+Troubleshooting FGB СУБК Instruments 11М156М
+VIBROLAB. Experiment Timeline Review
+TOCA Data Recording
+VIBROLAB. Re-mating connectors, photography
+VIBROLAB. SINUS-ACCORD P/L Activation, Mode 1 Activation
+Testing FGB СЭС БФ-2 and БСШ-2
+VIBROLAB. Switching from Mode-1 to Mode-2
+D2XS Battery Charge
+DOUG Software Review
+On-orbit Hearing Assessment using EARQ
+PILLE Data Download & placement before EVA
+Data Transmission Radio Link (РСПИ) Installation of SW for РСПИ Log files auto prep and downlink
+USOS EVA Tool Audit
+VIBROLAB. SINUS-ACCORD P/L Deactivation. Data downlink
+USOS EVA Procedure Review
+VIBROLAB.  Telemetry Downlink Test
+Testing FGB СЭС БФ-2 and БСШ-2
+USOS EVA Procedure Conference
+SPLANH. Experiment Timeline Review
+Equipment Lock Preparation
+On-orbit Hearing Assessment using EARQ
+DOUG Software Review
+IMMUNO. Preparing Saliva-Immuno Kit for the experiment
+DOUG Conference
+Medical Ops OBT
+D2Xs EVA Camera Configuration for EVA
+IMMUNO. Preparing Saliva-Immuno Kit for the experiment
+CASKAD. Manual Mixing in Bioreactor
+ABOUT GAGARIN FROM SPACE. Equipment deactivation and cleanup
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities are completed unless otherwise noted.
+
+
+ELC3 software update
+

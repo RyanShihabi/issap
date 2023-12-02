@@ -1,0 +1,59 @@
+
+60 Progress (60P) Dock: 60P successfully docked to the ISS at 2:13 AM CDT Sunday. Following the docking, Padalka and Kornienko performed leak checks and disassembled the docking mechanism. They then ingressed the vehicle and began transfer operations.
+Habitability: Kelly used the iShort application on the iPad to document his initial feelings on the habitability of the ISS.  Habitability assesses the relationship between crew members and their environment in order to better prepare for future long-duration spaceflights to destinations, such as Near Earth Asteroids (NEA) and Mars. The ultimate goal is to understand how much habitable volume is required for vehicle internal design and layout, and if mission duration impacts the volume needed. Observations during the 1-year mission, as well as 6-month missions, can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need. The iShort application will enable ground support teams and human factor engineers to study and evaluate the design of the ISS and use these results for future spacecraft.
+Robonaut 2 (R2): Last Thursday, July 2nd, ground teams attempted to update the software on Robonaut’s three processors, referred to as the ‘brain stem’ by the Robonaut team.  Teams got one of the three processors updated but after multiple power cycles and several different lockup signatures, were not able to make further progress.  Today Kelly reviewed a Robonaut video to prepare for his upcoming activities, set up a camcorder to capture video of the Robonaut operations in the US Lab, and then unstowed, configured and powered up Robonaut.  After initial difficulties with processor lockups, Kelly removed the Robonaut external chest shell and the ground updated the software on the remaining processors.  Due to troubleshooting required, activities to power up R2’s backpack and observe subsequent mobility operations were deferred.  The root cause investigation for the prior processor lockups is ongoing.  Robonaut is a two-armed humanoid robot torso designed with the versatility and dexterity to manipulate hardware, work in high risk environments, and respond safely to unexpected obstacles. Robonaut is currently mounted inside the ISS, but in the future it will perform tasks both inside and outside the ISS.
+BCAT-Low Gravity Phase Kinetics Platform (KP) Intervelometer Change: Kelly changed the camera battery, transferred images to a laptop for ground controllers to downlink, and then set the D2Xs intervalometer.  The BCAT-KP experiment aims to help materials scientists develop new consumer products with unique properties and longer shelf lives. Colloids are mixtures of small particles distributed throughout a liquid, which include milk, detergents and liquid crystals. Gravity affects how the particles clump together and sink, making the International Space Station an ideal platform to study their fundamental behaviors
+On-Board Training (OBT) Emergency Simulator Functionality: All 3 crew members reviewed the OBT simulator functionality on an iPad or Station Support Computer (SSC) in preparation for the upcoming Emergency OBT planned on Thursday. This review has typically been scheduled on the same day as the simulation event, however, crew feedback has driven ground teams to schedule it a few days ahead. 
+SSC Hard Drive Swap: Kelly swapped hard drives on SSCs 1 and 20 in preparation for the crew arriving on 43 Soyuz (43S).
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Self-Reaction Test. Reaction Time Test (morning)
+Laptop RS1(2) Reboot / Onboard Computer System
+RSS1,2 Reboot / r/g 7437
+Daily Planning Conference
+ASEPTIC. Glovebox-S hardware prep r/g 9241
+ER1 – Configuration
+ASEPTIC. Photography during air sampling configuration setup / r/g 9243
+Greasing exposed ARED wires
+HABIT – Starting Video
+INDENTIFIKATSIYA. r/g 8732
+Auxiliary Laptop Anti-Virus Update / r/g 8247
+Installation of ЛКТ (ТА251М1Б) and ПЗУ in ТКГ 428 (DC1)
+Laptop RSE1 and RSK2 Setup and Configuration in SM and ТГК 425 (Аft) r/g 9248, 9249
+HABIT – End of Video
+ROBONAUT – Experiment Procedure Review and Video Viewing
+ROBONAUT. Camcorder Installation in Node 2
+ROBONAUT. Camcorder Setup in Lab
+R2. Hardware unstow and setup to power up
+СОЖ Maintenance
+R2-BACKPACK – Power Cycling
+ISS Emergency OBT Review
+ТКГ 428 (DC1) Early Unstow, Priority and US Cargo Transfers and IMS Ops r/g 9239, 9246, 9247, 9253
+BCAT – Transfer of images from the camera
+R2-BACKPACK – Power Cycling
+R2. Big Picture Overview
+ASEPTIC. Hardware Transfer from ТКГ 428 (DC1) to MRM1 / r/g 9242
+BIOPOLIMER. Hardware transfer and setup / r/g 9244
+IMS Delta File Prep
+BIOPOLIMER. Photography / r/g 9244
+R2. Hardware Deactivation and Stowage
+Station Support Computer (SSC) 1 and 20 -Hard Drive Swap for 43 Soyuz Crew 
+Exercise data downlink / r/g 6797
+Daily Planning Conference (S-band)
+Preparing for Antivirus scan on Auxiliary Computer Laptops  (skip RSE1, RSK2) / r/g 8247
+Self-Reaction Test. Reaction Time Test (evening)
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Robonaut operations
+Progress video download
+Battery 1A2 capacity test 
+

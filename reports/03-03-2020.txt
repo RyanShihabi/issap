@@ -1,0 +1,129 @@
+
+NRCSD (NanoRacks External CubeSat Deployer): The crew performed the removal of NRCD-17 CubeSat deployer from the JEM airlock. The NanoRacks CubeSat Deployer is a stackable, modular, ground loaded launch case.  Each NanoRacks CubeSat Deployer accommodates up to eight launch cases are stacked for each JEM Airlock opening. The NanoRacks CubeSat Deployer meets the growing demand to deploy CubeSat format satellites from the International Space Station for a variety of customers.
+HISUI (Hyperspectral Imager Suite): The crew performed troubleshooting steps for the HISU Mission Data Recorder by installing the 32G SD card from the PL control Box. The Hyperspectral Imager Suite (HISUI) is a next-generation spaceborne hyperspectral Earth imaging system. The objective of HISUI onboard the International Space Station (ISS) is to obtain the data necessary to begin a full-scale practical application development for hyperspectral remote sensing through manufacturing, and the inflight performance verification of a hyperspectral imager onboard ISS.
+OsteoOmics: The crew performed BioCell Media Changeout in BioCell habitat S/N 3. Millions of Americans experience bone loss, which results from disease or the reduced effects of gravity that can occur in bed-ridden patients. OsteoOmics tests whether magnetic levitation accurately simulates the free-fall conditions of microgravity by comparing genetic expression osteoblastic cells, a type of bone cell, levitated in a high-field superconducting magnet with cells flown in low-Earth orbit. This information helps scientists determine the molecular and metabolic changes that take place in magnetic levitation and real microgravity.
+MSL SCA-GEDS-German: Ground teams initiated heating commands to the MSL to initiate processing of a Sample Assemblies Cartridge (SCA) in the Low Gradient Furnace (LGF) that was previously inserted by the crew on GMT 352 of 2019. Samples will return on SpX-20.  Liquid phase sintering is an important means to fabricate net-shape composite materials for applications over a range of industries. The science of liquid phase sintering is about 50 years old, but practice dates from the 1400s when gold was used to bond platinum in Columbia and Ecuador. Today, it is a mainstay in a diversity of fields, such as metal cutting tools, armor piercing projectiles, automotive engine connecting rods, and self-lubricating bearings. Future applications include use of liquid phase sintering as a means to perform in-space fabrication and repair, and for example using lunar regolith to fabricate structures on the moon or using metal powder to fabricate replacement components during extraterrestrial exploration. The MSL SCA-GEDS-German (NASA Sample Cartridge Assembly-Gravitational Effects on Distortion in Sintering) experiment focuses on determining the underlying scientific principles to forecast density, size, shape, and properties for liquid phase sintered bodies over a broad range of compositions in Earth-gravity (1g) and microgravity (μg) conditions.
+Systems
+Dragon On-Board Training (OBT): The crew spent part of their afternoon participating in a robotics OBT self-study session in preparation for the SpX-20 Dragon arrival later this week. Robotics Onboard Trainer (ROBoT) sessions are designed to help the crew maintain their robotics training proficiency. The ROBoT is an on-orbit version of the ground-based Dynamics Skills Trainer (DST) that simulates robotics operations with graphical feedback. Dragon launch is currently scheduled for March 7th at 10:49 CT. Capture and berthing is planned for the morning of March 9th, with an ISS/Dragon rendezvous time of ~6:00 am CT.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+JEMAL Pressurization and Slide Table Extend/Retract
+CUCU Checkout
+Lab and Node 3 CDRA Operations
+Node 2 PTCS Pre-Heat
+EPS Max Power Testing
+HRF-1 Operations Support
+LSG and OsteoOmics Media Change Out Support
+CHeCS Commanding/Data Downlink
+STP-H6 File Transfer Commanding
+
+Wednesday, 3/4 (GMT 064)
+Payloads:
+
+
+BFF test cassette Installs and Cleaning Syringe swaps and photo (NASA)
+Standard Measures saliva, and fecal collects and Blood setup (NASA)
+OsteoOmics Media Changeout (NASA)
+Food Acceptability (NASA)
+
+Systems:
+
+Robotic Workstation Setup
+Hardware gather for Node 2 Nadir Vestibule Outfitting and Dragon Ingress
+Dragon Cargo Operations Review
+Metal Oxide (METOX) Regeneration Termination
+WHC Urine Valve Block R&R
+
+Thursday, 3/5 (GMT 065)
+Payloads:
+
+
+FSL RUBI Swap Review (ESA)
+BFF Test Cartridge removal (NASA)
+Standard Measures Blood Collect (NASA)
+OsteoOmics Media change out (NASA)
+Transparent Alloy hardware setup (NASA)
+
+Systems:
+
+Red Eye: Stow items to clear space for the SpX-20 Red Eye Satellite Clamshell
+Dragon Cargo Operations Conference
+Dragon Offset Grapple OBT
+
+Friday, 3/6 (GMT 066)
+Payloads:
+
+
+Fluid Science Lab- MultiScale Boiling Exp Container removal and stow (ESA)
+FSL Soft Matter Dynamics H/W install (ESA)
+CBEF Disinfection Condition chk for Space Moss (JAXA)
+JEM Water Recovery (JWRS) cable connection (JAXA)
+Food Physiology Briefing (NASA)
+MELFI Icebrick installs (NASA)
+Transparent Alloy Cartridge Install (NASA)
+Food Acceptability (NASA)
+OsteoOmics Media Changeout (NASA)
+
+Systems:
+
+Dragon Rendezvous Operations Review
+Lab Robotics Workstation Camera Overlay Calibration
+Dragon Robotics Onboard Trainer (ROBoT) Session 2
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Reminder Standard Measures Cognition Testing
+UF-ATMOSFERA. PL Deactivation
+Standard Measures Body Sampling Survey
+Standard Measures Body Sampling Collection
+HRF Generic MELFI Sample Insertion Operations
+Standard Measures Body Sampling Stow
+32G SDHC Card installation for Mission Data Recorder troubleshooting
+JEM Airlock Press
+UF-ATMOSFERA. Closeout Ops.
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Tension Adjustment
+JEM Airlock Leak Check
+JEM Airlock Slide Table (ST) Extension to JPM Side
+NanoRacks CubeSat Deployer Removal from the MPEP
+PILOT-T Ops.
+Multi-Purpose Experiment Platform (MPEP) Removal JEM Airlock Slide Table Support
+Standard Measures Cognition Testing HRF PC1
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Retrieve IP (Internet Protocol) Concatenation Box from NG-13
+LSG Work Volume Deploy
+Robotics Onboard Training (ROBoT) Session for Dragon
+Monthly maintenance of Wide-Band Comm System (ШСС) MDM vent grilles and Lira Equipment Fan (ВОЛ).
+IP (Internet Protocol) Concatenation Box installation in COL
+Standard Measures Sample Collection
+HRF Generic MELFI Sample Insertion Operations
+CARDIOVECTOR. CARDIOVECTOR Device Health Check.
+OsteoOmics-2 Media Relocate
+ISS HAM Service Module Pass
+BioFabrication Facility Procedure Review1
+Preparing for Troubleshooting FGB Power Supply System and СУБК devices.
+WHC UVB R&R PRE GATHER
+Photo/TV CUCU HD Video Setup
+COTS UHF Communication Unit (CUCU) Activation
+Transparent Alloys Hardware Locate
+Current converter fan (ВПТ) screen cleaning
+Metal Oxide (METOX) Regeneration Initiation
+Emergency RS ISS VHF-1 Comm Checkout from USOS
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Checkout & Stow
+Photo/TV CUCU HD Video Deactivation
+LSG Primary Crew Restraint Unfold
+OsteoOmics-2 Media Change
+Private Medical Conference (Ku + S-band)
+LSG Primary Crew Restraint Fold
+OsteoOmics-2 MELFI Sample Removal
+HRF Generic Sample Collection
+
+ 

@@ -1,0 +1,22 @@
+
+Payloads:
+Astrobee/Smartphone Video Guidance Sensor (SVGS): Following the installation of the SVGS LED targets, an SVGS science session was performed. SVGS demonstrates the use of a photogrammetric vision-based technology for guidance, navigation, and control of a small spacecraft. Developed by NASA, the vision-based sensor computes the position and orientation vector of a target relative to a coordinate system attached to a camera in the host platform, in this case the ISS free-flying robot Astrobee. This demonstration consists of five maneuvers involving motion control and data capture for one, two, and three Astrobee robots.
+eXposed Root On-Orbit Test System (XROOTS): The crew prepared a nutrient solution for later use in the ongoing experiment. They also performed manual water recovery to remove excess water from the system, and inspected/cleaned the plant growth areas. Plant growth has been reported in several areas in the XROOTS plant growth system, which contains radish, cabbage, romaine lettuce, tomato, and mizuna seeds. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media. Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions. 
+Human Research Facility-1 (HRF-1): The payload drawer was removed and inspected for the possible source of a noise reported by the crew some time ago. HRF-1 provides an on-orbit laboratory that enables scientists conducting human life science research to evaluate the physiological, behavioral, and chemical changes induced by space flight. Research performed using HRF-1 provides data to help scientists understand how the human body adapts to long-duration spaceflight.
+Mochii: One of the samples from the Touching Surfaces experiment was removed and prepared for imaging by coating it with metal. This is done to improve an electron microscope’s ability to see the details of a sample that is non-metallic. Mochii is a miniature scanning electron microscope (SEM) with spectroscopy to conduct real-time, on-site imaging and compositional measurements of particles on the ISS. Touching Surfaces aims to investigate novel, laser-structured antimicrobial surfaces onboard the ISS. These surfaces were repeatedly touched by the crew to expose them to microbes.
+Systems:
+Bigelow Expandable Activity Module (BEAM) Ingress: Today, the crew ingressed the BEAM module and removed and backfilled items planned for disposal or return. Additionally, the crew replaced the Extended Life Battery Pack (ELBA) for the BEAM sensor system. In order to ingress into BEAM, ARED was folded up, and the BEAM Hatch was uninstalled to allow crew access. After the ingress, restow, and activities inside BEAM were completed, the BEAM Hatch was reinstalled and ARED was unfolded back into its nominal position.
+Advanced Resistive Exercise Device (ARED) Rope Reseat: Yesterday, the crew noticed that the exercise rope on ARED slipped of the pulley system. Today, the crew reseated the loose ARED exercise rope onto the exit pulley. The crew then confirmed that ARED is back in a nominal configuration.
+Intermodule Ventilation (IMV) Flow Measurements: As part of Station’s standard system health monitoring, the crew used a Velocicalc tool to measure the amount of airflow through ventilation inlets and outlets in the Lab, NanoRacks Airlock (NRAL), and Node 2. The IMV system circulates air between modules to air revitalization equipment so that ideal atmospheric condition is maintained throughout ISS.
+Food Consolidate: The crew refilled and consolidated the Node 1XX food pantry to ensure the crew had easy access to food while also helping to reduce the overall stowage footprint in the Permanent Multipurpose Module (PMM). Crew time is often allocated towards stowage management to maintain safety, organization, and habitability.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+User Bus PVA-24-2 Channel A Checkout
+Xoi Service Pack Deploy on SSC22
+Nanoracks Mainframe Commanding
+

@@ -1,0 +1,99 @@
+
+Waste and Hygiene Compartment (WHC) Maintenance:  Ground specialists met to discuss the WHC leak that occurred yesterday.  Based on review of the imagery the crew took during the cleanup, the ground specialists determined the most likely source of the leak to be a hydroconnector on the Urine Valve Block, but determined that since all of the contaminated hardware would need to be replaced there was not a significant benefit to performing troubleshooting to isolate the root cause of the leak.  Today, the crew replaced the Pump Separator, Urine Valve Block, several hoses and a data cable.  The WHC was activated, checked out and is go for nominal operations.
+Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts): Today, a 48S crewmember began the first part of the Flight Day 45 (FD-45) Fluid Shifts data collection.  Upon wakeup he collected baseline saliva, urine, and with another crewmember acting as operator collected blood samples that were inserted into Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) prior to ingesting a Sodium Bromide (NaBr) tracer.  Throughout the day, the crew will perform more urine, blood, and saliva collections, inserting those samples into MELFI as well.  Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Water Monitoring Suite (WMS) and Aquapad Sampling: In coordination with regular Environmental Health System (EHS) water sampling, the crew is scheduled to perform the ESA sponsored Aquapad (Paper Analytical Device) technological demonstration and sampling using the Microbial Monitoring System (MMS) portion of the WMS experiment.  By using the same water collected for the EHS sample, ground teams can evaluate the capabilities of the new hardware.  For the MMS, the crew reviewed an On-Board Training (OBT) video then configured the hardware to sample a low and high DNA concentration sample using the Razor Polymerase Chain Reaction (PCR) Microbial Monitoring System.  The WMS is a set of hardware that monitors microbes, silica and organic material in the water supply on the ISS. The hardware ensures crew members can test and monitor the safety of their water supplies on future space missions, especially on long-duration missions to Mars, asteroids or other destinations where Earth-based testing would be difficult or impossible. Aquapad is a new approach developed by France’s CNES space agency: paper impregnated with powdered growth medium creates a 3D petri dish. When water is added, the microbes form colored spots revealing their locations. Using a tablet computer application the crew will photograph the dots to calculate precisely how many bacteria are present. 
+GeoFlow-2: The crew activated the Multi-purpose Computer and Communications (MPCC) laptop, Fluid Science Laboratory (FSL) rack, installed Anti Vibration Mount (AVM) brackets then released the Facility Core Element in preparation for free-floating microgravity science inside the FSL.  Geoflow-2 studies heat and fluid flow currents within the Earth’s mantle. Geoflow-2 aims to improve computational methods that scientists and engineers use to understand and predict the processes in the Earth’s mantle that lead to volcanic eruptions, plate tectonics and earthquakes.
+Spacecraft Fire Safety (Saffire)-II: Operations started onboard Cygnus about 2325 GMT yesterday and wrapped up about 0230 GMT when the post-test flow visualization completed. Preliminary telemetry indicated that data and images were recorded as expected for all 9 samples and flow visualization. The Saffire-II hardware performed nominally with no apparent issues.  The team is downlinking the sensor and image data and begin analysis of the dataset later today.
+Japanese Experiment Module (JEM) Stowage Wire Kit Installation:  The crew started the activities to install the JEM Stowage Wire Kit.  This Kit will make additional stowage available in the area under the JEM Airlock (JEMAL).  The crew completed the activity to gather the hardware, but the rest of the activity was deferred due to work on the WHC.
+Emergency Role/Responsibility Review:  The crew performed a review of the Emergency General Instructions for response to emergencies and roles of each crew member.  This review included a discussion of roles of Soyuz Commander, ISS Commander and each crewmember and strategies for working through the response to Emergencies. 
+Mobile Servicing System (MSS) Operations:  The Robotics Ground Controllers translated the Mobile Transporter (MT) from Worksite (WS) 6 to WS7.  Controllers will walk-off the Space Station Remote Manipulator System (SSRMS) from Mobile Base System (MBS) 3 to the MBS 1 grapple fixture.  They will then unstow Special Purpose Dexterous Manipulator (SPDM).  These activities are in preparation for Robotic External Leak Locator (RELL) operations planned to start Monday 28-November.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Fluid Shifts Saliva Baseline Collection
+Fluid Shifts Urine Collection
+Fluid Shifts MELFI Insertion Operations
+Fluid Shifts Blood Baseline Collection
+Fluid Shifts Galley Water Collection Tracer Ingestion Operations
+Fluid Shifts Refrigerated Centrifuge Configuration
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+Fluid Shifts USOS Operations Historical Documentation Photography
+Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops
+FSL MPCC Laptop Hardware Relocation and Powering on Laptop
+In Flight Maintenance Waste and Hygiene Compartment Stowage Gather.
+Fluid Shifts MELFI Insertion
+БД-2 R&R Ops.
+Potable Water Dispenser (PWD) Sample Collect
+FSL AVM brackets installation & Facility Core Element release in preparation of scientific operations
+Fluid Shifts Urine Collection – Subject
+WHC Urine Hydraulic Components R&R
+Electrostatic Levitation Furnace(ELF) Argon gas QD connection
+Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Fluid Shifts MELFI Retrieve Insertion Operations
+БМП Ф1 Absorption Cartridge Regeneration (start)
+JEM Common Gas Support Equipment Gas Supply Start
+Handover of Increment 49/50 Crew
+JEM Stowage Wire Kit Installation Preparation
+Fluid Shifts Blood 3-Hour Collection
+Fluid Shifts Refrigerated Centrifuge Configuration
+CEVIS Handover Video Review
+ПТАБ-1М repositioning (from pos.А306 to pos.А308). Photography of de-installed ПТАБ-1М (А308)
+CEVIS Crew Handover
+Fluid Shifts MELFI Retrieve Insertion Operations
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+Fluid Shifts MELFI Retrieve Insertion Operations
+Fluid Shifts Blood Collection Conclude Stow
+WHC Pump Separator Control Unit Cable R&R
+ARED Handover Video Review
+ARED Crew Handover
+WHC Pump Separator R&R
+Deactivation of Soyuz 732 Gas Analyzer
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Environmental Health System (EHS) Coliform Water Processing
+Fluid Shifts Saliva 5-Hour Collection – Subject
+Aquapad Double Water Sampling
+In flight maintenance Waste and Hygiene Compartment closeout
+Fluid Shifts MELFI Insertion Operations
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Fluid Shifts Urine Collection Stow
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+ПТАБ-1М Repositioning (from pos.А306 to pos.А308). Photography of de-installed ПТАБ-1М (А308)
+High Definition Video Camera Assembly 1 Activation in High Definition Mode
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+In flight Maintenance WHC Stow
+Portable Power Supply 1 Configuration for MagVector
+Microbial Monitoring System On-Board Training Review
+Data Transfer from MagVector to USB Jumpdrive
+Environmental Health System (EHS) RAD Detector USB Cable USB Removal
+Microbial Monitoring System Hardware Gather
+VEG-03 Plant Photo
+Microbial Monitoring System MWA Preparation
+Health Maintenance System (HMS) Vision Test
+Microbial Monitoring System Sample Setup
+СОЖ Maintenance
+Health Maintenance System (HMS) Vision Questionnaire
+ESA Weekly crew conference
+Columbus Video Camera Assembly 1 Adjustment
+ISS Crew Adaptation
+Robotic Workstation (RWS) Teardown
+JEM Stowage Wire Kit Installation to JPM1D7 Part 1
+Emergency Ammonia Measurement Kit Chip Measurement System (CMS) Swap
+Microbial Monitoring System Sample
+CONTENT. Experiment Ops
+Emergency Roles and Responsibilities Review
+Marrow Breath And Ambient Air Sample Setup – Subject
+High Definition Video Camera Assembly 1 Switch to SD Mode
+Microbial Monitoring System Data Transfer
+Regeneration of БМП Ф1 Absorption Cartridge (end)
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Lab MCA Zero Calibration
+4B3 Battery reconditioning
+MT Translation, SSRMS Walkoff to MBS1 and Unstow SPDM
+

@@ -1,0 +1,88 @@
+
+Extravehicular Activity (EVA) #34:  Kelly and Kopra performed an EVA to troubleshoot the starboard Crew Equipment Translation Aid (CETA) cart and Mobile Transporter (MT).  The starboard CETA cart is linked to the side of the Mobile Transporter (MT), and its brake was engaged preventing MT movement.  Kelly released the brake and the MT was successfully commanded by Robotic Ground Controllers to translate to Worksite 4 where it was latched and mated.  In addition to the CETA cart task, Kelly and Kopra performed several get ahead activities.  Kelly routed Pressurized Mating Adapter (PMA) 3 power and International Docking Adapter (IDA) ethernet cables along Node 1.  Kopra opened the Secondary Power Distribution Assembly (SPDA) doors for future Robotic operations, routed an ethernet cable for the Multipurpose Laboratory Module (MLM), and retrieved a Scoop/D-Handle tool from a toolbox on the truss.  US Airlock Egress took place at 6:43am CST with ingress occurring at 9:59am CST, for a total EVA time of 3 hours 16 minutes.
+ 
+62 Progress (62P) Launch:  62P successfully launched from the Baikonur, Kazakhstan Cosmodrome today at 2:44am CST.  The vehicle will perform a 34-orbit rendezvous, with docking scheduled for Wednesday December 23 at 4:31am CST.
+ 
+Cognition:  Peake performed his Flight Day 6 session of the Cognition experiment today.  The Individualized Real-Time Neurocognitive Assessment Toolkit for Space Flight Fatigue (Cognition) investigation is a battery of tests that measure how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. Cognition includes ten brief computerized tests that cover a wide range of cognitive functions, and provides immediate feedback on current and past test results. The software used allows for real-time measurement of cognitive performance while in space.
+ 
+Fine Motor Skills:  Kornienko completed a session of the Fine Motor Skills experiment today.  During the experiment he performed a series of interactive tasks on a touchscreen tablet. This investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity.
+ 
+Space Headaches:   Peake completed his final Daily Space Headaches questionnaire today.  The daily questionnaires are scheduled for one week immediately after arrival of a new crewmember to the ISS.  Weekly questionnaires will be completed in subsequent weeks.  Headaches can be a common complaint during spaceflight. The Space Headaches experiment will provide information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space.
+ 
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Reading Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+Morning Inspection. SM ПСС (Caution & Warning Panel) Test
+Inspection of СМ-У, РУ2, РУ4, РУ5 connectors on МНР-НС separator pump in АСУ behind panel 139 and line 5182-03 from Pretreat and Water Dispenser (ДКиВ) towards МНР in its transparent section.
+Fine Motor Skills Test Reminder
+RSS1,2 Reboot
+Reading CARDOX Reminder
+Reading Cognition Reminder
+Powerdown of HAM Radio in SM and Columbus
+CUCU Deactivation for US EVA
+Photo/TV EVA Camera Test and Transfer
+EVA – ISLE Prep
+Check MCC БМП (Micropurification Unit) Ф1 Cartridge Regeneration (initiation)
+Revitalization Subsystem (СОГС),  5.3, step 1, p. 5-3 (64)
+Vacuum cleaning of ПФ1, ПФ2 dust filters and screens of [В1], [В2] fans in DC1
+Cargo Transfer from Soyuz 719 with IMS Update
+IAS EVA Communication Configuration
+EVA – ISLE Prep
+Fine Motor Skills – Subject
+Virus Definition File Update on Auxiliary Computer System Laptops
+PILOT-Т. Preparation for Experiment Session
+EMU Purge
+PILOT-Т. Experiment Session
+ISLE EMU Prebreathe
+Crew time for ISS adaptation and orientation
+Crewlock Depress
+Crewlock Post Depress
+Crewlock Egress
+Station Support Computer (SSC) 22 USB Reseat
+CETA Cart / Mobile Transporter Troubleshooting
+Station Support Computer (SSC) 22 Reboot
+PILOT-Т. Closeout Ops
+SM Fan System Maintenance. Group [В1]
+CALCIUM. Photo and Placement of Bioecologia Cases. Photo Downlink
+СОЖ Maintenance
+Crewlock Ingress
+EVA Glove Photo Setup
+Crewlock Pre Repress
+Internal Audio Subsystem (IAS) Extravehicular Activity (EVA) Communication Deconfiguration
+Crewlock Repress
+Exercise data D/L via OCA
+Post-EVA Activities
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+EVA Glove Photo Downlink
+COGN – Experiment Ops and Questionnaire Completion
+SHD – Daily Questionnaire
+Relocate PBAs for upcoming EVA
+check MCC БМП (Micropurification Unit) Ф1 Cartridge Regeneration (termination)
+Reading Reminder
+Preparation for Virus Scan on Auxiliary Computer System Laptops
+Reading HABIT Reminder
+Reading Reminder
+Reading Habitability Reminder
+Reading CARDOX Reminder
+Installation of inserts to ease opening of SM interior panel locks (Unstow Элементы конструкции (Structural Elements) kit (004890R), ФГБ1ПГО_4_427_1, СТВ No.1112 (004106J)
+Preparation of Reports for Roscosmos Web Site and Social Media
+ECON-M. Observation and Photography
+URAGAN. Observation and Photography
+Video Recording for All-Russia State Television and Radio Broadcasting Company (ВГТРК)
+IMS Delta File Prep
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+EVA Support
+MT Translation
+
+ 

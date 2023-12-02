@@ -1,0 +1,135 @@
+
+Fluid Shifts: The crew performed eye examinations using the Fundoscope in support of the Fluid Shifts study. Fluid Shifts is a NASA investigation, divided into Dilution Measurements, Baseline Imaging, and Imaging with Chibis. The Chibis hardware is used to perform the Lower Body Negative Pressure (LBNP) part of the experiment. The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronaut’s eyes.  Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a LBNP device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and prevention of eye damage. 
+Furphy (Residual Momentum and Tank Dynamics in Microgravity Environment): The crew completed Furphy spin tests with the Rigid and Flex tanks. Furphy tests the feasibility of transferring fluids in microgravity from a rigid tank to a flexible tank that launches collapsed and deploys as it is filled. By making it possible to fuel small satellites in orbit instead of prior to launch, potentially saving launch mass and volume, this capability supports future space exploration. This first microgravity test is performed aboard the space station to verify tank dynamics including slosh and retention of angular momentum. 
+Life Sciences Glovebox (LSG): The crew performed the final cleanup of the LSG and installed the filter adapter and filters. The LSG is a sealed work area that accommodates life science and technology investigations in a “workbench” type environment. Due to its larger size design, two crewmembers can work in the LSG simultaneously
+CIR (Combustion Integrated Rack): The crew replaced the CIR ACME (Advanced Combustion via Microgravity Experiments) controller and replaced the manifold-2 O2 and N2 bottles. The CIR includes an optics bench, combustion chamber, fuel and oxidizer control, and five different cameras for performing combustion experiments in microgravity. 
+Space Technology and Advanced Research Systems (STaARS-1): The crew removed all eight Experiment controllers for return on SpX-17. The return of the Controllers will allow ground teams to make Facility configuration file modifications and perform necessary testing before return manifest. The objective of the STaARS-1 experiment facility is to support biotechnology and life science investigations to characterize the effects of microgravity on living systems. The facility aims to facilitate advanced studies targeting the molecular responses to microgravity that alter cell physiology and lead to unique cellular processes and the production of novel compounds that can impact pharmaceutical, tissue engineering, regenerative medicine, biofuel, and discovery sciences.
+Exposed Experiment Handrail Attachment Mechanism (ExHAM) #2: Robotic specialists in Tsukuba used the Japanese Experiment Module Remote Manipulator System (JEMRMS) with the Small Fine Arm (SFA) to transfer the Handhold Experiment Platform (HXP) from the JEM Airlock Slide Table to the JEM Exposed Facility handrail. Taking advantage of Kibo’s unique function of having both an airlock and a robotic arm among modules on the ISS, the ExHAM facility enables space experiments to be performed in the exposed space environment, by attachment to the Japanese Experiment Module Kibo’s Exposed Facility (EF).
+Commercial Orbital Transport Services (COTS) UHF Communication Unit (CUCU) Checkout:  In preparation for the upcoming departure of SpaceX-17 planned on 3 June, the crew coordinated with ground teams to activate the CUCU system and perform a Crew Command Panel (CCP) checkout. CUCU provides a command and telemetry communications link between ISS and Dragon during free flight operations near ISS.     
+Russian ExtraVehicular Activity (EVA) 46 US Tool Stow: After Wednesday’s successful EVA, the US crew stowed various EVA hardware borrowed by Russia. In addition to conducting an audit of the returned hardware, the crew inspected each piece of equipment and verified they remain in a good configuration for use in future US EVAs.  
+Public Affairs Office (PAO) Live Event: David Saint-Jacques participated in a live PAO event with 140 students and 60 community residents in Umiujaq, Northern Quebec where he practiced medicine before becoming an Astronaut.  During today’s event, students asked questions about how to live in space and the current mission of the ISS and its role in advancing science.  
+SpaceX-17 Cargo Operations: Today the crew completed approximately 4 hours of SpaceX cargo loading in support of unberth on 3 June. The approximately 8 hours of remaining operations will be completed on Sunday in conjunction with loading of the Center Stack, and transfer of late-load items, into Dragon. In total, the crew will have spent 64 hours loading Dragon with the cargo and hardware needed for return. 
+Completed Task List Activities:
+
+Completed Thursday (GMT 150)
+
+Adlink SD card move
+Fundoscope troubleshooting
+ISS Experience message review
+ISS Photo Inspections from Cupola, JEM
+Rodent Research 12 Lab audit
+
+
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+LSG filter inspect
+CUCU checkout
+Furphy spin ops
+
+Look Ahead:
+Saturday, 06/01 (GMT 152)
+Payloads:
+
+
+Food Acceptability (NASA)
+MicroAlgae removal from VEGGIE and MELFI insert (NASA)
+Nanoparticle Formulation Imagery (NASA)
+Mouse Mission Transfers Procedure review (JAXA)
+
+Systems:
+
+Crew off duty; housekeeping
+
+Sunday, 06/02 (GMT 153)
+Payloads:
+
+
+Mouse Mission Transfers (JAXA)
+POLAR-Dragon Transfer review (NASA)
+
+Systems:
+
+Cargo transfer ops for Dragon departure
+Dragon egress 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Conclude
+JEM FROST Photo Taking
+Polar Sample Transfer From Cold Stowage
+AQM Sieve Cartridge Remove and Replace
+FROST Ethernet Cable Connection
+Drying Orlan-MKS Water Feed Line
+JAXA Mouse Mission Post-mission Transfer Familiarization 2
+Multi-use Variable-g Platform Module Removal
+Rodent Research Life Science Glovebox Cleanup
+Orlan-MKS Drying, start
+Space Pup Item Gather
+Space Pup MELFI Retrieval
+Space Pup Sample Stowage
+RFID Ember 1 Demate
+Photography of Plume Impingement and Deposit Monitoring Unit [БКДО] position on MRM2 through SM window No.13 – setup
+Dragon Vestibule Outfitting Kit (VOK) Gather
+Furphy Spin Ops
+Photography of Plume Impingement and Deposit Monitoring Unit [БКДО] position on MRM2 through SM window No.13
+Photography of Plume Impingement and Deposit Monitoring Unit [БКДО] position on MRM2 through SM window No.13 – Closeout Ops
+Post-EVA Orlan-MKS debrief with specialists
+Glisser-M equipment ops after EVA (copying video recordings to hard drive and battery installation for recharging).  Downlink via OCA
+Functional Check of SM Onboard Memory Storage (БЗУ)
+Drying Orlan-MKS (switchover to a backup fan)
+On-board Training (OBT) Dragon Departure Review
+On Board Training (OBT) Dragon Ground Control Release Self Study
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Kit Consolidate
+Nanoparticle Formulation Camera Activities
+Glovebox Freezer – Life Science Glovebox – Teardown
+Extravehicular Mobility Unit (EMU) Helmet Light Inspection
+Orlan-MKS Drying – terminate
+Orlan Feedwater Bladder Refill
+ПФ1-ПФ4 cartridge replacement
+UPA Brine Filter Gather
+Micro Algae Maintenance Work Area Preparation
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Environmental Health System (EHS) Grab Sample Container (GSC) Sampling Operations
+PAO Preparation
+Inventory Management System (IMS) Conference
+Micro Algae Culture Bag Photography
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+US Extravehicular Activity (EVA) Tools Stow
+Life Science Glovebox (LSG) Filter Inspection
+Orlan No.4 Liquid Cooling Garment [КВО] Closeout
+EVA Support Panel (ПОВ-2) Powerdown in DC1
+Combustion Integrated Rack Rack Doors Open
+Combustion Integrated Rack Front End Cap Open
+ACME Controller Replace 1
+Setting up Orlan and БСС for storage mode
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Countermeasures System (CMS) Treadmill 2 (T2) Exercise Session
+Combustion Integrated Rack Front End Cap Close
+Life Science Glovebox (LSG) Life Science Ancillary Hardware (LSAH) Adapter Install
+Post-EVA Orlan-MKS Spacesuit Equipment Stowage
+Combustion Integrated Rack Manifold #2 Bottle Replacement
+Fluid Shifts Fundoscope Baseline Imaging Setup
+Combustion Integrated Rack Rack Doors Close
+Space Technology and Advanced Research Systems BioScience-3 Experiment Container Removal
+Fluid Shifts Fundoscope Baseline Imaging Preparation
+Photo/TV CUCU HD Video Setup
+CUCU Crew Command Panel (CCP) Checkout
+Glacier Desiccant Swap
+Evening Preparation Work
+Dragon Lithium Hydroxide (LiOH) Filter Bag Installation
+Photo/TV CUCU HD Video Deactivation
+LSG Work Volume Stow
+Fluid Shifts Fundoscope Baseline Imaging Exam Operator
+Fluid Shifts Fundoscope Baseline Imaging Exam Subject
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Metal Oxide (METOX) Regeneration Initiation
+Fluid Shifts Fundoscope Baseline Imaging Stow
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Glisser-M equipment ops after EVA (Closeout Ops and Stowage)
+
+ 

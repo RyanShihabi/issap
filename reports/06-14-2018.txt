@@ -1,0 +1,87 @@
+
+USOS Extravehicular Activity (EVA) #51: Today Ricky Arnold (EV-1) and Drew Feustel (EV-2) completed US EVA #51 Node 2 (N2) Forward External Wireless Communications (EWC) with a Phased Elapsed Time (PET) of 6h 49m. Today’s EVA tasks included:
+
+Routing EWC power and Ethernet cables between the US Lab and N2.
+Installing Worksite Interface (WIF) #16 and WIF #17 Booms and mating associated HD Camera and EWC connections.
+R&R Camera Port (CP)3 External High Definition Camera (EHDC) and Luminaire.
+Closing the Cloud Aerosol Transport System (CATS) Aperture Door.
+
+The crew was also able to complete the Articulating Portable Foot Restraint (APFR) Relocate, Solar Array Blanket Boxes (SABB) Base Joint Tie Back, and Adjustable Grapple Bar (AGB) Relocate from External Stowage Platform (ESP)2 to Express Logistics Carrier (ELC)4 Get-Ahead tasks. Ground Controllers performed a Power Data Grapple Fixture (PDGF) Local Bus (LB) channel swap during the EVA to ensure that the data cables were install properly. They also completed functional checkouts of the new EWC HD Cameras and the CP3 EHDC and Luminaire.
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+ISS HAM Radio Power Down in Service Module
+ISS HAM Radio and Video Power Down in Columbus
+External Wireless Instrumentation System Network Control Unit EVA Inhibit
+Internal Audio Subsystem (IAS) Extravehicular Activity (EVA) Communication Configuration
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Setup
+USOS Window Shutter Close
+EVA COTS UHF Communication Unit (CUCU)  Verify off
+Extravehicular Activity (EVA) In-Suit Light Exercise (ISLE) Preparation
+PHASE TRANSITION. Upgrading БЭНА Electronics Payload Unit Software (start)
+Check that SM Window Shutters #6,8,9,12,13,14 are Closed
+Cargo Transfer from 55S (Soyuz #739). IMS Update
+OTKLIK. Equipment load
+PHASE TRANSITION. End of Software Upgrade and Experiment Performance
+Extravehicular Mobility Unit (EMU) Purge
+СОЖ maintenance
+MOTOCARD. Perform the Experiment instead of BD-2 Exercise
+MOTOCARD. Assistance during the Experiment
+Extra-Vehicular Mobility Unit (EMU) In-Suit Light Exercise Prebreathe
+Cargo Transfer from 55S (Soyuz #739). IMS Update
+Crewlock Depress
+MOTOCARD. Experiment Ops
+Crewlock Post Depress
+Crewlock Egress
+Familiarization with Auxiliary Computer System [ВКС]
+PHASE TRANSITION. Closeout Ops
+MATRESHKA-R. Check Tritel Hardware
+Lab Worksite Setup
+Power Cable Mate
+Ethernet Cable Mate
+Lab External Wireless Controller (EWC) Connector Safing
+Power Cable Route
+Ethernet Cable Route
+FS1 Maintenance
+Monthly BRI Maintenance. Filter R&R
+Ethernet Cable Route
+Worksite Interface (WIF) 16 Boom and External High Definition Camera (EHDC) Install
+Worksite Interface (WIF) 17 Boom and External High Definition Camera (EHDC) Install
+Photo/TV Cupola Camcorder Setup
+SM Atmosphere Inspection for Freon (Taking Background Readings) with FIT Analyzer
+SSRMS EVA Support
+ISS Crew Orientation
+CALCIUM. Session 9 of the Experiment
+Node 2 External Wireless Communications (EWC) Cleanup
+SSRMS Setup for C9 Ops
+CATS Door Closure
+CP3 Light R&R
+VZAIMODEYSTVIYE-2. Experiment Ops
+CP3 External High Definition Camera (EHDC) Install
+SSRMS Cleanup
+EVA Crew Lock Ingress
+Photo/TV Cupola Camcorder Deactivation
+CONTENT. Experiment Ops
+Photo/TV Extravehicular Activity (EVA) Glove Photo Setup [Deferred]
+Crewlock Repress
+Extravehicular Activity (EVA) Crewlock Repress EVA PET end
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Photo/TV Extravehicular Activity (EVA) Glove Photo Downlink [Deferred]
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+Internal Audio Subsystem (IAS) Extravehicular Activity (EVA) Communication Deconfiguration
+Photo/TV Extravehicular Activity (EVA) GoPro Downlink
+External Wireless Instrumentation System (EWIS) Network Control Unit (NCU) Enable
+
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+EVA Support
+N2 EHDC C/O
+CP3 EHDC Activation
+

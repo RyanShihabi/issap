@@ -1,0 +1,27 @@
+
+Payloads:
+Analyzing Interferometer for Ambient Air-2 (ANITA-2): ANITA-2 hardware was installed into an EXPRESS Rack. Power cables were mated, and the facility was powered up followed by photo documentation.  The ANITA-2 is a compact gas analyzer which can analyze and quantify 33 trace contaminants in the atmosphere aboard the ISS automatically. ANITA-2 can also detect the presence of unknown substances which can be evaluated later on the ground.
+BioMole: BioMole Amplified DNA was prepared for sequencing using the MinION unit. The Environmental Health System (EHS) BioMole Facility non-culture based samples are capable of providing microbial identification on-orbit within days of sampling. The goal of this Tech Demo is to conduct comparative analysis for possible replacement of current microbial monitoring systems.
+Combustion Integrated Rack (CIR): CIR Manifold #4 bottle was replaced with a new Bottle containing 100% Ethane (C2H4). The CIR includes an optics bench, combustion chamber, fuel, and oxidizer control, and five different cameras for performing combustion investigations in microgravity.
+Flow Boiling Condensation Experiment (FBCE): A crewmember performed a checkout of the FBCE hardware. FBCE seeks to validate a model for flow boiling Critical Heat Flux (CHF) and develop an integrated two-phase flow boiling and condensation facility for the ISS. Data from microgravity and the ground are compared to determine the influence of various forces and processes needed for gravity-independent flow boiling and condensation. Results could support development of boilers and heat exchangers that work in both microgravity and partial gravity.
+Multi-Purpose Experiment Platform (MPEP): The JAXA Experiment Module Airlock (JEMAL) Slide Table Passive Capture Mechanism and MPEP was installed on to the JEM AL Slide Table. Multi-Purpose Experiment Platform provides the structural backbone for deployers when being transferred to the outside of the ISS via the Kibo airlock and grasped by the Japanese Experiment Module Remote Manipulator System (JEMRMS).
+Plant Habitat-05:  A crewmember performed the hardware gather and procedure review in preparation for Plant Habitat-05 harvesting. Unlocking the Cotton Genome to Precision Genetics (Plant Habitat-05) cultivates several cotton genotypes that differ in their ability to regenerate into whole plants from undifferentiated masses of cells known as a calli. Cotton is highly resistant to the process of plant regeneration, which makes it difficult to create reproductive and stable plants that have specific or enhanced traits such as drought resistance. The investigation could provide a better understanding of this behavior and a pathway to avert this problem.
+Systems: 
+Mobile Servicing System (MSS) Robotics Operations: Yesterday, a Dragon trunk survey was performed to checkout trunk camera and light operation during day and night passes as well as provide a comparison to prelaunch cargo configuration images. Today, a Mobile Transporter (MT) translation was performed from worksite 7 to worksite 5.  Continuing today will be a Special Purpose Dexterous Manipulator (SPDM) Arm1 stow of Robot Micro Conical Tool (RMCT)1 to Tool Holder Assembly (THA)1 and rotate the Enhanced Orbital Replacement Unit (ORU) Temporary Platform (EOTP) in preparation for the Space Test Program (STP)-H8 extraction which will be Friday, January 7. 
+In Flight Maintenance (IFM) Node 2 Common Cabin Air Assembly (CCAA) Water Separator Bracket Troubleshooting: During previous maintenance on the CCAA Water Separator the crew reported the Hinge Bracket Fastener was stuck in a partially engaged position. Today, the crew removed the CCAA closeout panel and attempted to fully engage the Fastener but were unsuccessful. Ground teams then asked the crew to stand down and leave the fastener as is. There is no operational impact to the CCAA and it is GO for use. The CCAA is the primary component responsible for the control of temperature and humidity in the USOS segment and consists of a fan, a condensing heat exchanger, an air/water separator, temperature and liquid sensors, and electrical controlling hardware.
+IFM Brine Processor Assembly (BPA) Bladder Changeout: As part of regular maintenance, the crew completed a BPA bladder changeout. The BPA utilizes the forced convection of dry spacecraft cabin air coupled with a robust membrane distillation process to recover water from brine. The added water recovery from brine contributes directly to NASA’s goal to achieve an overall water recovery rate of 98% for future water recovery systems.
+MARES Rack Checkout: The crew took photographs and measurements of the empty MARES rack in Columbus to provide data to ground teams. This information will aid in development of the upcoming European Enhanced Exploration Exercise Device (E4D) Vibration Isolation System (VIS), which will be installed in the MARES rack.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Crew Dragon power up and checkout
+Mobile Transporter (MT) Translation
+Special Purpose Dexterous Manipulator (SPDM) Robotics Micro Conical Tool (RMCT) stow
+SPDM Enhanced ORU Temporary Platform (EOTP) rotation
+MSS maneuver to setup for STP-H8 operations
+JEMRMS maneuver to setup for STP-H8 handoff
+

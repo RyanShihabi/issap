@@ -1,0 +1,130 @@
+
+ISS HAM pass: The crew completed a HAM pass with Peninsula Grammar, Melbourne, Australia, which is a boarding school for approximately 1400 students from three-year old kindergarten to Year 12.  The participants had questions for the crew about first aid in space, how the crew’s understanding of the universe has been changed by their time in space, the use of the internet on the ISS.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+Japanese Experiment Module Airlock (JEMAL) Small Satellite Orbital Deployer (JSSOD)11 install:  The crew installed the JSSOD and supporting hardware onto the JEMAL slide table.  Satellite deployments are currently planned for next Monday.  Launcher 1 will deploy the Uguisu, Raavana-1, and Nepali sat-1 satellites and Launcher 2 will deploy the SpooQy-1 satellite.  The JSSOD is a unique satellite launcher which provides containment and deployment mechanisms for several individual small satellites. Once the JSSOD is installed on the Multi Purpose Experiment Platform (MPEP) by crewmembers, it is passed through the JEM airlock for retrieval, positioning and deployment by the JEMRMS.
+Standard Measures: The crew set up the hardware and performed Standard Measures sample collections, then stowed the samples in MELFI.  Following the sampling, they also answered a body sampling survey.  The aim of the investigation is to ensure consistent capture of an optimized, minimal set of measures from crewmembers until the end of the ISS Program to characterize the adaptive responses to and risks of living in space.  Among other things, the ground teams perform analyses for metabolic and chemistry panels, immune function, and microbiome.  These measures populate a data repository to enable high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes, and support future research on planetary missions.
+Vascular Echo: The crew set up electrodes, leg cuffs and supporting hardware, and performed 2 sets of Vascular Echo ultrasound scans with remote guidance from the ground team.  Areas scanned via ultrasound included the neck, gut, heart, and back of the knee. The first set of scans occurred in the crew’s morning, and the second set occurred in their afternoon, after the leg cuffs have been worn for several hours.  Vessel Structure and Function with Long-Duration Space Flight and Recovery (Vascular Echo) examines changes in blood vessels (including stiffening of the arteries), and the heart, while crew members are in space, and then follows their recovery on return to Earth. The results could provide insight into potential countermeasures to help maintain crewmember health, and quality of life for everyone.
+58 Soyuz Emergency Descent On-Board Training (OBT): The 58S crew performed this OBT which is scheduled once every 2.5 months. Topics covered include emergency egress wearing gas masks, emergency undocking and preparations for an emergency descent.
+Mobile Servicing System Operations: Yesterday Robotics Ground Controllers powered MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) to unstow the Special Purpose Dexterous Manipulator (SPDM) from Mobile Base System (MBS) Power Data Grapple Fixture (PDGF) MBS PDGF 4. Next, they maneuvered SSRMS and SPDM and position the SPDM Latching End Effector (LEE) to performed snare cable survey. Once the survey was completed, SSRMS and SPDM were maneuvered for translate and finally the Mobile Transporter (MT) was translated to Worksite (WS) #2.
+MSS is now configured to start several Flight Releasable Active Mechanism (FRAM) relocations later today.
+Completed Task List Activities:
+
+Wednesday
+
+Airway monitoring low NO measurement
+P/TV consumables audit
+SSC25 troubleshooting
+Locate spare medium HUT
+
+
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+MSS FRAM swap
+JSSOD 11 install
+
+Look Ahead:
+Friday, 6/14 (GMT 165)
+Payloads:
+
+
+Astrobee
+Actiwatch spectrum
+CIR/ACME hardware replacement
+FOP camera setup
+JEMAL depress
+JAXA Mouse Mission cleanup
+Neuromapping
+RR audit
+Standard Measures
+STFS
+Vascular Echo
+Veg-04A
+
+Systems:
+
+EMU Loop Scrub and UIA O2 Hose Inspection
+Flight Director Conference
+
+Saturday, 6/15 (GMT 166)
+Payloads:
+
+
+ISS HAM pass
+Standard Measures
+
+Systems:
+
+Crew off duty, housekeeping
+
+Sunday, 6/16 (GMT 167)
+Payloads:
+
+
+Lighting Effects
+Standard Measures
+Veg-04A
+
+Systems:
+
+Crew off duty
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Standard Measures Body Sampling Survey
+Standard Measures Body Sampling Collection
+HRF Generic Sample MELFI Insertion Operations
+Standard Measures Body Sampling Stow
+AIRMON Low NO measurement
+Conference between Search and Rescue (ГПСК) specialists and the returning crew
+Adlink Mini PC Swap
+Standard Measures Fecal Collection
+HRF Generic Sample MELFI Insertion Operations
+Standard Measures Fecal Collection Stow
+DAN. Experiment Session
+DAN. Experiment Operator Assistance
+Photo TV Node 1 High Definition (HD) Video Setup
+Galley Rack Equipment Powerdown
+In-Flight Maintenance (IFM) Deck SSRMS Jumper
+ISS EXP ZCAM Setup
+AIRMON Power off and Stow
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Vascular Echo Echo Ultrasound Setup
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+XF305 Camcorder Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Airway Monitoring Video Stow
+ISS HAM Service Module Pass
+Vascular Echo Leg Cuffs Ultrasound Using Echo Scan 1
+JEM SSOD onto Multi-Purpose Experiment Platform Installation Part 1
+Preventive Maintenance of FS1 Laptop
+Cargo items prepack for return and disposal on Soyuz 741
+Galley Equipment Power Up
+Routine Monthly Maintenance of BRI
+JEM Small Satellite Orbital Deployer Checkout Prep
+Update BRI Configuration File to Version 8.1
+Atmosphere Revitalization System Thermal Amine Scrubber Heater Unpower
+Airlock Utility Outlet Panel Power Up
+Crew Departure Preparations for Return to Earth
+Health Maintenance System (HMS) Personal Medication Stow
+Private Psychological Conference (PPC)
+ISS emergency descent drill (Soyuz 742 crew)
+Hardware prepack for return and disposal via Soyuz 741
+Small Satellite Orbital Deployer Checkout Cleanup
+Health Maintenance System (HMS) Personal Medication Stow
+JEM SSOD onto Multi-Purpose Experiment Platform Installation Part 2
+Vascular Echo Leg Cuffs Ultrasound Using Echo Scan 2
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Electrostatic Levitation Furnace (ELF) Gas Bottle Unit (GBU) valve opening
+ISS Crew departure preparation
+Combustion Integrated Rack Rack Doors Open
+Combustion Integrated Rack Manifold #2 Bottle Replacement
+Combustion Integrated Rack GC Check Gas Bottle Replacement
+Vascular Echo Ultrasound Stow Partial
+Combustion Integrated Rack Doors Close
+ISS Experience Hardware Stow
+
+ 

@@ -1,0 +1,15 @@
+
+Payloads
+Drop Vibration Setup: The crew performed the necessary steps to install the Drop Vibration hardware in the Microgravity Sciences Glovebox (MSG). Although we were able to get the hardware installed successfully, the team is discussing some video issues which were encountered at the end of the activity.  Inertial Spreading with Vibration and Water Coalescence (Drop Vibration) examines the behavior of big liquid drops whose perimeter of contact, called the contact line, moves rapidly as the drops change shape either forced by vibration or freely by merger. These motions, fast and small on Earth, become slower and larger in microgravity and so can be more closely observed. Such observations improve the currently limited understanding of contact lines, important in applications such as self-cleaning surfaces, water harvesting devices, anti-frost coatings and the fabrication of semiconductors.
+EPM (European Physiology Module) Board Removal: In a continuation of the troubleshooting for the EPM Rack, the crew removed Science Module Support Computer (SMSC) Extension Board 3.  Recovery of the EPM rack will simplify GRIP science operations in the next few weeks, but a work-around is in place if the troubleshooting is not successful.  This EPM SMSC issue first occurred on 01 September of this year.  EPM is designed to investigate the effects of short- and long-duration space flight on the human body. It includes equipment for neuroscientific, cardiovascular, and physiological studies.
+Completed Task List Activities:
+
+AC Inverter Secure
+Spotlight Battery and Bulb R&R
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Stow SPDM on MBS 2
+SSRMS Direct Drive Test [Currently In Progress]
+

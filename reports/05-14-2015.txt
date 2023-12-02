@@ -1,0 +1,62 @@
+
+ExHAM Installation: Kelly installed the Handhold Experiment Platform on the JEM Airlock (JEMAL) Slide Table and the Platform Adapter and Exposed Area Dosimeter and covered them with Multi-Layered Insulation (MLI).  He then installed the Handhold Experiment Platform and attached the samples for the various external experiments including the Free Space Dosimeter and ExHAM.  The JEMAL ST was then retracted and JEMAL was depressed, the experiments will off-gas in the JEMAL prior to being installed on the JEM Exposed Facility.  Free Space Dosimeter will be exposed for approximately 2 weeks and ExHAM will be exposed for one year.
+Binary Colloidal Alloy Test-Low Gravity Phase Kinetics Platform (BCAT-KP) Sample Initiation: Cristoforetti transferred images and reset the intervelometer on Sample #3 which is expected to run for two more weeks.  Following this sample, two more samples are planned before all the BCAT-KP samples are initialized and stowed for approximately 6 months while the colloids are left undisturbed to allow for continued growth. The BCAT-KP experiment aims to help materials scientists develop new consumer products with unique properties and longer shelf lives. Colloids are mixtures of small particles distributed throughout a liquid, which include milk, detergents and liquid crystals. Gravity affects how the particles clump together and sink, making the International Space Station an ideal platform to study their fundamental behaviors.
+Node 3 (N3) Carbon Dioxide Removal Assembly (CDRA): Last week the crew completed N3 CDRA bed and Air Selector Valve (ASV) Remove & Replace (R&R). When the ground attempted to activate CDRA, error messages were received during an Active Built-in-Test (ABIT). Engineering teams met, concluded that the issue was with the fan and recommended the fan be replaced. Today, Virts successfully replaced the Blower fan and ground commanding confirmed the operation of the newly installed fan.  The N3 CDRA has been activated and fine leak checks will be performed overnight.  Lab CDRA continues to operate, CO2 levels remain low. 
+Node 1 (N1) Sample Delivery System (SDS) Reconfiguration/Power Cable Routing: In preparation for utilizing the N1 nadir port for visiting vehicles, Cristoforetti installed a Sample Delivery System (SDS) 3-Way Valve, a union to bypass the installed Manual Valve, and a SDS Hose that connects the new SDS 3-Way Valve to the Manual Valve and to the Node 1 Nadir vestibule.  The crew also routed the SDS Power Cable from the Node 3 UOP-4 to the Node 3 Starboard Forward bulkhead however, the cable routing will need to be readdressed to provide required slack for future connections. Future activities will complete the air hose, power, and data connections for the installed hardware.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Preparing for Photography of RS Windows  r/g 8817
+XF305 Camcorder Settings Adjustment
+JEM Airlock ST Extension to JPM Side
+Photography of SM windows 03, 05, 06, 07, 08, 09, 26 / r/g 8817
+CDRA Component Replacement
+CARDIOVECTOR. PL Health Check. / r/g 8818
+Platform Adapter Installation
+Monthly Inspection of T2 Treadmill System
+MPEP – Dosimeter Installation
+DAN. Experiment Execution Support / r/g 8811
+DAN. Experiment Ops. / r/g 8811
+DAN. Photography of the Experiment Ops / r/g 8810
+HXP – Handhold Exp Platform Installation
+Photography of SM windows 03, 05, 06, 07, 08, 09, 26 / r/g 8817
+PROBOY. Cable Installation and Connection. / r/g 8800
+HXP – Sample Insertion
+Installation of Valves in Node1
+ISS RS Window Inspection Photo Downlink r/g 8817
+Force Loader Test (HC-1M). / r/g 8815
+JEM Airlock Slide Table Retraction
+CIR – Post-Experiment Hardware Stowage
+Audit of Kits for Experiments / r/g 8816
+PROBOY. Cable Installation and Connection r/g 8800
+JEMAL – Depressurization
+ESA Weekly Crew Conference
+WRS – Recycle Tank Fill from EDV
+VIZIR. Experiment Ops / r/g 8812
+DRAGON. Transfers Ops
+High Definition Video Camera Assembly 1 Activation in High Definition Mode
+BCAT – Battery Replacement and Photo Downlink
+Desiccant Replacement in Glacier-1 and Glacier-2. Glacier-1 Deactivation
+Installation of Valves in Node3
+Dragon Cargo Operations Conference
+MICROBS1. Procedure review
+IMS Delta File Prep
+Verification of Airlock Depressurization Completion in JEM
+WRS – Recycle Tank Fill from EDV
+Verification of JEM Airlock Venting Completion.
+High Definition Video Camera Assembly 1 Switch to SD Mode
+RELAKSATSIYA. Initiate v/camera battery charge / r/g 6827 
+
+Completed Task List Items
+
+NOD3FO2 Stbd LHA R&R 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+JEMAL Depress
+N3 CDRA Activation
+N3 CDRA Extended Checkout [On Schedule]
+

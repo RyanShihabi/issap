@@ -1,0 +1,78 @@
+
+Fluidics:  Today the crew set up the Fluidics experiment hardware and executed Runs 2 and 3. Fluidics is a fluid mechanics experiment with two main objectives: perform a Slosh study to investigate fluid behavior under microgravity during satellite maneuvers, and a Wave Turbulence study to investigate the impact of capillary effect on wave turbulence without being masked by the effect of gravity. Two tanks with different filling rations (50% and 75%) for Slosh and one tank with water for Wave Turbulence will be used. 
+ICE Cubes Facility (ICF):  The crew reconfigured the European Physiology Module (EPM) rack today in preparation for the installation of ESA’s ICF after it arrives on OA-9.  The ICF provides a simplified, low-cost access service to the ISS for commercial entities.  The ICF supports investigations contained in individual Experiment Cubes. 
+Electro-static Levitation Furnace (ELF):  On March 9th the crew was unable to complete installation of an ELF Sample Holder in a new Sample Cartridge due to a misalignment of the Cartridge Holder Rod.  Today the ground reconfigured the Cartridge and the crew was able to install the Sample Holder inside it.  ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the electrostatic levitation method.  With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved. 
+Veg-03:  Today the crew watered the Veg-03 plants. Veg-03 supports the proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long duration space missions will require a fresh food supply grown in space to supplement crew diets. 
+Extravehicular Activity (EVA) Extravehicular Mobility Unit (EMU) Swap: In preparation for this month’s upcoming US EVA and the loop scrubs planned later this week, the crew swapped EMUs and begin resizing the suits. During this activity the crew also started packing parts of the EMU scheduled to be returned to the ground on SpX-14.  
+Node 3 Bacteria Filter Remove and Replace (R&R):  Based on the photos Tingle took over the weekend, an activity was added to today’s timeline to have the crew R&R all four Bacteria Filters in Node 3.  
+Public Affairs Office (PAO) Events:  Tingle and Kanai participated in two live-to-air PAO events today. The first event was with KYW-TV in Philadelphia, Pennsylvania and the second event was with NPR’s 1A Broadcast on WAMU Radio, Washington, D.C.  
+Progress 69P ISS Reboost: Today, an ISS reboost is planned using the Progress 69P thrusters to begin phasing for Soyuz 53S undock and landing in June.  Time of Ignition (TIG) is 21:25 GMT with a planned delta-V of 0.22 m/s and a duration of 108.2 seconds.  
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+МО-8. Setup
+Body Mass Measurement – BMMD
+МО-8. Closeout Ops
+Acoustic Monitor Setup for Static Measurements
+EPM Rack Reconfiguration
+Regeneration of БМП Ф2 Micropurification Cartridge (start)
+EML High Speed Camera Lens Switch
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Soyuz 737 Samsung PC recharge before OBT, – start charge
+Fluidics Run 2 execution
+НС-1М Control Panel SW Update.
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Audit of Penguin-3 and Penguin-3 with Load Measuring System [СИН].
+Fluidics Run 3 execution
+Treadmill 2 (T2) Exercise Video Equipment Setup
+Download Pille Dosimeter Readings
+Fluidics Closeout Activities
+Fluidics Ending of data copy and T61p Laptop stowage
+Dust collectors ПC1, ПС1 filter cleaning by vacuum cleaner in FGB
+COLUMBUS Deck 1 and 2 restow
+Node 3 Bacterial Filter Remove & Replace
+Automated External Defibrillator (AED) Inspection
+MELFI 3 Ice Brick Insert 8
+Robotic Workstation (RWS) Setup
+СОЖ maintenance
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+VEG-03 Dual Facility Watering for each Plant Pillow
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Soyuz 737 Samsung PC recharge before OBT, End
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Search and gathering of ЗУ-С No.53001022 (00047873R, ФГБ1ПГО_2_221_1) for Orlan battery (Unit 825М3 No.1266132133 (00072380R, ФГБ1ПГО_2_221_1 )
+XF305 Camcorder Setup
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop
+Electrostatic Levitation Furnace(ELF) sample Cartridge Retrieval
+Electrostatic Levitation Furnace(ELF) Sample Holder installation
+Electrostatic Levitation Furnace(ELF) sample Cartridge Installation
+Monitoring shutter closure on SM windows 6, 8, 9, 12, 13, 14
+Verification of ИП-1 Flow Sensor Position
+Photo/TV Camcorder Setup Verification
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Wastewater Storage Tank Assembly (WSTA) Fill
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Extravehicular Mobility Unit (EMU) Swap
+Hematocrit Test Hardware Setup
+Wastewater Storage Tank Assembly (WSTA) Fill
+USOS Window Shutter Close
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+Robotic Workstation (RWS) Teardown
+Regeneration Micropurification Unit (БМП) Ф2 Absorption Cartridge (end) 
+
+Completed Task List Activities
+
+None 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Reboost
+N3 MCA Zero Calibration [Aborted]
+Robotic Workstation (RWS) Camera Configuration Test
+Standard Commanding 
+

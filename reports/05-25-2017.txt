@@ -1,0 +1,63 @@
+
+Grasp Commissioning:  To complete commissioning for the Grasp investigation hardware, Pesquet performed tasks in a seated position. Grasp is intended to provide insight into how the central nervous system integrates information from different sensory modalities encoded in different reference frames to coordinate movements of the hand with objects in the environment.  Performed on the ISS, in conjunction with a series of experiments performed on the ground, Grasp explores the interaction between all of the various sensory cues.  
+NanoRack Cubesat Deployer (NRCSD) #12 Deploy:  A total of 17 cubesats will be deployed from NRCSD #12. Nine CubeSats were successfully deployed today. The remaining 8 will be deployed tonight and tomorrow. All 17 are from the QB50 constellation of CubeSats that are provided by countries around the world. The constellation aims to study the upper reaches of Earth’s atmosphere over a period of 1 to 2 years. The QB50 satellites conduct coordinated measurements of the thermosphere, a poorly studied and previously inaccessible zone of the atmosphere. The project monitors different gaseous molecules and electrical properties of the thermosphere to better understand space weather and its long term trends.
+OsteoOmics:  A crewmember will fixate BioCells in two Biocell Habitats today and then inserted the samples into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  This completes the fourth and final week of OsteoOmics operations.  Crewmembers experience bone loss in orbit, stemming from the lack of gravity acting on their bones. OsteoOmics investigates the molecular mechanisms that dictate this bone loss by examining osteoblasts, which form bone, and osteoclasts, which dissolve bone.  Improved understanding of these mechanisms could lead to more effective countermeasures to prevent bone loss during space missions and in a wide range of disorders on Earth. This may lead to better preventative care or therapeutic treatments for people suffering bone loss as a result of bone diseases like osteopenia and osteoporosis, or for patients on prolonged bed rest.
+Body Measures: Today a 50S subject performed the Body Measures Flight Day 184 session. The crewmember, with assistance from a trained operator, collected Body Measures data after configuring still and video cameras. NASA is collecting in-flight anthropometric data to assess the impact of physical body shape and size changes on suit sizing.  Still and video imagery is captured and a tape measure is used to measure segmental length, height, depth, and circumference data for all body segments (chest, waist, hip, arms, legs, etc.) from astronauts before, during and after their flight missions.
+Robotics On-Board Trainer (RoBOT): The crew performed a session of this training during which they completed a 30 meter approach, two Capture Point hold runs and 2 meter runs. This activity was in preparation for SpX-11 capture currently scheduled for June 4.
+Mobile Servicing System (MSS) Operations: Yesterday evening Robotics Ground Controllers powered up the MSS and walked the Space Station Robotic Manipulator System (SSRMS) from Mobile Base System (MBS) Power and Data Grapple Fixture (PDGF) 4 to Node2 PDGF. They then translated the Mobile Transporter (MT) from work site (WS) 6 to WS4. MSS is now in configuration for the SpX-11 Crew Offset Grapples tomorrow.
+Remote Power Control Module (RPCM) N21B4A_B Trip: Remote Power Controller (RPC) 2 on RPCM N21B4A_B tripped overnight. The RPC supplies power to the Node 2 Starboard Audio Terminal Unit (ATU) 1.  An alternate ATU on the port side of Node 2 is still available for voice, caution and warning tones if needed.  Preliminary review of telemetry did not indicate an overcurrent condition. Today, ground teams attempted to reclose the RPC without success. Teams are continuing to assess their forward plan.  
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+NEUROIMMUNITET. Saliva sample collection
+Biochemical Urine Test
+NEUROIMMUNITET. Closeout Ops
+URISYS Hardware Stowage
+Body Measures Equipment Gather
+EHS Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Final unloading of Soyuz 735 container 11Ф732.А0052А17-0
+Body Measures Experiment Operations – Subject
+NanoRacks CubeSat Deployment Photos
+Body Measures Experiment Operations – Operator
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) gas supply line Leak Check 1
+RFID Reader Relocate
+Crew Departure Preparations for Return to Earth
+OsteoOmics Fixation Operations
+Replacement of IELK, [АСУ] funnels М (M) and Ж (F) in Soyuz 733 and Soyuz 735. Seat liner and p/l container replacement
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+OsteoOmics MELFI Insertion 1
+NanoRacks CubeSat Deployment Photos
+OsteoOmics MELFI Insertion 1
+Habitability Narrated Task Video Setup – Subject
+HRF Generic Frozen Blood Collection Setup
+Alpha Magnetic Spectrometer HRDL Cable Move
+Habitability Narrated Task Video End – Subject
+HRF UCB Stow and Retrieval
+On-board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT) Session 1
+Reconnecting SM KURS-P cables from MRM2 port Antenna Feeder to DC1 port antenna feeder
+Oxygen Generation System (OGS) Sensor PT1
+СОЖ maintenance
+Loading container 11Ф732.А0052А17-0 with return items
+IMS Update
+European Modular Cultivation System (EMCS) Air Mix Supply Module Replacement
+European Modular Cultivation System (EMCS) Gas Valve Open
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) gas supply line Leak Check 2
+Oxygen Generation System (OGS) Sensor PT2
+Robotics Onboard Training (ROBoT) Session for Dragon
+Manufacturing Device Feedstock Canister, Extruder Exchange
+EHS Total Organic Carbon Analyzer (TOCA) Waste Water Bag (WWB) Changeout
+Dose Tracker Data Entry Subject 
+
+Completed Task List Items
+
+Veggie 03 Pillow Watering and Photo
+Potable Water Dispenser (PWD) Filter Remove and Replace (R&R) with Fan Filter Cleaning
+In-flight Maintenance Steady State Light Module
+Galley Rack Re-label 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+JEMRMS/NanoRacks deploy
+Dragon RoBOT ops
+

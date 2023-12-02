@@ -1,0 +1,88 @@
+
+Japanese Experiment Module (JEM) Small Satellite Orbital Deployer (J-SSOD)-2 Launches:  Flight Engineer (FE)-6 Wakata opened the JEM Airlock outer hatch and extended the slide table with the SSOD out to the JEM Exposed Facility (JEF).  He released the JEM Remote Manipulator System (JEMRMS) Small Fine Arm (SFA) Attachment Mechanism (SAM) Latching Arm to prepare for the SSOD transfer from the slide table to the JEMRMS.  Three cube satellites were then deployed nominally from one of the two cases attached to the SSOD on the JEMRMS.  The cubesat in the second case will be deployed tomorrow.  The first J-SSOD demonstration was successfully completed on October 4, 2012.
+Extravehicular Activity (EVA) Mobility Unit (EMU) 3011 Leak Test:  FE-3 Hopkins performed a series of tests on EMU 3011 as part an ongoing effort for returning the suit back to service. The tests included leak checks, comm checks, suit performance checkouts followed by wiping EMU seals and pressurization of the suit.  EMU 3011 had experienced a problem earlier this year during USOS EVA #23, when water leaked into Parmitano’s helmet.  Since then, the ISS Crew has replaced the Fan Pump Separator (FPS) in order to resolve the problem.
+Microbiome Investigation: Today, FE-5 Mastracchio performed his Flight Day 7 session of the Microbiome investigation. This included taking surface samples in the ISS, performing body sample collections, inserting samples into cold stowage and answering survey questions.  The Microbiome experiment investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time). To monitor the status of the crewmembers’ microbiome and immune system and their interaction with the unique environment of the ISS, periodic samples from different parts of the body and the surrounding ISS environment are taken. As part of this study, the likelihood and consequences of alterations in the microbiome due to extreme environments, and the related human health risk, will be assessed.
+Inter Orbit Communication System (ICS) Data Multiplexer Installation: Wakata installed the ICS Data Multiplexer within the JEM today. The Multiplexor had previously failed and was returned to the ground for repair via the SpaceX Demo Flight in May 2012.  The repaired unit made its return to ISS in August of this year via HTV-4.  ICS provides an independent intercommunications network between the JEM and the Tsukuba Space Center, utilizing JAXA’s Data Relay Test Satellite (DRTS).
+Today’s Planned Tasks
+
+PROK – Urine Sample Collection [Complete]
+BIOME – Sample Collection Ops  [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+CIR – Alignment Guide Removal  [Complete]
+ВКС Laptops Antivirus Scan Check and Status Report  [Complete]
+JEMRMS RLT Laptop Activation [Complete]
+SM Ventilation System Preventive Maintenance. Group В2  [Complete]
+24-hour ECG (termination) [Complete]
+Replacement of ВГЖТ1 fans in ISS RS SM with a low-noise unit  [Complete]
+SSC Laptop Relocation [Complete]
+Slide Table Extension to JEF Side. Part 1 [Complete]
+High Pressure Oxygen Bypass Configuration [Complete]
+Setting up video camera in Airlock [Complete]
+Crew Medical Officer (CMO) proficiency training [Complete]
+SEINER. Photo Spectral System (ФСС) Battery Charge  [Complete]
+EMU 3011 Leak Check, Part 1 [Complete]
+BIOME – Hardware Setup [Complete]
+MOTOCARD. Experiment Ops.  [Complete]
+JEMRMS Small Fine Arm (SFA) Ungrapple [Complete]
+MOTOCARD. Photography during Experiment  [Complete]
+MOTOCARD. Experiment Assistance.  [Complete]
+Health Maintenance System (HMS) Profile of Mood States (POMS) Questionnaire [Complete]
+BIOME – Perspiration Sampling [Complete]
+SEINER. Observation and Photography using Photo Spectral System (ФСС).  [Complete]
+24-hour ECG Recording  [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+HRF Urine Collection Hardware Setup [Complete]
+G1 – Camcorder Setup [Complete]
+JEMRMS Ground Control Small Satellite Deployment Observation [Complete]
+Small Satellite Deployment from Case 1 [Complete]
+G1 – Closeout Ops [Complete]
+EMU 3011 Leak Check, Part 2 [Complete]
+Crew Medical Officer (CMO) proficiency training
+Multiplexer (MUX) Installation
+Replacement of ВГЖТ1 fans in ISS RS SM with low-noise units.  [Complete]
+On-orbit Hearing Assessment using EARQ
+Preparing for SM ОДУ СУ А12 БФК command generator R&R. 
+PROK – Diet Log [Complete]
+Crew Prep for PAO [Complete]
+PAO Hardware Setup [Complete]
+PAO Event [Complete]
+EMU 3011 Leak Check, Part 3 [Complete]
+WRM – Condensate Pumping Initiation [Complete]
+SSC 13 Relocate [Complete]
+Reset the PWD Filter Replace Circuit Breaker [Complete]
+СОЖ Maintenance [Complete]  
+Noise level measurements using RS SLM device after installation of low-noise fans.   [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+WRM – Terminate Condensate Pumping [Complete]  
+EMU 3011 Leak Check, Part 4 [Complete]
+IMS Update [Complete]  
+High Pressure Oxygen Supply System Reconfig to Initial [Complete]
+Removal of Video Camera in Airlock and Return to nominal Location [Complete]  
+SSC Laptop Relocation [Complete]
+EVA – Torque Analyzer Kit (TAK) Data Gather  [Complete]
+Removal of ARIS-POP from EXPRESS Rack 2 [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+FGB Tool Panel No. 1 and No. 2 Tool Audit [Complete]  
+Journal Entry [Complete]
+Microbiome Surface Sampling Operations Modified [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+BIOME – Equipment Stowage [Complete]
+HRF – Hardware Setup [Complete]
+ALBEDO. Battery Charge [Complete]  
+
+Task List
+
+ARED Cylinder Evacuation
+Roscosmos Video Recording
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+URAGAN. Observations and Photography
+ECON-M. Observations and Photography
+PEPS Inspection
+JAXA Video
+
+Ground
+
+Nominal Commanding [Complete]  
+

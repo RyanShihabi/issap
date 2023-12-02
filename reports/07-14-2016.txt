@@ -1,0 +1,75 @@
+
+Heart Cells Hardware Gather and Setup: The crew gathered and configured the Microgravity Science Glovebox (MSG) life science hardware to support upcoming operations for the Heart Cells investigation that will be performed inside the MSG work volume. The investigation studies the human heart, specifically how heart muscle tissue contracts, grows and changes in microgravity and how those changes vary among subjects. Understanding how heart muscle cells, or cardiomyocytes, change in space improves efforts for studying disease, screening drugs and conducting cell replacement therapy for future space missions.
+Telescience Resource Kit (TReK) Hardware Set Up: The crew set up the TReK Demonstration laptop and relocated the high definition camera to view the laptop display which will be used to provide video for Space Conferences. The TReK is a suite of software applications and libraries that can be used to monitor and control assets in space or on the ground. 
+Dose Tracker: The crew completed entries for medication tracking on an iPad. This investigation documents the medication usage of crewmembers before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions. 
+Urine Processing Assembly (UPA)Separator Plumbing Assembly (SPA) Samples: The crew gathered and configured equipment in preparation for the collection of a SPA effluent sample to be returned to ground for evaluation to better understand the recent high conductivity and noise observed during UPA processing.  The setup included disconnection of the purge line from the distillate line, however, due to a mismatch with the associated fittings, the sample bag could not be installed.  The purge line will remain disconnected as part of the configuration to troubleshoot the UPA.  Ground teams will continue to investigate methods for installing the sample bag. The next UPA run is expected early next week.
+Safety Video Survey: The crew completed a video of the ISS interior volume to allow ground teams to assess current vehicle configuration as well as identify any areas of concern related to ventilation blockage, flammability hazards, emergency egress paths, access to fire ports and safety equipment. This survey is performed approximately every six months. 
+Russian Segment (RS) Video Survey: Ground controllers completed a survey of the RS using ISS external cameras.  This imagery will be used to compare against ground models in preparation for a future Space Station Remote Manipulator System (SSRMS) walkoff on to the Functional Cargo Block (FGB) Power Data Grapple Fixture (PDGF).
+Thermal Radiator Rotary Joint (TRRJ) S1-3 Radiator Panel Survey: Yesterday, ground teams completed the periodic video survey of the damaged panel on the Starboard TRRJ.  The face sheet on the S1-3 radiator panel 7 was discovered to be delaminated in September 2008.  Ground teams will review the imagery once available.
+Systems Operations Data File (SODF) Emergency Update: The crew updated the emergency procedure for “Fire Source Location” to account for the new Mouse Habitat payload being installed in the Japanese Experiment Module (JEM).
+Mobile Servicing System (MSS)/Mobile Transporter Status: On July 11 during preparation for MT translation from Worksite 6 (WS6) to WS4, ground controllers noticed that Umbilical Mating Assembly 1 (UMA1) showed a status of both mated and demated on Channel A so the MT translation was performed on Channel B. The unit was power cycled but did not clear the problem. Initial indications are that the UMA 1 IMCA 1 Demate Microswitch is not operational. A workaround was implemented for the issue so there are no impacts to future operations.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+EarthKAM Experiment in SM, Battery Changeout
+Morning Inspection. SM ПСС (Caution & Warning Panel) Test
+Morning Inspection, RSS1,2 Reboot / r/g 1460
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2769
+Emergency Book updates
+Soyuz 731 Samsung Tablet Recharge, initiate
+SM Ventilation Subsystem Preventive Maintenance. Group В2
+Microgravity Science Glovebox (MSG) Equipment Gathering
+TORU OBT r/g 2787
+OBT Dragon Rendezvous Procedures Review
+AMO2 Removal from UOP
+AMO2 PCS HDD Swap
+AMO2 PCS Installation
+HRTCEL – Hardware Setup
+Video Survey of the ISS
+Soyuz 720 Samsung tablet charge – end
+SM Ventilation Subsystem Preventive Maintenance. Group В2
+OBT Self-Assessment Questionnaire
+PAO Hardware Setup
+Crew Prep for PAO
+PAO Event
+Food Frequency Questionnaire
+TREK Video Setup in Lab
+EarthKAM Experiment in SM Battery Changeout
+Big Picture Words Review / Separator Plumbing Assembly (SPA)
+Progress 432 [AO] Transfers and IMS Ops / r/g 1812, 1832
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2769
+Removing two TV cameras СА1,2 and ССД-302 light units in Soyuz 731
+OBT Dragon Rendezvous Procedures Review
+Demate the Outlet line and collect sample
+Demate the outlet line from SPA ORU on WRS-2 Rack
+DATA TRANSMISSION RADIO LINK (РСПИ) – ONBOARD MEMORY DEVICE (БЗУ) r/g 2788
+Crew time for ISS adaptation and orientation
+Verification of ИП-1 Flow Sensor Position
+СОЖ Maintenance
+HAM radio session from Columbus
+DOSETRK iPad data entry
+CORRECTSIYA. NEUROIMMUNITET. Experiment setup / r/g 2783
+Psychological Evaluation Program (WinSCAT)
+IMS Delta File Prep
+WRS Maintenance
+Sprint Exercise, Optional
+CONTENT. Experiment Ops / r/g 2778
+WRS Maintenance
+TREK Return camcorder to original location
+CONTENT. Experiment Ops / r/g 2779
+Robotic Work Station (RWS) Setup
+Camcorder Setup to View LAB RWS Monitor 3
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2769
+NEUROIMMUNITET. Saliva Sample / r/g 2783
+NEUROIMMUNITET. Starting 24-hr ECG Recording BP Measurement / r/g 2783
+EarthKAM Experiment in SM, Battery Changeout
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Nominal ground commanding. 
+

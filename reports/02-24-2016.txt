@@ -1,0 +1,124 @@
+
+Water Process Assembly (WPA) Status:  Following yesterday’s WPA Catalytic Reactor replacement, the WPA successfully completed a process cycle and is working nominally.  In addition, the crew returned Treadmill 2 (T2) and Water Recovery System (WRS)-1 Racks back to their nominal configuration.
+ 
+Airway Monitoring:  Peake completed setup of a camera and hardware for Airway Monitoring in the US Airlock in preparation for Kopra and Peake to complete an Airway Monitoring session tomorrow.  The primary goal of the experiment is to determine how gravity and microgravity influence the turnover of Nitric Oxide (NO) in the lungs.  During future manned missions to the Moon and to Mars, airway inflammation due to toxic dust inhalation is a risk factor. Since dust may cause airway inflammation and since such inflammation can be monitored by exhaled NO (Nitric Oxide) analysis, the present study is highly relevant for astronaut health in future space programs.
+ 
+Space Automated Bioproduct Laboratory (SABL):  Today, Peake initiated a two week checkout of the new NASA SABL facility in the US Laboratory but the SABL hardware was powered off after the hardware temperature rose beyond the nominal range.  Ground experts are investigating.  SABL is required for use with the Micro-10 investigation that has hardware arriving on the SpaceX-8 vehicle.  It is an upgrade to the long standing ISS incubator, Commercial Generic Bioprocessing Apparatus (CGBA). SABL supports a wide variety of experiments in the life, physical and material sciences with a focus on supporting research of biological systems and processes.  It is capable of supporting life science research on microorganisms, small organisms, animal cells, tissue cultures and small plants.
+ 
+Electrostatic Levitation Furnace (ELF):  JAXA’s Ground team was not successful yesterday in checking out the ELF levitation control function.  Today’s checkout activities have been deferred while ground experts investigate the cause of the issues observed.  The ELF is an experimental facility designed to levitate, melt and solidify materials employing containerless processing techniques that use the electrostatic levitation method with charged samples and electrodes. With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+ 
+Habitability: Kopra recorded a narrated video of a blood draw from Kelly for the Habitability investigation.  He captured details such as hardware and tool interface issues, volume needed to perform the task, and other human factors concerns for task performance.  The Habitability investigation results will be used to assess the relationship between crew members and their environment to better prepare for future long-duration spaceflights to destinations such as near earth asteroids and Mars. Observations recorded during 6 month and 1 year missions can help spacecraft designers determine how much habitable volume is required and whether a mission’s duration impacts how much space crew members need.
+ 
+Twins Study:  In support of the Twins Study, Kelly continued his week-long Return minus 14 day (R-14) daily saliva and urine collections.  This investigation is an integrated compilation of ten different studies led by multiple investigators.  The studies take advantage of a unique opportunity to look at the effects of space travel on identical twins, with one of them experiencing space travel for a year while the other remains earth-bound for that same year.  The study looks at changes in the human body that are important in the fields of genetics, psychology, physiology, microbiology, and immunology.
+ 
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+NEIROIMMUNITET. Saliva Sample / r/g 1505
+SLEEP – Questionnaire
+Morning Inspection. SM ПСС (Caution & Warning Panel)
+RSS 1, 2 Reboot / r/g 1460
+SLEEP Questionnaire
+Morning Inspection, Laptop RS1(2) Reboot / Onboard Computer System (БВС)
+HRF – Sample Collection and Prep for Stowage Insertion
+TWIN – Sample Collection
+NEIROIMMUNITET. Complete Questionnaire / r/g 1505
+HRF – Sample Insertion into MELFI
+NEIROIMMUNITET. CORRECTSIYA. Blood Sample / r/g 1505
+TWIN – Urine Sample Collection
+NEIROIMMUNITET. Venous blood sample processing (smear) / r/g 1505
+HRF – Sample Insertion into MELFI
+NEIROIMMUNITET. CORRECTSIYA. Venous blood sample processing using Plasma-03 centrifuge / r/g 1505
+HRF Blood Sample Collection and Cold Stowage
+CORRECTSIYA. Closeout Ops / r/g 1504
+NEIROIMMUNITET. CORRECTSIYA. Handover to USOS for MELFI Insertion / r/g 1505
+RUEXP – Blood Sample Insertion into MELFI
+HABIT – Video Setup
+HRF – Blood Sample collection operator assistance
+Scheduled monthly maintenance of Central Post Laptop Tagup with specialists / r/g 1495
+HABIT – Terminate Video
+HRF Refrigerated Centrifuge Configuration
+Scheduled maintenance of Central Post Laptop – Start Test 1 r/g 1495
+Fine Motor Skills – Test
+HRF – Blood Sample Collection Closeout Ops
+HRF – Sample Insertion into MELFI
+Scheduled maintenance of Central Post Laptop – Terminating Test 1 and Starting Test 2. r/g 1495
+Complete the Dose Tracker application – Subject
+HRF Closeout Ops
+WRS Filter Kit Installation
+CORRECTSIYA. Logging Liquid and Food (Medication) Intake / r/g 1509
+P/TV – Hardware Checkout
+AIRMON – Hardware Setup
+Soyuz 718 (MRM2) Cargo Stowage for Disposal / r/g 1424
+NEIROIMMUNITET. Hair Sample / r/g 1505
+Scheduled maintenance of Central Post Laptop – Start Test 3 r/g 1495
+Catalytic Reactor ORU prep for stowage
+Progress 429 (Aft) Cargo Stowage for Disposal / r/g 1484
+TWIN – Urine Sample Collection
+HRF – Sample Insertion into MELFI
+Soyuz 718 (MRM2) cargo stowage for return / r/g 1444
+Scheduled maintenance of Central Post Laptop – Terminating Test 3 and Starting Test 4 r/g 1495
+DAN. Experiment Operator Assistance / r/g 0119
+DAN. Experiment Ops. r/g 0119
+Periodic Fitness Evaluation – Nom Ops (subject)
+In Flight Maintenance (IFM) – WRS1 Filter Kit Removal
+In Flight Maintenance (IFM) – WRS1 Rack Closeout
+Scheduled maintenance of Central Post Laptop – Terminating Test 4 and Closeout Ops.r/g 1495
+Crew Departure Prep
+CIR Alignment Guide Removal
+Airways Monitoring Briefing
+Preparation for diagnostics of power supply system (СЭС) and onboard complex control system (СУБК) units in FGB, R/G review. r/g 1496, 1497
+T2/WRS1 Nominal Reconfig
+AIRMON – Hardware Powerdown
+Space Automated Bioproduct Lab (SABL) – Activation and Checkout
+Soyuz 718 (MRM2) Cargo Stowage for Return / r/g 1444
+CORRECTSIYA. Logging Liquid and Food (Medication) Intake / r/g 1509
+Filling (separation) of EDV (KOV) for Elektron or EDV-SV
+Crew Departure Prep
+СОЖ Maintenance
+Gather IR camera batteries for subsequent use and temp stowage by RS crew
+EDV – Hose Reconfig
+TWIN – Urine Sample Collection
+In Flight Maintenance (IFM) – Installation of Pivot Fitting
+MORZE. NEIROIMMUNITET. CORRECTSIYA. Preparation for the Experiment / r/g 1507
+IMS Delta File Prep
+WRS Water Sample Analysis
+HRF – Sample Insertion into MELFI
+FMK Deployment Ops
+Grab Sample Container (GSC) Sampling Operations
+Soyuz 718 (MRM2) Cargo Stowage for Disposal / r/g 1424
+PAO Hardware Setup
+Crew Prep for PAO
+PAO Event
+Soyuz 718 (MRM2) Transfers Complete Report / r/g 1424
+Recharging Soyuz 718 IRIDIUM Phone – Setup, Start Charging
+Complete the Dose Tracker application – Subject
+TWIN – Urine Sample Collection
+Recharging Soyuz 718 IRIDIUM Phone – Battery Charge Status
+Recharging Soyuz 718 IRIDIUM Phone – Terminate Charging
+HRF – Sample Insertion into MELFI
+Recharging Soyuz 719 IRIDIUM Phone – start charging
+Recharging Soyuz 719 IRIDIUM Phone – Battery Charge Status
+Recharging Soyuz 719 IRIDIUM Phone – terminate charge, teardown the setup, closeout ops
+TOCA Data Recording
+TOCA Waste Water Bag (WWB) Changeout
+Daily Planning Conference (S-band)
+NEIROIMMUNITET. Completing Questionnaire / r/g 1505
+CORRECTSIYA. Logging Liquid and Food (Medication) Intake / r/g 1509
+NEIROIMMUNITET. Saliva Sample / r/g 1505
+NEIROIMMUNITET. Closeout Ops. / r/g 1505
+NEIROIMMUNITET. Saliva Sample / r/g 1503
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+
+ 

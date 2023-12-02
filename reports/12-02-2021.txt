@@ -1,0 +1,29 @@
+
+Payloads:
+BioLab:  Experiment containers were removed from the Biolab Centrifuge Rotors inside the Incubator.  The Biological Experiment Laboratory in Columbus (BioLab) is a multiuser research facility located in the European Columbus laboratory. The facility is used to perform space biology experiments on microorganisms, cells, tissue cultures, small plants, and small invertebrates. BioLab allows scientists to gain a better understanding of the effects of microgravity and space radiation on biological organisms.
+Echo:  A crewmember unstowed the Echo External Hard Disk and USB Cable and connected them to the SSC 14 laptop.  The purpose of the Echo investigation is to evaluate a tele-operated ultrasound system, equipped with motorized probes that are controlled by flight controllers on the ground. Additionally, this investigation serves to perform the commissioning of the Echo instrument, which is planned to be used for the Vascular Echo experiment in the future.
+Systems: 
+USOS EVA 78: P1 SASA R&R EVA: Today, ISS crewmembers Thomas Marshburn and Kayla Barron completed the 78thUSOS Extravehicular Activity (EVA). The main goal of this EVA was to remove the degraded Port 1 (P1) Truss S-Band Antenna Sub-Assembly (SASA) and to install the spare SASA from EXPRESS Logistics Carrier 3 (ELC-3) onto the P1 truss. SASA is the antenna assembly that provides S-Band communication. During the 6-hour and 32-minute EVA, the EV crew completed the following objectives:
+
+Remove degraded P1 SASA
+Stow degraded SASA on forward facing part of ELC-3
+Install spare SASA onto the P1 truss
+Move degraded SASA from temp location on forward facing part of ELC-3 to the ELC-3 Flight-Releasable Attachment Mechanism (FRAM)
+
+Additionally, Kayla completed two get-ahead procedures for the Battery Discharge Control Unit (BDCU) On-Orbit Replaceable Unit (ORU) torque break and Solar Array Blanket Boxes (SABB) restraint tieback, and Thomas took photos of the Airlock pip pin. These are robotic enhancements which reduce future EVA time by enabling robotic R&R capabilities:
+
+4A (P4) ORU Torque Break & Bolt Release
+4A (P4) SABB Restraint Tieback
+Airlock Pip Pin Photos
+
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+P1 SASA R&R EVA
+S-Band String Swap
+ACS PCA C&W Configuration
+

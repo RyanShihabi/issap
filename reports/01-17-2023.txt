@@ -1,0 +1,23 @@
+
+Payloads:
+Combustion Integrated Rack (CIR): Preparations were made to support a Fuel Oxidizer Management Assembly (FOMA) calibration. The FOMA calibration is performed periodically and helps to verify accurate readings from the various measurement systems in the CIR. The CIR facility includes an optics bench, combustion chamber, fuel, and oxidizer control, and five different cameras for performing combustion investigations in microgravity. Solid Fuel Ignition and Extinction (SoFIE) is a hardware insert for the CIR that enables a wide range of solid-material combustion and fire suppression studies.
+JEM Small Satellite Orbital Deployer-24 (J-SSOD-24): Following the successful deployment of the satellites on January 6th, the J-SSOD launcher hardware was removed from the JEM airlock slide table and stowed. J-SSOD provides a novel and safe small satellite launching capability for the ISS. The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites.
+JAXA Try Zero-G for Asia: The crew performed several experiments for the student community observing from the ground. JAXA hosts several Educational Payload Operation (EPO) investigations designed to attract public attention for Japanese manned spaceflight activities. The Try Zero-G for Asia is an EPO investigation consisting of several activities in KIBO, the Japanese experiment module on the ISS. Crew members conduct several small experiments submitted by students in countries in the Asia-Pacific region to demonstrate the effects of microgravity.
+Veg-05: The plants growing in the two Veggie facilities were inspected, watered if necessary, and photographed. The experiment is growing Red Robin dwarf tomatoes for a little over 3 months and will perform multiple harvests of the fruits produced. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System (Veg-05) investigation is the next step in efforts to address the need for a continuous fresh-food production system in space.
+Systems:
+USOS Extravehicular Activity (EVA) Preparation Activities: In preparation for the upcoming 1A ISS Roll-Out Solar Array (IROSA) Prep EVA scheduled for January 20th, the crew completed EVA procedure review and Extravehicular Mobility Unit (EMU) Cuff Checklist Incorporation. The main goal of this EVA is to route cables on two mod kits and install the 1A Mod Kit on the 1A Solar Array Wing (SAW) Mast Canister to prepare these SAWs for future IROSA installations.
+Columbus Local Area Network (LAN) Switch (CLSW2) Installation: Today, the crew finalized Patch Panels 2.1 and 2.2 connections in the Starboard Endcone Area, then swapped and connected the AstroPI IR LAN Cable to Patch Panel 2.2 in ongoing efforts to modernize the Columbus Data Management System (DMS). The crew then disconnected the ICE Cubes Facility (ICF) LAN from the Columbus Payloads LAN Switch (CPLSW) and ICF and swapped to a longer cable. This supports systems, subsystems, and payloads for communication in the Columbus module.
+Crew Dragon Seat Liner Installation Preparation: Today, the crew gathered tools in preparation for the transfer of a seat liner from 68S Soyuz to Crew-5 Dragon. The seat liner transfer is scheduled for Wednesday, January 18th to provide additional occupant protection in Dragon following the 68S thermal loop leak anomaly. The seat liner will be transferred back to the Russian Segment after a replacement Soyuz is launched and this temporary configuration is no longer required. Each Soyuz crewmember has a custom molded seat liner that protects the crew during launch, reentry, and landing.
+Completed Task List Activities:
+
+N/A
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+JEM Airlock Pressurization
+IONET Preventative Maintenance
+CHeCS Commanding/Data Downlink
+CCS MT DBCL Dump
+SPDM Unstow [Active]
+

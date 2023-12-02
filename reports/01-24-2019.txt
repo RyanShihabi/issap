@@ -1,0 +1,100 @@
+
+FIR/LMM/Biophysics-5-2 Plate Installation: The crew installed Biophysics Plate s/n 2002 onto the PACE (Preliminary Advanced Colloids Experiment) LED Base inside the FIR/LMM (Fluids Integrated Rack/Light Microscopy Module) AFC (Auxiliary Fluids Container) and dispensed oil on the plate.  LMM/Biophyscs-5-2 looks at the relationship between solution convection – the movement of molecules through the fluid – and dense liquid clusters from which protein crystals can form.  The main objective of the investigation is to understand why protein crystallization experiments in microgravity have often generated unexpectedly low or high numbers of crystals. Both of these outcomes may negatively affect experiments designed to obtain a small number of well-separated crystals for x-ray structure studies. 
+Refabricator Payload Overview: The crew performed a review of the “Big Picture Words” message and crew procedure for the Refabricator hardware installation. The Refabricator’s objective is to demonstrate a unique process for repeatable, closed-loop recycling of a polyetherimide/polycarbonate plastic material for additive manufacturing in the microgravity environment of the ISS. Eventually, Refabricator type hardware could recycle waste plastic materials into high quality 3D-printer filament, providing the potential for sustainable fabrication, repair, and recycling capabilities on long-duration space missions. This hardware represents a key component of NASA’s In-Space Manufacturing (ISM) technology development roadmap. 
+Bigelow Expandable Activity Module (BEAM): The BEAM stowage activities continued today in order to transfer items from Pressure Mating Adapter (PMA)-2 over to BEAM then collect surface and air samples for microbial analysis. Once complete, the crew closed the Node2 Forward hatch, reinstalled the BEAM hatch, and closed the Node 3 Aft Hatch. BEAM is an experimental expandable module, which has been attached to the ISS since April of 2016. Expandable modules weigh less and take up less room on a rocket than a traditional module, while providing additional space on-orbit for living and working.
+Northrop Grumman 10 (NG-10) Cygnus Cargo Operations: The crew continued to perform Cygnus cargo operations today. Ground teams estimate ~23 hours of cargo operations remain prior to Cygnus departure currently planned for February 12.
+Mobile Servicing System (MSS) Operations: Yesterday afternoon, the Robotics Ground Controllers powered up the MSS and walked the Space Station Remote Manipulator System (SSRMS) off the Mobile Base System (MBS) PDGF4 Power Data Grapple Fixture (PDGF) onto the MBS PDGF1. They then maneuvered the SSRMS as required to perform a video survey of the Latching End Effector A (LEE-A) snare cables.  Once the survey was complete, SSRMS was maneuvered to walk off onto MBS PDGF4 and then on Node2 PDGF.
+Completed Task List Activities:
+
+COL1F3 Rack Clean Out
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+LSR Troubleshooting Commanding
+
+Two-Day Look Ahead:
+Friday, 01/25:
+Payloads:
+
+Actiwatch Spectrum setup
+GLACIER desiccant swaps
+ISS Experience
+Lighting Effects
+MELFI ice brick install
+Refabricator install
+
+Systems
+
+Positive Pressure Relief Valve Cycle on EMU 3006
+EDAR installation onto EMU 3006
+ITCS Maintenance Canister Removal in the Lab
+ITCS Sample Gather in Lab and Node 3
+
+Saturday, 01/26: Crew Off Duty
+Payloads:
+
+Lighting Effects
+JAXA/ELF Cartridge Ops
+
+Systems
+
+None
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Preparation of Reports for Roscosmos Web Site and Social Media
+RS ISS Module Photos
+ECON-M. Observations and Photography
+СОЖ maintenance
+Internal Thermal Control System (ITCS) Maintenance Gather
+EML Reprogramming Cable installation
+24-hour ECG Recording (termination)
+Internal Thermal Control System (ITCS) Maintenance Canister Installation in Lab
+24-hour BP recording (terminate)
+Air sample collection using Draeger tube air sampler (ИПД) in SM for CO
+Air sample collection using ИПД sampler for ammonia in SM
+Air sample collection SM and FGB using АК-1М sampler
+Air sample collection using АК-1М absorber in SM for Freon
+Replace pretreat container (E-K) in АСУ
+Actiwatch Plus Evaluation Display Check
+Node 2 Endcone Cleanout
+ARED Platform Fold
+Photo/TV N3/BEAM Camcorder Setup
+Inflight Maintenance BEAM Hatch Removal
+Environmental Health System (EHS) – Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Gather
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+MSPR ELT Reset
+PMA2 Ingress Part 1
+EML Reprogramming Cable removal
+Bigelow Expandable Activity Module (BEAM) Hardware Stow
+Progress 439 (DC1) Activation, Air Duct Removal
+Environmental Health System (EHS) – Microbial Air Sampler (MAS) Kit Sample Collection
+On MCC GO Remove and Inspect Quick Release Screw Clamps (ЗВБ) on DC1- Progress 439 Interface
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation
+DC1-Progress 439 Hatch Closure
+On MCC GO DC1-СУ and СУ-Progress 439 Hatch Leak Check
+Transfer Cygnus Cargo Operations
+LMM MELFI Sample Retrieve
+Cygnus Cargo Operations Conference
+DC1-Progress 439 Interface Video Downlink via OCA
+BEAM Cleanup and Egress
+ISS Experience Message Review
+Verification of ИП-1 Flow Sensor Position
+Evening Preparation Work
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Stow
+Checkout of the Node 2 Fwd International Docking Adapter (IDA) Control Panel.
+CONTENT. Experiment Ops
+ARED Platform Unfold Back to Nominal Position
+PMA2 Egress
+Photo/TV Node 3 Camcorder Deactivation
+Fluids Integrated Rack Doors Open
+LMM Biophysics Plate 3 Installation
+Node2 Endcone Stowage Replace
+Refabricator Payload Overview
+Fluids Integrated Rack Doors Close
+
+ 

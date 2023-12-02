@@ -1,0 +1,91 @@
+
+NanoRacks Inadvertent Deploy: On Saturday, ground teams observed the inadvertent deploy of two Cosmogia CubeSats from Deployer #5 of the NanoRack Cubesat Deployer (NRCSD). The ISS was still in the deploy attitude and the Japanese Experiment Module (JEM) Remote Manipulator System (JEMRMS) was still positioned for the deployment. No issues have been identified with the deployment trajectory, the CubeSats or the ISS. Ground teams are investigating the probable cause and discussing future operations with the NRCSD and CubeSats remaining in the deployer.
+Microbiome Sample Collection: Over the weekend, Flight Engineer (FE)-6 Gerst started collecting samples for the Microbiome investigation. The experiment investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time).
+Electromagnetic Levitation (EML) Installation: Gerst removed the axial camera controller from the EML Experiment Module to access a bolt that the crew found partially extended last week, which impeded the installation of the axial camera. Today’s steps to remove the bolt were unsuccessful, and ground teams are assessing future troubleshooting steps. Once EML is completely installed it will aim to increase the performance of metallic/alloy structures through an understanding of how solidification can be controlled and develop a data base of properties to allow better process modeling. The experiment investigates solidification and microstructural evolution and evaluates thermo-physical properties of highly reactive molten metals.
+Earth Rim Setup: Gerst set up cameras in the Cupola to take sequential pictures of the Earth’s rim. The images will be taken in conjunction with the nadir-pointing Visible and Infrared Spectral Imager (VISI) on the external Multi-mission Consolidated Equipment (MCE). This will give the ground stereoscopic images to clarify the structures and dynamics of the Earth’s upper atmosphere using the emission of the airglow and the aurora.
+FLame Extinguishment Experiment (FLEX)-2 Operations: FE-5 Wiseman removed the Combustion Integration Rack (CIR) alignment guides, which will isolate the rack and allow ground teams to conduct another FLEX-2 test point via ground commanding. Toluene and heptane were used for these test points. FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Extravehicular Activity (EVA) Fan Pump Separator (FPS) Remove & Replace (R&R): Wiseman gathered required tools and he and Commander (CDR) Swanson started replacing the FPS in Extravehicular Mobility Unit (EMU) 3011. They will complete this activity tomorrow.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+KHROMATOMASS. Science prep / r/g 6466 [Complete]
+KHROMATOMASS. Saliva and blood testing / r/g 6466 [Complete]
+USOS h/w handover to ROS crew for FGB ops [Complete]
+EMU 3011 FPS R&R [Complete]
+IVA – science ops training session [Complete]
+DPC (S-band) [Complete]
+Kentavr G-suit fitting [Complete]
+CIR – h/w de-install [Complete]
+IVA – clothing bags transfer  [Complete]
+D2X time interval gauge install [Complete]
+Laptop RS2 HDD cloning h/w setup. r/g 6461 [Complete]
+Move the sliding platform towards JEF in JEM’s airlock, part 2 [Complete]
+ESA – weekly crew conference [Complete]
+[БП]-Laptop RS2 cable inspection  r/g 6461 [Complete]
+FGB [СУБК]’s 11М156М h/w diagnostics / ПТО ВнуКД ФГБ part 1  r/g 6453 [Complete]
+Receive and copy update_laptop2.zip file to the media. r/g 6461 [Complete]
+KHROMATOMASS. Closeout ops / r/g 6466 [Complete]
+Laptop RS2 HDD cloning w/out using Norton Ghost r/g 6461  [Complete]
+FGB [СЭС]’s БФ-2 and БСШ-2 h/w diagnostics / r/g 6450 [Complete]
+JEMRMS – switch SAM into grapple position [Complete]
+EDR-EML – troubleshooting [Complete]
+Laptop RS2 software update. r/g 6461 [Complete]
+VIRTUAL. Science ops run. r/g 6460 [Complete]
+Retract JEM airlock’s sliding platform and close the external hatch. Part 2 [Complete]
+JEMRMS – RLT laptop deactivation [Complete]
+Exercise data downlink / r/g 5929 [Complete]
+FGB surface and structure sampling / r/g 6454 [Complete]
+EDR-EML – troubleshooting [Complete]
+VIRTUAL. Science ops run. r/g 6459 [Complete]
+PAO h/w setup [Complete]
+PAO crew preparation / r/g 6463 [Complete]
+2nd SCO Youth Forum PAO / r/g 6463 [Complete]
+EML – install axial camera & controller [Deferred]
+EML – install inside the experimental module [Deferred]
+ROSKOSMOS feature shooting / r/g 6467 [Complete]
+Photography of SM interior using the photometric targets. r/g 6455 [Complete]
+FGB surface and structure sampling / r/g 6454 [Complete]
+FASTER software uninstall [Complete]
+Install ОСП-4 fire extinguisher at FGB_410 / r/g 6438 [Complete]
+FASTER data downlink setup [Complete]
+IVA – clothing bag transfer [Complete]
+EARTH – Earth observation [Complete]
+JRNL – log entry
+DPC (S-band) [Complete]
+IVA – exercise clothing reminder review [Complete]
+
+Task List
+
+ARED Cylinder Evac
+AMO shortcut install
+IMS update
+WHC KTO replace
+WHC EDV-Y R&R
+Roscosmos Report
+Cozh maintenance
+Uragan Photo
+Dragon pre-pack review
+EVA post print
+3DA1 cam ops
+ARED detent flip
+CTB 1226 unpack [In work]
+CTB 1247 unpack
+Data prep return
+EPM tray invent [Complete]
+EVA handover
+Food warmer mod
+Hatch seal inspect-parts 1,2,3
+HRF2 8PU drawer reconfig
+GLA R&Rs
+IMAX Cupola photos
+Journals
+NORS A/L reconfig part 2
+ATV cargo ops 
+
+Ground
+
+Nominal commanding
+

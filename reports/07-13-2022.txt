@@ -1,0 +1,23 @@
+
+Payloads:
+ISS Ham Radio: Two ISS Ham contacts were made with Il Cielo Itinerante c/o Agenzia Spaziale Italiana (ASI) Center for Space in Matera, Italy and Sayama group Saitama Council Scouts Association of Japan, Saitama, Japan. Since the earliest space station expeditions, ISS Ham Radio has allowed groups of students in schools, camps, museums, and planetariums to hold a conversation with the people living in space. As the ISS passes overhead, students have approximately nine minutes to ask crew members 10 to 20 questions.
+Lumina: The Lumina hardware was power-cycled and data was transferred to an iPad for downlink. Fiber-optic Active Dosimeter (Lumina) is an active fiber dosimeter that monitors, in real-time, the received radiation dose by exploiting the capacity of optical fibers to darken when exposed to radiation. The dosimeter provides reliable dose measurements in complex environments such as the ones associated with electrons, protons, gamma-ray or X-ray photons or neutrons.
+Wireless Compose-2:  A crewmember donned the Wireless Compose-2 SmartTex-2 shirt, executed the Ballistocardiography experiment and completed the questionnaire. The main scientific goal of the Wireless Communication Network (Wireless Compose-2) investigation is to provide a flexible and adaptable wireless network infrastructure to conduct and execute low-power, light-weight, and wireless experiments on the ISS. For this demonstration, Wireless Compose-2 operates several experiments, including an experiment to examine the impact of the space environment on the cardiovascular system. Additionally, Wireless Compose-2 demonstrates the ability of newly developed impulse radio ultra-wide band (IR-UWB) hardware to enable precise localization applications and to analyze the energy harvesting potential on the ISS.
+Systems:
+Environmental Health System (EHS) Coliform Water Sample Analysis: Today, the crew completed post-processing analysis of the coliform detection bags. The water samples were acquired on GMT 192 and allowed to incubate to check for the presence of Coliform bacteria. Following the incubation period, the crew visually analyzed the coliform detection bags and recorded the results. Visual confirmation must be performed within 40-48 hours of the initial sample collection.
+RS Extravehicular Activity (EVA) ESA Preparations: Crewmember Samantha Cristoforetti continued preparation activities for the upcoming RS EVA ESA, beginning with a training session on transfer of two pressurized space suits to ПхО. Russian EVA tools were gathered and US EVA tools were transferred from the USOS to the RS. The Russian EVA is planned for Thursday, July 21. 
+SpX-25 Arrival Preparations: Several activities were completed by the crew in preparation for the arrival of SpX-25 vehicle to the ISS on July 16th. Crew prepacked bags for SpX-25 return and reviewed the ISS Homepage, Ops Products tab, Controlled Documents, and Motion Control System, Rendezvous and Proximity Operations Program (RPOP), Multipurpose Laboratory Module Terminal Computer (MLMTC) Restart Monitoring for Dragon Docking, and videos of nominal and off-nominal Dragon approaches. These reviews were followed by a debrief and Q&A session with SpX-25 ground team and instructors.
+Water Recovery System (WRS) Contingency Water Container (CWC) – Iodine Fill: Water was transferred from the Potable Bus into a CWC – Iodine container using the Potable Water Dispenser (PWD). Iodine was added to purify the water. The crew monitored the offload time as a secondary control to protect the CWC – Iodine from over-pressurization. The CWC is a soft container with an inner bladder that can store a variety of liquids including humidity condensate, wastewater, and other unique fluids such as EVA Mobility Unit (EMU) wastewater.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+PPS High Beta Operations
+JEM Airlock Operations
+EPS ORU Weekly Preemptive Refresh
+Crew Dragon System Checkout
+JEM MAXI File Uplink
+

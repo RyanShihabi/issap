@@ -1,0 +1,96 @@
+
+45 Soyuz (45S) Launch and Dock:  45S successfully launched from the Baikonur Cosmodrome at 5:03 am CST this morning with Malenchenko, Peake, and Kopra onboard.  45S executed a nominal 4 orbit rendezvous and docked to the ISS Mini-Research Module (MRM)-1 at 11:33 am CST.  Docking was completed in manual mode following a failed thruster message during the initial automated approach.  With the arrival of the 45S crew, the ISS crew complement increased from 3 to 6 crewmembers.
+ 
+Observation and Analysis of Smectic Islands in Space (OASIS):  Kelly exchanged the OASIS samples in the Microgravity Science Glovebox (MSG) today. OASIS studies the unique behavior of liquid crystals in microgravity, including their overall motion and the merging of crystal layers known as smectic islands. Liquid crystals are used for display screens in televisions and clocks, and they also occur in soaps and cell membranes. The experiment allows detailed studies of the behavior of these structures, and how microgravity affects their unique ability to act like both a liquid and a solid crystal.
+ 
+Russian Pilot-T Experiment:  Kelly performed a session of the Russian experiment Pilot-T today. The goal of Pilot-T is to improve methods and develop equipment to assess and predict crewmember performance reliability during the execution of complex operator tasks (such as piloting a space vehicle or controlling transport and robotic equipment on the surface of a spacecraft) during various stages of long-term spaceflight.
+ 
+Veg-01:  Kelly refilled the Veg-01 plant pillows with water on Saturday and again today. The Veg-01 investigation is used to assess on-orbit function and performance of the Veggie facility, focusing on the growth and development of seedlings in the spaceflight environment and the composition of microbial flora on the plants and the facility.  For this run, Zinnias will be grown for 60 days and are expected to produce flowers.
+ 
+Journals:  Kelly completed a Journals entry today. The Journals investigation obtains information on behavioral and human issues that are relevant to the design of equipment and procedures used by astronauts during extended-duration missions. Study results provide information used in preparations for future missions to low-Earth orbit and beyond.
+ 
+Space Headaches:   Later this afternoon, Peake will complete the first of a week of daily Space Headaches questionnaires.  The daily questionnaires are only scheduled immediately after arrival of a new crewmember to the ISS.  Weekly questionnaires will be completed in subsequent weeks.  Headaches can be a common complaint during spaceflight. The Space Headaches experiment will provide information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space.
+ 
+Vozdukh Status:   Vozdukh experienced an anomaly on Thursday of last week. Several attempts to reactivate the system had been unsuccessful.  Russian Life Support Specialists suspected a failure of the vacuum pump and scheduled additional troubleshooting.  On Monday, the Russian Crew performed the troubleshooting in order to verify the failed component and then successfully performed a vacuum pump change out.  Vozdukh is now operating nominally.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Soyuz ODF Procedures №719
+ISS – HAM RADIO Power Down
+PILOT-T. Preparation for Experiment
+Closing USOS Window Shutters
+Review TV Coverage procedure “Hatch Opening from MRM1” and “Arrival of Expedition 46”
+PILOT-T. Experiment Ops
+Closing window 6,8,9,12,13,14 shutters
+Filling (separation) of EDV (KOV) for Elektron or EDV-SV. Separate KOV No. (00063570R)
+RS Arriving Crew CQ outfitting
+Gas Analyzer Activation in ТК 718
+СОЖ Maintenance
+Soyuz 718 Samsung Tablet Recharge – Initiate
+OASIS – Sample Swap
+PILOT-T. Closeout Ops
+On MCC GO ISS Repress from Progress 428 (DC1) СрПК Section 1 – initiate
+Water Recovery System (WRS) Drain Waste Water Tank, initiate
+On MCC GO ISS O2 Repress from ТКГ 428 (DC1) СРПК Section 1 – terminate
+MPEG2 Multicast Test via Ku-band (Activation/Deactivation of TV data and MPEG2 Multicast controls)
+Soyuz 718 Samsung Tablet Recharge – terminate
+Preparation for Soyuz 719 Docking
+СТТС configuration for ТК 719 docking to MRM1. Comm check with Soyuz 719 via RSA2-S/G2
+Monitoring Soyuz 719 Rendezvous with ISS (MRM1)
+Activation of TV Data and MPEG2 Multicast Monitoring Equipment
+On MCC GO Activation of mpeg2 multicast video recording mode
+Water Recovery System (WRS)  Drain Waste Water Tank, terminate
+On MCC GO Switch MRM1-ТК PEV to ELECTR CONTR position
+Comm config after Soyuz 719 docking
+Closing Applications and Downlink of MPEG2 Multicast video via OCA
+BIOSIGNAL. Installation of Cryogem-03
+INTERACTION-2. Experiment Ops
+On MCC GO ТК 719 – MRM1 Interface Leak Check. Start Drying 2 space suits
+Hardware Setup in SM and checkout for “Expedition 46 Arrival” TV PAO Coverage from SM
+Disconnecting TVS Camera КЛ-153М from МRM1 TVS
+CONTENT. Experiment Ops
+Hardware Setup in MRM1 for “Hatch Opening from MRM1” TV PAO Coverage from SM and Test Checkout from MRM1
+WRS – Recycle Tank Fill
+TV Coverage “Soyuz 719- MRM1 Hatch Opening”, TV Coverage “Expedition 46 Arrival”
+Soyuz 719-MRM1 Hatch Opening, TV coverage “Expedition 46 Arrival”
+VEG-01 – Refilling Root Mat with Water
+JRNL – Journal Entry
+Safety briefing after ТК 719 docking
+Handover of the 3rd space suit and gloves for drying in Soyuz 718
+Comm reconfig for nominal ops
+Drying the 3rd spacesuit in Soyuz 718 – start
+Terminate drying suits 1,2, in Soyuz 719
+On MCC GO Closing Applications, Deactivation of camcorders and TV  data monitors
+Installing the 1st pair of gloves for drying in Soyuz 719
+ТК 719 Deactivation (without Gas Analyzer deactivation)
+CEVIS Exercise
+Connecting TV Camera КЛ-153М to MRM1 TVS
+SHD1ST – Survey Questionnaire Completion
+Terminate drying the first pair of gloves and start drying the second pair in Soyuz 719
+Soyuz 719 Deactivation (without Gas Analyzer deactivation)
+INTERACTION-2. Experiment Ops
+Terminate Drying the Second Pair of Gloves in Soyuz 719
+Stowage of the 1st and the 2nd suit and gloves in TK 719 after drying
+Terminate drying the 3rd suit, start drying the 3rd pair of gloves in TК 718
+Terminate Drying the 3rd pair of Gloves in Soyuz 718
+Handover of the 3rd space suit and gloves after drying in ТК 718
+Stowage of the 3rd suit and gloves in TK 719 after drying
+Closing USOS Window Shutters
+Closure of SM window shutters No.6,8,9,12,13,14
+ECON-M. Observation and Photography
+Preparation of Reports for Roscosmos Web Site and Social Media
+Installation of inserts to ease opening of SM interior panel locks (Unstow Элементы конструкции (Structural Elements) kit (004890R), ФГБ1ПГО_4_427_1, СТВ No.1112 (004106J)
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+System commanding associated with 45S rendezvous and dock
+
+ 

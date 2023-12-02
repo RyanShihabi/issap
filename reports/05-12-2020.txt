@@ -1,0 +1,20 @@
+
+Payloads
+AstroPi: Following the successful conclusion of the ESA European AstroPi challenge, the AstroPi IR (infrared) unit was transferred from Node 2 back to the Columbus module.  In the European AstroPi Challenge, students and young people are offered the amazing opportunity to conduct scientific investigations in space by writing computer programs that run on Astro Pi’s – special Raspberry Pi computers aboard the ISS.  Students can choose either ‘Life in Space’ or ‘Life on Earth’ as themes for their experiments.
+JAXA Payload Laptop (PLT) activation: In support of the HTV Wireless LAN Demo, the crew activated Payload Laptop Terminal 3 (PLT-3).  This laptop will be used to verify a link can be established with an external Wireless Access Point.  HTV Wireless LAN Demonstration (HTV WLAN Demo, or simply WLD) will demonstrate real-time wireless video transfer between the International Space Station (ISS) and a visiting spacecraft. Autonomous docking technology is important for future missions, such as to the Moon and Mars, that will be unable to rely on human operations the same way as current vehicle logistics. Stable and high-rate data transfer is critical to the real-time video monitoring required for docking.
+Systems 
+Environmental Health System (EHS) Operations:  Today, the ISS crew performed periodic EHS water sampling and Air Quality Monitoring (AQM) semi-annual maintenance.  Crew collected water samples from the Potable Water Dispenser (PWD) to perform a Total Organic Carbon Analyzer (TOCA) analysis that measures the amount of organic constituents in the potable water.  The crew also tested the water samples for the presence of Coliform bacteria utilizing a Coliform test bag. These two tests are used to determine if the drinking water is still safe for crew consumption. As part of routine maintenance, the crew replaced the sieve cartridges in the AQM and vacuumed the vents.
+Completed Task List Activities:
+
+SSC22 Relocate
+PMM1P4 RSR Cleanout (ongoing)
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+UPA PCPA Pumpdown
+CCSR18 NH3 Timer Patch Load
+BGA biasing PPL update for high beta
+JEMRMS Ops to video survey
+

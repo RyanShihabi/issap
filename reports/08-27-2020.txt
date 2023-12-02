@@ -1,0 +1,19 @@
+
+Payloads
+Combustion Integrated Rack/Advanced Combustion via Microgravity Experiments (CIR/ACME):  The crew performed the steps necessary to reconfigure the CIR/ACME hardware components from the completed s-Flame part 2 experiment to BRE part 2 (Burning Rate Emulator), which is one of the ACME suite of five experiments.  Although the crew was not able to locate and install igniter arm 2, the currently-installed igniter arm 1 was left in the system and will be assessed for acceptable alignment and function with the burner head during checkout.  The BRE experiment runs are focused on spacecraft fire prevention. More specifically, BRE’s objective is to improve our fundamental understanding of materials flammability and to assess the relevance of existing flammability test methods for low and partial-gravity environments.
+Food Physiology: The crew participated in a Food Physiology diet briefing with the ground team. The Integrated Impact of Diet on Human Immune Response, the Gut Microbiota, and Nutritional Status During Adaptation to Spaceflight (Food Physiology) experiment is designed to characterize the key effects of an enhanced spaceflight diet on immune function, the gut microbiome, and nutritional status indicators. These factors are interlinked, but diet is the only one that can be easily and meaningfully altered on Earth or during flight. This investigation aims to document the effect of dietary improvements on human physiology and the ability of those improvements to enhance adaptation to spaceflight.
+Systems
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: The crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Backup Control Center (BCC) Ops Status: Hurricane Laura made landfall overnight in Cameron, LA located approximately 125 miles east of the MCC-H. The Houston area remained unscathed by the impacts of the storm. The BAT team will continue to support ISS operations through the Orbit 1 shift tonight. The BAT team will hand over to the Houston team tomorrow at the Orbit 1 to Orbit 2 handover. The Orbit 2 team will begin the shift logged into the BCC activity and will transition to nominal ops on the MCE activity towards the end of the shift. The flight control team anticipates the Mission Control Center in Houston (MCC-H) will be configured for the Orbit 3 team to log into the MCE activity.
+Completed Task List Activities:
+
+PCS Laptop Relocate
+Food Consolidation
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Atmosphere Revitalization System (ARS) Thermal Amine Vent
+Ground Support for CIR Ops
+

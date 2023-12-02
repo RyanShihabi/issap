@@ -1,0 +1,78 @@
+
+ENERGY (Astronaut’s Energy Requirement for Long-Term Space Flight): Today, FE-5 completed Day 7 of the 11 day ENERGY experiment. In addition to today’s water and urine samples, the 11 day ENERGY experiment requires FE-5 to continue logging his dietary intake and wear the armband that monitors his activities. The Energy investigation measures an Astronaut’s Energy Requirements for Long-Term Space Flight, a crucial factor needed for sending the correct amount of the right types of food with space crews. Astronauts often lose body mass with extended stays in space for reasons that remain unclear, although increased exercise as a microgravity countermeasure may be a factor. Knowing details of astronaut metabolism and activity, combined with other conditions, will help ensure that crews are properly nourished on long missions. 
+Fluid Shifts: Today, the crew completed Fluid Shifts operations by configuring the Refrigerated Centrifuge for sample load operations, conducting body (blood, urine, and saliva) sample collections and stowing the samples into a Box Module within a MELFI (Minus Eighty-degree Freezer for ISS) Rack. The crew also collected a galley water sample and stow in the MELFI prior to ingestion of a Tracer solution from the Tracer Syringe. Fluid Shifts is a joint USOS-Russian experiment that measures how much fluid shifts from the lower body to the upper body, in or out of cells and blood vessels, and determines the impact these shifts have on fluid pressure in the head, changes in vision and eye structures.
+Vascular Echo Resting Ultrasound Scan and Blood Pressure Operations: With support from the Vascular Echo ground team, the FE-5 installed the Ultrasound 2 probe and ECG Cable, configured the Ultrasound 2 software and the VOX, and attached the ECG Electrodes, marked the arteries, and performed the ultrasound scans. The crew also performed 3 consecutive blood pressure measurements using the Cardiolab (CDL) Holter Arterial Blood Pressure (BP) Unit. This Canadian Space Agency (CSA) investigation examines changes in blood vessels, and the heart, while the crew members are in space, and then follow their recovery on return to Earth. The results could provide insight into potential countermeasures to help maintain crew member health, and quality of life for everyone.
+Thermolab Instrumentation for Circadian Rhythms: Today, FE-5 began the first of a three day European Space Agency (ESA) Circadian Rhythms experiment by donning the Thermolab Double sensors which are to be worn for 36 hours. After the measurement was complete, the data was transferred and the hardware was stowed. The objective of the experiment is to get a better understanding of any alterations in circadian rhythms in humans during long-term space flights. Such knowledge will not only provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions. 
+At Home in Space Questionnaire: FE-6 completed a questionnaire for the At Home in Space investigation. This Canadian Space Agency (CSA) experiment assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the space craft by creating a home in space. At Home in Space uses a questionnaire battery to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth. 
+Oxygen Generation System (OGS) Inter-Module Ventilation (IMV) Flow Measurements:  This morning the crew performed an activity to remove the Kapton Tape shim from the Velocicalc probe and added Kapton tape shims to the OGS Velocicalc Adapter. It was found in the last use of the adapter that the shim added to the probe resulted in interference when trying to use adapters other than the OGS Velocicalc Adapter. Following this modification, the crew took two measurements of the OGS Cabin Air Inlet. One measurement utilized the OGS Velocicalc Adapter, while the other did not. These readings will be used to compare against each other and calibrate the ground team to previous readings that have been taken at this location. 
+Cygnus Capture Self Study: FE-5 and FE-6 used Robotic Onboard Trainer (ROBoT) to simulate Cygnus 2 meter approaches, 30 meter approach and Capture Point (CP) Hold.   
+Crew Quarters (CQ) Solid State Lighting Assembly (SSLA) Installation:  Today, FE-6 installed a SSLA into the Starboard CQ. The SSLAs were designed to replace General Luminaire Assemblies (GLAs) to improve visual acuity and to provide a crew health countermeasure for circadian rhythms, sleep, alertness and performance. To accomplish these goals, SSLAs are designed to operate in 3 modes with 3 distinct spectrum. The different spectrum provide control of the blue portion of the light which impacts melatonin production in humans which impacts sleep.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+FLUID SHIFTS. Saliva Test, Subject
+FLUID SHIFTS. MELFI Urine Sample Insertion
+FLUID SHIFTS. Urine Collection, Subject
+FLUID SHIFTS. Basic blood collection, Subject
+Fluid Shifts Blood Collection – Operator
+FLUID SHIFTS. Water Collection from the Galley and taking radioisotope marker, Subject
+Fluid Shifts Refrigerated Centrifuge Configuration
+ENERGY Diet Log of Breakfast
+Tropical Cyclone Hardware Closeout
+FLUID SHIFTS. Conclude Centrifuge Spin
+SPHERES Battery Setup
+Fine Motor Skills Experiment Test – Subject
+ISS CREW/SSIPC CONFERENCE
+At Home In Space Questionnaire
+Environmental Health System (EHS) Acoustic Dosimeters – Data Transfer and Stow
+ENERGY Water Sample
+FLUID SHIFTS. Urine Collection, Subject
+Energy Urine Sample Collection
+FLUID SHIFTS. MELFI Urine Sample Insertion
+SPHERES Battery Swap
+FLUID SHIFTS. 3-Hour Blood Collection, Subject
+Fluid Shifts Refrigerated Centrifuge Configuration
+FLUID SHIFTS. 3-hour Saliva Collection, Subject
+FLUID SHIFTS. MELFI Urine Sample Insertion
+Science Box Locker Prep
+FLUID SHIFTS. Conclude Centrifuge Spin
+FLUID SHIFTS. MELFI Urine Sample Insertion
+FLUID SHIFTS Blood Collection
+Ultrasound 2 HRF Rack 1 Power On
+Vascular Echo Leg Cuffs Ultrasound Scan 1
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Oxygen Generation System Flow Measure Placeholder
+TV Conference with the Participants of World Space Week in Kostroma
+FLUID SHIFTS. 5-hour Saliva Collection, Subject
+SPHERES Battery Swap
+VIBROLAB. Monitoring hardware activation
+Multi Omics FOS Stow
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Self-study Session
+ENERGY Diet Log of Lunch
+Multi Omics FOS Preparation
+CSA Generic Frozen Blood Collection Setup
+Filling up Progress 432 [AO] СрПК Section 2 with N2
+MELFI Ice Brick Insert
+СОЖ Maintenance
+Meteor Hard Drive Swapout
+Manufacturing Device Print Removal, Clean and Stow
+EarthKAM. Camera Lens Change
+IMS Delta File Prep
+Fluid Shifts Hardware Battery Installation
+SPHERES Battery Swap
+Vascular Echo Leg Cuffs Ultrasound Scan 2
+Robotic Workstation (RWS) Teardown
+Circadian Rhythms Instrumentation
+VIBROLAB. Copy and Downlink Data
+
+Completed Task List Items
+
+Node 1 Port Hatch Seal Cleaning
+Starboard CQ SSLA Install
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Cygnus PROX Checkout
+Battery 4B2 Reconditioning
+

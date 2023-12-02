@@ -1,0 +1,75 @@
+
+Capillary Flow Experiment (CFE) Interior Corner Flow (ICF) Test: Flight Engineer (FE)-6 Gerst set up hardware on the Maintenance Work Area (MWA) and conducted ICF test using the ICF8 hardware which contains a segmented, 50 degree snow cone section. CFE ICF studies capillary flow in interior corners of vessels with various geometries. Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can be used to improve propellant management aboard spacecraft.
+Force Shoes: Gerst performed Treadmill 2 (T2) exercise using the Force Shoes which measured exercise loads experienced during T2 exercise. Ground teams will analyze the loads data and compare it with the data from T2 in order to calibrate the Force Shoes. Once the data is calibrated, the crew will conduct four sessions of Advanced Resistive Exercise Device (ARED) exercise with the Force Shoes to characterize the loads between the crew member and ARED.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Resonant Inductive Near-field Generation System (Rings): FE-5 Wiseman and Gerst integrated the Rings hardware with the SPHERES hardware and conducted a test session. The investigation uses the SPHERES platform and is designed to demonstrate and test, in a complex environment, enhanced technologies, and techniques related to micro electromagnetic formation flight and wireless inductive power transfer. By advancing the knowledge base with regards to inter-satellite attitude control and wireless power transfer, future systems can expect enhanced attitude control performance between separate satellites and potentially the ability to efficiently transfer power at a distance, possibly alleviating the need for alternate or expendable power sources.
+Gradient Heating Furnace (GHF) Software Update:  Gerst performed several setup steps to allow the ground teams to update the GHF with new software in preparation for the Alloy Semiconductor investigation. There was a delay while loading the software, but it was completed successfully.  There are some remaining cleanup steps that will be completed at a later time.  He also removed the Hicari sample cartridge from the GHF in preparation for return on SpaceX-4. After successful completion of the software update, ground teams will conduct a nine-day checkout for Alloy Semiconductor. They Alloy Semiconductor investigation aims to develop a clear understanding of how semiconductor materials grow and crystallize in microgravity. The materials studied are also known to be useful as devices which convert heat into electricity (thermoelectrics). These studies may ultimately shed light on how higher quality crystals may be derived from other materials or incorporated into other devices such as solar cells. 
+Node 2 (N2) Nadir Centerline Berthing Camera System (CBCS) Installation: In preparation for Orb-2 berthing scheduled next Tuesday, Wiseman installed the CBCS and related avionics required for a visiting vehicle mating to N2 nadir.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+Acoustic Dosimeter Ops [Complete]
+ESA Weekly Crew Conference [Complete]
+SEISMOPROGNOZ. Data downlink from БСПН via RSS1 (start) / r/g 6075 [Complete]
+MRM2 comm config to support voice comm during the experiment [Complete]
+Centerline Berthing Camera System (CBCS) Equipment Gather  [Complete]
+GHF – Software Load Preparation [Complete]
+Kulonovskiy Kristall Experiment Run. / r/g 6074 [Complete]
+ТКГ 427 Stowage and IMS Ops / r/g 5987 [Complete]
+WSTA Fill  [Complete]
+Photo of Vozdukh Atmosphere Purification System installation area / r/g 6081 [Complete]
+CFE – Hardware Test Ops Review [Complete]
+Centerline Berthing Camera System (CBCS) Installation and Checkout [Complete]
+Capillary Flow Experiment (CFE) – Work surface preparation [Complete]
+KULONOVSKYI KRISTALL. Copy and Downlink Data via РСПИ / r/g 6074 [Complete]
+Vacuum Pressure Gauge Accuracy Check / r/g 6076 [Complete]
+Food Frequency Questionnaire [Complete]
+Restore Nominal Comm Configuration [Complete]
+JRNL – Journal Entry [Complete]
+Capillary Flow Experiments (CFE) Hardware Setup [Complete]
+Life On The Station Photo and Video / r/g 5720
+SM Ventilation System Preventive Maintenance. [Complete]
+AU-UBNT – Locating AU Ultrasonic Background Noise Test Battery [Complete]
+Capillary Flow Experiment (CFE) – Test Ops [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+СОЖ Maintenance [Complete]
+Preparation for RS ISS Window Inspection and Photography (Procedure and r/g review) + r/g 6077 [Complete]
+SEISMOPROGNOZ. Data downlink from БСПН via RSS1 (terminate) / r/g 6075 [Complete]
+SPHERES Crew Conference [Complete]
+Video Footage of Greetings / r/g 6082 [Complete]
+CFE Teardown [Complete]
+SPHERES – Camera Setup and Video Recording [Complete]
+Life On The Station Photo and Video / r/g 5720 [Complete]
+ТКГ 427 Stowage and IMS Ops / r/g 5987 [Complete]
+Inspection and Photography of RS SM window 9 panes. + r/g 6077 [Complete]
+GHF – Software Loading (Closeout Ops) [Deferred]
+HICARI – Cartridge removal from SCAM [Complete]
+G1 – Camcorder Closeout Ops [Complete]
+SPHERES – Experiment Ops [Complete]
+VZAIMODEISTVIYE. Experiment Ops / r/g 5391 [Complete]
+MSL – Sample Cartridge Exchange [Complete]
+Download Pille Dosimeter Readings / r/g 6078 [Complete]
+JRNL – Journal Entry [Complete]
+IMS and Stowage Conference [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+IMS Delta File Prep [Complete]
+SPHERES – Deactivation, Checkout, and Stowage [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+Flight Director/ISS Crew Tagup [Complete]
+Daily Planning Conference (S-band) [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO Replacement
+WHC-ЕДВ-У R&R
+Roscosmos Report
+Econ photo
+3DA1 cam ops
+USPL ORB2 TRASH #1 [Complete]
+USPL ORB2 TRASH #2 [Complete]
+
+Ground
+Nominal commanding

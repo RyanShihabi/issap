@@ -1,0 +1,23 @@
+
+Payloads
+Combustion Integrated Rack/Advanced Combustion via Microgravity Experiments (CIR/ACME)/BRE-2: The crew exchanged a 40% oxygen/60% nitrogen bottle at the manifold 2 location for a new bottle with the same composition.  They also replaced the ethylene manifold 4 bottle with a methane bottle, but were not able to open the bottle valve.  CIR powered ops for today have been cancelled while the ground team discusses the issue.  This was performed in support of the continuing BRE part 2 (Burning Rate Emulator) investigation, which is one of the ACME suite of five gas combustion experiments.  The BRE experiment runs are focused on spacecraft fire prevention. More specifically, BRE’s objective is to improve our fundamental understanding of materials flammability and to assess the relevance of existing flammability test methods for low and partial-gravity environments. 
+Radi-N2 Deploy: Following retrieval from the Russian crew, the eight bubble detectors were deployed in the Cupola area where they will remain for one week.  The objective of this Canadian Space Agency investigation is to better characterize the ISS neutron environment, define the risk posed to the crew members’ health, and provide the data necessary to develop advanced protective measures for future spaceflight.  It’s been recognized that neutrons make up a significant fraction (10-30%) of the biologically effective radiation exposure in low-Earth orbit.  The bubble detectors used in the investigation are designed to detect neutrons and ignore all other radiation.
+Systems
+Toilet Power Cable Install:  The crew routed a power cable to support the future installation of the new Toilet System. The cable was delivered on SpX-20 and was identified as a get ahead task in preparation for the new Toilet system arriving on NG-14. The Toilet Power Cable will provide power to the Toilet by connecting Node 3 power to the Toilet Power Box.
+Ultrasound Eye Exam: Today the crew used an ultrasound device to perform an eye scan, one of several routine ultrasound eye exams during their stay on ISS. Eye exams are performed regularly onboard in order to monitor crewmember’s eye health.  Eyesight is one of many aspects of the human body affected by long-duration stays in a microgravity environment.
+In Flight Maintenance (IFM) Ultrasonic Leak Detector Setup: Today, the crew setup and tested the Ultrasonic Leak Detector. The objective was to verify functionality of the PMA1 ULD in preparation for potential upcoming leak checks in the Russian Segment. The crew confirmed all components were functional. 
+Temperature and Humidity Control (THC) Intermodule Ventilation (IMV) Flow Measurement:  As part of system health monitoring, the crew used a Velocicalc tool to measure the amount of airflow through selected ventilation inlets and outlets.  Today’s measurements were taken in the Cupola and Bigelow Expandable Aerospace Module (BEAM).
+Completed Task List Activities:
+
+WHC Hardware Consolidate
+Electrostatic Levitation Furnace (ELF) Software upload Cable Disconnection
+JEM Stowage Consolidation for NG-14 Part 2
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+IAS RAUI 3 Troubleshooting (ongoing)
+IAS Config for MRM1 Ops
+Lab MCA Zero Calibration
+MSS Application Computer (MAC) Freespace Commissioning
+

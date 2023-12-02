@@ -1,0 +1,93 @@
+
+Bio-Monitor: Today a crewmember swapped out donned hardware with the spare garment and headband hardware to continue the 48 hour data recording session. The primary hardware garment was stowed. Although the ISS is equipped with health and life sciences research tools, the existing instrumentation for continuous and simultaneous recording of several physiological parameters is lacking. To tackle this issue, the Bio-Monitor Commissioning activity tests the Bio-Monitor facility; a wearable garment capable of monitoring relevant physiological parameters for up to 48 hours in a non-invasive and non-interfering way.
+Moon Imagery (Optical Nav): Today a crewmember performed operations for the Optical Nav experiment using the Cupola window using the moon as the target point. If a spacecraft loses communication with the ground or with NASA’s Deep Space Network, its crew must navigate just as ancient mariners did, using the moon and stars. The Moon Imagery investigation collects pictures of the moon from the ISS, which are used to calibrate navigation software to guide the Orion Multi-Purpose Crew Vehicle in case its transponder-based navigation capability is lost. Crewmembers photograph the moon’s phases during one 29-day cycle, providing images of varying brightness to calibrate Orion’s camera software.
+Japanese Experiment Module – Exposed Facility (JEM EF): Today crewmembers reconfigured the JEM Airlock by removing the MISSE Transfer Tray and installing the MPEP (Multipurpose Experiment Platform) on to the JEM Airlock Slide table. This reconfiguration is in preparation for NRCSD Mission 15 installations. The JEM-EF is a unique platform on the ISS that is located outside of the Japanese Experiment module (JEM), Kibo (Hope) and is continuously exposed to the space environment. Astronauts exchange payloads/payload facilities from the JEM through the scientific airlock using the JEM Remote Manipulator System. Payloads/payload facilities positioned on the exterior platform focus on Earth observation, as well as, communication, scientific, engineering and materials science experiments.
+Northrop Grumman 10 (NG-10) Cygnus Cargo Operations: The crew continued Cygnus cargo operations in preparation for the vehicle departure, currently planned for February 8.
+Remote Power Control Module (RPCM) LA1A4A_A Trip: This morning after the Life Support Rack (LSR) activation, RPCM LA1A4A_A Remote Power Controller (RPC) 2 tripped open. This RPC, which provides main power to LSR was reported to have tripped following ground commanding LSR to standby mode. Telemetry confirmed the trip was caused by a real overcurrent event. This is the second trip of this RPC since LSR installation.  Ground teams are assessing a forward plan.
+Completed Task List Activities:
+
+WHC KTO Replace
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Battery 4A3 Reconditioning (Ongoing)
+
+Two Day Look Ahead:    
+Wednesday, 01/30
+Payloads:
+
+Bio-Monitoring Doffing (CSA)
+Kubik 5 Upgrade (ESA)
+Lighting Effects logs(NASA)
+NRCSD-15 Deployer install (NASA)
+Meteor HD changeout (NASA)
+Circadian Rhythms (ESA)
+Team Task Switching (NASA)
+Actiwatch Plus check (NASA)
+CIR ACME hardware replacement (NASA)
+
+Systems
+
+Cygnus Cargo Operations
+Node 3 Deck Starboard InterModule Ventilation (IMV) Cleaning
+Battery 4A3 Reconditioning
+
+ Thursday, 01/31
+Payloads:
+
+Bio-Monitoring hardware stow (CSA)
+MSPR Florescence Microscope install (JAXA)
+NRCSD-15 Deploy photography (NASA)
+ACME hardware replacement (NASA)
+Lighting Effects Post sleep Log (NASA)
+Vascular Echo Video Troubleshooting (CSA)
+
+Systems
+
+Cygnus Cargo Operations
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+МО-8. Configuration Setup
+MO-8. Body Mass Measurement
+Body Mass Measurement – BMMD
+МО-8. Closeout Ops
+Optical Nav Camera Set Up
+Transfer Cygnus Cargo Operations
+Measurements in the Central Post area to design a table for the ISS RS Central Post
+Optical Nav Camera Preparation
+Structures and Mechanisms (S&M) JEM ORU Xfer I/F (JOTI) Gather
+XF305 Camcorder Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+JEM ORU Xfer I/F Removal
+Transfer Cygnus Cargo Operations
+JEM Active Mechanism Tether Loop Installation
+MPEP and Passive Capture Mechanism Installation to JEM Airlock Slide Table
+Optical Nav Camera Operations
+MPEP Installation to JEM Airlock Slide Table Support
+Prep to replace ALB board with NALB board in FCR No.R109 (spare)
+Bio-Monitor Wearables Change Out
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Optical Nav Camera Preparation #2
+Lighting Effects Visual Performance Tests Light Setting
+R&R Pretreat and Water Dispenser (ДкиВ) and the line
+Optical Nav Camera Operations #2
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ
+Environmental Health System (EHS) – Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Analysis T + 5
+СОЖ maintenance
+Bio-Monitor Wearables Stow
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+PILLE Dosimeter Reading
+NanoRacks CubeSat Deployer Installation Procedure Review
+Transfer Cygnus Cargo Operations
+INTERACTION-2. Experiment Ops
+Cygnus Cargo Operations Conference
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+
+ 
+ 

@@ -1,0 +1,104 @@
+
+Transition to (X2) R15 Software:  As part of the R15 software transition, the Payload (PL) Multiplexer/Demultiplexers (MDMs) were transitioned to updated software Payload Executive Processor R12 (PEP R12) today. Updates to the PL MDMs include: 
+
+Redundancy Management Time Reduction
+
+Additionally, the Lab-1 (LA-1) MDM was transitioned to Lab System-R5 (LSYS1-R5) software. Updates to the LA-1 MDM includes:
+
+Checksum region expanded to include restart vector
+Common Cabin Air Assembly (CCAA) setpoint telemetry updates
+
+Tomorrow, the Port 1 (P1) and Starboard 1 (S1) MDMs will be updated to new software.
+Capillary Flow Experiment-2 Interior Corner Flow-9 (CFE ICF-9): The crew used a CFE-2 vessel to perform several Interior Corner Flow tests that show the passive capillary driven redistribution of liquid in a container in low-gravity due to the specific fluid properties and 3-D geometry of the container and the spontaneous phase separation characteristics of such flows when bubbles are introduced into the liquid. CFE-ICF studies capillary flow in interior corners. Structured inside tanks providing interior corners are used in the design of fuel tanks so that the fuel will always flow to the outlet of the tank in the absence of gravity. The equations governing the process are known but, to date, have not been solved analytically because of a lack of experimental data identifying the appropriate boundary conditions for the flow problem. Experimental results will guide the analysis by providing the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can then be used to improve propellant management aboard spacecraft.
+JEM Airlock (JEMAL) Operations: The crew removed the Robotics External Leak Locator (RELL) and JEM ORU Transfer Interface (JOTI) from the JEMAL Slide Table this morning following this past weekend’s successful operations.  The crew then installed the Small Fine Arm Attachment Mechanism (SAM) and Multi-Purpose Experiment Platform (MPEP) on the Slide Table.  Later this week, the crew will install NanoRack Cubesat Deployer (NRCSD) #10 which will be deployed after SpaceX-10 and 66 Progress have docked to the ISS.
+Human Research Facility (HRF) Collections: Upon wakeup the crew performed their Flight Day 120 (FD120) Biochemical Profile and Repository blood and urine collections.  The samples collected were placed in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body. Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+Radio Frequency Identification (RFID) Logistics: Yesterday, the crew installed antennas in the Lab and Node 1 modules.  After activation, ground teams identified Node 1 Reader 1 was not providing data.  Based on downlink photos teams determined that a power cable was not connected.  Today, the crew completed the RFID Logistics hardware in Node 2 and successfully connected the power cable to the Node 1 Reader 1 recovering the Node 1 capabilities. The RFID Logistics experiment aims to utilize RFID enabled tags on hardware throughout the ISS, and assist in the tracking of the hardware as it is moved around the station.  
+Solar Platform Powerdown: With the completion of the Solar experiment the Solar platform was unpowered for the final time.  The Solar platform is planned to return on SpaceX-12. Solar is a monitoring observatory that will measure the solar spectral irradiance. Apart from scientific contributions for solar and stellar physics, the knowledge of the solar energy irradiance into the Earth’s atmosphere and its variations is of great importance for atmospheric modeling, atmospheric chemistry and climatology. The three experiments mounted on Solar are Solar Variable and Irradiance Monitor (SOVIM) observing the near-ultraviolet, visible and thermal regions of the spectrum (200 nanometers – 100 micrometers); SOLar SPECtral Irradiance Measurements (SOLSPEC) observing the 180 – 3000 nanometer range with high spectral resolution; and SOLar Auto-Calibrating Extreme UV/UV Spectrometers (SOLACES) measures the EUV/UV spectrum range (17 nanometers – 220 nanometers) with moderate spectral resolution.
+SpaceX-10 Preparation:  The crew, along with ground specialists, performed a nominal checkout the COTS UHF Communication Unit (CUCU) system.  Dragon Launch Commit Criteria (LCC) requires two fully functional ISS CUCU equipment strings. CUCU is critical for Relative Global Positioning System (RGPS) navigation and is required for Dragon telemetry and command during final R-bar approach when the Tracking and Data Relay Satellite (TDRS) link may be blocked by ISS structure. 
+Mobile Servicing System (MSS) Operations:  Overnight the Ground Robotic Controllers will stow the Special Purpose Dexterous Manipulator (SPDM), walk the Space Station Remote Manipulator System (SSRMS) off to Node2 Power Data Grapple Fixture (PDGF) and maneuver SSRMS to the offset grapple park position.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Calf Volume Measurement
+HRF Generic Frozen Blood Collection
+HRF Generic Refrigerated Centrifuge Configuration
+HRF Generic Refrigerated Centrifuge Spin Conclude
+RS lighting system audit (SM, MRM1, MRM2, DC1)
+XF305 Camcorder Setup
+СНТ25 and СНТ26 cable rerouting and reconnecting
+HRF Generic Sample MELFI Insertion
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Structures and Mechanisms (S&M) JEM ORU Xfer I/F (JOTI) and Robo Ext Leak Locator (RELL) Removal From JEM Airlock
+Structures and Mechanisms JEM ORU Xfer I/F Robo Ext Leak Locator Assist
+HRF Generic Urine Collection
+HRF Generic Sample MELFI Insertion Operations
+HRF Generic Frozen Blood Collection Conclude Stow
+HMS Tonometry Test Setup
+HMS Tonometry Test
+Small Fine Arm (SFA) Airlock Attachment Mechanism (SAM) installation To JEM Airlock (AL) Slide Table
+Study of veins in lower extremities
+Capillary Flow Experiments Interior Corner Flow Procedure Review
+HMS Tonometry Test Stow
+Capillary Flow Experiment MWA Preparation
+Capillary Flow Experiments Hardware Setup
+Study of veins in lower extremities
+Initiate water transfer from CWC-I to ЕДВ
+JEM Airlock Capture Mechanism Release
+Columbus Video Camera Assembly 2 Adjustment
+JEMRMS Multi-Purpose Experiment Platform Installation to Small Fine Arm Attachment Mechanism
+Columbus Payload Power Switching Box (PPSB) – Switch reconfiguration
+Capillary Flow Experiments Interior Corner Flow 9 Test Operations
+JEM Airlock Capture Mechanism Capturing
+Terminate water transfer from CWC-I to ЕДВ
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Mating СНТ telemetry connector
+HRF Generic Sample MELFI Retrieval Insertion Operations
+Fast Neutron Spectrometer Relocate from Lab to Node 1
+Capillary Flow Experiments Hardware Teardown
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+СНТ25 and СНТ26 cable rerouting and reconnecting
+СОЖ maintenance
+Glacier Desiccant Pack Swap
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Remove and Replace
+Columbus Payload Power Switching Box (PPSB) – Switch reconfiguration
+Glacier 5 Desiccant Pack Swap
+Vacuum Cleaning of ВД1 and ВД2 air ducts in DC1
+COTS UHF Communication Unit (CUCU) Activation
+Multi Omics Fecal Sample Operations
+IMS Update
+HRF Generic Sample MELFI Insertion Operations
+Multi Omics Fecal Sample MELFI Insertion
+Glacier 2 Desiccant Pack Swap
+Multi Omics Fecal Stow
+CONTENT. Experiment Ops
+Glacier 4 Desiccant Pack Swap
+Life On The Station Photo and Video
+Photo/TV CUCU Video Setup
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Checkout
+ESA ACTIVE DOSIMETER MOBILE UNIT SWAP
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Stow
+Photo TV CUCU Video Deactivation
+Camcorder setup to capture БД-2 exercise
+HRF Generic Sample MELFI Retrieval Insertion Operations
+Robotic Workstation (RWS) Setup
+OCT Exam
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Health Maintenance System (HMS) OCT Stow
+Closeout operations after video recording БД-2 Exercise
+
+Completed Task List Items
+
+Solid Waste Container [KTO] Replace
+Veggie 03 Pillow Watering
+SPHERES USB Download
+Restow Food BOBs
+Stow loose Urine Receptacles and Insert Filters
+Expedition New Earth Video-EXERCISE
+Occular Coherence Tomography (OCT) Set-up Demonstration
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+X2R15 Software transition – PL and LA-1 MDMs
+MSS Operations – SPDM stow, SSRMS walkoff N2
+

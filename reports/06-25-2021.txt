@@ -1,0 +1,28 @@
+
+United States On-orbit Segment (USOS) Extravehicular Activity (EVA) #76 – ISS Roll-Out Solar Array (IROSA) 4B Install: Today, EV1 (Thomas Pesquet) and EV2 (Shane Kimbrough) performed a 6-hour and 45-minute EVA and completed the following tasks with the support of Space Station Remote Manipulator System (SSRMS) operations provided by M1 (Megan McArthur) and M2 (Mark Vande Hei) for the IROSA 4B Install EVA:
+
+Release IROSA from the Flight Support Equipment (FSE)
+Install IROSA on the Port 6 (P6) 4B Mast Canister
+Connect IROSA Electrical Connectors
+Deploy P6 4B IROSA
+Retrieve Articulating Portable Foot Restraint (APFR) 3 and Return Intravehicle (IV)
+
+Ground teams confirmed that the P6 4B IROSA is performing nominally and supplying power to the 4B power channel. A full characterization of the P6 4B IROSA capability will be performed in September during Equinox testing. At full capability, the P6 4B IROSA is expected to provide up to 20kW of power in addition to the ~8kW of power provided by the legacy P6 4B ISS Solar Array totaling ~28kW for the 4B power channel. The P6 4B IROSA is the second of six IROSA installations planned for station upgrades. The next set of IROSAs are will be delivered to the ISS on Cargo Dragon SpaceX-25 which is planned to launch in 2022.
+Payloads
+Confocal Space Microscopy: The crew routed the thermal container cables for the Confocal Microscope and the ground performed a checkout of the connectivity. The Confocal Space Microscope is a JAXA facility that provides fluorescence images of biological samples aboard the ISS. Confocal Space Microscopy uses spatial filtering techniques to eliminate out-of-focus light or glare in specimens whose thickness exceeds the immediate plane of focus. With the Confocal Microscope, data can be obtained on the fundamental nature of cellular and tissue structure and functions in real-time.
+Oral Biofilms in Space (OBiS): The crew hydrated the OBiS Assembly session Packs 17-20 with Fluid Bag 2 into the Fluid Chamber and restowed into the Microgravity Experiment Research Locker Incubator (MERLIN) for incubation. Fluid Bag 2 is a fluid medium containing chemicals designed to promote bacterial growth along with oral care bioactives within the Fluid Chamber. OBiS studies the effect of gravity on the behavior of oral bacteria, including the structure of the bacterial community, and changes in bacterial response to common oral care agents. The findings could support development of novel treatments to fight oral diseases such as caries, gingivitis, and periodontitis. The investigation also could provide insights into how microgravity affects the microbiome of other mucosal surfaces in the body.
+Plasma Krystall-4 (PK-4): The crew executed two Run 4 operations by catching clouds of particles inside the PK-4 chamber using the PK-4 Human Computer Interface (HCI) software on the European Physiology Module (EPM) laptop. PK-4 is a scientific collaboration between ESA and Roscosmos performing research in the field of “Complex Plasmas”. Complex Plasmas are low temperature gaseous mixtures composed of ionized gas, neutral gas, and micron-sized particles. The micro-particles become highly charged in the plasma and interact strongly with each other, which can lead to a self-organized structure of the micro-particles, so-called plasma crystals. Experiments in the facility aim to study transport properties, thermodynamics, kinetics and statistical physics, non-linear waves, and instabilities in Complex Plasmas.
+Systems
+Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove & Replace (R&R): The crew completed routine maintenance to R&R the UR/IF. Following the R&R, the crew cleaned the WHC power supply, reactivated WHC, and performed a leak check to close out the activity.
+Cargo Dragon Operations: The crew performed cargo operations for Cargo Dragon SpaceX-22 (SpX-22). SpX-22 undock is scheduled for July 6th to return cargo and payloads to the ground.
+Completed Task List Activities:
+
+Photo/TV Node 1 Cable Swap
+WHC [KTO] and Solid Waste Receptacle R&R
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+IROSA 4B EVA Ground Commanding & Support
+Post-EVA ISS Configuration Commanding (In Work)
+

@@ -1,0 +1,109 @@
+
+58 Soyuz (58S) Launch and Docking: The 58S Soyuz launched from the Baikonur Cosmodrome this afternoon at 2:14 PM CT and completed a nominal 4 orbit rendezvous and docking to the ISS MRM1 Port at 8:01 PM CT. The 58S crew Aleksey Ovchinin, Nick Hague, and Christina Koch returned ISS to 6-crew operations after hatch opening at 10:09 PM CT. This evening, the entire ISS crew will conduct a Safety Briefing to familiarize the new Soyuz crew with potential hazards and available safety measures on-board ISS.  Each crewmember will practice their emergency egress routes and familiarize themselves with emergency equipment locations.
+ISS Experience Node 1 Setup: The crew set up Space Station Computer (SSC) 25 and the ISS Experience Z-Cam in order to capture a recording session. The ISS Experience creates a virtual reality film documenting daily life aboard the space station. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses.
+Time Perception: Using a head-mounted Oculus Rift display, headphones, finger trackball and laptop computer, the crew performed the Time Perception science sessions.  A program on the laptop induces visual and audio stimuli to measure a subject’s response to spatial and time perception in a microgravity environment. The accurate perception of objects in the environment is a prerequisite for spatial orientation and reliable performance of motor tasks. Time is fundamental to motion perception, sound localization, speech, and fine motor coordination.
+Common Video Interface Unit (CVIU)-8 Replacement: In January, the Remote Power Controller (RPC) for CVIU-8 tripped open. After several troubleshooting efforts by crew and ground teams, the problem was isolated to CVIU-8. Today, the crew replaced CVIU-8 with a new unit.  Flight Controllers then successfully activated the CVIU.  CVIUs provide an interface between camcorders and the ISS Video System fiber-optic lines. In addition to video signal conversion, the CVIU also supplies electrical power to the camcorders.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+ISS commanding in support of 58S rendezvous and dock
+
+Look Ahead:  
+Friday, 03/15 (GMT 074): (Crew Off-Duty)
+Payloads:
+
+
+None
+
+Systems:
+
+None
+
+Saturday, 03/16 (GMT 075):
+Payloads:
+
+
+ISS experience stow
+Veg-03H plant thin and pillow prime
+
+Systems:
+
+EVA Preparation
+
+EVA Procedure Reviews
+LCVG Water Fill
+EMU Water Recharge
+
+
+
+Sunday, 03/17 (GMT 076):
+Payloads:
+
+
+None
+
+Systems:
+
+EVA prep
+ARED crew handover
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Space Acceleration Measurement System Control Unit Activation
+Robot Startup
+Team Task Switching Experiment Survey
+Acoustic Monitor Data Transfer and Stow
+TIME experiment combined session (Setup + Science)
+СОЖ maintenance
+Team Task Switching Experiment Survey
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Installing Waste Water Filter Assembly on LSR Rack.
+TIME experiment combined session (Science + Stowage)
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+USOS Window Shutter Close
+Perfect Crystals Hardware Restow
+On Board Training (OBT) ROBoT T&C Self Study
+Soyuz 742 ODF Ops. Start drying two space suits
+ISS HAM Radio Power Down in Columbus
+ISS HAM Radio Power Down in Service Module
+Actiwatch Spectrum HRF Rack 1 Setup
+Troubleshooting for EDV 1258
+HRF Rack 2 Supply Kit Resupply
+Pressurization of Elektron-VM Liquid Unit before Activation
+СОЖ maintenance
+Actiwatch Spectrum HRF Rack 1 Stow
+In Flight Maintenance Common Video Interface Unit (CVIU 8) R&R LAB1D7
+ISS Experience Node 1 Setup
+Monitoring shutter closure on windows 6, 8, 9, 12, 13, 14. Note 7.
+Gas Analyzer Activation in Soyuz 741
+Review TV Coverage procedures Hatch Opening from MRM1 and Arrival of Expedition 59”
+Preparation for Soyuz 742 Docking
+USOS Window Shutter Close
+MPEG-2 Downlink Test via Ku-band (Activation/Deactivation of TV Data Monitoring and MPEG2 Multicast hardware)
+СТТС configuration for Soyuz 742 docking to MRM1. Comm check with Soyuz 742 in RSA-S/G2
+Monitoring Soyuz 742 Rendezvous with ISS (MRM1)
+Activation of TV Data and MPEG2 Multicast Monitoring Equipment
+On MCC Go Activation of mpeg2 multicast video recording mode
+On MCC Go Moding MRM1-SOYUZ PEV to ELECTR CONTR position
+Closing Applications and Downlink of MPEG2 Multicast Video via OCA
+ISS Experience Astronaut Log Recording
+Comm reconfig after Soyuz 742 docking
+On MCC Go Soyuz 742 – MRM1 Interface Leak Check
+Hardware Setup in SM for Expedition 59 Arrival TV PAO Coverage from SM
+ISS Experience Recording Stop
+Disconnecting КЛ-153М TV Camera from MRM1 TV System
+Hardware Setup in MRM1 for Hatch Opening TV Coverage from MRM1
+ISS Experience Recording Start
+Soyuz-MRM1 Transfer Hatch Opening
+ТПК-58S hatches open and PAO-TV-rep. Hatches open
+Handover of the 3rd space suit and gloves for drying in Soyuz 741
+Start drying the third space suit (Soyuz 741)
+
+ 

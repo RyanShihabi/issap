@@ -1,0 +1,78 @@
+
+SpX-15 External Cargo Status:  Last night ground specialists used the Space Station Remote Manipulator System (SSRMS) to extract ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) from the Dragon trunk and hand it off to the Japanese Experiment Module Remote Manipulator System (JEMRMS). The JEMRMS was then used to install ECOSTRESS at the Exposed Facility Unit (EFU)10 location.  Ground specialists successfully activated ECOSTRESS.  Tonight ground controllers will use the SSRMS to remove the empty Latching End Effector (LEE) Flight Support Equipment (FSE) from External Stowage Platform (ESP)-2 which will be installed in the trunk on Sunday, and then will extract the Launch on Need (LON) LEE from the Dragon trunk and install it at ESP-2. 
+Aerosol Samplers: Today the crew installed Passive Aerosol Samplers (PASs) to inlet and outlet vents in different locations in the ISS. The PAS have individual drawer-like surfaces covered with sticky carbon tape that will capture aerosols in the ISS air.  Aerosols are small particles suspended in the air. In the Earth’s atmosphere they include soot, dust, pollen and a wide range of other natural and human-made materials. Because smoke and dust do not move in microgravity the way they do on Earth, aerosols in the ISS air pose hazards for crew members. The Aerosol Samplers investigation collects airborne particles in the ISS cabin air and returns them to Earth so scientists can study the particles with powerful microscopes. 
+Micro-11: The crew performed the first of thirteen runs for the Micro-11 investigation. They checked out, configured and calibrated the Micro-11 microscope, thawed samples removed from a Glacier, fixed those samples and loaded them into the microscope for imaging.  They inserted the samples into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  The Micro-11 investigation examines whether spaceflight alters human sperm, by tracking the swimming patterns of human and bull sperm during spaceflight. This investigation also assesses other aspects of sperm functionality related to male fertility. As a result, Micro-11 provides fundamental data indicating whether successful human reproduction beyond Earth is possible, and whether countermeasures are needed to protect sperm function in space.
+Active Tissue Equivalent Dosimeter Sensor (ATED): The crew will deploy the ATED today.  Crewmembers and instruments onboard spacecraft experience constant exposure to space radiation. The ATED investigation uses an active tissue-equivalent dosimeter to collect data on crew radiation exposure and to characterize the space radiation environment.
+NanoRacks Module-79: The crew took photographs of the NanoRacks Module-79 crystalline structures today. NanoRacks Module-79, also referred to as Qucopartex – Precious (QUANTUM), observes the effects of entropy outside of the Earth’s atmosphere. Materials with tight, intense crystalline structures are exposed to the space environment to observe even small changes and differences between materials onboard the ISS and those on Earth. 
+Myotones: Today the crew completed the second session for the Myotones investigation. They collected blood samples, processed them in the centrifuge, and placed the samples in a MELFI. They marked the skin and took measurements using the Myotones device and performed ultrasound scanning. ESA’s Myotones investigation observes the biochemical properties of muscles during long-term exposure to the spaceflight environment. Results from this investigation are expected to provide insight into principles of human resting muscle tone, which could lead to the development of new strategies for alternative treatments for rehabilitation both on Earth and for future space missions. 
+Bone Densitometer:  To prepare the Bone Densitometer for upcoming support of the Rodent Research-7 investigation, the crew changed out the Imaging unit and X-ray source on the Bone Densitometer. 
+Probiotics: Today a crewmember collected saliva samples for the Probiotics investigation. Some species of harmful bacteria such as Salmonella grow stronger and more virulent in the microgravity environment of space. At the same time, the human immune system is weaker in space, leading to increased health risks. The objective of the Probiotics investigation is to study the impact of continuous consumption of beneficial bacteria (probiotics) on immune function and intestinal microbiota in astronauts in a closed microgravity environment. The results of this investigation may be used to support improvements in crew members’ intestinal microbiota and their immune function on long-duration space missions.
+Velocicalc Airflow Measurement Survey:  The crew used the velocicalc tool to take measurements of airflow at USOS ventilation inlets and outlets. The crew took measurements in the Airlock, Node1, Cupola, Node 3, USOS Lab, and Node 2. Flow measurements are taken at different IMV diffusers to verify that the IMV flow is sufficient to control carbon dioxide and humidity in the station. These measurements also show that the IMV fans are operating in a good flow condition.  
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Sleep Log Entry
+Myotones Blood Draw and centrifugation
+Probiotics Saliva Operations
+Probiotics Salive Sample MELFI Insertion
+Myotones Blood Tube Centrifugation
+Probiotics Question
+Myotones Centrifuge Spin Conclude
+Myotones Sample MELFI Insertion
+NanoRacks Module-79 Photos
+Myotones Blood Collection Conclude And Stow
+Setup and configuration of КСПЭ equipment in SM for MPEG2 TV coverage of TORU OBT
+Bone Densitometer On Board Training
+TORU OBT and TV Coverage of TORU OBT.
+Aerosol Passive Samplers Hardware Installation
+Crew sets up Camcorder in Node 2 to capture HD video of Bone Densitometer operations on the MWA.
+Bone Densitometer ORU Changeout
+STaARS Cryotube Kit MELFI Insertion #4
+ECHO Unit Setup for Myotones experiment
+Myotones Device Setup with EPM Laptop
+Deactivation of camcorder, TV System monitoring equipment and closing applications
+Inspection of СРВ-К2М Sediment Trap Insert
+Myotones Measurements
+СОЖ maintenance
+Countermeasures System (CMS) Treadmill 2 System (T2) Monthly Inspection
+Made In Space Fiber Optics Locker and Cable Setup
+Myotones Ultrasound scan using ECHO Unit
+Radio Frequency Identification Logistics Power Cycle
+Myotones Device Data Transfer
+VIZIR. Experiment Ops using СКПФ-У PL.
+Micro-11 Microscope Checkout
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Scheduled monthly maintenance of Central Post Laptop. Laptop Log-File Downlink.
+ECHO Unit Stowage
+MOTOCARD. Experiment Ops (Session 1) Preparation Ops.
+Aerosol Charger Gather
+Micro-11 Microscope Operations
+Inventory Management System (IMS) Conference
+MOTOCARD. Assistance with the Experiment. Video recording during locomotion test
+Micro-11 Glacier Sample Removal 1
+Treadmill 2 (T2) Exercise Video Equipment Setup
+MICRO-11 Thaw Operations
+Micro-11 Microscope Operations
+MOTOCARD. Experiment Ops at the expense of БД-2 Exercise.
+IMS Update
+MOTOCARD. Termination of video recording and closeout ops.
+Micro-11 MELFI Sample Return Bag Insertion
+Temperature and Humidity Control (THC) Intermodule Ventilation (IMV) Flow Measurement Survey
+INTERACTION-2. Experiment Ops
+Preventive Maintenance of SM Ventilation Subsystem. Group C
+Photo/TV Camcorder Setup Verification
+Treadmill 2 (T2) Exercise Video Equipment Stow 
+
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Micro-11 support
+MSS Robotic Cargo Transfers
+CDRA Blower Test
+

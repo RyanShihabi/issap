@@ -1,0 +1,20 @@
+
+Payloads:
+Life Support Rack (LSR): Power, data, fluid umbilicals, and adapters were installed between NOD3A5 ISS utilities and the LSR Rack Interface Panel. LSR is a technology demonstrator for closed loop air revitalization. LSR captures carbon dioxide from cabin air and recovers 50% of its oxygen for use by the astronauts. LSR will operate for a minimum of one year on the ISS to demonstrate the robustness of the technology for future Exploration Missions.
+Fixed radio frequency identification (RFID) Smart Sensing: Crew reviewed procedures and big picture words in preparation of upcoming RFID Smart Sensing operations. RFID readers and antennas have operated on the International Space Station since 2017 and were also installed on a robotic free-flying Astrobee in January 2021. RFID-Enabled Autonomous Logistics Management-3 (REALM-3) (RFID Smart Sensing) builds on this work, extending reach of RFID signals behind stowage racks and placing motion sensors imbedded in RFID tags on rack doors. Results could increase the accuracy of RFID inventory and item location.
+eXposed Root On-Orbit Test System (XROOTS): Nutrient solution was inserted into the XROOTS facility, fluid from Root Modules was recirculated back into the Fluids Reservoir and a plant check was performed. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media. Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Systems:
+Hydrogen Sensor Tech Demo (H2ST) Installation on OGS: The Oxygen Generation System (OGS) H2ST is a demonstration of new hydrogen sensors for the Advanced OGA. Today, the H2ST was installed as a standalone box outside of OGS. An older H2 sensor is currently inside the OGS that monitors the same data, but the tech demo will test the new sensor’s developments. The performance of a new H2ST sensor will compare it to the older H2 sensor over the next few years. The expectation is H2ST will reduce sensor drift (longer calibration life) and improve reliability (reduce susceptibility to condensation damage).
+Node 1 Hatch Seal Inspection: Today, the crew inspected the Node 1 Forward, Aft, Starboard, and Port hatches as well as any hatches the OGS or LSR racks translated through during the rack swap. The crew checked the hatch seals, hatch plate sealing surfaces, crank handle mechanisms, hatch seal interlocking joints, and PMM Hatch Kicker Pins for damage or foreign object debris (FOD). The crew reported no new imperfections or damage in Node 1.
+Intermodule Ventilation (IMV) Flow Measurement Survey: To monitor the health of the IMV system, a Velocicalc tool was used to measure the airflow passing through ventilation inlets and outlets. The IMV system circulates air between all ISS modules to air revitalization equipment so an ideal atmospheric condition is maintained throughout ISS. Today, the crew used the Velocicalc device to measure airflow in the Node 1, Node 2, Node 3, Airlock, Cupola, Lab, BEAM, and NRAL modules.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Life Support Rack Activation and Checkout
+Crew Dragon Awake Mode Checkout
+CDH Hub Control Zone (HCZ) MDM Patch Loading
+

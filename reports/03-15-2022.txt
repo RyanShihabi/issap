@@ -1,0 +1,35 @@
+
+Payloads:
+Nutrition Monitoring for the International Space Station (NutrISS): In support of the NutrISS investigation, an ESA Nutritional Assessment (ENA) was performed.  In the NutrISS investigation, a periodic assessment of body composition (body weight, fat mass, and fat-free mass) during spaceflight aboard the ISS is carried out using a dedicated bio-impedance analysis device to allow for the measurement of long-term energy balance modification over time. It is hypothesized that an adjusted diet maintaining a near-neutral energy balance, and/or increasing protein, intake can limit microgravity-induced bone and muscle loss.
+Standard Measures (SM):  In support of the SM investigation, an Actiwatch Plus (AWP) was retrieved and donned, and a pre-sleep questionnaire was filled out.  The aim of the investigation is to ensure consistent capture of an optimized, minimal set of measures from crewmembers until the end of the ISS Program in order to characterize the adaptive responses to and risks of living in space.  Among other things, the ground teams perform analyses for metabolic and chemistry panels, immune function, microbiome, etc.  These measures populate a data repository to enable high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes and support future research on planetary missions.
+Space Tango – CubeLab:  The crew removed the two CubeLab satellites from their TangoLab facility location, activated them, and photo-documented the resulting operations.  Following this they were re-installed in their TangoLab location to recharge and transfer data.  Space Tango – CubeLab Satellite Demonstrator tests a new attitude-control technology for small satellites, which is an integral part of future space missions. Conventional attitude control systems for large satellites are not suited for small satellites. The new technology is energy efficient, lightweight, and not subject to friction wear and could enhance the attitude maneuvering capabilities of small satellites.
+Systems:
+USOS EVA 79: 3A IROSA Prep EVA: Today, ISS crewmembers Kayla Barron and Raja Chari completed the 79th USOS Extravehicular Activity (EVA). The main goal of this EVA was to continue with the assembling and installation of modification kits required for the future solar array upgrades, called the ISS Roll-Out Solar Arrays (IROSA). The IROSA is a modification to the existing Solar Array Wings (SAWs). It provides additional power for the proposed commercial modules to be launched to station as well as MLM. During the 6-hour and 54-minute EVA, the EV crew completed the following objectives:
+
+Install IPA Mod Kit on S4 3A Mast Canister
+Fold back S6 BCDU MLI
+S6 BCDU 1 H1 & H2 Break Torque & Reset
+S6 BCDU 2 H1 & H2 Break Torque & Reset
+
+Additionally, the crew completed the following get-ahead procedures including robotic enhancements which reduce future EVA time by enabling robotic R&R capabilities:
+
+BCDU 3A1 H1 and H2 break torque and reset
+BCDU 3A2 H1 release and H2 break torque and reset
+BCDU 3A3 H1 release and H2 break torque and reset
+DDCU 3A H1 and H2 break torque and reset
+DCSU 3A H1 and H2 break torque and reset
+PFCS 3A H3 and H4 break torque and reset
+AMS Patch Panel Access
+TUS Inspection
+
+Network Monitoring Laptop Replace & Setup: The crew replaced an existing failed/degraded Network Monitoring System (NMS) Zbook Laptop with a stowed spare and connected the new laptop to the network and prepped for ground loading. The GigE to USB adapters were connected to the NMS and the failed laptop was stowed.
+In-Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace (R&R): The crew R&Red the Pre-Treat Tank as part of nominal WHC preventive maintenance. Each tank contains five liters of pre-treat solution, a mixture of acid, chromium oxide, and water, used for toiled flushing and required for nominal WHC operation. The installed WHC Dose Pump connectors and pump head were inspected for pre-treat leaks. The spare WHC Urine Filter Hose was also inspected and configured for stowage to minimize risk for hose kinking or damage.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+3A IROSA Prep EVA
+

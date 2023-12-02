@@ -1,0 +1,77 @@
+
+Japanese Experiment Module (JEM) Small Satellite Orbital Deployer (JSSOD) Status:  Cristoforetti activated the JEMRMS Robotics Laptop (RLT), opened the JEM Airlock (JEMAL) outer hatch and extended the slide table.  Ground operations teams then performed the robotic operations to succesfully deploy the JSSOD satellite. The JEM Remote Manipulator System (JEMRMS) small fine Arm (SFA) was guided to grapple the Multi-Purpose Experiment Platform (MPEP) and maneuvered it into position for the JSSOD deploy of the first Brazilian cubesat AESP-14.  The payload, developed by engineering students and the Technology Institute of Aeronautics in Brazil, consists of a Laugmuir probe for measurement of electron density and temperature of the ionospheric plasma bubbles.
+Cloud-Aerosol Transport System (CATS):  Ground controllers sent commands to enable the laser as part of the CATS checkout procedure.  Previously, laser firing attempts were disabled due to the payload experiencing multiple occurrences of resets in a controller card.  CATS operations have resumed. The CATS investigation uses a light detection and ranging (LiDAR) system to measure the location, composition and distribution of pollution, dust, smoke, aerosols and other particulates in the atmosphere. CATS is mounted on the Japanese Experiment Module’s Exposed Facility and is used to study the atmospheric constituents that impact global climate. By gaining a better understanding of cloud and aerosol coverage, scientists can create a better model of the Earth’s climate feedback processes.
+Combustion Integration Rack (CIR):  Virts removed the CIR alignment guide in preparation for a FLame Extinguishment Experiment (FLEX)-2 run.  The CIR is currently configured for Multi-user Droplet Combustion Apparatus (MDCA) FLEX-2 binary droplet test session which uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning.  The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Nanoracks Module 9:  Wilmore activated/agitated/deactivated the mixture tubes to facilitate NanoRacks Module-9 operation D experiments.  Module-9 is a collection of student research projects utilizing the NanoRacks Mixsticks.  The NanoRacks-National Center for Earth and Space Science Education investigation results from a commercial Science Technology, Engineering and Math (STEM) education program overseen by the National Center for Earth and Space Science Education (NCESSE), called the Student Spaceflight Experiments Program (SSEP). Student teams from across the United States design their own experiments using flight approved fluids and materials. The investigation consists of 19 different science experiments flown in a NanoRacks Module on board the ISS.
+Extravehicular Activity (EVA) Preparation:  Wilmore and Virts performed troubleshooting on the EMU 3011 Fan Pump Separator (FPS).  The fan had failed to start up during a loop scrub activity on January 16th.  Additional attempts to startup the fan on January 27th were also not successful.  Today’s activity was an attempt to characterize the nature of the failure and possibly recover the FPS.  However, the crew was unable to start the FPS.  Once the troubleshooting was complete, Virts removed EMU 3011 from the EMU Don/Doff Assembly (EDDA) and installed EMU 3005 in preparation for upcoming EVAs.  Later in the day, the crew gathered and configured tools needed for the approaching EVAs.
+SpaceX-5 Dragon Cargo Loading:  Cristoforetti continued loading cargo into Dragon today.  As of today, the crew had completed over 92% of the total Dragon cargo operations. An estimated 6 hours and 45 minutes is required to complete the remainder of cargo loading.  Hatch closure is scheduled to occur on Monday, February 9th with unberth and splashdown occurring the following day.    
+Sabatier Procedure Review:  Wilmore reviewed procedures associated with removing the Laminar Flow Element (LFE) Rod from the Sabatier System.  Sabatier has produced very little water since the compressor was replaced in December 2014.  The maximum flow through the LFE has been decreasing which is indicative of blockage. The removal of the LFE Rod is scheduled for Friday, February 6th and is expected to alleviate the problem. Sabatier uses a catalyst that reacts with carbon dioxide and hydrogen, both byproducts of current life-support systems onboard the ISS in order to produce water and methane.     
+ARED Right Upper Stop Cable:  Today, the crew reported that the ARED Right Upper Stop Cable had broken.  The crew tied it back and proceeded with ARED operations with load restrictions.  Later in the day, the crew installed an Upper Stop Cable that had been previously installed and is considered degraded.  A pristine Right Upper Stop Cable was delivered on SpaceX-5.
+Today’s Planned Activities
+All activities are completed unless otherwise noted.
+
+
+EMU 3011 Troubleshooting
+JEMRMS RLT Laptop Activation
+CIR – Hardware Teardown
+Installation of PCE Onboard Cables. 
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН (Payload Server) to RSS1 Laptop
+Makita Tool Battery Capacity Restoration – hardware preparation
+Slide Table Extension to JEF Side Part 1
+Stereo macro-photography of RS windows (Procedure and r/g review)
+Automated External Defibrillator (AED) Replacement
+ESA Weekly Crew Conference
+EMU 3011 Troubleshooting – Support
+Installation of РСЕ Z0000 in ISS SM. Tagup with specialists
+Stereo macro-photography of DC1 EV1 and EV2 windows, MRM2 EV2 window, SM windows 2,3,5,7,8
+Test Activation of Stimul-Стимул-01 HF set
+Connecting Cables to PCE Box.
+JEMRMS Small Fine Arm (SFA) Ungrapple
+HAM radio session from Columbus
+Inspection of Portable Breathing Apparatus (PBA) and Portable Fire Extinguisher (PFE)
+Installing and Connecting ATV control panel in SM ISS.
+End Makita Tool battery charge, log charge time into the table, remove battery from the charger
+Restoring capacity of Makita battery, dismantling charge/discharge setup, stowing equipment, downlinking files
+NANO – Activation and shaking the Tubes
+EMU LTA strap installation
+JEM Airlock Slide Table Retraction
+EMU backpack replacement
+Mating PCE, ATV Hand Controller, БУАП T/L connectors to БИТС2-12
+WRS – Recycle Tank Fill from EDV
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН (Payload Server) to RSS1 Laptop (terminate)
+JEMRMS Ground Control Small Satellite Deployment Observation
+IFM-SA -Sabatier Procedure Review
+GREAT START. Familiarization with Video Script
+EVA Tool Config
+DRAGON Transfer Ops
+Video Footage for Channel One
+IFM-SA – Assemble the Rod Removal Tool that will be used in upcoming Sabatier maintenance
+Photography of Glisser-M Video Complex
+SM Ventilation System Preventive Maintenance. Group В1
+MRM2 comm config to support voice comm for the experiment
+KULONOVSKYI KRISTALL. Experiment Ops.  Tagup with specialists
+BRI Log Dump from RSS1
+Comm reconfig for nominal ops
+KULONOVSKYI KRISTALL. Copy and Downlink Data
+Radiation Monitoring System [СРК]. Testing connection between АИ with КЦП2 on Laptop RS3.
+Dragon Cargo Operations Conference
+MELF/GLCR.  Sample Transfer Procedure Review
+MELF/PLR. Sample Transfer Procedure Review
+IMS and Stowage Conference
+SSC Laptop Relocation
+BCAT Camera Checkout
+Health Maintenance System (HMS) – Food Frequency Questionnaire
+ISS Crew Medical Officer (CMO) Computer Based Training (CBT)
+
+Completed Task List Items
+
+ATV Cargo Ops [In work]
+Dragon Cargo Ops  [In work]
+
+Ground Activities
+All activities are completed unless otherwise noted.
+
+
+JSSOD Deployment
+MT Translation from Worksite 4 to Worksite 6
+

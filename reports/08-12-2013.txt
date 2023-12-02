@@ -1,0 +1,80 @@
+
+New Status:
+USOS Crew Off Duty: The USOS crew was off duty today for compensation for HTV ingress activities performed on Saturday.
+H-II Transfer Vehicle (HTV)-4 Cargo Operations: Saturday and Sunday the crew performed 13 hours of HTV cargo operations, however through efficiency, the crew completed approximately 25.5 hours of cargo transfers.  Today, the crew performed 2 hours off of the task list of cargo operations, completing an estimated 6.5 hours of transfer operations.  Stowage specialists estimate approximately 49 hours remain of cargo or approximately 40% complete.
+Russian Segment (RS) Extravehicular Activity (EVA) 34 Preparations:  Over the weekend FE-2 Misurkin and FE-4 Yurchikhin reviewed EVA translation paths and work zones and installed the docking mechanism at the Docking Compartment (DC)1/52 Progress (52P) interface. Today they participated in a procedures review with ground teams. They also conducted spacesuit fit checks and separation unit leak checks. These activities are in preparation for Friday’s planned EVA #34.
+On-Board Training (OBT) HTV Capture Debrief: All 3 USOS crew members participated in an HTV capture debrief with ground teams later today. Topics included suggestions for improvements in procedures, operations products and training.
+Crew Medical Officer (CMO) On-Board Training (OBT): FE-6 Nyberg completed her CMO OBT. This is a Computer Based Training (CBT) module that requires no ground interaction and is performed periodically to maintain proficiency for designated CMOs.
+Combustion Integrated Rack (CIR) Alignment Guide Removal for Italian Combustion Experiment for Green Air (ICE GA) Experiment: Cassidy removed the alignment guides from CIR to unlock Passive Rack Isolation System (PaRIS) in preparation for the ICE GA experiment conducted by ground teams.  Another run is planned for Wednesday. This new ISS experiment investigates the burning characteristics of biologically derived fuels to help develop the use of environmentally friendly fuels on Earth.
+Mobile Servicing System (MSS) Operations: Yesterday Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) to extract the Exposed Pallet (EP) from H-II Transfer Vehicle (HTV) 4.  They then maneuvered the EP to the handoff position at which point the Japanese Experiment Module Remote Manipulator System (JEMRMS) Ground Controllers maneuvered the JEMRMS to grapple the EP Flight Releasable Grapple Fixture (FRGF). Robotics Ground Controllers then released the SSRMS from the EP Power and Video Grapple Fixture (PVGF) and maneuvered the SSRMS to a park position.  Once the SSRMS was parked, the JEMRMS Ground Controllers installed the EP on the JEM Exposed Facility (JEF).
+Today’s Planned Tasks
+
+Preparing for Replacement of БУПТ-1М (А402) Battery Module 2. r/g 3155 [Complete]
+Terminate 825М3 Battery Pack 1 Charging And Start Charging 825М3 Battery Pack 2 [Complete]
+KASKAD. Manual Mixing in Bioreactor / r/g 3070 [Complete]
+Specific EVA Procedure Review / r/g3146 [Complete]
+Removal of Unit 800А of  Module 3 and 4 Batteries in SM / SM IVA IMF r/g 3155  [Complete] 
+Cables Preparing for SSC Connection in MRM2 for EVA duration time / r/g 3159  [Complete] 
+Orlan suit # 6 Height Sizing  r/g 3123 [Complete]
+Replacement of БУПТ-1М (А402) of Module 2 Battery r/g 3155 [Complete]
+JEMRMS Monitor Stop [Complete]
+DC1 БК-3М Oxygen Tank Pressure Check / EVA from DC [Complete]
+ПхО БК-3М Oxygen Tank Pressure Check / EVA from DC [Complete]
+URAGAN. Photo Spectrum System Battery Charge (start) / r/g 2857 [Complete] 
+Equipment Setup  r/g 3123 [Complete]
+Orlan suit #5 and БСС (Orlan Interface Unit) Leak Checks and Valve Tests [Complete]
+ON MCC GO Mate telemetry connectors of БУПТ-1М (A402) of Battery #2 Module r/g 3155 [Complete]
+RWS – Disconnect DCP Cables [Complete]
+Orlan suit # 6 and БСС (Orlan Interface Unit) Leak Check and Valve Tests [Complete]
+ON MCC GO ISS O2 repress from ATV – start / ATV Systems Ops, r/g 3156 [Complete]
+Installation of 800А Units of Batteries 3 and 4 Modules in SM / SM IVA IMF, r/g 3155 [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+В3 Fan Screen Cleaning in DC1  [Complete] 
+Crew Medical Officer (CMO) Proficiency Training [Complete] 
+Tag-up with  Robotics experts after HTV Capture and docking [Complete] 
+ON MCC GO ISS O2 repress from ATV – terminate / ATV Systems Ops, r/g 3156 [Complete] 
+Crew Medical Officer (CMO) Proficiency Training [Complete] 
+URAGAN. Observation and Photography using Photo Spectral System (ФСС). r/g 3153 [Complete] 
+Cables transfer for SSC Laptop connecting in MRM2 for EVA duration period 3159 [Complete] 
+Connecting SSC Laptop in MRM2   [Complete] 
+ВД1 and ВД2 air ducts cleaning in DC1  [Complete] 
+СОЖ  Maintenance  [Complete] 
+CIR – Hardware Teardown [Complete] 
+LAB ISL Router Power Cycling for SM smart switch router (БРИ) Troubleshooting [Complete] 
+On-orbit Hearing Assessment using EARQ [Complete] 
+IMS Update  [Complete] 
+ISS – HAM Radio Session [Complete] 
+Exercise data downlink / r/g 2639 [Complete] 
+KASKAD. Manual Mixing in Bioreactor / r/g 3070 [Complete] 
+Daily Planning Conference (S-band) [Complete] 
+RELAKSATSIYA. Relaksatsiya P/L Battery Charge r/g 1845 [Complete] 
+Preparation of reports for Roskosmos site / r/g 0484 [Complete] 
+URAGAN Observations and Photography / r/g 3151 [Complete] 
+ECON-M. Observations and Photography [Complete] 
+
+Task List
+
+CEO Ops [Complete]
+ATV Rack front config
+ARED CylinderEvac
+FUJ13D Battery Check
+RGN WSTA Fill
+WHC KTO Replace
+WHC EDV R&
+Roscosmos Report
+Ocean Obs
+52P USOS Unpack  [In Work] 
+Bk Curtain Retrieve
+Data Prep for Return FE-3
+HTV4 Cargo Ops
+Crew Choice DL
+MELFI1 N2 Pressure Check
+MELFI2 N2 Pressure Check
+MELFI3 N2 Pressure Check
+P/TV Adapter Locate
+P/TV Trash Gather
+
+Ground
+
+Nominal Commanding
+

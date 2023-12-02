@@ -1,0 +1,111 @@
+
+Body Measures: Commander (CDR) Swanson, with the help of Flight Engineer (FE)-5 Wiseman, conducted his Flight Day (FD) 80 session of Body Measures. He set up body marker instrumentation and took calibration and body pose pictures along with circumference measurements. Swanson then recorded a neutral body posture video. Swanson and FE-6 Gerst also collected Body Mass Measurement (BMM) using the Space Linear Acceleration Mass Measurement Device (SLAMMD) hardware. The goal of this study is to gather data to better understand the magnitude and variability of changes due to microgravity and fluid shifts within the human body during long-duration space flight. Results of the investigation may result in changes to space suit fit and sizing, workstation design, etc. for future missions to maximize performance, prevent injury, and reduce crew time to accommodate their anthropometrics.
+Advanced Colloids Experiment (ACE)-M-2 Operations: Wiseman installed another ACE-M-2 sample into the Fluids Integrated Rack (FIR) for processing. In the ACE-M-2 investigation, a model colloidal system is used to observe the microscopic behavior of liquids and gases separating from each other, near the critical point, via a process called spinodal decomposition.
+Binary Colloidal Alloy Test (BCAT) Investigations: Wiseman transferred BCAT-Low Gravity Phase Kinetics Platform (KP) images and set up another BCAT-KP sample that will run for two weeks. Later in the day Wiseman mixed a BCAT-Canada 1 (C1) sample in preparation for a run at a later date. The BCAT-C1 sample contains a more viscous fluid, which requires more mixing on-orbit than previous samples. BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties. The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses. BCAT-C1 studies nano-scale particles dispersed in liquid, known as a colloidal suspension, commonly found in such commercial commodities as paint, electronic polishing compounds and food products.
+Japanese Experiment Module (JEM) Fire Indicator Checkout:  A test was conducted today to confirm correct illumination functionality of the fire indicator lights in the JEM Pressurized Module (JPM), JEM Logistics  Module – Pressurized Section (JLP) and JEM Remote Manipulator System (JEMRMS).  The crew input commands serially via the JEM System Laptop (SLT) to each of the smoke detectors and verified the appropriate indicators are illuminated. This test is performed once per year.
+Burning and Suppression of Solids (BASS) Troubleshooting: Four BASS runs were completed nominally yesterday. Following the last run, the MSG monitors stopped displaying the experiment video and still camera images.  FE-6 Gerst disconnected the main power from BASS and successfully reset the breaker, but the monitor was not recovered. Ground teams viewed real-time video of the crew manipulating the video cable and believe the issue could be with the video cable connector. The ground teams are working to develop a procedure for further troubleshooting. The BASS video monitor is specific to the BASS investigation and displays fuel, air, and fan readings during test burns.
+Preparation for Russian Extravehicular Activity (EVA) #38:   The Russian crew performed a suited dry run in preparation for EVA #38.   The EVA is scheduled for Thursday with hatch egress at 8:50am CDT.
+Today’s Planned Tasks
+
+Laptop RSS1,2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС [Caution & Warning Panel] Test [Complete]
+MSG – Glovebox Activation [Complete]
+Daily Planning Conference (S-band) [Complete]
+SPHERES – Battery Charge [Complete]
+On MCC GO Regeneration of БМП Ф2 Micropurification Cartridge (start) [Complete]
+Acoustic Dosimeter Stow [Complete]
+BLR48 – Memory Card Replacement. [Complete]
+Preparing comm assets for EVA Training [Complete]
+Air duct disassembly in DC1 prior to training (skip fan B3 dismantling) [Complete]
+БСПН Air Duct Inspection  / r/g 5897 [Complete]
+WHC Fill [Complete]
+Comm check and medical parameter test / EVA [Complete]
+Checkout of Orlan No. 4, No. 5 during pre-EVA training [Complete]
+DC1 Orlan Interface Unit (БСС) Check / EVA [Complete]
+BODYM – Experiment Ops [Complete]
+HRF1 – Hardware Setup and Connection [Complete]
+EVA Gear Donning  r/g 5822 [Complete]
+Suited Exercise Dry Run – Assistance in suited Exercise r/g 5890 [Complete]
+BODYM – Experiment Ops (Assistance) [Complete]
+HRF1 – Body mass measurement. [Complete]
+Orlan Systems и БСС Checkout during  pre-EVA training [Complete]
+Entry into Orlan No. 4, No. 5, and sealing off backpacks [Complete]
+Orlan and БСС Controls Checkout [Complete]
+Orlan and БСС Preliminary Leak Check [Complete]
+Orlan No. 4, No. 5 Fit Check at Suit Pressure = 0.4 [Complete]
+Orlan translation training  r/g 5890 [Complete]
+Exit from Orlan [Complete]
+HRF1 – Body mass measurement. [Complete]
+BCAT – Transfer of images from the camera [Complete]
+SPHERES – Battery charge [Complete]
+Post-Suited Exercise Comm Reconfig for Nominal Ops  [Complete]
+Checkout of JLP, JEMRMS, ISPR A2, A3 fire indicator functionality [Complete]
+BCAT – Hardware Setup [Complete]
+СОЖ Maintenance [Complete]
+ИП-1 Flow Sensor Position Check / Pressure Control & Atmosphere Monitoring [Complete]
+FIR Rack Doors Open [Complete]
+LMM – Microscope Setup [Complete]
+ACE – Sample Prep [Complete]
+EPO Hardware Stowage  [Complete]
+Post-exercise closeout ops, air duct installation / EVA [Complete]
+MATRYOSHKA-R BUBBLE-dosimeter gathering and readings. r/g 5891 [Complete]
+HRF1 – Body mass measurement. [Complete]
+HRF1 – SLAMMD Stowage  [Complete]
+ARED Rope Replacement [Complete]
+Retrieval of Radi-N dosimeters from deployed locations [Complete]
+MATRYOSHKA-R. Receiving BUBBLE-dosimeter detectors from USOS r/g 5891 [Complete]
+Handover of Radi-N dosimeters (FE-4)  [Complete]
+SPHERES – Battery Charge [Complete]
+MATRYOSHKA-R BUBBLE-dosimeter gathering and readings.  r/g 5891 [Complete]
+Purging the Sabatier Accumulator [Complete]
+LMM – Light Microscopy Module Rotation [Complete]
+FIR Rack Door Close [Complete]
+BASS Cable T/S  [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+OTKLIK. Equipment Check.  Tagup with specialists / r/g 5893 [Complete]
+PAO Event [Complete]
+Installation of Orlan-MK spacesuit replaceable elements for EVA  r/g 5777, 5822 [Complete]
+Additional fixing of [АФАР] module railings. r/g 5899 [Complete]
+On MCC GO БК-3М Unit Replacement  r/g 5777  [Complete]
+CRHYT – Data Transfer [Complete]
+BCAT-C1 – Mixing of sample 8 [Complete]
+MSG – Glovebox Powerdown[Complete]
+IMS Delta File Prep [Complete]
+SPHERES – Review [Complete]
+VZAIMODEISTVIYE. Experiment Ops / r/g 5895 [Complete]
+Post-Exercise Hygiene Procedure [Complete]
+SPHERES – Battery Charge [Complete]
+SPHERES – Review [Complete]
+CRHYT – Equipment Stowage [Complete]
+Daily Planning Conference (S-band) [Complete]
+On MCC GO Regeneration БМП Ф2 Micropurification Cartridge (termination)
+Reading REMINDER
+SPHERES – Battery Charge 
+
+Task List
+
+ARED Cylinder Evac
+Sabatier purge
+T61 battery swap
+WHC KTO replace
+WHC EDV-U R&R
+Roscosmos Report
+Roscosmos photos
+Uragan photo
+3DA1-Cam-Ops
+AL-PCS Swap
+CFE ICF5 ops parts 1,2,3
+HMS-Winscat-CDR test
+IFM WHC UR/IF R&R
+Regan WSTA fill
+CCE CASIS msg d/l [Complete]
+CCE Station msg d/l [Complete]
+ECOK HW Reconfig
+IFM-NOD3AO2 LHA R&R
+
+Ground
+
+Nominal commanding
+

@@ -1,0 +1,76 @@
+
+Orbital-2 Cygnus Unberth:  Cygnus was unberthed from the ISS at 4:10am and released at 5:40am CDT.  After unberth, Cygnus completed two burns to move above and trailing behind the ISS.  Over the next two days the vehicle will perform Detailed Test Objectives (DTOs) to characterize spacecraft performance for future missions. Destructive re-entry is scheduled to occur on Sunday.  The ISS crew will photograph the Cygnus re-entry to add to the knowledge base supporting ISS End-of-Life disposal operations.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Zero Robotics Competition: Commander (CDR) Swanson and Flight Engineer (FE)-5 Wiseman set up the SPHERES hardware and executed SPHERES Zero Robotics tests with participation from students on the ground. Over 100 students were in attendance at MIT for the competition with over a thousand students viewing the competition via webcast from eight different states. The SPHERES Zero Robotics investigation establishes an opportunity for high school students to design research for the ISS. As part of a competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS.
+In-Flight Maintenance (IFM): FE-6 Gerst performed this regularly scheduled maintenance to Remove and Replace (R&R) the Waste and Hygiene Compartment (WHC) pre-treat tank.
+On-Board Training (OBT) Automated Transfer Vehicle (ATV): All six crew members participated in an ATV emergency procedure review. The training familiarizes the crew with location of ATV hardware used in emergencies and main features of ATV emergency response.
+Russian EVA #39:  The Russian crew continued preparations for Monday’s EVA.   On Saturday the crew will perform a suited dry run, and on Sunday the ATV hatches will be closed.  The EVA is scheduled to begin at 9am CDT on Monday.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238 [Complete]
+Weekly Housekeeping [Complete]
+SM Ventilation Subsystem Preventive Maintenance, [Complete]
+FGB ЦВ2 Fan Cleaning [Complete]
+Inspection of Air Conditioner [Complete]
+Cleaning Auxiliary Computer System (ВКС) Laptops / r/g 1141 [Complete]
+Cygnus/Node 2 – vestibule pressure check [Complete]
+Node 2 CBM – Demate [Complete]
+Camcorder Setup to View LAB Remote Workstation (RWS) Monitor 3  [Complete]
+Cygnus – Hardware Command Panel (HCP) Setup [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+Cygnus – Hardware Command Panel (HCP) Selfcheck [Complete]
+Cygnus/Node 2 – terminate vestibule depress [Complete]
+Rendezvous and Proximity Operations Program (RPOP) Setup for determining the range and range rate of approaching Cygnus vehicle [Complete]
+Food Frequency Questionnaire [Complete]
+Psychological Evaluation Program (WinSCAT) [Complete]
+SSRMS – Cygnus Grapple Release [Complete]
+БКДО (Plume Impingement and Deposit Monitoring Unit) R&R r/g 6378 [Complete]
+ATV5-ПрК SM air duct checkout and photography. r/g 6385 [Complete]
+RWS Teardown [Complete]
+Cygnus – Hardware Command Panel (HCP) Inhibit [Complete]
+Video stowage [Complete]
+Waste and Hygiene Compartment (WHS) Pre-Treat Tank and Pre-Treat Tank Hose R&R [Complete]
+Cleaning SM and FGB Potok-150MK Air Purification System Pre-filters [Complete]
+JRNL – Journal Entry
+SPH. Zero Robotics Setup and Checkout [Complete]
+Cygnus – PROX Power Switch OFF [Complete]
+Cygnus – Hardware Command Panel (HCP) Stow [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+RADIOSKAF. Terminating Charging and Preparing for EVA.r/g 6371 [Complete]
+СОЖ Maintenance [Complete]
+IMS and Stowage Conference [Complete]
+SPHERES – Conference with Students [Complete]
+SPHERES – Test Run [Complete]
+RGN-REC TK – Transfer and Replacement [Complete]
+ISERV – Opening Window Shutter [Complete]
+SPHERES Shutdown [Complete]
+JRNL – Journal Entry [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238 [Complete]
+ATV Delta Emergency Procedure Drill / r/g 6367 [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO Replace
+WHC-ЕДВ-У R&R
+Ekon photo
+WHC UR/IF R&R
+SSCV5 data move
+SSCV5 server load
+SSCV5 training
+3DA1 cam ops
+AQM H/W relocate [Complete]
+ARED detent flip
+Data prep return
+CTB unpack/relocate
+Food warmer mod
+NOD2OP2-2 LHA R&R
+
+Ground
+
+Nominal commanding
+SSRMS operations for Orb2 
+

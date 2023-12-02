@@ -1,0 +1,83 @@
+
+Micro-8:  Over the weekend, Gerst terminated Micro-8 Group Activation Packs (GAPs) A & B.  GAP B was returned to Commercial Generic Biologic Apparatus -5 (CGBA-5) and GAP A was inserted into the General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) frozen cold stowage.  Micro is a fundamental biology experiment that will expand our understanding of the fundamental basis of how space flight affects the biological and molecular functions of the cell and the molecular mechanisms by which cells and tissues respond to spaceflight conditions 
+Zebrafish: Gerst took a sample from the water circulation unit and then performed water quality check of the Aquatic habitat.  The water quality check measures concentration of ammonium, nitrate and nitrite in the water.
+Dose Distribution inside ISS (DOSIS) 3D: Gerst installed the DOSIS 3D Hardware on the European Physiology Module (EPM) rack and ten Passive Detector Packs (PDP) in different locations in the Columbus module.  The main objective of the experiment is the determination of the radiation field parameters absorbed dose and dose equivalent inside the ISS with various active and passive radiation detector devices, aiming for a concise three dimensional (3D) dose distribution map of all the segments of the ISS.
+FLame Extinguishment Experiment (FLEX)-2 Operations: Wilmore removed the Combustion Integration Rack (CIR) alignment guides, isolating the rack and allowing ground teams to start another FLEX-2 test point via ground commanding.  The fuel being used today is a mixture of 25% decane and 75% propylbenzene.  The remaining tests in this group will alternate between this fuel and a fuel mixture of 75% decane and 25% propylbenzene.  It is the second test condition in Matrix E group 6.  FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels
+RapidScat: Robotics Ground Controllers removed the RapidScat Nadir Adapter from the SpaceX-4  Dragon trunk and installed the adaptor onto the Columbus Exposed Facility Unit (EFU).  Wiseman configured the Payload Power Switching Box (PPSB) allowing Columbus Control Center to provide power to the Rapidscat payload.  The Rapidcast Instrumentation Assembly will be transferred by Robotics Ground Controllers tomorrow. ISS-RapidScat is a space-based scatterometer that measures wind speed and direction over the ocean, and is useful for weather forecasting, hurricane monitoring, and observations of large-scale climate phenomena. The ISS RapidScat instrument enhances measurements from other international scatterometers by cross-checking their data, and demonstrates a unique way to replace an instrument aboard an aging satellite.
+Extravehicular Activity (EVA) Preparations: Wilmore completed a Liquid Cooling and Ventilation Garment (LCVG) water fill using Extravehicular Mobility Unit (EMU) 3003.  He then swapped the LCVG attached to EMU 3003 and attached an LCVG to EMU 3010, performed a pre-scrub water mixing and took water samples from each EMU. While the loop scrub was in process, he did alternate radio, EMU pressure regulator, and battery operations checkouts.  Wilmore performed a post-scrub water sample from each EMU and then Wiseman completed an additional LCVG swap and EMU loop scrub on EMU 3003 with an additional post-scrub water sample and finally an EMU leak check on both suits.  Wiseman and Gerst performed a review of EVA procedures and participated in a conference with ground specialists for clarifications.  These tasks are in preparation for EVA 27 which will perform a Pump Module (PM) relocation and Mobile Transporter Relay Assembly (MTRA) installation on October 7th.
+Emergency Role and Responsibility Review: The entire crew completed a review of roles and responsibilities, general instructions and then discussed overall emergency responses.  This was followed by a discussion with ground specialists for clarification of any questions.  Following the review, the newly arrived 40S Crew completed an emergency mask review, including fit check and communication check while wearing the masks.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Inspection of СМ-У connector on МНР-НС separator pump in АСУ and line 5182-03 from Pretreat And Water Dispenser (ДКиВ) to МНР
+МО-8. Config set-up
+Body Mass Measurement
+ATV – Pressurization Initiation
+Waste and Hygiene Compartment (WHC) Full Fill
+CASKAD. Removal from ТБУ-В No. 04 (+4 °С), ТБУ-В No. 04 adjustment (+ 26 °С) and placement in the Glovebox. / r/g 6745
+CIR – Alignment Guide Removal
+ZEBRA – Water Sampling and Measurements
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+CASCADE Photography  / r/g 6743
+High Pressure Oxygen Bypass Configuration
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance – Part 1
+Configure and power up EMUs 3003 & 3010 for Loop Scrub activities
+ASEPTIC Experiment Ops / r/g 6741
+ТКГ 423 (DC1) Stowage and IMS Ops / r/g 6632
+24-hour ECG (start) / r/g 6732
+EMU-LVCG Water Fill
+EMU – Mixing
+ESA Monthly Management Conference
+EMU – Cooling Loop Water Sample
+WRS – water sampling
+Replacement of СД1-7 Lights in MRM1. / r/g 6727
+Crew time for ISS adaptation and orientation
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance – Part 2
+Ionic and particulate filtration (scrubbing) of EMUs 3003 & 3010, LCVG’s WS1 & GE1, and Airlock cooling water loops.
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 6627
+CASCADE. Bioreactor Refill, retrieval from “Glovebox-C” and setup in ТБУ-В No. 02 at +26°С. Photography. / r/g 6745
+EVA Procedure Review
+Extravehicular Mobility Unit (EMU) Post Loop Scrub Water Sample
+Crew’s Emergency Roles and Responsibilities Review
+Emergency Mask Overview OBT
+TOCA – data recording
+SODF procedure placing
+Columbus PPSB activation
+Symbolic Activity Preparation / r/g 6740
+Crew time for ISS adaptation and orientation
+MELFI – external inspection
+EVA Procedure Conference
+HRF – Hardware Setup
+Transfer and Handover of DOS3D Detectors from ТПК to USOS
+Crew time for ISS adaptation and orientation
+DOS 3D
+EMU – Liquid Cooling and Ventilation Garment (LCVG) Scrub
+Formaldehyde Monitoring Kit (FMK) Deployment Operations
+IVA – Everyday Clothes Survey
+EMU – Water Sampling after loop scrub
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance – Part 3
+Reconfigure Loop Scrub hardware for Iodination of Ion Filters, checks out the SOP, and preps both EMUs for water recharge.
+ACS – Configure O2 System to a nominal configuration
+GSC sampling
+IVA – Complete Questionnaire
+EMU Water Refill
+IVA – Dried Clothes Stowage
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance – Part 4
+Reconfigure EMUs for leak checks and completion of Loop Scrub activities.
+ACS – Configure O2 System to a nominal configuration
+SPTEX – Survey Completion
+ATV – Pressurization Termination
+
+Task List Items Completed
+
+40S USOS Cargo Unpack
+EVA Procedure Review
+MagVector USB Insert
+Dragon Locker Removal
+Station Support Computer (SSC) 11 Hard Drive Reseat
+
+Ground Activities Completed
+
+Remove Rapidscat Nadir adaptor from Dragon/SpaceX-4 trunk  
+Installation of Rapidscat Nadir adaptor on Columbus EPF 
+

@@ -1,0 +1,27 @@
+
+Payloads:
+BioNutrients-1: BioNutrients-1 Production Packs were hydrated, incubated, and agitated. BioNutrients demonstrates a technology that enables on-demand production of human nutrients during long-duration space missions. The process uses engineered microbes, like yeast, to generate carotenoids from an edible media to supplement potential vitamin losses from food that is stored for very long periods. Specially designed storage/growth packets are intermittently activated by astronauts over a five-year period, then frozen and returned to Earth for examination.
+ISS Ham Radio: An ISS Ham contact was initiated with Brentwood Elementary School of Engineering, Raleigh, NC. Since the earliest space station expeditions, ISS Ham Radio has allowed groups of students in schools, camps, museums, and planetariums to hold a conversation with the people living in space. As the ISS passes overhead, students have about nine minutes to ask crew members 10 to 20 questions.
+PK-4: A crewmember caught clouds of particles inside the PK-4 chamber using the PK-4 software on the Columbus Module Laptop 1 as part of campaign 15 experiment operations. The PK-4 Hard Drive was swapped out. PK-4 is a scientific collaboration between ESA and the Russian Federal Space Agency (Roscosmos), performing research in the field of Complex Plasmas: low temperature gaseous mixtures composed of ionized gas, neutral gas, and micron-sized particles. The micro-particles become highly charged in the plasma and interact strongly with each other, which can lead to a self-organized structure of the micro-particles: so-called plasma crystals. Experiments in the facility aim to study transport properties, thermodynamics, kinetics and statistical physics, and non-linear waves and instabilities in the plasmas.
+Plant Habitat-03A: Arabidopsis plant leaves were harvested and prepared for return. Plants exposed to environmental stress, including spaceflight, undergo epigenetic changes that involve adding extra information to deoxyribonucleic acid (DNA) rather than changing existing information. Epigenetic Adaptation to the Spaceflight Environment – Accumulated Genomic Change Induced by Generations in Space (Plant Habitat-03) assesses whether epigenetic adaptations in one generation of plants grown in space can transfer to the next generation. This could help identify genetic elements that increase the adaptability of plants to spaceflight, a first step toward developing cultivars better suited to provide food and air and water purification in life support systems on future space missions.
+Veg-05: The plants growing in the two Veggie facilities were inspected, watered if necessary, and photographed. Plant Pillows were replaced. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System (Veg-05) investigation is the next step in efforts to address the need for a continuous fresh-food production system in space.
+Systems:
+Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace (R&R): Today, the Pre-Treat Tank was R&R’d as part of nominal WHC preventative maintenance. Each tank contains five liters of pre-treat solution, a mix of acid, chromium oxide, and water, used for toilet flushing and required for nominal WHC operation.
+Urine Transfer System (UTS) Card R&R: Today, the crew performed maintenance to remove and replace the UTS Control Block Controller SD Card. The main objective of the UTS is to provide automated control of urine flow from Toilet System and WHC or from external storage containers into the UPA Wastewater Storage Tank Assembly (WSTA).
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test: The crew performed a monthly WinSCAT test. The test is a screen tool developed by NASA to monitor astronauts and their neuro-cognitive status while in space and alert NASA flight surgeons to any accuracy or reaction time changes in an astronaut’s performance. WinSCAT tests working memory, computational skills, attention, visual tracking and spatial processing.
+On-orbit Hearing Assessment (OOHA) with KUDUwave Software Setup and Test: The crew performed a hearing test using an OOHA Headset and KUDUwave software. The assessment measures hearing function while crewmembers are exposed to noise and microgravity during long-duration spaceflight.
+Completed Task List Activities:
+
+N/A
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+RR Fixative Swap
+MCC-M Interface Test
+BioNutrients-1 Preparation and Incubation
+Plant Habitat-03A Leaf Harvest
+PRO LSG Facility Activation Commanding
+MT Translation
+CCS MT DBCL Dump
+

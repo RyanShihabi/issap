@@ -1,0 +1,69 @@
+
+Robotic External Leak Locator (RELL) Operations: On GMT 333, upon powering up the Space Station Remote Manipulator System (SSRMS) Special Purpose Dexterous Manipulator (SPDM) for RELL ops, the Dexterous Manipulator Control Software (DMCS) Payload Status showed “Unloaded” for ORU Tool Changeout Mechanism (OTCM) 2 instead of “Secure” which was unexpected since it was captured to Robotic Micro Conical Tool (RMCT) 2. Root cause was traced to software changes made with the “Mount Logan” software patch. Ground teams agreed to completely rolling back the original software MSS 8.3 software version (pre-Mt Logan). Overnight the team successfully re-installed a pre-Mt. Logan version of MSS software, and reinitialized the SPDM. OTCM2 is now showing “secure” (versus the earlier improper “unloaded” signature). This allowed ground controllers to perform the RELL operations that were originally planned yesterday. The Japanese Experiment Module (JEM) Airlock (JEMAL) slide table with the RELL package was extended. Ground Controllers then grasped the RELL with the SPDM and began the checkout by pointing RELL towards deep space in order to scan a clean environment as a baseline, and data is being collected. Tomorrow will begin the planned surveys. RELL is an instrumentation package that is maneuvered externally by the SSRMS/SPDM to detect local pressure variations to help in locating a leak. For this demonstration, a predetermined scan/survey procedure will be executed that characterized the ISS environment and scans various ISS elements containing ammonia lines and systems. Planned operations later this week will also attempt to identify the source of the “white flakes” that have been noticed on downlink video. 
+Marangoni Ultrasonic Velocity Profiler-2 (UVP2) Installation: The crew began the installation activities for the next Marangoni experiment in the Fluid Physics Experiment Facility (FPEF) within the Japanese Experiment Module’s (JEM’s) Ryutai Rack. The crew cleaned the FPEF Infrared (IR) Imager forward and downward mirrors, then installed the Marangoni-UVP-2 cassette. The crew then connected cables and performed leak checks. Spatio-temporal Flow Structure in Marangoni Convection (Marangoni-UVP) investigates the fundamental physics of surface tension where liquid and gas meet. Specifically, it investigates a phenomenon known as Marangoni convection, a type of flow that is driven by temperature differences at the liquid and gas interface. The FPEF enables observations of liquid and gas flow in three dimensions, and the microgravity environment on the ISS provides an ideal setting to study convection. Improved understanding of liquid flow physics could lead to more efficient industrial processes, semiconductors, optical materials and biological materials for use in space and on Earth.
+Sarcolab-3: After successfully configuring the Muscle Atrophy Research & Exercise System (MARES) in the Columbus module yesterday, today the crew will begin the three day operations phase of joint-NASA-ESA-Russia Sarcolab experiment. Today the subject ingressed MARES, followed by the operator performing ultrasound measurements of the right calf muscle, with remote guidance and direction assistance from ground specialists.  The subject then donned Percutaneus Electrical Muscle Stimulator (PEMS), for electrical stimulation at rest and during voluntary muscle contraction, and Electromyography (EMG) electrodes to measure calf muscle and tendon response at the ankle (calf muscle insertion). The MARES equipment and software is used to measure calf strength during spaceflight; the inflight data will then be compared to preflight and postflight measurements to measure the impact of a hypothesized microgravity induced muscle loss. The goal of the Myotendinous and Neuromuscular Adaptation to Long-term Spaceflight (Sarcolab) investigation is to advance the understanding of muscle function and atrophy in space. Results will contribute to further improvement of countermeasures for long duration spaceflight.
+Aerosol Sampler Deployment: The crew will deploy seven passive and two active Aerosol Samplers in various locations around the ISS. Aerosols are small particles suspended in the air, and in Earth’s atmosphere, aerosols include soot, dust, pollen and a wide range of other natural and human-made materials. But smoke does not rise and dust does not settle in microgravity the way they do on Earth, causing aerosols to behave differently and pose hazards for crew members breathing the air. The Aerosol Sampling Experiment (Aerosol Sampler) collects airborne particles in the International Space Station’s (ISS) cabin air, and returns them to Earth so scientists can study the particles with powerful microscopes. For this experiment, particles collected on the cabin air samples are analyzed using a variety of microscopic techniques including: light microscopy, Raman spectroscopy, scanning electron microscopy, computer controlled scanning electron microscopy, and scanning transmission electron microscopy.
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+МО-11. Biochemical blood test.
+Fluid Shifts DPOAE Data Transfer
+Fine Motor Skills Experiment Test – Subject
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+JEM Mesh Cover-Return Grille Cleaning
+Fine Motor Skills Experiment Test – Subject
+Aerosol Passive Samplers Hardware Installation
+Human Research Facility Ultrasound 2 set up and power on
+MARES Ankle Shaving Preparation
+CONTURE-2. Experiment Ops (Session 1). Data Archiving and Hardware Power down.
+MARES Ultrasound session
+XF305 Camcorder Setup
+Marangoni Inside (MI) Preparation
+Aerosol Samplers Battery Charge
+MARES subject electrodes equipment and start of Crew Guided Procedure
+Ultrasound 2 Guided Data Export
+MARES subject electrodes equipment assistance
+Checkout of the installed БРП-М Cable-Insert.
+Marangoni Inside (MI) Cassette Installation
+Photo/TV Camcorder Setup Verification
+Marangoni Inside (MI) Core Installation
+Private Medical Conference (PMC)
+Human Research Facility Ultrasound 2 power off and stowage
+MARES and Laptop Power OFF
+Aerosol Active Samplers Hardware Installation
+CONTURE-2. Hardware activation, Experiment Session 2. Hardware Removal.
+Water Recovery System Waste Water Tank Drain Init
+Aerosol Active Samplers Hardware Photography
+ISS Crew Orientation
+Preparing for Troubleshooting FGB Power Supply System and СУБК devices.
+Water Recovery System Waste Water Tank Drain Termination and Sample
+SPHERES Tether Demo Test Session Review
+DAN. Experiment Ops.
+DAN. Experiment Operator Assistance
+Crew Medical Officer (CMO) On Board Training (OBT)
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+24-hour ECG Recording (start)
+СОЖ maintenance
+Body Measures Equipment Gather
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Packed Bed Reactor Experiment Operations Overview
+SPLANKH. Preparation for Experiment
+Photo/TV Camcorder Setup Verification
+Packed Bed Reactor Experiment Hardware Gather
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+
+Completed Task List Items
+
+Plug-in-Plan Label Cupola UOP
+Manufacturing Device Feedstock Canister, Extruder And Print Tray Exchange
+IV Fluid Demonstration
+Zero-G Soft Rack (ZSR) Door Fit Check
+In-flight Maintenance (IFM) Ku Comm Unit Labeling
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+RELL Operations
+

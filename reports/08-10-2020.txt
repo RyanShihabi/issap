@@ -1,0 +1,27 @@
+
+Payloads
+Biological Experiment Laboratory (BioLab): The crew performed health checks of the BioLab Glovebox seals and gloves including sensors for the fan status, delta pressure, temperature and relative humidity. The BioLab is a multiuser research facility located in the Columbus laboratory. It is used to perform space biology experiments on microorganisms, cells, tissue cultures, small plants, and small invertebrates. BioLab allows scientists to gain a better understanding of the effects of microgravity and space radiation on biological organisms.
+Droplet Formation Study: The crew performed the setup and initiation of recording for additional runs of the DFS investigation and performed any residual water cleanup from the test hardware.  Data will be archived by an alternate method which will actually result in a quicker delivery time to the experiment team. This completes this run of tests and the hardware will be stowed. Droplet Formation Studies in Microgravity (Droplet Formation Study) seeks to evaluate the water droplet formation, water flow, and pressure of Delta Faucet’s current H2Okinetic shower head technology versus the industry-standard use of jet nozzles. H2Okinetic technology allows better control of droplet size and increases the speed of the drops (fewer water drops are used, but the droplets are larger and are moving faster), which creates a feeling of increased pressure for the end user. The study evaluates how best to control the output of water droplets to create a better performing shower device that provides an improved experience for the end user while also conserving water and energy.
+Materials Science Laboratory (MSL): The crew inserted the calibration cartridge into the MSL to allow ground teams to perform a calibration run on the facility. MSRR Z-book battery was configured for extended life mode. The MSL is used for basic materials research in the microgravity environment of the ISS. The MSL can accommodate and support diverse experiment modules. In this way many material types, such as metals, alloys, polymers, semiconductors, ceramics, crystals, and glasses, can be studied to discover new applications for existing materials and new or improved materials.
+Telescience Resource Kit (TReK): The TReK laptop was powered on to allow ground teams to test out the new PEP R14 Pathfinder software. Operating space hardware still requires a complicated set of computer software, which operations teams on the ground maintain. The Flight Demonstration of TReK is a software package that simplifies the software running on the ISS, benefiting users on Earth. Eventually, TReK software will allow scientists, engineers and students who conduct experiments in space to connect to their experiments through regular Internet connection protocols using the new and improved onboard Ethernet communications recently added to ISS.
+Systems
+Starboard Solar Array Wing (SAW) Imagery: Today, the crew photographed the inboard SAWs (1A and 3A), the outboard arrays (1B and 3B) and their masts. The photos have been downlinked for team review. The yearly inspection is performed to identify possible structural damage to the solar array components.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: Crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Completed Task List Activities:
+
+ZBook Hardware Consolidate
+MELFI 1 Dewar Clean Part 1
+PCS Laptop Relocate
+PLUTO H/W Consolidate Part 2
+SSC 24 Universal Serial Bus device Reseat and Photograph
+Adlink Troubleshooting
+Extravehicular Mobility Unit Helmet Absorption Pads – Wanted
+PBA S/N 1015 Discharge
+Onboard Training (OBT) Robotics On-board Trainer (ROBoT) Setup
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Ground Support for Starboard SAW Survey
+VS Limit Update post MSRR Ops
+

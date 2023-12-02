@@ -1,0 +1,109 @@
+
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3 Experiment:  Flight Engineer (FE)-6 Nyberg conducted the last of the planned 42 InSPACE-3 runs for this experiment series.  She then conducted the first of new additional series of 12 runs, which will use the same test parameter settings as previous runs but with an increase in the duration from 2 hours to between 4.5 and 6 hours.  This will allow investigation of a continued chain-like aggregation phenomena observed towards the end of some of the previous shorter duration runs.  InSPACE-3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state with the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and to improve the design of structures.
+Capillary Flow Experiment (CFE) Interior Corner Flow (ICF)-7:  FE-6 Nyberg set up and initiated a run for the ICF-7 study. CFE-ICF studies capillary flow in interior corners.  Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity.  The units used in the ICF-7 runs differ from ICF-6 in the capillary geometry of their respective test chambers.  Equations governing the process are known but have not been solved analytically because of a lack of experimental data identifying the appropriate boundary conditions for the flow problem. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can then be used to improve propellant management aboard spacecraft.
+ISS 15th Anniversary Filming:  Nyberg and Commander (CDR) Yurchikhin recorded video messages to commemorate the 15th anniversary of ISS first element launch, November 20.  The crew recorded a variety of day in the life and work scenes.
+Potable Water Dispenser (PWD) Water Collection and Analysis:  FE-5 Parmitano sampled water from the PWD Ambient for micro in-flight processing, TOCA analysis, Colormetric Water Quality Monitoring Kit (CWQMK) analysis, and Post-Flight archive sampling.  PWD water processing using Microbial Capture Devices (MCD) and coliform detection bag was performed following the water collection.
+JEM Robotic Manipulator System (RMS) Small Fine Arm (SFA): Overnight, JAXA Ground Teams successfully completed SFA Joint Angle Offset command checkout and maneuver demonstrations. The activity took longer than expected due to a violation in arm speed, which was detected during SFA initialization. Once ground teams understood the exceedance, recovery steps were performed and the remainders of planned tasks were completed without issue.  Additional Ground Controlled SFA Operations are scheduled to occur through GMT 287.
+Today’s Planned Tasks
+
+Reaction self-test [Complete] 
+PROK- PH-urine test [Complete] 
+HRF – Blood Sample Collection  [Complete] 
+HRF – Blood Sample Collection and photography [Complete] 
+Pro K Urine PH Test Subject  [Complete] 
+HRF- Urine Sample Collection and analysis [Complete] 
+HRF Generic Refrigerated Centrifuge Configure  [Complete] 
+HRF – MELFI Sample Insertion [Complete] 
+ENERGY – Diet log (Breakfast) [Complete] 
+Anti-virus scan results check on ВКС laptops  [Complete] 
+HRF – Samples retrieval and centrifuge deactivation  [Complete] 
+HRF – Blood Sample Collection and photography [Complete] 
+HRF – MELFI Sample Insertion [Complete] 
+Video equipment setup for ARED physical exercise video shooting   [Complete] 
+Acoustic dosimeters installation  [Complete] 
+KASKAD. Manual Mixing in Bioreactor  [Complete] 
+JEMRMS – power bus check completion, part1 [Complete] 
+SEINER. НА ФСС storage batteries charge (start)  [Complete] 
+JEM Common Gas Support Equipment Gas Supply Stop. [Complete] 
+Water processing system sampling [Complete] 
+СНТ-50МП (А25, А26) installation in SM for power transfer to MLM EPS.  [Complete] 
+EXPOSE-R. НА connection points search and photography.  [Complete] 
+TOCA – potable water dispenser sample analysis  [Complete] 
+CWQMK – Samples analysis  [Complete] 
+MSG- Hardware visual inspection [Complete] 
+Examination of bioelectric activity of heart at rest.   [Complete] 
+HRF- urine sampling and analysis [Complete] 
+HRF – sample insertion into MELFI [Complete] 
+HRF – Final operation and hardware stowage [Complete] 
+Crew pre-gather and stage for trash for ATV4   [Complete] 
+NAPOR-mini РСА. Familiarization, preparation and power cable installation  [Complete] 
+InSPACE3 Experiment Run Operations  [Complete] 
+NAPOR-mini РСА.  [Complete] 
+Mating TLM connectors of power cable  [Complete] 
+HRF- urine sampling and analysis  [Complete] 
+JEMRMS BUS MONITOR START PART2  [Complete] 
+Equipment setup for PAO event  [Complete] 
+NAPOR-mini РСА. Power cable installation  [Complete] 
+Crew prep for PAO event [Complete] 
+HRF – sample insertion into MELFI  [Complete] 
+PAO event  [Complete] 
+KAPLIA-2. Taking photos of CDR “Kaplia-2” worksite  [Complete] 
+CFE. Procedure review  [Complete] 
+Filters replacement in dust collectors ПС1, ПС2 in FGB  [Complete] 
+PROK – Photography of the list with РН and log files with food  [Complete] 
+Capillary Flow Experiments Interior Corner Flow 7 Test Operations  [Complete] 
+VHF test pass via transmitter ППК “Gibrid-N”, ground site-33.  [Complete] 
+ENERGY – Diet Log of Lunch  [Complete] 
+INSP3- Final operations  [Complete] 
+TOCA – Data recording  [Complete] 
+WMK- Water processing in flight  [Complete] 
+SEINER. Observations and photography with the use of НА ФСС  [Complete] 
+Pro K diet log  [Complete] 
+INSP3 – Experiment operations start  [Complete] 
+ASEPTIK. Samples photography after incubation.  [Complete] 
+RELAKSATSIA. Parameters setting, monitoring and final operations.  [Complete] 
+CFE. Test run  [Complete] 
+ASEPTIC. Images editing and downlink  [Complete] 
+СОЖ Maintenance  [Complete] 
+Camcoder tuning checkout for photo/TV [Complete] 
+Video shooting for 15th anniversary of ISS [Complete] 
+ASEPTIC. Thermostat deactivation and dismantle [Complete] 
+Video shooting for 15th anniversary of ISS [Complete] 
+INSP3- Final operations [Complete] 
+KASKAD. Manual Mixing in Bioreactor  [Complete] 
+Capillary Flow Experiments Hardware Teardown  [Complete] 
+Camcoder tuning checkout for photo/TV  [Complete] 
+IMS update  [Complete] 
+HRM Conference [Complete] 
+MSG- Hardware deactivation [Complete] 
+HRF- urine sampling and analysis [Complete] 
+HRF – sample insertion into MELFI [Complete] 
+ENERGY – Diet Log of Dinner
+Reaction self-test
+
+Task List
+
+CEO Ops
+ARED Cylinder Evacuation
+Cygnus Prepack
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+Recording video for Roskosmos Press Service
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+MSG Access Verify
+ESA Recorded Video Message
+Increment 37 crew handover  [Complete] 
+Poster Print [Complete] 
+CFE ICF7 Ops  [In Work]  
+Crew Discretionary PAO Event [In Work]
+Node 3 Reorganize  [In Work] 
+SM Printer Troubleshooting
+
+Ground
+
+Nominal Commanding [Complete] 
+Battery 3B3 Reconditioning [In Work]
+JEM SFA Ground Control Demonstration
+

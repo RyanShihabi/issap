@@ -1,0 +1,77 @@
+
+66 Progress (66P) Docking: The Progress MS-05 (66P) rendezvous and docking to ISS Docking Compartment (DC)-1 nadir port was completed successfully in the automated mode.  The docking capture time was 055/08:29:50 GMT (2:35 am CDT).  Following hatch opening the crew transferred early unstow and US cargo items. 
+Rodent Research-4 (RR-4) Operations: The crew conduced a conference with ground specialists prior to tomorrow’s RR-4 transfer and operations. Tissue Regeneration-Bone Defect (RR-4) studies what prevents vertebrates such as rodents and humans from regrowing lost bone and tissue, and how the microgravity extraterrestrial condition impacts the process. Results could lead to tissue regeneration efforts in space and a better understanding of limitations of limb regrowth at wound sites. 
+Microgravity Expanded Stem Cells (MESC) Microscope Operations: Yesterday, the five MESC BioCell Habitats were placed into Space Automated Bioproduct Laboratory (SABL)1 for temperature control until CO2 incubator was installed in SABL2 and checked out.  Early today the BioCell habitats were moved to SABL2.  Shortly after the transfer, ground teams noticed that SABL2 had slightly higher CO2 levels. The calibration constants were updated and SABL2 is now operating within nominal limits.  The crew has transferred the BioCells to the microscope to image the cells and capture points of interest to payload developers.  Once imaging was completed the BioCell habitats were returned to SABL2.  MESC will aid researches determine the efficiency of using a microgravity environment to accelerate expansion (replication) of stem cells for use in terrestrial clinical trials for treatment of disease.
+SpaceX-10 (SpX-10) Dragon Cargo Operations: Today, the crew continued unpacking the vehicle and stowing items on ISS. They completed approximately 4.75 hours of cargo operations this morning. 
+Mobile Servicing System (MSS) Operations: Today, Ground Controllers will configure the Space Station Remote Manipulator System (SSRMS) for external Dragon cargo operations. They will unstow Special Purpose Dexterous Manipulator (SPDM) and setup for Space Test Program-H5 (STP-H5) extraction from the Dragon trunk. They also will perform a Dragon Trunk Camera checkout and Dragon Trunk cargo survey.
+Ku-Band Telemetry Loss – The Joint Station Lan 2 (JSL2) forward and return links were lost this morning. Ground teams attempted to power cycle the Network (N2) Card twice with no joy, which lead to the conclusion that the Ku Communications Unit 1 (KCU1) could not be commanded.  Extended telemetry was lost as well. The ground was still receiving video and Space to Ground (S/G) audio downlinks 3 and 4, however they were unable to make any changes to them.  The entire Integrated Communications Unit (ICU) was power cycled. Ku Communications Unit 1 (KCU1) was restored and is working nominally and Ku-Band functionality, including video and voice, was restored.  However the Ku IP services through JSL2 were not recovered and Payload Developers (PDs) reported they were unable to send commands.  The JSL2 forward link issue appears to be ground based and teams are still evaluating.
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+МИКРОВИР. Включение термостата на режим + 4 гр С
+Preparation for Progress 435 Docking
+MICROVIR. Thermostat Activation at +4 deg С
+Progress 435 Docking to DC1
+Activation of MPEG2 Multicast TV Monitoring Equipment. 
+Activation of mpeg2 multicast video recording mode
+Closing Applications and Downlink MPEG2 Multicast Video via OCA
+Micrgravity Expanded Stem Cells BioCell Habitat Relocation
+Auxin Transport Cell Biology Experiment Facility (CBEF) Preparation
+Cargo Transfer from/to Dragon
+Progress 435 and DC1 Interface Leak Check
+Rodent Research Transfer Review
+RODENT RESEARCH. Transfer Ops Review
+Restow Node 2 Nadir Vestibule Outfitting Kit (VOK) and Dragon Duct
+DC-СУ Transfer Hatch Opening
+Opening of Progress-[СУ] Transfer Hatch
+Installation of Quick-Release Screw Clamps on DC1 side
+Progress 435 Air Sampling Using АК-1М Analyzer
+Progress 435 Deactivation, Air Duct Installation
+Wastewater Storage Tank Assembly (WSTA) Fill
+Photography of traces left by the Active Docking Mechanism Probe on the DC1 Passive Mechanism Receiving Cone
+On-Board Training (OBT) Dragon Emergency Review
+Glacier Dragon Uninstall, Transfer, and EXPRESS Rack Install
+Progress 435 (DC1) Crititcal, Priority, and US Cargo Transfers and IMS Ops
+СОЖ maintenance
+Polar Dragon Uninstall, Transfer, and EXPRESS Rack Install
+On-Board Training (OBT) Dragon Emergency Review
+Micrgravity Expanded Stem Cells Microscope Ops
+REGENERATSIYA-1. Hardware transfer and setup
+Transfer of Konyugatsiya, Produtsent, Bioplenka from Progress and Setup in Thermostat at +4 deg C
+Transfer of CO2 Filter Units (БФ) from Progress 435
+REGENERATSIYA-1. Photography at Setup Location
+Public Affairs Office (PAO) High Definition (HD) Config Columbus Setup
+P/L Photo after Setup in thermostat at +4 deg C
+ASEPTIC. Hardware Transfer from Progress to FGB
+Replacement of СО2 Filter Unit (БФ) ИК0501 Install CO2 Filter Unit No.181 (00070065R). Discard the removed unit. Reflect changes in IMS
+PAO Preparation
+PROBIOVIT. Progress Transfer Ops
+Downlink photo information of the docking mechanism internal surface (via OCA)
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+MICROVIR. Hardware Transfer from Progress to MRM1
+MICROVIR. Removal of Cassette-M No.2-1 and No.2-2 from the kit and deployment on panel
+PROBIOVIT. Photography of Probiovit kits No.3, No.4 at setup locations
+Delta file prep
+Microgravity Expanded Stem Cell MELFI Insertion 6
+Rodent Research Crew Conference
+Microscope Hardware Temporary Stowage
+Rodent Research Gather 2
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Dose Tracker Data Entry Subject
+ISS HAM Radio Power Up
+Daily Planning Conference
+Long Duration Sorbent Testbed Status Check.
+Space Headaches – Weekly Questionnaire
+Systems Operations Data File (SODF) Deploy
+Dragon Cargo Operations Conference                                      
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+MT Translate
+Robotics Operations 
+

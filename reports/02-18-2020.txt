@@ -1,0 +1,81 @@
+
+Double Cold Bag (DCB):  The crew transferred and unpacked three refrigerated Double Cold Bags (DCB) into the appropriate MELFI, GLACIER, MERLIN, and ambient locations.  After the science items were removed from the DCBs, the ice bricks and DCBs were temporarily stowed to dry out.  The DCBs are passive (non-powered) bags which are used to maintain temperatures at acceptable levels during the vehicle ascent or descent.  The Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFIs), General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIERs), and Microgravity Experiment Research Locker/Incubator (MERLINs) are the powered refrigerators, freezers, and incubators aboard the ISS.
+Systems:
+Northrop Grumman (NG)-13 Mission:  NG-13 Cygnus vehicle (S.S. Robert Henry Lawrence Jr.) rendezvoused with the ISS and was captured by the ISS Crew utilizing the Space Station Remote Manipulator System (SSRMS) at 3:05 am CT.  Following capture, the Cygnus spacecraft was maneuvered and berthed to the Node 1 nadir Common Berthing Mechanism (CBM) by Robotics Ground Controllers and fully integrated with the ISS.  Once integrated, the crew ingressed the Pressurized Cargo Module (PCM) to transfer time critical payloads and cold bags from Cygnus to the ISS. The Cygnus NG-13 mission is part of the Commercial Resupply Services-2 (CRS-2) contract and is expected to be berthed to ISS until May 11, 2020.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Cygnus Berthing Operations Support
+JEM RMS NRCSD 17 Operations (planned this evening)
+SDMS Data Dump (planned this evening)
+
+Wednesday, 2/19 (GMT 050)
+Payloads:
+
+
+Cold Stowage transfers
+DOSIS-3D cable swap
+Mobile Space Lab install
+Nanoracks Zero-G oven
+NRCSD-17 deploys
+OsteoOmics
+Phage Evolution
+PL NAS clean
+Tangolab 2 card cube replace
+
+Systems:
+
+Review Emergency OBT Simulator Functionality
+Transfer Cygnus Cargo Operations
+Centerline Berthing Camera System (CBCS) Stow
+
+Thursday, 2/20 (GMT 051)
+Payloads:
+
+
+Food Acceptability
+ISS HAM pass
+OsteoOmics
+
+Systems:
+
+Payload Laptop Terminal 3 (PLT3) Shell Change out
+Emergency Response On-board ISS Simulator Training
+Emergency Response Review and Debrief Conference
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Robotics Workstation (RWS) Configuration
+USOS Window Shutter Close
+Cygnus PCS Command and C2V2 Link Verification
+Centerline Berthing Camera System (CBCS) Power up
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Check of the Results of the Antivirus Scanning of [BKC] Auxiliary Computer System Laptops
+Cygnus R-BAR Approach
+Check the Status of RSK1 Battery
+COSMOCARD. Closeout Operations
+Space Station Remote Manipulator System (SSRMS) Cygnus Capture
+Remote Workstation Monitor HD Video Downlink Deactivation RWS
+TERMINATOR. Nadir Hardware Setup and Connection. Hardware Power up
+СОЖ Technical Maintenance, Monitor the Installation of ИП-1 Sensors
+Node 1 Centerline Berthing Camera System (CBCS) Removal
+Photo TV High Definition (HD) Cygnus Video Setup
+Cygnus/Node 1 Pressurization and Leak Check
+Node 1 Nadir to Cygnus Vestibule Outfitting
+СКПФ1 and СКПФ2 Dust Filters Change out and Cleaning of MRM1 Gas-Liquid Heat Exchanger (ГЖТ)
+Monthly Technical Functionality Check of the ISS RS Video Recording Equipment
+Common Berthing Mechanism (CBM) Controller Panel Assembly (CPA) Rotation and Closeout
+Cygnus Ingress
+Air Samples Collection Using [АК-1М] Sampler in Cygnus (NG-13) Prior to Air Ducts Routing
+Restow Vestibule Outfitting Kit (VOK)
+Cygnus Cargo Photo
+Cold Stowage Double Cold bag Unpack
+
+ 

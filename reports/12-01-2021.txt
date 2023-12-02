@@ -1,0 +1,25 @@
+
+Payloads:
+Actiwatch Plus:  Actiwatch Plus devices were connected to the HRF-1 rack using a USB Hub in preparation for ground commanding and battery charging.  The Actiwatch is a waterproof, nonintrusive, sleep-wake activity monitor worn on the wrist of a crewmember. The device contains a miniature uniaxial accelerometer that produces a signal as the subject moves. The data are stored in nonvolatile memory within the Actiwatch until they are downloaded for analysis.
+Manufacturing Device (MAND):  The second of six 0-degree panel prints for materials testing was successfully printed, removed, and stowed. A crewmember also cleaned the extruder nozzle.  MAND enables the production of components on the ISS for both NASA and commercial objectives.  Parts, entire experiments, and tools can be created on demand utilizing the MAND printer that is installed into an Express Rack locker location.  MAND is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Systems: 
+Extravehicular Activity (EVA) Preparation:  Today, the USOS crew continued preparations for the upcoming EVA, which will replace the S-Band Antenna Support Assembly (SASA) on the Port 1 truss.  SASA is the antenna assembly that provides S-Band communication. Final preparations included installation of the EVA Pistol Grip Tool (PGT) Battery Installation and Equipment Lock (E-LK) Preparation
+to prepare the EVA Mobility Unit (EMU) and Airlock for EVAs and suit donning. The crew also reviewed procedures before conducting a conference with ground specialists. US EVA #78 is scheduled for Thursday, December 2nd with Joint Airlock Egress occurring at ~6:40am CST.
+In Flight Maintenance (IFM) Global Positioning System (GPS) 2 Remove and Replace (R&R): Today, the crew performed a procedure to remove and replace a failed Space Integrated GPS Inertial Navigation System (SIGI) GPS Receiver. The primary function of SIGI is to produce the GPS based position, velocity, and attitude outputs needed to control the ISS position in space. The ground checkout was not successful and initial troubleshooting steps were inconclusive. Additional troubleshooting will be attempted on Friday.
+Regenerative Environmental Control and Life Support System (ECLSS) Urine Processor Assembly (UPA) Brine Filter Changeout: As part of regular maintenance, the crew completed a Brine Filter Changeout to R&R the UPA Brine Filter today. Brine filters are replaced every 60 days. This was followed by a drain and fill of the installed Recycle Tank via the UPA Fill Drain Valve.
+Completed Task List Activities:
+
+Cordless Vacuum Cleaner Batteries Questionnaire
+Wanted Poster- Urine Frozen Syringe
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Regenerative ECLSS Recycle Tank Drain Support
+Crew Dragon System Checkout
+Close Thruster Manifold Isolation Valves for EVA
+ARS MCA Rapid Sampling
+JEM MAXI File Uplink before next MAXI-SCHEDULE-UPDT
+ACS PCA C&W Configuration
+ACS ISS ATM Vent
+

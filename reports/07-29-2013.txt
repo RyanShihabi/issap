@@ -1,0 +1,75 @@
+
+New Status:
+52P Launch and Dock: 50P launched at 3:45pm CDT Saturday with nominal ascent. Rendezvous and docking occurred at 9:26pm CDT and were completed successfully in automated mode.
+H-II Transfer Vehicle (HTV)-4 Rendezvous and Capture On-Board Training (OBT):  Flight Engineer (FE)-3 Cassidy, FE-5 Parmitano, and FE-6 Nyberg conducted proficiency training in preparation for HTV-4 arrival on Friday, August 9 following launch on Saturday, August 3.  They reviewed the HTV-4 mission profile, rendezvous procedures, and crew interfaces for monitoring and commanding the HTV. Crewmembers also participated in a conference with ground specialists to review the OBT plan and discuss late changes to procedures and operations related to the HTV-4 mission.
+HTV-4 Offset Grapple OBT: Cassidy and Nyberg completed the first of two offset grapple training sessions in preparation for HTV capture. They performed approaches with the Space Station Remote Manipulator System (SSRMS) to practice maneuvering over the grapple pin to simulate HTV capture. The second training session is planned for August 5.
+Ocular Health:  Parmitano and Nyberg collected blood pressure and vital sign data in support of the Ocular Health payload.  They also performed tonometry measurements with each acting as a Crew Medical Officer (CMO) and subject.  The Ocular Health protocol aims to systematically gather physiological data to characterize the Risk of Microgravity-Induced Visual Impairment/Intracranial Pressure on crewmembers assigned to a 6 month ISS increment. Researchers believe that by systematically measuring visual, vascular and central nervous system changes over the course of this experiment, a database could be developed to inform future in-flight research protocols, identify mechanisms, develop countermeasures, and direct clinical monitoring and clinical practice guidelines.
+Automated Transfer Vehicle (ATV) 4 Status:  On Sunday, Data Processing Unit (DPU) 3 experienced problems following DPU 2 issues seen on July 22 which left ATV operating on one DPU. Today, ATV-Control Center (CC) performed ground testing and successfully reintegrated the DPUs.  Currently all three DPU’s are on and performing nominally.
+Today’s Planned Tasks
+
+CMS-ARED-CYLNDR EVAC [Complete]
+N2N-HATCH-UNLATCH [Complete]
+OBT-HTV OFFST-GRAP1 [Complete]
+OBT-SSRMS-DEBRIEF [Complete]
+OBT-HTV-CONF [Complete]
+OBT-HTV-RNDZ-CBT [Complete]
+OBT-HTV-ROBO-RVW [Complete]
+RGN-REC TNK-DRN INIT [Complete]
+RGN-REC TNK-DRN TERM [Complete]
+RGN-REC TNK-R&R [Complete]
+RWS-CUP-UOP-DISABLE [Complete]
+RWS-CUP-UOP-ENABLE [Complete]
+Г-52P-БИТС-ЛКТ-INSTL [Complete]
+Г-52P-ССВП-СтМ-DIS [Complete]
+ИУС-ППЭ-RFRSH  [Complete]
+ПЗЭ-МО-12-CDM-1 [Complete]
+ПЗЭ-МО-9-PREP [Complete]
+СОГС-БМП-Ф1-MNT-END
+СОГС-БМП-Ф1-MNT-INIT
+СУБА-ДПН-БКС-OUTF-PR [Complete]
+ТГК-52P-IMS-XFER
+ТГК-52P-ODF-REPLACE
+R-PAO-SD-REP-REC [Complete]
+CIR-ALIGN GUIDE-RMVL [Complete]
+OH-BP-OPS_FE5 [Complete]
+OH-BP-OPS_FE6 [Complete]
+OH-BP-OPS_OPR [Complete]
+OH-TONOMTRY-PRACTICE [Complete]
+OH-TONOMTRY-TST S/U [Complete]
+OH-TONOMTRY-TST-CMO [Complete]
+OH-TONOMTRY-TST-SUB [Complete]
+OH-VIS-TEST [Complete]
+PROK-DIET C-LOG1_FE5 [Complete]
+PROK-URN PH-TEST_FE5 [Complete]
+REACTION-SLF-TST_FE5 [Complete]
+REACTION-SLF-TST_FE6 [Complete]
+БТХ-10-ACT [Complete]
+БТХ-10-DEACT [Complete]
+БТХ-10-EXTRACTION [Complete]
+БТХ-10-PHOTO [Complete]
+БТХ-10-UNSTW-RLCT [Complete]
+БТХ-14-EXTR-ACT [Complete]
+БТХ-14-PHOTO [Complete]
+ГФИ-8-FSS-CHRG [Complete]
+ГФИ-8-FSS-OBS [Complete]
+ТЕХ-52-EXE
+CCF-H/W-STOW NO ODU
+
+Task List
+
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Report
+EKON Photo
+JSL Port Troubleshooting
+P/TV D3S Menu Set
+CMS ARED Cylinder EVAC [Completed]
+52P USOS Unpack [In work]
+Wipes-Towel Audit [Complete]
+Regen WSTA Fill
+
+Ground
+
+Nominal Commanding
+

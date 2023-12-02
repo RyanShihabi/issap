@@ -1,0 +1,89 @@
+
+Out-of-Spec ISS Cabin Pressure Decrease: Following the initial leak repair yesterday, the ISS was repressurized to nominal pressure using Progress assets.  Today, the Russian crew performed additional activities for the leak repair.  There was still a small leak path which the crew sealed as they continued with the repair. An additional level of repair will be added just prior to crew sleep today, allowing time for the previous repairs to cure. 
+Sextant Navigation: Today the crew performed the fifth session for the Sextant Navigation investigation. The crew collected the data and recorded the results for ground evaluation. This session focused on sighting position evaluation. Astronauts onboard the ISS test a hand-held sextant that is intended for use on future Orion exploration missions. The results from this investigation can aid in the development of emergency navigation methods for future manned spacecraft. Historically, Gemini missions in 1965-66 were the first to exercise sextant sightings from a spacecraft. A sextant was built into Apollo vehicles as a navigation backup in case of lost communications.
+Gravitational References for Sensitomotor Performance (GRASP): The crew performed troubleshooting in both the seated and free-floating configuration for camera tracking issues the crew experienced in the previous GRASP session. The troubleshooting was successful. GRASP is intended to provide insight into how the central nervous system integrates information from different sensory modalities, encoded in different reference frames, in order to coordinate movements of the hand with objects in the environment. Performed on the ISS, in conjunction with a series of experiments performed on the ground, GRASP explores the interaction between all of the various sensory cues.
+Center for the Advancement of Science in Space (CASIS) Protein Crystal Growth (PCG) 13:  The crew performed microscope photo operations for PCG-13 with assistance from the Payload Developer. The CASIS PCG 13 investigation seeks to enhance the way crystals are grown in a microgravity environment by allowing crewmembers to observe imperfections within a crystal and make real-time adjustments to follow-up experiments, rather than returning a sample to Earth and relaunching for additional attempts. The changes have the potential to dramatically reduce the time it takes to conduct an experiment onboard the ISS and result in a more cost-effective solution for prospective researchers.
+ExPRESS Rack (ER) 5 Slow Leak Status: On Tuesday the crew isolated the Space Automated Bioproduct Laboratory (SABL) and Plant Habitat from the Moderate Temperature Loop (MTL) to assist in the investigation into the source of the leak in the Japanese Experiment Module.  One of the two sensors detected a loss of volume in the MTL line.  Today the crew checked the payload leg valves and found residue on the lower leg valve. The crew wiped up the residue and ground teams will determine a forward plan to troubleshoot the potential leak.
+Eye Exams: Today the crew completed the third day of routine Optical Coherence Tomography (OCT), Fundoscope, and Ultrasound eye exams. OCT is an imaging technique analogous to ultrasound imaging that uses light instead of sound to capture micrometer-resolution, two- and three-dimensional images of tissue; the Fundoscope is a tool used to see inside the fundus, or interior surface, of the eye. Eye exams are performed regularly onboard in order to monitor crewmembers eye health.  Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment.
+Extravehicular Activity (EVA) Preparations: Today the crew continued gathering and configuring various tools and tethers needed for the upcoming H-II Transfer Vehicle (HTV)-7 Battery R&R EVAs in September. In addition to configuring three 85-foot Safety Tether Packs for EVA use, they also began building the Crewlock bags that will be used during the first EVA scheduled for 20 September.
+Joint Station LAN (JSL) 11.1 Software Update: Last night, the JSL was successfully migrated to version 11.1, which implements new configurations to wireless access points. This is the second phase in the implementation of new onboard IT security controls including upgrades to the existing Network Monitoring System (NMS) as well as implementing Syslog on all JSL network infrastructure devices. The Payload Ethernet Hub Gateways (PEHGs) and EXPRESS Racks (ERs) were updated to accommodate the new JSL version.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+HTV PROX Ops Checkout
+N3 ITCS Dual Transition
+SPDM Stow
+
+Two-Day Look Ahead:
+Saturday, 09/01: Crew Off-Duty, Weekly Housekeeping
+Sunday, 09/02: Crew Off-Duty, BCAT Camera ops
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Cold Atom Lab Helium Monitor Setup [Attempted – Not Successful]
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Functional Check of PLETHYSMOGRAPH.
+GRIP partial stowage
+Inventory Management System (IMS) conference
+Cold Atom Lab Helium Monitor Setup
+XF305 Camcorder Setup
+Filling four ЕДВ from Progress 439 (DC1) H2O Tank 1
+JEM Airlock Slide Table (ST) Extension to JPM Side
+GRASP additional set-up in seated configuration
+Acoustic Monitor Setup for Static Measurements
+JEMAL Slide Table Capture Mechanism Cable Routing Correction
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+GRASP seated Troubleshooting
+JEM Network Storage (NeST) Mesh Cleaning
+PROFILAKTIKA-2. Preparation for the Experiment.
+Station Support Computer Hypervisor 4 Preparation
+EXPRESS Rack-5 Rotate
+ExpressRack5 Payload Valve Check
+PROFILAKTIKA-2. MO-3 Test Assistance.
+Metabolic Space data transfer and equipment stowage
+PROFILAKTIKA-2. БД-2 Treadmill Experiment Ops (MO-3 Test in Passive Mode).
+Thermolab data downlink for Spacetex-2
+PROFILAKTIKA-2. Closeout Ops.
+EXPRESS Rack-5 Rotate Up
+N2 Nadir Hatch to Unlatch Hardstop
+Rodent Research Water Box and Light Check
+Binary Colloidal Alloy Test-Cohesive Sedimentation SB-800 Flash Battery Changeout
+PROFILAKTIKA-2. Hygiene Procedures
+Waste and Hygiene Compartment (WHC) Full Fill
+ESA Nutritional Assessment
+GRASP configuration change from seated to quasi free floating
+GRASP Freefloating troubleshooting
+СТТС Configuration for MRM1 comm
+SEPARATSIYA. Recovery of RS Urine Circulation Loop [СРВ-У].
+Replacement of media player in audio/video complex Agat-2 and operational test.
+Cold Atom Lab Helium Monitor Teardown
+GRASP stow
+Systems Operations Data File (SODF) Update
+PCG-13 Microscope Ops
+Comm reconfig for nominal ops
+Repairs of SM interior panel to Install overlay sheets, Day 2 (panel 430).
+VIZIR. Experiment Ops using СКПФ-У PL.
+Restow of Columbus Bays 1, 2 and 3
+Extravehicular Activity (EVA) Tool Configure
+Wastewater Storage Tank Assembly (WSTA) Fill
+Sextant Navigation Session 5 Operations
+INTERACTION-2. Experiment Ops
+ER5 Plant Habitat Photo
+Ultrasound 2 HRF Rack 1 Power On
+Ultrasound 2 Scan Prep
+СОЖ Maintenance
+Ultrasound 2 Scan
+On Board Training (OBT) ROBoT T&C Self Study
+Biomolecule Extraction and Sequencing Technology (BEST) Biomolecule Sequencer Stow
+ISS Food Intake Tracker (ISS FIT)
+HTV PCS HCP Selfcheck (Side A)
+Ultrasound 2 Post Exam
+ECON-L. Observation and Photography
+
+ 

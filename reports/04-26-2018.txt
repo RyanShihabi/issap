@@ -1,0 +1,95 @@
+
+NanoRacks Module-66:  The crew removed NanoRacks Module-66 from the NanoRacks Platform-1 today for return on the SpaceX-14 vehicle. This investigation examines fibril formation and beta amyloid peptides in microgravity using a fluorescence spectrometer.  Alzheimer’s disease, an irreversible neurodegenerative process, is characterized by formation of neurofibrillary tangles of tau protein and plaques, or clumps of amyloid beta peptide, that kill brain cells. Research suggests that an intermediate stage in fibril formation is ten times more toxic and may play a greater role in cell death and development of Alzheimer’s disease. Results from this investigation could help identify a means to slow down the rate at which Alzheimer’s disease affects the brain or to eliminate toxic effects of the beta amyloid peptides.
+Vascular Echo Mobil-O-Graph (MOG): The crew configured the MOG with the European Physiology Modules (EPM) laptop to prepare for future use of the MOG during 24-hour Vascular Echo blood pressure monitoring sessions.  The MOG is an ambulatory blood pressure and pulse wave analysis monitoring and recording system that doesn’t interfere with other crew activities or sleep. The aim is to measure and quantify cardiac and vascular structural and functional changes during 6 months of spaceflight and up to one year of recovery. At the start of a session, the crewmember will connect the MOG to the EPM laptop, set up the MOG, and don the device for 24 hours. 
+Circadian Rhythms: A crewmember completed a Circadian Rhythms experiment session today and removed the armband monitor, watch and Thermolab double sensors, which were worn for 36 hours.  The objective of the experiment is to get a better understanding of any alterations in circadian rhythms in humans during long-term space flights. Such knowledge will not only provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions. 
+Meteor: The crew replacde the hard drive in the Meteor laptop today.  The Meteor payload is a visible spectroscopy instrument used to observe meteors in Earth orbit. Meteor uses image analysis to provide information on the physical and chemical properties of the meteoroid dust, such as size, density, and chemical composition. Since the parent comets or asteroids for most of the meteor showers are identified, the study of the meteoroid dust on orbit provides information about the parent comets and asteroids. 
+TangoLab-1:  The crew removed a card containing experiment cubes from the TangoLab-1 facility today.  The TangoLab-1 locker is a reconfigurable general research facility designed for microgravity research and development and pilot manufacturing on the ISS. 
+Service Module Release 8.10 (SM 8.10): Overnight ground specialists in Moscow performed a update to the Russian Segment Service Module (SM) software. This update will allow for the integration of the new Russian Ku-band radio system called ШСС (Broadband Communication System). The update also integrates the new US crew vehicles and adds the capability for performing Optimal Propellant attitude Maneuvers (OPM) under Russian segment control. 
+Node 3 Low Temperature Loop (LTL) Pump Package Assembly (PPA) R&R: Today the crew completed an R&R of the Node 3 Low Temperature Loop (LTL) Pump Package Assembly (PPA).  This PPA was experiencing sudden drops in impeller speed when set to the higher speed needed to support an Internal Active Thermal Control System (IATCS) single loop configuration.  Engineering teams determined that the PPA was deteriorating and needed to be replaced with an available spare. There are two of these pumps installed in the US Lab, Node 2 and Node 3 modules which provide water cooling to payloads and critical systems avionics. 
+Extravehicular Activity (EVA) Preparations: Today the crew swapped out Extravehicular Mobility Units (EMU) on the EMU Don/Doff Assembly (EDDA) to perform an annual dump and fill of the Portable Life Support System (PLSS) water tank with iodinated water. This is required to protect the EMU water systems which are sensitive to contamination. The crew also gathered and configured tools and equipment required for the upcoming US EVA PFCS Relocate currently planned on 16-May.
+Space Station Remote Manipulator System (SSRMS) operations: Today ground robotics controllers used the SSRMS to install the Materials Transfer Tray (MTT) onto the Japanese Experiment Module (JEM) ORU Transfer Interface (JOTI).  JOTI was retracted into the JEM Airlock where it will remain until tomorrow morning for thermal conditioning.  The crew is scheduled to remove the MTT from the slide table tomorrow. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Mouse Stress Defense Item Gathering
+TangoLab-1 Card Cube Remove
+Activation of Vozdukh Atmosphere Purification System [СОА] (mode 3)
+Circadian Rhythms Deinstrumentation w. Armband
+Video Recording of Greetings
+Meteor Hard Drive Swapout
+XF305 Camcorder Setup
+Mouse Stress Defense Cage Maintenance
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill [Aborted]
+SPLANKH. Termination of EGEG Recording and Closeout Ops(Stow kits Splankh-1.Device and Splankh-1. Consumables in ФГБ1ПГО_2_224_1, 0.5 CTB No.1299 (010480J))
+Nikon still camera sync with station time
+ISS HAM Service Module Pass
+Node 3 Endcone Stowage Cleanout in prep for the Node 3 Low Temperature Loop (LTL) Pump Package Assembly (PPA) R&R
+Mouse Stress Defense Transportation Cage Unit Spare Cage Replace [Aborted]
+COSMOCARD. Preparing for and Starting 24-hr ECG Recording
+NanoRacks Platform-1 Modules Removal
+FAZOPEREKHOD. Preparation steps and starting the experiment
+Airlock Rack Topology
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+Removal of Gamma-1M, Setup of KMA-01 Medical Hardware Facility and KMA-TM telemetry adapter. КМА-01 Test Activation
+VIZIR. СКПИ Battery Charge
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+СТТС Reconfiguration in MRM1
+SEPARATION. Activation of the 3rd distillation
+JEM Ethernet Extender Internal Activation
+SM air sampling for CO using ИПД samplers
+JEM Ethernet Extender Internal Deactivation
+Node 3 Camcorder Setup
+ИПД Air Sample Collection for Ammonia in SM
+Node 3 Low Temperature Loop (LTL) Pump Package Assembly (PPA) Removal
+Collecting SM and FGB Air Samples Using АК-1М Sampler
+SM Air Sampling for FREON Using АК-1М Sampler
+СОЖ Maintenance
+Lab Rack Topology
+Node 2 Rack Topology
+Circadian Rhythms Deinstrumentation w. Armband
+SEPARATION. Activation of the 4th distillation
+Transferring Node 3 Pump Package Assemblies (PPAs) to Node 2 Maintenance Work Area (MWA)
+Node 3 Pump Package Assembly (PPA) Gas Trap Assembly Removal and Replacement (R&R)
+FAZOPEREKHOD. Closeout Ops
+Circadian Rhythms Downlink
+Extravehicular Activity (EVA) Tool Configuration
+Microgravity Measurement Apparatus (MMA) Laptop Terminal 2 (MLT2) Hard Disk Drive (HDD) Exchange 2
+Node 3 Pump Package Assembly (PPA) Fine Filter Removal and Replacement (R&R)
+Transferring Node 3 Pump Package Assembly (PPA) to Node 3 Port Alcove
+Node 3 Low Temperature Loop (LTL) Pump Package Assembly (PPA) Installation
+IMS Update
+Circadian Rhythms Armband Stow
+CONTENT. Experiment Ops
+Dragon Lithium Hydroxide (LiOH) Filter Bag Installation
+FAZOPEREKHOD. Preparation steps and starting the experiment
+VIZIR. СКПИ Battery Charge
+SEPARATION. Removal of ЕДВ-Д  and Downlink of Zipped File
+Extravehicular Mobility Unit (EMU) Swap
+Node 3 Camcorder Deactivation
+Stow hardware and tools for Node 3 Low Temperature Loop (LTL) Pump Package Assembly (PPA) remove and replace (R&R)
+Extravehicular Mobility Unit (EMU) Full Water Tank Dump and Fill
+Node 3 Endcone Stowage Replace post- Node 3 Low Temperature Loop (LTL) Pump Package Assembly (PPA) R&R.
+SEPARATION. Sampling of collected water
+Surface Pro 3 Stow
+Comm reconfig for nominal ops
+Mobil-O-Graph EPM Laptop Setup
+Node 1 Rack Topology
+EPM Laptop settings change
+Dragon Locker Install
+Extravehicular Mobility Unit (EMU) Swap [Deferred]
+FAZOPEREKHOD. Closeout Ops
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Node 3 LTL PPA checkout post R&R
+SSRMS MT Translate and install the MTT in the JOTI
+Nominal Ground Commanding 
+

@@ -1,0 +1,21 @@
+
+Payloads:
+JEM Water Recovery System (JWRS): The JWRS Gas Trap Module B and T-union were reconnected. The JWRS Valve Module SV-7 was reinstalled and the JWRS Bypass Line tube tip was cut as part of JWRS troubleshooting. The demonstration of JWRS generates potable water from urine. In the past, urine and wastewater were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Liquid Behavior: Liquid Behavior Box A was set up for Run-2. Fluid behavior in the micro/low-gravity environment is different from its behavior on Earth, and the fluid behavior in the system sometimes affects its performance. The Observation of Liquid Behavior in Partial G Environment investigation provides important information for engineers and scientists to better predict how liquids behave in the low-gravity environment for the optimal design of equipment for future space activities.
+Pore Formation and Mobility Investigation-Asymmetric Sawtooth and Cavity-Enhanced Nucleation-Driven Transport (PFMI-ASCENT): PFMI-ASCENT samples were exchanged in the PFMI facility in the MicroGravity Science Glovebox (MSG). PFMI-ASCENT demonstrates a passive cooling system for electronic devices in microgravity using a microstructured surface. When fluids boil over flat heated surfaces in microgravity, vapor bubbles grow larger in size, causing poor heat transfer that can lead to damage of devices. Adding microscopic ratchets on the surface may passively enable mobility of vapor bubbles and prevent this damage. 
+Veg-05: The crew completed Plant Pillow shades installation, then primed the small Plant Pillows and set the light time intervals. These tasks initiated the grow out experiment period. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System (Veg-05) investigation is the next step in efforts to address the need for a continuous fresh-food production system in space.
+Systems:
+Extravehicular Activity (EVA) Reviews and Conference: Today, the crew completed a review of detailed EVA procedures and reference packages in preparation for the upcoming 4A ISS Roll Out Solar Array (IROSA) Install on December 19th. After this, they participated in a conference with ground teams to further discuss final operations, get-ahead tasks, and EVA timelines. During this EVA the EV crew will install a fourth IROSA to the 4A power channel on the port truss of the ISS in order to generate more power to the ISS.
+USOS EVA Preparation Activities: In preparation for the upcoming EVA, the crew reviewed the EVA operations plan using the Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software. DOUG is a 3D viewing tool or graphic engine designed by the Virtual Reality Training Laboratory at Johnson Space Center. DOUG produces mission specific scene configuration databases that are utilized in major simulations throughout NASA centers. The crew also performed an EVA helmet rotation by unpacking a new EVA helmet from its launch enclosure, performing on-orbit inspection, and repacking a return helmet in the same launch enclosure box. 
+Completed Task List Activities:
+
+XFER-DRGZ-CARGO-OPS (GMT 347)
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+EVA Procedure Conference
+Crew Dragon System Checkout
+ACS CCDB Attitude Update
+JEMRMS Deactivation
+

@@ -1,0 +1,95 @@
+
+Water Recovery System (WRS) Status: On February 24th, the Water Processor Assembly (WPA) had a fault due to a leak into the catalytic reactor. On Thursday, Hopkins and Mastracchio successfully R&Rd the catalytic reactor. WPA has since been activated and is processing nominally.
+On Board Training (OBT) Soyuz Descent: Commander (CDR) Kotov, Flight Engineer  (FE-2) Ryazanskiy and FE-3 Hopkins completed this nominal drill performed prior to a Soyuz undock. This activity is in preparation for next Monday’s undock of 36S.
+Emergency Roles and Responsibilities Review: FE-3 Tyurin, FE-5 Mastracchio and FE-6 Wakata reviewed priorities for emergency response including safety of the crew and safe configuration of the ISS. Additional topics covered included crew accountability, escape vehicle access, CDR responsibilities and communication and coordination.
+Aniso Tubule Experiment:  Wakata retrieved the Aniso Tubule sample from the light proof bag where it was placed on March 4th and placed it on the Multi Purpose Small Payload Rack (MSPR) flourescent microscope for a 48 hour observation.  This is the fifth of five planned runs.  JAXA’s Aniso Tubule experiment investigates the roles of cortical microtubules and microtubule-associated proteins in gravity-induced growth modification of plant stems.
+Marangoni Operations:  Wakata closed out the Marangoni operations with installation of the Infrared Imager and Marangoni Deformation 10 (MD10) in the Fluid Physics Experiment Facility (FPEF).  Marangoni convection is the flow driven by the presence of a surface tension gradient, which can be produced by temperature differences at a liquid/gas interface.  Scientists observe the flow patterns fluids to learn more about how heat is transferred in microgravity.  The knowledge gained from the Marangoni experiment is applicable to the high performance heat exchangers and heat pipes, both in the space and on the earth, and for the production of high-quality crystal growth required for semiconductors and optical crystals.
+Material Science Laboratory (MSL) Solidification and Quench Furnace (SQF) Sample Cartridge Exchange:  Mastracchio removed a processed sample cartridge from the SQF and replace it with Microstructure Formation in Casting of Technical Alloys under Diffusive and Magnetically Controlled Convective Conditions (MICAST)-2 test sample 12. This investigation aims to deepen the understanding of the physical principles that govern solidification processes in metal alloys. The patterns of the crystals resulting from transitions of liquids to solids is of substantial importance to processes in producing materials such as solar cells, thermoelectrics, and metal alloys. 
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot  [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+SM ПСС (Caution & Warning Panel) Test  [Complete]
+HRF Saliva Sample Collection [Complete]
+HRF – Urine Collection and Analysis Operations [Complete]
+HRF – MELFI Sample Insertion [Complete]
+USOS Window Shutter Close [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+HRF Blood Draw [Complete]
+HRF – Assistance with blood sample collection [Complete]
+ТК 710 Motion Control System (СУД) Test Prior To Undocking  r/g 5040 [Complete]
+HRF – Centrifuge Configuration [Complete]
+HRF – Sample removal and centrifuge deactivation [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+ISS crew and ГОГУ (RSA Flight Control Management Team) tagup r/g 5008 [Complete]
+ANISO – MSPR Components Activation [Complete]
+Configure condensate collection from the Lab D5 Tank to the WPA tank [Complete]
+Replace unit 800А in SM [Complete]
+Replacement of SM  800А Storage Battery No. 1 – assistance [Complete]
+Crew Departure Prep [In work]
+HRF – Blood Collection Stow [Complete]
+WRS-IFM – Equipment Stowage [Complete]
+ТК 710 АСУ Activation [Complete]
+HRF – Stow Urine Collection Equipment [Complete]
+Replacement of SM 800А Storage Battery No. 1 – assistance  [Complete]
+G1 – Camcorder Setup [Complete]
+MD10 – Installation Part 1 [Complete]
+IMS Tagup [Complete]
+SHD – Weekly Questionnaire [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц Micro-Accelerometer Data to HDD for return (start) r/g 5038 [Complete]
+SHD – Weekly Questionnaire [Complete]
+Filter Replacement in Biolab Glovebox [Complete]
+СОЖ Maintenance [Complete]
+ANISO – Preparation Ops [Complete]
+About Gagarin from Space. Experiment Ops / r/g 5039 [Complete]
+ISERV – Opening window shutters in the LAB [Complete]
+BIODEGRADATION  Structure Surface Sampling and Photography / r/g 5042 [Complete]
+Soyuz TMA-10M 710 descent drill. r/g 5037 + 5031 [Complete]
+MD10 – Installation Part 2 [Complete]
+Wastewater Storage Tank Assembly (WSTA) Fill [Complete]
+Journal Entry [Complete]
+Russian PAO event [Aborted]
+MSL Cartridge Exchange [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц Micro-Accelerometer Data to HDD for return (closeout) /r/g 5038 [Complete]
+BCAT – Intervalometer Change [Complete]
+Preparation for МО-21. Ecosfera Battery Charge / r/g 5033 [Complete]
+HRF – Urine Sample Insertion [Complete]
+MD10 – Closeout Ops [Complete]
+Condensate Pumping Initiation [Complete]
+G1 – Closeout Ops [Complete]
+SHD – Weekly Questionnaire [Complete]
+IMS and Stowage Conference [Complete]
+HRF1 – Setup and Activation of SLAMMD Hardware [Complete]
+Crew’s Emergency Roles and Responsibilities Review [Complete]
+HRF1 – Hardware Setup and Run [Complete]
+HRF1 SLAMMD – Body Mass Measurement [Complete]
+HRF1 SLAMMD Stowage [Complete]
+HMS – Medical Kit Stow [Complete]
+Condensate Pumping Terminate [Complete]
+Video Footage of Greetings / r/g 5044 [Complete]
+Flight Director/ISS Crew Tagup [Complete]
+
+Task List
+
+ARED Cylinder Evac
+IMS update
+ETCS Loop A Vent Imagery [Complete]
+CFE ICF1 Ops Parts 1,2,3
+WHC KTO replace
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+HMS Winscat (FE-5, FE-6)
+PAO HD Event
+AC Vacuum Bag R&R
+36S Pre-pack [In work]
+CMO OBT
+Dragon Robot Self Study [In work]
+Crew Departure Prep [In work]
+CSA CP Battery Check
+Data Prep for Crew Return [In work]
+WHC SWR R&R
+
+Ground
+
+Nominal Commanding
+

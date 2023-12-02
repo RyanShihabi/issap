@@ -1,0 +1,124 @@
+
+H-II Transfer Vehicle (HTV)-8 Launch Delay:  Japan’s Aerospace Exploration Agency (JAXA) scrubbed today’s HTV-8 launch attempt due to a fire at the launch pad that has since been extinguished. JAXA teams are meeting to discuss a forward plan and assess launch opportunities.
+Fluid Shifts: The crew performed the second day of Fluid shifts ultrasound data collections incorporation of the CHIBIS lower body negative pressure unit. Fluid Shifts is a NASA investigation, divided into Dilution Measurements, Baseline Imaging, and Imaging with Chibis. The Chibis hardware is used to perform the Lower Body Negative Pressure (LBNP) part of the experiment. The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronaut’s eyes.  Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a LBNP device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and prevention of eye damage.
+Biomolecule Extraction and Sequencing Technology (BEST): The crew transferred BEST cell samples from the media kit to the new media tubes using pipettes and then temp stowed the tubes. The BEST investigation studies the use of sequencing for identification of unknown microbial organisms living on the ISS, and how humans, plants and microbes adapt to living on the ISS.
+Saibo Experiment Rack: The crew performed part 1 of the Clean Bench removal activity in preparation of arriving Cell Biology Experiment Facility (CBEF) unit on Northrop Grumman (NG)-12. Saibo Experiment Rack (Saibo) which means “living cell,” includes a Clean Bench glovebox with microscope that isolates the organisms being studied, and CBEF that includes incubator and centrifuges.
+NanoRacks Module-82 (Palm Tree Growth): The crew performed photographic operations for the Module 82 and then restowed the unit back into Frame 3. The United Arab Emirates (UAE) Palm Tree Growth Experiment (Palm Tree Growth) investigation examines germination of palm tree seeds in order to determine the best conditions for generating tissue samples for research. A process for growing healthy plant tissue in microgravity could be adapted for testing other indigenous plants of scientific, commercial or educational interest in the UAE. The investigation also observes and documents root growth in microgravity for educational purposes.
+Radiation Dosimetry Inside ISS-Neutrons (RADI-N2): The crew retrieved 8 dosimeter detectors from the Russian crew and deployed them in the Node 1 front rack area. The objective of this Canadian Space Agency investigation is to better characterize the ISS neutron environment, define the risk posed to the crew members’ health, and provide the data necessary to develop advanced protective measures for future spaceflight.  It’s been recognized that neutrons make up a significant fraction (10-30%) of the biologically effective radiation exposure in low-Earth orbit.  The bubble detectors used in the investigation are designed detect neutrons and ignore all other radiation.
+Rodent Research-17 (RR-17): The crew stowed the Rodent Research Habitats 1 and 4. RR-17 uses younger and older mice as model organisms to evaluate the physiological, cellular and molecular effects of the spaceflight environment. Some responses to spaceflight in humans and model organisms such as mice resemble accelerated aging. This investigation provides a better understanding of aging-related immune, bone, and muscle disease processes, which may lead to new therapies for use in space and on Earth.
+Mobile Servicing System (MSS) Operations:  Following yesterday’s HTV8 offset grapple practice, Ground Controllers maneuvered the SSRMS in position for a survey of the Latching End Effector (LEE) snare cables. After the survey, they maneuvered the SSRMS to the Node 2 Nadir Active Common Berthing (ACBM) survey position, which is planned to be performed on Friday before HTV-8 capture Saturday, September 14.
+Extravehicular Activity (EVA) Preparations: In preparation for upcoming US Battery EVAs currently scheduled NET September 27, the crew utilized the Simplified Aid for EVA Rescue (SAFER) Virtual Reality Trainer (VRT) to practice using SAFER in various rescue scenarios. In addition, the crew inspected and configured various EVA tools and reviewed procedures. 
+The ISS Experience: The crew recorded the EVA tool configuration and Simplified Aid for EVA Rescue (SAFER) Virtual Reality (VR) training activities using the ISS Experience Z-Cam hardware. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic VR 360-degree camera with nine 190° fisheye lenses.
+Completed Task List Activities:
+
+JAXA Experiment Laptop Terminal 2 (ELT2) Battery R&R
+Lab Joint Station LAN Firewall #1 R&R
+ECLSS PEPS Inspection and PBA Gauge Photography
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+JEMAL Depressurization
+
+Look Ahead:
+Wednesday, 9/11 (GMT 254)
+Payloads:
+
+
+Vascular Aging repeat session (CSA)
+DOSIS Main box to Mode 1 for Solar quiet Period. (ESA)
+Fluid Shifts Day 3 Scans with CHIBIS and stow (NASA)
+Food Acceptability (NASA)
+Team Task Switching (NASA)
+Rodent Research Habitat Restock Access Unit Clean (NASA)
+
+Systems:
+
+EVA Procedure Review
+
+Thursday, 9/12 (GMT 255) Crew Off Duty
+Payloads:
+
+
+HRF Urine and Blood setup (NASA)
+
+Systems:
+
+None
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic MELFI Sample Retrieval And Insertion Operations
+Biochemical Urine Test
+URISYS Hardware Stowage
+Standard Measures Body Sampling Survey
+Standard Measures Body Sampling Collection
+HRF Generic MELFI Sample Insertion Operations
+Standard Measures Body Sampling Stow
+HRF Generic Saliva Collection Stow
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation
+Fluid Shifts
+Magnetic 3D-bioprinter Gathering Cuvettes No.1 kits Mfr.No.06 and insertion in ТБУ-В (+4 deg С)
+Health Maintenance System (HMS) Periodic Health Status (PHS) Stow Hardware
+Clean Bench (CB) Item Gathering
+On MCC Go Brine/urine transfer from ЕДВ to Progress 442 (DC1) Rodnik H2O Tank 1
+On MCC Go Regeneration of Micropurification Unit (БМП) Ф2 Cartridge, initiate
+Clean Bench (CB) Removal Part 1
+JEM Airlock Depressurization
+MATRYOSHKA-R. Monitoring Tritel Readings
+Vacuum cleaning ventilation grille on FGB interior panels (201, 301, 401)
+Biomolecule Extraction and Sequencing Technology (BEST) MWA Preparation
+Biomolecule Extraction and Sequencing Technology (BEST) MELFI Sample Retrieve
+Water Storage System Contingency Water Container Iodinated Pumping Initiate
+Magnetic 3D-bioprinter Measuring temperature in Cuvettes No.1 kit Mfr No.06 in ТБУ
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Magnetic 3D-bioprinter Retrieval and setup of the magnetic bioprinter for operation
+IPU Video Cable Reconfiguration to MSPR VRU2
+Biomolecule Extraction and Sequencing Technology (BEST) Experiment 2 Part 2
+Standard Measures Fecal Collection
+Magnetic 3D-bioprinter Retrieval of Cuvette No.1 kit Mfr No.06 from ТБУ-В (+4) and setup at work site.  Deactivation of ТБУ-В No.07
+Magnetic 3D-bioprinter Running experiment session 5 with the use of Magnetic 3D Bioprinter PL.  Stowage at ambient temperature.
+Biomolecule Extraction and Sequencing Technology (BEST) MELFI Sample Insertion into a Box Module
+Applications on CP SSC
+HRF Generic MELFI Sample Insertion Operations
+Standard Measures Fecal Collection Stow
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Water Storage System Contingency Water Container Iodinated Pumping Swap
+Virtual Reality Training (VRT) Extravehicular Activity (EVA) Simplified Aid for EVA Rescue (SAFER)
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ) Detachable Screens 1, 2, 3
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate
+JEM Airlock Vent
+Water Storage System Contingency Water Container Iodinated Pumping Terminate
+Battery Stowage Assembly (BSA) Operation Initiation
+JEM Airlock Vent Confirmation
+Extravehicular Activity (EVA) Procedure Review
+MATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors
+ISS Experience Node 1 Setup
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters to USOS
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure
+NanoRacks Module-82 Photography
+TIMER. Marker gathering, setting up and taking measurements along with the operator.
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+TIMER. Operator assistance when taking measurements between the markers
+ISS Experience Recording Preparation
+Health Maintenance System (HMS) OCT Setup
+ISS Experience Introduction Recording
+Extravehicular Activity (EVA) Tool Configuration
+Rodent Research Habitat Stow
+TIMER. Closeout Ops
+Rodent Research Habitat Stow
+MOTOCARD. Equipment setup
+Virtual Reality Training (VRT) Extravehicular Activity (EVA) Simplified Aid for EVA Rescue (SAFER)
+Health Maintenance System (HMS) OCT2
+ISS Experience Record Conclude
+Extravehicular Activity (EVA) Tool Configuration
+Health Maintenance System (HMS) OCT Stow
+
+ 

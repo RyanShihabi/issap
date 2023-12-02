@@ -1,0 +1,54 @@
+
+FLame Extinguishment Experiment (FLEX)-2 Operations: Commander (CDR) Wakata replaced the Combustion Integration Rack (CIR) manifold bottle within the CIR, allowing ground teams to start FLEX-2 operations via commanding. On Friday, March 14th, Wakata replaced a CIR needle that was bent during ground commanding in February. FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. Results from these experiments will give scientists a better understanding of how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Space Acceleration Measurement System (SAMS) Control Unit Deployment: Flight Engineer (FE) 5 Mastracchio retired the old SAMS Interim Control Unit (ICU) laptop and deployed the new SAMS Control Unit laptop. Prior to the laptop replacement, the crew burned a new DVD with the software images and set up video to document the deployment. After the deployment ground teams experienced issues when commanding the SAMS to downlink files.  Ground teams powered on a remote SAMS sensor to aid in the troubleshooting and were able to downlink good data, but the time stamps were incorrect. Log files were downlinked and ground teams are reviewing them. The upgrade was in support of the station’s life cycle with nearly continuous acceleration measurements for structural analysis and payloads.
+Extravehicular Mobility Unit (EMU) Condensate Water Relief Valve (CWRV) Filter Remove and Replace (R&R):  Wakata and Mastracchio performed an R&R of the EMU CWRV Filter in EMU #3005, first completing a procedure review to familiarize themselves with the task. They removed the CWRV from the EMU, performed an inspection, and then confirmed there was no foreign substance or discoloration.   After cleaning the filter port, the crew installed a new filter into the valve and re-installed the CWRV in the EMU.
+In Flight Maintenance (IFM) Crew Quarters (CQ) Overhead Cleaning: Wakata began cleaning the overhead CQ intake and exhaust ducts, fans and air flow sensors. Due to the large amounts of dust observed during prior CQ cleanings, he removed all applicable panels and cleaned behind them.  He will complete the cleaning activities tomorrow.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) Test [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+Daily Planning Conference (S-band) [Complete]
+CFE-ICF – Test Payload Review  [Complete]
+Photography and inspection of АСП-О hatch rubber seals. r/g 5129 [Complete]
+WRS Water Sample Analysis [Complete]
+ISS Crew / SSIPC FD Conference [Complete]
+SM Ventilation System Preventive Maintenance. Group В1 [Complete]
+CIR – Hardware Setup [Complete]
+CIR – Upper Rack Doors Open [Complete]
+CIR – Replacement of equipment element and video recording [Complete]
+СОЖ Maintenance [Complete]
+CIR – R Upper Rack Doors Close [Complete]
+SAMS DVD Burn [Complete]
+SAMS Control Unit Deployment [Complete]
+WRS Water Sample Data Recording [Complete]
+SEINER Ocean Observations / r/g 5120 [Complete]
+Urine Transfer from EDV-U to ТКГ 422 Rodnik Б В2 tank / r/g 5128 [Complete]
+EMU – Condensate Water Relief Valve (CWRV) Filter R&R Procedure Review [Complete]
+EMU – Condensate Water Relief Valve (CWRV) Filter R&R [Complete]
+Crew Quarters (CQ) Overhead Cleaning [Partially complete]
+Daily Planning Conference [Complete]
+VHF1 Activation/Deactivation] [Complete]
+Preparation of reports for Roscosmos site / r/g 4323 [Complete]
+ECON-M. Observations and Photography[Complete]
+IMS Update [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO Replace
+IMS update
+WHC EDV R&R [Complete]
+Roscosmos report
+Uragan photo
+Dragon Robot self study [In work]
+EMU SLE deltas training [Complete]
+Recycle Tank Inspection [Complete]
+AC vacuum bag R&R
+COL1O3 ZSR audit [Complete]
+EVA FPS tool gather [In work]
+
+Ground
+
+Nominal Commanding
+

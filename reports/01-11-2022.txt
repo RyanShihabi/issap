@@ -1,0 +1,126 @@
+
+Payloads:
+Behavioral Core Measures (BCM): The crew completed a Robotic On-Board Trainer (ROBoT) research session. The Standardized Behavioral Measures for Detecting Behavioral Health Risks during Exploration Missions (Behavioral Core Measures) experiment initially examined a suite of measurements to reliably assess the risk of adverse cognitive or behavioral conditions and psychiatric disorders during long-duration spaceflight, and evaluated the feasibility of those tests within the operational and time constraints of spaceflight for two crewmembers. Subsequent subjects perform a subset of the original activities to measure the performance capabilities of deconditioned crew members to complete either individual or crew telerobotic operations within the first 24 hours after landing. This information could help characterize what tasks a crewmember who has spent months in weightlessness can reasonably be expected to perform after landing on the surface of Mars.
+Hyperspectral Imager Suite (HISUI): The crew exchanged the full Mission Data Recorder (MDR) hard disk (HD) with a new data disk. This is performed roughly every 80 days when the current disk fills up with stored HISUI experiment data. HISUI is an external investigation, and the MDR is the internal component of the investigation which is used to record data. HISUI is a next-generation spaceborne hyperspectral Earth imaging system. The objective of HISUI onboard the ISS is to obtain the data necessary to begin a full-scale practical application development for hyperspectral remote sensing through manufacturing, and the inflight performance verification of a hyperspectral imager onboard ISS.
+Mochii: Initial setup, checkout and sample imaging were successful on Monday. Today, after venting of the Mochii sample chamber, the crew removed sample 1 and installed sample 2. Following this, the chamber was closed, pumped down, and prepared for imaging with the new sample. Mochii is a miniature scanning electron microscope (SEM) with spectroscopy which will be used to conduct real-time, on-site imaging and compositional measurements of particles on the ISS. Such particles can cause vehicle and equipment malfunctions and threaten crew health, but currently, samples must be returned to Earth for analysis, leaving crew and vehicle at risk. Mochii also provides a powerful new analysis platform to support novel microgravity science and engineering.
+MVP Plant-01: The crew removed the experiment petri dishes from the 12 experiment modules and placed them in MELFI to be frozen for return to the ground. Plant RNA Regulation Redux in Multi Variable Platform (MVP-Plant-01) profiles and monitors shoot and root development in plants in microgravity, in order to understand the molecular mechanisms and regulatory networks behind how plants sense and adapt to changes in their environment. This understanding could contribute to the design of plants better able to withstand adverse environmental conditions, including long-duration spaceflight.
+Plant Habitat-05 Harvest 2: The second of the four harvests was performed for the Plant Habitat-05 experiment. The experiment is currently in a 90-day growth cycle for the cotton callus samples.  Unlocking the Cotton Genome to Precision Genetics (Plant Habitat-05) cultivates several cotton genotypes that differ in their ability to regenerate into whole plants from undifferentiated masses of cells known as a calli. Cotton is highly resistant to the process of plant regeneration, which makes it difficult to create reproductive and stable plants that have specific or enhanced traits such as drought resistance. The investigation could provide a better understanding of this behavior and a pathway to avert this problem.
+Rhodium Probiotic: The science chambers were removed from their cold stowage location and set up in a room temperature location to begin the investigation. Swinburne Youth Space Innovation Challenge 2021: Microgravity Production of a Probiotic Yoghurt Using Active Bacterial Cultures (Rhodium Probiotic Challenge) tests methods for producing yoghurt in space. Yoghurts and other probiotic foods, important components of a healthy diet, depend on living microbial cultures that could experience changes in microgravity. Results could help support the health of crew members on future space missions and improve production of yoghurt on Earth.
+TangoLab Mission-24:  The crew removed a TangoLab double cube from MERLIN, took photos, and then installed the cube back into MERLIN.  This TangoLab double cube is currently hosting a Multiple Sclerosis and Parkinson’s Disease Study. It’s one of several cards and cubes launched to ISS as part of the Mission-24 complement. Space Tango MultiLab Lockers are reconfigurable general research facilities designed for microgravity research and development and pilot manufacturing aboard the ISS.
+Vascular Aging: The crew doffed the Vascular Echo Mobil-O-Graph Cuff, transferred the recorded 13-hour blood pressure data, and then stowed Mobil-O-Graph Kit. Emerging data point towards linkages among cardiovascular health risk, carotid artery aging, bone metabolism and blood biomarkers, insulin resistance, and radiation. Data indicate that aging-like changes are accelerated in many ISS crew members, particularly with respect to their arteries. As part of the Space Environment Causes Acceleration of Vascular Aging: Roles of Hypogravity, Nutrition, and Radiation (Vascular Aging) investigation, ultrasounds of the arteries, blood samples, oral glucose tolerance, and data from wearable sensors are analyzed.
+Systems: 
+Space Test Program – Houston 7 (STP-H7) Robotics Operations: Today, the robotics teams supported Space Station Remote Manipulator System (SSRMS) operations to remove the STP-H7 external payload from the SpX-24 Dragon trunk and installed it at the Columbus Starboard Deck X-Axis (SDX) worksite.  The robotics operations were completed nominally and within thermal clock windows. Activation of STP-H7 will be commanded later today. 
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace (R&R): The crew R&R’d the Pre-Treat Tank as part of nominal WHC preventative maintenance. Each tank contains five liters of pre-treat solution, a mix of acid, chromium oxide, and water, used for toilet flushing and required for nominal WHC operation. 
+Radio Frequency Identification (RFID) Logistics Antenna Check and Secure: Today, the crew inspected the antennas and power connections on the RFID Logistics Readers. RFID Logistics utilizes RFID enabled tags on hardware throughout the ISS to assist in the tracking of the hardware as it is moved around the ISS. 
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Quarterly Maintenance: The crew inspected the X-rotation dashpots, cycled the main arm through full range of motion and greased the Vibration Isolation and Stabilization (VIS) rails and rollers. They also evacuated the Cylinder Flywheel and Vacuum Slider Track. These tasks are scheduled every 90 days to maintain optimal functionality of the device.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: The crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+STP-H7 Extraction and Installation
+Atmosphere Revitalization System (ARS) Thermal Amine Scrubber Mode Change
+ARS Lab Major Constituent Analyzer (MCA) Commanded to Full Calibration
+
+Wednesday, January 12 (GMT 12)
+Payloads:
+
+BCM ROBoT Test
+EasyMotion/T2
+ExHAM (HXP) item perp
+NUTRISS Measurement
+MSRR/MSL-SCA Exchange B3#-17
+MT-3 Sample collect
+Plant Habitat-05 MELFI insert
+Ring Sheared Drop motor remove
+Veggie Monitoring
+
+Systems:
+
+Health Maintenance System (HMS) Vision Test
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation
+Atmosphere Revitalization System Four Bed Carbon Dioxide Scrubber Samples
+Fluid System Servicer (FSS) Gather
+
+Thursday, January 13 (GMT 13)
+Payloads:
+
+APEX-07 Clean and dry
+AstroPi Swap and lens adjustment
+Cold Stowage DCB stow
+Cytoskeleton
+Food Physiology Diet Brief
+HRF PC software load prep
+Mochii
+MT-3 Sample Collect
+Nanoracks MFA module-96 install
+Rhodium Probiotics Chamber to Cold Stowage
+SCRAM 
+
+Systems:
+
+Internal Thermal Control System (ITCS) Fluid System Servicer (FSS) setup and refill of the Lab Low Temperature Loop (LTL) Pump Package Assembly (PPA) accumulator.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+EVA Lower Torso Assembly (LTA) Repair
+
+Friday, January 14 (GMT 14)
+Payloads:
+
+Advanced NanoStep insert
+APEX-07 hardware deact
+EasyMotion/CEVIS
+ExHAM HXP (Handhold Experiment Platform) sample detach and stow
+Mochii
+MT-3 sample collect
+SAMS Wired sensor deployment for 4BCO2
+SQuARES setup 
+
+Systems:
+
+HMS WinSCAT Test
+Cargo Dragon Ops
+HMS OCT2 Exam
+HMS Ultrasound 2 Scan
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Standard Measures Post-sleep Questionnaire
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Quarterly Maintenance
+JEM Stowage Consolidation
+Microbial Tracking-3 Environmental Sample Collection
+Vascular Aging 13-Hour Blood Pressure Monitoring Conclude
+Urine Transfer System Offload EDV Swap
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+MPCC EICL HDD Swap 2
+Activation of the European IP Communication Laptop
+Water Resources and Management (WRM) Condensate Sample
+Artemis HERA (Hybrid Electronic Radiation Assessor) on Space Station (A-HoSS) Adlink Mini PC Reboot
+Multi-Use Variable-G Platform Sample MELFI Insertion
+Multi-use Variable-g Platform Plant-01 Remove
+Water Recovery System (WRS) Waste Tank Sample
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace
+Behavioral Core Measures ROBoT-r Research Testing
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation with Slider Track Vacuum
+Mission Data Recorder Laptop Configuration Portable 4TB HDD R&R
+Cargo Dragon Powered Payloads Switch Reconfig
+RFID Logistics Antenna Check and Secure
+Extravehicular Mobility Unit (EMU) 3013 Troubleshooting
+Plant Habitat-05 Plant Harvest #2
+TangoLab MERLIN Cube Photo
+Atmosphere Revitalization System (ARS) Thermal Amine Scrubber (TAS) Sample
+Mochii Sample Exchange
+MSL SCA Exchange Big Picture Words Review
+Transfer MERLIN 1 from Dragon
+Material Science Laboratory Procedure Review
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Environmental Health System (EHS) Personal CO2 Monitor Charging
+Transfer Crew Dragon Cargo Operations
+Rhodium Probiotic Challenge Science Chamber Transfer
+Columbus Payload Power Switching Box (PPSB) – SDX switches reconfigured to ON
+
+ 

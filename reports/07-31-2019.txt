@@ -1,0 +1,104 @@
+
+73 Progress (73P) Launch and Docking: 73P launched today from the Baikonur Cosmodrome at 7:10 AM CT carrying food, fuel and supplies. Following a 2-orbit rendezvous, the vehicle successfully docked to the ISS Docking Compartment 1 (DC-1) Nadir Port at 10:29 AM CT. The crew then performed leak checks, opened hatches, and began cargo unloading.
+Biofabrication Facility (BFF): The crew continued their support of the series of BFF test prints which started earlier this week. These initial test prints are designed to check out and fine tune the system and do not contain any cells.  Using 3D biological printers to produce usable human organs has long been a dream of scientists and doctors around the globe. However, printing the tiny, complex structures found inside human organs, such as capillary structures, has proven difficult to accomplish in Earth’s gravity environment. To overcome this challenge, Techshot designed their BFF to print organ-like tissues in microgravity, acting as a stepping stone in a long-term plan to manufacture whole human organs in space using refined biological 3D printing techniques. 
+Combustion Integration Rack (CIR) Manifold Bottle Inspection:  Following yesterday’s discovery of a slow leak, the fuel bottle connection was demated, inspected, cleaned, and remated to the CIR manifold.  The pressure was subsequently monitored and the leak was reduced, but still present.  The crew then looked for the leak source (suspected to be either the quick-disconnect or pressure relief valve) with the ultrasonic leak detector but were unable to isolate the source of the leak. The fuel bottle valve was closed and teams are discussing a forward plan. This fuel bottle will be used for the upcoming s-Flame investigation. 
+Electrostatic Levitation Furnace (ELF) Cartridge Exchange: The crew removed the current sample cartridge from the ELF and exchanged it with a new cartridge. JAXA’s ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the electrostatic levitation method. With this facility thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.  ELF typically processes oxide samples, but is also capable of processing semiconductors, alloys, and metals. 
+GRIP: The crew performed a Supine science-3 session today. The GRIP experiment consists of 3 protocols: Dynamics Seated, References Seated and References Supine. They are performed in 3 separate sub-sessions. ESA’s Grip investigation tests how the nervous system takes into account the forces due to gravity and inertia when manipulating objects.  Results from this investigation may provide insight into potential hazards for astronauts as they manipulate objects in different gravitational environments.  They also support design and control of haptic interfaces to be used in challenging environments such as space, and provide information about motor control that will be useful for the evaluation and rehabilitation of impaired upper limb control in patients with neurological diseases. 
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites – Zero Robotics (SPHERES ZR) Unit Test: The crew mounted the SPHERES beacons in the appropriate locations and performed the unit test. This is part of the SPHERES Zero Robotics (ZR) 2019 Middle School Summer Program series of runs.  Each Zero Robotics session consists of 3 parts:  1) The unit test looks at the ability to run the main code of the session; 2) The dry run tests various aspects of the actual competition; 3) The actual Zero Robotics science session.  The premise of this ZR session is for one SPHERES satellite to retrieve a damaged SPHERES satellite from a virtual debris field in low Earth orbit. ZR allows middle school and high school students develop code to achieve the goals of the competition. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS. 
+Completed Task List Activities:
+
+Dragon cargo transfer
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+73P Docking support
+Payload ops support
+
+Look Ahead:
+Thursday, 8/1 (GMT 213)
+Payloads:
+
+
+BFF procedure review
+GRASP
+Standard Measures
+JEMAL depress
+Lighting Effects
+Rodent Research-17
+Slingshot BPW review
+TReK video s/u
+Team Task Switching
+
+Systems:
+
+JEMAL depressurization and vent
+
+Friday, 8/2 (GMT 214)
+Payloads:
+
+
+BFF test print
+Bioculture/Cell Science-02
+ELF controller installation
+GRASP
+Repository
+Lighting Effects
+Nanoracks Mod-82 photos
+Slingshot
+TReK video s/u
+
+Systems:
+
+Starboard SAW blanket/mast imagery 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Sleep Log Entry
+BioFabrication Facility Test Print Without Cells Install
+Combustion Integrated Rack Manifold #4 Bottle Replacement
+BioFabrication Facility MELFI Sample Retrieve
+Combustion Integrated Rack Upper Rack Doors Close
+BioFabrication Facility Test Print Without Cells Install
+TOCA)Calibration Check
+Environmental Health System (EHS) – Coliform Water Sample Analysis 44 +/- 4 hours post processing
+XF305 Camcorder Setup
+Electrostatic Levitation Furnace(ELF) sample Cartridge Retrieval
+Electrostatic Levitation Furnace(ELF) Cartridge Exchange
+Electrostatic Levitation Furnace(ELF) sample Cartridge Installation
+SPHERES Crew Conference
+BioFabrication Facility Cleaning Syringe Install
+ISS HAM Radio Power Down in Columbus
+ISS HAM Radio Power Down in Service Module
+USOS Window Shutter Close
+Actiwatch Plus HRF Rack 1 Setup
+Preparation for Progress 442 Docking
+Progress 442 Docking to DC1. Comm Reconfig for Nominal Ops after Docking
+BioFabrication Facility Test Cassette Removal
+TOCA Calibration Check Data Record
+Contingency Water Container Iodinated Gather
+Dragon Lithium Hydroxide (LiOH) Filter Bag Removal
+SPHERES Test Session Setup
+ARED Cylinder Flywheel Evacuation
+SPHERES Test Session Run
+On MCC GO Progress 442 and DC1 Interface Leak Check
+Public Affairs Office (PAO) Event in High Definition (HD) – In Lab using NODE2 Camera
+DC1-[СУ] Transfer Hatch Opening
+On MCC GO Opening of Progress-[СУ] Transfer Hatch
+On MCC GO Installation of Quick-Release Screw Clamps on DC1 side
+SPHERES Zero Robotics Shutdown
+USOS Window Shutter Close
+Progress 442 Deactivation, Air Duct Installation
+Actiwatch Plus HRF Rack 1 Stow
+Progress 442 (DC1) time-critical, priority, and US cargo transfers and IMS ops
+FOTOBIOREACTOR. Progress 442 hardware transfers
+FOTOBIOREACTOR. Setup and connect hardware, activate cultivation process and insert Meduim kits in ТБУ-В No.05
+Reminder Rodent Research Thermal Consideration
+Reminder Standard Measures Multi-day Saliva Collection
+FOTOBIOREACTOR. Visual inspection with photography
+
+ 
+ 

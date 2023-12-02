@@ -1,0 +1,94 @@
+
+OsteoOmics:  The crew thawed a BioCell and injected it into growth media in the Microgravity Science Glovebox (MSG). After all six BioCells are processed they are put in BioCell Habitat 1 which is placed in the Space Automated Bioproduct Lab (SABL).  Beginning with the media injection, subsequent BioCell operations are performed inside the MSG.  Later in the day the crew removed a media kit from a Microgravity Experiment Research Locker / INcubator (MERLIN) and inserted it into an ambient Cargo Transfer Bag for the next day’s operations. This is the first of four weeks of OsteoOmics operations. A different BioCell Habitat, each containing six BioCells in media, is used each week. Crewmembers experience bone loss in orbit, stemming from the lack of gravity acting on their bones. OsteoOmics investigates the molecular mechanisms that dictate this bone loss by examining osteoblasts which form bone, and osteoclasts, which dissolve bone. Improved understanding of these mechanisms could lead to more effective countermeasures to prevent bone loss during space missions and in a wide range of disorders on Earth. This may lead to better preventative care or therapeutic treatments for people suffering bone loss as a result of bone diseases like osteopenia and osteoporosis, or for patients on prolonged bed rest.
+Fluidics:  The crew assembled Fluidics hardware and installed and configured it on seat-tracks in the Columbus module. They then started the first science run. Following completion of that run the crew replaced fluid tanks and performed the second run.  Fluidics is a fluid mechanics experiment with two main objectives:  a Slosh Study to investigate fluid behavior under microgravity during satellite maneuvers, and a Wave Turbulence Study to investigate the impact of capillary effect on wave turbulence without being masked by the effect of gravity.  Two tanks with different filling rations (50% and 75%) for Slosh and one tank with water for Wave Turbulence are used.
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N) Retrieval:  The crew retrieved all 8 of the Space Bubble Detectors that were deployed last week in the Node 2 module for the RaDI-N experiment and handed them over to the Russian crewmember to be processed in the Bubble Reader. This Canadian Space Agency (CSA) RaDI-N investigation measures neutron radiation levels while onboard the ISS.  Bubble detectors are used as neutron monitors designed to only detect neutrons and ignore all other radiation. 
+Dose Tracker: The crew completed a weekly medication tracking entry in the Dose Tracker application that runs on an iPad.  Dose Tracker documents the medication usage of crewmembers before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The investigation is expected to provide anecdotal evidence of medication effectiveness during flight and any unusual side effects experienced. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics or pharmacodynamics is occurring during missions.
+Extravehicular Activity (EVA) Preparations: In preparation for the EXPRESS Pallet Controller Assembly  (ExPCA) EVA currently planned for May 12, the crew configured computers to record Extravehicular Mobility Units (EMUs) 3006 and 3008 operating data which ground teams will use for detailed analysis of the suits’ function. The crew also performed loop scrubs on the EMUs and filled the empty Liquid Cooling Venting Garments (LCVGs) with water which will provide cooling for the crew members during the EVA.
+Mobile Servicing System (MSS) Operations: Yesterday evening Robotics Ground Controllers powered up the MSS and maneuvered the Special Purpose Dexterous Manipulator (SPDM) Body and Arm 2 as required to stow Robot Micro Conical Tool #2 (RMCT2) in the SPDM Tool Holder Assembly (THA).  They then configured the SPDM for the start of the Main Bus Switching Unit #2 (MBSU2) R&R and maneuvered the Space Station Robotic Manipulator System (SSRMS) into position to perform a survey of MBSU2 using SPDM and SSRMS cameras. Finally, Controllers maneuvered the SSRMS to the start position for the MBSU2 R&R which is scheduled on May 4.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops
+VIZIR. СКПИ Battery Charge
+Extravehicular Mobility Unit (EMU) High Speed Data Initiation
+OsteoOmics MSG Operations
+Regeneration of БМП Ф1 Micropurification Cartridge (start)
+Charging Sony PMW-EX1R camcorder battery (start)
+OsteoOmics Thaw Kit Retrieval
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+Recharging Soyuz 735 Samsung PC Battery  (if charge level is below 80%)
+OsteoOmics Thaw Bag Retrieval
+OsteoOmics MELFI Retrieval
+Crew time for ISS adaptation and orientation
+OsteoOmics BioCell Thaw Operations
+Initiate water transfer from CWC-I to ЕДВ No.1237
+Removal of Battery Module No.2 ПТАБ-1М (pos.А302), preparation
+Terminate water transfer from CWC-I to ЕДВ
+Extravehicular Mobility Unit (EMU) High Speed Data Verification Steps
+PROFILAKTIKA-2. Preparation for the Experiment Ops
+PROFILAKTIKA-2. Operator Assistance in Preparation for the Experiment
+Extravehicular Mobility Unit (EMU) Post Scrub Cooling Loop Water (H2O) Sample
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Reconfiguration
+PROFILAKTIKA-2. Experiment Ops on БД-2 Treadmill
+Terminate Soyuz 735 Samsung PC Battery Charge (as necessary)
+Charging Sony PMW-EX1R camcorder battery (end)
+VIZIR. End СКПИ battery charge
+Extravehicular Mobility Unit (EMU) Liquid Cooling Ventilation Garment (LVCG) Water Fill
+PROFILAKTIKA-2. Close-out ops (Operator)
+OsteoOmics BioCell Habitat Cleanup
+Photo/TV Camcorder Setup Verification
+Extravehicular Mobility Unit Fan Dryout
+Crew time for ISS adaptation and orientation
+Extravehicular Mobility Unit (EMU) Full Water Tank Dump and Fill
+TOCA Water Recovery System (WRS) Sample Analysis
+Search for missing СтА accessories (hatch tool, electric plugs, connector caps) in SM ПрК
+CASKAD. Manual Mixing in Bioreactor
+CONSTANTA-2. Removal of Cassette from ТБУ-В and setup on panel for 1-hour warmup
+Fluidics hardware installation and science run start
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ.
+CONSTANTA-2. Preparation and Execution 3. Tagup with specialists
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+OsteoOmics BioCell Split
+Habitability Human Factors Directed Observations – Subject
+Emergency Cue Card Trash
+СОЖ Maintenance
+Extravehicular Mobility Unit (EMU) Conductivity Test
+Extravehicular Mobility Unit (EMU) High Speed Data Deconfig
+SPRINT PI Conference
+Photo/TV Camcorder Setup Verification
+Photography of attachment points of MRM2 Docking Assembly cover sealing mechanism housing
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+IMS Update
+Dose Tracker Data Entry Subject
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements
+Fluidics Run 2 execution
+ISS Crew Orientation
+Radi-N Detector Retrieval/Readout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters from USOS
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements
+Photo/TV Camcorder Setup Verification
+FFQ or ISS Food Intake Tracker (ISS FIT)
+Charging Sony PMW-200 camcorder battery (end)
+Simplified Aid For EVA Rescue (SAFER) Checkout
+Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+Fluidics Power OFF
+Stow Syringes used in H2O Conductivity Test
+OsteoOmics MERLIN Removal
+
+Completed Task List Items
+
+MBSU Jumper Gather
+Veg03 Plant Water/Photo
+EVA REBA Hardware Checkout
+EVA REBA Install
+Expedition New Earth – Microgravity
+Expedition New Earth – Personal Space
+Expedition New Earth – Trash
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+OsteoOmics support
+EVA prep
+

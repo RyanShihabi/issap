@@ -1,0 +1,106 @@
+
+European Modular Cultivation System (EMCS) Rotor Based Life Support System (RBLSS) Module and Water Reservoir Installation: The crew installed all four EMCS RBLSS modules, two Water Reservoirs, and replaced the Fire Port Decal. These activities will support the Plant RNA Regulation investigation that is scheduled to arrive on SpaceX-9.  The EMCS is an ESA experiment facility that is dedicated to studying plant biology in a reduced gravity environment. It supports the cultivation, stimulation, and crew-assisted operation of biological experiments under controlled conditions. The facility has performed multi-generation experiments and studies the effects of gravity and light on early development and growth, signal perception and transduction in plant tropisms.
+ 
+Energy Operations: The crew began the first day of a ten day ESA Energy experiment run by performing four oxygen uptake measurements sessions. The data collected from the sessions will be used to measure metabolic changes. This investigation will help determine the crewmember’s energy requirements for long-term space flight.  Energy also measures adaptations in the components of total energy expenditure of crewmembers so that an equation to determine the energy requirements of crewmembers during space flight may be derived. Such knowledge of energy requirements is of a great importance to ensure health, good performance and the overall success of a mission and also contributes to ensure adequate exercise load and cargo allotments for food during space flight.
+ 
+Plant Gravity Sensing-3 (PGS-3): The crew retrieved the Seed Paper Kits from the Minus Eighty Laboratory Freezer for ISS (MELFI) and installed the Plant Experiment Unit into Cell Biology Experiment Facility (CBEF) before beginning the Plant Gravity Sensing experiment. The investigation studies whether plants grown in microgravity can sense the changes in the gravitational acceleration. Gravity is a critical environmental factor affecting the morphology and functions of organisms on Earth.
+ 
+Wet Lab RNA SmartCycler Session: The crew completed the second of four Wet Lab RNA SmartCycler sessions by processing a quality control sample to verify that the SmartCycler operates as expected in microgravity. The Wet Lab RNA SmartCycler is a research platform for conducting real-time quantitative gene expression analysis aboard the ISS. The system enables spaceflight genomic studies involving a wide variety of biospecimen types in the unique microgravity environment of space.
+ 
+Sprint: The crew performed Sprint VO2 including video setup, exercise preparation, instrument calibrations and exercise protocol.  Sprint VO2 is a test that measures oxygen uptake, ventilatory threshold, and other physiological parameters. It evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crew members during long-duration missions.
+ 
+Robotics Operations: Robotics Ground Controllers powered up the Mobile Serving System (MSS) and maneuvered Special Purpose Dexterous Manipulator (SPDM) Arm1 to position Orbit Replaceable Unit (ORU) Tool Changeout Mechanism 1 (OTCM1) so that the gripper microswitches could be seen in SPDM Body Camera 1. They completed three OTCM1 checkouts and three OTCM1 free space grasps.  The safing during grasping failure signature previously seen was seen again during the third OTCM1 checkout and the third OTCM free space grasp.  Controllers also performed one OTCM2 checkout and one OTCM2 free space grasp for comparison. Engineering teams met this afternoon to discuss troubleshooting results and a forward plan, and the decision was made to reattempt the grasp of the tool tonight.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+ENERGY – PFM/PAM Activation
+МО-8. Configuration Setup
+ENERGY Urine Sample Collection
+МО-8. Body Mass Measurement  r/g 2033
+МО-8. Closeout Ops
+ENERGY Hardware Checkout
+ENERGY Labeled Water Intake
+ISS crew and ГОГУ (RSA Flight Control Management Team) r/g 2001
+SPRINT Hardware Power Up
+IMS Conference (S-band) / r/g 2038
+PGS3 Plant Gathering
+ENERGY Measurements, Part 1
+JEMAL Depress and Vent
+SPRINT Experiment Ops
+Retrieval of Manufacturing Device M01 Bag [Deferred]
+Video Footage of Greetings / r/g 2037
+PGS3 Samples Retrieval from MELFI
+ENERGY Standardized Breakfast
+PGS3 Attachment in CBEF
+BIMS. Operator Assistance During the Experiment / r/g 2039
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start) r/g 1595
+BIMS. Experiment Ops r/g 2039
+ENERGY Measurements, Part 2
+SmartCycler (SCYC) Laptop Activation
+Combustion Integrated Rack (CIR) Equipment Removal
+Removal of NanoRacks Platform-3 Module
+ENERGY Preparing for the experiment
+Insertion of NANORACKS MELFI Module-28
+ENERGY Measurements Session
+DAN. Experiment Operator Assistance / r/g 0119
+SmartCycler (SCYC) Sample Retrieval from MERLIN-3 for Session 2 Ops
+DAN. Experiment Ops r/g 0119
+DAN. Experiment Photos / r/g 2036
+Inspection, photography, and video of internal surface of SM rigid air ducts r/g 2041
+SPRINT Equipment Stowage
+JEMAL Verifying depressurization complete
+ENERGY Urine Sample Collection
+ENERGY Measurements Session
+JEM Airlock Depressurization and Vent Confirmation
+POLAR3 Hardware Installation into the Express Rack
+Pregather 3.0 CTB containing empty Payload Water Reservoirs (PWR)
+POLAR1 Desiccant Packs Swap
+Food Frequency Questionnaire
+COSMOCARD. Closeout Ops / r/g 2024
+ENERGY Urine Sample Collection
+Food Frequency Questionnaire
+SmartCycler (SCYC) Session 2 ops
+OBT CMO Computer Based Training (CBT)
+Inspection, photography, and video of internal surface of SM rigid air ducts  r/g 2041
+ISS Crew Medical Officer (CMO) Computer Based Training (CBT)
+On MCC GO Replacement of БСК-2 in СУБА. r/g 2040
+ENERGY Diet Log of Lunch
+SPHEROIDS. Temperature Check
+ENERGY Closeout Ops
+IMS and Stowage Conference
+СОЖ Maintenance
+SHD. Weekly Questionnaire
+EMCS European Modular Cultivation System. Module and Water Reservoir Installation
+SmartCycler (SCYC) Video downlink
+On MCC GO Replacement of БСК-2 in СУБА (mating telemetry connectors) r/g 2040
+Water Recovery System (WRS): Payload Water Reservoir (PWR) Fill 1
+Replacement of БСК-2 in СУБА (Closeout Ops).  r/g 2040
+PILOT-T. Experiment setup and ops. r/g 2034
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup. r/g 1595
+Water Recovery System (WRS): Payload Water Reservoir (PWR) Fill 2
+PILOT-T. Photography of the Experiment Ops / r/g 2035
+SmartCycler (SCYC) Experiment Session Setup
+IMS Delta File Prep
+HAM radio session from Columbus
+VHF1 Comm check from SM with MCC (Houston, Huntsville, Munich, Tsukuba, Moscow) via US Ground Sites (WAL, DRY, WHI)
+SPRINT Exercise
+Video endoscope closeout ops. Inspection and photography of filter-screens on rigid air duct and SM ventilation screen r/g 2041
+SPRINT Closeout Ops
+ISS-Server1 laptop replacement
+ENERGY Diet Log of Dinner
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+JEMAL ops
+Smart Cycler ops
+Nominal ground commanding
+
+ 

@@ -1,0 +1,29 @@
+
+Payloads:
+EasyMotion:  The crew donned the EasyMotion suit and then performed an Advanced Resistive Exercise Device (ARED) exercise session.  The EasyMotion investigation uses whole body Electro-Myo-Stimulation (EMS) with a wearable body skin suit for an ISS crew member to perform pre- and postflight EMS-assisted exercises. EMS technology initiates spontaneous (involuntary) activation of global musculature (muscle, tendon, fascia) to be monitored (muscle tone/tension and stiffness) inflight using the non-invasive Myoton technology that is currently aboard the space station for the Myotones investigation.
+JEM Small Satellite Orbital Deployer-21 (J-SSOD-21): The crew performed the first series of steps to install the J-SSOD-21 hardware to the JEM airlock slide table.  The J-SSOD provides a novel, safe, and small satellite launching capability to the ISS.  The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites.
+Manufacturing Device (ManD):  A recently printed VelociCalc probe adaptor was removed from the print volume of the ManD and stowed.  ManD enables the production of components on the ISS for both NASA and commercial objectives.  Parts, entire experiments, and tools can be created on demand utilizing the ManD printer that is installed into an EXpedite the PRocessing of Experiments to Space Station (EXPRESS) locker location.  ManD is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Nutrition Monitoring for the International Space Station (NutrISS): In support of the NutrISS investigation, an ESA Nutritional Assessment (ENA) was performed.  In the NutrISS investigation, a periodic assessment of body composition (body weight, fat mass, and fat-free mass) during spaceflight aboard the ISS is carried out using a dedicated bio-impedance analysis device to allow for the measurement of long-term energy balance modification over time. It is hypothesized that an adjusted diet maintaining a near-neutral energy balance, and/or increasing protein intake, can limit microgravity-induced bone and muscle loss.
+Sampling Quadrangle Assemblages Research Experiment (SQuARE):  The crew took photos of the SQuARE experiment sites located in the Node 1 Galley, JEM, Columbus, Node 2, and the US Lab.  SQuARE is an investigation that aims to document items within six defined locations around the ISS over time. The idea is to look at the ISS as an archaeological site, and each of the Squares as a “test pit”.
+Systems:
+Extravehicular Activity (EVA) Preparation:  Today, the USOS crew continued preparations for the upcoming 3A IROSA Prep EVA, which will install the assembled Mod Kit, which is a platform that allows attachment of the IROSA, at the S4/3A location. Final preparations included installation of the EVA Pistol Grip Tool (PGT) Battery, an EVA Tool Configuration and Audit, and Equipment Lock (E-LK) Prep to prepare the EVA Mobility Unit (EMU) and Airlock for tomorrow’s EVA and suit donning. The crew also reviewed procedures before conducting a conference with ground specialists. US EVA #79 is scheduled for Tuesday, March 15th with Joint Airlock Egress occurring at ~7:10am CST.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: The crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Regenerative ECLSS Recycle Tank Drain/Fill: Today, the crew set up the recycle tank to drain via the Urine Processor Assembly (UPA) Fill Drain Valve into a Brine EDV using the Urine Transfer System (UTS). Following the setup, the ground performed the tank drain using the UTS. Once the ground specialists completed the transfer, the crew verified the recycle tank was empty, terminated the drain, repositioned the fill/drain valve to force fill the recycle tank using UTS, and configured for nominal processing operations. The crew also swapped the EDV in the offload EDV spot of the UTS.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+ACS Caution & Warning Configuration
+Airlock MTL Flow Adjust
+Close Thruster Manifold Isolation Valves for EVA
+TCS P1 TRRJ Lock
+A/L CVIU Activation
+C2V2 Deactivation
+Joint Airlock (JAL) 10.2 PSIA Operations Initiation
+UHF 1 Activation
+IAS EVA Communication Configuration
+VDS EVA Configuration
+

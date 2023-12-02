@@ -1,0 +1,60 @@
+
+NanoRack Cubesat Deployer (NRCSD) #11 Deploy:  Six cubesats were deployed today from the ISS: SGSat, CXBN-2 and IceCube, SOMP2, HAVELSAT, and COLUMBIA. SGSat demonstrates the attitude determination and control system reliant on utilization of pictures of star fields to orient the satellite and validate new software used to predict the satellite’s path as it experiences atmospheric drag.  CXBN-2 (Cosmic X-Ray Background Nanosatellite) uses an advanced materials detector system, a novel instrument configuration and a detector array twice the size of the used by the previous CXBN system. Data collected by the instrument minimizes critical uncertainties in subtle signals left over from the Big Bang and may clarify other sources of interstellar radiation as well.  IceCube will perform first-of-a-kind measurements of the ice particles embedded within clouds. These measurements advance monitoring technology and also fill in critical gaps in understanding how cloud ice affects the weather and how cloud formations process atmospheric radiation.  The remaining three cubesats are from the QB50 constellation of CubeSats from countries around the world. The constellation aims to study the upper reaches of the Earth’s atmosphere over a period of 1 to 2 years. The QB50 satellites conduct coordinated measurements on a poorly studied and previously inaccessible zone of the atmosphere referred to as the thermosphere. The project monitors different gaseous molecules and electrical properties of the thermosphere to better understand space weather and its long term trends. 
+Fluid Shifts: A 49S crewmember acted as onboard operator for subject Russian crewmember for Fluid Shifts operations. With remote guidance from the Fluid Shifts ground team, the USOS crewmember took measurements for Cerebral and Cochlear Fluid Pressure (CCFP), a Distortion Product Otoacoustic Emission (DPOAE) test, Optical Coherence Tomography (OCT), and a Tonometry examination.  Fluid Shifts is a joint NASA-Russian experiment that investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Genes in Space 3: The crew completed a session of the Genes in Space 3 experiment. They retrieved a sample from a General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) and inserted it into the miniature Polymerase Chain Reaction (miniPCR) system for processing. Later they removed the sample and put it into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). Genes in Space-3 seeks to establish a robust, user-friendly deoxyribonucleic acid (DNA) sample preparation process to enable biological monitoring aboard the ISS. The project joins two previously spaceflight tested molecular biology tools, miniPCR and the MinION, along with some additional enzymes to demonstrate DNA amplification, sample preparation for DNA sequencing, and sequencing of actual samples from the ISS. The Genes in Space-3 experiments demonstrate ways in which portable, real-time DNA sequencing can be used to assay microbial ecology, diagnose infectious diseases and monitor crew health aboard the ISS. 
+OsteoOmics: The crew fixated BioCells in Biocell Habitat 2 and inserted the sample into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). Crewmembers experience bone loss in orbit, stemming from the lack of gravity acting on their bones. OsteoOmics investigates the molecular mechanisms that dictate this bone loss by examining osteoblasts, which form bone, and osteoclasts, which dissolve bone.  Improved understanding of these mechanisms could lead to more effective countermeasures to prevent bone loss during space missions and in a wide range of disorders on Earth. This may lead to better preventative care or therapeutic treatments for people suffering bone loss as a result of bone diseases like osteopenia and osteoporosis, or for patients on prolonged bed rest. 
+Combustion Integration Rack (CIR) Fuel Oxidizer Management Assembly (FOMA) Remove and Replace:  The crew completed a routine changeout of the CIR FOMA. This activity supports the ongoing Cool Flames investigation.  Cool Flames provides new insight into the phenomenon where some types of fuels initially burn very hot, then appear to go out but continue burning at a much lower temperature with no visible flames (cool flames). Understanding cool flame combustion helps scientists develop new engines and fuels that are more efficient and less harmful to the environment.
+Node 2 Common Cabin Air Assembly (CCAA) Remove and Replace:  Last week the crew reported noise and vibration near the Node 2 Crew Quarters. Ground teams susequently determined that the most probable source was the Node 2 CCAA inlet fan. Today the crew succesfully R&Rd the CCAA fan and resolved the issue.   
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Personal Data Prep for Return
+Data Transmission Radio Link (RSPI). Clearing files from Onboard Memory Storage (БЗУ).
+URAGAN. Observation and photography
+ECON-M. Observation and Photography
+Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops
+FLUID SHIFTS
+Genes in Space
+NanoRacks Cubesat Video Setup
+Recharging Soyuz 733 Samsung PC Battery (if charge level is below 80%)
+Multipurpose Small Payload Rack 2(MSPR2) Electrostatic Levitation Furnace (ELF) Retrieve
+Replacement of Filters in FGB Dust Collectors 1, 2
+Environmental Health System (EHS) – Rad Detector Relocate
+Electrostatic Levitation Furnace(ELF) Ground Cable Removal
+Multipurpose Small Payload Rack 2(MSPR2) Electrostatic Levitation Furnace (ELF) Install
+NanoRacks Cubesat Video Setup
+Clean FGB ЦВ1 Fan Guard Screen
+Fluid Shifts OCT Service Module Stow Alternate
+Electric Heater R&R in Vozdukh
+Oxygen Generation System (OGS) Water Sample
+OsteoOmics Fixation Operations
+Combustion Integrated Rack Hardware Review
+RS lighting system audit (SM, MRM1, MRM2, DC1)
+Water Recovery System Waste Water Tank Drain Initiation
+Terminate Soyuz 733 Samsung PC Battery Charge (as necessary)
+JEM Network Storage SSD Install
+IMS Update
+OsteoOmics MELFI Insertion 1
+Photo/TV 3B SAW Photography Camera Setup
+Genes in Space Biomolecule Sequencer Stop
+Water Recovery System Waste Water Tank Drain Termination
+PhotoTV 3B SAW Photography Survey
+ECCO MELFI Insertion
+Manufacturing Device Locker Move
+Combustion Integrated Rack Doors Open
+Cleaning ПФ1, ПФ2 dust filters (without replacement) and В1, B2 Fan Grilles in MRM2
+Combustion Integrated Rack Optics Bench Translation Out
+Combustion Integrated Rack FOMA Cal Unit Replacement
+Combustion Integrated Rack Optics Bench Translation In
+Video Recording of Greetings
+LS1 Hard Drive Swap
+
+Completed Task List Items
+
+Veggie 03 Pillow Watering and Photo
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+JEMRMS Preparation / NRCSD Deploy
+

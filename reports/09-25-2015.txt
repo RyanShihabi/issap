@@ -1,0 +1,80 @@
+
+Radi-N Neutron Field Study (Radi-N):  Kelly retrieved the eight bubble detectors from their deployed locations in the ISS and handed them over to a Russian crewmember.  The objective of this investigation is to better characterize the ISS neutron environment.  The data produced is used to define the risk posed to the crewmembers’ health and support development of advanced protective measures for future space flight.
+ 
+Japanese Experiment Module (JEM) Small Satellite Orbital Deployer (JSSOD) #4 Removal:  Lindgren opened the inner JEM Airlock hatch, extended the slide table into the JEM and removed the JSSOD from the slide table.  He then retracted the slide table into the Airlock and closed the inner Airlock hatch.
+ 
+Mouse Habitat Unit (MHU) Water Injection Troubleshooting:  To support troubleshooting for MHU water injection, Yui injected wiper water into the six Mouse Habitat Cage units which were unexpectedly reported to be dry earlier this month.
+ 
+Space Headaches: Yui and Lindgren answered their weekly Space Headaches questionnaire today.  Headaches can be a common complaint during spaceflight. The Space Headaches experiment improves the understanding of such conditions, which helps in the development of methods to alleviate associated symptoms and improve the well-being and performance of crew members in orbit. This investigation results may also be used to improve the knowledge of similar conditions on Earth.
+ 
+Cell Biology Experiment Facility (CBEF) Video Troubleshooting:  As part of the troubleshooting for problems experienced in checkout of multiple video downlinks for the CBEF, Yui rerouted the Experiment Laptop Terminal 2 (ELT2) power cable to avoid crossing video cables, and moved the conversion video cable away from the Image Processing Unit (IPU) monitor.
+ 
+H-II Transfer Vehicle (HTV) Departure Preparation:  Yui and Lindgren performed a review of the HTV departure profile, procedures, and crew interfaces for monitoring and commanding HTV.  Both crewmembers performed Robotics training which consisted of HTV release scenarios to allow them to practice techniques for nominal and off nominal situations. HTV5 release is scheduled to occur on Monday, September 28th at 10:20am CDT.
+ 
+Robot Micro Conical Tool (RMCT) Checkout:   Last night, Robotics Ground Controllers continued the troubleshooting of Robot Micro Conical Tool 1 (RMCT1), stowing it on Tool Holder Assembly 2 (THA2) with the Special Purpose Dexterous Manipulator (SPDM) Arm2.  When closing RMCT1 collets on THA2 Micro Conical Fixture (MCF), the same off nominal signature as when closing collets on THA1 was observed, showing that the failure is very likely on the tool and not on THA1 MCF. While opening the collets to unstow RMCT1, a small piece of metal on RMCT1 was seen floating away. Operations continued to re-stow RMCT1 on THA1.  SPDM Arm1 returned back RMCT2 on THA2 nominally and SPDM Arms and body were reconfigured for park.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+HRF – Urine Samples Collection
+HRF – Blood Samples Collection and Refrigeration
+ISS Crew and ГОГУ (RSA Flight Control Team) Weekly Conference (S-band)
+ECLSS Recycle Tank Transfer and R&R
+HRF – Closeout Ops after Blood Samples Collection
+HRF – Insertion of Samples in MELFI
+[СО2] ИК0501 БФ Filters Unit R&R. Install Unit No. 162
+XF305 Camcorder Setup
+BIOCARD. Experiment Session.
+BIOCARD. Assistance during the Experiment Session
+MHU – Experiment Session
+HTV – GLA/LED Lights Removal
+BIOCARD. Photography during the Experiment Session
+JEMAL – Slide Table Extension
+JEM Small Satellite Orbital Deployer (SSOD) Removal
+Cell Biology Experiment Facility (CBEF) – Hardware Setup
+HTV Cargo Transfer Ops
+[PТ]-50-1М No.6 and 8 (А206, А208) R&R – Demating of X4, Х5, Х6, Х2, and Х3 Connectors.
+Personal Hygiene Items (СЛГ) Inventory
+Laptop RS1 Activation
+СОЖ Maintenance / Life Support System (СОЖ)
+JEMAL – Slide Table Retraction
+Demating of ТМИ Connectors of [РТ]-50-1М Units from Onboard Cable Network (БКС).
+HRF – Closeout Ops
+[РТ]-50-1М No. 6 and 8 (А206, А208) Units R&R.
+Transfer of Onboard Computer System (БВС) Version 08.08 Images to КЦП1.
+Personal Hygiene Items (СЛГ) Inventory
+[РТ]-50-1М No. 6 and 8 (А206, А208) Units R&R.
+OBT – HTV Robotics Onboard Trainer (ROBot) Release
+WRS – Recyle Tank Fill
+Transfer of Onboard Computer System (БВС) Version 08.08 Images to КЦП2
+OBT – HTV Departure Review [Deferred]
+LAB and Cupola RWS DCP Cable Mating
+Laptop RS1 Deactivation
+[РТ]-50-1М No.6 and 8 (А206, А208) Units R&R.
+Ku-band TV Signal Test in MPEG-2.
+Rerouting Experiment Laptop Terminal 2 (ELT2) power cable
+HRF – Hardware Restow after Samples Collection
+Removal of Depress Hose for Nominal Ops
+CALCIUM. Experiment Session 6
+SHD Questionnaire
+Mating of ТМИ Connectors of [РТ]-50-1М Units to Onboard Cable Network (БКС).
+MATRESHKA-R. BUBBLE Dosimeters Setup and Measurements.
+RGN – Recycle Tank Drain into EDV (start)
+Cell Biology Experiment Facility (CBEF) and Image Processing Unit (IPU) Cable Reconfiguration for a Single Channel
+IMS Delta File Prep
+RADIN – Removal of Dosimeters from their Locations
+RADIN – Handover of Dosimeters to the RS
+MATRESHKA-R. Takeover of BUBBLE Dosimeters from the USOS.
+RGN – Recycle Tank Drain into EDV (end)
+Monitoring of [АСН-К] Exchange and RSK 2 Data Record in Progress 428 (DC1)
+MATRESHKA-R. BUBBLE Dosimeters Setup and Measurements.
+
+ 
+Completed Task List Items
+
+WHC-KTO-Replace
+
+ 
+Ground Activities
+All activities are on schedule unless otherwise noted. 
+ 

@@ -1,0 +1,76 @@
+
+Human Research Program (HRP) Collections (Biochemical Profile, Repository): Over the weekend a 52S crewmember completed Flight Day (FD) 15 urine sample collections in support of the Biochemical Profile and Repository experiments. Today another 52S crewmember completed their FD-15 urine samples, and with operator assistance, conducted blood sample collections. The blood samples were processed for double spin operations using the Refrigerated Centrifuge prior to being placed in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).
+
+The Biochemical Profile experiment tests blood and urine samples are obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+
+Lighting Effects:  A 52S crewmember completed a Visual Performance Test by stowing the test hardware in their crew quarters, setting the light to the correct mode, turning all other light sources in the crew quarters off, before performing a Numerical Verification Test and a Color Discrimination Test. The completed tests were photographed and downlinked. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. 
+Miniature Exercise Device (MED-2) Exercise Evaluation:  51S crewmembers exercised using MED-2 with body markers and multiple camcorders for ground evaluation. The ISS’s exercise equipment is large and bulky, while the MED-2 aims to demonstrate small robotic actuators can provide motion and resistance for crew workout sessions, reducing the size and weight of exercise equipment for long-duration space missions. The MED-2 investigation is a system to test key technologies needed to develop space based exercise equipment that may provide appropriate countermeasures to the adverse effects of microgravity. This technology is critical for the initial design and development of second and third generation Counter Measure Systems (CMS) hardware that is an order of magnitude lighter and smaller than existing ISS class of CMS hardware and that has significantly greater reliability. 
+Combustion Integrated Rack (CIR) Gas Chromatograph (GC) Installation: The crew installed the GC instrument package to support continued operations of the CIR for the upcoming ACME investigation. During the installation, the crew cleaned and contained a small leak that was noticed from a helium bottle. In an activity unrelated to today’s GC installation package, the crew checked a suspected bad cable connection to see if it was the cause of current Image Processing and Storage Unit (IPSU) data issues. After reporting that the connection appeared to be fully mated, the crew was asked to break and reseat the connector before downlinking photos for ground teams to assess. The CIR is used to perform combustion experiments in microgravity. The CIR can be reconfigured easily on orbit to accommodate a variety of combustion experiments. It consists of an optics bench, a combustion chamber, a fuel and oxidizer management system, environmental management systems, and interfaces for science diagnostics and experiment specific equipment. 
+Fine Motor Skills (FMS): A 51S crewmember completed a FD 60 FMS session which is executed on a touchscreen tablet, where the subject performs a series of interactive tasks. The investigation studies how fine motor skills are affected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of FMS is to answer how fine motor performance in microgravity trend/vary over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trend/vary before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods.
+Sally Ride Earth Knowledge Acquired by Middle School Students (EarthKAM) Node 2 Setup and Activation: The crew setup the payload components for EarthKAM in Node 2 for a week-long imaging session. Sally Ride EarthKAM allows thousands of students to photograph and examine Earth from a space crew’s perspective. Using the Internet, the students control a special digital camera mounted on-board the International Space Station. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The team at Sally Ride EarthKAM then posts these photographs on the Internet for the public and participating classrooms around the world to view.
+MagVector: Because the generically used MagVector USB stick was reported broken, the crew retrieved a new USB stick to support the 14th MagVector experiment run that begins later this week.  The European Space Agency (ESA) MagVector investigation studies how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research not only helps improve future International Space Station experiments and electrical experiments, but it could offer insights into how magnetic fields influence electrical conductors in general, the backbone of our technology.
+EVA preparations:  Today the crew inspected tethers and modified the Ballscrew Lubrication Tool (BLT) depth gauge.  These tasks are required to prepare for the upcoming trio of EVAs in October.  The goals of the EVAs include R&R of one SSRMS LEE, lubrication of the LEEs, and R&R of two external cameras. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+CIR GC Instrumentation Package Installation
+Combustion Integrated Rack Rack Doors Open/Close
+COL cabin restow after MARES deployment
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+EarthKAM Node 2 Setup and Activation-Russian
+EVA Ballscrew Lubrication Tool Prep
+Battery Stowage Assembly (BSA) Operation Termination
+Extravehicular Activity (EVA) Procedures Print
+US Extravehicular Activity (EVA) Tether Inspection
+Fine Motor Skills Experiment Test – Subject
+HRF Generic Frozen Blood Collection
+HRF Generic Sample MELFI Insertion
+HRF Generic Refrigerated Centrifuge Configuration
+HRF Generic Urine Collection Male – Subject
+IMS update
+ISS Crew Handover
+Handover of Increment 53 Crew
+ISS Crew Orientation
+JEM 3.0 CTB Consolidation for OA-8
+Lighting Effects Visual Performance Tests Light Setting – Subject
+Retrieve new USB Stick for MAGVCTOR; transp. WiseNet EQUPT to COL
+Miniature Exercise Device Operations Session
+MOBIPV SOFTWARE INSTALLATION
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+Photo/TV Camcorder Setup Verification
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+PAO Preparation
+Hygiene Cover and Privacy Curtain Installation Big Picture Review
+ARED Photo/TV Reminder
+Save personal data to RSK1 prior to software upgrade
+RSK1 step-up to 4.3. Specialist conference
+Station Support Computer (SSC) Client Power On
+[ТВМ] (А13) R&R – equipment locate and setup, r/g review.
+Downlink exercise data via ОСА
+On MCC Go БМП Ф1 absorption cartridge cycling (term)
+БМП Ф1 absorption cartridge cycling init and term
+СОЖ maintenance
+Review r/g, locate and set up equipment prior to [БСКУ5-12] [ПВ-12] R&R.
+[БСКУ5-12] [ПВ-12] R&R. Specialist conference
+VIZIR. ИКП СКПИ battery charge init
+VIZIR. СКПИ battery charging
+VIZIR. Charge battery SKPI
+51S [БВН] grid cleaning
+
+Completed Task List Activities
+
+ESA-PAO-GUGGENHEIM
+ESA-PAO-RAI PRIX
+ESA-PAO-SPAC3
+Virtual Reality Training (VRT) Extravehicular Activity (EVA) Simplified Aid for EVA Rescue (SAFER) [In Work]
+ISSpresso Install
+NOD1D2 Restow
+Public Affairs Office (PAO) Recorded Greeting Request Downlink Message
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Standard commanding 
+

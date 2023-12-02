@@ -1,0 +1,73 @@
+
+External Thermal Control System (ETCS) Loop A Shutdown: This morning, ETCS Loop A shut down due to under temperature Fault Detection Isolation and Recovery (FDIR). Ground specialist have repowered the Loop A pump and is currently cooling external loads at this time. However, the Flow Control Valve (FCV) is not operating as expected and the Loop A temperature control has not been regained.  All internal heat loads from US Lab, Airlock and N3 equipment are currently being rejected on Loop B.  Node 2 does not have the capability to configure in a single loop mode.  The ground teams have started powering down loads in Node 2, JEM and COL as required.  ETCS Loop B continues to operate nominally.
+Centerline Berthing Camera System (CBCS) Installation Defered: The activity to install and checkout the CBCS was deferred due to the ITCS Loop A issue. The Node 2 video switch and camera port were deactivated in response to the Loss of cooling scenario. CBCS Installation and checkout is part of Cygnus Launch Commit Criteria Flight Rule.
+Cygnus Robotics Trainer (ROBOT) On-Board Training (OBT):  Flight Engineer (FE)-3 Hopkins, FE-5 Mastracchio and FE-6 Wakata participated in a Cygnus ROBOT session that consisted of a CYGNUS approach from 30 meter hold through capture. The intent of this session was to give the crew a big picture review of the CYGNUS Approach/Capture and review M1/M2 coordination.
+Airlock Reconfiguration: Mastracchio and Wakata reorganized Airlock M-02 bags and covers/additional overflow bags for EMU soft goods, batteries, and LiOH/METOX into smaller CTBs. The bags were then restowed back in M-02 bags or original locations until future A/L Reconfig activities when A/L1F1 stowage area can be utilized.  This was the first part of airlock reconfiguration in preparation for Nitrogen/Oxygen Recharge System (NORS) arrival on ORB-2.
+Treadmill 2 (T2) Lateral Belt Inspection:  On GMT 309, during the ISS T2 annual maintenance, the crew reported 7 teeth on the right side of the right lateral belt were damaged. Today Hopkins performed a detailed inspection of the T2 lateral belt with emphasis to examine the drive shaft gear’s teeth on the inner edge of the gear teeth that line up with the damaged teeth on the right lateral belt.  Hopkins identified the slat numbers on the tread-belt that corresponded to damaged teeth then took photos. The purpose of this task is to be able to compare the damage at different points in time, and identify if the damage is stable or not.
+Today’s Planned Tasks
+
+HRF – Urine Collection Operations [Complete]
+HRF – MELFI Sample Insertion [Complete]
+Regeneration of БМП Absorption Cartridge Ф2 (start)  [Complete]
+Conference with SSIPC Management [Complete]
+Removal of БД-2 vibration isolation torsion bars for the test.  [Complete]
+Photography of FGB Interior panels in Hygiene Ops Area [Complete]
+ISS Crew / SSIPC FD Conference [Complete]
+Airlock NORS Reconfiguration  [Complete]
+LF Telemetry receiving/processing unit (БПИ НЧ) Recording On [Complete]
+Camcorder setup to capture БД2 treadmill exercise
+Life On The Station Photo and Video [Complete]
+NAPOR-miniRSA. Biaxial Pointing Platform (ДПН) Actuator Controller Software Upgrade (primary channel) [Complete]
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves [АВК СОА] [Complete]
+Removal of Video Equipment Used to Film Treadmill БД2 Exercise and Downlink of the Video [Complete]
+LF Telemetry receiving/processing unit (БПИ НЧ) Recording Off [Complete]
+Installation of БД-2 vibration isolation torsion bars after the test [Complete]
+Installation of БД-2 vibration isolation torsion bars after the test. Log dump from RSS1 after БД-2 test [Complete]
+USOS Window Shutter Close [Complete]
+NAPOR-miniRSA. Biaxial Pointing Platform (ДПН)  Actuator Controller Software Upgrade (backup channel) [Complete]
+DSC – Flash Disk Exchange [Complete]  
+Preparing for ISS RS SM fan replacement with low-noise units [Complete]  
+Urine transfer from EDV-U to ТКГ 420 Rodnik БВ 1 Water Tank and flushing connector with disinfectant [Complete]  
+СРВ-К2М Sediment Trap Insert Inspection [Complete]
+Cygnus Robotics On-board Training (ROBoT) 2 [Complete]
+USOS Window Shutter Close [Complete]
+Replacement of ВВПрК fan in ISS RS SM with the low-noise units and measuring the noise level using SLM [Complete]
+ИП-1 Flow Sensor Position Check [Complete]
+Cygnus Robotics On-board Training (ROBoT) 2 Debrief [Complete]
+IMS Update [Complete]
+Robotics Work Station (RWS) Display and Control Panel (DCP) Setup [Complete]  
+Robotics Work Station (RWS) Display and Control Panel (DCP) Checkout [Complete]  
+HRF – Urine Collection Operations [Complete]
+HRF – MELFI Sample Insertion [Complete]
+Filling EDV [KOV] No. 1000 for Elektron [Complete]  
+VZAIMODEISTVIYE Experiment Ops [Complete]  
+Node 2 Nadir Hatch Unlatch [Complete]
+Gather Equipment for Centerline Berthing Camera System (CBCS)  [Deferred]
+Centerline Berthing Camera System (CBCS) Installation and Checkout [Deferred]
+Sound Level Data Downlink after taking acoustic measurements [Complete]
+HRF – Urine Collection Operations [Complete]
+HRF – MELFI Sample Insertion [Complete]
+HRF Generic Frozen Blood Collection Setup [Complete]
+HRF – Urine Collection Operations [Complete]
+SPINAL – Ultrasound Ops Review [Complete]
+HRF – MELFI Sample Insertion [Complete]
+Treadmill 2 (T2) Lateral Belt Inspection [Complete]
+SPINAL – Experiment Tagup [Complete]
+Treadmill 2 (T2) Unmanned Activation and Checkout (ACO) [Complete]  
+БМП Ф2 Absorption Cartridge Regeneration (termination) [Complete]
+ISERV – Opening window shutters in the LAB [Complete]
+
+Task List
+
+ARED Cylinder Evacuation 
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+URAGAN. Observations and Photography
+ECON-M. Observations and Photography
+
+Ground
+
+Nominal Commanding [Complete]
+Reboost  [Complete]
+

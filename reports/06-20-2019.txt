@@ -1,0 +1,137 @@
+
+Fiber Optic Production (FOP): The crew performed a preform and spool exchange allowing the ground to initiate a print run. The Hardware was then removed from the Microgravity Science Glovebox (MSG) and stowed. The Fiber Optic Production investigation creates optical fibers with high commercial value aboard the ISS using a blend of zirconium, barium, lanthanum, sodium, and aluminum called ZBLAN. It operates in the MSG. Extensive theoretical studies along with a limited number of experimental studies suggest that ZBLAN optical fibers produced in microgravity should exhibit far superior qualities to those produced on Earth. The resulting optical fiber from Fiber Optic Production is expected to help verify these studies and guide further engineering efforts to manufacture high value optical fiber in large volume aboard the ISS. 
+PhotoBioreactor: The crew performed the nutrient exchange on the algae sample chambers. Today the life support systems that sustain astronauts in space are based on physicochemical processes. The PhotoBioreactor investigation aims at demonstrating that microalgae (i.e. biological processes) can be used together with existing systems to improve recycling of resources, creating a hybrid life support system. This hybrid approach could be helpful in future long-duration exploration missions, as it could reduce the amount of consumables required from Earth and will first be tested in space on the ISS.
+The ISS Experience: The crew recorded a Social Moments event for the ISS Experience study which creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved.  The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses.
+Japanese Small Satellite Orbital Deployer 11 (J-SSOD#11): The crew removed the J-SSOD #11 hardware from the JEM Airlock slide table. The J-SSOD provides a novel, safe, and small satellite launching capability to the ISS. The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites. Once J-SSOD, including satellite install cases with small satellites, is installed on the Multi-Purpose Experiment Platform (MPEP) by crew members, it is passed through the JEM airlock for retrieval, positioning, and deployment by the JEMRMS.
+RED-EYE: The crew reviewed JEM slide table Satellite to Kaber installation procedures for the RED-EYE satellite. Yesterday Robotics Ground Controllers maneuvered the Space Station Remote Manipulator System (SSRMS) to the start position for Red Eye deployment scheduled on June 27. The RED-EYE program develops and demonstrates technologies which increase the utility of low-cost microsatellites. 
+57S Soyuz Nominal Descent On-Board Training (OBT): In preparation for Monday’s 57S departure, the 57S crew performed the second descent drill. They practiced a nominal descent and the transition to Manual Entry Control [РУС]. Responses to emergencies caused by nominal decent hazards were also reviewed.
+Completed Task List Activities:
+
+EVA zip ties wanted poster
+EVA scraper gap gauge build
+Locate IDA jumper cables
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payloads ops support
+
+Look Ahead:
+Friday, 6/21 (GMT 172)
+Payloads:
+
+
+MARROW Air sample (CSA)
+Russian Experiment MELFI inserts (ESA)
+Probiotics Saliva collection and questionnaire (JAXA)
+Newton’s Law PL Review and ops (NASA)
+REDEYE satellite Hardware install onto JEM slide table (NASA)
+Behavioral Core Measures Cognition and ROBoT tests and Questionnaire (NASA)
+VEG-04 Mass Measurement Device setup (NASA)
+JEM-MPEP removal (JAXA)
+ISS Experience H/W stow (NASA)
+
+Systems:
+
+RPCM contingency hot mate/demate
+Behavioral core measures ROBoT training
+
+Saturday, 6/22 (GMT 173)
+Payloads:
+
+
+ISS Experience RS Inverter handover to US crew and H/W stow (NASA)
+Veggie Questionnaire (NASA)
+LTE post sleep log (NASA)
+HRF Saliva collect (NASA)
+VEG-04 Mass Measurement Device Calibrate and Ops (NASA)
+Probiotics Saliva collect and questionnaire (JAXA)
+
+Systems:
+
+Crew off duty, housekeeping
+
+Sunday, 6/23 (GMT 174)
+Payloads:
+
+
+Veg-04 Mass Measurement Device Ops (NASA)
+LTE Post Sleep Log (NASA)
+ISS Experience Lab recording (NASA)
+HRF Saliva Collect (NASA)
+HRF Functional Immune Saliva collect (NASA)
+
+Systems:
+
+Crew off duty, 58S crew emergency roles & responsibilities review, Change of Command ceremony
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Soyuz 741 СУДН No.2 test prior to undocking
+A/L Adapter Plate (JCAP) Reconfiguration
+Recharging Soyuz 742 SM-AGAT-U55 external batteries (2), start
+Cell Biology Experiment Facility (CBEF) Humidifier Closeout
+KORREKTSIYA. Log Entry of Liquids and Food (Medicine) Intake
+COSMOCARD. Closeout Ops
+JEM Airlock Press
+Water Recovery Management (WRM) Condensate Pumping Initiation
+CARDIOVECTOR. Experiment Session
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+XF305 Camcorder Setup
+Soyuz 741 [АСУ] Activation
+JEM Airlock Leak Check
+Water Resource Management Condensate Bag Swap
+JEM Airlock Slide Table (ST) Extension to JPM Side
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+JEM Small Satellite Orbital Deployer (SSOD) 11 Removal from Multi-Purpose Experiment Platform
+LBNP Training (PRELIMINARY)
+LBNP Training (PRELIMINARY), Operator
+Water Resource Management Condensate Bag Swap
+Fiber Optic Production Sample Exchange
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Team Task Switching Experiment Survey
+Removal of PBR syringes from MELFI
+Soyuz 741 Stowage Ops for Return. Note 10
+Crew Departure Preparations for Return to Earth
+PhotoBioreactor
+Bio-Analyzer Session Setup Partial
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+Bio-Analyzer Microchip Preparation And Control Sample Analysis
+PBR MELFI Insert
+ISS HAM Service Module Pass
+MERLIN 2 Desiccant Swap
+ISS Crew departure preparation
+KORREKTSIYA. Log Entry of Liquids and Food (Medicine) Intake
+Progress 441 (DC1) Transfers and IMS Ops, and providing access to Progress 441 (DC1) Navigation Module [НМ-2]
+Soyuz 741 Descent OBT
+Removal of Navigation Module [НМ-2] and cables from Progress 441 (DC1)
+Remote Power Control Module (RPCM) Remove and Replace Big Picture Words
+In Flight Maintenance N22A3A_A RPCM R&R Crew Conference
+Fiber Optic Production Hardware Stow
+REDEYE Operations Review
+VEG-04 Plant Check/Watering for each Plant Pillow
+Photo/TV. Checking Camcorder Settings
+ISS Crew departure preparation
+REDEYE Operations Review
+Actiwatch Plus HRF Rack 1 Setup
+Bio-Analyzer Hardware Stow
+Descent Private Medical Conference (PMC, audio only)
+Marrow Breath And Ambient Air Sample Setup Subject
+Photo/TV Camcorder Setup Verification
+Recharging Soyuz 742 SM-AGAT-U55 external batteries (2), end
+Probiotics Item Gathering
+Water Resource Management Condensate Pumping Init
+KORREKTSIYA. Experiment setup
+Inventory Management System (IMS) Conference
+Microgravity Science Glovebox Power Down
+Water Recovery Management (WRM) Condensate Pumping Termination
+Actiwatch Plus HRF Rack 1 Stow
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+Daily Planning Conference
+Standard Measures Pre-sleep Questionnaire
+Behavioral Core Measures Team Measures Questionnaire
+
+ 

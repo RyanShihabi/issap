@@ -1,0 +1,74 @@
+
+New Status:
+H-II Transfer Vehicle (HTV)-4 Capture and Berthing: Robotics Ground Controllers powered up the Space Station Remote Manipulator System (SSRMS) in Hot Backup configuration.  Cassidy, Nyberg and Parmitano monitored the HTV4 approach from the Cupola Robotics Work Station (RWS) and successfully captured HTV using the SSRMS at approximately 6:22 am CDT. Robotics Ground Controllers then maneuvered it to and installed it on, the Node-2 Nadir Active CBM (ABCM).  Cassidy utilized the Node-2 Nadir ACBM to capture HTV4, then Robotic Ground Controllers released the SSRMS from HTV4, maneuvered it to grapple the HTV4 Exposed Pallet (EP) and performed a checkout of the HTV Berthing Camera System (HBCS). Once berthed, the 16 bolts on Node 2 nadir were driven to mechanically attach HTV4 to ISS. Parmitano and Nyberg then performed vestibule pressurization and outfitting. Ingress is scheduled for Saturday, August 10.
+ 
+Russian Segment (RS) Extravehicular Activity (EVA) 34 Preparations:  FE-2 Misurkin and FE-4 Yurchikhin performed a Dynamic Onboard Ubiquitous Graphics (DOUG) review of the translation paths for the upcoming RS EVA 34, scheduled for August 16th.  
+ 
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3: Nyberg initiated the third of 42 planned science runs. The InSpace experiment is performed in the Microgravity Science Glovebox (MSG), and runs are initiated by setting current levels and pulse frequencies.  InSPACE-3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state by the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and can improve the design of structures.
+ 
+Today’s Planned Tasks
+·         CASKAD. Manual Mixing in Bioreactor  [Complete] 
+·         Daily Planning Conference (S-band) [Complete] 
+·         ISS Crew and ГОГУ Weekly Conference (S-band) [Complete] 
+·         Review EVA Translation Paths and Work Zones using DOUG Application [Complete] 
+·         ТКГ 420 (DC1) Transfers and IMS Ops / Progress 420 Transfers   [Complete] 
+·         HD Camcorder Set-up [Complete] 
+·         Robotic Workstation (RWS) Cupola Crew Restraint (CCR) Installation [Complete] 
+·         PCS Verification [Complete] 
+·         RWS Configuration Setup [Complete] 
+·         Windows XP Activation on MSPR Laptop
+·         HTV Approach Monitoring [Complete] 
+·         СОЖ Maintenance 
+·         Removal of two handles from the front of ТГК hatch cover, installation of ТКГ 420 docking mechanism [Complete]
+·         ПхО БСС Water Cooling System Separation [Complete]
+·         Installation of ТКГ 420 (DC1) Docking Mechanism [Complete]
+·         SSRMS HTV Grapple [Complete] 
+·         Centerline Berthing Camera System (CBCS) Power up [Complete]
+·         Node 2 port CBM checkout prior to docking [Complete]
+·         HTV – PCBM Inspection [Complete]
+·         On MCC Go Pump Urine from ЕДВ-У to ATV tank 1 [Complete]
+·         Orlan Spacesuit and Orlan Interface Unit [БСС] Cooling Loop Separation in DC1 [Complete]
+·         MSG – Visual inspection and activation [Complete]
+·         INSP3 – Start experiment ops [Complete]
+·         MATRYOSHKA-R. Monitoring Tritel Readings 
+·         Treadmill Т2 Monthly Inspection [Complete]
+·         Video Footage for Science 2.0 TV Project [Complete]
+·         Acoustic Dosimeter Stow [Complete]
+·         HTV – Hardware Command Panel (HCP) Inhibit and Stow [Complete]
+·         CBM First Stage Capture [Complete]
+·         Node 2 Nadir CBM 2nd Stage Capture & Acquire Bolts – HTV [Complete]
+·         Food Frequency Questionnaire [Complete]
+·         Removal of Centerline Berthing Camera System (CBCS) [Complete]
+·         IMS Update [Complete]
+·         A study of cardiovascular system response to graded cycle ergometer exercise [Complete]
+·         SHD – Weekly Questionnaire [Complete]
+·         HTV/N2 – Vestibule Pressurization and Leak Check [Complete]
+·         RWS Cupola Crew Restraint (CCR) Removal [Complete]
+·         INSP3- Closeout Ops [Complete]
+·         CASKAD. Manual Mixing in Bioreactor / r/g 3070 [Complete]
+·         Node 2 Nadir/HTV Vestibule Outfitting, Part 1 [Complete]
+·         A study of cardiovascular system response to graded cycle ergometer exercise [Complete]
+·         Windows 7 Activation on MSPR Laptop [Complete]
+·         RWS Monitor Deactivation [Complete]
+·         Daily Planning Conference (S-band) [Complete]
+·         MSG Hardware Deactivation [Complete]
+·         Flight Director/ISS Crew Tagup [Complete]
+ 
+Task List
+·         ARED CylinderEvac [Complete]
+·         WHC KTO Replace
+·         WHC EDV R&R 
+·         Roscosmos Report
+·         ATV rack front config
+·         52P USOS Unpack  [In Work] 
+·         Glen Harness Search
+·         Bk Curtain Retrieve
+·         Med Ops Photos [Complete]
+·         MELFI1 N2 Pressure Check
+·         MELFI2 N2 Pressure Check
+·         MELFI3 N2 Pressure Check
+·         T2 snubber video [Complete]
+ 
+Ground
+·                     Nominal Commanding
+ 

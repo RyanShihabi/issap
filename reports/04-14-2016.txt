@@ -1,0 +1,113 @@
+
+Cell Mechanosensing 3 (CMS-3) Operations: The crew successfully initiated and completed another microscope observation setting for CMS-3, after repositioning the thermal sample container to allow enough lighting through the microscope for imaging. The investigation identifies gravity sensors in skeletal muscle cells to develop countermeasures to muscle atrophy. Scientists believe that the lack of mechanical stress from gravity causes tension fluctuations in the plasma membrane of skeletal muscle cells which changes the expression of key proteins and genes and allows muscles to atrophy.
+ 
+Ocular Health (OH) Optical Coherence Tomography (OCT) and Fundoscope Exams: The crew configured the OCT hardware and software and conducted eye exams using the OCT laptop. The Fundoscope was set up and operator assistance and remote guidance from ground teams were available. The Ocular Health investigation gathers data on crew members’ visual health during and after long-duration space station missions. Tests monitor microgravity-induced visual impairment as well as changes believed to arise from elevated intracranial pressure to characterize how living in microgravity can affect the visual, vascular and central nervous systems. The investigation also measures how long it takes for crew members to return to normal after they return to Earth.
+ 
+Sprint Ultrasound 2 Operations: The crew set up the VCA2 camcorder and SD video, configured the Ultrasound 2 software, placed reference marks on subject’s right thigh and calf, donned the Sprint thigh and calf guides, and performed scans with guidance from the Sprint ground team. Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume. The Sprint investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions.
+ 
+Bone Densitometer Calibration: In preparation for upcoming Bone Densitometer operations, the crew reviewed training material and performed two field calibration tests to ensure that measurement results from the tests are accurate. Densitometry measures the mass per unit volume (density) of minerals in bone. Quantitative measures of bone loss in mice during orbital space flight are necessary for the development of countermeasures for human crew members as well as for bone-loss syndromes on Earth by commercial entities. Planned studies, both academic and commercial, require on-orbit analytical methods including bone densitometry.
+ 
+Fine Motor Skills: Two crew members completed a session of the Fine Motor Skills experiment this morning by performing a series of interactive tasks on a touchscreen tablet. This investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity.
+ 
+Dose Tracker: The crew configure the Dose Tracker app and completed entries for medication tracking on an iPad. This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+ 
+Compound Specific Analyzer (CPA) Combustion Products (CP) Checkout: The crew checked out four newly resupplied CSA-CPs delivered on OA-6 including verification there was no sensor contamination. He then zero calibrated four monitors and deactivated all units. Following the checkout, deploy of two CSA-CPs in Node 1 (N1) and the Service Module (SM) was completed.
+ 
+Mobile Servicing System (MSS) Operations: Yesterday afternoon, Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered the Space Station Remote Manipulator System (SSRMS) to position it and the Special Purpose Dexterous Manipulator (SPDM) to survey the Port Functional Cargo Block (FGB) Solar Array from four different positions.  After completing the survey, controllers maneuvered the SSRMS to a park position.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+EarthKAM. Camera Battery Swap
+Eye Imaging (Ocular Health), OCT Setup
+Eye Imaging (Ocular Health), OCT Exam (Subject)
+Soyuz 719 GoPro HERO3 camcorder battery charge, initiate
+Eye Imaging (Ocular Health), OCT Exam (Operator)
+Maintenance Activation of Spare Atmosphere Purification System Emergency Vacuum Valves [АВК СОА]
+USND2 Hardware Activation
+Multi Omics (MO) Hardware Setup
+Data Transmission Radio (РСПИ) – Onboard Memory Device (БЗУ) r/g 1927
+Maintenance activation of Atmosphere Purification System Emergency Vacuum Valves [АВК СОА]
+URAGAN. Observation and photography using Photo Equipment / r/g 1951
+FINEMOTR Photo Documentation
+FINEMOTR  Experiment Ops
+SPRINT  Ultrasound Scan Operations
+SPHERES  Disconnect the USB from the SSC and stow
+Photography of Soyuz landing sites / r/g 1953
+Bone Densitometer (BD) Review of training material
+CONSTANTA-2. Preparation and Execution 4 r/g 1952
+KUBIK warm temperature check for the SPHEROIDS experiment
+US LAB (USL) Hardware Setup
+Bone Densitometer (BD) hardware calibration
+Universal Battery Charger (UBC) Hardware Installation and Checkout
+BIOCARD. Experiment Ops. r/g 1907
+BIOCARD. Operator Assistance During the Experiment / r/g 1907
+Bone Densitometer (BD) hardware calibration
+Soyuz 719 GoPro HERO3 camcorder battery charge, terminate
+ESA Weekly Crew Conference
+ЦВМ (=А3) Replacement Preparation Ops r/g 1928
+PLR/GLCR  Sample Transfer to Glove Box
+СОЖ Maintenance
+On MCC GO Demate ЦВМ telemetry connector / r/g 1928
+RunSocial Update for iPad
+ЦВМ (=А3) Replacement r/g 1928
+RunSocial Update for iPad
+PAO Hardware Setup
+Prep for БД-2 Maintenance r/g 1954
+Crew Prep for PAO
+PAO Event
+On MCC GO Mate ЦВМ  telemetry connector / r/g 1928
+ЦВМ (=А3) Replacement Closeout Ops / r/g 1928
+USND2 Hardware Deactivation
+Eye Imaging (Ocular Health), OCT Exam (Operator)
+Eye Imaging (Ocular Health), OCT Exam (Subject)
+OTKLIK. Hardware Monitoring / r/g 1588
+CMS3 Sample Retrieval from MELFI
+EarthKAM. Camera Battery Swap
+CMS3 Sample retrieval from CBEF IU and setting them in Thermal Container
+Photography of the back side of SM interior panels / r/g 1931
+
+ABOUT GAGARIN FROM SPACE. Hardware deactivation / r/g 1914
+Node 3, Checkout of Aft Hatch to Unlatch Hardstop
+INTER-MAI-75. Hardware Setup and HAM Radio Activation r/g 1955
+DOSETRK Survey Questionnaire Completion
+POLAR1 Desiccant Pack Swap
+Checking RunSocial application file for Pad
+CMS3 Sample Preparation
+INTER-MAI-75. Hardware status check / r/g 1955
+On MCC GO ISS Repress with air from Progress 431 (DC1) СрПК Section 2 (start)
+ПФ1-4 dust filter cartridge replacement in SM
+Crew Onboard Training (OBT) Self-Assessment Questionnaire
+Universal Battery Charger (UBC) Battery Charge
+On MCC GO ISS repress with air from Progress 431 (DC1) СрПК Section 2 (terminate)
+IMS Conference
+IMS Delta File Prep
+Eye Imaging (Ocular Health), Stowage of OCT Equipment
+INTER-MAI-75. Hardware status check / r/g 1955
+Compound Specific Analyzer-Combustion (CSA-CP) Checkout Part 2
+INTERACTION-2. Experiment Ops / r/g 1950
+Cupola Window Shutter Closure
+Ocular Health Experiment, Fundoscope Setup Adjustment
+Ocular Health Experiment, Fundoscope Setup
+HRF blood collection setup
+Fundoscope Eye Exam
+INTER-MAI-75.  Hardware Deactivation and Closeout / r/g 1955
+Ocular Health Experiment, Fundoscope Setup
+Fundoscope  Eye Exam
+Fluid Shifts (FS) Experiment procedure review
+Daily Planning Conference (S-band)
+Ocular Health Experiment, Fundoscope Stowage
+EarthKAM. Camera Battery Swap
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal ground commanding
+
+ 

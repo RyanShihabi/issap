@@ -1,0 +1,110 @@
+
+Robonaut Leg Installation: Commander (CDR) Swanson temporarily removed the Robonaut front and side torso panels, backpack, and kidney panel in preparation for tomorrow when he will attach the torso and mobility legs. Robonaut is a dexterous humanoid robot designed with the versatility and dexterity to manipulate hardware, exhibit greater endurance than humans and react safely when bumped or interacted with in a way that was not expected.
+ISS Ham Radio:  Flight Engineer (FE)-6 Gerst conducted the 900th ISS ham radio pass today.   He talked with students at Dorothy Grant Elementary School in Fontana, CA about life in space. 
+Reboost: This morning the ISS performed a reboost using Automated Transfer Vehicle (ATV)-5 Orbital Control System (OCS) thrusters to set up phasing to support 38S landing on September 10. Burn duration was 2 minutes, 58 seconds with a Delta-V of 0.43 meters per second. A reboost planned for September 18 will finalize phasing for 40S 4-orbit rendezvous on September 25.
+On-Board Training (OBT) 39 Soyuz Emergency Drill: FE-5 Wiseman, Gerst and FE-4 Suraev performed this regularly scheduled emergency egress drill. The crew reviewed procedures associated with nominal and off nominal Soyuz descent scenarios.
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation: This morning Swanson and Wiseman completed routine health status evaluations with each acting alternately as Crew Medical Officer (CMO) and subject. Gerst also completed his evaluation with Swanson as CMO.
+Ocular Health (OH) Examination: Wiseman and Gerst took blood pressure readings and performed tonometry tests. The Ocular Health protocol is a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment / intracranial pressure in ISS crew members.  Researchers believe the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+MO-8. Config Setup [Complete]
+IVA – Reading Exercise Clothes Reminder [Complete]
+Body Mass Measurement [Complete]
+MO-8. Closeout Ops [Complete]
+PH Equipment Setup [Complete]
+Conference of Search and Rescue (ГПСК) specialists with returning crew [Complete]
+HMS Visual Testing Activity [Complete]
+WRS Water Sample Analysis [Complete]
+Periodic Health Status – Subject [Complete]
+Periodic Health Status – Assistance [Complete]
+Installation of overlay sheets on FGB interior panels (panel 204) r/g 6488 [Complete]
+Periodic Health Status – Assistance [Complete]
+Periodic Health Status – Subject [Complete]
+Health Maintenance System (HMS) – Vision Questionnaire [Complete]
+Periodic Health Status – Assistance [Complete]
+Periodic Health Status – Subject [Complete]
+Health Maintenance System (HMS) Tonometry Test Setup [Complete]
+Retrieval of ENERGY Bags from ATV5 launch location for the upcoming ENERGY session [Complete]
+Ocular Health (OH) Blood Pressure Operations [Complete]
+OH – Blood Pressure Operations Assistance [Complete]
+Health Maintenance System (HMS): Ocular Test – CMO [Complete]
+Crew Departure Prep [Aborted]
+Installation of overlay sheets on FGB interior panels (panel 204) – Disinfectant Treatment. [Complete]
+Health Maintenance System (HMS): Ocular Test – Subject [Complete]
+HMS Defibrillator Inspection [Complete]
+ABOUT GAGARIN FROM SPACE. HAM Radio Hardware Setup for video transmission. r/g 6496 [Complete]
+VIRTUAL. Experiment Ops.  r/g 5790 [Complete]
+Periodic Health Status (PHS) Data Entry and Stowage of All Hardware Used in PHS [Complete]
+Post-tonometry Stowage [Complete]
+VIABLE – Kit Inspection [Complete]
+HMS Visual Testing Activity [Complete]
+Health Maintenance System (HMS) – Vision Questionnaire [Complete]
+ESA Weekly Crew Conference [Complete]
+ABOUT GAGARIN FROM SPACE. Hardware Activation and Checkout / r/g 6496 [Complete]
+COL – LAN PWS Cable Swap [Complete]
+Comm Testing via S/G1, S/G2.  r/g 6489 [Complete]
+Installation of overlay sheets on FGB interior panels (panel 204) – Repeat disinfectant treatment. [Complete]
+Robonaut Procedure Review [Complete]
+ROBONAUT – Camcorder Video Setup [Complete]
+IVA – Questionnaire [Complete]
+OTKLIK. Hardware Check / r/g 6040 [Complete]
+MMA – MLT2 Cable Swap [Aborted]
+On MCC GO Removal of SM Unit 800А АБ Module No. 4  r/g 6487 [Complete]
+Medical Laptop (MDLT) Relocation [Aborted]
+JRNL – Journal Entry [Complete]
+ABOUT GAGARIN FROM SPACE. Hardware Activation and Checkout / r/g 6496 [Complete]
+TOCA Data Recording [Complete]
+ABOUT GAGARIN FROM SPACE. Hardware Deactivation and Closeout / r/g 6496 [Complete]
+Dried Clothes Stowage [Complete]
+R2 – Transferring the HD flash card for downlink [Complete]
+ISS Emergency descent drill. (ТК 713). Tagup with specialists /  r/g 6493 [Complete]
+Photo of SM interior panels using photometric targets r/g 6455 [Complete]
+On MCC GO Replacement of БУПТ-1М (А406) АБ Module No.6  r/g 6487 [Complete]
+On MCC GO Mating telemetry connectors of БУПТ-1М (A402) Module АБ No.6. [Complete]
+Replacement of БУПТ-1М(А406) Module АБ No.6  [Complete]
+IMS Delta File Prep [Complete]
+Installation of SM Unit 800А АБ Module No. 4  r/g 6487 [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+IMMUNO. Setting up Saliva-Immuno Kit for experiment ops / r/g 6494 [Complete]
+IVA – Completing Questionnaire [Complete]
+СОЖ Maintenance [Complete]
+HAM Radio Session [Complete]
+IVA – Questionnaire data entry [Complete]
+Daily Planning Conference (S-band) [Complete]
+ISERV –  Opening Window Shutter [Complete]
+IVA – Completing Questionnaire [Complete]
+Dried Clothes Stowage [Complete]
+IVA – Reading Routine Clothes Reminder [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC EDV-Y R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+AMO shortcut install
+Dragon prepack review
+3DA1 cam ops
+ARED detent flip
+CTB 1226 unpack [In work]
+CTB 1247 unpack [In work]
+Data prep return
+EVA handover
+Food warmer mod
+HRF2 8PU drawer reconfig
+GLA R&Rs
+Journals
+NORS A/L reconfig part 2
+ATV cargo ops 
+
+Ground
+
+Nominal commanding
+

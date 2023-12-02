@@ -1,0 +1,117 @@
+
+BioFabrication Facility (BFF): The crew inserted a BFF Tissue Print Cassette sample into the BFF facility in order for the ground to perform a hardware checkout. The BFF is dedicated to manufacturing human organs and tissues in space, primarily for use by patients on Earth. Besides printing tissue, the BFF also can help maintain the health of deep space exploration crews by producing food and personalized pharmaceuticals on demand.
+ADSEP (ADvanced Space Experiment Processor): The crew installed an ADSEP Tissue print Cassette sample into the ADSEP facility in order for the ground to perform a Hardware checkout and the crew took historical photos. ADSEP is a thermally controlled single-middeck-locker equivalent that accommodates up to three cassette-based experiments that can be independently operated. Its companion hardware consists of a collection of several experiment cassettes, each doubly or triply contained, that accommodate experiments in cell technology, model organisms, multiphase fluids, solution chemistry, separation science, microencapsulation, and crystal growth.
+Materials on International Space Station Experiment (MISSE): Today, the ground robotics team, using the Space Station Remote Manipulator System (SSRMS), will start the transfer of Material Service Centers (MSCs) between the MISSE Transfer Tray (MTT) to the MISSE-FF.
+Systems:
+Lab Common Cabin Air Assembly (CCAA):  Yesterday, the crew installed a borescope into the Lab P6 CCAA Heat Exchanger (inactive CCAA) in preparation for the eventual installation of the Carbon Dioxide Removal Assembly (CDRA) snorkel. The CDRA snorkel is designed to be installed in a CCAA to protect CDRA and Sabatier from water carryover from the CCAA. Today, the crew performed a switchover of the active Lab CCAA from the Lab S6 CCAA to the Lab P6 CCAA.  This will allow the ground characterize the baseline conditions inside the CCAA ducting. This baseline test requires the Lab cabin temperature to be lowered to 20 deg. C overnight. As a result, of the lowered temperatures, water may be observed on the Lab overhead diffusers and will be wiped up with a towel. 
+Galley Rack Troubleshooting:  Today, the ISS crew performed the Galley Rack Troubleshooting Part 2.  Today’s troubleshooting determined that the Galley Rack Power Supply was the source of the overcurrent trip and the crew replaced the Galley Rack Power Supply with a spare.  The Galley Rack was restored to nominal operations.
+ISS Emergency Training: The ISS crew participated in an Emergency preparation and simulation. The simulation is a practice ISS Emergency Response with the crew and ground team based on simulated conditions. In addition, the crew spent some time practicing medical contingencies and reviewed On-board Training (OBT) medical procedures and roles during a medical event requiring Cardiopulmonary Resuscitation (CPR).
+Extravehicular Activity (EVA) Preparation:  The ISS crew performed a checkout of the Rechargeable EVA Battery Assembly (REBA) to verify that Extravehicular Activity Mobility Unit (EMU) glove heaters and video systems are powered in preparation for upcoming EVAs.
+Completed Task List Activities:
+
+RWS Setup
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+MISSE MSCs Transfer
+
+Saturday, 11/09 (GMT 313): Off-Duty Day
+Payloads:
+
+
+Standard Measures Saliva Collection (NASA)
+VEG-04B chk (NASA)
+ADSEP Cassette removal (NASA)
+EarthKam Node2 Shutdown and stow (RS Joint)
+PK-4 Video Monitor install (RS joint)
+
+Systems:
+
+CDRA Snorkel Inspection
+
+Sunday, 11/10 (GMT 314): Off-Duty Day
+Payloads:
+
+
+Veg-04B Plant Check/Watering (NASA)
+
+Systems:
+
+CDRA Snorkel Inspection
+
+Monday, 11/11 (GMT 315): Half Off-Duty
+Payloads:
+
+
+VEG-04B chk (NASA)
+Standard Measures Saliva Collection (NASA)
+Space Bioflims Sample GAP act and SABL insert (NASA)
+BFF test print without cells (NASA)
+CGBA4 Unit activate (NASA)
+RR-14 HAB restock (NASA)
+HRF-VEG-POMS questionnaire (NASA)
+PK-4 Photo (RS Joint)
+ISS HAM (NASA)
+
+Systems:
+
+Cygnus Cargo Transfers
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+KORREKTSIYA. Venous blood collection
+KORREKTSIYA. Photography
+KORREKTSIYA. Venous blood sample processing using Plasma-03 centrifuge
+Insertion of Russian experiments blood samples into MELFI
+KORREKTSIYA. Handover to USOS for MELFI Insertion
+KORREKTSIYA. Closeout Ops
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+AMS MAD reconfiguration/training
+Inventory Management System (IMS) conference
+Standard Measures Cognition Testing HRF PC1
+PROFILAKTIKA-2. Equipment setup
+AMS Procedure/video review
+PROFILAKTIKA-2. Preparation for the Experiment.
+SEPARATION. Mixing in the [СРВ-У-РС] urine circulation loop.
+KORREKTSIYA. Data transfer from Actimeter device to data storage device
+PROFILAKTIKA-2. MO-3 Test Assistance.
+AMS Procedure/video review
+PROFILAKTIKA-2. МО-3 test in passive mode.
+Extravehicular Activity (EVA) Procedure Conference
+PROFILAKTIKA-2. Closeout Ops.
+Station Support Computer (SSC) 16 Load Preparation
+Health Maintenance System – Food Intake Tracker iPad photos
+PROFILAKTIKA-2. Hygiene Procedures
+VEG-04B Plant Check/Watering for each Plant Pillow
+Installation of gas bleed line in Orlan-MKS No.5 ИК-0702М CO2 line. Food Acceptability Survey
+Galley Rack Troubleshooting
+Temperature and Humidity Control (THC) Common Cabin Air Assembly (CCAA) Swap
+PK-4 Experiment Campaign 8 – Familiarization
+Food Acceptability Survey
+Health Maintenance System – Food Intake Tracker iPad photos
+PK4. Hard Drive Audit
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+Biofabrication Facility  Tissue Cassette Install
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Cleaning of LIV TV system voltage converter vent screen
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Tissue Cassette Install Into ASDSEP
+USOS Endoscope Camera Reposition
+Health Maintenance System – Food Intake Tracker iPad photos
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB)/Metal Oxide (METOX) Installation
+CHeCS Emergency Health Maintenance System Contingency Drill Training
+Rodent Research Water Box and Light Check
+СОЖ Maintenance
+Battery Stowage Assembly (BSA) Operation Termination
+Rechargeable EVA Battery Assembly (REBA) Installation
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+Recharging Soyuz 746 Samsung PC after OBT, start recharge
+On-board Training (OBT) ISS Emergency Drill Conference
+
+ 

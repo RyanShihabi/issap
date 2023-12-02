@@ -1,0 +1,115 @@
+
+42 Soyuz (42S) Relocation: Overnight, 42S was successfully relocated from Mini Research Module (MRM) 2 Zenith to Service Module Aft. The relocation was performed in preparation for 44S scheduled docking to MRM 2 Zenith on September 4.  42S return to Earth is currently planned for September 11. The 42S crew continued sleep shifting, going to bed at 9:30 am CDT (1430 GMT).
+ 
+Microbe IV: Lindgren collected air and surface samples in different locations of the Japanese Experiment Module (JEM) using the Particle Counter and the Surface, Water and Air Biocharacterization Air Sampling Device (SWAB ASD). Additional samples using an adhesive sheet were collected and stored in MELFI for return on a future flight. The Microbe IV experiment aims to research microbial dynamics in a crewed habitat in space which is vital for safe and healthy long duration space habitation.  Human and microbes have a close relationship and research on this relationship in a space habitation environment is critical for success in long-duration mission.
+ 
+Human Research Program (HRP) Operations: 
+
+Yui and Lindgren completed their Flight Day (FD) 30 Ocular Health activities today, performing both ocular and cardiac ultrasounds. The ultrasound images will be used to identify changes in globe morphology, including flattening of the posterior globe, and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement. The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Kelly and Kornienko performed their morning Reaction Self-Test and another session prior to sleep. Reaction Self-Test aids crewmembers to objectively identify when their performance capability is degraded by various fatigue-related conditions that can occur as a result of ISS operations and time in space (e.g., acute and chronic sleep restriction, slam shifts, extravehicular activity (EVA), and residual sedation from sleep medications).
+Kelly and Kornienko continue sleep logging. The Sleep ISS-12 experiment monitors ambient light exposure and crew member activity, and collects subjective evaluations of sleep and alertness, to examine the effects of space flight and ambient light exposure on sleep during a year-long mission on the ISS.
+
+ 
+Kobairo Microgravity Measurement Apparatus (MMA) Removal:  In preparation for the Mouse Habitat Unit installation and checkout scheduled next week, Yui removed the MMA Remote Sensor Unit (RSU) and MMA Triaxial Acceleration Assembly (TAA) from the Kobairo Rack. The JAXA MHU, delivered on HTV5, is JAXA’s unique facility for rodent research consisting of 12 mouse cages with life support system, environment controlling system and observation system. The MHU is attached to the Cell Biology Experiment Facility (CBEF) and has a centrifuge that enables experiments to be performed on microgravity and artificial gravity simultaneously.
+ 
+NanoRacks Multi-Gas Monitor (MGM): Lindgren deployed the MGM in the Lab on EXPRESS Rack 8. The MGM is the first laser sensor to continuously measure four gases that are key for crewmembers’ health aboard the ISS. The multiple low-power, tunable lasers train an infrared laser beam on a cabin air sample, and sensors are tuned to specific wavelengths of light detect oxygen, carbon dioxide, ammonia, and humidity. The instrument fits in a device the size of a shoebox and detects the presence of gases in less than one second.
+ 
+HTV Cargo Transfer Status:  Kelly, Lindgren and Yui continued HTV-5 Cargo transfer operations today.
+ 
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+SLEEP – Questionnaire
+Laptop RS1(2) Reboot
+Reaction Self-Test. Reaction Time Test (morning)
+CORRECTSIA. Logging Liquid and Food (Medicine) Intake
+Photography of the external surface of ТК 716 СА hatch cover
+Closing window shutters 6,8,9,12,13,14
+ISS HAM RADIO Power Down
+Soyuz 716 Activation and Comm check from Soyuz 716 (via SG2)
+Comm Config before Soyuz 716 Relocation from MRM2 to SM Aft
+Downlink photo of external surface Soyuz 716 СА-БО hatch cover before relocation
+TK- MRM2 Hatch Closure prior to Soyuz 716 relocation
+ТК 716- MRM2 Hatch Leak Check
+Mpeg2 Multicast Test via Ku-band (Activation/Deactivation of TV data and Mpeg2 Multicast controls)
+СОЖ maintenance
+SEISMOPROGNOZ. Download Data from Control and Data Acquisition Module (МКСД) Hard Drive (Start)
+Soyuz ODF Procedure Ops. Kazbek Fit Check Activation of GoPro cameras in [СА] and БО.
+Activation of TV and MPEG2 Multicast TV Encoder
+Activation of mpeg2 multicast video recording mode
+Photography of Soyuz 716 Docking Assembly ШРС4 connector through SM Window No.26 During Relocation and Photo Downlink
+Soyuz 716 (42S) Relocation from MRM2 to SM Aft
+Soyuz ODF Procedure Ops. Soyuz СА-БО Leak Check. Setup Space Suit 1 and 2 for drying
+Comm config after Soyuz 716 Relocation
+Reset СО-ТК PEV to CLOSED position
+MICB – Sample Photos
+Switching ПрК-ТК PEV to ELECTR CONTR mode
+HTV Transfers Ops
+Closing Applications and Downlink of MPEG2 Multicast video via OCA
+ТК 716 – SM Aft I/F Leak Check
+MICB – Start Air Sampling
+IMS Delta File Prep
+ТК-SM Aft hatch opening after relocation
+USND2 – Hardware activation
+Acoustic Dosimeter Stow
+Installation of Quick Release Screw Clamps on SM Aft side
+Comm reconfig for nominal ops after ТК 716 relocation
+Terminate Drying of Suits 1,2
+Photo of a trace left by the Docking Mechanism Probe on the SM АСП-О Receiving Cone after TK 716 Relocation
+Start drying spacesuit 3 and set up the 1st pair of gloves for drying
+MICB – Replacement of air filters
+Downlink of Docking Cone Internal Surface Photos via OCA
+Ocular Ultrasound scan – Equipment setup
+TK 716 Deactivation after Relocation (without Gas Analyzer deactivation)
+MICB – Filter installation in MELFI
+Ultrasound Scan
+Verification of ИП-1 Flow Sensor Position
+Finish drying the first pair of gloves and start drying the second pair
+Preventive Maintenance of SM АСП-О Sealing Mechanism and ТПК 716 hatch cover
+TK 716 Deactivation after Relocation (without Gas Analyzer deactivation)
+Ocular  Ultrasound scan – Data Backup
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup.
+HMS – Food Frequency Questionnaire
+Ultrasound Scan
+JRNL – Journal Entry
+Terminate drying the second pair of gloves
+MICB – Filter Removal
+Ocular  Ultrasound scan – Closeout Ops
+Ocular  Ultrasound scan – Data Backup
+ISS HAM Radio Power Up
+MICB – Filter installation in MELFI
+ОН – Cardiac Scan
+Crew conference with FOD management
+Ocular Health (OH) – Operator assistance
+Finish Drying the 3rd suit, Start Drying the 3rd Pair of Gloves
+SHD – Questionnaire
+CORRECTSIA. Logging Liquid and Food Intake (Medicine)
+Terminate drying the 3rd pair of gloves
+Stow suits and gloves after drying
+Reaction Self-Test. Reaction Time Test (evening)
+ОН – Cardiac Scan (Subject)
+Ocular Health (OH) – Operator assistance
+iPAD File Transfer
+KOBAIRO – Hardware Removal
+XF305 Camcorder Settings Adjustment
+SHD – Questionnaire
+USND2 – Hardware Deactivation
+NANO – Experiment Ops
+HTV5.  Transfers Ops
+HTV – Cargo Transfer Tagup
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+USOS System commanding associated with 42S Relocation
+HMS Ultrasound support
+OH Cardiac ops support
+
+ 

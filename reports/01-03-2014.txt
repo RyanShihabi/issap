@@ -1,0 +1,81 @@
+
+Cygnus Launch Status:  Due to weather concerns, Orbital has decided to delay the Cygnus launch from Tuesday to no earlier than Wednesday, January 8th.  However, Orbital estimates less than 50% chance of being Go on the 8th.  The main concern is due to forecasted cold temperatures. The limiting component is the frangible joints on the Antares fairing. Their lower limit is 20 degrees F. Weather remains favorable for a roll out to occur Saturday evening.
+Body Measures: Flight Engineer (FE)-6 Wakata, with operator assistance from FE-5 Mastracchio, set up cameras and cabin video, performed body marker instrumentation, and collected calibration and body pose photos and circumference measurements for his flight day 45 session. It is anticipated that body measurements will change due to microgravity and fluid shifts. The goal of this study is to gather preliminary data to better understand the magnitude and variability of these changes. This data is important to be able to determine the changes that may occur during long-duration space flight and to be able to apply the changes to suit fit, suit sizing, workstation design, etc. for future missions to maximize performance, prevent injury, and reduce crew time for altering or adjusting their suits, workstation, etc. to accommodate their anthropometrics.
+Ocular Health (OH) Measurements: FE-3 Hopkins and FE-6 Wakata completed a series of activities in support of the OH payload, to satisfy their flight day 90 and flight day 60 sessions, respectively.  Hopkins and Wakata alternated as the Crew Medical Officer (CMO) to obtain ocular and cardiac ultrasound scans and blood pressure measurements. In-flight data collection was assisted by remote guidance from the ground to ensure proper positioning and data collection. Ocular ultrasound is used to identify changes in globe morphology, including flattening of the posterior globe, and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent postflight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Capillary Flow Experiment (CFE) Interior Corner Flow (ICF)-5 Test:  FE-5 Mastracchio set up and initiated a CEF ICF-9 run. CFE ICF studies capillary flow in interior corners. The Interior Corner Flow (ICF) experiment determines the rates of 3-D inhibition of wetting fluids in complex containers, the dependence of the dynamical boundary conditions as a function of geometry, and the performance of such devices as passive phase (i.e., bubble) separators. The ICF experiments are designed to benchmark the analytical technique developed to predict such flows. The benchmark theory aids in the design and analysis of capillary devices for positioning liquids passively in containers in microgravity environments by controlling the container geometry.
+Mobile Servicing System (MSS) Operations: Robotics Ground Controllers powered up the Mobile Transporter (MT) and performed the Pre-Translation Survey and Pre-Translation Checkouts. Once complete, they translated the MT from Worksite (WS) 2 to WS4. The team then configured and performed an SSRMS walk off from MBS Power Data Grapple Fixture (PDGF) 1 onto the Node 2 PDGF.  The SSRMS was subsequently maneuvered into position for the start of the Node 2 Nadir Active Common Berthing System (ACBM) survey.  Finally the Robotics Ground Controllers performed SSRMS Joint and Brake Diagnostics on the Redundant String and the SSRMS Latching End Effector (LEE) Checkout on the Prime String in preparation for the launch of Orbital-1.
+Today’s Planned Tasks
+
+KHROMATOMASS. Experiment Setup [Complete]
+HRF Blood Draw Operator [Complete]
+Reaction Self Test [Complete]
+KHROMATOMASS. Saliva and Blood Collection [Complete]
+HRF – MELFI Sample Insertion [Complete]
+SPLANH. Experiment Ops
+SPLANH. Photography  [Complete]
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference [Complete]
+CFE – Hardware Test Ops Review [Complete]
+Body Measures Experiment [Complete]
+HRF – equipment stow [Complete]
+Capillary Flow Experiment (CFE) – Maintenance Work Area (MWA) Preparation [Complete]
+Preparation for RS ISS Window Inspection and Photography [Complete]
+BAR.  Experiment Ops.  [Complete]
+KHROMATOMASS. Closeout Ops  [Complete]
+Body Measures Experiment [Complete]
+Preparation for SM Window Inspection and Photography (Equipment Gather and Work Area Setup) [Complete]
+ИП-1 Flow Sensor Position [Complete]
+MRM2 comm config to support voice comm during experiment [Complete]
+Inspection and photography of ISS RS windows 6, 7, 8. Photo File Prep for Downlink [Complete]
+Kulonovskiy Kristall Hardware Setup and Configuration. [Complete]
+JEM – S/G Checkout, Part 2 [Complete]
+Flow water through MRF [Complete]
+Kulonovskiy Kristall Experiment. [Complete]
+SPLANH. Blood Biochemistry Analysis Repeat  [Complete]
+MRM2 Comm Reconfig [Complete]
+SPLANH. Closeout Ops  [Complete]
+KULONOVSKIY KRISTALL. File prep for downlink via РСПИ [Complete]
+BAR. Experiment Ops. [Complete]
+Water Resource System (WRS) – Microbial Removal Filter (MRF) Purge  [Deferred]
+USND2 – Hardware activation  [Complete]
+IMS Tagup [Complete]
+IMS and Stowage Conference [Complete]
+CFE – Preparation and Hardware Setup [Complete]
+Ultrasound – Scanning [Complete]
+NAPOR-miniRSA. Placing tape on decompression openings [Complete]
+ПФ1-4 Dust Filter Cartridge Replacement in SM  [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (start) [Complete]
+Capillary Flow Experiment (CFE) [Complete]
+Urine transfer from EDV-U to ТКГ 420 Rodnik Tank 2 (DC1) / Pump out EDV-U (СМ1ПрК) lid 1113/bucket 606, lid 1063/bucket 650, lid 1115/bucket 665 (if filled) [Complete]
+Terminate transfer of water to the water storage tank via the MRF [Complete]
+OH – Ocular Health Cardiac Operations [Complete]
+Water Recovery Management (WRM):  Remove expired MRF Catridge from MRF Housing [Complete]
+OH – Assistance in performing cardiac scan and blood pressure measurement [Complete]
+СОЖ Maintenance  [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (end) [Complete]
+OH – Ocular Health Cardiac Operations [Complete]
+OH – Assistance in performing cardiac scan and blood pressure measurement
+Capillary Flow Experiment (CFE) – Hardware packing into Ziploc bags [Complete]
+IMS Update  [Complete]
+SHD – Weekly Questionnaire [Complete]
+Journal Entry [Complete]
+Cupola Window Shutter Close  [Complete]
+USND2 – Ultrasound 2 Hardware Power Off [Complete]
+Reaction Self Test [Complete]
+
+Task List
+
+ARED Cylinder Evac
+PCS HD Swap  [Complete]
+Replace KTO
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+ТКГ 420 Stowage and IMS Ops
+URAGAN. Observation and photography
+EKON-M. Observations and photography
+National Engineers Week Message
+
+Ground
+
+Nominal Commanding [Complete]
+MT Translation and SSRMS walkoff  [Complete]
+

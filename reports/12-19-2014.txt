@@ -1,0 +1,54 @@
+
+Cognition: Virts will act as the Cognition test operations subject.  He will power on Human Research Facility (HRF) laptop, launch the Cognition application, and complete the Cognition test which includes pre-test questions and an array of cognitive tests with performance feedback. Individualized Real-Time Neurocognitive Assessment Toolkit for Space Flight Fatigue (Cognition) is a battery of tests that measure how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. Cognition includes ten brief computerized tests that cover a wide range of cognitive functions, and provides immediate feedback on current and past test results. The software allows for real-time measurement of cognitive performance while in space.
+NanoRacks: Virts viewed the Nanoracks Multi-Gas Monitor (MGM) on-board training materials for the Nanoracks Multi-Gas Monitor Reset.  The crew manually power cycled Multi-Gas Monitor with a soft shut-down of the sensors and software, then a hard shut-down of the entire unit.   The Nanoracks MGM is a proof of concept sniffer type payload mounted in a Nanoracks platform that continuously monitors oxygen, carbon dioxide, ammonia and water gases in the ISS cabin air.  
+Advanced Resistive Exercise Device (ARED) Relocation: Today, Willmore and Virts relocated ARED from Node 3 Forward 2 to Node 3 Overhead 2.  This activity is one of many that will be performed in preparation for the eventual relocation of the Permanent Multipurpose Module (PMM) from the Node 1 Nadir Common Berthing Mechanism (CBM) to the Node 3 Forward CBM.
+ISS Wireless Instrumentation System (IWIS) Remote Sensor Unit (RSU) installation:  Cristoforetti installed a new IWIS RSU in the Columbus lab.  The IWIS gathers accelerometer data from sensors which are located in the FGB, SM, Node 2, US Lab, Node 2, JPM, Node 3, and Columbus and is used for structural loads assessments.
+Portable Computer System (PCS) 1553 jumper installation:  Virts installed a 1553 cable in Node 1. In a contingency, such as loss of all C&Cs Multiplexer/Demultiplexers (MDMs), this cable would allow the crew to connect a PCS to the Node 1 MDM directly to begin recovery procedures.  The PCS is the ISS crew interface for commanding and monitoring the ISS vehicle hardware and associated software via the Command and Control (C&C) Multiplexer/Demultiplexer (MDM).
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+HRF Urine Sample Collection & MELFI Insertion
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference (S-band) / r/g 7472
+ATV – start pressurization
+Vozdukh Deactivation
+BIOCARD. Assistance During the Experiment / r/g 7470
+Life On The Station Photo and Video / r/g 7290
+Ultrasound – HRF 1 Powerup
+CIR – Hardware Setup
+Ultrasound 2 – Scanning
+Preparing for Photography of RS Windows (Procedure and r/g review) r/g 7499
+EXPANDER Exercise
+Continuity checks of CAN-interface cables between Payload Interface Monitoring Unit (БКИПН) (ТВМ1-Н) and Master Clock Unit БСВ-М1. / r/g 7487
+ATV – Terminate Pressurization
+Photography of window panes ##2,13,14,26 in SМ + r/g 7499
+Closeout ops after continuity checks of CAN-interface cables between Payload Interface Monitoring Unit (БКИПН) (ТВМ1-Н) and Master Clock Unit БСВ-М1. / r/g 7487
+NANO – review
+Nanoracks (NR) – Multi-Gas Monitor (MGM) Reset
+HRF – Equipment stowage after sample collection
+URAGAN. Observation and Photography using VSS PL / r/g 7501
+N1 PCS Jumper Installation
+HMS – Food Questionnaire
+Node 3 Stowage Relocation
+Vozdukh Activation
+ARED Relocation
+N2 Hatch Latch
+IWIS RSU Installation
+SSC Printer Replacement
+OBSTANOVKA. Preparing for replacement of Telemetry Storage Unit (БХТИ) removable media and monitoring ПВК power off. / r/g 7500
+Photo/Video equipment installation for video recording Exercise on ARED
+Installation of overlay sheets on FGB interior panels (pan. 207). (as necessary)
+OBSTANOVKA. Replacement of Telemetry Storage Unit (БХТИ) Removable Media.  / r/g 7500
+Cleaning vent screens on FGB interior panels (201, 301, 401)
+Cognition test – subject
+
+Completed Task List Items
+
+EVA tether inspect [In Work] 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Nominal commanding
+

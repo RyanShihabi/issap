@@ -1,0 +1,59 @@
+
+SpaceX (SpX)-11 Launch Delay: Yesterday’s planned SpX-11 launch was scrubbed due to weather. Launch is now planned for tomorrow, Saturday, June 3 at 4:07pm CDT with capture and berthing on Monday, June 5th at 6:00am CDT. The vehicle will deliver 3,900 pounds of research experiments, food, crew provisions and exercise equipment. Unberth is currently planned for July 2.
+49 Soyuz (49S) Undock: 49S, with Thomas Pesquet and Oleg Novitskiy onboard, undocked today at 5:45am CDT and landed in Kazakhstan at 9:10am CDT. The ISS will be in 3-crew operations until the arrival of 51S on July 28. 
+Orbital 7 (OA-7) Unberth: Due to the delay of SpX-11 launch on Thursday, SpX-11 is planned to berth to the ISS on Monday instead of Sunday. This delay allows OA-7 to unberth on Sunday, June 4 at 8:10am. In preparation, the crew completed a Robotics On-Board Trainer (RoBOT) session to practice 3 release runs.
+Human Research Program:  With assistance from an operator, blood samples were taken from a 50S crewmember and stowed at ambient temperature for return on 49S.  This sample will support the functional Immune investigation which analyzes blood and saliva samples to determine the changes taking place in crewmembers’ immune systems during flight. Results are expected to provide new insight into the possible health risks of long-duration space travel.
+JAXA Protein Crystal Growth (PCG): The crew removed PCG canister bags from the Cell Biology Experiment Facility (CBEF) and canisters from the Protein Crystallization Research Facility (PCRF) in the Japanese Experiment Module (JEM) and handed them over to a Russian crewmember for return on 49S. High quality protein crystals were produced in the microgravity environment on the ISS for about 6 weeks from samples provided by Russian and Japanese researchers from universities, national research institutes, and the private sector. The results of this experiment may contribute to the development of drugs for multidrug-resistant bacteria, Alzheimer’s disease, muscular dystrophy and periodontitis. They will also aid in the development of a blood substitute and biosensor. 
+Mobile Servicing System (MSS) Operations: Robotics Ground Controllers powered up the Space Station Remote Manipulator System (SSRMS) which was maneuvered to capture the Cygnus Power Video Grapple Fixture (PVGF). SSRMS will stay grappled to Cygnus until Sunday when Cygnus will be unberthed and released.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Nitrogen Oxygen Recharge System (NORS) Nitrogen Setup and Initiation.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Comm Config for Soyuz 733 Undocking and Descent
+Check acommunication from Soyuz via RSA2-S/G2
+WHC Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace
+Downlink photo of the СА-БО and Soyuz 733 [CA] hatch cover
+Soyuz 733 Activation
+Disconnecting КЛ-153М TV Camera from MRM1 TV System
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+Gathering and Connecting Crew Onboard Support Kit (КСПЭ) Equipment for MPEG2 TV coverage Removal of Quick Release Screw Clamps (ЗВБ) and Hatch Closure from MRM1
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Activation
+On MCC GO Removal of Quick-Release Screw Clamps from MRM1 side, MRM1-Soyuz 733 interface video
+On MCC Go Soyuz-MRM1 Hatch Closure. TV coverage of Hatch Closure
+TV coverage “Soyuz 733-MRM1 Hatch Closure”
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+On MCC Go Soyuz 733 – MRM1 Hatch Leak Check
+Long Duration Sorbent Testbed Status Check.
+On MCC Go Removal of Quick Release Screw Clamps (ЗВБ) and Hatch Closure (ЗПЛ) Video Downlink from MRM1  (as necessary)
+Internal Audio Subsystem (IAS) Crew Quarter (CQ) Audio Cable Configuration
+Crew Onboard Support System (КСПЭ) Hardware Deactivation and Closing Applications on CP SSC
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Connecting TV Camera КЛ-153М to MRM1 TV System
+USOS Window Shutter Close
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Release Session
+Monitoring Soyuz undocking, photos of Soyuz 733 docking assembly
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Inventory Management System (IMS) Conference
+Ghost camera setup in Cupola
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+On MCC Go Reconfiguring MRM1-SOYUZ PEV to CLOSED position
+On-board Training (OBT) Cygnus Review
+ISTOCHNIK-M Preparation For Measurements.
+ISTOCHNIK-M. Activation of Soyuz 733 Telemetry Recording Mode
+ISTOCHNIK-M Closeout Ops
+Reminder Rodent Research Thermal Consideration
+ISS HAM Radio Power Up
+СТТС normal configuration after TПK landing
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+49S undock operations
+Cygnus RoBOT training session
+

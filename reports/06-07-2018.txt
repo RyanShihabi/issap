@@ -1,0 +1,56 @@
+
+Soyuz 55S status:  55S successfully launched yesterday at 11:12:39 GMT.  The vehicle is progressing toward a nominal docking to the ISS tomorrow at 8:07 CDT (13:07 GMT). 
+Food Acceptability:  A crewmember completed a Food Acceptability questionnaire today. The Food Acceptability investigation seeks to determine the impact of repetitive consumption of food currently available from the spaceflight food system.  Results will be used in developing strategies to improve food system composition to support crew health and performance on long duration missions. 
+Atmosphere Space Interaction Monitor (ASIM): ASIM Low Energy Detectors (LED), also called Cadmium-Zinc-Telluride (CZT) crystals detectors, are not responding as expected in daylight. As part of the on-going ASIM commissioning, science teams requested use of the Mobile Servicing System (MSS) to illuminate the foil covering the detectors and therefore check the response from a known light source.  This afternoon, robotics ground controllers will position and configure the MSS to provide the requested illumination.  During this task, they will also capture pictures of ASIM from different angles to identify/detect any potential damage or contamination to the instrument.
+Extravehicular Activity (EVA) Preparations: Today the crew continued configuring EVA tools and equipment needed during the upcoming US EVA #51 Node 2 External Wireless Communications (EWC) planned for June 14th.  They charged GoPro batteries, performed a Rechargeable EVA Battery Assembly (REBA) checkout, and reviewed detailed procedures in the EVA Briefing Package.  A procedures conference with ground-based EVA specialists completed today’s EVA activities.
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Acoustic Monitor Data Transfer and Stow
+HRF 2 Troubleshoot Disconnect
+Regeneration of Micropurification Unit (БМП) Ф2 Cartridge (start)
+Extravehicular Activity (EVA) Tool Configuring
+Review TV Coverage procedure Hatch Opening in MRM1 and Expedition 56 Arrival.
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Wetlab Software Check
+Inspection and video recording of ВПТ, ВБП1, ВБП2 Fan Installation Location.
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+IMS Tagup (S-band)
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Vacuum Cleaning ВД1 and ВД2 air ducts in DC1
+INTER-MAI-75. HAM Radio Hardware Activation
+СТТС Configuration for MRM1
+SEPARATION. Distillation in manual mode.
+WRM wasterwater bus QD09 checkout and video/photo documentation
+Comm reconfig for nominal ops
+Water Resource Management (WRM) Resupply Tank (RST) Pumping Init
+HRF2 Supply Kit Inventory
+СОЖ maintenance
+Wastewater Storage Tank Assembly (WSTA) Fill
+Resupply Tank (RST) Pumping Terminate
+Extravehicular Activity Glove Logistics
+IMS Update
+Photo TV EVA Go Pro Battery Charging
+Food Acceptability Questionnaire
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Charging EVA Camera D4 Battery
+Rechargeable EVA Battery Assembly (REBA) Installation
+INTERP-MAI-75. Equipment deactivation and cleanup
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+CQ outfitting for the arriving crew
+Extravehicular Activity (EVA) Procedure Review
+Extravehicular Activity (EVA) Procedure Conference
+
+Completed Task List Activities:
+
+None 
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+BCC Checkout mode configure
+SSRMS Operations
+HRF2 Rack Update
+

@@ -1,0 +1,20 @@
+
+Payloads
+Confocal Space Microscopy: The crew performed a partial Setup of the Confocal Space Microscopy in the JAXA Module. The Confocal Space Microscope (Confocal Microscope) is a JAXA facility that provides fluorescence images of biological samples aboard the International Space Station. Confocal microscopy uses spatial filtering techniques to eliminate out-of-focus light or glare in specimens whose thickness exceeds the immediate plane of focus. With the Confocal Microscope, data can be obtained on the fundamental nature of cellular and tissue structure and functions in real-time.
+Multi-purpose Small Payload Rack (MSPR): The crew powered off the MSPR2 Work Bench in support of the Confocal Microscope setup. The MSPR is a multipurpose payload rack system used in the JEM. It has two workspaces and a work table that can be used for wide fields of space environment utilization including science and educational missions.
+Genes in Space-6: The crew stowed the Biomolecule Sequencer unit and removed and stowed the Flow Cell. Deoxyribonucleic acid (DNA) damage caused by increased exposure to radiation can affect the long-term health of astronauts. Genes in Space-6 determines the optimal DNA repair mechanisms that cells use in the spaceflight environment. The investigation evaluates the entire process in space for the first time by inducing DNA damage in cells and assessing mutation and repair at the molecular level using the miniPCR and the Biomolecule Sequencer tools aboard the space station.
+Systems
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: Crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Ultrasound Eye Exam: Today the crew used an ultrasound device to perform an eye scan, one of several routine ultrasound eye exams during their stay on ISS. Eye exams are performed regularly onboard in order to monitor crewmember’s eye health.  Eyesight is one of many aspects of the human body affected by long-duration stays in a microgravity environment.
+On-Orbit Sampling: The crew deployed two Formaldehyde Monitoring Kits (FMKs) in designated sample locations for post-flight analysis of on-orbit formaldehyde levels. The crew also used a Grab Sample Container (GSC) to collect instantaneous air samples for post-flight analysis. Sampling is performed every 45 days.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+IAS Comm Config for MRM Ops
+MAC Software Commissioning
+ISS External Video Survey
+

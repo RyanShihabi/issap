@@ -1,0 +1,85 @@
+
+Force Shoes: Flight Engineer (FE)-5 Wiseman conducted an Advanced Resistive Exercise Device (ARED) exercise session using Force Shoes which were calibrated during Treadmill 2 (T2) exercise last week. The data from the ARED exercise session will be used to measure the loads experienced during ARED exercise.
+Robonaut Operations: Commander (CDR) Swanson continued with Robonaut upgrade operations, first removing old components and re-routing cables, then installing a new mobility adapter and repairing the motion stop connector. He also removed various cards and processors. The Robonaut upgrades are preparation for installing legs on Robonaut for mobility operations.
+Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) Electronic Unit (EU) Installation: Wiseman installed a MELFI EU delivered on Orb-2 into the spare EU location in MELFI-1. The MELFI is a cold storage unit that maintains experiment samples at ultra-cold temperatures until those samples can be returned to the ground for analysis.
+Japanese Experiment Module (JEM) Low Temperature Loop (LTL) Pump Package Remove & Replace (R&R): On January 14, 2014, the JEM LTL pump upstream Remote Power Controller (RPC) tripped due to over current detection downstream of the RPC. Troubleshooting was performed, resulting in a recommendation to R&R the pump. Yesterday Gerst disengaged cabin ducts from the Environmental Control and Life Support System (ECLSS)/Thermal Control System (TCS)1 rack and rotated the rack. He spent most of his day today R&Ring the failed pump using a spare pump delivered on Orb-2,
+On-Board Training (OBT) Cygnus Capture Debrief: USOS crew members participated in a conference with ground teams to discuss Cygnus capture, timeline, approach procedures and suggestions for improvements in training or techniques that can be implemented in the future.
+Preparations for 55 Progress (55P) Undock:  The Russian crew completed the final loading of trash into 55P.  The hatches between 55P and the ISS were closed and leak checks were completed.  55P undock is scheduled for Monday, July 21, 2014 at 4:44pm CDT.
+Russian Router [БРИ] Connection Issue – The crew reported a problem with the Russian router БРИ on Wednesday.  On Thursday, the Russian crew performed troubleshooting and declared the БРИ unit failed.  There is no spare on-board currently.  Today the US and Russian crew performed a procedure to bypass the БРИ and transition to the backup onboard Local Area Network (LAN) configuration in the Russian Segment using the old Service Module Wireless Access Point.
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKam) Set Up: The Sally Ride EarthKam equipment has been operating in the Service Module (SM) window since Monday, July 14. There have been some issues loading the commend files and retrieving the imagery due to the БРИ  issue and an intermittent connection to the network.  With the swap back to the SM WAP, the connection is solid and operations have returned to nominal.  This run of the experiment will conclude and the hardware will be stowed tomorrow.  Sally Ride EarthKam is a NASA education program that enables thousands of students to photograph and examine Earth from a space crew’s perspective. Using the Internet, students control a special digital camera mounted onboard the ISS. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The team at Sally Ride EarthKAM then posts these photographs on the Internet for the public and participating classrooms around the world to view. 
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+EarthKAM. Hardware Deactivation, camera battery changeout, and hardware reactivation / USOS procedures [Complete]
+ISS crew and ГОГУ (RSA Flight Control Management Team) conf r/g 6122 [Complete]
+Preparing for Inspection and Photography of MRM2 EV2 and DC1 EV1 window panes  r/g 6144 [Complete]
+Cygnus Cargo Operations [Complete]
+ECLSS Racks Ops [Complete]
+Inspection and photography of SM structural elements, cables, pressurized shell / r/g 6129 [Complete]
+ТКГ427 (DC1) Packing and IMS Ops / r/g 5987, 6088, 6134 [Complete]
+Inspection and Photography of MRM2 ВЛ2 and DC1 ВЛ1 Windows r/g 6144 [Complete]
+Cygnus Cargo Transfer Tagup [Complete]
+G1 Camcorder Setup [Complete]
+JEM – Removal of Pump from TCS L Loop [Complete]
+Robonaut Node 2 Camcorder Video Setup [Complete]
+Robonaut Mobility Installation 5 [Complete]
+MATRYOSHKA-R. Removal of protective curtain in starboard CQ. r/g 6145 [Complete]
+RST – Tube Insertion into MELFI [Complete]
+IMS Tagup (S-band) [Complete]
+JEM – Pump Installation into TCS L Loop [Complete]
+Force Shoes Ops [Complete]
+EarthKAM. Hardware Deactivation, camera battery changeout, and hardware reactivation / USOS procedures [Complete]
+Fail over to back up LAN config / r/g 6146 [Complete]
+On MCC Go Removal of ЛКТ (ТА251МБ) and ROM from ТКГ 427 (DC1) [Complete]
+СОЖ Maintenance [Complete]
+Life On The Station Photo and Video / r/g 5720 [Complete]
+EHS – TEPC accommodation [Complete]
+JEM – Installation of dismantled pump on FSE and pre-packing for return [Complete]
+IVA – Training [Complete]
+IMS Delta File Prep  [Complete]
+R2- Power On [Complete]
+JRNL – Journal Entry [Complete]
+IVA. Training [Complete]
+OBT – Cygnus Ops Conference [Complete]
+IVA. Training [Complete]
+ТКГ 427 (DC1) Loading Completion Report (S-band) / r/g 5987, 6088, 6134 [Complete]
+ТКГ 427 (DC1) Activation, Air Duct Removal / Deactivation/Activation [РК]  [Complete]
+Food Frequency Questionnaire [Complete]
+MELF1 – Installation of Electronic Module [Complete]
+DC1-ТКГ 427 Hatch Closure / Deactivation/Activation [РК]  [Complete]
+Crew Prep for PAO [Complete]
+Life On The Station Photo and Video / r/g 5720 [Complete]
+PAO Hardware Setup [Complete]
+G1 Closeout Ops [Complete]
+JEM – Closeout Ops after Installation of Pump in TCS L Loop [Complete]
+On MCC Go DC1-СУ and СУ- ТКГ 427 Hatch Leak Check  [Complete]
+PAO Event [Complete]
+JRNL – Journal Entry [Complete]
+JEM Cabin Duct Engagement [Complete]
+R2- Power Down [Complete]
+Double Coldbag (DCB) – Stowage of Ice Bricks and Bags [Complete]
+Emergency Ammonia Hardware Replacement (CMS Units and CMS Chips only)  [Complete]
+IVA – Transfer of Bags with Clothes [Complete]
+Flight Director/ISS Crew Tagup [Complete]
+Daily Planning Conference (S-band) [Complete]
+EarthKAM. Hardware Deactivation, camera battery changeout, and hardware reactivation / USOS procedures [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC-ЕДВ-У R&R
+WHC KTO replace
+Journal entries
+3DA1 cam ops
+IMAK unpack [Complete]
+Cygnus transfer cargo ops [In work]
+BOSE speakers deploy [Complete]
+CCE NAE msg downlink
+
+Ground
+
+Nominal commanding 
+

@@ -1,0 +1,81 @@
+
+Vacuum Access Port (VAP) Installation and Leak Check: Today, the crew installed a VAP in Node 2 from the LAB Vent Relief Valve to provide vacuum access capability for Visiting Vehicles berthed to Node 2 Nadir after PMA3 is relocated to Node 2 Zenith. Once installed, the VAP and lines were depressed and a leak check started to verify their integrity. The VAP Mod Kit consists of a Vacuum Access Port, Vacuum Hoses, and Vacuum Access Port Adapters to support vacuum through LAB Vent Relief Valve.
+Story Time From Space Heat Transfer Demonstration: The crew performed the Heat Transfer Experiment portion of the Story Time From Space experiment.  They demonstrated radiative heat transfer through space by showing how the finish on surfaces affects the net heat absorption. The narrated video demonstration was recorded and downlinked for eventual distribution.  Story Time From Space combines science literacy outreach with simple demonstrations recorded aboard the ISS. Crew members read five science, technology, engineering and mathematics-related children’s books in orbit, and complete simple science concept experiments. Crew members videotape themselves reading the books and completing demonstrations. Video and data collected during the demonstrations are downlinked to the ground and posted in a video library with accompanying educational materials. Today’s demonstration is based on the children’s book The Wizard Who Saved the World. 
+Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts): The 48S crewmember and 49S crewmember performed their day 2 Chibis Imaging The subject donned the Chibis device, and while the crewmember was exposed to the negative pressure (pulling the fluid feetward), the operator, with remote guidance from Houston, performed arterial and venous measurements of the head and neck; cardiac, ophthalmic, and portal vein measurements; and tissue thickness of various body parts using the Human Research Facility (HRF) ultrasound. Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Aquapad Analysis: The crew performed an inspection and analysis of water samples collected on Tuesday.  This is the third session of Aquapad collection and analysis, where the crew first verified colony growth and condensation levels on each of the Aquapad Containment Boxes then using the EveryWear application, the crew took pictures of the Containment Box for ground analysis. Aquapad is a new approach developed by France’s CNES space agency: paper impregnated with powdered growth medium creates a 3D petri dish. When water is added, the microbes form colored spots revealing their locations. Using a tablet computer application the crew will photograph the dots to calculate precisely how many bacteria are present. 
+Mobile Servicing System (MSS) Operations:  Robotics Ground Controllers maneuvered the Special Purpose Dexterous Manipulator (SPDM) Arm2, grasped the SPDM Enhanced Orbital Replacement Unit (ORU) Temporary Platform (EOTP), and rotated it in preparation SPDM stow. They then maneuvered the Space Station Remote Manipulator System (SSRMS) to remove the spare Camera, Light, Pan/Tilt Unit (PTU) Assembly (CLPA) installed on the Mobile Transporter Relay Assembly (MTRA) during USOS EVA 39 on Friday 13-January.  After it was verified by video survey that the electrical connectors on both the MTRA and the CLPA appeared nominal, the Robotics Ground Controllers installed the CLPA on the SSRMS End B Boom.  Upon powering up the SSRMS End B Video Distribution Unit (VDU) a CLPA Light electrical circuit trip message was received, same message was seen last Friday during the initial powerup.  Finally the Robotics Ground Controllers maneuvered the SSRMS and SPDM to a park position.  A CLPA checkout was completed, and as expected the CLPA Light did not work but the Camera functioned nominally.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+FLUID SHIFTS. Comm configuration for the experiment
+FLUID SHIFTS. Gathering and Connecting Equipment for TV coverage
+Coliform Water Sample Analysis 44 +/- 4 hours post processing
+FLUID SHIFTS. Activation of РБС for Ultrasound Equipment
+Fine Motor Skills Experiment Test – Subject
+Fine Motor Skills Historical Documentation Photography
+FLUID SHIFTS. Ultrasound 2 Setup and Activation
+Aerosol Samplers Cartridge Removal
+FLUID SHIFTS. Don Chibis
+FLUID SHIFTS. Operator Assistance with Chibis and Gamma-1.
+FLUID SHIFTS. Ultrasound Scan in SM, Operator 1
+Fluid Shifts Ultrasound Service Module Scan – Subject
+Node 2 Vacuum Access Port (VAP) Installation
+FLUID SHIFTS. Doff Chibis
+FLUID SHIFTS. Chibis Setup
+FLUID SHIFTS. Operator Assistance with Chibis and Gamma-1. Tagup with specialists
+De-Mating of MagVector Umbilicals from COL1F2 UIP
+Fluid Shifts Ultrasound Service Module Preparation
+COL1F2_AFT Backfill
+FLUID SHIFTS. Ultrasound Scan in SM, Subject
+Fluid Shifts Ultrasound Service Module Scan – Operator
+FLUID SHIFTS. Chibis Closeout Ops
+HRF2 Supply Kit Resupply
+FLUID SHIFTS. РБС Power Outlet Deactivation
+Fluid Shifts Ultrasound Service Module Stow
+FLUID SHIFTS. Deactivation of КСПЭ Equipment and Closing  Applications on Central Post SSC
+Fluid Shifts HRF PC CCFP Service Module Setup
+FLUID SHIFTS. Restoring nominal comm config
+FLUID SHIFTS. Installation of cable assembly for voltage converter.
+Fluid Shifts Ultrasound Hardware Transfer
+FLUID SHIFTS. Connecting US-invertor to СУБА.
+Private Psychological Conference (PPC)
+POLAR 3 Hardware Remove
+Mating of MagVector Umbilicals from COL1F2 UIP
+VHF EMER COMM Checkout Requires CREW and IP support
+ESA Weekly crew conference
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Story Time from Space Heat Transfer Demonstration
+PILOT-T. Preparation for the experiment.
+Node 2 Vacuum Access Port (VAP) Leak Check Part 1
+Soyuz 732 IRIDIUM Phone Charge, Initiate Charge
+Aquapad Water double Analysis
+PILOT-T. Experiment Ops.
+Soyuz 732 IRIDIUM Phone Charging, Battery Status Check
+Soyuz 732 IRIDIUM Phone Charge, Terminate Charge, Teardown of the Setup (Stow ФГБ1ПГО_2_224_1 0.5 CTB No.1017 Soft container 00044322R)
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Node 2 Vacuum Access Port (VAP) Leak Check Part 2
+Story Time From Space Historical Photo
+Initiate EDV fill from PWD
+PILOT-T. Closeout Ops.
+Wastewater Storage Tank Assembly (WSTA) Fill
+СОЖ maintenance
+Dose Tracker Data Entry Subject
+EDV Fill from PWD Term
+Bone Densitometer Locker Removal
+SABLE Unit Remove
+Glacier 5 Removal
+Inventory Management System (IMS) Conference
+Flight Director/ISS CREW CONFERENCE
+
+Completed Task List Items
+
+SPHERES Battery Stow
+Food Warmer Inspection
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+MSS Powerup Troubleshooting
+VHF Emergency Comm Checkout 
+

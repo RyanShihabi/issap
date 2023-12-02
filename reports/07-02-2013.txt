@@ -1,0 +1,77 @@
+
+New Status: 
+Automated Transfer Vehicle (ATV)-4 Transfer Operations: Flight Engineer (FE)-3 Cassidy, FE-5 Parmitano, and FE-6 Nyberg have completed 94% of transfer operations as of today.  The crew performed approximately 9 hours of scheduled operations in six hours.  Approximately 5 hours 20 minutes remain of ATV4 cargo operations, which will not be scheduled until after HTV4 departure in September. 
+Heat Rejection Subsystem (HRS) Imagery: Cassidy photographed the port HRS from the Soyuz/Mini Research Module (MRM)-2 windows.  The Thermal Radiator Rotary Joint (TRRJ) was rotated to different angles so images could be taken from both sides of the radiator. This imagery will provide insight into the overall health of the radiators as well as documentation of Micro-Meteor Orbital Debris (MMOD) strikes. Imagery of the starboard radiator was performed on June 28th. 
+Advanced Resistive Exercise Device (ARED) Cable Arm Rope Remove and Replace (R&R): After compiling the monthly cycle count, specialists determined that the ARED exercise rope was beyond its certification life. Once a cable reaches this point, there is risk to the crew if the rope fails under load. Cassidy successfully completed an exercise rope R&R and the crew is go for exercise on ARED. 
+Environmental Health System (EHS) Water Sampling: Parmitano collected Potable Water Dispenser (PWD) ambient and hot samples.  Nyberg then performed in-flight analysis of these samples for microbial and coliform detection. Tomorrow, Parmitano will collect samples from the PWD for Colorimetric Water Quality Monitoring Kit (CWQMK) sample analysis. 
+Today’s Planned Tasks 
+  ·         SPRUT-2. Experiment Ops / r/g 2782 
+  ·         SM ПСС (Caution & Warning Panel) Test  [Complete] 
+  ·         Laptop RS2(1) Reboot [Complete] 
+  ·         RSS1, RSS2 Reboot / r/g 1009 [Complete] 
+  ·         KHROMATOMASS. Experiment Setup / r/g 2774 [Complete] 
+  ·         Hematocrit  Test [Complete] 
+  ·         KHROMATOMASS. Saliva and Blood Collection / r/g 2774 [Complete] 
+  ·         Hematocrit. Hardware Stowage  [Complete] 
+  ·         On-orbit hearing assessment using EARQ [Complete] 
+  ·         ВКС Laptops Antivirus Scan Check and Status Report  / r/g 2754 [Complete] 
+  ·         Daily Planning Conference (S-band) [Complete] 
+  ·         Configuring ПхО and CO1 to Initial State after EVA / r/g 2740 [Complete] 
+  ·         ARED Rope Replacement [Complete] 
+  ·         MAI-75 Hardware Setup and Activation. r/g 2779 [Complete] 
+  ·         ATV Cargo Operations [Complete] 
+  ·         CIR – Hardware Setup [Complete] 
+  ·         MAI-75. Hardware Activation and Checkout / r/g 2779 [Complete] 
+  ·         KHROMATOMASS. Closeout Ops / r/g 2774 [Complete] 
+  ·          Replacing filters in FGB ПС1, ПС2 Dust Collectors 
+  ·         Update the IMS [Complete] 
+  ·         ATV Transfer Tagup 
+  ·         LCS. Copying Data from RSE-LCS Laptop to RSS2 and Data Downlink / r/g 2773 [Complete] 
+  ·         СОЖ Maintenance [Complete] 
+  ·         MAI-75. Hardware Activation and Checkout / r/g 2779 
+  ·         WRS Sample Collection [Complete] 
+  ·         Configuring ПхО and DC1 to Initial State after EVA / r/g 2740[Complete] 
+  ·         WRS Water Sample Analysis [Complete] 
+  ·         IMAK Unpack [Complete] 
+  ·         MAI-75. Hardware Activation and Checkout / r/g 2779 
+  ·         МАI-75. Equipment deactivation and cleanup / r/g 2779 
+  ·         VTR bypass cable config [Complete] 
+  ·         WMK In-Flight Water Processing 
+  ·         IMS Delta File Prep 
+  ·         OBSTANOVKA. Measuring Resistance on ПВК Power Supply Circuits. r/g 2775 [Complete] 
+  ·         Configuring ПхО and CO1 to Initial State after EVA / r/g 2740 [Complete] 
+  ·         Thermal Control System (TCS) P1 Thermal Radiator Rotary Joint (TRRJ) Imagery [Complete] 
+  ·         Health Check of ВП2 fan. r/g 2776 [Complete] 
+  ·         Battery Stowage Assembly (BSA) Battery Recharge Terminate [Complete] 
+  ·         KULONOVSKYI KRISTALL. Hardware Setup and Configuration / r/g 2772 [Complete] 
+  ·         MRM2 Comm Config / SM Communications System [РТК],  [Complete] 
+  ·         SAMS Power On [Complete] 
+  ·         ON MCC GO Mate ВП2 fan telemetry connectors r/g 2776 [Complete] 
+  ·         KULONOVSKYI KRISTALL  Experiment Ops / r/g 2772 [Complete] 
+  ·         ON MCC GO OBSTANOVKA..r/g 2775 [Complete] 
+  ·         Health Check of ВП2 fan (Closeout Ops).  r/g 2776 [Complete] 
+  ·         KULONOVSKYI KRISTALL Photography of the Experiment Ops / r/g 2777 [Complete] 
+  ·         MRM2 Comm Reconfig for Nominal Ops [Complete] 
+  ·         KULONOVSKYI KRISTALL / r/g 2772 [Complete] 
+  ·         Transfer of EU-TRITEL from Columbus to RS,  r/g 2780 [Complete] 
+  ·         Photo of EU-TRITEL P/L Handover to RS / r/g 2781 [Complete] 
+  ·         Installation of REBA batteries [Complete] 
+  ·         REBA Powered Equipment Test [Complete] 
+  ·         TOCA 2 Data Recording [Complete] 
+  ·         Daily Planning Conference (S-band) [Complete]
+Task List 
+  ·         CEO Ops [Complete] 
+  ·         WHC KTO replace 
+  ·         WHC EDV R&R 
+  ·         Roscosmos Report 
+  ·         Uragan Photo 
+  ·         Econ Photo 
+  ·         CMS ARED Vlv mark 
+  ·         EMU SAFER practice 
+  ·         PL Trash Followup 
+  ·         Trash Report 
+  ·         FFTD Find Part 2 
+  ·         IFM-PMM HHGR Install 
+  ·         Xfer ATV Cargo Ops [In Work]
+Ground 
+  ·         Nominal Commanding 

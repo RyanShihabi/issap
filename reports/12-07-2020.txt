@@ -1,0 +1,29 @@
+
+SpaceX (SpX)-21 Docking:  Following yesterday’s successful launch, Dragon was captured today at 12:40 PM CT and docked successfully to Node 2 Zenith at 12:53 PM CT. Prior to docking the crew gathered and set up necessary tools required for the crew to monitor vehicle approach. After the vehicle docked, the crew completed Dragon International Docking Adapter (IDA) Vestibule pressurization and leak checks, opened Node 2 Overhead Forward Hatch, Pressurized Mating Adapter (PMA)3 Androgynas Peripheral Assembly (APAS) hatch, and ingressed the vehicle.
+Payloads
+Manufacturing Device (MAND): Over the weekend, the crew performed internal computer troubleshooting steps which recovered the hardware. The Manufacturing Device enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the MAND printer that is installed into an Express Rack locker location. MAND is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Electro-static Levitation Furnace (ELF): The crew removed the failed samples from the current Round Robin cartridge and placed them into a debris bag. The ELF sample holder was then cleaned and the Round Robin ELF cartridge 4 was re-installed. ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the electrostatic levitation method.  With this facility thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+Biomole: The crew performed part 1 and 2 of ISS surface Sample collections and DNA extraction and amplification using the miniPCR16 hardware. The crew then stopped the run and stowed the sample tube and placed it in Cold Stowage. The Environmental Health System (EHS) Biomole Facility non-culture based samples are capable of providing microbial identification on-orbit within days of sampling.  The goal of this Tech Demo is to conduct comparative analysis for possible replacement of current microbial monitoring systems.
+Kubik Facility: The crew performed the setup of Kubik 5 and Kubik 6 facilities in preparation of Rotifer B2 operations. Kubik is a small controlled-temperature incubator or cooler with removable inserts designed for self-contained, automatic microgravity investigations such as those using seeds, cells, and small animals.
+Fiber Optic Production (FOP): The crew performed one sample change out in the Fiber Optic Production facility. The Fiber Optic Production investigation creates optical fibers with high commercial value aboard the ISS using a blend of zirconium, barium, lanthanum, sodium, and aluminum called ZBLAN. It operates in the Microgravity Science Glovebox (MSG). Extensive theoretical studies along with a limited number of experimental studies suggest that ZBLAN optical fibers produced in microgravity should exhibit far superior qualities to those produced on Earth. The resulting optical fiber from Fiber Optic Production is expected to help verify these studies and guide further engineering efforts to manufacture high value optical fiber in large volume aboard the ISS.
+Systems
+Advanced Resistive Exercise Device (ARED) Belt/Pulley Assembly Remove & Replace (R&R): Earlier this year, the crew reported the ARED right arm popped out of its detents during an exercise session and observed subsequent load imbalance signatures. Today the crew completed a belt/pulley R&R to restore ARED to a balanced loading configuration.
+Extravehicular (EVA) Activities: The crew performed the following tasks in preparation for SpX-21 arrival. The primary goal was to restow the Crewlock, while leaving the Equipment Lock clear for EVA packing ops this week. Many of these items will be returned on SpX-21.
+
+Changed the leg assembly on Extravehicular Mobility Unit (EMU) 3004 and prepared the removed leg assembly for return on SpX-21.
+Removed EMU 3008 from Node 2 and placed on the EMU Don/Doff Assembly (EDDA) after removing EMU 3009 from the EDDA and stowing in the Crewlock.
+
+NanoRacks Airlock (NRAL) Node 3 Screen Removal: The crew removed the Inter Module Ventilation (IMV) Screen from Node 3 Overhead Aft Alcove in preparation for planned Nanoracks Airlock IMV reconfiguration and operations. This location is being converted from an inlet to an outlet and removing the screen prevents Foreign Object Debris (FOD) from collecting behind the screen.
+Completed Task List Activities:
+
+ARED spreadsheet record
+WHC KTO replace
+T2 AR connect
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Dragon dock ops
+ARED pully R&R support
+Payloads support
+

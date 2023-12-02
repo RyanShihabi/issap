@@ -1,0 +1,68 @@
+
+50 Soyuz (50S) Undock: 50S, with Peggy Whitson, Jack Fischer, and Fyodor Yurchikin onboard, undocked Saturday at 4:58 PM CDT and landed in Kazakhstan at 8:22 PM CDT. The ISS will be in 3-crew operations until the arrival of 52S on September 13.
+Electro-static Levitation Furnace (ELF) Inspection:  On Friday, the crew inspected the ELF chamber and removed Foreign Object Debris (FOD) located in the ELF chamber. The FOD will be returned to the ground for additional analysis.  ELF activities will resume after SpX-12 unberthing. 
+Miniature Exercise Device (MED-2) Operation Session:  Yesterday the crew was scheduled to exercise while using MED-2 body markers and multiple camcorders for ground evaluation. Because the loading strap was fully extended and could not be retracted, the crew completed only the ARED exercise portion of the experiment and ground teams are working on a forward plan to conduct the evaluation portion of the investigation. The ISS’s exercise equipment is large and bulky, while the MED-2 aims to demonstrate small robotic actuators can provide motion and resistance for crew workout sessions, reducing the size and weight of exercise equipment for long-duration space missions. The MED-2 investigation is a system to test key technologies needed to develop space based exercise equipment that may provide appropriate countermeasures to the adverse effects of microgravity. This technology is critical for the initial design and development of second and third generation Counter Measure Systems (CMS) hardware that is an order of magnitude lighter and smaller than existing ISS class of CMS hardware and that has significantly greater reliability. 
+Multi-Omics-Mouse: On Friday, the crew collected blood samples from the mice. Saturday the crew refilled the mice water supply. Today the crew exchanged the waste collecting equipment and odor filter of the Mouse Habitat Cage Unit in glove box, and then transferred the Mouse Cage Units with mice from glove box to Cell Biology Experiment Facility (CBEF). Several studies have reported space flight effects on the human immune system, but the relationship between microbiota and immune dysfunction during flight remains unclear. In the Multi-Omics-Mouse investigation, food with and without fructooligosaccharides (FOS) will be used as prebiotics, to determine if they improve the gut environment and immune function.  After the flight, researchers will analyze the gut environment (microbiota and metabolites) and immune system of the mice by multi-omics analysis. 
+Fine Motor Skills (FMS): The crew performed their FMS sessions this morning. The FMS experiment is executed on a touchscreen tablet, where the crew performs a series of interactive tasks. The investigation studies how fine motor skills are effected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of FMS is to answer how fine motor performance in microgravity trend/vary over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trend/vary before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods.
+Materials Science Laboratory (MSL) Sample Cartridge Assembly (SCA) Removal:  This morning the crew was scheduled to remove the SCA from MSL for return and analysis on the ground.  However, during yesterday’s Material Science Research Rack (MSRR) activation, the rack came up in an off-nominal configuration. Today’s scheduled activity to remove the SCA was aborted until the issue is better understood.  
+Main Bus Switching Unit (MBSU) Circuit Card R&R Prep:  This morning the crew reviewed an overview and procedures associated with the MBSU I-level maintenance planned for later this week to replacing a Common Controller Assembly circuit card.  This afternoon the crew will have a conference with ground specialist to address any of the crew’s questions. 
+SpX-12 Dragon Cargo Operations:  As of yesterday cargo transfer specialist estimated the crew will require 23 hours to complete packing the Dragon vehicle for return.  The crew reported they performed approximately 2.5 hours of cargo operations off the task list today.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Lighting Effects Sleep Log Entry – Subject
+Reviewing the Results of Antivirus Scanning on Auxiliary Computer System [BKC] Laptops and Report
+Multi-Omics-Mouse Item Gathering
+Micropurification Unit (БМП) Ф1 Absorbent Cartridge Regeneration (start)
+Main Bus Switching Unit (MBSU) Maintenance Big Picture Word Review
+Miniature Exercise Device Procedure Review
+Tropical Cyclone Untended Operations
+FS1 Laptop Routine Maintenance (Cleaning and Reboot)
+Fine Motor Skills Experiment Test – Subject
+Biannual BRI Cleaning (Includes Filter and Fan Unit Cleaning. Expedited Checkout of Nominal Network Config).
+XF305 Camcorder Setup
+Multi-Omics-Mouse Cage Cleaning and Maintenance for Food Micro-G part 1
+MSL Sample Removal [Aborted]
+NAPOR-mini PCA. Cleaning of Onboard Memory Device БЗУ-М Ventilation Openings
+Multi-Omics-Mouse Cage Cleaning and Maintenance for Food Micro-G part 2
+Intermodule Network Connectivity Testing (After Biannual БРИ Cleaning).
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+Monthly Routine Maintenance of Central Post Laptop. Downlink of Log Files from the Laptop.
+Preparation for the Diagnostics of БФ-2 Filter Unit and БСШ-2 Main Bus Switching Unit in the FGB Power Supply System.
+Biolab Arthrospira Laptop Displays Update
+Multi-Omics-Mouse Cage Cleaning and Maintenance for Food 1G
+Biolab Laptop Settings and FTP Check
+СОЖ maintenance
+Cleaning of Removable Gas-Liquid Heat Exchanger (ГЖТ) Screens 1, 2 and 3 in the FGB
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+Delta file prep
+Tropical Cyclone Hardware Closeout
+Photo/TV Camcorder Setup Verification
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+MELFI Tissue Containment Bag Retrieve
+Photo/TV. Camcorder Settings Checkout
+Lung Tissue MELFI Bubble Bag Insertion
+Miniature Exercise Device Surface Pro 3 Charge
+MBSU In Flight Maintenance (IFM) – Conference
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+Micropurification Unit (БМП) Ф1 Absorbent Cartridge Regeneration (end)
+Lighting Effects Sleep Log Entry – Subject
+
+Completed Task List Activities
+
+Surface Tension Containment MWA Preperation
+Dragon Cargo Operations [Completed GMT 247]
+ESA PAO – MUSE [Completed GMT 246]
+ESA PAO – PETROLIO [Completed GMT 246]
+Manufacturing Device Bag Prep [Completed GMT 245]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Solar Array Voltage Maximum Power Test
+Solar Array Maximum Output Test
+N3 MCA Zero Calibration
+

@@ -1,0 +1,76 @@
+
+NanoRacks External Platform (NREP)-3 Payload Swap:  Today crewmembers extended the JEM A/L slide table into the JEM Pressurized Module (JPM) and exchanged payloads on NREP by removing the External Platform Module 2 (Charge Injector Device), External Platform Module 4 (Dependable Microprocessor) before installing the External Platform Module 5 (Cavalier) on NREP. The slide table was retracted from the JPM side and the inner hatch was closed, and depressurization and ventilation was completed. The Cavalier experiment is a technology demonstration mission with a goal to provide hands on opportunities for working with flight hardware. NREP will remain inside the JEM Airlock until next week when it will be deployed to the JEM External Facility site #4. Cavalier is a 4U active payload that will remain on NREP for approximately six months. NREP represents the first external commercial research capability for testing in support of scientific investigations, sensors, and electronic components in space. 
+Cell Science Validation Bag Change-Out Operations: The crew replaced the Bioculture System Cassette media and sump bags in the Microgravity Science Glovebox (MSG) with the media and sump bags from an ambient stowage container and then transferred the cassettes back into the Bioculture System. Once the change out activities were completed, the crew removed the Life Science Ancillary Hardware (LSAH) hardware from the MSG to conclude the Cell Science Validation operations. The objective of this flight of the Bioculture System is to validate the hardware by testing and checking out its engineering and operational capability to maintain cell cultures for a long duration in the space flight environment on the ISS. The new enabling capabilities and procedures to manually conduct experiments with the specimens cultured in the Bioculture System will also be demonstrated.  The validation of the Bioculture System performance in the space flight environment is a critical step to ensure the success of future space bioscience experiments that will be conducted on ISS using this facility.
+Lighting Effects:  A 53S crewmember completed a Visual Performance Test by setting the light to the correct mode, turning all other light sources in the crew quarters off, and performing a Numerical Verification Test and a Color Discrimination Test. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. 
+At Home in Space:  A 53S crewmember completed an At Home in Space questionnaire today. This Canadian Space Agency experiment assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home in Space uses a questionnaire to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth.
+ZBook Transitions:  Today the crew continued activities to transition the laptops onboard from the T61P model to the newer ZBook model.  Today’s transitions include SSCs 1 (in the Russian segment) and 22 (attached to T2).
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Environmental Health System (EHS) – Coliform Water Sample Analysis 44 +/- 4 hours post processing
+JEM System Laptop Terminal Reboot
+NanoRacks External Platform Operations Review.
+NanoRacks External Platform Hardware Gather
+On MCC Go: Removal of ПТАБ-1М UNIT (А304)
+ISS Crew Orientation
+Cell Science Validation Glacier Sample Removal
+Cell Science Validation Bag Change Out Ops Session3
+ISS CREW/SSIPC CONFERENCE
+Multi-purpose Small Payload Rack (MSPR) Two-Phase Flow Experiment Equipment Activation
+MRM1 Fan Screen Cleaning (group C) [Aborted]
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Installation of insert-cable on location А304
+NanoRacks External Platform Slide Table Remove
+NanoRacks External Platform Hardware Swap
+Removal of ПТАБ-1М UNIT (А308)
+Environmental Health System (EHS) – Formaldehyde Monitoring Kit (FMK) Stow Operation
+NanoRacks External Platform Slide Table Assist Capture
+Microbial Tracking-2 Operations Review
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+JEM Airlock Depressurization
+Transfer of ПТАБ-1М from location А304 to location А308
+Cargo Transfer to Dragon
+Locating and gathering Velcro tape for application on unit 800А (А102)
+At Home In Space Questionnaire
+Video Recording of Greetings
+Microbial Tracking-2 Crew Conference
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+HRF Generic Frozen Blood Collection Setup
+ПТАБ-1М Temperature Check (А308), operator
+Storage Battery Current Converter ПТАБ-1М (А308) temperature check
+Cell Science Validation MSG Cleanup and LSAH Remove
+Transparent Alloys Payload Procedure Review2
+JEM Airlock Vent
+Replacement of SSC1 laptop (SM) with Zbook
+СОЖ maintenance
+Lighting Effects Visual Performance Tests Light Setting – Subject
+IMS Update
+MELFI  TDR Battery Removal
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Manufacturing Device Feedstock Canister Exchange
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate
+Battery Stowage Assembly (BSA) Operation Termination
+MOTOCARD. Experiment Ops
+MOTOCARD. Operator Assistance with the Experiment
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Transparent Alloys Hardware Setup
+Inventory Management System (IMS) Conference
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Environmental Health System (EHS) – Rad Detector Rotate
+ZBook Client Swap
+SCENARIO. Observation and photography using Photo Equipment
+Dragon Cargo Operations Conference
+Flight Director/ISS CREW CONFERENCE
+
+Completed Task List Activities
+
+US EVA Tether Inspection
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+ZBook transitions.
+Nominal commanding.
+

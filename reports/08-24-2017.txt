@@ -1,0 +1,86 @@
+
+Miniature Exercise Device (MED-2):  The crew set up cameras in Node 3 and Cupola to capture video from multiple views of the Advanced Resistive Exercise Device (ARED) and MED-2 hardware, applied body markers, performed exercises and transferred video for downlink.  The microgravity environment of space weakens muscle and bone, so orbiting crew members spend significant amounts of time exercising with equipment that is large and bulky.  MED-2 aims to demonstrate that small robotic actuators can provide motion and resistance for crew workout sessions during long-duration space missions with exercise equipment that is smaller in size and mass that equipment currently being used on the ISS.
+ADvanced Space Experiment Processor (ADSEP):  The crew will removed Cell Culturing (CellCult) cassettes from ADSEP, inserted cells into each cassette and reinserted them into ADSEP.  ADSEP is a thermally controlled facility that accommodates up to three cassette-based experiments that can be independently operated.  A collection of experiment cassettes are used to accommodate experiments in cell technology, multiphase fluids, solution chemistry, separation science, microencapsulation, and crystal growth.  For CellCult investigations, each cassette contains a rotating filtered bioreactor, a reservoir for fresh media, two peristaltic pumps, a waste reservoir, and up to 6 sample-collection or reagent containers connected by a manifold to the reactor. Cultures can be operated in continuous perfusion, batch fed, static, or sampling modes.  The removal of samples and the addition of additives to the reactor volume can be programmed or teleoperated.
+Microbial Tracking-2 (MT-2):  The crew collected saliva samples for the Microbial Tracking-2 investigation and placed them in a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  After the samples are returned to Earth, a molecular analysis of the RNA and DNA will be conducted to identify the specific microbes that are present on ISS.  MT-2 monitors the different types of microbes on ISS over a 1-year period and how they change over time.  
+Vascular Echo Ultrasound:  With guidance from a ground expert, a crewmember performed an ultrasound of the femoral artery on their right leg after a one minute light leg exercise. The Canadian Space Agency (CSA) Vascular Echo investigation examines changes in blood vessels and the heart while the crew members are in space, and then upon their return to Earth. The results could provide insight into potential countermeasures to help maintain crew member health. 
+Agenzia Spaziale Italiana (ASI) Biomission:  The crew deinstalled Biomission experiment containers from the Kubik 5 facility in the Columbus module, completing the fifth run.  Each of the containers will be placed into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) in order to preserve the scientific samples.  Kubik 5 supports Biomission investigations by providing a small controlled-temperature incubator / cooler for the study of biological samples in a microgravity environment.  Kubik is equipped with removable inserts designed for self-contained, automatic experiments using seeds, cells, and small animals.
+Lighting Effects: This morning a crewmember provided a sleep log entry for the Lighting Effects investigation. The light bulbs on the ISS are being replaced with a new system designed for improved crew health and wellness. Fluorescent bulbs are being replaced with solid-state light-emitting diodes (LEDs) that have adjustable intensity and color. Investigators will determine if the new lights improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have implications for people on Earth who use electric lights. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Lighting Effects Sleep Log Entry – Subject
+Columbus Circadian Rhythms items repack
+Video for episode 5 of “Space Yura and Nura” cartoon
+DUBRAVA. Observation and photography using Photo Equipment
+Preparation of Reports for Roscosmos web site and social media
+Recording Greetings Video
+ECON-M. Observation and photography
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Miniature Exercise Device Hardware Gather
+Terminate discharge of the 3rd Orlan 825М Battery Pack (Stow in spares kit ФГБ1ПГО_2_221_1)
+Soyuz 735 Angular Rate Integration Unit (БИУС) telemetry setup
+JEM System Laptop Terminal Reboot
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+Teardown of charger [ЗУ-С] setup, start
+Miniature Exercise Device ARED Session 1st Crew
+Bone Densitometer Express Rack Relocation
+JEM Camera Robot Activation
+On MCC GO Demating TLM connectors from ЗУ-С
+Health Maintenance System (HMS) OCT Setup
+JEM Camera Robot Shooting
+Teardown of battery charger [ЗУ-С] setup, end
+Hardware prepack for return and disposal on Soyuz 735
+Miniature Exercise Device ARED Session 2nd Crew
+JEM Camera Robot Deactivation
+Temperature and Humidity Control (THC) Intermodule Ventilation (IMV) Flow Measurement Survey
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+DAN. Experiment Session
+Health Maintenance System (HMS) – OCT Exam
+PROBIOVIT. Insertion of Probiotic kit No.1 in Glovebox-S and turning the light on
+Health Maintenance System (HMS) OCT Stow
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Crew Departure Preparations for Return to Earth
+PROBIOVIT. Filling Kit No. 1 Water container from СРВК
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Space Technology and Advanced Research Systems Locker Installation
+PROBIOVIT. Photography of water filling of the container from [СРВК]
+PROBIOVIT. Filling Kit No. 1 Product container in Glovebox-S
+PROBIOVIT. Photography during filling in the Glovebox
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+PROBIOVIT. Kite retrieval from Glovebox-S, Probiotic No.1 kit transfer and setup in ТБУ-В No.02 at +37 deg C /
+Verification of ИП-1 Flow Sensor Position
+ADSEP MELFI Removal #3
+Crew Departure Preparations for Return to Earth
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Advanced Space Experiment Processor Cell Collection
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ. Fill ЕДВ-КОВ cover No.1201 (00068432R, ФГБ1ПГО_1_110) from ЕДВ cover No.1296 (00071688R, СМ1ПрК)
+Vascular Echo Exercise PDOP Measurement
+PROBIOVIT. Setup of Probiotic kit No.2 in Glovebox-S
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Environmental Health System (EHS) Grab Sample Container (GSC) Sampling Operations
+PROBIOVIT. Filling Kit No.2 Water container from [СРВК]
+PROBIOVIT. Filling Kit No. 1 Product container in Glovebox-S
+Hardware prepack for return and disposal on Soyuz 735
+PROBIOVIT. Kit retrieval from Glovebox-S, Probiotic No.2 kit transfer and setup in ТБУ-В No.2 at +37 deg C
+PROBIOVIT. Photography of Probiotic kit No.2 in ТБУ-В No.02 at +37°С
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+PROBIOVIT. Dismantling Glovebox-S Hardware
+Pre-pack cargo items for return or disposal on Soyuz 735
+Probiotics Item Gathering
+Experiment Container deinstallation
+ADSEP MELFI Sample Insertion #2
+ASI Experiment Container insertion into MELFI
+Microbial Tracking-2 Saliva Setup
+Health Maintenance System (HMS) Eye Exams
+
+Completed Task List Activities
+
+SABL2 Door Open – Morning
+50S US Prepack
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+ADSEP cell collection
+THC IMV flow measure
+

@@ -1,0 +1,36 @@
+
+53 Soyuz (53S) Launch: 53S launched from the Baikonur Cosmodrome this morning with Anton Shkaplerov, Scott Tingle, and Norishige Kanai.  Docking to the Mini Research Module-1 (MRM-1) module is scheduled for 02:42 AM CST on December 19 with hatch opening at ~4:15 AM CST. 
+SpaceX (SpX)-13 Capture and Berthing: SpX-13 rendezvous and capture were successfully completed today at 11:02 AM CST using the Space Station Remote Manipulator System (SSRMS). The crew monitored Dragon’s approach from the Cupola Robotic Workstation. During capture the Latch End Effector (LEE) snare cable tension went above the expected value, and before resuming nominal operation the Robotics Ground Controllers commanded the LEE mechanism to reduce this tension to the expected range. Dragon was berthed at 7:30 AM CST by ground controllers.  Vestibule outfitting, vehicle ingress and removal of the center stack began following capture.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink Setup
+Photo/TV Ghost Camera in Cupola on SSC power recording
+Robotics Workstation (RWS) Dragon Configuration
+Dragon R Bar Approach
+Check Closure of SM window shutters 6,8,9,12,13,14 Note 6
+Space Station Remote Manipulator System (SSRMS) Dragon Capture
+Node 2 to Dragon Pressurization and Leak Check Equipment Pregather
+СОЖ maintenance. [СВО], [СГО], АСУ’s [СПКУ] counter, SM’s and FGB’s POTOK data dumps
+Zebrafish Muscle2 Familiarization for sample fixation.
+Node 2 to Dragon Pressurization and Leak Check
+Dragon Vestibule Outfitting
+Dragon Ingress
+Node 2 Nadir Controller Panel Assembly (CPA) Ground Strap Replacement and CPA Rotation
+Collecting SpX-13 Air Samples Using АК-1М Sampler
+Transfer Center Stack
+Dragon Cargo Operations Conference
+Lighting Effects Sleep Log Entry – Subject
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Dragon Rendezvous/Capture/Berth
+Nominal Commanding
+

@@ -1,0 +1,67 @@
+
+Cygnus Status: On Sunday, the joint operations teams discontinued the nominal rendezvous attempt with ISS when Cygnus’s Relative GPS (RGPS) System was unable to initialize. The problem stems from Cygnus GPS time reference not matching that of the JEM’s GPS time.  The A3 DV burn which was scheduled to occur this morning at 7:29 a.m. CDT was deferred in order to give ground teams sufficient time to review data.  A Cygnus software patch that resolves the timing issue is available for upload and integration. The next attempt at Cygnus rendezvous and berth will occur after Soyuz 36S docking operations are complete and related constraints are met.  Soyuz 36S docking is timelined for Wednesday, 25 September.
+Mobile Servicing System (MSS) Status: On Sunday, the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) in hot backup configuration, surveyed the Node 2 Nadir Active Common Berthing Mechanism (ACBM) sealing surface, and configured the Canadarm2 for the crew to capture the Cygnus spacecraft.   After the Cygnus rendezvous was aborted, the ground controllers de-configured the MSS.  Ground teams are also investigating an issue with the Robotics Workstation (RWS) Video Graphics Cards (VGC) shutting down as a result of Cygnus telemetry parameters being out of limits.
+Rendezvous and Proximity Operations Program (RPOP) Setup:  Flight Engineer (FE)-5 Parmitano setup and checked out the Hand-Held LIDAR (HHL) with the Rendezvous and Proximity Operations Program (RPOP) in preparation for range and range rate determination used during Cygnus vehicle approach.
+NanoRacks Onboard Computer Based Training: To prepare for future NanoRacks Module-9 experiments, Parmitano reviewed training materials for use of NanoRacks Platforms, reconfiguration of modules, and operation of the NanoRacks Microscope-1 and Microsocpe-2.  This investigation results from a commercial Science Technology, Engineering and Math (STEM) education program overseen by the National Center for Earth and Space Science Education (NCESSE), called the Student Spaceflight Experiments Program (SSEP). Student teams from across the United States design their own experiments using flight approved fluids and materials. The investigation consists of 17 different science experiments flown in a NanoRacks Module on board the ISS.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3 Experiment Runs:  Parmitano completed the 29th, 30th and 31st InSPACE-3 runs out of a total of 42 runs planned for this experiment series.  InSPACE-3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state by the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and to improve the design of structures.
+Node 3 Bacterial/Charcoal Filter Remove & Replace (R&R):  Nyberg performed an R&R four bacteria filters  and cleaned two area smoke detectors in Node 3.  This is standard preventative maintenance performed every 100 days.
+Today’s Planned Tasks
+
+Microgravity Science Glovebox Activation [Complete]
+Wastewater Storage Tank Assembly (WSTA) Fill. [Complete]
+Preparation for Prox-link Antenna Feeder Standing Wave Factor Measurement.  [Complete]
+InSPACE3 Experiment Run Operations [Complete]
+Prox-link Antenna Feeder Standing Wave Factor Measurement.  [Complete]
+Closeout ops after Prox-link Antenna Feeder Standing Wave Factor Measurement.  [Complete]
+MERLIN Desiccant Removal [Complete] 
+TOCA Water Recovery System (WRS) Sample Analysis [Complete]
+CIR Upper Rack Doors Open [Complete]
+InSPACE3 Experiment Run Conclude [Complete]
+CIR Manifold Bottle Replacement [Complete] 
+InSPACE3 Experiment Run Operations [Complete]
+CIR Upper Rack Doors Close [Complete]
+Node 3 Bacterial/Charcoal Filter Remove & Replace [Complete]
+Automated External Defibrillator (AED) Inspection [Complete]
+SKIN B NOMINAL OPERATIONS [Complete]
+InSPACE3 Experiment Run Conclude [Complete]
+Cygnus Hardware Command Panel (HCP) Setup [Aborted]
+TOCA Sample Data Record and Transfer [Complete]
+Microgravity Science Glovebox Power Down [Complete]
+Hardware Command Panel (HCP) Selfcheck [Complete]
+Cygnus Rendezvous Conference [Complete]
+WHC ЕДВ-У R&R [Complete]
+Exercise Equipment Gather [Complete]
+VHF Emergency Communication Check Out [Aborted]
+FSH3 – photos downlink  [Complete]
+Electron lines leak check – setup assembly [Complete]
+Comm config to support experiment in MRM2 [Aborted]
+KULONOVSKYI KRISTALL – experiment run [Complete]  
+Comm reconfig to nominal in MRM2  [Aborted]
+KULONOVSKYI KRISTALL. Copying data to hard drive [Complete]  
+MATRYOSHKA-Р. Collection and reading of Bubble dosimeters [Complete]  
+СОЖ Maintenance [Complete]
+Nanoracks Onboard Computer Based Training [Complete]
+Configure PCS-DAS for RPOP activity [Complete]
+Rendezvous and Proximity Operations Program (RPOP) Setup [Complete]
+Setup of Minicam in Cupola for Cygnus berthing [Complete]
+Station Support Computer (SSC) Laptop Relocate [Complete]
+USOS Window Shutter Close [Complete]
+
+Task List
+
+ARED Cylinder Evacuation
+КТО replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+Recording video for Roskosmos Press Service
+IMS update
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+ENERGY Equipment Gather [Complete]
+CEVIS HRM Reposition  [Complete]
+COL PPSB Label Cover [Complete]
+
+Ground
+
+Nominal Ground Commanding
+

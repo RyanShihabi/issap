@@ -1,0 +1,86 @@
+
+New Status:
+H-II Transfer Vehicle (HTV)-4 Hatch Opening: This morning, Flight Engineer (FE)-5 Parmitano and FE-6 Nyberg successfully completed HTV-4 vestibule outfitting. The crew removed the HTV Hatch Thermal Blanket, installed power jumpers, removed the Common Berthing Mechanism (CBM) Controller Panel Assemblies (CPAs), installed an HTV Equalization and Inter-module Ventilation (IMV) supply Jumper, equalized pressures and opened the hatch to HTV-4. Hatch opening occurred at 6:15 am CDT. Once open the crew installed the Radial Port closeouts and removed the HTV launch restraint PIP pin. Upon ingress, nominal air samples were taken.
+Japanese Experiment Module (JEM) Remote Manipulator System (JEMRMS) Status: Ground controllers performed troubleshooting of an “E-Stop” caution received overnight while maneuvering the JEMRMS to the HTV Exposed Pallet (EP) handoff position. The file loaded on the JEMRMS workstation was not the appropriate version for HTV4 operations, listing Keep Out Zones (KOZs) that are invalid for these operations. Ground controllers were able to reload the appropriate file and have maneuvered the JEMRMS to the EP Handoff position.
+HTV4 Cargo Transfer Operations: Cassidy retrieved from HTV4 updated Emergency Books, making required Pen and Ink changes, and deployed them throughout the ISS. Nyberg retrieved the Space Pup hardware and inserted it into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). Cassidy and Parmitano created a “bungee jail” in the HTV4 end cone to create a temporary stowage location, and then continued with cargo transfer operations, transferring cargo from the HTV P1 rack front to the ISS.
+InSPACE-3: Nyberg and Parmitano initiated the fourth of 42 planned science runs. The InSpace experiment is performed in the Microgravity Science Glovebox (MSG), and runs are initiated by setting current levels and pulse frequencies. InSPACE-3 studies the fundamental behavior of magnetic colloidal fluids under the influence of various magnetic fields. Observations of the microscopic structures yields a better understanding of the interplay of magnetic, surface, repulsion forces, and particle shape between particles in magnetically responsive fluids. On Earth, these materials are used for vibration damping systems that can be turned on or off; this technology has promise to improve the ability to design structures, such as bridges and buildings, to better withstand earthquake forces.
+Today’s Planned Tasks
+
+
+SM ПСС (Caution & Warning Panel) Test [Complete] 
+Weekly Housekeeping [Complete] 
+SM Ventilation Subsystem Preventive Maintenance, Group E [Complete] 
+ FGB ЦВ2 Fan Cleaning [Complete] 
+Inspection of Air Conditioner [Complete] 
+ Inspection and Cleaning of Auxiliary Computer System (ВКС) Laptops [Complete] 
+Weekly Housekeeping [Complete] 
+Cleaning Auxiliary Computer System (ВКС) Laptops [Complete] 
+Weekly Housekeeping. [Complete] 
+Cleaning Auxiliary Computer System (ВКС) Laptops [Complete] 
+БМП (Micropurification Unit) Fan Grille Cleaning [Complete] 
+Daily Planning Conference (S-band) [Complete] 
+Node 2 Nadir/HTV Vestibule Outfitting, Part 2 [Complete] 
+Linux Server 1 (LS1) Battery Replacement [Complete] 
+Node 2 Nadir CBM Controller Panel Assembly (CPA) Removal [Complete] 
+Weekly Cleaning [Complete] 
+SM Ventilation Subsystem Preventive Maintenance, Group E [Complete] 
+FGB ЦВ2 Fan Cleaning [Complete] 
+Inspection of Air Conditioner [Complete] 
+Inspection and Cleaning of Auxiliary Computer System (ВКС) Laptops [Complete] 
+Node 2 Nadir/HTV Vestibule Outfitting, Part 3 [Complete] 
+CASKAD. Manual Mixing in Bioreactor [Complete] 
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (start) [Complete] 
+HTV Pressurized Logistic Carrier (HTVPLC) Hatch Open [Complete] 
+HTV Ingress [Complete] 
+HTV Air Sampling using АК-1М [Complete] 
+Air Quality Monitoring (AQM) H/W Setup [Complete] 
+SODF Deploy [Complete] 
+Weekly Planning Conference (S-band) [Complete] 
+MSG – Visual inspection and activation [Complete] 
+INSP3 – Start experiment ops [Complete] 
+Air Quality Monitoring (AQM) H/W Stow [Complete] 
+Food Frequency Questionnaire [Complete] 
+Delta Emergency Response Review after HTV4 arrival [Complete] 
+HTV. Transfer Ops [Complete] 
+Food Frequency Questionnaire [Complete] 
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop [Complete] 
+СОЖ Maintenance [Complete] 
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (termination) [Complete] 
+INSP3- Closeout Ops [Complete] 
+MSG Hardware Deactivation [Complete] 
+SPACE PUP – MELFI Insertion [Complete] 
+HTV4 Transfers Tagup [Complete] 
+HTV4 Cargo Ops Conference 
+CASKAD. Manual Mixing in Bioreactor 
+Reaction Self Test 
+
+Task List
+
+
+CEO Ops 
+ARED CylinderEvac [Complete] 
+WHC KTO Replace 
+WHC EDV R& 
+Roscosmos Report 
+Ocean Observation 
+Uragan Photo 
+EKON Photo 
+ATV Rack Front Config 
+Fuji 3D Battery Check 
+52P USOS Unpack [In Work] 
+Glen Harness Search 
+Bk Curtain Retrieve 
+Data Prep for Return FE-3 
+Med Ops Prep 
+MELFI1 N2 Pressure Check 
+MELFI2 N2 Pressure Check 
+MELFI3 N2 Pressure Check 
+HTV Cargo Ops 
+P/TV Adapter Locate 
+P/TV Trash Gather 
+Regen WSTA Fill 
+
+Ground
+
+Nominal Commanding
+

@@ -1,0 +1,22 @@
+
+Crew-2 Launch: 
+Today at 4:49 AM CST, the Crew-2 Dragon Endeavor lifted off from Launch Pad 39A at Kennedy Space Center. The Crew will complete a full day’s orbit-set before beginning docking preparations. Soft dock of Dragon Endeavor is currently expected to take place at 4:10 AM CST tomorrow Saturday April 24th, 2021. The crew aboard Dragon Endeavor are astronauts Shane Kimbrough (FE-14), Megan McArthur (FE-15), Akihiko Hoshide (FE-16), and Thomas Pesquet (FE-17). Crew-2’s expedition is expected to last six months.
+Payloads
+Antimicrobial Coatings (Boeing Environment Responding Antimicrobial Coatings): Per standard procedure, the crew touched both the coated and uncoated coupons for this long-term investigation.  Boeing Environment Responding Antimicrobial Coatings tests is an antimicrobial coating on several different materials that represent high-touch surfaces. Some microbes change characteristics in microgravity, which could create new risks to crew health and spacecraft systems as well as create the possibility of contaminating other planetary bodies. The samples will remain in space for approximately six months, before returning to Earth for analysis.
+Manufacturing Device (MAND): The crew removed and stowed the Manufacturing Device Extruder. The facility will attempt to feed through filament material into the extruder volume in an attempt to understand the current printing issues. The Manufacturing Device enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the MAND printer. It is installed into an Express Rack locker location. MAND is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Systems
+CASA Install Part 3: Today crew successfully installed the grounding strap and completed a grounding path continuity check.  During the activity it was noted that the CASA panels were swapped between the right and left sides which is not an allowable configuration.  The crew corrected the configuration prior to stepping into the planned acoustic and air flow measurements.  Measurements were completed and data will be reviewed by ground teams.  Post-measurements, the CASA bumpout remained deployed with the air duct attached. 
+Oxygen Generator Assembly (OGA) Pump ORU troubleshooting – Today crew performed a resistance measurement on the J1 connector of the OGA Pump ORU S/N 3.  This activity is part of troubleshooting efforts to identify the root cause of the failed OGA Pump ORUs.  Ground teams will be assessing the measurements.
+Crew Quarters (CQ) Cleaning: In preparation for Crew-2 arrival, the crew cleaned the port CQ.
+N2 CCAA Fan Acoustic Test:  This morning, ETHOS powered off the CCAA Inlet fan to see if the rumbling noise that has been reported by crew subsided with just the water separator operational.  The noise remained unchanged, indicative of an issue with the water separator.  Teams will be proceeding with the recommendation to remove and replace the water separator.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+MISSE Robo Ops
+NORS O2 Repress
+CASA Acoustic Measurements
+

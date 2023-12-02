@@ -1,0 +1,103 @@
+
+Human Research Program (HRP) Operations: Kelly and Kornienko performed their fifth sleep log of the week, and will continue through Sunday.  Within fifteen minutes of wakeup, the crew answered questions from the SleepLog application on the Station Support Computer (SSC).   Lindgren collected blood samples and inserted them into Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) as part of his participation in Biochemical Profile, Cardio Ox, and Repository. Kelly completed his second of three Journal sessions this week.
+
+The Sleep ISS-12 experiment monitors ambient light exposure and crew member activity, and collects subjective evaluations of sleep and alertness, to examine the effects of space flight and ambient light exposure on sleep during a year-long mission on the International Space Station (ISS).
+The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+The goal of Cardio Ox is to determine whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis risk in astronauts. Twelve crewmembers provide blood and urine samples to assess biomarkers before launch, 15, and 60 after launch, 15 days before returning to Earth, and within days after landing. Ultrasound scans of the carotid and brachial arteries are obtained at the same time points, as well as through 5 years after landing, as an indicator of cardiovascular health.
+
+ 
+Ocular Health: Yui and Lindgren completed their Flight Day 10 (FD10) Ocular Health vision tests. They each acted as Crew Medical Officer (CMO) for each other to perform an ocular ultrasound. The ultrasound images will be used to identify changes in globe morphology, including flattening of the posterior globe, and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement. Later today they will conduct a cardiac echo as part of the Ocular Health data collection. The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+ 
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Slosh: Lindgren cleared the data on the three SPHERES flash drives prior to Kelly running the Slosh session.  Kelly conducted a conference with the ground then configured the SPHERES to the Slosh setup.  He executed today’s session without CO2 tanks or beacons per an uplinked test plan.  The SPHERES-Slosh investigation uses small robotic satellites to examine how liquids move inside containers in microgravity. A water bottle’s contents slosh differently in space than on Earth, but the physics of liquid motion in microgravity are not well understood, which affects computer simulations of liquid rocket fuel behavior. Middle school and high school students control the SPHERES to study how liquids behave inside containers in space which increases the safety and efficiency of future rockets.
+ 
+Circadian Rhythms: Lindgren configured and donned the Circadian Rhythm Armband Monitor, Thermolab sensors and belt for the FD 30 session.  He will wear the Circadian Rhythm monitors for 36 hours.  The objective of the Circadian Rhythm experiment is to obtain a better understanding of alterations in circadian rhythms in humans during long-duration spaceflight.  Such knowledge will provide insights into the adaptations of the human autonomic nervous system in space over time, and has significant practical implications by helping to improve physical exercise, rest and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+ 
+Veggie Hardware Validation Test (Veg-01): Lindgren added water to the plant pillows and root mat. He then took photos and downlinked for ground teams to evaluate the status of the plants.  The primary goal of the Veg-01 testing is to demonstrate plant growth in the Veggie hardware using lettuce as a test species. Plants will be grown in two different sizes of arcillite, a calcined clay media. This test will help compare root zones of the two media sizes to determine water and root distribution in the different sized-particles to provide recommendations for future Veggie investigations. Shoot samples will also provide information on growth anomalies when compared with ground controls and will provide information on microbial growth and food safety. Photographs will be used to assess plant growth rates and plant health. A data logger will record the environment within the Veggie hardware. Crew questionnaires will provide insight into the appropriateness and thoroughness of the crew procedures for Veggie hardware and plant growth operations.
+ 
+Observation Analysis of Smectic Islands in Space (OASIS) Hard Drive Exchange: Kornienko swapped the Hard Drives for the OASIS experiment and stowed for return on a later flight.  OASIS studies the unique behavior of liquid crystals in microgravity, including their overall motion and the merging of crystal layers known as smectic islands. Liquid crystals are used for display screens in televisions and clocks, and they also occur in soaps and in cell membranes. The experiment allows detailed studies of the behavior of these structures, and how microgravity affects their unique ability to act like both a liquid and a solid crystal.
+ 
+Russian Segment (RS) Extravehicular Activity (EVA) #41 Preparations: Padalka and Kornienko performed a suited dry run today. This activity completes preparations for Monday’s planned EVA.
+ 
+Sabatier Jumper Install: Kelly installed a transfer hose from Oxygen Generation System (OGS) waste water to Water Recovery System (WRS) waste water in Node 3. With the Sabatier product water being sent to the WPA Wastewater Tank instead of the LAB Condensate Tank we will save crew time (less condensate tank offloads / water pumping into WPA) and reduce the amount of stowed iodinated water that must be used to support nominal water usage until new MF Beds are installed into WPA and the TOC issue is resolved.
+ 
+Today’s Planned Activities   
+All activities were completed unless otherwise noted. 
+
+HRF Blood Draw
+HRF Blood Sample Collection (operator)
+HRF Refrigerated Centrifuge Configuration
+SSIPC Management / ISS Crew Tagup
+USND2 –  Activation of Ultrasound Hardware and Camcorder
+HRF – Blood Sample Collection Closeout Ops
+HRF – Sample MELFI Insertion
+Node 1 Stowage Reconfiguration
+HRF Blood Collection Hardware Stowage
+Dismantle ЛКТ (ТА251М1Б) and ПЗУ in ТГК 425 (Aft)
+JRNL – Journal Entry
+Orlan Systems Checkout during pre-EVA training
+Sabatier –  Jumper Installation
+Air duct disassembly in DC1 prior to training (skip fan B3 dismantling)
+Ultrasound – Scanning Prep
+Orlan 4, 6 Systems Check
+Ocular Health (OH) – Ultrasound Scan (Operator)
+Ocular Health (OH) – Ultrasound Scan (Subject)
+БСС Checkout in DC1
+Ultrasound Data Export
+Donning Gear  r/g 9466
+Flash Drive Data Deletion
+Comm check and medical parameter check
+MPCC Laptop Relocation
+Ocular Health (OH) – Ultrasound Scanning (Subject)
+Ocular Health (OH) – Ultrasound Scan (Operator)
+Monitoring Orlan and БСС Initial Condition during the Run
+Entry into Orlan 4, 6, and Sealing off Backpacks
+Assistance During Suited Exercise. Video Recording for Korolev TV r/g 9545
+Ultrasound Data Export
+Ultrasound Scanning
+Orlan and БСС controls check
+Orlan and БСС preliminary leak check
+Orlan 4, 6 Fit Check at suit Pressure=0.4 r/g 9466
+SPHERES – Payload Conference
+Orlan-MK Suited EVA task drill. / r/g 9552
+Potable bus sample
+PAO Event
+Exit Orlan
+Post-Suited Exercise Comm Reconfig For Nominal Ops
+SPHERES – Camera Setup and Video Recording
+SHD – Weekly Questionnaire
+OH – Ocular Health Cardiac Operations
+OH-CARDIAC – Operator
+OBSTANOVKA. Preparing for replacement of Telemetry Storage Unit (БХТИ) removable media and monitoring ПВК power off. / r/g 9550
+SPHERES – Cameras setup and Video Ops
+Orlan Service Ops after Training, Air Duct Installation
+OH – Ocular Health Cardiac Operations
+OH-CARDIAC – Operator
+OBSTANOVKA. Replacement of Telemetry Storage Unit (БХТИ) Removable Media / r/g 9550
+Thermolab – Instrumentation Ops for Circadian Rhythms
+OBSTANOVKA. Closeout Ops / r/g 9550
+Installation of Orlan-MK ORUs for EVA r/g 9466, 9456
+SHD – Weekly Questionnaire
+БК-3М Unit Replacement r/g 9456
+VEG-01 – Plant Pillow Fill
+HRF – Hardware Setup
+WRS – Recycle Tank Fill
+SPHERES Shutdown
+USND2 – Hardware Deactivation and Closeout Ops
+Crew Medical Officer (CMO) Proficiency Training
+SPHERES – Data Export
+IMS and Stowage Conference
+OASIS – Hard Drive Exchange
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Ocular Health/ultrasound ops
+SPHERES SLOSH
+
+ 

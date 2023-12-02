@@ -1,0 +1,89 @@
+
+New Status: 
+Inter-module Ventilation (IMV) Flow Measurement: FE-5 Parmitano and FE-6 Nyberg completed IMV flow measurements throughout the United States On-orbit Segment (USOS).  Measurements were taken using the velocicalc at the ventilation inlets and outlets and in mid-module to determine the status of the IMV system between the USOS modules as well as between the USOS and Russian Segment (RS).
+
+Gradient Heating Furnace (GHF) Heater Insulation: Nyberg successfully completed the measurement of the GHF Material Processing Unit heaters.  The GHF is a vacuum furnace that contains three heating blocks. Their positions and temperatures can be independently controlled, and various temperature profiles can be realized. This facility will be mainly used for high quality crystal growth experiments using unidirectional solidification.  GHF has an automatic sample exchange system that can be accommodate up to 15 samples to reduce crew operation.
+
+Emergency Roles and Responsibilities Review: The six Expedition 36 crewmembers reviewed their roles and responsibilities in the event of an onboard emergency.  The crewmembers discussed their emergency response plans and philosophies amongst themselves, then conduct a conference with the Mission Control Centers in Houston (MCC-H) and Moscow (MCC-M).  
+
+Photovoltaic Thermal Control System (PVTCS) Portable Computer System (PCS) Patch: Ground controllers deployed a PCS patch that will correct the telemetry for the 2B PVTCS on the onboard PCS displays. Following that patch deploy the crew will be able to resume nominal procedure response, and is not required to verify with MCC-H for 2B PVTCS actions. The 2B PVTCS continues to operate with the newly installed pump and there are no indications of a leak. The Multiplexer/Demultiplexer (MDM) software has been updated, the Fault Detection, Isolation, and Recovery (FDIR) re-enabled, and 2B is supporting its own downstream loads.
+
+Today’s Planned Tasks
+· PROK. PH Urine Test [Complete] 
+· Regeneration БМП Ф1 Micropurification Cartridge  (termination)  [Complete] 
+· Regeneration of БМП Ф2 Micropurification Cartridge  (start) [Complete] 
+· IMV Flow Measurement [Complete] 
+· Audit of EDV lids and buckets in FGB [Complete] 
+· RGN-REC TK – Transfer and Replacement [Complete] 
+· RELAKSATSIYA Closeout and hardware stow  [Complete] 
+· Crew time for ISS adaptation and orientation [Complete] 
+· VIRU. Battery Recharge before the Experiment  [Complete] 
+· RGN – Initiate drain into EDV [Complete] 
+· VIRU. Software Upgrade. Tagup with specialists (S-band)  [Complete] 
+· Food Frequency Questionnaire [Complete] 
+· CEVIS USB installation [Complete] 
+· RGN – Terminate drain into EDV [Complete] 
+· Removal of ССД305 light fixture from ТКГ 419 and stowage with SM spares  [Complete] 
+· WSTA Fill [Complete] 
+· Unstow new БИД (Pressure Indicator Unit) and install on БЖ (Liquid Unit) No. 11  [Complete] 
+· WSTA Fill [Complete] 
+· ТК 709 Gas Analizer deactivation  [Complete] 
+· IMS Tagup (S-band) [Complete] 
+· JPM Window Shutter Closure [Complete] 
+· KOBAIRO – Disconnect and Remove [Complete] 
+· WSTA Fill [Complete] 
+· GHF Panel Detachment [Complete] 
+· Removal of two КЛ-152М TV cameras and light units from ТК 709 СА. Stow TV   [Complete] 
+· OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (start)  [Complete] 
+· GHF. Measuring Resistance of Heating Elements [Complete] 
+· WSTA Fill [Complete] 
+· Crew time for ISS adaptation and orientation [Complete] 
+· LS1 Hard Drive Swap [Complete] 
+· Installation of ЛКТ (ТА251М1Б No. 1417726325) and ROM  No. 1417726934   [Complete] 
+· RGN REC-TNK – Remove depress hose for nominal operations [Complete] 
+· GHF Attachment of Front Panel [Complete] 
+· Deactivation of ТК 708 Gas Analyzer   [Complete] 
+· KOBAIRO – Cable Connections and Power up [Complete] 
+· DIET – Journal Entry [Complete] 
+· Emergency Roles and Responsibilities Review [Complete] 
+· Emergency Roles and Responsibilities Conference [Complete] 
+· CWC Audit [Complete] 
+· Separation of EDV (KOV) No. 1000 as necessary for Elektron system  [Complete] 
+· Bringing ODF up to date using ТК 709 delivered files  [Complete] 
+· Waste & Hygiene Compartment (WHC) Water Container (ЕДВ) Remove and Replace [Complete] 
+· Counter Measure System (CMS) Exercise Overview [Complete] 
+· IMS and Stowage Conference [Complete] 
+· СОЖ Maintenance  [Complete] 
+· T2 CMS Introduction [Complete] 
+· VIRU. Hardware Setup for Relaksatsiya Experiment.   [Complete] 
+· ТКГ 419 (Aft) Stowage and IMS Ops [Complete] 
+· ARED Exercise Procedure Introduction [Complete] 
+· VIRU. Hardware parameter adjustment for Relaksatsiya Experiment  [Complete] 
+· ТК 709 Transfers and IMS Ops  [Complete] 
+· VIRU. Earch Observation Relaksatsiya Experiment  [Complete] 
+· VIRU. Fill out and Downlink VIRU Log Sheet / r/g 2495 [Complete] 
+· OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (termination)  [Complete] 
+· SHD. Space Headaches – Daily Questionnaire [Complete] 
+· ТКГ 419 Packing Report [Complete] 
+· P/TV Playback Start [Complete] 
+· Regeneration БМП Ф2 Micropurification Cartridge (termination)  [Complete] 
+· Closing USOS Window Shutters [Complete] 
+
+Task List
+· CEO Ops  [Complete]  
+· Audit- Torque Wrenches [Complete] 
+· EPM Connectors Caps
+· GLACIER Software App Label
+· US Plug-in Plan Audit
+· Progress IMS Update
+· Photo-Video Data Prep on RSS2 for Downlink via РСПИ
+· ТКГ 419 (Aft) Stowage and IMS Ops
+· Verification of Anti-Virus update on RSE1 and RSE-Med laptops
+· Preparation of reports for Roskosmos site
+· ECON-M. Observations and Photography
+· URAGAN Observations and Photography
+· Node 2 Encoder Deploy [Complete] 
+Ground
+· Nominal Commanding
+· 2B PVTCS PCS Patch  [Complete] 
+

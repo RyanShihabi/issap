@@ -1,0 +1,126 @@
+
+AMS-02 (Alpha Magnetic Spectrometer) EVA preparation: The crew continued preparation for the AMS repair EVAs with procedure reviews and training.  The multiple AMS-02 repair EVAs are being performed to recover a series of cooling pumps within the AMS-02 experiment.  The first of the EVAs are currently planned to start in roughly 2 weeks.  AMS-02 is a state-of-the-art particle physics detector that uses the unique environment of space to advance knowledge of the universe and lead to the understanding of the universe’s origin by searching for antimatter, dark matter and measuring cosmic rays.
+Astrobee: The crew participated in a conference, and then assisted with a series of Astrobee maneuvers with the goal of collecting data inside the JPM for calibration and localization.  They also assisted in a series of Astrobee movements for mobility testing. During the testing, Astrobee was able to successfully perform a series of “high performance” maneuvers including a high speed translation through the JEM, several roll/pitch/yaw maneuvers, and docking/undocking itself successfully.  Astrobee is a series of three free-flying, cube-shaped robots. The robots are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the ISS. The autonomous robots, powered by fans and vision-based navigation, could eventually perform crew-monitoring, sampling, logistics management, and accommodate up to three investigations. 
+Veg-04B: The crew performed a routine plant check.  This includes the assessment of individual plant pillows, the addition of water as necessary, photography of the Mizuna plants, and mass measurement of any broken leaves.  The research of Veg-04B focuses on the impact of light quality and fertilizer on leafy crop growth for a 56-day grow-out, microbial food safety, nutritional value, taste acceptability by the crew, and the overall behavioral health benefits of having plants and fresh food in space.  A healthy, nutritious diet is essential for long-duration exploration missions, which means that the typical pre-packaged astronaut diet needs to be supplemented by fresh foods during flight; the Veggie Vegetable Production System (Veggie) has begun testing aboard the space station to help meet this need, and validation tests have demonstrated that leafy greens can be grown in spaceflight.
+Systems:
+HTV8 Unberth: Today, both the crew and ground controllers worked together to prepare the HTV8 for unberth.  The crew activities included a Node 2 vestibule configuration for demate, followed by the depress of the Node 2 deck vestibule using the Pressurized Management Device (PMD).  The crew also utilized the Space Station Remote Manipulator System (SSRMS) to maneuver the HTV8 vehicle for release from the ISS.  The crew completed release of HTV8 at 12:20 CT and atmospheric reentry over the pacific is planned for Saturday evening.
+Cygnus NG-12 Mission Preparation:  With the approaching Cygnus NG-12 launch on November 2 from Wallops Launch Facility, the ISS crew continued with their preparations for the NG-12 mission including reviewing timelines, performing robotics On Board Training (OBT) as well as participating in a cargo transfer conference.
+Completed Task List Activities:
+
+Camera Calibration Overwrite
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+HTV8 grapple and release
+
+Saturday, 11/2 (GMT 306) Crew Off-Duty
+Payloads:
+
+
+Veg-04B plant check 
+
+Systems:
+
+Overlay Camera Calibration
+N2N VOK Stow
+NORS Repress Terminate
+UPA Recycle Tank Fill Part 3
+Overlay Camera Calibration
+
+Sunday, 11/3 (GMT 307) Crew Off-Duty
+Payloads:
+
+
+Veg-04B plant check
+
+Systems:
+
+No activities planned
+
+Monday, 11/4 (GMT 308)
+Payloads:
+
+
+Cold Stowage unpack reviews
+Food Acceptability
+HRF saliva setup
+Rodent Research habitat install
+Veg-04B plant check
+
+Systems:
+
+SSRMS Cygnus Capture
+RWS Configuration
+Cygnus Ingress
+Cygnus Cargo Ops and Transfer
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+ECON-M. Observation and Photography
+Reminder Node2 HD Camera On
+Standard Measures Post-sleep Questionnaire
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+HTV Vestibule Configure for Demate – Part 2
+Pressure Management Device (PMD) Equipment Setup Part 1
+Inventory Management System (IMS) conference
+ALGOMETRIYA. Pressure and Thermal Algometry preparation for and measurement session.
+USOS Window Shutter Close
+Pressure Management Device (PMD) Equipment Setup Part 2
+AMS Procedure/video review
+On MCC Go Purging Elektron-VM Liquid Unit (БЖ) after Shutdown
+VEG-04B Plant Check/Watering for each Plant Pillow
+Extravehicular Activity (EVA) Tool Configuration
+Temperature measurements of battery modules No.1-No.8 of ПТАБ case and connectors (before mating circuit connectors).
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Recharging Soyuz 746 Samsung PC after OBT, start recharge
+N2 Deck MPEV open
+Temperature measurements of battery modules No.1-No.8 of ПТАБ case and connectors,assistance
+Extravehicular Activity (EVA) Tool Configuration
+Progress 424 (DC1) Stowage and IMS Ops
+MERLIN INTERIOR CLEANING
+MERLIN5 DESICCANT SWAP
+Astrobee Crew Conference
+Astrobee Free Flyer Localization and Mobility Ops Part 1
+Cygnus Capture Review
+Rodent Research Transfer Crew Conference
+Temperature measurements of battery modules No.1-No.8 of ПТАБ case and connectors, assistance
+Temperature measurements of battery modules No.1-No.8 of ПТАБ case and connectors (when ДПР3 is triggered).
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Session 2
+SEPARATION. Mixing urine in the urine circulation loop
+ISS Experience Hardware Stow
+AMS VSB Cover Handling Aid training
+Verify cover closure on SM windows 6, 8, 9, 12, 13, 14. Note 12
+Recharging Soyuz 746 Samsung PC after OBT, remove from recharge
+ALGOMETRIYA. Tenso-algometry measurements.
+СОЖ maintenance. Routine maintenance of [КН], [КВ], and [КД] valves in SM Rodnik tanks
+Food Acceptability Survey
+Cygnus Cargo Operations Review
+Progress 442 (DC1) Stowage and IMS Ops
+Replacement of [Н1] pump on Replaceable Pump Panel 4СПН2 in КОБ2 Loop.
+Cygnus Cargo Operations Conference
+Food Physiology Crew Diet Briefing
+Clears NOD1D2 for NG-12 Arrival
+N2 Deck MPEV close
+Pressure Management Device (PMD) Teardown
+PAO Preparation
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Food Acceptability Survey
+MSS HTV Release Setup
+Centerline Berthing Camera System (CBCS) Installation and Checkout
+HTV Departure Preparations
+SSRMS HTV Release and Departure Monitoring
+AMS Procedure/video review
+IMS Delta File Prep
+Evening Preparation Work
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+AMS Procedure/video review
+Cygnus BPW Review Conference
+Daily Planning Conference
+
+ 

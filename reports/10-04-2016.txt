@@ -1,0 +1,65 @@
+
+ENERGY (Astronaut’s Energy Requirement for Long-Term Space Flight): Today, FE-5 completed Day 6 of the 11 day ENERGY experiment. As part of today’s activities, he continued logging his dietary intake and wearing the armband that monitors his activities.  The Energy investigation measures an Astronaut’s Energy Requirements for Long-Term Space Flight, a crucial factor needed for sending the correct amount of the right types of food with space crews. Astronauts often lose body mass with extended stays in space for reasons that remain unclear, although increased exercise as a microgravity countermeasure may be a factor. Knowing details of astronaut metabolism and activity, combined with other conditions, will help ensure that crews are properly nourished on long missions. 
+Wet Lab Ribonucleic Acid (RNA) SmartCycler: FE-6 conducted a test fill of COTS Smart Tubes to determine whether they could be filled in microgravity without the spilling out of fluids due to ricochet force. The Wet Lab RNA SmartCycler is a research platform for conducting real-time quantitative gene expression analysis aboard the ISS. The system enables spaceflight genomic studies involving a wide variety of biospecimen types in the unique microgravity environment of space.
+Personal Carbon Dioxide (CO2) Monitor: FE-5 attached 4 Personal CO2 Monitors to various locations on his clothes, and then wore them for several hours. He then removed the monitors and downloaded data from them. The Personal CO2 Monitor demonstrates a new capability to continuously monitor the astronauts’ immediate surroundings on the ISS.  All human spacecraft must be designed with environmental control systems that remove CO2 from the air that their crews breathe, but the space environment can still lead to “pockets” of CO2 that are difficult to detect and remove. The Personal CO2 Monitor is a demonstration of a system capable of unobtrusively collecting and downlinking individual crew members’ CO2 exposure for up to months at a time.  The Personal CO2 Monitor also demonstrates use of the Modular Wearable Architecture Base Board, which will support rapid certification of wearable devices in the future.
+Cygnus Offset Grapple On-Board Training (OBT):  In preparation for Cygnus arrival FE-5 and FE-6 practiced vehicle captures with the Space Station Remote Manipulator System (SSRMS), which had been positioned at the Permanent Multipurpose Module (PMM) Flight Releasable Grapple Fixture (FRGF) High Hover position in preparation for the training. Following the training, the crew participated in a conference with ground teams to discuss the training session and address any questions. 
+47 Soyuz Survey:  FE-6 downlinked images, taken from the Cupola and Docking Compartment 1 (DC1), of the 47S descent module, currently docked at Mini Research Module-1 (MRM-1).  This is a routine survey performed prior to the Soyuz spacecraft departure from the ISS. 
+Short Extravehicular Mobility Unit (SEMU) 3006 Checkout:  Earlier today FE-6 performed a checkout of SEMU 3006, this checkout is required when a new SEMU arrives onboard ISS prior to it being used for an EVA.  FE-6 performed a nominal leak check of SEMU 3006.  Due to a bad connection between the SEMU and the Space Station Computer (SSC) the data transmission portion of the checkout will need to be rescheduled. 
+Node 3/Treadmill 2 (T2) Internal Thermal Control System (ITCS) Moderate Temperature Loop (MTL) Line Inspection:  An inspection of the T2 MTL hoses in 2011 reveal minor damage to the hoses where they emerge from the standoff.  Earlier today FE-6 inspected and photographed the hoses to allow ground specialist to assess if there has been any significant change in the hoses status.   
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Verification of anti-virus scan results on Auxiliary Computer System (ВКС) laptops
+ENERGY Diet Log of Breakfast
+Wet Lab RNA SmartCycler Drill Battery Check
+Conference of Search and Rescue (ГПСК) specialists with returning crew (S-band)
+EMU 3006 Post Launch Checkout Part 1
+Tropical Cyclone Hardware Closeout
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+OTKLIK. Hardware Monitoring
+Acoustic Dosimeter Setup Day 2
+Condensate Water Processor (СРВ-К2М) R&R
+JEM System Laptop Terminal Reboot
+ISS CREW/SSIPC Management CONFERENCE
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Robotics Work Station (RWS) Display and Control Panel (DCP) Checkout
+Maintenance Activation of Spare Vozdukh Atmosphere Purification System Emergency Vacuum Valves [АВК СОА] (004173R, СМ1РО_3_321_1, in bag II-1/256-1, enclosure for АВК (007223R))
+Robotics Work Station (RWS) Display and Control Panel (DCP) Checkout
+EMU 3006 Post Launch Checkout Part 2
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves [Cancelled]
+Flushing Progress 433 (DC1) Rodnik H2O Tank 1 Connector В1
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+T2 Moderate Temperature Loop (MTL) ITCS Line Wear Inspection
+ISS O2 Repress from Progress 432 [AO] СРПК Section 1 (start)
+ENERGY Diet Log of Lunch
+ISS O2 Repress from Progress 432 [AO] СрПК Section 1 (terminate)
+Photo TV Soyuz Imagery
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ
+Personal CO2 Monitor Payload On Board Training
+N1 Nadir Hatch to Unlatch Hardstop
+Personal CO2 Monitor iPad Application Install
+СОЖ maintenance
+Personal CO2 Monitor MultiDevice Don
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+IMS Delta File Prep
+On-board Training (OBT) Cygnus Offset Grapple
+Onboard Training (OBT) SSRMS Debrief Conference
+CONTENT. Experiment Ops
+Personal CO2 Data Collection
+Wet Lab RNA SmartCycler Tube Fill Test
+Personal CO2 Monitor Crew Survey
+FLUID SHIFTS. Dilution Measures Setup
+ENERGY Diet Log of Dinner
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Battery 4B2 Reconditioning
+SSRMS Powerup and Maneuver to Offset Grapple Position
+

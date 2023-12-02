@@ -1,0 +1,113 @@
+
+Binary Colloidal Alloy Test – Cohesive Sediment (BCAT-CS):  The crew checked camera alignment and focus by viewing the latest BCAT images on a laptop. BCAT-CS focuses on the study of forces between particles that cluster together by using sediments of quartz and clay particles.  Conducting the research in the microgravity environment of the ISS makes it possible to separate the forces acting on the particles over a short range (adhesive forces) versus those acting over a long range (cohesive forces). The quartz/clay system is commonly found in a wide variety of environmental settings (such as rivers, lakes, and oceans) and plays an important role in technological efforts related to deep-sea hydrocarbon drilling and carbon dioxide sequestration.
+Biochemical Profile: The HRF Urine and Blood collection setup was completed today. The Biochemical Profile investigation tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results; which scientists can use to study the effects of spaceflight on the body.
+Plant Habitat-1: The crew performed a water refill into the Plant Habitat distribution system. Plant Habitat is a fully automated facility that will be used to conduct plant bioscience research on the ISS. The space environment is stressful for all living organisms. Understanding how plants respond will help crews on future missions successfully grow plants for food and oxygen generation. The Plant Habitat-1 investigation compares differences in genetics, metabolism, photosynthesis, and gravity sensing between plants grown in space and on Earth.  This investigation is expected to provide key insights on major changes occurring in plants exposed to microgravity. 
+Biomolecule Extraction and Sequencing Technology (BEST): BEST samples were retrieved and Part 3 of DNA sequencing was initiated. The miniPCR hardware was stowed. The BEST investigation studies the use of sequencing for identification of unknown microbial organisms living on the ISS, and how humans, plants and microbes adapt to living on the ISS. 
+External High Definition Camera (EHDC) Latch Block Adjustment: During preparations for US ExtraVehicular Activity (EVA) 49, the crew discovered that EHDC S/N 1001 did not lock properly into place onto a Color Television Camera (CTVC). Follow-on troubleshooting determined than an adjustment of the Latch Block mechanism could compensate for interference issues caused by stacked manufacturing tolerances, improving alignment and providing a better mating between assemblies. After today’s adjustment, the crew completed a “pull test” to ensure proper engagement of the latch block and a good dock of the EHDC onto the CTVC.  This EHDC is scheduled to be used to replace a degraded External Television Camera Group (ETVCG) during a January 2019 EVA.
+LAB Forward, Port Inter-Module Ventilation (IMV) Fan Cleaning: Flow measurements taken in August identified reduced flow in the Lab to Node 2 IMV system. Since the most likely cause is Foreign Object Debris (FOD) at the fan inlet, the crew inspected and cleaned the fan and silencer inlets today. The IMV flow rates must be greater than 100 cubic feet per minute (cfm) to ensure that the IMV fan is operating outside of the stall region, which reduces airflow and increases fan acoustic noise; the effectivity of today’s cleaning will be checked during the next set of IMV flow measurements.
+Public Affairs Office (PAO) Education Event: Today Serena Auñón-Chancellor participated in a live Educational PAO event with her alma-matter, George Washington University in Washington, D.C.  A graduate of the University’s School of Engineering and Applied Science (SEAS), Serena’s participation in this community-wide event furthered the SEAS mission of educating future leaders in Science, Technology, Engineering, and Math (STEM) and engaged students from the University and local elementary and high schools.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Lab MCA Full Calibration
+
+Two-Day Look Ahead:
+Wednesday, 09/19:
+Wednesday:
+Payloads
+
+Rodent Research Habitat Stow (NASA)
+HRF Biomedical Profile Urine Blood collections (NASA)
+Team Task Survey (NASA)
+Food Acceptability (NASA)
+CIR-ACME hardware replace (NASA)
+Zero-G Battery test (NASA)
+Atomization syringe Replace 2 (JAXA)
+ELF Cartridge install (JAXA)
+Metabolic-SpaceTex2 Ops (ESA)
+EPO Crystal Photo (ESA)
+
+Systems
+
+WHC Panel Inspection
+IWIS RSU Antenna R&R
+
+Thursday, 09/20:
+Payloads
+
+Atomization (JAXA)
+HRF Biomedical Profile Urine Blood Collections (NASA)
+BCAT Battery changeout (NASA)
+CIR HW return (NASA)
+Team Task Survey (NASA)
+BEST Sequencer Hardware stow (NASA)
+EML GAS bottle He open/AR close (Joint)
+
+Systems
+
+iPEHG Install in ER2
+IVA Tool Bag Audit
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+МО-8 Closeout Ops
+Auxiliary Computer System [ВКС] Laptops Antivirus Software Checkout
+Toolbox Drawer 1 Audit
+Regeneration of Micropurification Unit (БМП) cartridge Ф2
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Toolbox Audit of Drawer 2
+DMS1 Rack Cable Reconfiguration for Express Rack 10B
+PFS Decommisioning activities
+FIR/LMM Hardware Audit
+Toolbox Audit of Drawer 3
+Toolbox Audit of Drawer 4
+Water transfer from Progress 439 (DC1) Rodnik H2O Tank 2
+Combustion Integrated Rack Manifold #2 Bottle Replacement
+Toolbox Audit of Drawer 5
+External High Def Camera (EHDC) Latch Block Adjustment
+Combustion Integrated Rack Manifold #4 Bottle Replacement
+HTV-7 Trash Gather
+Replacement of QD Cap/Plug Pantry B.7 Cue Card and Audit
+Material Science Laboratory Gas Supply Exchange Part 1
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+СТТС Configuration for MRM1
+SEPARATSIYA – Flushing Centrifugal Multi-Purpose Vacuum Distiller (ЦМВД) and Urine Circulation Loop. Auto distillation of water with pre-treat solution.
+Binary Colloidal Alloy Test – Cohesive Sedimentation Camera Activities
+Combustion Integrated Rack Hardware Gather
+Charging of Light Field Camera
+Crew Departure Preparations for Return to Earth
+Stowage Locker Prep for Return
+ACME MWA Prep
+VEGGIE Software On-Board Training
+Collecting condensate water samples from СРВ-К2М before Gas-Liquid Mixture Filter (ФГС)
+Progress 439 (DC1) Cargo Transfers and IMS Ops [Aborted]
+Biomolecule Extraction and Sequencing Technology (BEST) MiniPCR Sample Removal
+MERLIN 2 Desiccant Swap
+Filling (separation) of ЕДВ (КОВ) for Elektron-VM or ЕДВ-СВ
+VEGGIE Configuration for Firmware Upgrade
+Biomolecule Extraction and Sequencing Technology (BEST) Experiment 1 Part 3
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+СОЖ maintenance
+IMS Update [Aborted]
+VEGGIE Firmware Upgrade Verify
+EVA-EDAR-DEBRIEF Questions
+VEGGIE-01 Configuration for Firmware Upgrade
+FSL Spare Items Relocation
+In-Flight Maintenance (IFM) Lab Forward Port IMV Fan Cleaning
+VEGGIE-01 Firmware Upgrade Verify
+FSL Loose Fastener on stowage container investigation by pictures
+Columbus Cabin photo audit
+Plant Habitat Water Refill
+Metal Oxide (METOX) Regeneration Termination
+Material Science Laboratory Gas Supply Exchange Part 2 [Aborted]
+HRF Generic Frozen Blood Collection
+iPad Cable Stow
+
+ 

@@ -1,0 +1,90 @@
+
+59 Progress (59P) Launch/Dock: 59P is scheduled to launch tomorrow from Baikonur Cosmodrome in Kazakhstan at 2:09 AM CDT. Docking to the ISS Docking Compartment (DC)-1 is scheduled to occur tomorrow at 8:07 AM CDT.
+Rodent Research-2 Center for the Advancement of Science in Space (RR-2 CASIS): Virts and Kelly configured the Bone Densitometer and Microgravity Sciences Glovebox (MSG) in preparation for tomorrow’s RR-2 sample collection, however during the Bone Densitometer calibration procedure the team received several errors.  The team is currently performing troubleshooting steps in an attempt to complete the Bone Densitometer calibration. 
+Integrated Resistance and Aerobic Training Study (Sprint): Kelly, with Cristoforetti’s assistance, collected data for his Flight Day (FD) 30 ultrasound Sprint Session.  Kelly placed reference marks on his right calf and thigh for ultrasound scans.  Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in International Space Station (ISS) crewmembers during long-duration missions. Ultrasound scans are on FD 14, 30, 60, 90, 120, 150, and R-7 for mission duration of six months and are used to evaluate spaceflight-induced changes in the muscle volume.
+Study of the Impact of Long-Term Space Travel on the Astronauts’ Microbiome (Microbiome): Cristoforetti performed her Return-14 (R-14) Microbiome session.  She collected body swab samples and inserted into MELFI.  Later today, she will collect perspiration samples following her exercise session. The Microbiome experiment investigates the impact of space travel on both the human immune system and an individual’s microbiome.
+Ocular Health (OH): Kelly continued his FD30 OH activities. With assistance from Virts and Cristoforetti, respectively, he performed ocular ultrasound and a cardiac echo ultrasound.  The ultrasound images will be used to identify changes in globe morphology, including flattening of the posterior globe, and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement.  The purpose of this study is to collect evidence to characterize the risk and define the visual changes, vascular changes, and central nervous system (CNS) changes, including intracranial pressure, observed during long-duration exposure to microgravity, including postflight time course for recovery to baseline. This study gathers information that can be used to assess the risk of Microgravity-Induced Visual Impairment/Intracranial Pressure (VIIP) and guide future research needs.
+Japanese Experiment Module Air Lock (JEMAL) Slide Table (ST) Troubleshooting: When the JEMAL ST is retracted in auto mode, there is a grinding noise at the end of the motion. Foreign Object Debris (FOD) has been  eliminated as a possible cause. Virts performed troubleshooting steps to ascertain the source of the noise in preparation for Robotic Refueling Mission (RRM) activities this Thursday which utilize the ST. Results were that the noise is still audible but is no worse than before, therefore, the Japanese Aerospace Exploration Agency (JAXA) is go for RRM operations.
+Urine Processing Assembly (UPA) Pressure Fault: Yesterday, the UPA faulted due to high condensor pressure. Ground controller attempts to restart the UPA were unsuccessful.  Teams are standing down from running UPA pending troubleshooting and forward plans.
+Russian Chibis Suit Smoke Event: This morning while performing their Lower Body Negative Pressure (LBNP training in the Chibis suit, the Russian crew reported smelling a burning odor and saw a small puff of smoke when they powered on the suit.  The suit was unpowered and Compound Specific Analyzer-Combustion Products (CSA-CP) readings were taken which showed nominal for ISS atmosphere. Moscow believes the odor and smoke were due to a failed micropump are investigating the issue. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+BIOME – Taking Body Samples 
+Morning Inspection
+МО-8. Configuration Setup
+MORZE. r/g 8640
+Body Mass Measurement
+HRF – Sample MELFI Insertion
+МО-8. Closeout Ops
+Auxiliary Laptop Anti-Virus Update / r/g 8247
+USND2 – Hardware Activation
+Elektron-VM Liquid Unit Pressurization before Activation
+HMS. Ultrasound 2 Scan Prep
+JEM System Laptop Terminal Reboot
+HMS. Ultrasound 2 Scan (CMO)
+HMS. Ultrasound 2 Scan (subject)
+Study Of Cardiac Bioelectric Activity At Rest
+MORZE. Psychophysiological Evaluation r/g 8640
+HMS. Ultrasound 2 Data Export
+HMS. Ultrasound 2 Post Exam. End exam and remove, clean, stow probe.
+Periodic fitness evaluation – subject
+ECON-L. Observation and Photography
+SPRINT Experiment Ops
+SPRINT – Assistance with the Experiment
+LBNP – Exercise (PRELIMINARY) assistance / r/g 8631 [Deferred]
+Waste and Hygiene Compartment. Pre-Treat Tank and hose Remove & Replace
+JEM Airlock Slide Table – Troubleshooting grinding noise anomaly during Slide Table Deployment
+ISS RS Atmosphere Analysis Using АОК ГАНК-4М
+MOTOCARD. Experiment Ops. / r/g 8633
+MOTOCARD. Assistance with the Experiment / r/g 8634
+Ocular Health Cardiac Operations Subject
+Video Footage for Nauka 2.0 TV Channel / r/g 8588
+Ocular Health Cardiac Operations Operator
+Rodent Research (RR) – Hardware Gathering for the Experiment Ops
+PAO Event
+TPLXA – Big Picture
+USND2 – Hardware Deactivation
+Greasing exposed ARED wires
+ECON-L. Observation and Photography
+CALCIUM. Experiment Session 7. / r/g 8632
+MORZE. Psychophysiological Evaluation: Strelau Test / r/g 8640
+DRAGON. Transfers Ops
+WRS – Recycle Tank Fill [Aborted]
+BIOME – Hardware Setup for Sampling
+MSG – Glovebox activation
+NAPOR-miniRSA. БЗУ-M Software Upgrade. / r/g 8641
+IMMUNO r/g 8635
+Dragon Cargo Operations Conference
+Rodent Research (RR) – Camcorder Node2 Setup
+Rodent Research (RR) – Dissection procedure review
+Rodent Research (RR) – Experiment Setup
+IMS Delta File Prep
+Rodent Research (RR) – Crew Conference
+MORZE. Psychophysiological Evaluation: SUPOS Test / r/g 8640
+BIOME – Perspiration Sampling
+MORZE. Psychophysiological Evaluation: Cattell’s Test / r/g 8640
+HRF – Sample MELFI Insertion
+Bone Densitometer (BD) –  Hardware Installation and Calibration
+BIOME – Collecting Surface Samples
+Exercise Data Downlink / r/g 6797
+MORZE. Closeout Ops / r/g 8640
+HRF – Sample MELFI Insertion
+BIOME – Sample Stowage
+
+Completed Task List Items
+
+ESA EPO parts 1, 2 [Completed Saturday]
+ESA PAO [Completed Saturday]
+P/TV Soyuz imagery [Completed Saturday]
+WHC EDV-Y R&R [Completed Saturday] 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Sprint Ultrasound ops
+Ocular Health cardiac ops
+Rodents Research CASIS ops 
+

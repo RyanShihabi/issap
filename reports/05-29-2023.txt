@@ -1,0 +1,29 @@
+
+Private Astronaut Mission (PAM) Axiom-2 (Ax-2):
+The Ax-2 crew had a productive holiday weekend performing more outreach and science. Ali and Ray participated in three ICE Cubes Mediaset events where they conducted demonstrations of the Nanoracks Liquid Fireworks, Space Kite, and Heat Transfer payloads and conducted a Q&A with children in Saudi Arabia. John took part in 2 ICE Cubes events, one with the Odyssey Scholarship Program and one with the MIT Media Lab. Ray and Ali also received a call from their backup crew mates, Ali Alghamdi and Mariam Fardous. There were successful runs of the Axiom Comms Systems, Axiom Imagery Processing and Collection, and Stowage Tracking & Inventory Intelligent Vision System (STIIVS) technology demonstrations. Many of the science payloads were completed including MIT Skinsuit, RNA Response, Stellar Stem Cells, Space Tissue and Regeneration, DNA Nano Therapeutics, and JAMSS Odor Visualization. The crew has begun the preparations for undocking, including stowage, housekeeping, and prepacking items for return.
+Payloads:
+Deoxyribonucleic Acid (DNA) Nano Therapeutics (Ax-2): Using the Life Science Glovebox (LSG), water and protein were mixed in the appropriate nano cuvettes. This is the second day of the two-day experiment. Biomimetic Fabrication of Multi-Functional DNA-Inspired Nanomaterials via Controlled Self-assembly in Space (DNA Nanomaterial Therapeutics) on the Ax-2 PAM evaluates the in-space manufacturing of nanomaterials that mimic DNA. These materials have a wide range of potential therapeutic applications, including as a drug-delivery platform.
+Nanoracks Cloud Seeding (Ax-2): The Ax-2 crew removed the Nanoracks Cloud Seeding Nanolab from the Nanoracks Mainframe Alpha facility. Nanoracks Cloud Seeding explores the process of cloud seeding in microgravity. Cloud Seeding is the process of adding nucleation materials to the atmosphere to generate and control the amount of rain fall in a region. Results could help scientists develop techniques for cloud seeding to support future settlements on the Moon or Mars.
+Nanoracks Heat Transfer (Ax-2): The experiment hardware and ISS video camera were set up, and the Ax-2 crew performed an ICE Cubes/Nanoracks Heat Transfer live event. In this experiment, the cool-down rate of a material heated to 45°C is observed and timed as it returns to ambient temperature. Nanoracks Heat Transfer demonstrates the effects of microgravity on heat transfer using a material that changes color as the temperature changes. This investigation is used to support an educational outreach program where 1,000+ students in Saudi Arabia can replicate and learn from the same investigation using a kit, and tens of thousands more can participate from home using household materials.
+Space Hematopoietic Stem Cell Collections (SASHA) (Ax-2): The appropriate hardware was set up for SASHA blood sample collections on Tuesday. SASHA evaluates blood stem cells and DNA- and RNA-editing enzymes that are related to the development of inflammatory disease and cancer. Samples taken before, during, and after spaceflight are analyzed to better understand the changes in the editing activity of these enzymes and other changes in blood stem cells that occur due to spaceflight.
+Exposed Experiment Bracket Attached on i-SEEP (ExBAS): The crew removed and stowed the ExBAS system from the payload attachment plate on the Japanese Experiment Module (JEM) Airlock slide table. ExBAS is support hardware that provides a means of exposing a variety of experiments to the space environment. ExBAS attaches to the Small Payload Support Equipment (SPySE) on i-SEEP.
+Ring Sheared Drop- Interfacial Bioprocessing of Pharmaceuticals (RSD-IBP): Sample 27 was removed from the Minus Eighty Laboratory Freezer for ISS (MELFI) and will be allowed to thaw overnight. It will then be installed into RSD-IBP on Tuesday. RSD is a containerless liquid system that makes it possible to study protein solutions without the effects of interactions with solid walls. RSD-IBP studies the behavior of high-concentration protein fluids and tests computer models for predicting that behavior. More accurate models could enable production of next-generation medicines for treating cancers and other diseases.
+Systems:
+Emergency Equipment Transfer: Today, the Ax-2 and ISS crew transferred emergency hardware from Crew Dragon Freedom to ISS prior to Ax-2 departure. This activity included disabling powered cargo slots, stowing the US ammonia filter fan, and transferring emergency air supply with US Crewed Vehicle (USCV) Nitrogen/Oxygen Recharge System (NORS) Mount to ISS.
+Waste and Hygiene Compartment (WHC) Manual Fill Initiate & Terminate: As part of regularly scheduled maintenance, the ISS crew initiated a manual fill of the WHC ЕДВ-СВ (Water Container) using a post-flight analysis bag to capture any pressure relief to protect the dose pump. The ЕДВ-СВ is intended for short-term storage and manual water transportation between facilities. After successfully filling the ЕДВ-СВ, the crew returned the WHC to nominal use.
+Axiom 2 (Ax-2) Station Support Computer (SSC) Relocates: In preparation for the Ax-2 undock scheduled for Tuesday, May 30th, the ISS crew relocated Station Support Computers (SSC) 6 and 16 to the Cupola and connected them to power and ethernet. These SSCs will be used to monitor the Dragon vehicle. SSCs are the laptops associated with non-command activities onboard the ISS.
+Completed Task List Activities:
+
+WHC-KTO-REPLACE
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Crew Dragon Prop Checkout
+SPS Power Down
+Dragon GNC Checkout
+PRO LSG Facility Deactivation Commanding
+Crew Dragon System Undock Activation
+PPS SARJ Unlock
+JEM Airlock Pressurization
+

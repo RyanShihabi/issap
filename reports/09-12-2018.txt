@@ -1,0 +1,117 @@
+
+H-II Transfer Vehicle (HTV)-7 Launch Delay: Due to an unfavorable weather forecast for tomorrow’s HTV launch attempt, Japan Aerospace Exploration Agency (JAXA) has delayed the HTV-7 launch to Friday, 14 September at 20:59 GMT (15:59 CT) with capture on Tuesday, 18 September at 11:25 GMT (06:25 CT).
+Rodent Research-7 (RR-7): The crew completed the first of two days of rodent operations for the RR-7 investigation. Crewmembers will perform bone densitometer scans, blood draws, fecal pellet collections, and sampling operations. The RR-7 investigation examines how the space environment affects the community of microorganisms in the gastrointestinal tract of mice (also known as the microbiota). It also looks at microgravity’s effects on multiple physiological systems known to affect the microbiota, including the gastrointestinal, immune, metabolic, circadian, and sleep systems. These studies should help explain mechanisms underlying interactions between these systems and the role of the microbiota in these interactions.
+Time Perception in Microgravity: The crew perform a session for ESA’s Time Perception in Microgravity investigation today. The accurate perception of objects in the environment is a prerequisite for spatial orientation and reliable performance of motor tasks.  Time is fundamental to motion perception, sound localization, speech, and fine motor
+Radiation Dosimetry Inside ISS-Neutrons (RADI-N2): Today a USOS crewmember retrieved eight bubble detectors from deployed locations inside the Japanese module (JPM1D5) and hand them over to a Russian crewmember, who will process all the detectors in the Bubble Reader.
+Food Acceptability: Crewmember performed the questionnaire. The Food Acceptability investigation seeks to determine the impact of repetitive consumption of food currently available from the spaceflight food system.  Results are used in developing strategies to improve food system composition to support crew health and performance on long duration missions. 
+Waste and Hygiene Compartment (WHC) Urine Receptacle Remove and Replace (R&R): The crew removed and replaced the WHC Urine Receptacle and Insert Filter. After replacement, a functionality test of the WHC was performed and the WHC was declared operational. 
+Public Affairs Office (PAO) Live Event: Serena participated in a live Educational PAO event with Poudre High School in Fort Collins, Colorado.  A graduate from Poudre, Serena spoke with 100 to 300 students currently enrolled in various levels of physical science classes.  Today’s event will be incorporated into a culminating activity centered around science and experimental design in space.
+Node 3 Major Constituent Analyzer (MCA) Activation and Data Gather: Yesterday afternoon, ground controllers powered up the Node 3 MCA to checkout the newly installed ORU 2 (S/N F0007) that was installed on 27 August. Controllers gathered data for approximately one hour and performed a Full Calibration while rapid sampling air from Node 1; teams are currently reviewing and interpreting the data collected during yesterday’s testing and this morning’s Zero Calibration.
+Extravehicular Mobility Unit (EMU) Li-Ion Battery Data Logging: The crew terminated a second charging Autocycle of two EMU Long Life Batteries-2 (LLB-2s) with data logging. By analyzing data from these two Autocycles, ground experts will be able to better understand the charge and discharge capacities of these new and improved LLB-2 batteries as well as compare charging system performance between the on-orbit and ground based systems. Data gathered during the first Autocycle show that the first set of LLB-2 batteries charged last week are a GO for EVA and charged as expected.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Material Science Research Rack (MSRR) Leak Check
+N3 MCA Calibrations
+
+Two-Day Look Ahead:
+Thursday, 09/13:
+
+Payloads
+
+Microbial Tracking-2 Saliva Collection
+Rodent Research 7 Sampling
+Food Acceptability
+Tropical Cyclone setup and event
+
+Systems
+
+HTV-7 OBT 
+
+Friday, 09/14:
+Payloads
+
+BCAT Camera Activities
+Meteor System Disk recovery
+CAL Fiber cable troubleshoot
+Time Perception Survey
+Plant Habitat Science Carrier #2 install
+Tropical Cyclone Hardware uninstall
+
+Systems
+
+HTV-7 ROBoT Session 2
+N2 Centerline Berthing Camera System (CBCS) Installation and Checkout 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Rodent Research Animal Transfer
+Rodent Research Operations 1A
+Visual and technical inspection of Potok-150MK Air Scrubbing Device in SM.
+ISS HAM Service Module Pass
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace
+Rodent Research Bone Densitometer Scan
+Rodent Research Operations 1B
+Radio Frequency Identification Logistics Power Cycle
+Rodent Research MELFI Insert
+Rodent Research Bone Densitometer Scan
+СТТС configuration for MRM1
+SEPARATSIYA – Flushing Centrifugal Multi-Purpose Vacuum Distiller (ЦМВД) and Urine Circulation Loop. Auto distillation of water with pre-treat solution.
+Environmental Health System (EHS) – Coliform Water Sample Analysis 44 +/- 4 hours post processing
+Rodent Research Operations 1B
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Rodent Research MELFI Insert
+Rodent Research Bone Densitometer Scan
+Rodent Research Operations 1B
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Rodent Research Centrifuge Setup
+Vozdukh checkout for temporary vacuum line via [АВК БМП].
+Rodent Research Centrifuge Configure
+Rodent Research MELFI Insert
+HRF Centrifuge Spin Conclude
+Rodent Research Bone Densitometer Scan
+Rodent Research Operations 1B
+СОЖ Maintenance
+Rodent Research MELFI Insert
+Rodent Research Bone Densitometer Scan
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Rodent Research Animal Transfer
+Rodent Research Operations Review
+PROBOY. RSЕ1 Laptop Ops.
+PROBOY. Penetration Simulator Ops.
+Binary Colloidal Alloy Test – Battery Changeout
+Cleanup of Columbus Cabin
+Rodent Research MELFI Insert
+Time experiment science
+Rodent Research Operations 1B
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Regenerative Environmental Control and Life Support System (RGN) EDV-Y Swap
+Rodent Research MELFI Insert
+Rodent Research Centrifuge Configure
+Columbus Cabin Restore
+Rodent Research Operations 2A
+Rodent Research Operations 2B
+HRF Centrifuge Spin Conclude Final
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements.
+PROBOY. Copy and Downlink Data
+Rodent Research MELFI Insert 3
+PROBOY. Copy and download data to memory card.
+Radi-N Detector Retrieval/Readout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters from USOS
+Food Acceptability Questionnaire
+MATRYOSHKA-R.BUBBLE-dosimeter gathering and reading data
+IMS Delta file prep
+Teardown the PS-120 Junction Box and stow, and reconfigure A/L UOP
+WORF Laptop Connect
+Battery Stowage Assembly (BSA) Operation Termination
+Metal Oxide (METOX) Regeneration Termination
+
+ 

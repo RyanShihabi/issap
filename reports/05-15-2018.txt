@@ -1,0 +1,78 @@
+
+Tropical Cyclone: The crew configured the camera settings in the Cupola to support the capture of a series of photographs of the Kilauea volcano in Hawaii. The images will be used to create 3 dimensional images of the craters that have formed as a result of the volcanic eruptions.
+Exposed Experiment Handrail Attachment Mechanism (ExHAM) #2: Last night ground robotics controllers used the Japanese Experiment Module (JEM) Remote Manipulator System (JEMRMS) Small Fine Arm to transfer the Handhold Experiment Platform (HXP) from the JEM External Facility to the Slide Table. Later this week, the Slide Table will be brought back into the JEM and ExHAM samples will be exchanged before the HXP is returned to the JEM External Facility.
+Two Phase Flow (TPF): This morning the crew deactivated the TPF experiment equipment in the Multi-Purpose Small Payload Rack (MSPR) for the experiment run completed overnight. The Two-Phase Flow experiment investigates the heat transfer characteristics of flow boiling in the microgravity environment. This experiment provides a fundamental understanding of the behaviors of bubble formation, liquid-vapor flow in a tube, and how heat transfers in cooling systems. Two-phase flow employs a sample cooling loop using perfluorohexane, often used in coolants for electronics, to establish flow rate and heating power in different conditions. 
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N): Today the crew retrieved eight RaDI-N detectors from a US Laboratory module location and handed them over to a Russian crewmember for processing. This Canadian Space Agency (CSA) investigation measures neutron radiation levels in the ISS. 
+Extravehicular Activity (EVA) Preparations: In preparation for tomorrow’s US EVA 50 Pump and Flow Control Subassembly (PFCS) Relocate, the crew printed off their suit cuff checklists and finalized their EVA tool configurations. Once completed, the crew performed an audit of their EVA tool configuration and reviewed the EVA briefing package which includes a detailed timeline of their scheduled activities and procedures for dealing with off-nominal situations.  The crew also participated in a conference with ground EVA specialists and discussed their review of the briefing packet.  The crew is scheduled to egress the airlock at 7:15 AM CDT tomorrow morning. 
+Common Communications for Visiting Vehicles (C2V2) Checkout: This afternoon, the crew performed a successful checkout the C2V2 Portable Computer System (PCS) Command Panel in support of the upcoming Orbital-ATK Cygnus (OA-9) mission.  The test verified crew command capability between ISS and a simulated Cygnus vehicle and is required ahead of the scheduled launch of OA-9 on 20-May.  OA-9 will be the first Orbital vehicle to utilize the newer C2V2 system for approach and capture.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+IMS Update
+Life On The Station Photo and Video
+R PAO event report preparation
+ECON-M. Observation and Photography
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+Auxiliary Computer System [ВКС] Laptops Antivirus Software Checkout and Report
+Regeneration of Micropurification Unit (БМП) Ф2 Cartridge (start)
+Cell Biology Experiment Facility (CBEF) Backup Power Retrieve
+Health Maintenance System (HMS) Periodic Health Status (PHS) Pre EVA Examination
+ISS HAM Service Module Pass
+Gathering and deployment of PILLE sensors prior to USOS EVA
+Study of cardiac bioelectric activity at rest
+XF305 Camcorder Setup
+СОЖ maintenance
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Two-Phase Flow Item Gathering
+Two-Phase Flow Experiment Unit Closeout
+FAZOPEREKHOD. Preparation steps and starting the experiment
+Food Acceptability Questionnaire – Subject
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+De-install and pre-pack for return of PLETHYSMOGRAPH unit from CARDIOMED equipment
+Environmental Health System (EHS) Microbial Capture Device (MCD) Coliform Water Processing
+Water Recovery and Management Condensate Pumping
+Robotic Workstation (RWS) Setup
+СТТС Reconfiguration in MRM1
+SEPARATION. ЕДВ-У replacement
+Extravehicular Mobility Unit (EMU) Cuff Checklist Print
+Handhold Exp Platform #2 (HXP2) Item Checking part 1.
+BIOCARD. Assistance During the Experiment and Photography
+BIOCARD. Experiment Session
+Extravehicular Activity (EVA) Tool Configuring
+FAZOPEREKHOD. Closeout Ops
+Extravehicular Activity (EVA) Tool Audit
+Equipment Lock (E-LK) Preparation
+SEPARATION. ЕДВ-Д Water Sampling
+SEPARATION. Distillation 6
+Extravehicular Activity (EVA) Procedure Review
+EVA Worksite Survey
+MATRYOSHKA-R. BUBBLE-dosimeter collection and measurements, Memory Card pre-pack for return
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Lab Major Constituent Analyzer (MCA) Jumper Teardown
+SEPARATION. Concluding Distillation. Log-file dump
+Radi-N Detector Retrieval/Readout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters from USOS
+Commercial Generic Bioprocessing Apparatus 4, Unit Relocation
+Monitoring RS structural shell surfaces using Multipurpose Eddy Current Device МВП-2К
+МАТРЕШКА-Р.
+Extravehicular Activity (EVA) Procedure Conference
+Verification of ИП-1 Flow Sensor Position
+Preparing to downlink data on monitoring structural element surface
+Cygnus Crew PCS Command Panel Checkout via C2V2 without RF Transmission to Ground Site
+Regeneration of Micropurification Unit (БМП) Ф2 Absorber Cartridge (end)
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+C2V2 checkout for OA-9
+Airlock MTL flow adjust for airlock depress operations
+Lab MCA zero cal 
+

@@ -1,0 +1,103 @@
+
+Electrostatic Levitation Furnace (ELF) Sample Clean: This morning the crew disconnected the Sample Cartridges from within the ELF to exchange the samples and retrieve lost samples within the sample holders.  The crew reinserted the cartridge and reconnected the hoses and cables.  Ground teams will resume checkout and operations later this week. The ELF is an experimental facility designed to levitate/melt/solidify materials by containerless processing techniques using the Electrostatic Levitation method. With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved.
+Tissue Regeneration-Bone Defect Rodent Research-4 (RR-4) Hardware Gather and Install: The crew gathered RR-4 hardware required prior to SpX-10 delivery of the experiment. Two of the four Rodent Habitats were installed this morning; however, ground teams are not receiving telemetry from either Habitat. Ground teams were able to recover after changing the IP address and reconnecting Health and Status. Tissue Regeneration-Bone Defect (RR-4 CASIS) studies what prevents vertebrates such as rodents and humans from regrowing lost bone and tissue, and how the microgravity extraterrestrial condition impacts the process. Results could lead to tissue regeneration efforts in space and a better understanding of limitations of limb regrowth at wound sites. 
+Microgravity Expanded Stem Cells (MESC) Life Science Ancillary Hardware (LSAH) Configuration: The crew gathered then setup the Microgravity Science Glovebox (MSG) Life Science Ancillary Hardware (LSAH).  MESC is being delivered by SpX-10 and will be initiated shortly after arrival. MESC will aid researches determine the efficiency of using a microgravity environment to accelerate expansion (replication) of stem cells for use in terrestrial clinical trials for treatment of disease.
+Phase Transitions-4 (PK-4) Video Monitor: The crew configured a video monitor in support of the joint ESA-Russia PK-4 experiment.  PK-4 is a scientific payload for performing research in the field of ‘Complex Plasmas’: low temperature gaseous mixtures composed of ionized gas, neutral gas and micron-sized particles. The micro-particles become highly charged in the plasma and interact strongly with each other which can lead to a self-organized structure of the micro-particles: so-called plasma crystals. Experiments in the facility aim to study Transport Properties, Thermodynamics, Kinetics and Statistical Physics and Non-linear waves and Instabilities in the plasmas.
+Carbon Dioxide Removal Assembly (CDRA) Air Selector Valve (ASV) Remove and Replace (R&R): During troubleshooting last week, CDRA ASV 102 was identified as a source of the reoccurring Remote Power Controller (RPC) trips. Today, the crew replaced this valve as part of the troubleshooting process. The final ASV power configuration is now the same as we started with after the troubleshooting cable was initially installed – valves 101, 102, and 103 powered by the troubleshooting cable; valves 104, 105, and 106 powered by the original cable. The failed ASV 102 will be returned to the ground on SpX-10 for further testing and troubleshooting. 
+Solar:  Saturday, February 11, 2017 was the last day of the Solar Sun Visibility Window and last science measurements, before final switch off of Solar Wednesday, February 15.  All activities leading up to Saturday were successfully completed per schedule. The Solar instruments saw their last sunlight and the Solar platform performed its very last tracking after many thousands of tracking cycles over 9 years. More SOLSPEC calibrations are scheduled on Monday. The Solar platform will be powered off and removed for return on SpaceX-12. Solar is a monitoring observatory that will measure the solar spectral irradiance. Apart from scientific contributions for solar and stellar physics, the knowledge of the solar energy irradiance into the Earth’s atmosphere and its variations is of great importance for atmospheric modeling, atmospheric chemistry and climatology. The three experiments mounted on Solar are Solar Variable and Irradiance Monitor (SOVIM) observing the near-ultraviolet, visible and thermal regions of the spectrum (200 nanometers – 100 micrometers); SOLar SPECtral Irradiance Measurements (SOLSPEC) observing the 180 – 3000 nanometer range with high spectral resolution; and SOLar Auto-Calibrating Extreme UV/UV Spectrometers (SOLACES) measures the EUV/UV spectrum range (17 nanometers – 220 nanometers) with moderate spectral resolution. 
+Transition to (X2) R15 Software:  As part of the R15 software transition, the Guidance, Navigation, and Control (GNC) Multiplexer/Demultiplexer (MDMs) were transitioned to updated software today. Updates to the GNC MDMs include: 
+
+Add Portable Computer System (PCS) connectivity to docked vehicles
+Provide Visiting Vehicle (VV) interface for a VV with two processors communicating on different buses at each International Docking Adapter (IDA) location
+Rate Gyro Assembly (RGA) recovery should assure at least two rate sources are available
+Incorporate the Flight Software (FSW) Patch Loader
+Provide attitude recovery without using Russian data following a GNC checkpoint transition without Loss of Attitude Control (LoAC)
+
+The Command & Control (C&C) MDMs will be updated tomorrow. Updates to the C&C MDMs include:
+
+Visiting Vehicle Support
+Implement modified capability for loading patches
+Modification to Rapid Depress Auto-Response
+Dual Integrated Communications Unit (ICU) Capability
+Increase number of Telemetry Format Versions to meet VV Requirements
+Improvements to Longeron Shadowing Fault Detection, Isolation and Recovery (FDIR) response
+
+Robotic External Leak Locator (RELL) Operations: Mobile Servicing System (MSS) and RELL performed Radiator Beam Valve Module (RBVM) P1-3-2 scans Saturday and Sunday, in support of the investigation into an External Active Thermal Control System (EATCS) loop B leak. Friday night the Robotics Ground Controllers removed the RELL from the JEM airlock slide table. Saturday the Robotics Ground Controllers maneuvered the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) Arm1 as required to perform the RELL Scan of RBVM. They performed in order, the Face, Aft Starboard, Aft Port, and Forward Scan of the P1-3-2 RBVM. At the end of the ops on Saturday, SSRMS and SPDM were positioned at park position, ready to resume and complete the scan survey Sunday. Sunday, the Robotics Ground Controllers maneuvered the SSRMS and SPDM Arm1 to perform an additional “focused re-inspection” RELL Scan of RBVM P1-3-2 from the aft starboard side. They then maneuvered the SSRMS and SPDM to place the RELL back in the Japanese Experiment Module (JEM) Orbital Replaceable Unit (ORU) Transfer Interface (JOTI) on the JEM Airlock Slide Table. Finally the Robotics Ground Controllers configured the SSRMS and SPDM for translation and translated the Mobile Transporter (MT) from Worksite #7 (WS7) back to WS4. MSS performance this weekend was nominal.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+SPHERES Battery Setup
+VEG-03 Plant Photo
+ X2R15 Software Transition Review
+БМП Ф1 absorption cartridge regeneration; (start)
+Fine Motor Skills Experiment Test – Subject
+Photo of the Crisstal experiment and Transfer to Biolab TCU
+Photo and Video Recording of Life on Station
+Rodent Research Gather 1
+Fine Motor Skills Experiment Test – Subject
+RODENT RESEARCH. Review procedures for habitat module installation in Rodent Research experiment
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+X2R15 Software Transition Review
+XF305 Camcorder Setup
+Electrostatic Levitation Furnace(ELF) sample Cartridge Retrieval
+RODENT RESEARCH. Crew conference about Rodent experiment
+Lab Carbon Dioxide Removal Assembly (CDRA) CO2 Selector Valve 102 Remove and Replace Part 1
+RODENT RESEARCH. Habitat module installation
+Electrostatic Levitation Furnace(ELF) Sample Holder removal
+BIOCARD. Experiment Ops. Tagup with specialists
+Electrostatic Levitation Furnace(ELF) sample Cartridge Installation
+Rodent Research Habitat Retrieval
+RODENT RESEARCH. Habitat module installation
+MRM1 free space audit
+N2 Nadir Hatch to Unlatch Hardstop
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+HRF NOMEX Gather
+Lab Carbon Dioxide Removal Assembly (CDRA) CO2 Selector Valve 101 Power Feed Swap
+USOS Window Shutter Close
+SPHERES Battery Swap
+Manufacturing Device Print Removal, Clean and Stow
+ISS HAM Video Operations
+Lab Carbon Dioxide Removal Assembly (CDRA) CO Selector Valve 102 Remove and Replace Part 2
+MRM2 free space audit
+Microgravity Expanded Stem Cells MSG LSAH Hardware Gather
+Rodent Research Gather 2
+Portable Computer System R18 Hard Drive Install
+Microgravity Expanded Stem Cells MSG LSAH Setup
+СОЖ maintenance
+DC1 free space audit
+JPM1F1 ISIS Audit
+Electrostatic Levitation Furnace(ELF) Sample Holder installation
+Wastewater Storage Tank Assembly (WSTA) Fill
+Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Total Organic Carbon Analyzer (TOCA) Waste Water Bag (WWB) Changeout
+Exercise Data Downlink via OCA
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Activation
+SPHERES Battery Stow
+БМП Ф1 absorption cartridge regeneration; (end)
+
+Completed Task List Items
+
+ Veggie 03 Pillow Watering
+Advanced Resistive Exercise Device (ARED) Quarterly Inspection [Completed Sunday]
+COL1A M1 Audit [Completed Sunday]
+Columbus Photo Audit [Completed Sunday]
+ESA Active Dosimeter Area Monitoring [Completed Sunday]
+ESA PAO Recorded Message “Meribel Aerosnow” [Completed Sunday]
+ESA PAO Recorded Message “TF1 Video postcard 2 – Space Suit ” [Completed Sunday]
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test [Completed Sunday]
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test [Completed Sunday]
+JEM WIS Environmental Monitor RSU Sensors (two) attaching at JPM1F0 and JLP1SA2 [Completed Sunday]
+LAB International Subrack Interface Standard Audit [Completed Sunday]
+ZBook Cable Tape [Completed Sunday]
+Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Isolator Inspection [Completed Saturday]
+Dragon 10 Prepack Follow-Up [Completed Saturday]
+Vacuum Cleaner Bag Remove and Replace (R&R) [Completed Saturday]
+Take Photography of All 32 NFL Jerseys in the Cupola [Completed Saturday]
+BEAM Intermodule Ventilation Coupling Verification
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+X2R15 Software transition
+

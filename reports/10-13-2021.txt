@@ -1,0 +1,25 @@
+
+Payloads:
+Bio-Monitor:  A crewmember disconnected the Bio-Monitor Data Unit from the Garment and doffed and hung the Headband and Garment out to dry.  The crewmember then donned a spare Garment and Headband and connected the Data Unit to the spare Garment.  Bio-Monitor is a Canadian onboard instrument that serves as a platform for scientific experiments on the ISS. The instrument performs on-orbit monitoring of crew member physiological parameters, with wearable sensors that only minimally interfere with crew member daily activities.
+Combustion Integrated Rack (CIR):  A crewmember replace the CIR Manifold #2 Bottle with a new bottle containing 40% O2 and 60% N2.  The Manifold #4 Bottle was also replaced with a new bottle containing 30% C3H8 and 70% N2. These bottle changes are in preparation of continued Cool Flame experiment runs.  The CIR includes an optics bench, combustion chamber, fuel, and oxidizer control, and five different cameras for performing combustion investigations in microgravity.
+Immersive Exercise:  A crewmember performed the setup for the Immersive Exercise related hardware, ran the session, completed the questionnaire, and stowed items.   The Immersive Exercise project focuses on the development of a virtual reality (VR) environment for biking sessions aboard the ISS.   The VR equipment is interfaced with the current bicycle exerciser aboard the ISS, Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), located in the United States “Destiny” Laboratory Module.
+ISS HAM:  A crewmember initiated and ISS HAM contact with Ecole Louis Armand AND Institut Universitaire de Technologie, Ca rquefou AND Collège Les Sables D‟Or, Thouare Sur Loire, France.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents, and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+Vascular Aging:  A crewmember closed out the Vascular Aging 13-hour Blood Pressure Monitoring session and downloaded the data from the Mobil-O-Graph Unit.  Emerging data point towards linkages among cardiovascular health risk, carotid artery aging, bone metabolism and blood biomarkers, insulin resistance, and radiation. Data indicate that aging-like changes are accelerated in many ISS crew members, particularly with respect to their arteries. As part of the Space Environment Causes Acceleration of Vascular Aging: Roles of Hypogravity, Nutrition, and Radiation (Vascular Aging) investigation, ultrasounds of the arteries, blood samples, oral glucose tolerance, and wearable sensors from ISS crew members are analyzed. 
+Systems:
+Extravehicular Mobility Unit (EMU) Hard Upper Torso (HUT) On-Orbit Replaceable Unit (ORU) R&R and HUT Degas: Today, the crew performed a HUT swap on EMU S/N 3004. The R&R was performed to downsize the HUT from an extra-large (XL) to a medium (M) in preparation for the Expedition 66 crew. After installation, the crew degassed the newly installed HUT and performed comm checkouts.
+JSL 20-Port Switch Installation:  Today, the crew set up two, 20-port Network Switches (S/N 1003, 1004) at NOD1D3 for the ground (PLUTO) to load the required configuration software on both switches. S/N 1003 will be loaded with a NOD3 configuration and S/N 1004 will be loaded with a Base configuration. After loading is complete, both switch units were stowed for later use.
+XF705 Camcorder Deploy:  Today, the crew deployed the new XF705 camcorders in Node 3, Node 1, the Lab, Node 2, and the Columbus Module. These camcorders can record 4k/UHD Video and can have enough storage for approximately an hour of recording.
+JPM Cabin Smoke Detector Cleaning:  Today, the crew cleaned the JPM Cabin Smoke Detector b (JPM Cabin SD b) by using the IVA Connector Cleaner Tool Kit and associated IVA N2 Cartridge (N2 Bottle) to supply bursts of N2 to remove particles. The smoke detectors sample the atmosphere within racks and in the open cabin for particles that might correspond to smoke from a fire. The SDs use a light sensing sampling chamber or probe and rely on forced airflow to propagate any smoke particles that may be present in the atmosphere.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Attitude Control System (ACS) Software Thruster Disable
+Attitude Control System (ACS) Software Thruster Enable
+Mobile Servicing System (MSS) Walkoff Maneuver
+Crew Dragon System Checkout
+SSRMS Direct Drive Test
+

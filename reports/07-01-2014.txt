@@ -1,0 +1,83 @@
+
+Circadian Rhythms: FE-6 Gerst donned the Circadian Rhythms hardware to start a 36 hour data take. The main objective of the experiment is to get a better basic understanding of any alterations in circadian rhythms in humans during long-term space flights. This data will provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+Urine Processing Assembly (UPA) Fluids Control and Pump Assembly (FCPA) Remove & Replace (R&R): Commander (CDR) Swanson successfully replaced the UPA FCPA that shutdown on Saturday.  Checkout is complete and the UPA will be activated this evening.
+Internal Thermal Control System (ITCS) Sample Collection: Gerst obtained ITCS fluid samples from Node 3 today.  Test strips were used to confirm no Interface Heat Exchanger (IFHX) microleaks were evident based on the quantity of Ortho-Phthalaldehyde (OPA) detected.  Swanson completed sampling of the Lab, Node 2, Columbus and Japanese Experiment Module (JEM) last week.
+On Board Training (OBT) ISS Emergency Simulation:  All 6 crewmembers participated in an ISS emergency simulation and debrief.  The purpose of this drill was to practice ISS emergency responses based on information provided by the onboard simulator. The crew physically translated through ISS to appropriate locations in order to visualize the use of station equipment and interfaces. They also practiced procedure execution and associated decision making, all while exercising communication skills with MCC-H and MCC-M.
+Video Survey of the ISS: FE-5 Wiseman took video of the interior volume which allows the ground team to assess the current vehicle configuration and to identify any areas of concern related to ventilation blockage, flammability hazards, emergency egress paths, access to fire ports, and safety equipment. The Safety Video Survey is performed approximately every 6 months.
+USOS Hatch Seal Inspection:  Gerst cleaned and inspected 9 USOS hatch seals, hatch plate sealing surface and hatch handle mechanism in Node 2, Node 3, Permanent Multipurpose Module (PMM), Columbus, and JEM hatches for Foreign Object Debris (FOD) or damage. No issues were noted and photos will be downlinked for further review.
+Direct Current-to-Direct Current Converter Unit (DDCU) Firmware Upgrade: Ground teams began a 2 day activity to update the firmware in all of the 16 parallel DDCUs controlled by the Power Management Controller Unit (PMCU) Multiplexer/Demultiplexer (MDM).   The new firmware includes an update to the DDCU Parallel Input Undervoltage trip functionality to prevent cascading power failures. This functionality will remain inhibited until related procedures and Flight Rules have been updated.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+CHROMATOMASS. Experiment Setup / r/g 5257 [Complete]
+CHROMATOMASS. Saliva and Blood Collection / r/g 5257 [Complete]
+SPLANH. Experiment Ops  r/g 5988 [Complete]
+Daily Planning Conference (S-band) [Complete]
+ECON-L.  Observation and Photography [Complete]
+Health Maintenance System (HMS) Tonometry Test Setup [Complete]
+Ocular Health (OH) Blood Pressure Operations [Complete]
+OH – Blood Pressure Operations Assistance [Complete]
+Health Maintenance System (HMS): Ocular Test –  CMO [Complete]
+MRM2 comm config to support voice comm during the experiment [Complete]
+USOS Hatch Seal inspection [Complete]
+UPA FCPA R&R [Complete]
+Health Maintenance System (HMS): Ocular Test – Subject [Complete]
+KULONOVSKIY KRISTALL. Hardware Setup and Configuration. r/g 6007 [Complete]
+CHROMATOMASS. Closeout Ops / r/g 5257 [Complete]
+Hardware stowage [Complete]
+ISS Video Survey [Complete]
+DOS-LAN – Cable Repair [Complete]
+Kulonovskiy Kristall Experiment Run.  r/g 6007 [Complete]
+Kulonovskiy Kristall Experiment Photography / r/g 6008 [Complete]
+СОЖ Maintenance [Complete]
+GREAT START. Preparation for the Experiment / r/g 5992 [Complete]
+Restore Nominal Comm Configuration [Complete]
+GREAT START. Quiz  “Ask ISS Crew Your Question”  Session Ops.  r/g 5992 [Complete]
+PAO Hardware Setup [Complete]
+GREAT START. Closeout Ops / r/g 5992 [Complete]
+Crew Prep for PAO [Complete]
+SPLANH. Blood Biochemistry Analysis Repeat r/g 5988 [Complete]
+PAO Event [Complete]
+System Laptop Terminal (SLT) Reboot [Complete]
+SPLANH. Closeout Ops. r/g 5988 [Complete]
+FMK Deployment Ops [Complete]
+Grab Sample Container (GSC) Sampling Operations [Complete]
+WRS Water Sample Analysis [Complete]
+Integrated Emergency response training [Complete]
+Crew Emergency Response Review [Complete]
+BCAT – Transfer of images from the camera [Complete]
+JRNL – Journal Entry  [Complete]
+WRS Maintenance [Complete]
+Integrated Emergency response training – Debrief between ISS and MCC [Complete]
+TOCA Data Recording [Complete]
+WRS Maintenance [Complete]
+KULONOVSKIY KRISTALL. Copy and Downlink Data via РСПИ / r/g 6007 [Complete]
+ИП-1 Flow Sensor Position Check / Pressure Control & Atmosphere Monitoring System   [Complete]
+Node3 MLT and ITCS Sample Collection [Complete]
+SPLANH. Experiment Setup / r/g 6005 [Complete]
+VZAIMODEISTVIYE Experiment Ops / r/g 5895 [Complete]
+IMS Delta File Prep [Complete]
+URISYS Hardware Setup  [Complete]
+Thermolab – Instrumentation Ops for Circadian Rhythms [Complete]
+VHF1 Test via US Ground Sites (DRY, WHI) from SM [Complete] 
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO replace  [Complete]
+WHC EDV-Y R&R
+Roscosmos Report
+Econ photo
+Uragan photo
+ARED bag audit
+3DA1 cam ops
+ESA EPO flying demo
+Cupola window clean  [In Work]
+Voice quality survey
+
+Ground
+
+Nominal commanding 
+

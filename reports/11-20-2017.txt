@@ -1,0 +1,95 @@
+
+NanoRack CubeSat Deployer (NRCSD) #13 Deploy: Today three NRCSD #13 deployers were individually ground commanded by JAXA to deploy from the International Space Station (ISS). Due to the configuration of single- and double-wide deployers, NRCSD #13 has a total five deployers (silos 1, 3, 5, 7, and 8).  There are no deployers for silos 2, 4, and 6. Today, the crew recorded video still photos of the satellite deployment.    Deployer silos #3 (EcAMSAT) and #1 (ASTERIA) were nominally deployed.  The third double-wide deployer, silo #5 (RBLE), did not initially deploy upon command.  After several attempts and some troubleshooting, the RBLE satellite was deployed.  Each of the three silos deployed today contained a single 6U CubeSat.  Deployers #7 (TechEdSat) and #8 (OSIRIS-3U) will be deployed tomorrow. 
+Earth Imagery from ISS Target Operations: Over the weekend the crew captured images and video footage of the South Tip of India, the Indian-Himalayas-Tibetan Plateau, the Hawaiian Islands, the Mediterranean Sea at Night, and Seattle and the Pacific Northwest US. The Earth Imagery from ISS investigation creates a series of videos, showcasing Earth from space. These videos were taken with cameras on the International Space Station in 6K hi-resolution, then will be integrated into videos for screensavers for public enjoyment, exploration, and engagement. 
+Human Research Program (HRP) Collections (Biochemical Profile and Repository): Over the weekend, 52S crewmembers completed Flight Day (FD) 60 urine sample collections, and today blood and urine samples were collected to support the Biochemical Profile and Repository experiments. Once collected, samples were placed in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).
+
+The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+
+Sarcolab-3:  A USOS crewmember with Russian operator assistance ingressed into the Muscle Atrophy Research & Exercise System (MARES) chair and adjusted the pads and restraints to complete the Sarcolab-3 ankle protocol.  The operator collected ultrasound images of the subject’s leg. The data collected for Sarcolab-3 will be compared to pre and post flight measurements to assess the impact of hypothesized microgravity induced muscle loss.  Myotendinous and Neuromuscular Adaptation to Long-term Spaceflight (Sarcolab) investigates the adaptation and deterioration of the soleus (calf muscle) where it joins the Achilles tendon, which links it to the heel and carries loads from the entire body. Muscle fiber samples are taken from crewmembers before and after flight, and analyzed for changes in structural and chemical properties. MRI and ultrasound tests and electrode stimulation are conducted to help assess muscle and tendon changes caused by microgravity exposure.
+NanoRacks Vuze (One Strange Rock) Camera Mounted Operations: The crew deployed the NanoRack Vuze camera to record 3-dementional 360-degree videos inside of the ISS. The mounted camera captured a “day in the life” style footage as the crew went about their nominal tasks throughout the ISS. National Geographic Channel–Virtual Reality Educational Video for Television Series–“One Strange Rock” (One Strange Rock Virtual Reality) is a 10-part series that transports a virtual reality camera to the ISS for recording of a National Geographic special on the Earth as a natural life-support system. Crew aboard the ISS record a series of virtual reality pieces for incorporation into a larger documentary about natural history and the solar system. Each episode features a different crewmember and addresses different topics using next generation virtual reality technology to raise awareness about the Earth system and the space program. 
+Meteor Grating Configuration and Hard Drive Exchange: The crew removed and replaced diffraction gratings in the Meteor camera and then removed and replaced the hard drive in the Meteor laptop located in the Window Observational Research Facility (WORF) payload volume. The Meteor payload is a visible spectroscopy instrument with the primary purpose of observing meteors in Earth orbit. Meteor uses image analysis to provide information on the physical and chemical properties of the meteoroid dust, such as size, density, and chemical composition. Since the parent comets or asteroids for most of the meteor showers are identified, the study of the meteoroid dust on orbit provides information about the parent comets and asteroids.  
+Bigelow Expandable Aerospace Module (BEAM) Outfitting:  This week, the crew is outfitting BEAM to make room for future stowage capability inside BEAM.  Today, the crew removed hardware from BEAM and disposed most of it on OA-8 Cygnus. The crew removed a stowage locker, wire harness cover, wire harness and Rip Stitch Straps.  They crew then removed the Deployment Dynamic Sensor system that was used for inflation of BEAM, which will be returned on a future flight.  Finally, the crew removed the empty inflation tanks.  The crew will continue with the outfitting activities tomorrow.
+Cygnus Cargo Operations:  The ISS crew completed 2 hours and 30 minutes of OA-8 cargo operations today. At this time an estimated 78% of OA-8 cargo operations have been completed, leaving approximately 10 hours remaining. Ground teams continue to gather request to dispose of items on the Cygnus vehicle, which may increase the amount of time required to completed the loading operations.   
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+HRF Generic Urine Collection Male
+HRF Generic Frozen Blood Collection
+VEG-03 Plant Photo
+MARES Ankle Shaving Preparation
+Human Research Facility Ultrasound 2 set up and power on
+VIZIR. Prep Ops
+HRF Generic Refrigerated Centrifuge Spin
+HRF Generic Sample MELFI Insertion
+MARES Ultrasound session
+JEM Freezer-Refrigerator Of STirling cycle 2 (FROST2) Temperature check
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+ПФ 1-4 Dust Filters R&R in the SM (ФГБ1ПГО_2_224_1 bag 436-26 (00071452R). Update IMS
+ARED Platform Partial Fold
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Unstow
+Columbus Video Camera Assembly 2 Adjustment
+MARES subject electrodes equipment
+ITCS Maintenance Canister Removal in JEM
+Bigelow Expandable Activity Module (BEAM) Ingress
+JEM Internal Thermal Control System (ITCS) Sample Collection
+Bigelow Expandable Activity Module (BEAM) Locker Strap Remove
+Equipment Stow after ITCS Sampling and Maintenance Canister Installation in JPM
+Measuring SM interior panel elements
+СОЖ maintenance
+METEOR Grating Configuration
+VIZIR. Experiment Ops
+Meteor Hard Drive Swapout
+Bigelow Expandable Activity Module (BEAM) Deployment Dynamic Sensors (DDS) Remove
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Bigelow Expandable Activity Module (BEAM) Tank Remove
+Health Maintenance System (HMS) Vision Test
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+MARES Ankle setting adjustments
+VIZIR. Closeout Ops
+Health Maintenance System (HMS) Vision Questionnaire
+NanoRacks Vuze Camera – Deployed Video Recording
+SARCOLAB MARES and Laptop Power OFF
+Delta file prep
+EPM Laptop relocation for files downlink preparation
+MARES Ankle configuration fit check
+Check Closure of SM window shutters 6,8,9,12,13,14 See Note 5
+PROBOY. Laptop Ops
+PROBOY. Simulator Ops
+NanoRacks CubeSat Deployment Photos
+USOS Window Shutter Close
+NanoRacks Microbial Growth Experiment Imagery
+HMS Tonometry Test
+Bigelow Expandable Activity Module (BEAM) Converter Stow
+Wanted Poster for Story Time book I, Humanity.
+EPM Laptop relocation to MARES
+PROBOY. Data Copying and Downlink
+BEAM Cleanup and Egress
+Earth Imagery from ISS Nikon Target Operations
+Soyuz 736 Onboard Computer System (БВС) Checkout. Soyuz-736 [СУДН] (motion control system) #2 test on internal power.
+ARED Platform Unfold Back to Nominal Position
+Wanted Poster for Avionics Jumper
+Exercise Data Downlink via OCA
+Multi Omics FOS Preparation
+Telescience Resource Kit Laptop Setup 
+
+Completed Task List Activities
+
+ESA PAO Message Gubbio
+ESA PAO Message Space History conference
+PAXI Wanted Poster
+Internal Wireless Instrumentation System (IWIS) Remote Sensing Unit (RSU) Swap
+Power cycle of JEM 16-Port Ethernet Switch
+Mobile Procedure Viewer Credentials Change
+Photo/TV D4 Camera to D5 Camera Transition
+VEG-03 Plant Pillow Water
+3.0 CTB, S/N 4032 Wanted
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+JEM Airlock and JEM RMS commanding to support NRCSD deploy
+Standard commanding
+

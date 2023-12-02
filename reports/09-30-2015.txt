@@ -1,0 +1,93 @@
+
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites – Universal Docking Port (SPHERES-UDP):  Kelly reviewed the SPHERES-UDP procedure and test plan and then participated in a conference with the Payload Developer to discuss science operations. He then performed a SPHERES-UDP test run and downloaded data to a Station Support Computer (SSC).  The addition of docking ports to SPHERES provides a testbed for the investigation of solutions to the challenges of combining autonomous spacecraft.  Mated spacecraft can be used to assemble complex systems in orbit or combine sensors and actuators for satellite servicing and repurposing missions. SPHERES-UDP enables testing of complex tasks through optimal and adaptive control, autonomous decision-making processes, and real-time image processing.
+ 
+Node 1 Nadir Berthing Port Preparation:   As part of USOS Reconfiguration, Lindgren and Yui routed two power cables from the forward end cone to bay 3 in the Lab Overhead Starboard Standoff.  These cables connected to the set of cables installed yesterday. Today’s cable routing required every other overhead rack (LAB1O1, LAB1O3, and LAB1O5) to be rotated in the Lab. One crew member retrieved the cable ends behind the un-rotated racks as the other crew member fed the cables through.  Additional cabling routing activities within Node 1 and Node 2 are scheduled for next week. These cables will eventually provide power from Node 2 to the Node 1 Nadir Berthing Port and the Node 1 Galley Rack.
+ 
+Ultrasonic Background Noise Test (UBNT) Battery Change:  While the 3 US Lab racks were rotated for the cable routing, Yui and Lindgren replaced the battery packs in the UBNT units which are located behind the racks.  These battery change outs will allow the UBNT units to provide acoustic measurements for the area where they are located.
+ 
+Mobile Servicing System (MSS) Operations:  Yesterday afternoon, Robotics Ground Controllers successfully translated the Mobile Transporter from Worksite 5 to Worksite 2. This evening, they will maneuver the Space Station Remote Manipulator System (SSRMS) to retrieve the Special Purpose Dexterous Manipulator (SPDM) then perform an Alpha Magnetic Spectrometer (AMS) imagery survey.  Following the survey, they will position the MSS to support upcoming Robotics Refueling Mission (RRM) Operations starting Friday, October 2nd.
+ 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted. 
+
+MORZE. Measuring Bioimpedance Using SPRUT-2
+Ultrasound 2 – Hardware Activation
+MORZE. NEIROIMMUNITET. CORRECTSIA. Blood Sample 1
+CORRECTSIA. MORZE. Processing venous blood sample using Plasma-03 centrifuge
+NEIROIMMUNITET. Venous blood sample processing
+NEIROIMMUNITET. Processing venous blood sample using Plasma-03 centrifuge
+MORZE. NEIROIMMUNITET. CORRECTSIA. Handover to USOS for MELFI Insertion
+Reminder – ARED Photo/TV
+Ultrasound2 – Scan Prep
+RUEXP – Blood Sample Insertion into MELFI
+CORRECTSIA. Closeout Ops
+Ultrasound 2 – Scan
+JEM Terminal Computer Reboot
+SPHERES – Data Export
+CARDIOVECTOR. Experiment Ops
+LAB1O31 Cable Routing
+SPHERES – Review
+Ultrasound 2 Data Export
+LAB1O1 Cable Routing
+Ultrasound 2 – Scan
+MORZE. Psycho-physiological Evaluation: Tsentrovka, SENSOR Tests
+SM PCE antenna feeder test using FSH3 spectrum analyzer
+Ultrasound 2 – Hardware deactivation
+MORZE. Psycho-physiological Evaluation:  SUPOS Test
+ARIS Removal – Assistance
+MORZE. Psycho-physiological Evaluation: Strelau Test
+LAB Power Cable Routing
+PILOT-T. Preparation for the experiment
+LAB1O5 Cable Routing
+MAGVEC – USB Transfer
+Checking Photo/TV Camcorder Setup
+SPHERES Crew Conference
+PILOT-T. Experiment Ops
+Stop LAB1O3 Rack Rotation
+Post-Exercise Hygiene Procedure
+LAB Power Cable Routing
+SPHERES – Cameras Setup
+Stop LAB Rack Rotation
+RELAKSATSIYA. Initiate camcorder battery charge
+Stop LAB Rack Rotation
+LAB Cables Closeout Ops
+UBNT – Battery Replacement
+WRS – Recycle Tank Fill
+JRNL – Journal Entry (not statused)
+СОЖ maintenance
+LAB1O3 Cable Routing
+SPHERES – Running Tests
+Verification of ИП-1 Flow Sensor Position
+NEIROIMMUNITET. Hair Sample
+RELAKSATSIYA. Mounting hardware on CQ window No.1
+LAB Racks Replacement
+PILOT-T. Experiment Ops
+Preparation of Reports for Roscosmos TV Studio
+Checking Photo/TV Camcorder Setup
+SPHERES – Data Export
+PILOT-T. Closeout Ops. Tagup with specialists
+IMS Delta File Prep
+FMK Deployment Ops (Deferred)
+RELAKSATSIYA. Parameter Settings. Tagup with specialists
+Grab Sample Container (GSC) Sampling Operations (Deferred)
+CONTENT. Experiment Ops
+RELAKSATSIYA
+NEIROIMMUNITET. Stress Test
+NEIROIMMUNITET. Saliva Test
+
+ 
+Completed Task List Items
+
+PMM Rackfront Cleaning
+Safety Video Followup (In Work)
+
+ 
+Ground Activities
+All activities are on schedule unless otherwise noted. 
+
+MSS Operations
+
+o    SPDM Unstow
+o    AMS Survey
+o    Config for RRM Ops
+ 

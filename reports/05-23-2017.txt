@@ -1,0 +1,75 @@
+
+External (EXT) Multiplexer/Demultiplexer (MDM)-1 R&R Extravehicular Activity (EVA):  With IV support from Thomas Pesquet, today Peggy Whitson (EV1) and Jack Fischer (EV2) performed a 2 hour 46 minute EVA to Remove & Replace (R&R) the EXT MDM-1 that failed on Saturday, May 20th. While Whitson performed the EXT MDM R&R, Fischer installed the Lab Nadir External Wireless Communications (EWC) Antennas that were deferred from the last EVA.
+Solar Array Battery 3A1 Temperatures – On 5/22/17, Battery 3A1 average temperatures peaked above 25°C for three concurrent orbits due to high solar beta, with a maximum average temperature peak of 25.6°C.  Per Flight Rule, ground controllers terminated the use of the battery string by turning the Battery Charge Discharge Unit (BCDU) 3A1 converter off and commanding the Fault Isolator (FI) open.  There is no impact to downstream loads in this configuration
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+External Wireless EVA Inhibit
+ISS HAM Radio Power Down
+EVA COTS UHF Communication Unit (CUCU)  Verify off
+USOS Window Shutter Close
+Extravehicular Activity (EVA) In-Suit Light Exercise (ISLE) Preparation
+Comm configuration for EVA
+Regeneration of Micropurification Unit (БМП) Ф2 Cartridge (start)
+Recharging Soyuz 733 Samsung PC Battery 
+ISS Crew departure preparation
+Update BRI Configuration File to Version 6.3
+Recharging Soyuz 735 Samsung PC Battery
+Extravehicular Mobility Unit (EMU) Purge
+LBNP Training (PRELIMINARY)
+Extravehicular Mobility Unit (EMU) In-Suit Light Exercise (ISLE) Prebreathe
+Soyuz 733 IRIDIUM phone recharge, setup, start charge (ФГБ1ПГО_2_224_1, 0.5 СТВ 1017 (002857J), Soft Container (00044322R))
+Soyuz 733 Recharging IRIDIUM Phone battery charge status
+Prebreathe in EMU
+БРП-М water sampling to drink bags
+Soyuz 733 IRIDIUM phone recharge, terminate charge
+Equipment Stowage under Soyuz 733 center seat  Note 7
+Sampling condensate water [КАВ] before СРВ-К2М Gas-liquid mixture filter (ФГС) to drink bags, end
+Crewlock Depress
+СВО-ЗВ water sampling to Russian drink bags
+Crewlock Egress
+Terminate Soyuz 735 Samsung PC Battery Charge (as necessary)
+Replace Failed EXT MDM
+Install Lab EWC Antennas
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+Collecting condensate water samples [КАВ] up to СРВ-К2М БКО, equipment setup, sampler installation
+Crewlock Ingress
+Crew Departure Prep
+MORZE. Psycho-physiological Evaluation: Strelau Test
+Crewlock Ingress
+Soyuz 735 IRIDIUM phone charge
+EVA Glove Photo Setup
+Crewlock Pre Repress
+Soyuz 735 IRIDIUM phone charge, terminate charge, teardown of the setup  Stow: ФГБ1ПГО_2_224_1, 0.5 СТВ 1017 (002857J), Soft Container (00044322R)
+Crewlock Repress
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Collecting condensate water samples [КАВ] upstream of СРВ-К2М БКО, sampler replacement
+Extravehicular Mobility Unit (EMU) Water Recharge
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Return to nominal comm configuration after USOS EVA
+EVA Glove Photo Downlink
+Extravehicular Activity (EVA) Camera Image Downlink
+Photo/TV Extravehicular Activity (EVA) GoPro Downlink
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+External Wireless Instrumentation System (EWIS) Network Control Unit (NCU) Enable
+MORZE. Closeout Ops
+KORREKTSIYA. NEUROIMMUNITET. Experiment setup
+Terminate Soyuz 733 Samsung PC Battery Charge (as necessary)
+Sampling condensate water [КАВ] upstream of СРВК-2М БКО, removing sampler, equipment disassembly
+OsteoOmics Saline Kit Relocate
+Meteor Shutter Open 
+
+Completed Task List Items
+
+Veg-03 Plant Water/Photo
+iPad Certificate Verification
+Grasp Big Picture [from tomorrow’s timeline]
+Dragon Rendezvous CBT [from tomorrow’s timeline]
+Dragon Robotics review [from tomorrow’s timeline]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+System commanding in support of EVA
+High Beta monitoring
+

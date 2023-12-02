@@ -1,0 +1,61 @@
+
+EXPRESS Rack (ER) Gateway Configuration:  Virts configured the ER6, 7, 8 laptops to communicate with the Payload Ethernet Hub/Gateway (PEHG)-2 allowing remote desktop access from the ground to the laptops via the ISS Ku-Band link.
+3D Printing in Zero G:  Cristoforetti removed and stowed a 3D printed coupon that was created yesterday. Afterwards, ground teams commenced printing the next coupon.  The 3D printing in Zero–G technology demonstration experiment aims to validate extrusion-based additive manufacturing technology’s ability to function in a micro-gravity environment.
+Node 3 Carbon Dioxide Removal Assembly (CDRA) Bed Removal:  Wilmore and Virts performed the complex task to remove the Node 3 CDRA from its rack and extracted the Desiccant/Sorbent Beds 201 and 202 from the unit. Cleaning of the beds is scheduled to occur Wednesday and Thursday of this week.  Pressures across the rear and front desiccant/adsorbent beds of the Node 3 CDRA have been increasing since the previous cleaning in June of this year. The reduction in flow is due to flaking adsorbent material (Zeolite) inside the beds. The main goal of this week’s task is to separate each desiccant/adsorbent bed into its two parts, clean the Zeolite, change out a filter, and then re-assemble the beds. Lab CDRA is operating this week to maintain CO2 within limits.
+Service Module Voltage/Current Stabilizer [CHT] Testing:  Cristoforetti setup two Station Support Computers (SSCs) to measure current in CHTs.  During setup, three current clamps were configured with new batteries then connected to USB Oscilloscopes and had their zero set point verified.  Samokutyaev assisted with power connection for SSC Laptops and identification of wires to be tested.  The goal of CHT testing is to assess their performance by capturing high speed 2 channel oscilloscope electrical current data at the input (ISS Primary Power 151-160VDC) and output (28VDC) of each CHT simultaneously over a 4 day period, while forcing them into different modes, “Current Regulation” and “Voltage Regulation”.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Hematocrit Test
+HRF Urine Sample Collection & Insertion Into MELFI
+Regeneration of БМП Ф2 Micropurification Cartridge (start)
+Opening СНТ pit and Med locker
+Verification of anti-virus scan results on Auxiliary Computer System (ВКС) laptops
+24-hour ECG (start)
+SM Power Supply System Feeder Test: Connecting SSC Laptop to station power outlet. 
+IFM – Assembly of Measurement configuration using 1- and 2-channel USB oscilloscope, hardware setting adjustments
+Removal of two КЛ-152М TV cameras and light units from ТК 715 СА
+SM Electric Power Supply System Feeder Test: Connecting current probes (part A and part B)
+SM CO measurement using CMS unit
+HRF – Hardware Setup
+RGN-REC TK – Transfer and Replacement
+ARED Guide Rail Inspection
+EHS – TEPC Removal
+MRM1 Fan Screen Cleaning (Group B)
+SM Electric Power Supply System Feeder Test: Switching current probe (part B)
+SM Comm Subsystem [СТТС] routine maintenance
+WRS – Recycle Tank Fill from EDV
+IMS Delta File Prep
+Node 3 Carbon Dioxide Removal Assembly (CDRA) Removal for Cleaning and Replacement
+PAO Event
+SM Electric Power Supply System Feeder Test: Switching current probe (part B)
+WRS – Recycle Tank Fill from EDV
+MELF1 – Crew inserts Ice Bricks
+СТТС Configuration for MRM1 comm
+CDRA – BED Removal
+SM Electric Power Supply System Feeder Test: Switching current probes (part A and part B)
+WRS – Recycle Tank Fill from EDV
+KHIMIYA OBRAZOVANIYE. Sfera-S Session
+VHF2d test from SM (using primary СТТС sets )
+RGN REC-TNK – Removal of depress hose for nominal operations
+СТТС comm assets switchover to a backup set
+Filling (Separation) of EDV (KOV) Lid No.10 п.36 (ФГБ1ПГО_4_404_1) from EDV lid 1104 (ФГБ1ПГО_1_109) for Elektron system
+WRM Condensate Pumping
+WRS – Recycle Tank Fill from EDV
+VHF2d Test from SM (on backup comm sets)
+3DP – Printed Coupon Removal and Stowage
+Closing СНТ pit
+БМП Ф2 Absorption Cartridge Regeneration (termination)
+
+Completed Task List Items
+
+ARED Detent Flip
+PIP Lab Server Relocation
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+JEM RMS SFA stow and deactivation
+Relocate SPDM from MBS to the Lab PDGF  [In Work]
+

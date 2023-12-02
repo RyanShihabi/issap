@@ -1,0 +1,128 @@
+
+64 Progress (64P) Docking: 64P docked successfully to the ISS Docking Compartment (DC)-1 nadir port last night at 7:22PM CDT. Following hatch opening the crew transferred early unstow and US cargo items.
+Skin-B Operations: The crew performed Corneometer, Tewameter and Visioscan measurements on his forearm for this experiment. The Corneometer measures the hydration level of the stratus coreum (outer layer of the skin), the Tewameter measures the skin barrier function, and the Visioscan measures the skin surface topography. Skin B is a European Space Agency (ESA) investigation that aims to improve the understanding of skin aging, which is greatly accelerated in space. The data will also be used to verify the results from previous testing for the SkinCare investigation on the ISS. 
+Cardio Ox Ultrasound Operations: With remote guidance from the Cardio Ox ground teams, the crew conducted an ultrasound scan after configuring the VOX, attaching the ECG Electrodes, and marking the arteries followed by blood pressure measurements using the Cardiolab Holter Arterial Blood Pressure Unit. The goal of the Cardio Ox investigation is to determine whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis risk in astronauts. Twelve crewmembers provide blood and urine samples to assess biomarkers before launch, 15 and 60 days after launch, 15 days before returning to Earth, and within days after landing. Ultrasound scans of the carotid and brachial arteries are obtained at the same time points, as well as through 5 years after landing, as an indicator of cardiovascular health.
+Human Research Program (HRP) Generic Urine and Frozen Blood Collection Double Spin: The crew continued HRP operations by collecting urine samples for a 24-hour period, configuring the Refrigerated Centrifuge for sample load operations, then collecting and processing a set of blood samples for double spin operations using the Refrigerated Centrifuge. The samples will be stowed in the Minus Eighty-degree Freezer for ISS (MELFI).
+
+Personal Carbon Dioxide (CO2) Monitor Installation and Operations: Before performing data collections from the Personal CO2 Monitor, the crewmember first performed a single point calibration of the Personal CO2 Monitor using the iPad app and readings from the minimum circuit amps (MCA) sample port. The Personal CO2 Monitor was then paired to the iPad, before being attached to the crewmember’s clothing, and worn for several hours. The data collected will be uploaded to the Space Station Computer via the iPad app before being powered off and stowed. The Personal CO2 Monitor demonstrates a system capable of unobtrusively collecting and downlinking individual crew members’ CO2 exposure for weeks to months. This investigation evaluates wearability principles in microgravity and also demonstrates Modular Wearable Architecture Base Board, allowing rapid certification of future wearable devices.
+Marrow Blood, Breath, and Ambient Air Sample Collection: Upon waking this morning, the crew took breath and ambient air samples to measure carbon monoxide concentration for the Canadian Space Agency (CSA) Marrow experiment which investigates the effect of microgravity on human bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on bone marrow and the blood cells that are produced in the marrow. The extent of this effect and its recovery are of interest to space research and healthcare providers on Earth.
+Space Headaches: The crew completed a European Space Agency (ESA) Space Headaches questionnaire to provide information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space. Headaches during space flight can negatively affect mental and physical capacities of crew members which can influence performance during a space mission.
+Minus Eighty Degree Laboratory Freezer for ISS (MELFI) 2 & 3 Nitrogen (N2) Pressure Checks: The crew completed nitrogen checks on MELFIs 2 and 3 to verify that the nitrogen pressure in both MELFIs is within acceptable range. The MELFI is a cold storage unit that maintains experiment samples at ultra-cold temperatures throughout a mission. It supports a wide range of life science experiments by preserving biological samples (such as blood, saliva, urine, microbial or plant samples) collected aboard ISS for later return and analysis on Earth. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+HABIT Task Video End
+Water Resource System (WRS) – Distillate Sample Inspection
+HRF- Blood collection setup
+WRS Maintenance
+CARDOX  Material Review
+MARROW  Breath And Ambient Air Sample Setup
+WRS Maintenance
+HRF Urine Sample Collection
+HRF Urine Sample MELFI Insertion
+Water Resource System (WRS) Distillate Sample Inspection
+ISS HAM RADIO Deactivation
+USOS Window Shutter Closure
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2811
+Closing window 6,8,9,12,13,14 shutters/ r/g 6965
+MPEG2 Multicast Video Streaming Test
+Preparation for Progress 433 Docking / Motion Control and Navigation System r/g 2812
+Progress 433 Docking to DC1 / Motion Control and Navigation System (СУДН) r/g 2812
+Comm Reconfig for Nominal Ops after Docking / Communications System [РТК]
+Activation of MPEG2 Multicast TV Monitoring
+On MCC Go Activation of MPEG2 Multicast Recording Mode on CP SSC
+CASKAD. ТБУ-В No.4 Activation at + 04 deg С setting / r/g 2806
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2811
+Close Applications and Downlink MPEG2 Multicast Video via OCA / Communications System [РТК]
+PRODUTSENT. Activate thermostat at +30 deg C setting / r/g 2807
+On MCC Go Progress 433 and DC1 Interface Leak Check / IRS Activation/Deactivation
+DC1-СУ Hatch Opening / IRS Activation/Deactivation
+On MCC Go Opening of Progress-СУ Transfer Hatch
+Installation of Quick Release Screw Clamps (ЗВБ) on DC1-Progress 433 Interface
+Deactivation of Progress 433 (DC1), Air duct Installation
+Progress 433 (DC1) Air Sampling using АК-1М sampler  r/g 2810
+Photo of a scuffmark left by the Active Docking Mechanism Probe on DC1 АСП Receiving Cone after Progress 433 Docking / r/g 2688
+Downlink Photos of Docking Cone Internal Surface via OCA
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 1589
+Progress 433 (DC1) Early Unstow and US Cargo Items Transfers and IMS Ops / r/g 2834, 2835, 2836
+MARROW Air Samples
+HRF Urine Sample Collection
+HRF Urine Sample MELFI Insertion
+PRODUTSENT. Hardware transfer from Progress and setup in ТБУ-В r/g 2820
+BIOPLENKA. Hardware Transfer from ТКГ to SM and Setup in Thermostat r/g 2817
+HRF Activation of Centrifuge and blood collection operator assistance
+PRODUTSENT. Photography / r/g 2821
+HRF Blood Draw (Operator)
+CASKAD. Progress Transfers / r/g 2818
+FAGEN. Kit transfers from Progress / r/g 2814
+HRF – Centrifuge 1 Configuration
+CASKAD. Bioreactor Setup in Thermostat at +4 deg C / r/g 2818
+Reading CEVIS REMINDER
+FAGEN. MCK Kit No.4 Setup in ТБУ-В No.4  r/g 2814
+CASKAD. Photography / r/g 2819
+IMS Delta File Prep
+STRUKTURA.  Luch-2 Transfer from Progress / r/g 2815
+HRF Centrifuge 2 Configuration
+STRUKTURA.  Process Activation and Stowage r/g 2815
+HRF Urine Sample MELFI Insertion
+STRUKTURA. Photo during the Experiment and at Exposure Location / r/g 2816
+USND2 Unit Activation
+USOS Window Shutter Closure
+HRF Blood sample removal in preparation for cold stowage insertion
+HRF Urine Sample MELFI Insertion
+CARDOX Setup Ops
+CARDOX – Scanning
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake  r/g 2811
+Hematocrit  Hardware Setup r/g 2813
+CARDOX Scan (Operator)
+On-orbit hearing assessment using EARQ
+Connecting UPA) SPA CWC-I
+Installation of Personal CO2 Monitor iPad Application
+CARDOX – Battery Installation
+CARDOX Measurements
+PAO Hardware Setup
+CARDOX Blood Pressure Operations
+CARDOX – Experiment (Subject)
+HRF Closeout Ops
+CARDOX Ultrasound Ops, Operator
+PCO2M. Calibration of monitor sensor
+CARDOX Blood Pressure Operations Closeout
+Crew Prep for PAO
+HRF Equipment stowage after sample collection
+PAO Event
+PCO2M-MULTIDEV-DON
+SKNB Hardware Setup and Measurement Initiation
+Iodized Water Sampling
+MELF2-  Pressure Monitoring
+Gathering Centerline Berthing Camera System (CBCS) and Vestibule Outfitting Kit Equipment
+WRS Water Sample Analysis
+Crew time for ISS adaptation and orientation
+HMS Defibrillator Inspection
+USND2 Hardware Deactivation
+Crew time for ISS adaptation and orientation
+ISS HAM RADIO Power Up
+Dragon Transfers Review
+HAM radio session from Columbus
+Space Headaches Weekly Questionnaire
+Dragon Cargo Operations Conference
+MELF3 Pressure Monitoring
+Crew time for ISS adaptation and orientation
+HMS ISS IMAK Unpack from Soyuz 731
+Photo/TV, Camcorder Activation Check
+TOCA Data Recording
+Ghost Camera Setup
+PCO2M Data Gathering
+CEVIS Video Stow
+PCO2M. Inspection by the crew
+Space Headaches Weekly Questionnaire
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Cardio Ox/Ultrasound support
+Nominal ground commanding.
+

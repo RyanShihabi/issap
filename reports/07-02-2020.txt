@@ -1,0 +1,30 @@
+
+Payloads
+Astrobee: The crew powered on both Astrobee free flier units and verified the LEDs were as expected.  Following this, the ground team loaded the appropriate software/maps and adjusted settings.  The ground then commanded one of the Astrobee free fliers to undock and maneuver in the JEM.  These activities are preparation for the upcoming Kibo Robot Programming Challenge.  Astrobee is made up of three free-flying, cube-shaped robots which are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the space station. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+Fluids Integrated Rack/Light Microscopy Module (FIR/LMM)/CDM changeout: As a continuation of the CDM experiment, the crew installed the fifth of the ten experiment modules on the FIR/LMM.  Capillary-Driven Microfluidics in Space (Capillary Driven Microfluidics) examines the drawing of fluids into a tiny narrow tube in microgravity. Results may improve current mathematical models and understanding of microfluidic systems and improve fluid control in various devices. Diagnostic devices require separation of blood cells and plasma, which have different densities, and the absence of sedimentation and buoyancy-driven convection in microgravity improves the efficiency of this separation.
+ELF (Electrostatic Levitation Furnace) software update: The crew performed the cable configuration necessary for an ELF software update.  This software update will enable additional testing capabilities for the ongoing Round Robin investigation.  The Round Robin – Thermophysical Property Measurement (Round Robin) investigation provides researchers with a better understanding of how to measure liquid metal properties to revolutionize how process modeling can support design, flight qualification and production of advanced spaceflight systems.
+RADI-N2 detector retrieval and processing: The crew retrieved the RADI-N2 dosimeters from the Cupola location and handed them over to the Russian crew for processing.  The objective of this Canadian Space Agency investigation is to better characterize the ISS neutron environment, define the risk posed to the crew members’ health, and provide the data necessary to develop advanced protective measures for future spaceflight.  It’s been recognized that neutrons make up a significant fraction (10-30%) of the biologically effective radiation exposure in low-Earth orbit.  The bubble detectors used in the investigation are designed detect neutrons and ignore all other radiation.
+Systems
+Extravehicular Activity Mobility Unit (EMU) Water Recharge:  The crew performed water recharges on EMUs 3004 and 3006. The recharges ensure there is a full supply of fresh cooling water to each EMU suit.
+Periodic Health Exam (PHS): Today the crew completed a health evaluation. During the evaluation, vital signs are obtained and an ear examination is conducted by taking images of the tympanic membranes and the external ear. The data and imagery is then downlinked for review by a medical specialist. PHS exams are conducted within 24 hours of the conclusion of EVA.
+Ultrasound Eye Exam: Today the crew used an ultrasound device to perform an eye scan, the first of several routine ultrasound eye exams during their stay on ISS. Eye exams are performed regularly onboard in order to monitor crewmember’s eye health.  Eyesight is one of many aspects of the human body affected by long-duration stays in a microgravity environment.
+Regenerative Environmental Control and Life Support System (ECLSS) Operations: Today the crew performed a drain of the Urine Processor Assembly (UPA) Recycle Tank to an available liquid waste container (ЕДВ-У). Once the Recycle Tank drain was complete, the crew performed a visual check of the Recycle Tank quantity indicator to verify it was indicating empty. The crew then reconfigured the Recycle Tank valves to the “Fill” configuration and transferred the contents of a full ЕДВ-У to the Urine Processing Assembly (UPA) Waste Water Storage Tank (WSTA). Finally, the crew configured the UPA drain/fill valves to “process” so the pre-treated urine can be processed by the UPA. 
+Completed Task List Activities:
+
+Extravehicular Activity (EVA) Procedure Review
+Remove and Replace Waste Hygiene Compartment (WHC) ЕДВ-Y
+Troubleshooting of JEM PCS Power Chain
+Search PMM for missing Lights
+PCS Shell Swap
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+74P Prop Purge on Momentum Management
+UHF 2 Activation in support EMU H2O Recharge
+A/L reconfiguration support for METOX run
+Node 3 CDRA 4 Half Cycle Runs supporting METOX run
+RPCM P32B_A Powercycle and RPC Troubleshooting
+HTV9 Cargo Operations (ongoing)
+

@@ -1,0 +1,30 @@
+
+Payloads:
+Advanced Resistive Exercise Device – Kinematics (ARED-K): The ARED-K Acquisition Unit (AU) in Node 3 was powered on to verify ground connectivity. The ground was successfully able to connect to the AU, and the crew powered off the AU. The ARED-K investigation assesses the current exercise programs to allow for the improvement of exercise prescriptions by conducting a biomechanical analysis of exercise on the ARED onboard the ISS.
+Multi-use Variable-g Platform (MVP): Twelve MVP Cell-02A modules were initiated and installed in the MVP facility. The commercially developed, owned, and operated Techshot MVP includes two internal carousels that simultaneously can produce up to 2g of artificial gravity. MVP is used to conduct research in space with a wide variety of sample types, such as fruit flies, flatworms, plants, fish, cells, protein crystals and many others.
+Plant Habitat-03B: The top of the Seed Bag was closed to prevent plant entanglement. Plants exposed to environmental stress, including spaceflight, undergo epigenetic changes that involve adding extra information to deoxyribonucleic acid (DNA) rather than changing existing information. Epigenetic Adaptation to the Spaceflight Environment – Accumulated Genomic Change Induced by Generations in Space (Plant Habitat-03) assesses whether epigenetic adaptations in one generation of plants grown in space can transfer to the next generation. This could help identify genetic elements that increase the adaptability of plants to spaceflight, a first step toward developing cultivars better suited to provide food and air and water purification in life support systems on future space missions.
+Space Health: UAE video was recorded with Astronaut Sultan Al Neyadi to demonstrate the functions and tasks of the Space Health study. The Autonomous Health Monitoring for Adaption Assessment on Long Range Missions Using Big Data Analytic (Space Health) investigation utilizes the Bio-Monitor system for physiological monitoring before, during, and after an ISS mission to assess the effect of space travel on heart health. The potential use of the Bio-Monitor system on the Artemis analytical platform for future space missions is being evaluated. The Artemis analytical platform is used to provide automated analysis of the cardiovascular system in order to develop a near real-time assessment tool during long range missions.
+STEMonstration: The STEMonstration “Communication” Demonstration was recorded. STEMonstrations are short, three- to five-minute educational videos that demonstrate popular K-12 Science, Technology, Engineering, and Mathematics (STEM) topics in microgravity. Each STEMonstration includes materials to help teachers explore the topics in their classrooms.
+Solidification Using Baffles in Sealed Ampoules-Microgravity-synthesized Graphene Aerogels (SUBSA-ugGA): Ampoule sample #7 was installed into the SUBSA thermal chamber. Examination of the Multi-physical Properties of Microgravity-synthesized Graphene Aerogels (SUBSA-ugGA) seeks to create a graphene aerogel on the ISS. Microgravity is expected to alleviate effects of Earth’s gravity, such as agglomeration, sedimentation, and thermal convection, and enable production of a superior, uniform material structure. This research could lay the groundwork for the engineering of bulk quantities of graphene aerogel with exceptional physical properties for applications in power storage, environmental protection, and chemical sensing.
+Window Observational Research Facility (WORF): The WORF Zbook laptop battery pack was replaced. The WORF provides a facility for Earth science remote sensing instruments using the Destiny science window in the U.S. Laboratory. The Destiny window has the highest quality optics ever flown on a human-occupied spacecraft.
+Systems:
+In-Flight Maintenance (IFM) Lab Forward Port Intermodule Ventilation (IMV) Fan Cleaning: Today, the crew cleaned the Lab Forward Port IMV Inlet Screen and IMV Fan Inlet in order to improve airflow to Node 2. The IMV flow rates must be great enough to ensure that the IMV fan is operating outside of the stall region which reduces airflow and increases fan acoustic noise. Excessive dust buildup can cause this phenomenon. Following the cleaning, the crew used the Velocicalc tool to measure the air flow through Node 2 diffusers.
+IFM Waste Hygiene Compartment (WHC) Piping Remove and Replace (R&R): As part of regular maintenance, the crew replaced the piping between the pump separator and the dose pump. The piping is replaced every six months as a preventive measure to ensure continued performance and preclude a functional failure.
+Treadmill 2 (T2) Monthly Inspection: Today, the crew performed the T2 monthly inspection using Sidekick as part of the Autonomous System Operations (ASO) project. The key objective of the ASO project is to develop and demonstrate advanced software to help astronauts automate their spacecraft, thereby requiring less assistance from Earth and in turn becoming more autonomous. The crew also performed additional inspections for Sorbothane residue on Snubber Pins, the Snubber Pin position within the Snubber Cup, and all tape and witness markings on the T2 Thumbwheels, Snubber Jam Nuts, and Snubber Cup Housing and reported nothing off-nominal.
+Endeavour Crew Departure Preparation: The Endeavour crew was allotted time to prepare for their departure and the arrival of Crew-7. During this time, the crew prepared personal items for return and performed cleaning, stowage, and inventory tasks.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+MSS Powerup
+SSRMS Walkoff to Node 2
+SPDM Unstow
+Backup KCU2 Extended Telemetry Activation
+ARED-K Remote Desktop Connection Test
+SDMS Activation
+JRMS-NREP Stow
+MSS Powerdown [Planned]
+

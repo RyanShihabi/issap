@@ -1,0 +1,70 @@
+
+Lighting Effects: A 52S crewmember logged into the sleep log application and provided a sleep log entry to track his daily sleep patterns and wakefulness. This entry supports a two week long sleep shift session that began earlier this week.The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance.
+Plant Habitat Desiccant Installation: The crew installed four desiccant packs onto the Plant Habitat growth chamber door to help remove humidity from the growth chamber. The Advanced Plant Habitat Facility (Plant Habitat) is a fully automated facility that will be used to conduct plant bioscience research on the International Space Station (ISS). It occupies the lower half of the EXpedite the PRocessing of Experiments to Space Station (EXPRESS) rack and two International Subrack Interface Standard (ISIS) drawers, providing a large, enclosed, environmentally controlled chamber.  
+Space Headaches: The crew completed the weekly questionnaire for the ESA Space Headaches investigation. The Space Headaches investigation collects information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission. 
+Earth Imagery from ISS Target Operations: The crew captured images and footage of Fitz Roy, Patagonia and Japan. The Earth Imagery from ISS investigation creates a series of videos, showcasing Earth from space. These videos will be taken with cameras on the International Space Station in 6K hi-resolution, then integrated into videos for screensavers for public enjoyment, exploration, and engagement. 
+51S Thruster test and descent drill:  Today the crew and ground teams performed a thruster test of 51Soyuz prior to its descent and landing planned for December 13th/14th.  The thruster test is performed within a week of undock and landing to verify nominal performance of the propulsion system prior to free flight.  The crew also performed a nominal descent drill to maintain proficiency prior to their return to Earth.
+Starboard Radiator Imagery:  Today, the crew took imagery of the Starboard Radiator to inspect for damage.  Two sets of images are taken, the first from one side, then the second after ground teams rotate the radiator 180 degrees.  This imagery is completed annually.
+LS1 Server Transition:  This evening, ground teams will complete the transition of the LS1 server to run on a new ZBook computer onboard station.  The server will run as a virtual machine under HyperVisor. 
+Fundoscope and Optical Coherence Tomography (OCT) Eye Exams:  The crew completed a routine OCT exam today.  Eye exams are performed regularly onboard in order to monitor crewmember’s eye health.  Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment. 
+CEVIS Manual Knob Activated Message – Yesterday, the crew reported that while they were exercising on the CEVIS, they got a message that said “Manual Knob Activated” and the software exited from the exercise protocol. Ground teams think the cause of the message is that the CEVIS braking band is intermittently sticking.  Today, a configuration file was updated to disable the “Manual Knob Activated” message to prevent interruptions to crew exercise.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Sleep Log Entry – Subject
+Telescience Resource Kit Laptop Shutdown
+SPHERES Battery Stow
+USOS Window Shutter Close
+Monitoring shutter closure on windows 6, 8, 9, 12, 13, 14.Note 5
+Download Pille Dosimeter Readings
+IMS Tagup
+Soyuz 736 [АСУ] Activation
+Crew Departure Preparations for Return to Earth
+HRF Generic Saliva Collection Setup
+Soyuz 736 СУДН No.2 Test Before Undocking
+Soyuz 734 IRIDIUM Phone Charging, Configuration Setup, Start charging
+Charging Soyuz 734 IRIDIUM Phone, Battery Status Check
+Soyuz 734 IRIDIUM Phone Charge, Terminate Charge, Teardown of the Setup, Flexible Container
+Environmental Health System (EHS) – Rad Detector Rotate
+IMS Update
+Environmental Health System (EHS) – Radiation Area Monitors (RAM) Retrieval
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+СОЖ maintenance
+JEM Camera Robot Disconnection and Stow
+Payload MSG Drawer Cleanup
+EMER-1a book change-out pages
+LBNP Training (PRELIMINARY)
+LBNP (ОДНТ) training (preliminary)
+Dragon Prepack
+EML. Gas Valves Closing
+Soyuz 736 descent OBT.
+INTER-MAI-75. HAM Radio Hardware Activation
+MATRYOSHKA-R. Inspection of holders and photography of protective screen
+Photography of FGB enclosures behind panels 220, 222, 420, 422
+Photo/TV Node 2 AVN443 HD Encoder Power Cycle
+Environmental Control and Life Support System (ECLSS) Portable Emergency Provisions (PEPS) Inspection
+Photo TV Starboard Radiator Imagery
+Soyuz Prepack
+Optical Coherence Tomography (OCT) Setup
+INTERP-MAI-75. Equipment deactivation and cleanup / r/g 7527
+Health Management System (HMS), Optical Coherence Tomography (OCT), Subject
+Earth Imagery from ISS Crew Conference
+LS1 TRANSITION CONFERENCE
+Space Headaches – Weekly Questionnaire
+OCT Equipment Stowage
+
+Completed Task List Activities
+
+Manufacturing Device Print Removal, Clean and Stow
+VEGGIE Science Kit Resupply
+AC Dry Vacuum Bag Return
+ESA PAO Message 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+LS1 transition to ZBook.
+Standard commanding.
+

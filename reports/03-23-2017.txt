@@ -1,0 +1,71 @@
+
+Space Headaches Questionnaire: The crew performed their weekly questionnaire, answering questions utilizing the Data Collection Tool.  This European Space Agency (ESA) investigation collects information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission. 
+MagVector Closeout:  The crew completed closeout and cleanup activities for Science Run#9 of MagVector. The run was initiated on March 16, 2016 and has been ongoing for a week. MagVector and the venting system will be subsequently deactivated until a new science run is initiated. Cleanup steps included verifying the experiment has finished and moving the external USB memory drive to an Space Station Computer (SSC) for downlink and powering off the MagVector. The investigation studies how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research not only helps improve future ISS experiments and electrical experiments, but it could offer insights into how magnetic fields influence electrical conductors in general – the backbone of our technology.
+Remote Power Control Module (RPCM) LAS52A3B-A RPC 4 Remove & Replace (R&R): On March 17, 2017, this RPC which powers Common Video Interface Unit (CVIU) 4 failed to close when commanded. The fault signature was indicative of a Field Effect Transistors (FET) Controller Hybrid (FCH) failure. The crew was successful in replacing the RPCM this morning, restoring functionality to RPC 4 and CVIU 4.
+Extravehicular Activity (EVA) #40 Preparations: The crew completed the following in preparation for tomorrow’s EVA:
+
+Configured 2 EVA GoPro cameras.
+Relocated Station Support Computers (SSCs) 8 and 9 in the US Lab for EVA video.
+Updated procedures in the EVA Systems Checklist book.
+Configured EVA tools.
+Performed procedures review followed by a conference with ground teams.
+Prepared Equipment Lock, EMUs, and required ancillary hardware.
+
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Test video recording for RT TV channel
+Preparation of Reports for Roscosmos Web Site and Social Media
+URAGAN. Observation and photography
+EKON-M. Observations and photography
+Biochemical Urine Test
+Extravehicular Activity (EVA) Reminder for On-Orbit Fitcheck Verification (OFV)
+NEUROIMMUNITET. Saliva Sample. Psychological Test (morning)
+Biochemical Urine Test
+NEUROIMMUNITET. Venous blood sample processing (smear).
+KORREKTSIYA. NEUROIMMUNITET. Venous blood sample processing using Plasma-03 centrifuge
+Insertion of Russian experiments blood samples into MELFI
+URISYS Hardware Stowage
+On MCC GO Regeneration of БМП Ф2 Micropurification Cartridge (start)
+Health Maintenance System (HMS) Periodic Health Status (PHS) Pre EVA Examination
+Changeout of Replaceable Condensate Removal Lines [СМОК]. 
+Replacing ИДЭ-3 Smoke Detectors in FGB
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+NEUROIMMUNITET. Psychological Test
+Relocate Station Support Computers (SSCs) 8 and 9 in the US Lab
+NEUROIMMUNITET. Hair Samples Collection
+Recharging Soyuz 733 Samsung PC Battery (if charge level is below 80%)
+In-flight Maintenance (IFM) LAB1S5 Remote Power Controller Module (RPCM) Remove and Replace
+BIOCARD. Experiment Session
+EVA Systems book and Extravehicular Mobility Unit (EMU) Cuff Checklist Print
+Extravehicular Activity (EVA) Tool Configuring
+PILLE dosimeter data download and placement before USOS EVA
+ISS HAM Service Module Pass
+Terminate Soyuz 733 Samsung PC Battery Charge (as necessary)
+Recharging Soyuz 732 Samsung PC Battery (if charge level is below 80%)
+USB Jumpdrive Return and PPS1 Reconfiguration
+RGN WSTA Fill
+Robotic Workstation (RWS) Setup
+Changeout of Replaceable Condensate Removal Lines [СМОК]
+Extravehicular Activity (EVA) iPad Contingency Procedures preparation
+Photo TV GoPro Setup
+MOTOCARD. Experiment Ops
+Extravehicular Activity (EVA) Procedure Review
+Equipment Lock (E-LK) Preparation
+RS Comm Panel Head set and PTT switch audit
+Terminate Soyuz 732 Samsung PC Battery Charge (as necessary)
+Extravehicular Activity (EVA) Tool Audit.
+INTERACTION-2. Experiment Ops
+Space Headaches – Weekly Questionnaire
+NEUROIMMUNITET. Saliva Sample. Psychological Test
+On MCC GO Regeneration Micropurification Unit (БМП) Ф2 Absorption Cartridge            
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+EVA preparation activities
+

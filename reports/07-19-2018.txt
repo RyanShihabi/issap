@@ -1,0 +1,96 @@
+
+Aerosol Samplers: Today the crew retrieved and stowed the sample cartridges from each deployed Active Aerosol Sampler (AAS) and connected the AASs to the battery charger. After the battery charge, the crew installed a sample cartridge and re-deployed one of the AASs in the US Laboratory. The second AAS had not taken a full charge and was stowed. The battery-powered AASs actively pull in air and collect particles using the principal of thermophoresis. This is accomplished by flowing the sampled air through a large thermal gradient in a narrow channel. During this process, particles are driven to the cold side of the channel, where an electron microscope (EM) grid is held in place by a tiny magnet. When returned to Earth, these grids are easily removed and placed directly in an EM for analysis. 
+Micro-11: Today the crew performed two sessions for the Micro-11 investigation. They checked out, configured and calibrated the Micro-11 microscope, thawed samples removed from a General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER), fixed those samples and loaded them into the microscope for imaging.  Afterwards, they inserted the samples into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  There are a total of thirteen runs for the Micro-11 investigation.  Micro-11 examines whether spaceflight alters human sperm, by tracking the swimming patterns of human and bull sperm during spaceflight. This investigation also assesses other aspects of sperm functionality related to male fertility. As a result, Micro-11 provides fundamental data indicating whether successful human reproduction beyond Earth is possible, and whether countermeasures are needed to protect sperm function in space.   
+Biomolecule Extraction and Sequencing Technology (BEST): Today the crew swabbed designated surfaces to collect samples and then used the Miniature Polymerase Chain Reaction (miniPCR) to extract DNA from the samples.  The samples were placed into a MELFI for future return.  The BEST investigation studies the use of sequencing for the identification of unknown microbial organisms living on the ISS, and how humans, plants and microbes adapt to living on the ISS. 
+MagVector 3D: The crew exchanged a MagVector 3D sample today. Twelve different samples will be processed on the ISS (1 per day).  ESA’s MagVector investigation supports a study of how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research is expected to help improve future ISS experiments and electrical experiments, and could offer insights into how magnetic fields influence electrical conductors in general. 
+Fluid Science Laboratory (FSL) Rack: This morning the crew installed the Soft Matter Dynamics (SMD) Experiment Container in the FSL rack. They attached four anti-vibration mount brackets and released the FSL Facility Core Element to allow it to free-float within the FSL rack. This configuration is required for the micro-gravity sensitive experiments performed in FSL. The FSL is a multiuser facility designed by the European Space Agency for conducting fluid physics research in microgravity. It can be operated as a fully automatic or semiautomatic facility and can be controlled onboard by the ISS crew or from the ground in telescience mode. Because these operations took longer than expected, the planned Extravehicular Mobility Unit (EMU) maintenance was deferred. 
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N): After retrieving the RaDI-N hardware from a Russian crewmember, a USOS crewmember deployed eight Space Bubble Detectors in Node 3. This Canadian Space Agency investigation measures neutron radiation levels in the ISS.  Bubble detectors are designed to only detect neutrons and ignore all other radiation. 
+Microgravity Investigation of Cement Solidification (MICS):  The crew retrieved a MICS ampoule kit from the ISS Portable Glovebag, broke the seal between the center and lower ampoules and pushed the alcohol in the lower ampoule to cover the hardened cement sample. They then stowed the samples for return. The MICS investigation supports the evaluation of microstructure and material properties of benchmark cement samples.  Different responses to thermal and mechanical loading are expected and will be characterized in detail.  Positive attributes found in the hardening process due to the microgravity environment aboard the ISS will be reported with the intent of improving Earth-based cement and concrete processing.
+Public Affairs Office (PAO) Live Events: There were two live PAO Events today.
+
+Serena Auñón-Chancellor participated in an event with the Wall Street Journal Digital Network for a podcast they are working on related to space medicine and how ISS contributes to advanced knowledge about long duration spaceflight.
+Ricky Arnold participated in an educational event with the NASA Stennis Space Center ASTRO CAMP® campers. The campers in attendance were 2nd -10th grade campers from Mississippi and Louisiana participating in the “ISS is for Everyone!” ASTRO CAMP®.
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic Urine Collection
+HRF Generic HRF Centrifuge Frozen Blood Collection
+BEST On-Board Training
+Aerosol Samplers Cartridge Removal
+HRF Generic Sample MELFI JAXA Operations
+HRF Generic Sample MELFI Insertion
+Progress 439 (DC1) Cargo Transfers and IMS Ops
+Aerosol Samplers Battery Charge
+PROFILAKTIKA-2. Preparation for the Experiment.
+Micro-11 Microscope Checkout
+Micro-11 Microscope Operations
+Node 1 Camcorder  Check
+Magvector 3D Sensor Array Sample Exchange
+Micro-11 Glacier Sample Removal
+MICRO-11 Thaw Operations
+Micro-11 Microscope Operations
+Wireless Compose Tagmotes Don
+PROFILAKTIKA-2. Experiment Ops on БД-2 Treadmill (MO-3 test in a passive mode)
+FSL Soft Matter Dynamics Experiment Container Installation
+BEST MWA Preparation
+PROFILAKTIKA-2. Closeout Ops.
+BEST MELFI Sample Retrieve
+BEST Experiment
+Micro-11 MELFI Sample Return Bag Insertion
+Recovery of Condensate Feed Unit (БПК).
+PROFILAKTIKA-2. Hygiene Procedures
+BEST Swabbing Operations
+Replacement of SM Caution & Warning Panel (ПСС).
+Team Task Switching Experiment Survey Subject
+СОЖ Maintenance
+FSL Facility Core Element release in preparation of SMD operations
+Wireless Compose Tagmotes Doff
+Aerosol Active Samplers Hardware Installation
+COSMOCARD. Preparing for and Starting 24-hr ECG Recording
+Wireless Compose SD Card Data Copy
+Microbial Tracking-2 Operations Review
+Mating telemetry connectors to SM Caution & Warning Panel (ПСС). 
+Aerosol Active Samplers Hardware Photography
+Microbial Tracking-2 Crew Conference
+Replacement of SM Caution & Warning Panel (ПСС).
+Dragon Cargo Operations Conference
+CONSTANTA-2. Cassette No.3-3 retrieval from ТБУ-В No.05 and setup on panel for a 1-hour warmup
+MATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors
+Extravehicular Mobility Unit (EMU) Full Water Tank Dump and Fill [Deferred]
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters to USOS
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure
+CONSTANTA-2. Preparation and Execution 3.
+Manufacturing Device Print Removal, Clean and Stow
+HRF Generic Urine Collection Stow
+Polar Desiccant Swap
+Radio Frequency Identification Logistics Reader Removal/Replacement [Deferred]
+Polar Desiccant Swap
+Active Tissue Equivalent Dosimeter Card Downlink
+IMS Update
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+PILOT-T. Experiment Ops. 
+Verification of ИП-1 Flow Sensor Position
+Node 1 HDSDI Cable Swap
+BEST MiniPCR Sample Removal and Stow
+Electrocardiogram (ECG) Device- Activation and Checkout (ACO)
+Photo/TV RED Dragon Battery Charger Deploy
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+Microgravity Investigation of Cement Solidification (MICS) 3 Ampoule Mix Ops
+Changeout of Dust Filter ПФ1-4 Cartridges in SM
+
+Completed Task List Activities:
+
+SM Printer Swap
+SM Printer Connect
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+JEMRMS commanding
+BEST support
+Micro-11 support
+

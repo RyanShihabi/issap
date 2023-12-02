@@ -1,0 +1,146 @@
+
+CBEF-L (Cell Biology Experiment Facility-L): The crew continued to trouble shoot the equipment installation. Cell Biology Experiment Facility-L (CBEF-L) is a Japan Aerospace Exploration Agency (JAXA) new subrack facility, which is an upgraded facility of the original Cell Biology Experiment Facility (CBEF) currently aboard the International Space Station (ISS). CBEF-L provides new capabilities with additional new resources such as Full High Definition video interface, Ethernet, 24 VDC power supply, and a larger diameter centrifugal test environment. By using the original CBEF and CBEF-L as one facility for the same experiment, the payload user is provided with an upgraded experimental environment that can handle the processing of more experimental samples for a wider array of experiments.
+Alpha Magnetic Spectrometer – 02 (AMS): The crew reviewed AMS EVA procedures. AMS-02 is a state-of-the-art particle physics detector that uses the unique environment of space to advance knowledge of the universe and lead to the understanding of the universe’s origin by searching for antimatter, dark matter and measuring cosmic rays.
+Rodent Research-17 (RR-17): The crew stowed the spare Rodent Habitat that was used for acoustic noise testing.  RR-17 uses younger and older mice as model organisms to evaluate the physiological, cellular and molecular effects of the spaceflight environment. Some responses to spaceflight in humans and model organisms such as mice resemble accelerated aging. This investigation provides a better understanding of aging-related immune, bone, and muscle disease processes, which may lead to new therapies for use in space and on Earth.
+Systems:
+HII Transfer Vehicle (HTV)-8 Cargo Operations and ISS Outfitting: This week, the crew will continue to focus on HTV8 cargo operations in preparation for HTV8 close out and departure late next week.  This included performing a stowage rack swap that moved two Resupply Stowage Platforms (RSP) and a Resupply Stowage Rack (RSR) from the ISS Permanent Multipurpose Module (PMM) to the HTV vehicle in exchange for the installation of two Zero-G Stowage Racks (ZSR) shells in the PMM.  This reconfiguration of the PMM will increase overall stowage capacity and volume efficiency in the PMM than the previous configuration.
+USOS Extravehicular Activity (EVA) Post EVA Operations:  Following last Friday’s USOS EVA#58, today the crew performed some clean-up procedures on the Extravehicular Activity Mobility Units (EMU). This procedure involved performing a water loop scrub on two EMU suits and treating them with an iodinated biocide, which helps maintain the EMUs for the next EVA.  Additionally, the crew completed the Airlock restow activity.
+Node 1 Galley Rack:  Early yesterday morning, the Node 1 Galley Rack experienced an electrical power overcurrent event.  Therefore, due to issues with the Node 1 Galley Rack power draw, ground teams worked with the crew to relocate the Potable Water Dispenser (PWD) from the Node 1 Galley Rack to Express Rack 8 in the US Lab.  In addition, the crew’s food warmer was moved from the Russian Segment to Node 1.  While ground teams continue to troubleshoot the Node 1 Galley Rack overcurrent event, the relocations allow the crew to keep using the PWD and the food warmer.
+Completed Task List Activities:
+
+Food Warmer Relocate
+PWD Gather
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Support Operations
+
+Look Ahead:
+
+Thursday, 10/24 (GMT 297)
+Payloads:
+
+
+AMS Procedure Review (NASA)
+VEG04B Plant check and MMD procedure review (NASA)
+CIR IPSUG-R&R (NASA
+PCG-19 Ops (NASA)
+Story Time in Space HISD Photo (NASA)
+PL NAS Deep Clean (NASA)
+Rodent Research-17 Inventory Audit (NASA)
+NanoRacks HW consolidate (NASA)
+BEST Sample Transfer 2 (NASA)
+ISS HAM PASS (NASA)
+
+Systems:
+
+AMS Procedure Review
+AMS Handrail Training
+AMS Top Spacer Tool Training
+AMS Hex Capture Training
+AMS Debris Shield Handling Training
+AMS Socket Capture Training
+HTV8 Cargo Ops 
+
+Friday, 10/25 (GMT 298)
+Payloads:
+
+
+VESSEL ID system Deinstall (ESA)
+Myotones Measurements (ESA)
+Cerebral Autoregulation measurement (JAXA)
+FIR-ACE-T6 Module reconfig (NASA)
+Food Acceptability (NASA)
+LTE HW consolidate (NASA)
+Standard Measures (NASA)
+LSG WV fan replace (NASA)
+VEG-04B MMD Calibrate and ops (NASA)
+ISS HAM (NASA) 
+
+Systems:
+
+EVA Metox
+HTV Cargo Transfer
+WHC WVB R&R
+S&M PMM1S2 ZSR Install 
+
+Saturday, 10/26 (GMT 299)
+Payloads:
+
+
+VEG-04B Plant check (NASA)
+Standard Measures (NASA)
+
+Systems:
+
+No planned activities
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Probiotics Saliva Operations
+Probiotics Saliva Sample MELFI Insertion
+XF305 Camcorder Setup
+SAIBO Cell Biology Experiment Facility Left (CBEF-L) Control Equipment 2 Insertion
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+ESA Weekly crew conference
+VIZIR. Installation of Coordinate Referencing-Smart Shelf СКПФ-УМ Science Equipment.
+Cleaning of gas-liquid heat exchangers 1,2,3 (ГЖТ) screens in FGB
+Health Maintenance System (HMS) – ESA Nutritional Assessment
+Cleaning ventilation screens on FGB interior panels 116, 316, 231, 431
+ESA Monthly Management Conference
+Probiotics Question
+ISS HERA Power Cable Check
+US Extravehicular Activity (EVA) Tether Inspect
+Cell Biology Experiment Facility Left (CBEF-L) Incubator Unit  Insertion
+Potable Water Dispenser Hose Purge
+Cleaning FGB ЦВ1 Circulation Fan Protective Screen
+Potable Water Dispenser Relocate
+Vacuum cleaning of FGB pressurized adapter
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Iodination
+Zero-G Stowage Rack (ZSR) Stowage Move
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Structures and Mechanisms Permanent Multipurpose Module Deck 2 Zero-G Stowage Rack Installation
+Structures and Mechanisms Permanent Multipurpose Module Deck 2 Zero-G Stowage Rack Assist
+Nikon still camera sync to station time
+PROBOY. Connecting Acoustic Signal Converter Unit (БПАС) power cable to РБС outlet
+PROBOY. Updating Proboj SW on RSE1 laptop.
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+Zero-G Stowage Rack (ZSR) Resupply Stowage Platform (RSP) Stowage Relocate
+PROBOY. БПАС activation, SW upgrade and network configuration.
+Private Psychological Conference (PPC)
+PROBOY. RSЕ1 Laptop Ops.
+PROBOY. Penetration Simulator Ops.
+Private Medical Conference (PMC)
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Structures and Mechanisms Permanent Multipurpose Module Starboard 2 Resupply Stowage Platform Transfer
+Acoustic Monitor Data Transfer and Stow
+Structures and Mechanisms Resupply Stowage Platform Transfer Assist
+Central Post Laptop Quarterly Maintenance Ops, Start Test 1. PROBOY. Copy and Downlink Data
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Weekly monitoring of video recording equipment performance on the ISS RS
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ (flush water container)
+PAO Preparation
+Transfer Operations – Pack and stow items on HTV
+Scheduled Quarterly Maintenance of Central Post Laptop, end test 1 and start test 2. Creating reports.
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Transfer Operations – Pack and stow items on HTV
+Food Physiology Crew Diet Briefing
+СОЖ maintenance
+Central Post Laptop Quarterly Maintenance Ops, Start Test 3. Progress 442 (DC1) Rodnik Tank 1 Connector В1 Flush
+Extravehicular Activity (EVA) Air Lock Deconfiguration
+VEG-04B Plant Check/Watering for each Plant Pillow
+AMS Procedure/video review
+Central Post Laptop Quarterly Maintenance Ops, end test 3 and start test 4.
+Air Heater Fan [БВН] Screen Cleaning in Soyuz 746
+Extravehicular Activity (EVA) Airlock Restow
+URYSIS Hardware Setup
+Rodent Research Habitat Restow
+Metal Oxide (METOX) Regeneration Initiation
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Quarterly Maintenance of Central Post Laptop, End of test 4 and Closeout Ops. HRF Veg Profile of Mood States Questionnaire
+
+ 

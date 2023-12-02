@@ -1,0 +1,22 @@
+
+Payloads
+Life Sciences Glovebox (LSG): The crew installed the LSG crew restraint hardware and deployed the LSG Work Volume. The crew also replaced the 10 inch LSG sleeves. LSG is a sealed work area that accommodates life science and technology investigations in a “workbench” type environment. Due to its larger size design, two crew members can work in the LSG simultaneously.
+NanoRacks Platforms: The crew removed Module 73 from Plate Reader 2. NanoRacks Platforms is a multipurpose research facility on board the ISS. NanoRacks Platforms supports NanoRacks Modules in the CubeSat form factor by providing power and data transfer capabilities to operate investigations in microgravity.
+Robo-Pro Challenge: The crew supported the final rounds of the Kibo Robot Programming Challenge which involved prepping, positioning and releasing the Astrobee Free Flyers. Kibo Robot Programming Challenge (Robo-Pro Challenge), also known as Kibo-RPC, allows students to create programs to control Astrobee, a free-flying robot aboard the International Space Station (ISS). This opportunity provides hands-on experience with science, technology, engineering and mathematics in space and inspires the next generation of explorers. This activity is based on Japan-U.S. cooperation through the Japan-US Open platform Partnership Program (JP-US OP3).
+Systems
+Sokol Suit Leak Checks:  In preparation for their return to earth on October 22, all three crew members donned their Russian Sokol launch and entry suits in order to perform standard leak checks.  All leak checks were completed successfully.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: Crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Mobile Servicing System (MSS) Operations: Yesterday, the Robotics Ground Controllers (ROBO) powered up the MSS and swapped the Robotics Work Stations (RWS) to pickup MSS files uplinked on GMT 280. The Space Station Remote Manipulator System (SSRMS) was commanded to release the NG-14 Grapple Fixture (GF) and was walked off to the Lab GF and finally to the Russian FGB GF. After completing the walk off, the Soyuz vehicle survey was performed with the SSRMS tip Latching End Effector (LEE) camera. The SSRMS was walked off back to the Lab GF and maneuvered to park. Finally, early this morning, the Mobile Transporter was translated from Work Site 3 (WS 3) to WS 7 in preparation for for RRM3 operations later this month. MSS performance was nominal.
+Completed Task List Activities:
+
+Transfer 62S USOS prepack (ongoing)
+Transfer Cygnus Cargo Operations (ongoing)
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+ATS PPL Update
+SMCC Data Dump
+PMA3 Heater Test Term
+Thermal Amine Weekly Vent
+

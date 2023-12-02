@@ -1,0 +1,93 @@
+
+Cell Mechanosensing (CMS)-1 Fixation: Commander (CDR) Wakata removed four Experiment Measurement Units from the Cell Biology Experiment Facility (CBEF) Incubator Unit (IU) 1G and four units from the microgravity CBEF IU. He used RNAlater and Measurement Experiment Solution Exchanger to fix the samples for return on SpX-3. CMS-1 identifies gravity sensors in skeletal muscle cells and helps develop countermeasures to muscle atrophy, a key space health issue. Scientists believe that the lack of mechanical stress from gravity causes tension fluctuations in the plasma membrane of skeletal muscle cells, in turn, changing the expression of key proteins and genes and allowing muscles to atrophy. Muscle cells from rats and kidney cells from African clawed frogs are given fluorescent gene markers and then attached to an extracellular matrix under different tensions.
+Biochemical Profiles: Flight Engineer (FE)-3 Swanson collected blood and urine samples for Biochemical Profiles. The experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Payload Water Reservoir (PWR) Fill:  FE-5 Mastracchio filled 5 PWRs from the Water Processing Assembly (WPA). This activity is In preparation for the 3 US EVAs that are planned for this summer,
+Optical PAyload for Lasercomm Science (OPALS): Yesterday Robotics Ground Controllers maneuvered the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) to grapple the OPALS payload and remove it from the SpaceX-3 Dragon trunk.  After five unsuccessful attempts to achieve an indication of secure grapple, the decision was made to leave OPALS fastened down, mated, and powered in the Dragon Trunk.
+Today ground specialists met and concluded that the issue likely stems from the manipulator software settings being derived from a previous set of OPALS grasp fixture drawings with tighter tolerances.  Specialists will update the on-orbit configuration files to widen the tolerance in the settings to match the fixture used on OPALS.  A second extraction attempt is targetted for Monday May 5th.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot / Onboard Computer System (БВС) [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+HRF Saliva Sample Collection [Complete]
+REMINDER – Reading Reminder [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+HRF Urine Sample Collection [Complete]
+HRF – Sample MELFI Insertion [Complete]
+HRF – Refrigerated Centrifuge power on and preparation for blood collection [Complete]
+HRF. Blood Draw [Complete]
+HRF – Centrifuge Configuration [Complete]
+Daily Planning Conference (S-band) [Complete]
+SHD – Weekly Questionnaire [Complete]
+HRF – Crew removes blood tubes and powers off the Refrigerated Centrifuge [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+HRF Blood Collection Hardware Stowage [Complete]
+PETRI – Turning Lights On [Complete]
+BRI Log Dump from RSS1 [Complete]
+WRS – Payload Water Reservoir (PWR) Fill Part 1 [Complete]
+СОЖ Maintenance [Complete]
+USND2 – Hardware activation [Complete]
+OH – Hardware Setup [Complete]
+VIRTUAL. Setup, Conduct Experiment and Closeout Ops / r/g 5531 [Complete]
+WRS – Payload Water Reservoir (PWR) Fill Part 2 [Complete]
+OH – Ocular Health Cardiac Echo Nominal Operations Assistance  [Complete]
+SEINER. Observation and Photography r/g 5524 [Complete]
+WRS – Payload Water Reservoir (PWR) Fill Part 3 [Complete]
+CMS – Sample Fixation [Complete]
+HRF – Stow Urine Collection Equipment [Complete]
+WRS – Payload Water Reservoir (PWR) Fill Part 4 [Complete]
+ТКГ 427 (DC1) Transfers and IMS Ops / ТКГ r/g 5317 [Complete]
+WRS – Payload Water Reservoir (PWR) Fill Part 5 and Termination [Complete]
+ISS RS ППС-26 and ППС-31 Plug-in Audit / r/g 5514 [Complete]
+ТК 710 Transfer Ops / r/g 5463, 5266, 5526 [Complete]
+CMS – Sample Fixation [Complete]
+IMS Update [Complete]
+CMS  Kit Insertion into MELFI [Complete]
+JEM CO2 Supply Stop [Complete]
+OCT Hardware Setup [Complete]
+Crew Departure Prep [In work]
+BAR. Experiment Ops. r/g 5528 [Complete]
+Food Frequency Questionnaire [Complete]
+OCT Exam – Subject [Complete]
+OCT Exam – Operator [Complete]
+Potable Water Dispenser (PWD) Sampling[Complete]
+OCT Exam – Subject [Complete]
+Power-ON SSC5 and 9 [Complete]
+SHD – Weekly Questionnaire [Complete]
+Ultrasound – Scanning Prep [Complete]
+SHD – Weekly Questionnaire [Complete]
+Ultrasound Scanning – Subject [Complete]
+PAO Hardware Setup [Complete]
+Ultrasound Scanning – Operator [Complete]
+Crew Prep for PAO [Complete]
+ISS RS ППС-26 and ППС-31 Plug-in Audit / r/g 5514  [Complete]
+PAO Event [Complete]
+ТК 711 Transfer Ops / r/g 5463, 5266, 5526 [Complete]
+Ultrasound – equipment stowage [Complete]
+Ultrasound Data Export  [Complete]
+OCT Hardware Stow [Complete]
+PETRI – Measurement and Photography [Complete]
+USND2 – Ultrasound2 Hardware Power Off  [Complete]
+
+Task List
+
+ARED Cylinder Evac
+IFM Sabatier purge
+WHC KTO Replace [Complete]
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+37S US prepack [In work]
+EMU 3005 photos
+XFER Dragon Cargo Ops [In work]
+Dragon CWCI pack [Complete]
+Crew departure prep
+Data prep return
+NOD1OS2 LHA R&R
+M-01 bag relocation
+ST ISS Read
+
+Ground
+
+Nominal commanding
+

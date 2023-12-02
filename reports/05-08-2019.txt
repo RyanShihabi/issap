@@ -1,0 +1,137 @@
+
+Fluid Shifts (Chibis): A crewmember performed the first of two days of Lower Body Negative Pressure (LBNP) data collection. This week, two crewmembers will each perform two days of LBNP data collection. Although issues were reported with data collection for the Cerebral and Cochlear Fluid Pressure (CCFP) tympanometry, this is used to support interpretation of other CCFP measurements and is not a loss of science.  Fluid Shifts is a NASA investigation, divided into Dilution Measurements, Baseline Imaging, and Imaging with Chibis. The Chibis hardware is used to perform the LBNP part of the experiment. The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronauts’ eyes.  Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a LBNP device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and prevention of eye damage.
+Kidney cells: The crew transferred the powered Kidney Cells hardware from the Dragon to the appropriate Space Automated Bioproduct Laboratory (SABL) locations. Effects of Microgravity on the Structure and Function of Proximal and Distal Tubule Microphysiological System (MPS), or Kidney Cells, examines how kidney health is affected by microgravity and other factors of space travel, including increased chemical exposure, water conservation and recycling, and altered dietary intake. Serious medical conditions caused by poor kidney health including protein in the urine (proteinuria), osteoporosis, and kidney stones occur more often and more quickly in space. Knowledge gained can help protect the health of astronauts and contribute to better treatments for kidney related conditions on Earth. 
+JAXA Low Temp Protein Crystal Growth (PCG) Sample Prep:  The crew retrieved the PCG sample from FROST and started the protein crystal growth with historical documentation of the current sample conditions.  The objective of this investigation is to grow high quality protein crystals in microgravity. The crystals are returned to Earth to determine protein structures in detail and are used to develop pharmaceutical drugs, and to explore the mystery of our lives. The protein samples are launched to the ISS via the Dragon vehicle, and crystallized at 4℃ using the counter-diffusion method. 
+Microalgae: This morning, the crew performed the daily mixing of individual culture bags and deployed them at the appropriate location.  At the end of the day, they stowed the bags, which provides the dark cycle for the algae.  Microalgae Biosynthesis in Microgravity (MicroAlgae) studies the effects of microgravity on Haematococcus pluvialis, a tiny freshwater algae capable of producing a powerful antioxidant known as astaxanthin. It could provide a readily available dietary supplement to promote astronaut health on long-duration space exploration missions. This research was proposed by a community college student and alumna of the NASA Community College Aerospace Scholars (NCAS) program.
+Micro-14 Inoculation and Sampling:  The crew performed inoculation operations of both 12-well Biocell plates. They also took samples from one of the 12-well Biocell plates using the MSG (Microgravity Science Glovebox) facility.  The Micro-14 (Characterizing the Effects of Spaceflight on the Candida albicans Adaptation Responses) life science research mission will investigate and evaluate the responses of the C. albicans, a type of yeast, to microgravity conditions and, in particular, to assess changes at the physiological, cellular, and molecular level and to characterize virulence factors. 
+PAUL (Powered Ascent Utility Locker) Hardware Installation: The crew installed the PAUL in the Basic EXPRESS Rack in the JEM, and mated the power and data cables. The ground then powered up the facility and performed a checkout. The PAUL is reconfigurable hardware that provides power to payloads during ascent to the ISS. That makes it possible to control temperature and other conditions for investigations during their trip to the ISS, expanding the possibilities for research aboard the orbiting laboratory. 
+RR-12 (Rodent Research-12): In support of RR-12, today the crew calibrated the MMD (Mass Measurement Device), and performedmass measurements on the appropriate mice from Habitats 3 and 4.  Rodent Research-12, Tetanus Antibody Response by B cells in Space (TARBIS), examines the effects of spaceflight on the function of antibody production and immune memory. Spaceflight is known to have a dramatic influence on immune response, but there is little research on its effect following an actual challenge to the body’s immune system. Using a mouse model makes this possible, as the mouse immune system closely parallels that of humans.
+Mobile Servicing System (MSS) Operations: Yesterday evening, the MSS was configured for SpX-17 Dragon cargo operations. The Space Station Remote Manipulator System (SSRMS) was powered up and the Mobile Transporter (MT) translated from Worksite (WS) 3 to WS6. The SSRMS released from Dragon and maneuvered to and grappled the Special Purpose Dexterous Manipulator (SPDM). The SPDM was maneuvered to the Dragon trunk where a trunk survey was performed with no issues noted. After the survey, the SSRMS was maneuvered to a park position. Dragon external cargo operations will commence Thursday evening. 
+On-Board Training (OBT) Dragon Capture Debrief: FE-2, FE-5, FE-6 and ground teams completed a debrief covering Monday’s Dragon capture and berthing.
+Dragon Cargo Transfer Status:  Currently the crew has completed 18 hours, 45 minutes of cargo transfer. Approximately 8.5 hours of transfer remain to be performed.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Rodent Research ops
+Kidney cells unpack
+
+Look Ahead:
+Thursday, 05/09 (GMT 129):
+Payloads:
+
+BCDU JOTI reconfig
+CSA/Bioanalyzer
+Fluid Shift setup
+Kidney Cells
+Microalgae
+Micro-14
+MISSE MTT remove
+PCG-14
+POLAR desiccant swap
+RR access unit clean and hab restock
+Staars Bioscience 3 EC remove
+Team Task Switching
+
+Systems:
+
+MISSE JEMAL ops
+EVA battery charging
+EVA METOX regen
+
+Friday, 05/10 (GMT 130):
+ Payloads:
+
+CSA/Bioanalyzer
+CIR manifold bottle replacement
+Cryochiller desiccant exchange
+Fluid Shifts Chibis ops
+Food Acceptability
+ISS HAM pass
+ISS Experience
+Kidney Cells
+Microalgae
+
+Systems:
+
+
+VHF comm checks
+JEMAL depressurization/vent
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Little Inventors winning photos
+Medical kits inventory
+Recharging Samsung tablet in 57S
+LSG Crew Restraint Installation Subsequent (Primary)
+MELFI Inoculation Kit Remove
+Powered Ascent Utility Locker Hardware Installation
+Micro-14 BioCell Inoculation in MSG
+LSG Work Volume Deploy
+On-Board Training (OBT) Dragon Emergency Review
+MICRO ALGAE Culture Bag Daily Deploy
+On MCC GO Regeneration of Micropurification Unit (БМП) Ф2 Cartridge (start)
+FLUID SHIFTS. Comm configuration for the experiment
+XF305 Camcorder Setup
+FLUID SHIFTS. Gathering and Connecting Equipment for TV coverage
+JAXA LT PCG Sample Preparation
+Fluid Shifts OCT2 Service Module Setup Alternate
+FLUID SHIFTS. Connecting HRF PC3 Laptop (in lieu of RSE1)
+MRM1 fan (group B) screen cleaning, cleaning behind panels 405, 406
+Fluid Shifts OCT2 Service Module Power On
+MELFI Inoculation Kit Remove
+Fluid Shifts CCFP Service Module Configuration
+Micro-14 BioCell Inoculation in MSG
+Coliform Water Sample Analysis 44 +/- 4 hours post processing
+Fluid Shifts DPOAE Service Module Setup
+FLUID SHIFTS. Donning CHIBIS set
+FLUID SHIFTS. Assistance with LBNP vacuum set (ПВК) CHIBIS and [KMA-01] Medical Hardware Set operations
+Fluid Shifts Tonometry Service Module Setup
+Fluid Shifts Experiment Service Module Data Collection Operator
+Fluid Shifts Experiment Service Module Data Collection Subject
+Rodent Research Polar Sample Removal
+Rodent Research Mass Measurements and Intraperitoneal Injections-3
+FLUID SHIFTS. Doffing CHIBIS vacuum set
+Fluid Shifts CCFP DPOAE Service Module End
+Actiwatch Plus Evaluation Display Check
+Fluid Shifts OCT2 Service Module Power Off
+Rodent Research Foodbar Changeout
+Fluid Shifts Tonometry Service Module Stow
+FLUID SHIFTS. Connecting Laptop RSE1 (in lieu of HRF PC3)
+FLUID SHIFTS. Disconnecting SSC1 from Ethernet
+Fluid Shifts OCT2 Service Module Stow
+FLUID SHIFTS. De-route US inverter from СУБА and cable assembly
+Fluid Shifts CCFP HRF PC Service Module Stow
+Dragon F5A2 Locker Removal
+FLUID SHIFTS. Deactivation of КСПЭ Equipment and Closing Applications on Central Post SSC
+JAXA Mouse Mission Item Gathering
+FLUID SHIFTS. Comm reconfig for nominal ops
+СТТС Configuration for MRM1
+SEPARATION. Test water distillation
+Micro-14 BioCell Sampling in MSG
+Postsleep Payback
+Rodent Research Mass Measurements and Intraperitoneal Injections-4
+Rodent Research Polar Sample Removal
+Rodent Research Mass Measurements and Intraperitoneal Injections-4B
+Rodent Research Foodbar Changeout
+BIOCELL MELFI Insert
+Food Acceptability Questionnaire
+Kidney Cells Transfer from Dragon
+Restow Vestibule Outfitting Kit (VOK)
+Mass Measurement Device Hardware Stow
+Dragon Lithium Hydroxide (LiOH) Filter Bag Removal
+JAXA Mouse Mission Compact Flash Memory Card 64GB data transfer.
+XF305 Camcorder Setup
+Glove Box Cleaning
+Glove Box Gloves Replacement
+Onboard Training (OBT) Dragon Debrief Conference
+LSG Work Volume Stow
+MICRO ALGAE Culture Bag Daily Stow
+
+ 

@@ -1,0 +1,25 @@
+
+Payloads:
+Behavioral Core Measures (BCM): The crew performed two BCM research sessions consisting of a set of 12 runs/tests each.  The Standardized Behavioral Measures for Detecting Behavioral Health Risks during Exploration Missions (Behavioral Core Measures) experiment initially examined a suite of measurements to reliably assess the risk of adverse cognitive or behavioral conditions and psychiatric disorders during long-duration spaceflight, and evaluated the feasibility of those tests within the operational and time constraints of spaceflight for two crewmembers. Subsequent subjects perform a subset of the original activities to measure the performance capabilities of deconditioned crew members to complete either individual or crew telerobotic operations within the first 24 hours after landing. This information could help characterize what tasks a crewmember who has spent months in weightlessness can reasonably be expected to perform after landing on the surface of Mars.
+Grip: The crew participated in the Grip supine science-3 sessions.  These sessions have same experiment tasks as the seated science-2 sessions, but in the supine position.  The Grip experiment studies the long-duration spaceflight effects on the abilities of human subjects to regulate grip force and upper limbs trajectories when manipulating objects during different kind of movements: oscillatory movements, rapid discrete movements and tapping gestures.
+Microgravity Science Glovebox (MSG)/Transparent Alloys:  The science sample cartridge and full data disk were exchanged to allow the continuation of the experiment series. Transparent Alloys consists of numerous experiments including the study of various growth and solidification processes in alloys. Columnar-to-Equiaxed Transition in Solidification Processing (CETSOL), the current experiment series, is designed to identify growth regimes (columnar or equiaxed or mixed) and physical mechanisms in dependence of the experimental parameters (solidification velocity, temperature gradient) for diffusive heat and mass transport and without gravity effects.
+Photocatalyst: The crew checked that no items are blocking the intake fans of the Photocatalyst experiment hardware, which is set up in Node 3. Photocatalyst demonstrates the use of a photocatalyst device to clean the cabin air and remove odor caused by volatile organic compounds (VOCs). The device converts VOCs into carbon dioxide and water. The device and a non-photocatalyst control device will operate for at least four weeks before returning to Earth for analysis of the photocatalyst device’s effectiveness.
+Standard Measures (SM): Multiple samples were collected, and post-sleep questionnaires filled out in support of the SM investigation. The aim of the investigation is to ensure consistent capture of an optimized, minimal set of measures from crewmembers until the end of the ISS Program in order to characterize the adaptive responses to and risks of living in space. Among other things, the ground teams perform analyses for metabolic and chemistry panels, immune function, microbiome, etc. These measures populate a data repository to enable high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes and support future research on planetary missions.
+Veggie/XROOTS (eXposed Root On-Orbit Test System):  Big Picture words were reviewed and an XROOTS facility check was performed.  Although some earlier difficulty was encountered with water migrating past the root area, the team believes they are making progress in resolving the issue.  The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media.  Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Systems:
+Resupply Air Tank (RST) Venting:  Today, two Resupply Air Tanks were vented into the PMM module.  Resupply Air Tanks are Commercial Off-The Shelf (COTS) standard scuba tanks pressurized with air that vent directly into the cabin to help support the ISS pressure profile.  NG-17 brought up 12 Resupply Air Tanks.
+Cygnus Cargo Operations:  Crew performed cargo transfer operations for Cygnus NG-17.  NG-17 is scheduled to unberth on May 29 after 98+ days attached to the Node 1 Nadir port.  Cygnus arrived with 3797 kg of supplies and utilization to the ISS on February 21.
+Completed Task List Activities:
+
+ESA-NG17-TRASH GATHER
+CST-IMV-DUCT-INSPECT
+P/TV-D5 BATT-SWAMP
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+ESA video system maintenance
+PRO EXPRESS Rack Remote Desktop Commanding
+BEAM (Bigelow Expandable Activity Module) LGU (Limited Ground User) Data Download
+GNC-1 MDM swap to primary
+

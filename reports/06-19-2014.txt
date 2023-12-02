@@ -1,0 +1,132 @@
+
+Russian Extravehicular Activity (EVA) #38: EV1 Skvortsov and EV2 Artemiev successfully performed a 7 hour 23 minute EVA today.  All of the planned tasks were completed:
+
+Installed [АФАР] antenna of [EKTC] (comm system) on SM conical section
+Relocated “Obstanovka” [ПВК-2] unit along SM handrails
+Verified operating condition of SM plane IV [УРM-Д] fasteners
+Performed experiment “Test” on Window #2 of SM large diameter
+Removed and jettisoned MPAC&SEED frame from SM large diameter
+Installed Payload Boom on SM large diameter
+
+During the EVA, Commander (CDR) Swanson was isolated in the Mini Research Module (MRM)-2/38S.  He performed a photography survey of 3A Solar Array (SA) Flat Collector Circuit (FCC) and a photo survey of the starboard Solar Array Wing masts.  Flight Engineer (FE)-4 Suraev, FE-5 Wiseman, and FE-6 Gerst had access to all modules forward of the Service Module (SM) / Docking Compartment (DC)1.
+Sprint: Wiseman completed his Flight Day (FD) 15 Sprint Volume of Oxygen Utilized (VO2) protocol using the Blood Pressure (BP)/Electrocardiogram (ECG) hardware. Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in International Space Station (ISS) crewmembers during long-duration missions.
+Space Acceleration Measurement System (SAMS) Control Unit (CU) Hard Drive Swap: Following a Remote Power Control Module (RPCM) maintenance activity on June 5th, ground teams were not able to communicate with the SAMS laptop. Yesterday, the crew attempted to reseat the hard drive to regain functionality of the laptop which was unsuccessful. Today Wiseman swapped the hard drive in the SAMS CU laptop and communication was re-established with the SAMS laptop. SAMS is back to nominal operations.
+Capillary Flow Experiment (CFE) Operations: Gerst set up hardware on the Maintenance Work Area (MWA) and conducted an ICF test using the ICF5 hardware which contains a square shaped rectangular section, equally divided into four smaller sections. Wiseman shadowed Gerst during hardware setup and the beginning of the test to train him for the next session. CFE ICF studies capillary flow in interior corners of vessels with various geometries. Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can be used to improve propellant management aboard spacecraft.
+Burning and Suppression of Solids (BASS)-II Cable Troubleshoot: On Monday, the BASS monitors stopped displaying the experiment video and still camera images after completing four flame tests. The BASS video monitor is specific to the BASS investigation and displays fuel, air, and fan readings during test burns. Today Wiseman conducted troubleshooting of the BASS-II video cable connector by taking conductivity measurements of the video cable. The ground team is reviewing the data from today’s activities to determine forward actions.
+Today’s Planned Tasks
+
+RSS1,2 Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) Test [Complete]
+Biochemical Urine Test prior to EVA [Complete]
+S/G2 Config in MRM2 / r/g 5904 [Complete]
+Daily Planning Conference (S-band) [Complete]
+Move Onboard Computer System [БВС] to US Lab, r/g 5900 [Complete]
+Move SSC to MRM2 [Complete]
+MRM2 Configuration for EVA 38 / r/g 5904 & 5907 [Complete]
+DC1 and ПхО config for EVA /  r/g 5906 [Complete]
+Elektron-VM Purge After Deactivation [Complete]
+СОЖ Maintenance [Complete]
+CUCU – Verify that CUCU is Off  prior to EVA [Complete]
+SPRINT – Hardware Setup [Complete]
+Laptop and WAP Deactivation in SM / r/g 5896 [Complete]
+Spacesuit Systems Checkout [Complete]
+CIR – Hardware Setup [Complete]
+Deactivation ППС-26 and ППС-31 toggle switches  / r/g 5896 [Complete]
+Removal of Air Duct and РО-ПрК Hatch protective ring, Closure of РО-ПрК Hatch [Complete]
+Checkout of БСС (Spacesuit Interface Unit) in DC1 [Complete]
+Checkout of БСС (Spacesuit Interface Unit) in ПхО [Complete]
+BLR48 – Memory Card Replacement. [Complete]
+ECLSS Wastewater Storage Tank Assembly (WSTA) Fill [Complete]
+DC1 БК-3М Check [Complete]
+Comm config before EVA, reconfiguring ПСС (C&W) panel [Complete]
+USOS Window Shutter Close [Complete]
+Pre-EVA ISS Onboard Systems Configuration / r/g 5905 [Complete]
+CFE-ICF – Test Payload Review [Complete]
+Orlan, БСС, comm, and biomed parameter telemetry check [Complete]
+ESA Weekly Crew Conference [Complete]
+PTV – gather equipment for USOS SA photography [Complete]
+RST – Sample Retrieval [Complete]
+ISS HAM Radio Power Off [Complete]
+Orlan and БСС (Orlan interface unit) Final Inspection prior to entering Orlan [Complete]
+SSC – Connecting in MRM2 [Complete]
+EVA Gear Donning [Complete]
+Relocate and configure an SSC, in preparation for subsequent activity with EMU [Complete]
+Terminate EMU LLB Battery Autocycle [Complete]
+Air duct disassembly in DC1 (without removal of B3 fan) [Complete]
+USOS camera configuration before its use in RS EVA [Complete]
+MRM2-СУ (SM) Hatch Closure [Complete]
+PRE-EVA airlock operations / r/g 5900 + r/g 5916 [Complete]
+Purge the Sabatier Accumulator of water accumulated during degraded Node 3 CDRA operations [Complete]
+ТК 712 Crew Isolation in MRM2 for EVA-38 / r/g 5904 & 5907 [Complete]
+Depress for EVA – assistance / r/g 5900 + r/g 5916 [Complete]
+Restore SSC nominal configuration after the EMU tasks are complete  [Complete]
+Swap the hard drive in the SAMS Control Unit (CU) T61p Laptop Computer [Complete]
+Capillary Flow Experiment (CFE) – Maintenance Work Area (MWA) Preparation [Complete]
+P/TV – FCC Photography [Complete]
+P/TV – USOS SA Photos [Complete]
+ТК 712 Crew Isolation in MRM2 for EVA-38 / r/g 5904 & 5907 [Complete]
+Set-Up Video for SAMS Control Unit Deployment Activity  [Complete]
+EVA-38 Tasks / r/g 5910 [Complete]
+Space Acceleration Measurement System Control Unit Deployment [Complete]
+CFE – Preparation and Hardware Setup [Complete]
+Capillary Flow Experiments Hardware Setup [Complete]
+Capillary Flow Experiments Interior Corner Flow Test Operations [Complete]
+Food Frequency Questionnaire [Complete]
+Capillary Flow Experiments Hardware Teardown  [Complete]
+Columbus Stowage Reconfiguration
+SHD – Weekly Questionnaire [Complete]
+MSG – Glovebox Activation [Complete]
+BASS Cable Troubleshooting Part 2 [Complete]
+Camcorder setup to capture T2 exercise [Complete]
+Post-EVA airlock operations / r/g 5900 + r/g 5916 [Complete]
+MSG – Glovebox Powerdown [Complete]
+MRM2- СУ(SM) Hatch Opening
+Post-EVA-38 MRM2 Closeout Ops / r/g 5904
+SSC – Disconnect SSC in MRM2 from power and data and relocate to original location
+RS ISS Reconfiguration for Nominal Ops / r/g 5905
+Reconfigure comm system for nominal ops, C&W from ПОВ (EVA Support Panel) to Caution & Warning Panel (ПСС) in ПхО
+Transfer of cables for SSC in MRM2 after RS EVA / r/g 5909
+Installation of air ducts in DC1 and SM after EVA
+S/G2 Deactivation in MRM2 / r/g 5904
+Biochemical Urine Test after EVA
+Activation of ППС-26 and ППС-31 toggle switches / r/g 5896
+JRNL – Journal Entry [Complete]
+HAM Radio Power On  [Complete]
+РО-ПрК Hatch Opening (after opening РО-ПрК PEV via CRL and pressure equalization)
+Install protective ring on РО-ПрК hatch and air duct
+SHD – Weekly Questionnaire [Complete]
+Post-Eva Orlan Suit Maintenance
+ISERV – Opening Window Shutter
+RS ISS Reconfiguration for Nominal Ops / r/g 5906
+Activation of Laptops and WAP in SM / r/g 5896
+SHD – Weekly Questionnaire
+Deactivation of ТК 712 after EVA-38 / r/g 5904
+Daily Planning Conference (S-band)
+
+Task List
+
+ARED Cylinder Evac
+Sabatier purge
+T61 battery swap [Complete]
+WHC KTO replace
+WHC EDV-U R&R
+Roscosmos Report
+Roscosmos photos
+Uragan photo
+3DA1-Cam-Ops
+ECOK H/W reconfig
+AL-PCS Swap
+IFM WHC UR/IF R&R [Complete]
+Regen WSTA fill [Timelined – Complete]
+HRF2 supply inventory
+IFM-NOD3AO2 LHA R&R [Complete]
+MOOT restow 2 [Complete]
+CD transfer [Complete]
+NOD3AO2 LHA R&R [Complete]
+J-Stow-Consolidate
+
+Ground
+
+Nominal commanding
+

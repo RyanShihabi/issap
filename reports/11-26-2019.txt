@@ -1,0 +1,122 @@
+
+Alpha Magnetic Spectrometer (AMS) Extravehicular Activity (EVA) Preparation: The crew continued preparation for the third AMS repair EVA with procedure reviews.  The AMS-02 repair EVAs are being performed with the goal of recovering a series of cooling pumps within the AMS-02 experiment. The first and second of the AMS EVAs were completed successfully and went very well. The third EVA is currently scheduled to occur next Monday, 02-December.  AMS-02 is a state-of-the-art particle physics detector that uses the unique environment of space to advance knowledge of the universe and lead to the understanding of the universe’s origin by searching for antimatter, dark matter and measuring cosmic rays.
+Life Support Rack (LSR) Remove & Replace (R&R): As a troubleshooting measure, the crew performed the necessary activities to change out the Deionization Unit in the LSR.  LSR is a Technology Demonstrator for Closed Loop Air Revitalization. It generates oxygen (O2) and removes carbon dioxide (CO2) from the cabin atmosphere. In addition, CO2 and hydrogen (H2) can be used to synthetize water (H2O) and methane (CH4).
+Rodent Research-14 (RR-14):  The second day of the RR-14 science sessions was performed today.  RR–14 focuses on microgravity as a disruptor of the 12-hour circatidal clock.   The study uses mice to test the hypothesis that disruptions in a microgravity environment to the circadian rhythm sleep/wake cycle will affect the body on a cellular and key organ level. The importance of this 12-hour clock has been established as a mechanism that controls stress-responsive pathways. The unique environment of the ISS provides an ideal setting to challenge this. In short, exposing cellular systems in mice to the stress of microgravity provides an opportunity to study the response of the 12-hour body clock from cellular adaptation and its effect(s) on organismal behavior.
+Systems:
+JEM Module Remote Manipulator System (JEMRMS) Back-up Drive System (BDS) Checkout: In preparation for SpaceX-19 arrival on 12/7/19, the crew worked with ground teams to accomplish the JEMRMS BDS checkout activity.  During this activity, the following checkouts were successfully performed: communication between Back-up Controller (BUC) and Joint Electronics Units (JEUs), JEU matrix command function, Emergency Stop function, Console Bus and Arm Bus channel reconfiguration.
+Completed Task List Activities:
+
+Convert SSC6 from wireless to wired for OCT2 Ops
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+JEMRMS BDS Checkout
+
+Wednesday, 11/27 (GMT 331)
+Payloads:
+
+AMS procedure review
+Analog-1 teardown
+Food acceptability
+Rodent Research-14
+ESA/Photobioreactor remove
+Veg-04B plant check
+Health Maintenance System (HMS) OCT2 Exam
+Replacement of IceCubes SSDs
+
+Systems:
+
+Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace 
+
+Thursday, 11/28 (GMT 332)
+Payloads:
+
+AMS procedure review and training
+GLACIER4 desiccant swap
+Rodent Research-14
+Space Moss prep
+Veg-04B final harvest
+HRF Veg-04 Taste Test And Survey
+
+Systems:
+
+Endoscope Kit Prep
+RGN Tank Drain/Fill/Process
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Preparation of Reports for Roscosmos web site and social media
+ECON-M. Observation and Photography
+Standard Measures Post-sleep Questionnaire
+Virtual ATU Configure JEM
+Rodent Research Dissection Assist
+Calf Measurement
+Rodent Research 14 Dissection
+Rodent Research Centrifuge Setup
+Glovebox Freezer Sample Insert
+Rodent Research Centrifuge Configure
+Checkout of Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops and Report
+HRF Centrifuge Spin Conclude
+Rodent Research MELFI Insert 1
+JEMRMS Backup Controller (BUC) Power On
+Standard Measures Post-sleep Questionnaire
+Rerouting cable 77КМ-7229-230.
+Rodent Research Dissection Assist
+Study of veins in lower extremities.
+Rodent Research 14 Dissection
+Rodent Research Centrifuge Configure
+Glovebox Freezer Sample Insert
+HRF Centrifuge Spin Conclude
+Rodent Research MELFI Insert 1
+JEMRMS Backup Drive System (BDS) Checkout 2
+Exchange of Deionization Unit – Part 1-3
+AMS Cut/Swage Training
+Discharge Makita drill battery (4 count:  No.2, No.3, No.4, No.5). Install Makita battery No.2 to charge.
+Flushing Membrane Filter-Separator (МФР) in the separation device.
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ
+Handhold Exp Platform Desiccant Installation
+Extravehicular Mobility Unit Power Up
+СОЖ maintenance
+On MCC Go ISS Repress with N2 from Progress 442 (DC1) СрПК Section 2 (start)
+AMS Procedure/video review
+On MCC Go ISS N2 repress from Progress 442 (DC1) СрПК Section 2 (terminate)
+Makita Battery#2 charge termination
+Extravehicular Mobility Unit Power Down
+Rodent Research Dissection Assist
+On MCC Go Installation of Progress 442 (DC1) Docking Mechanism
+JEMRMS Back Up Controller (BUC) Power Off for BDS C/O
+Rodent Research 14 Dissection
+JEMRMS Backup Drive System (BDS) Checkout cleanup
+Glovebox Freezer Sample Insert
+Preparation and Configuration Setup for Remote RS Laptop on USOS.
+Rodent Research Centrifuge Configure
+Glovebox Freezer Sample Insert
+Delta file prep
+HRF Centrifuge Spin Conclude
+On MCC Go Testing RS Remote Laptop with КЦП1 and КЦП2.
+Rodent Research Assist
+Teardown of remote RS laptop setup.
+Rodent Research MELFI Insert
+MPEG-2 video downlink test via KU-band in preparation to Progress 443 docking to the ISS.
+VEG-04B Plant Check/Watering for each Plant Pillow
+Rodent Research Dissection Assist
+Rodent Research 14 Dissection
+Glovebox Freezer Sample Insert
+Rodent Research Centrifuge Configure
+Glovebox Freezer Sample Insert
+HRF Centrifuge Spin Conclude
+Rodent Research Assist
+Rodent Research MELFI Insert 1
+Rodent Research Dissection Assist
+SCENARIY. Observation and photography using photo equipment
+Evening Preparation Work
+Rodent Research-14 Dissection
+Evening Preparation Work
+Rodent Research Centrifuge Configure
+Glovebox Freezer Sample Insert
+HRF Centrifuge Spin Conclude Final
+Rodent Research MELFI Insert
+
+ 

@@ -1,0 +1,21 @@
+
+Predetermined Debris Avoidance Maneuver (PDAM): The ISS performed a retrograde PDAM at 10:00 AM CDT to avoid a possible conjunction. Using SM Main Engine thrusters, the ISS completed a 0.3 m/s ∆V retrograde PDAM to clear the debris. The PDAM executed nominally, and the ISS is still in an acceptable position for upcoming 85P docking at 10:50 PM CDT today.
+Payloads:
+BioServe Centrifuge: The BioServe Centrifuge was disassembled and removed from the Life Science Glovebox (LSG). The BioServe Centrifuge facility supports a wide variety of life, physical, and materials science research. It enables separation of substances with differing densities, including cell cultures, DNA, protein, blood, and sedimentation samples. The centrifuge is compatible with BioServe’s extensive array of investigation-specific hardware, including Group Activation Packs; Fluids Processing Apparatuses; BioCells (single, 6-well, and 12-well); Plate Habitats; and insect and plant growth habitats. Small, portable, and easy to set up, the facility further enhances the space station’s scientific capabilities.
+JEM Water Recovery System (JWRS): The JWRS was setup in the Multi-purpose Small Payload Rack-1 (MSPR-1). The demonstration of JWRS generates potable water from urine. In the past, urine and wastewater were collected and stored, or vented overboard. However, for long-term space missions, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Neuronix: BioCell Samples were retrieved from Space Automated Bioproduct Lab-2 (SABL-2) and placed in Keyence Research Microscope Testbed (KERMIT) for imaging operations. Fixative was added to the 4-well BioCell samples, and Neuronix operations were closed out and stowed for return. This completes operations for Neuronix experiment. Innovative Paralysis Therapy Enabling Neuroregeneration (Neuronix) demonstrates the formation of three-dimensional neuronal cell cultures in microgravity and tests a neuron-specific gene therapy.
+Project EAGLE: Sample S/N 02 was retrieved from Minus Eighty-degree Laboratory Freezer for ISS-2 (MELFI-2) and placed into Microgravity Experiment Research Locker Incubator-2 (MERLIN-2) Facility. Culturing human cardiomyocytes or heart cells holds potential for disease modelling and drug discovery. In microgravity, cardiac cells can grow into three-dimensional cultures that have better structural maturation compared with two-dimensional cultures grown on Earth. ISS: Engineering Stem Cell-Derived Cardiac Microtissues with Metabolic Regulators in Space to Promote Cardiomyocyte Maturation (Project EAGLE) grows three-dimensional cultures of cardiomyocytes that could provide a better model of heart disease and improve assessment of therapeutic measures.
+Systems:
+Endurance Crew Arrival Preparation: With the SpaceX Crew Dragon Endurance scheduled for launch on Friday, August 25th, at 2:50 AM CDT and docking scheduled on Saturday, August 26th at 1:02 AM CDT, the Endeavour crew completed several activities to prepare for the arriving crew. The crew gathered, audited, and re-stowed ISS Emergency hardware that will be transferred to the arriving Crew Dragon vehicle, re-outfitted the Crew Alternate Sleep Accommodation (CASA) from a stowage location to a sleep location to be used during the Crew-6/Crew-7 handover, and deployed and configured an AC inverter with Station Support Computers (SSCs) in the Cupola to support the monitoring tools for the Crew-7 docking.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+JEMRMS EFU Adapter Transfer to JEMAL
+Neuronix Termination Operations
+PRO LSG Facility Deactivation Commanding
+PDAM
+

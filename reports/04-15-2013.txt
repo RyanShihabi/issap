@@ -1,0 +1,117 @@
+
+New Status:
+49 Progress (49P) Undock: 49P undocked nominally from the ISS Service Module (SM) aft port at 7:02 am CDT.
+49P performed a nominal 15-sec (∆V ≈ 0.67 m/s) automated separation burn at 7:05 am CDT, followed by a nominal 10.695 m/s retrograde phasing burn at 10:15 am CDT.  49P will perform free flight burns for the non-ISS-related Radar-Progress experiment April 16-21, after which it will deorbit.
+Japanese Experiment Module (JEM) Inter-module Ventilation (IMV) Flow Measurement: Hadfield and Marshburn set up the velocicalc hardware and measured the IMV flow coming from the JEM Pressurized Module (JPM) IMV overhead aft inlet, starboard aft inlet, and starboard forward outlet. The measurements are part of routine preventative maintenance to ensure quality airflow in the modules.
+US Handover of Increment 35 Crew: Hadfield reviewed suggested on-orbit practices, and lessons learned related to ISS systems and payloads with Cassidy who arrived on ISS on 3/28/13. This was an operational review section for handover topics not limited to a particular module or scheduled activity, as well as a section that covered normally scheduled activities.
+Binary Colloidal Alloy Test-3 (BCAT)-3: Hadfield initiated sample 5 of this experiment. BCAT documents the formation of crystals from microscopic spheres (known as colloids) suspended in a liquid, both on the surface of the sample container walls and in the bulk of the sample container. Results help scientists develop fundamental physics concepts previously unobserved due to the effects of gravity.
+Combustion Integrated Rack (CIR): Marshburn replaced the CIR Fuel Oxidizer Management Assembly (FOMA) Calibration Unit. This activity is required to renew the CIR Flight Safety Certification which expires in June of this year.
+Health Maintenance System (HMS) On-Orbit Hearing Assessment (O-OHA): Cassidy completed his first hearing test since arriving on ISS. The test is performed during the first 14 days of a crewmember’s arrival on orbit and every 45 days thereafter.
+Photo/TV Extravehicular Activity (EVA) Camera Configuration: Hadfield and Cassidy configured cameras to be used for the Russian Segment EVA #32 scheduled for this Friday. Batteries will be charged and swapped prior to the EVA.
+Previous Status (04/12/13)
+ENERGY Experiment: Hadfield completed Day 4 of his 10-day ENERGY experiment session. The experiment includes eating a standardized meal, diet logging, specific water intake, measurements of Oxygen uptake, collection of urine samples, and wearing an armband activity monitor. A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+NanoRacks Data Collection: Marshburn completed the 3rd of 3 data collections for the week from NanoRacks Modules-20, 21 & 22. Module-20 studies the effects of microgravity on: electroplating; remotely controlled robot control mechanisms and mechanical devices;  the effects of a variable magnetic field on Ferrofluids; growth of E. coli bacteria in microgravity and its resistance to the antibiotic Kanamycin. Module-21 studies the fluctuation levels of carbon dioxide on ISS; the potential impact of microgravity on the growth cycle of bacteria; microgravity impacts on the performance of current battery technology. Module-22 studies the possibility of producing alum crystals of higher purity in Space than on Earth; corrosion of iron in a microgravity environment; and coalescence of polymers at different glass transition temperatures in space. Modules are scheduled to be returned to the students on 33 Soyuz.
+Capillary Flow Experiments (CFE) Interior Corner Flow (ICF)-9 Operations: Marshburn reviewed procedures, set up the hardware, and conducted the 2nd of 10 planned runs of this experiment. CFE is a suite of fluid physics experiments that investigates how fluids translate across surfaces in microgravity. The results aim to improve current computer models that are used by designers of low gravity fluid systems and may improve fluid transfer systems for water on future spacecraft.
+Education Payload Operations (EPO) Dual Fields Demonstration: Cassidy reviewed procedures, gathered materials, and watched a video in preparation for the demonstration. During the activity, with assistance from Hadfield, he secured two pieces of rubber tubing parallel to one another with a 1 inch gap between them. A static electric charge was created by rubbing the tubing with nylon; then a drop of water was released near the gap between the tubings. EPO demos are educational videos conducted by crewmembers on-board the ISS and are seen by grades 5-12 students and educators.
+Burning and Suppression of Solids (BASS) Experiment: Cassidy performed the 2nd of 13 sessions planned for this experiment. BASS examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity and will guide strategies for extinguishing fires in microgravity. BASS results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Space Acceleration Measurement System II (SAMS II): Hadfield set up the video and assisted the Ground with gathering information related to the SAMS hard drive issues. Then he removed two hard drives from the Interim Control Unit (ICU) laptop and replaced with new ones. He then powered on the unit to verify functionality.
+Material Science Laboratory Seal Inspection: Hadfield inspected and cleaned MSL chamber seal, o-rings, and chamber flange surface.
+Today’s Planned Tasks
+· PROK. PROK – Urine РН Test  [Complete] 
+· PROK – Urine Sample Collection  [Complete] 
+· RSS1, RSS2 Reboot / r/g 1009 step 1  [Complete] 
+· Visual Inspection of MRM1 БПП-4, БПП-7 Fuses / EPS,  [Complete] 
+· Reboot Laptop RS2(1) / Onboard Computer System (БВС)  [Complete] 
+· Visual Inspection of MRM1 БПП-4, БПП-7 Fuses / EPS,  [Complete] 
+· Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139  [Complete] 
+· SM ПСС (Caution & Warning Panel) Test / Manual Controls [РСУ],  [Complete] 
+· Visual Inspection of Circuit Breakers [АЗС] on DC Power Switch Panel (БВП) and Fuses on MRM2 Fuse Boxes , [Complete] 
+· ENERGY Diet Log of Breakfast  [Complete] 
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954  [Complete] 
+· D2XS Photo camera Battery Charge  [Complete] 
+· SPHERES. Vertigo Battery Replacement  [Complete] 
+· On-orbit Hearing Assessment using EARQ  [Complete] 
+· Measuring Air Flow in JPM  [Complete] 
+· Search for БУПТ-1М No. 63010003 device / r/g 2063  [Complete] 
+· FIR Rack Doors Open  [Complete] 
+· LMM. (Light Microscopy Module) Rotate To Service Position  [Complete] 
+· ACE. Samples Preparation  [Aborted]  
+· CIRCADIAN RHYTHMS – Sensor Removal  [Complete] 
+· USOS Window Shutter Close  [Complete] 
+· Setting up NASA gear for use on Orlan-M  [Complete] 
+· Installation of Orlan-M Add-on Equipment. Photography of Orlan Gear / r/g 2066  [Complete] 
+· Installation of USOS EMU Lights and Video Camera On Orlan-MK Spacesuit 6 / r/g 2041, 2042  [Complete] 
+· CONSTANTA. Preparation and Execution 5 / r/g 2076  [Complete] 
+· EVA Medical Kit Configuration / r/g 2062  [Complete] 
+· SPHERES – Battery Charging  [Complete] 
+· Ham Radio Deactivation  [Complete] 
+· LMM Rotate to Operation Position [Complete]
+· FIR. Rack Doors Close [Complete]
+· Verification of Installation of USOS EMU Lights and Video Camera on Orlan-MK #6  [Complete] 
+· Monitoring ТКГ 417 Undocking from SM AO, Docking Photography / r/g 2065 [Complete]
+· D2XS Photo camera Battery Charge  [Complete] 
+· ISS 35 CREW HANDOVER  [Complete] 
+· On MCC Go Switch ПрК-ТК PEV to CLOSED position  [Complete] 
+· On MCC GO ISS Repress with Oxygen from ТКГ 418 (DC1) СрПК Section 1 (start) [Complete]
+· ISS O2 Repress with Oxygen from ТКГ 418 (DC1) СРПК Section 1 (terminate) / СКДС [Complete]
+· Auxiliary Laptop Anti-Virus Update / r/g 1930  [Complete] 
+· Specific EVA Procedure Review. Tagup with specialists / r/g 2067 [Complete]
+· PROK. Diet Logging Day 2- Day 4  [Complete] 
+· PROK. Diet Logging Day 1  [Complete] 
+· NANORACK – Copy Data to Laptop [Complete]
+· Search for Penguin-3 Suit / r/g 2064  [Complete] 
+· ENERGY Diet Log of Lunch  [Complete] 
+· SPHERES Vertigo Battery Replacement  [Complete] 
+· JRNL – Journal Entry  [Complete] 
+· Filling (separation) of EDV (KOV) for Elektron / SM СОГС r/g 2035 [Complete]
+· Removal of elevated resistance in СБМП ПФ1,2 Cartridges of sensor T136, Т137 circuits r/g 2072 [Complete]
+· BCAT3. Sample Initialization  [Complete] 
+· CIR – Preparation Ops  [Complete] 
+· CIR. Optics Bench Translation  [Complete] 
+· СОЖ Maintenance [Complete]
+· Photo camera config for RS EVA  [Complete] 
+· Installation of Portable Repress Tank prior to EVA [Complete]
+· CIR. Module Relocation  [Complete] 
+· On MCC GO Mate СБМП Telemetry Connectors / r/g 2072 [Complete]
+· Removal of Elevated Resistance in СБМП ПФ1,2 Cartridges of Sensor T136, Т137 Circuits (Closeout Ops) r/g 2072[Complete]
+· PAO Hardware Setup [Complete]
+· CIR. Optics Bench Translation for Operation  [Complete] 
+· Crew Prep for PAO / r/g 2073 [Complete]
+· Downlink of TV Greetings (Ku + S-band) / r/g 2073 [Complete]
+· Locating Equipment for Wetting and Flushing СКВ2 БТА Wicks. r/g 2071 [Complete]
+· CIR – Closeout Ops [Complete]
+· On-orbit Hearing Assessment using EARQ [Complete]
+· Handover of USOS cameras for RS EVA [Complete]
+· ISERV – Opening LAB window shutters  [Complete] 
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954
+· HAM Radio Power Up [Complete]
+· BCAT. Camera Battery Changeout
+· ENERGY Diet Log of Dinner [Complete]
+Task List
+· CEO ops [Completed Sat.] 
+· P/TV gather/consolidate  [Completed Sat.] 
+· Laptop cleanup  [Completed Sat.] 
+· HRCS restow Pt 1 [Completed Sat.]
+· JLP rack cleanup [Completed Sat.]
+· PMM 1F4 rack h/w install [Completed Sat.]
+· PMM 1P4 rack h/w install [Completed Sat.]
+· PMM 1S4 rack h/w install [Completed Sat.]
+· S&M PMM bracket install [Completed Sat.]
+· IMS edit
+· RGN WSTA fill
+· SSC data gather (FE-6)  
+· SSC data gather (CDR)   [Complete] 
+· WHC KTO replace
+· Roscosmos report
+· Data downlink prep
+· WHC EDV R&R
+· ASC setup  [In Work] 
+· Data prep for return (CDR)  [In Work] 
+· Data prep for return (FE-4)
+· Date prep for return (FE-6)  [In Work] 
+· HRF1 STW audit/trash  [Complete] 
+· ProK diet config  [In Work] 
+
+Ground
+· Nominal Commanding  [In Work] 
+· MT translation from Worksite (WS)5 to WS4 for PMA survey. [In Work]

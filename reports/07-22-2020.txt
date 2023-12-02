@@ -1,0 +1,23 @@
+
+Payloads
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM): The crew performed the shutdown and stow of the EarthKAM hardware completing a 10 day mission. EarthKAM allows thousands of students to photograph and examine Earth from a space crew’s perspective. Using the Internet, the students control a special digital camera mounted on-board the ISS. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The EarthKAM team then posts these photographs on the Internet for viewing by the public and participating classrooms around the world.
+Food Physiology: The crew performed saliva and fecal sample collections and blood collection setup in support of the Food Physiology study. The Integrated Impact of Diet on Human Immune Response, the Gut Microbiota, and Nutritional Status During Adaptation to Spaceflight (Food Physiology) experiment is designed to characterize the key effects of an enhanced spaceflight diet on immune function, the gut microbiome, and nutritional status indicators. These factors are interlinked, but diet is the only one that can be easily and meaningfully altered on Earth or during flight. This investigation aims to document the effect of dietary improvements on human physiology and the ability of those improvements to enhance adaptation to spaceflight.
+Astrobee: The crew turned on the Astrobee flyers to allow the ground to perform free flyer operations for a mapping session of the Japanese Module. Astrobee is made up of three free-flying, cube-shaped robots which are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the space station. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+Systems
+Post-Extravehicular Activity (EVA) Operations: Following yesterday’s EVA, the crew completed Post-EVA medical evaluations, airlock deconfiguration and a water recharge on Extravehicular Mobility Units (EMUs) 3004 and 3006.  They also conducted an EVA debrief with ground specialists.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: Crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis.
+Treadmill (T2) Monthly Inspection: As part of regular maintenance to ensure the T2 exercise device is in good operational condition, the crew inspected all four snubber arms for any sign of free play as well as making any necessary adjustments to reduce the free play.
+Mobile Servicing System (MSS) Operations: Ground robotic specialists (ROBO) performed a Space Station Remote Manipulator System (SSRMS)maneuver to stow the External Pallet (EP) on the Payload and ORU Accommodation (POA). Afterwards, ROBO performed a Mobile Transporter (MT) translation from worksite 1 (WS1) to worksite 5 (WS5) in preparation for the International Docking Adapter 3 (IDA3) survey tomorrow.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Ground Support for MSS Operations
+UHF 2 Activation/Deactivation
+US/RS comm config to support activities in MRM
+Node 3 to Lab CDRA swap for Metox Regeneration
+

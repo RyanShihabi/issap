@@ -1,0 +1,81 @@
+
+54S Rendezvous and Docking: 54S, carrying Ricky Arnold, Drew Feustel, and Oleg Artimyev to the International Space Station, docked to the Mini-Research Module (MRM) 2 today at 2:40 PM CDT (19:40 GMT).  All Soyuz systems performed nominally.  After hatch opening at approximately 4:45 PM CDT (21:45 GMT), all crewmembers participated in an ISS Safety Briefing. 
+JAXA Protein Crystal Growth (PCG) #14:  Following the docking of 54S, a crewmember will install two JAXA PCG canisters containing over 30 protein samples into the Protein Crystallization Research Facility (PCRF) in the Ryutai Rack. This 14th JAXA PCG experiment will run from today through removal for return on the SpaceX-14 Dragon vehicle. The protein samples were prepared by Japanese and Russian researchers from universities, national research institutes, and the private sector. The purpose of this activity is to obtain high quality protein crystals in the microgravity environment at 20 degrees Centigrade for about 5 weeks. The results obtained by this experiment contribute to the development of drugs for multidrug-resistant bacteria, Alzheimer’s disease, muscular dystrophy and periodontitis. They will also aid in the development of a blood substitute and biosensor. 
+Wireless Sensor Network (WiseNet):  Today, the crew removed WiseNet sensors from locations in the US Lab, Node 2, and Columbus. The goal of the WiseNet technology demonstration is to establish the functionality of low power Radio Frequency networks within the ISS environment using low power sensor-nodes. These sensors form a wireless network on board ISS to monitor environmental factors such as temperature, pressure, and humidity. 
+Lighting Effects: A 53S crewmember completed a daily sleep log entry this morning upon waking to record his sleep patterns and wakefulness. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have major implications for people on Earth who use electric lights.
+NanoRacks Rock Candy:  The crew continued with the ongoing photo-documentation of each Rock Candy pouch, showing any visible sugar crystal growth in each. This investigation teaches students about the effects of microgravity on crystal formations using nearly identical flight kits flown and operated onboard the ISS. With access to crew member videos and data on the same experiment, students are able to compare crystal formations in space to those in their classrooms. The investigation aims to promote science, technology, engineering, and math (STEM) fields to the next generation of students.
+Space Headaches:  The crew completed the weekly questionnaire for the ESA Space Headaches investigation today. This investigation collects information that may help in the development of methods to alleviate associated symptoms and improve the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission.
+US Extravehicular Activity (EVA) Extravehicular Mobility Unit (EMU) Resize: Today the crew resized EMUs 3003 and 3006 in preparation for next week’s EVA. Each EMU contains exchangeable components allowing each astronaut to adjust EMU fit to their individual preference. EMU 3003 was resized for Ricky Arnold and EMU 3006 was resized for Drew Feustel.
+Space Station Remote Manipulator System (SSRMS) Operations: Yesterday and overnight, Robotics Ground Controllers maneuvered Special Purpose Dexterous Manipulator (SPDM) Arm1 to grasp the Starboard H-Fixture on the Mobile Base System (MBS) and successfully completed the SSRMS Latching End Effector A (LEE-A) Force Moment Sensor (FMS) moment data collection on the SSRMS Prime and Redundant Strings, releasing and re-grappling the MBS H-Fixture in between. Next the SPDM was stowed on MBS Power Data Fixture 2 (PDGF2). Finally the SSRMS was walked off MBS PDGF4 onto MBS PDGF3 and configured for the start of US EVA #49 on March 29th.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+USOS Window Shutter Close
+ISS HAM Radio Power Down in Service Module and Columbus
+Removal and discarding of 3 WISENET Motes from different ISS locations.
+Crew Medical Officer (CMO) Proficiency Training
+Monitoring shutter closure on windows 6, 8, 9, 12, 13, 14.
+NanoRacks Rock Candy Imagery
+Gas Analyzer Activation in Soyuz 737
+Filling up Progress 437 (DC1) СрПК Section 2 with N2
+Extravehicular Mobility Unit (EMU) Resize
+Review Hatch Opening from MRM2 and Arrival of Expedition 55” TV Coverage procedure
+Preparation for Soyuz 738 Docking
+Comm config for Soyuz docking to MRM2. Comm check with Soyuz 738 in RSA2-S/G2
+MPEG2 Multicast Test via Ku-band
+Monitoring Soyuz 738 Rendezvous with ISS (MRM2)
+Waste & Hygiene Compartment (WHC) Water Container (ЕДВ) Remove and Replace
+Activation of MPEG2 Multicast TV Monitoring Equipment
+Activation of MPEG2 multicast video recording mode
+Waste and Hygiene Compartment (WHC) Full Fill
+HRF Generic Urine Collection Setup
+Cargo Water Container – Iodinated Degas
+Closing Applications and Downlink of MPEG2 Multicast Video via OCA
+Waste and Hygiene Compartment (WHC) Full Fill
+Switching DC-SOYUZ (MRM2) PEV to ELECTR CONTROL
+Comm reconfig after Soyuz 738 docking
+Soyuz 738 – MRM2 Interface Leak Check.Start Drying Suits 1, 2
+Hardware Setup in SM for Expedition 55 Arrival TV PAO Coverage from SM
+Equipment Setup in MRM2 for Hatch Opening TV Coverage from MRM2
+Soyuz – MRM2 hatch opening, TV coverage of Expedition 55 Arrival
+ТПК-54S hatches open and PAO-TV-rep.Hatches open
+Handover of space suit 3 for drying in Soyuz 737
+Drying of spacesuit
+Comm reconfig for nominal ops
+ISS Safety Briefing
+VEG-03 Dual Facility Watering for each Plant Pillow
+Exiting Applications, Deactivation of camcorders and TV monitors
+Soyuz 738 Deactivation (without Gas Analyzer deactivation)
+N2 Nadir Hatch to Unlatch Hardstop
+СОЖ maintenance
+USOS Window Shutter Close
+Handover of Increment 54S Crew
+Multi-purpose Small Payload Rack 2(MSPR2) Electrostatic Levitation Furnace (ELF) Water QD Disconnect
+Soyuz 738 Transfers and IMS Ops
+Space Headaches – Weekly Questionnaire
+Cell-Free Epigenome Generic Frozen Blood Collection Setup
+Japan Aerospace eXploration Agency Frozen Blood Collection Setup
+JAXA Protein Crystal Growth (PCG) Installation
+KRISTALLIZATOR. PCG transfer from Soyuz, Inspection, and Handover to USOS
+KRISTALLIZATOR. Photo of PCG Handover
+Space Headaches – Weekly Questionnaire
+CONSTANTA-2. Transfer and Setup in ТБУ-В No.05 at +4 deg C
+ISS HAM Radio Power Up
+CALCIUM. Transfer of Calcium- Э from Soyuz and Setup in MRM1
+Soyuz 738 Transfers and IMS Ops
+STRUKTURA.  Luch-2 Hardware Transfer from Soyuz
+STRUKTURA.  Process Activation and Placement
+STRUKTURA.  Photo during the Experiment and at Exposure Location
+
+Completed Task List Activities
+
+CHeCS Rack Audit
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Standard Commanding
+54S Docking Support
+

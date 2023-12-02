@@ -1,0 +1,79 @@
+
+Advanced Plant Experiment (APEX) 03-1: Wilmore prepared the Maintenance Work Area (MWA), gathered the APEX hardware, and configured the Advanced Biological Research System (ABRS) photo grid.  The crew then retrieved the APEX fixation tube kit from the General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) and proceeded to harvest and fix the second set of plants from five petri plates which had been growing for seven days in the Veggie.  The crew also configured the Light Microscopy Module (LMM), positioned one APEX-03 Petri Plate onto the LMM Petri Base and installed it into the LMM Auxiliary Fluids Container (AFC).  After imagery was taken, the files were transferred for downlink to the experiment teams on the ground.  APEX-03-1 continues a highly successful investigation into the effects of microgravity on the development of roots and cells on plant seedlings. The experiment photographs seedlings of Arabidopsis, or thale cress, every two hours as they grow in petri dishes. After 14 days, the seedlings are preserved for return to Earth and detailed analysis
+Polar software load:  Cristoforetti loaded the Polar payload application software onto the EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Rack Laptop Computer.  The crew then installed Polar in EXPRESS Rack and configured for power on.
+Coarsening in Solid Liquid Mixtures-4 (CSLM-4):  Virts starting configuration of the fifth sample processing unit (SPU).   For each run, the crew will configure valves and connections to vent the SPU and water lines, start the automated processing sequence, transfer experiment data and exchange the processed SPU with a new one after each sample run.  CSLM-4 is a materials science investigation that studies the growth and solidification processes (i.e., coarsening) in lead-tin solid-liquid mixtures that contain a small amount (low volume fraction) of tin branch-like (i.e., dendritic) structures, some of which possess many arms. During sample heating, the growth at the tip of each dendrite continues over time, whereas side branches, behind the tip, develop during constant temperature (i.e., isothermal) conditions. By understanding how temperature and time control the growth of such dendrites, researchers hope to develop more efficient and economical means of producing higher quality products derived from the casting of molten metals
+Epigenetics:   Cristoforetti retrieved 12 culture bags from Microgravity Experiment Research Locker Incubator II (MERLIN).  The crew then transferred the third generation larva samples from incubated culture bags to new culture bags using the transfer syringe. The procedure is repeated for all 12 samples.  The culture bags were then placed in the Cell Biology Experiment Facility (CBEF) to start a 4 day incubation.  Six of the samples will go into the micro-g environment and the rest into a 1-g environment.  This is the first of four planned Epigenetics sessions.  Epigenetics is a Japan Aerospace Exploration Agency investigation of whether adaptations to space are transmitted from one cell generation to another without changing the basic DNA of an organism. C. elegans is a millimeter-long roundworm that, like the fruit fly, is widely used as a model for larger organisms. In this investigation, four generations of the worms will be grown aboard station, with adults from each generation preserved for later study on Earth
+Sally Ride Earth Knowledge Acquired by Middle School Students (Sally Ride EarthKAM):  Samokutyaev set up the EarthKAM payload components in the Service Module (SM) and activated the system for a week-long imaging session. Not everyone can go to space, but everyone can see Earth from an astronaut’s perspective with the Sally Ride Earth Knowledge Acquired by Middle School Students (Sally Ride EarthKAM) program. Thousands of students can remotely control a digital camera mounted on the ISS, and use it to take photographs of coastlines, mountain ranges and other interesting features. The EarthKAM team posts the students’ images on the Internet, where the public and participating classrooms can view Earth from a unique vantage point.
+Waste and Hygiene Compartment (WHC) Maintenance:  Virts changed out a WHC urine hose and insert filter.  This is performed as part of standard preventive maintenance approximately every 90 days.
+Extravehicular Activity (EVA) Battery Charging:  Virts initiated battery charging sessions for the Long Life Batteries (LLB) used in the Extravehicular Mobility Unit (EMU) and the Rechargeable EVA Battery Assembly (REBA) which supports the EVA Glove heaters, Helmet Light and Pistol Grip Tool (PGT).  This activity was in support of the upcoming planned EVAs.
+SpaceX-5 Dragon Cargo:  Over the weekend and again today, the crew loaded cargo into the Dragon vehicle in preparation for its planned return to earth on February 10th.
+Food Warmer Swap:   Over the weekend, the crew swapped spare food warmer # 1007 with the Service Module food warmer # 1005.  This will allow the crew to install the food warmer modification kit onto 1005.  The modification kit includes a more robust ground strap and new foam inserts and labels designed to accommodate food cans. 
+AC Dry Vacuum Cleaner Troubleshooting:   On January 10th, the AC dry vacuum cleaner stopped working and initial attempts to recover by changing out the bag and allowing it to cool down had been unsuccessful.  This weekend, the crew completed troubleshooting steps and found that the micro filter needed to be replaced.  Following the replacement, the vacuum operated as expected. 
+Today’s Planned Activities
+All activities are completed unless otherwise noted.
+
+
+EPGN – Gathering for the experiment
+RGN-REC TK – Transfer and Replacement
+APEX3 – Preparing for the experiment
+ТКГ 424 (DC1) Transfers and IMS Ops
+Auxiliary Laptop Anti-Virus Update
+Regeneration of БМП Ф1 Micropurification Cartridge (start)
+APEX3 – Sample Retrieval from Glacier
+APEX3 – Payload Harvest
+EPGN – Removal from the module
+EPGN – Micro-G Transfer 
+VIRTUAL. Experiment Ops
+EPGN – 1G Transfer
+Dismantling video equipment after filming БД-2 and exercise and video downlink
+APEX3 – MELFI Sample Insertion
+VISIR. Prep work with ИКП tag-up with specialists
+Life On The Station Photo and Video
+BSA battery charge start
+FIR – Hardware Checkout, Rack Doors Open. Video Recording
+APEX3 –  Checking Petri Dishes
+EMU battery charge start
+EPGN –MELFI insertion
+LMM – LMM config
+MRM2 comm config to support voice comm for the experiment
+Kulonovskiy Kristall Experiment Run
+WRS –  Recycle Tank Fill from EDV
+Kazbek Fit Check
+ARED  – Greasing Stop Cables and Wires
+Life On The Station Photo and Video
+Waste and Hygiene Compartment (WHS) Urine Receptacle and Insert Filter Changeout
+Comm reconfig for nominal ops
+KULONOVSKIY KRISTALL. Copy and Downlink Data via РСПИ
+FIR Rack Door Close
+APEX3 – Sample Removal from Glacier
+APEX3 – Petri Dish Insertion into Veggie
+WRS – Recycle Tank Fill from EDV
+Video Footage of Greetings
+Photography of ТК 714 windows: in [СА] plane 2 window, and БО window blister
+Video for Roscosmos TV Studio
+WRS – Recycle Tank Fill from EDV
+FFL01 – photography
+Verification of ИП-1 Flow Sensor Position
+RGN REC-TNK – Remove depress hose for nominal operations
+CSLM – vacuum valve opening and closure
+EKAM – Installation in SM
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop
+WRS – Recycle Tank Fill from EDV
+Exercise data downlink
+Dragon Capture Review
+Crew Discretionary Conference
+БМП Ф1 Absorption Cartridge Regeneration (termination)
+
+Completed Task List Items
+
+Record and download Video for an ESA PAO event
+IFM- AC Vacuum Troubleshooting
+National Engineers’ Week recorded message [In work]
+Dragon cargo ops [In work]
+
+Ground Activities
+All activities are completed unless otherwise noted.
+
+
+Nominal Commanding
+

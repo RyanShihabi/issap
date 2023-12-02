@@ -1,0 +1,22 @@
+
+Payloads:
+Cold Atom Lab (CAL): The crew used a Grab Sample Container (GSC) to sample the air around the Cold Atom Lab location. The GSC will be returned to the ground for analysis of the sample. The CAL produces clouds of atoms chilled to about one ten billionth of a degree above absolute zero — much colder than the average temperature of deep space. At these low temperatures, atoms have almost no motion, allowing scientists to study fundamental behaviors and quantum characteristics that are difficult or impossible to probe at higher temperatures. In microgravity, researchers may be able to achieve even colder temperatures than what is possible on the ground, and observe these cold atom clouds for longer periods of time.
+ESA Biofilms-2: The ESA Biofilms-2 samples were transferred to MERLIN-4 in preparation for return to the ground. In the Kubik experiment Biofilms-2, three bacteria species (A. radioresistens, Staphylococcus sp. and C. metallidurans) are grown on metal surfaces in a liquid environment at three different gravity levels. The scientific objective is to investigate which metal (stainless steel, copper, and brass), and which metal surface treatment (polished and two different LASER-structured), offers the best anti-bacterial properties on ground, on-orbit and on Mars.
+Repository: Urine and blood samples were gathered in support of the Repository investigation. The National Aeronautics and Space Administration Biological Specimen Repository (Repository) is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes, adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions. Samples from ISS, including blood and urine, are collected, processed, and archived during the preflight, in-flight and postflight phases of ISS missions. This investigation archives biosamples for use as a resource for future space flight related research.
+XROOTS (eXposed Root On-Orbit Test System): Following the start of the third planting early this week, today the crew performed fluid management, nutrient solution refilling, and seed cartridge wick opening. The wick opening allows the seeds to be assessed for germination and gives them more room to grow during the 30-day growth cycle. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media.  Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Systems:
+Water Recovery System Contingency Water Container-Iodine (CWC-I) Fill: The crew transferred water from the Potable Bus into a CWC-I using the Potable Water Dispenser (PWD). Water Process Assembly (WPA) was configured to isolate the Potable Bus upon reaching a target offload. Crew monitors the offload time as a secondary control to protect the CWC-I from over pressurization. Once the crew finished filling the CWC-I, the equipment was torn down and stowed.
+On-orbit Hearing Assessment (OOHA): Today, the crew performed an auditory test using the OOHA headset and KUDUwave software. The assessment measures hearing function while crewmembers are exposed to noise and microgravity during long-duration spaceflight.
+PrK ISS Wireless Instrumentation System (IWIS) Cable Swap: The USOS and Russian crew swapped two of the cables for the IWIS strain gauges installed in PrK. Strain gauges are permanently attached to the PrK pressure shell and an IWIS RSU (Remote Sensor Unit). Strain data is occasionally collected in addition to the standard acceleration data from triaxial accelerometers.
+Transfer Dragon Cargo Operations: The crew continued cargo operations by packing cargo into Cargo Dragon in preparation for SpX-25 undock on Thursday, August 18th.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+PRO LSG Facility Activation and Deactivation Commanding
+HRF Rack 2 Rack Power Down Commanding
+Water Recovery System CWC-Iodine Fill Support
+

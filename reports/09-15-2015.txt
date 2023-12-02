@@ -1,0 +1,101 @@
+
+Mobile Servicing System (MSS) Operations:  Yesterday afternoon, the Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) into position to survey the H-II Transfer Vehicle (HTV) Earth Sensor Assembly (ESA) unit B, which had experienced an anomaly on GMT 234. Afterwards, the SSRMS was moved back to its original position.
+ 
+Today, Robotic Ground Controllers maneuvered the SSRMS into position to receive a hand off of the Exposed Pallet (EP) from the JEM Remote Manipulator System (JEMRMS). Once the handoff was completed, the Robotics Ground Controllers maneuvered the EP to H-II Transfer Vehicle (HTV)-5 where ISS Crew Members Lindgren and Yui inserted it into the HTV-5 Unpressurized Logistics Carrier (ULC).  HTV-5 is scheduled to unberth from ISS on September 28th.
+ 
+Russian Pilot-T Experiment: Kelly performed his third session for Pilot-T. The goal of the Pilot-T experiment is to improve methods and develop equipment to assess and predict crewmember performance reliability during the execution of complex operator tasks (piloting a space vehicle and controlling transport and robotic equipment on the surface of a spacecraft) during various stages of long-term spaceflight.
+ 
+Fine Motor Skills Experiment:  Kornienko completed a session of the Fine Motor Skills experiment.  During the experiment he performed a series of interactive tasks on a touchscreen tablet. This investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of Fine Motor Skills for Kornienko is to identify trends or variations in fine motor performance in microgravity over the duration of a year-long space mission; how fine motor performance on orbit compares with that of a closely matched participant on Earth; and how performance changes before and after gravitational transitions, such as during early flight adaptation and after return to Earth.
+ 
+Observation and Analysis of Smectic Islands in Space (OASIS) Glycerol/Water Fill:  Kononenko filled the inkjet droplet device with glycerol and water in preparation for the final experiment protocol on each sample container.
+ 
+Kubik 5 Temperature and Centrifuge Data Transfer:  Yui transfered data from ESA’s KUBIK 5 hardware to a Station Support Computer (SSC) for downlink to the ground.  He then disconnected and stowed KUBIK 5 hardware.
+ 
+Initial Preparations for Japanese Experiment Module (JEM) Small Satellite Orbital Deployer (JSSOD) #4 Launch:  In preparation for the deploy of JSSOD satellites this Thursday, September 17th, Yui set up the Robotic Work Station (RWS) in the Cupola.
+ 
+Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) Routine Maintenance:  Lindgren performed a change out of the WHC UR and insert filter. Following the change out, a WHC functionality test was succesfully performed.
+ 
+On-board Training (OBT) ISS Emergency Hardware Familiarization:  Volkov and Kelly reviewed where emergency hardware is located on the ISS. Among the items covered were the US Portable Breathing Apparatus (PBAs), US and Russian fire extinguishers, emergency masks, fire/ammonia cartridges and ammonia measurement kits.
+ 
+HTV Cargo / Galley Rack Transfer Status:  All three USOS crew members performed HTV-5 Cargo transfer operations today. Among the items being transferred was the new Galley Rack.  Interference was encountered during installation of the rack in Node 1.  Bungies and zip ties were used to temporarily hold the rack in place. Meanwhile ground teams assess photographs taken by the crew.  Hardware needed for Galley Rack activation will arrive on a later flight.  Approximately 10 hours remain to complete HTV-5 cargo operations.
+ 
+SSC Donut 2 Service Pack Deploy:  Overnight Friday, the SSC service pack named Donut 2 was installed successfully on all SSCs. Donut 2 contains upgrades for OPTIMIS (Onboard Short Term Plan Viewer replacement), International Procedure Viewer (IPV), and the Crew Webpage.  Donut 1 was previously deployed on GMT 230.  This completes the Donut Service Pack deploy.
+ 
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+On MCC Go БМП Ф1 absorption cartridge cycling (start)
+Check & report the results of [ВКС] laptop anti-virus scan
+PILOT-T. Science ops setup. Tagup with specialists
+[АСУ] consumables set R&R
+JEMRMS – RLT2 activation
+Fine Motor Skills – subject
+FINEMOTR – photography
+Water Recovery System (WRS). WPA Waste Tank Offload to CWC (start).
+HMS – mood change profile questionnaire.
+PILOT-T. Experiment session.
+MAGVEC – data copy from the memory stick
+BAR. Experiment session.
+JEM thermal control system’s LTL & MTL refill procedure review
+COL- Laptop Power Down
+JEM NeST clean-up
+Water Recovery System (WRS). WPA Waste Tank Offload to CWC (end).
+FSS water container collection
+WRS – water sampling
+iPad stow following ISS 9 crew stage
+RWS – activation
+WHC urine receptacle and insert replacement
+Daily electrocardiogram recording
+FS – USOS hardware gather
+HMS – AED inspection
+[АД] Blood Pressure daily recording
+HTV – cargo transfer
+PILOT-T. Experiment Session. Tagup with specialists
+HTV – cargo transfer conference
+SSRMS – external platform transfer from JEMRMS and its installation on HTV
+TOCA – data copying
+SDM – hardware stow
+ENDO – data copying
+Post-HTV-5 arrival emergency training
+OASIS – container fill-up with water and glycerol for the experiment’s final stage
+OBT – ISS emergency equipment review
+FS – hardware transfer to ISS RS
+FLUID SHIFTS. Ultrasound hardware and camcorder setup in SM
+IMS update OBT – ISS emergency equipment review
+FLUID SHIFTS. Ultrasound equipment connection to [РБС]
+PILOT-T. Experiment Session.
+PILOT-T. Photography during the experiment session
+Node 1 Table removal
+ZSR microgravity stowage rack breakdown
+ISS Crew Orientation
+Galley rack transfer from HTV5S1 to NOD1P4
+PILOT-T. Closeout ops. Tagup with specialistsNode 1 Table installation
+Separation (fill) of EDV ([КОВ]) 1192 (00065120R, ФГБ1ПГО_1_106) from EDV 1197 (00065944R, ФГБ1ПГО_1_109) or EDV-SV for ELEKTRON
+WRS – WSTA fill
+SPRINT – closeout ops
+VZAIMODEYSTVIYE-2. Experiment session
+TEPC hardware relocation
+СОЖ maintenance
+JRNL – log entry
+RWS deactivation
+PAO hardware setup
+PAO – Crew choice event
+On MCC Go БМП Ф1 absorption cartridge cycling
+Preparation of materials for Roscosmos website
+EKON-M. Observation and photography.
+OPTIMIS Viewer Familiarization
+
+ 
+Completed Task List Items
+
+OPTIMUS Training FE-6 (Completed 14 September)
+HTV-5 CD Transfer (Completed 14 September)
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+SSRMS and JEMRMS Operations
+
+ 

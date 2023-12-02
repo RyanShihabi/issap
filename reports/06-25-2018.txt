@@ -1,0 +1,105 @@
+
+Predetermined Debris Avoidance Maneuver (PDAM) for Object #99999: Teams continue to track the ISS conjunction with object #99999 (Unknown Object) with a Time of Closest Approach (TCA) of 01:42 AM CDT tomorrow morning. While the latest tracking information on the object has dropped the Probability of Collision (PC) into the green threshold, it has not dropped enough to confidently lower levels of concern. As a result, teams continue to work towards a PDAM maneuver tonight with an estimated Time of Ignition (TIG) at 11:22 PM CT. Additional tracking information is expected later this afternoon. This maneuver, if executed, could affect the rendezvous of Progress 70P.  Originally planned as a 2-orbit rendezvous, any trajectory changes may necessitate an alternative 34-orbit rendezvous of the vehicle. 70P is scheduled for launch on 9 July.
+Lab Carbon Dioxide Removal Assembly (CDRA) Valve Remove and Replace: This morning the crew installed two new selector valves (valves 104 and 105) in the Lab CDRA. Once the valves were installed, the ground performed a nominal checkout and brought the Lab CDRA back on-line.  Last week during a half cycle transition the Lab CDRA Air Selector Valve (ASV) 104 failed to reach its commanded position (position A).  ETHOS attempted the standard troubleshooting activities, including multiple power cycles, however was not able to recover the valve functionality.  Additionally, starting from January of this year, the Lab CDRA Carbon Dioxide (CO2) Selector Valve (CSV) 105 valve has also begun exhibiting end of life symptoms.  Due to the ongoing issues with that valve, it was decided to R&R it at the same time as ASV 104. 
+NanoRacks Cubesat Deployer-14 (NRCSD-14): This morning, the crew installed the NRCSD-14 on the Multipurpose Experiment Platform (MPEP) in preparation for its deploy later this increment. A Triple Pack deployer plus an empty single deployer were installed on the MPEP attached to the Japanese Experiment Module (JEM) Airlock Slide Table.  A total of 9 cubesats are scheduled for deployment: RainCube (Ka-Band for CubeSats), Radix (laser communications), CubeRRT (radio frequency interference), HaloSat (astrophysics), TEMPEST-D (weather), EnduroSat AD (space communications for education), EQUISat (LED visibility on ground & LiFePO4 batteries), MemSat (memristive memory) and RadSat-g (computer radiation protection). 
+Atomization: The crew replaced sample syringes for the Atomization investigation today. The Atomization experiment investigates the disintegration processes of a low-speed water jet for various jet issue conditions in the JEM to validate the new atomization concept by observing the process using a high-speed camera. The knowledge gained can be applied to improve various engines utilizing spray combustion. 
+Human Research Program (Biochemical Profile and Repository): Over the weekend, a 55S crewmember completed their Flight Day 15 urine collection sessions for the Biochemical Profile and Repository investigations. 
+
+The Biochemical Profile investigation tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results; which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. The repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+
+Multi-Omics: This morning the crew collected samples in support of the JAXA Multi-Omics experiment. Various samples are collected and stowed in a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) throughout the crew’s on-orbit duration in addition to completion of questionnaire and ingestion of Fructooligosaccharide (FOS). The objective of Multi-Omics is to understand the gut ecosystem of astronauts in the space environment, especially focusing on the immune dysfunction, and to evaluate the impact of FOS in their diet.          
+Dragon On-Board Training (OBT): The crew spent the afternoon reviewing Dragon Robotics procedures and participated in a conference with ground specialists to cover the OBT plan in preparation for SpaceX-15 Dragon arrival. Using computer based training, the crew reviewed the Dragon mission profile, rendezvous crew procedures, and the crew interfaces for monitoring and commanding Dragon. Dragon launch is currently scheduled for June 29 with capture and berthing planned for July 2.
+Umbilical Interface Unit (UIA) Remove and Replace (R&R) Preparation: This morning, the crew reviewed procedures and gathered the various hardware and tools needed for tomorrow’s UIA R&R activities. They also removed both Servicing and Cooling Umbilicals (SCUs) from the UIA and stowed each as appropriate; SCU S/N 1004 is scheduled for return on a future vehicle for teardown and possible refurbishment.  
+Cygnus Cargo Operations: Today the crew reported spending approximately 90 minutes on cargo operations over the weekend. Ground specialists estimate approximately 45 minutes of crew time remaining in Cygnus Cargo Message #3.  
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+NanoRacks CubeSat Deployer Installation Procedure Review
+NanoRacks Cubesat Deployer Maintenance Work Area Preparation
+NanoRacks CubeSat Deployer Hardware Gather
+Cardiovascular evaluation during graded exercises on cycle ergometer (VELO).
+In-Flight Maintenance Lab CDRA Valve Gather
+JEM Airlock Slide Table (ST) Extension to JPM Side
+NanoRacks CubeSat Quad Deployer Single Deployer Removal
+NanoRacks CubeSat Deployer Installation on the MPEP
+In-Flight Maintenance Lab CDRA Valves Remove and Replace – Part 1
+Multi Omics Fecal Sample Operations
+Multi Omics Fecal Sample MELFI Insertion
+Multi Omics Fecal Stow
+[Н2] Pump Removal from Spare БРП-М.
+СОЖ maintenance
+MATRYOSHKA-R. Set Up BUBBLE Dosimeters and Take Measurements. Prepare the Memory Card for Return.
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+STaARS Cryotube Kit MELFI Insertion #2
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Radi-N Detector Retrieval/Readout
+XF305 Camcorder Setup
+Atomization syringe replacement 2
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters from USOS
+MATRYOSHKA-R. BUBBLE-Dosimeter Retrieval and Readout
+Water Resource Management (WRM) Resupply Tank (RST) Pumping Init
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Treadmill 2 (T2) Handover Video Review
+T2 Crew Handover
+Water Resource Management (WRM) Resupply Tank (RST) Pumping Terminate
+Transfer Cygnus Cargo Operations
+Combustion Integrated Rack Doors Open
+Combustion Integrated Rack Front End Cap Open
+ACME CABLE CHECK
+Combustion Integrated Rack Front End Cap Close
+Combustion Integrated Rack Doors Close
+In-Flight Maintenance CDRA Valve Remove and Replace – Part 2
+Wastewater Storage Tank Assembly (WSTA) Fill
+WORF Laptop Connect
+EVA Bag Stow
+In-flight Maintenance (IFM) Umbilical Interface Unit Remove and Replace
+Installation of Version 5.0 SW on RSK1 Laptop.
+Auxiliary Laptop Computer System Virus Definition File Update
+On-board Training (OBT) Dragon Robotics Review
+Preparation for [СНТ]-50МП and [СТ-25] R&R.
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+In-flight Maintenance (IFM) Umbilical Interface Unit Remove and Replace Gather
+PAO Preparation
+BD-2 Roller Position Check. Photograph the Position of BD-2 Roller with respect to External Roller (Raise BD-2 Curtain). Downlink images via OCA
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Cygnus Cargo Operations Conference
+Extravehicular Activities (EVA) Umbilical Interface Assembly (UIA) Biocide Filter Changeout
+In-Flight Maintenance CDRA Valve Stow
+On-Board Training (OBT) Dragon OBT Conference
+Extravehicular Mobility Unit (EMU) Servicing and Cooling Umbilical (SCU) Removal
+On-board Training (OBT) Dragon Rendezvous Review
+Wireless Compose SD Card Data Deletion
+Exercise Data Downlink via OCA
+Remove БД-2 to R&R [СНТ]-50МП and [СТ]-25. Cover БД-2 Recess.
+On-board Training (OBT) Dragon Rendezvous Review
+Extravehicular Mobility Unit (EMU) Servicing and Cooling Umbilical (SCU) Check
+Photo/TV CUCU Video Setup
+COTS UHF Communication Unit (CUCU) Activation
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Space Automated Bioproduct Lab, CO2 Incubator Removal
+Space Automated Bioproduct Lab 3, Ice Brick Insertion
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Checkout
+GEMATOKRIT. Hardware Setup
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Stow
+Photo TV CUCU Video Deactivation 
+
+Completed Task List Activities:
+
+ARED Cable Arm Rope Tension Check [Completed GMT 175]
+Configure ROBoT for Dragon Capture Self Study [Completed GMT 175]
+Orbital ATK-9 Cargo Environment Sensor (CES) Data Download [Completed GMT 175]
+Potable Water Dispenser (PWD) Filter Circuit Breaker Reset [Completed GMT 175]
+STEM Conference Recorded Greeting [Completed GMT 175]
+WHC KTO REPLACE [Completed GMT 175] 
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Cubesat Deployer Installation
+CUCU Checkout 
+

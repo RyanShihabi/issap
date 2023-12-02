@@ -1,0 +1,89 @@
+
+Extravehicular Activity (EVA) Preparations:  The crew continued with preparations for the second Battery Upgrade EVA. Today, the crew utilized Dynamic Onboard Ubiquitous Graphics (DOUG) Software to review the translation paths during the upcoming EVA, followed by a conference with ground specialists to answer any questions. Ground teams continued to monitor the discharge of the Channel 1A batteries.  The second of the two EVAs to replace the Channel 1A/3A batteries is scheduled Friday, January 13th.
+Mobile Servicing System (MSS) Operations:  Yesterday and overnight (GMT 009-010), the Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) Body and Arm2 as required to unstow the Lithium-Ion (Li-Ion) battery from slot E of the H-II Transfer Vehicle 6 (HTV6) Exposed Pallet (EP) and installed it in slot 5 of the 1A Integrated Electronics Assembly (IEA).   They then removed the 1A-1 NiH2 battery from its slot on the 1A IEA and stowed it in slot C of the HTV6 EP.  Next they unstowed the Li-Ion battery from slot D of the HTV6 EP and installed it in slot 1 of the 1A IEA.  Finally the Robotics Ground Controllers maneuvered the SSRMS and SPDM to a park position.
+Multi-Omics Collections: This morning the crew performed sampling in support of the JAXA Multi-Omics experiment. Various samples were collected and stowed in MELFI four times throughout the crew’s on-orbit duration in addition to a questionnaire and ingestion of fructooligosaccharide (FOS). The objective of Multi-Omics is to understand the gut ecosystem of astronauts in the space environment, especially focusing on the immune dysfunction, and to evaluate the impact of fructooligosaccharide (FOS). 
+Lighting Effects Meter Reading: Today the crew setup and configured the Light Meter hardware and took readings in various locations across the ISS.  The measurements were taken using light from the legacy General Luminaire Assemblies (GLAs), the upgraded Solid State Lighting Assemblies (SSLAs), ambient light from the Cupola, and a dark reading with lights off in a specified module.  The Lighting Effects experiment hopes to better quantify and qualify how lighting can effect habitability of spacecraft. The light bulbs on the ISS are being replaced with a new system designed for improved crew health and wellness. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have major implications for people on Earth who use electric lights. 
+Human Research Collections: A crewmember performed Flight Day 60 urine collections in support of several Human Research experiments today. Samples for the Biochemical Profile, Repository, and Cardio Ox were collected and stowed in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body. Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions. Cardio Ox determines whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis in astronauts. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+HRF Generic Urine Collection
+HRF Generic Sample MELFI Insertion Operations
+Membrane Filter-Separator (МФР) water fill.
+Photo TV GoPro Battery Charging
+Multi Omics Fecal Sample Operations
+UPA Brine Filter Gather
+DAN. Experiment Operator Assistance
+Urine Processor Assembly (UPA) Brine Filter Changeout
+Fine Motor Skills Experiment Test
+Multi Omics Fecal Sample MELFI Insertion
+Multi Omics Fecal Stow
+Multi Omics Item Gathering
+Fine Motor Skills Experiment Test – Subject
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+RELAKSATSIYAHardware Setup.
+WSTA Fill
+В1, В2 Fan Screen Cleaning in DC1
+HRF Generic Urine Collection
+Hardware stowage for disposal in Progress 433 (DC1) and IMS updates
+HRF Generic Sample MELFI Retrieval Insertion Operations
+RELAKSATSIYA. Parameter Settings Adjustment.
+RELAKSATSIYA. Observation. 
+Crew reseats current MSG hard drive.
+RELAKSATSIYA. Closeout Ops and Hardware Removal.
+Photo TV GoPro Setup
+Photodocumentation of the EPO Pesquet Ceres
+Extravehicular Mobility Unit (EMU) Resize
+HRF Generic Urine Collection
+HRF Generic Sample MELFI Insertion Operations
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Checkout of ВП-2 Pilot’s Sight and Comm Interfaces.
+Cleaning fan screens on FGB interior panels (116, 316, 231, 431)
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+ESA Weekly crew conference
+Extravehicular Activity (EVA) Procedure Review
+Checkout of the Wide Angle Vertical Sight (ВШТВ).
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ. Filling and Separation of ЕДВ-СВ No.1162 (00063575R, ФГБ1ПГО_1_109) from ЕДВ No.1263 (00058344R, ФГБ1ПГО_1_109).
+Scheduled PUMA Checkout.
+СОЖ maintenance
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review
+Extravehicular Activity (EVA) Procedure Conference
+Rechargeable EVA Battery Assembly (REBA) Installation
+HRF Generic Urine Collection
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+HRF Generic Sample MELFI Retrieval Insertion Operations
+Charging EVA Camera D4 Battery
+HRF Generic Frozen Blood Collection Setup
+RELAKSATSIYA. Charging battery for Relaksatstiya experiment (initiate)
+
+Completed Task List Items
+
+SSC-6 Connect [Completed Saturday]
+EMU Resize [Completed Sunday]
+EVA Procedure Review [Completed Sunday]
+MSL-SQF Sample Cartridge MPC Verification [Completed Sunday]
+JEM Camera Audio Configure [Completed Sunday]
+COL1O2 Cleanup [Completed Sunday]
+Express Rack Drawer M1 Audit [Completed Sunday]
+SSC-8 Vent Clean [Completed Sunday]
+EHDC Wanted Poster [Completed Sunday]
+Super Bowl Messages [Completed Sunday]
+EXT MDM Hardware Gather [Completed Monday]
+Retrieve Biomolecule Sequencer Flow Cell from MELFI 1 [Completed Monday]
+Retrieve Biomolecule Sequencer Media Syringe Tube from MELFI 2 [Completed Monday]
+Biomolecule Sequencer Sample Initialization [Completed Monday]
+Biomolecule Sequencer Sample Stop [Completed Monday]
+Replace KTO when full.
+Food Intake Tracker (FIT) Install
+Degas the PWRs listed in the stowage note in prep for EMU water recharges.
+Plug-in Plan Audit – Air Lock and Cupola
+Plug-in Plan Audit – LAB
+Plug-in Plan Audit – N2
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Channel 1A Battery Robotics Ops – Day 3 
+

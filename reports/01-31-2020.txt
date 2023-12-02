@@ -1,0 +1,144 @@
+
+CAL (Cold Atom Lab): The crew completed the last steps of the Fiber Optics inspections for Module 3 and closed out the CAL in Express Rack 7. The CAL produces clouds of atoms that are chilled to about one ten billionth of a degree above absolute zero – much colder than the average temperature of deep space. At these low temperatures, atoms have almost no motion, allowing scientists to study fundamental behaviors and quantum characteristics that are difficult or impossible to probe at higher temperatures. In microgravity, researchers may be able to achieve even colder temperatures than what is possible on the ground, and observe these cold atom clouds for longer periods of time.
+CBEF-L (Cell Biology Experiment Facility-L): The crew injected disinfectant into the Humidifier-2 unit and then installed the Humidifier onto the CBEF facility. CBEF-L is a Japan Aerospace Exploration Agency (JAXA) new sub-rack facility, which is an upgraded facility of the original Cell Biology Experiment Facility (CBEF) currently aboard the International Space Station (ISS). CBEF-L provides new capabilities with additional new resources such as Full High Definition video interface, Ethernet, 24 VDC power supply, and a larger diameter centrifugal test environment. By using the original CBEF and CBEF-L as one facility for the same experiment, the payload user is provided with an upgraded experimental environment that can handle the processing of more experimental samples for a wider array of experiments. 
+DOSIS 3D (Dose Distribution Inside the ISS – 3D): The crew de-installed 10 passive detector pouches (PDP) and 1 triple detector pouch (TDP) from Columbus, which will be returned on SpX-20. This experiment uses active and passive detectors to determine the radiation doses inside the ISS and provides documentation of the actual nature and distribution of the radiation fields. A concise three dimensional dose distribution map of all the segments of the ISS will be developed based on this data and data from JAXA and NASA monitoring devices. 
+Hourglass: The crew removed the Hourglass Box hardware from the Cell Biology Experiment Facility (CBEF). The Hourglass investigation examines the relationship between gravity and the behavior of granular materials such as regolith that covers the surface of planets and planetary-like bodies. Researchers observe various granular materials inside an hourglass and a measuring cylinder under different gravity conditions. Better understanding of the behavior of these materials supports the design of spacecraft for future missions landing on the surfaces of planets and other celestial bodies. 
+Made In Space – RECYCLER: The crew performed trouble shooting steps to get the RECYCLER powered up on rack ER9B. Attempts to power on the payload were unsuccessful as there was an issue with the payload hardware. The Made in Space – RECYCLER recycles polymer materials into filament that can be used as feedstock for the Made in Space 3D printer on the space station. Crews can use materials and parts that have reached the end of their useful life to create new items using 3D printing. This reduces the weight and mass of supplies that must be brought into space from Earth, an important capability for deep space missions. 
+STPSat-4: The crew completed the setup to downlink the high definition XF305 Camcorder video of the STPSat-4 deployment. The crew also removed and stowed the CYCLOPS hardware from the JEM slide table. Launched from the International Space Station, Space Test Program Satellite-4 (STPSat-4) is a suite automated for robotic space tools and sensors that test new equipment configurations and monitor space conditions. STPSat-4 specifically includes space weather sensors, solar panels, an antenna array and devices for tracking location of both satellites and their astronomic surroundings. This project demonstrates how a range of new technologies can be integrated on nanosatellite platforms.
+Vascular Echo: The crew performed Doppler ultrasound scans using the Cardiolab Portable Doppler probe following a one minute exercise period. Cardiac and vessel structure and function with long-duration space flight and recovery (Vascular Echo) examines changes in blood vessels and the heart while the crew members are in space, and then follows their recovery on return to Earth. The results could provide insight into potential countermeasures to help maintain crewmember health, and quality of life for everyone.
+Systems:
+Northrop Grumman 12 (NG-12) Departure:  Today, the crew monitored Cygnus release and departure from ISS. Cygnus departed the ISS at 8:35 AM CT following an 88 day berthed duration. Cygnus will enjoy 29 days of free-flight before destructive re-entry which is planned for February 29th. Today marks the first Cygnus release using ground controlled SSRMS Operations.
+Extravehicular Mobility Units (EMU) 3004 and 3008 Loop Scrub, and Iodination: Following up from last Saturday’s EVA, the crew performed Extravehicular Activity Mobility Unit (EMU) water loop scrubs. This procedure involved performing a water loop scrub on two EMU suits, and treating them with an iodinated biocide, which helps maintain the EMUs for the next EVA. 
+Max Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS): ISS CDR completed Max CEVIS tests today. This test is used by the medical community to evaluate astronauts’ aerobic fitness. It is performed three times per increment.
+Environmental Health System (EHS) Microbial Air and Surface Sampling: The crew took surface and air samples for microbial analysis using the Microbial Air Sampler (MAS) and Surface Sample Kit (SSK). These samples will be incubated in Petri dishes, giving medical personnel a gauge of microbial growth in the air and on surfaces of the ISS. The EHS monitors the atmosphere for gaseous contaminants from nonmetallic materials off-gassing, combustion products, and propellants, microbial contaminants from crewmembers and Station activities, water quality, acoustics, and radiation levels.
+Completed Task List Activities:
+
+WHC KTO Replace
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload operations support
+SSRMS Cygnus departure support
+SSRMS walk-off from Node2 to MBS3
+Unstow SPDM from the lab PDGF
+MT translate from WS6 to WS4 in preparation for IDA3 Survey
+
+Saturday, 2/1 (GMT 032) Crew Off-Duty
+Payloads:
+
+
+CIMON procedure review, unstow, battery charge and soundcam chk (ESA)
+Probiotics Fecal collect (JAXA)
+HRF Saliva setup (NASA) 
+
+Systems:
+
+59S Crew Departure Preparations
+Portable Computer System (PCS) Connect after Ground commanded C&C transition
+ISS Housekeeping
+
+Sunday, 2/2 (GMT 033) Crew Off-Duty
+Payloads:
+
+
+CIMON commissioning and Mood detect (ESA)
+HRF Saliva collect for SM, Functional Immune (NASA)
+Vascular Aging Bio Monitor review (CSA)
+LIDAL Orientation chk (NASA)
+BioMonitor H/W setup and donning, 72 hr session (CSA)
+
+Systems: 
+
+None
+
+Monday, 2/3 (GMT 034)
+Payloads:
+
+
+BioMonitor wearable changeout (CSA)
+Cerebral Autoregulation setup (JAXA)
+Probiotics Item Gather (JAXA)
+HRF Saliva Collect for FI and SM (NASA)
+NanoRacks CubeSat Deployer Review (NASA)
+MPEP adapter plate and Capture Mech onto JEM Al Slide Table (NASA)
+Kidney Cells Pump removal from SABL (NASA)
+LSG Work Volume stow (NASA)
+Standard Measures Fecal collect setup (NASA)
+Food Consolidate (NASA)
+
+Systems:
+
+Soyuz Decent Training
+WHC Maintenance
+NG-13 Cygnus Rendezvous OBT
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Hourglass Box removal from Cell Biology Experiment Facility (CBEF)
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Cygnus PCS Command and PROX Link Verification
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+Checking cover closure on SM windows 6, 8, 9, 12, 13, 14.
+Cold Atom Lab Remove And Replace Science Instrument Closeout
+CARDIOVECTOR. Experiment Session.
+ISS Crew departure preparation
+Cell Biology Experiment Facility (CBEF) Preparation for Disinfection
+USOS Window Shutter Close
+JEM Airlock Press
+СОЖ Maintenance
+Cell Biology Experiment Facility (CBEF) Humidifier Installation for CBEF Incubator Unit 1G
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Food Acceptability Survey
+Crew Departure Preparations for Return to Earth
+STPSat XF305 Video Setup
+JEM Airlock Leak Check
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Food Acceptability Survey
+Cyclops Removal Operation
+Cold Atom Lab Science Module Lab Relocate
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Veggie Monitoring Reference Material Review
+Environmental Health System (EHS) – Microbial Air Sampler (MAS) Kit Sample Collection
+Inventory Management System (IMS) conference
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Iodination
+ISS Crew departure preparation
+N1 Deck hatch MPEV close
+Pressure Management Device (PMD) Teardown
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Exercise Session
+WSS SD Card R&R
+DOSIS 3D Passive Detectors De-Installation from Columbus (10 PDPs and 1 TDP).
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Set Up
+Recycler Troubleshooting
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Crew Departure Preparations for Return to Earth
+Space Station Remote Manipulator System (SSRMS) Cygnus Release Preparation
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Power Up
+Space Station Remote Manipulator System (SSRMS) Cygnus Release Briefing
+Space Station Remote Manipulator System (SSRMS) Cygnus Release and departure monitoring.
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub De-configuration
+INTER-MAI-75.  HAM Radio Activation.
+Vascular Echo Leg Doppler PDOP Measurement
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation
+PAO event, prep. TV report
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+Diagnostics of SM Power Supply System (СЭП) Filter Unit (БФ-1М) and Main Bus Assembly (БСШ1).
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+LSG Work Volume Illumination Troubleshoot
+On MCC Go Turn off camcorder, TV system monitoring equipment, close applications
+INTER-MAI-75. Closeout
+Restow Vestibule Outfitting Kit (VOK)
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+Metal Oxide (METOX) Regeneration Termination
+Metal Oxide (METOX) Regeneration Initiation
+Private Psychological Conference (PPC)
+Cell Biology Experiment Facility (CBEF) Humidifier Closeout
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+HRFC Lid Latch Recovery
+ISS Experience Solid State Drive Changeout
+
+ 

@@ -1,0 +1,96 @@
+
+Urine Processing Assembly (UPA) Potential Wastewater Storage Tank Assembly (WSTA) Leak: This morning an unexpected caution indicating “UPA Potential WSTA leak” annunciated following use of the Waste and Hygiene Compartment (WHC). The crew isolated the UPA and WHC was configured to internal [EDV] to isolate the system. An on-orbit inspection by the crew showed pretreated urine on the urine valve block. The crew cleaned up the pretreated urine and closed out the WHC. WHC is No-Go for use and ground specialists are working the follow-on plan.  The crew has been authorized to use the Russian toilet.  Due to the leak, the planned WSTA leak was aborted.
+Cygnus Departure: Cygnus was unberthed nominally from the ISS at 5:23 AM CST and was released at 7:22 AM CST. Post departure science objectives for Cygnus including Saffire-II and NanoRacks CubeSat deployments.  Cygnus re-entry is planned for November 27.
+
+Later today, Saffire-II will initiate and conduct a roughly 2-hour experiment session, followed by multi-day data downlinks. The Saffire-II experiment attempts to quantify the flammability of several materials in microgravity, and compares them to flammability limits in normal gravity. 
+The NanoRacks CubeSat Deployer – External (NRCSD-E) deploy is planned November 25, at which time the Cygnus will be 100 km above the ISS, this will be the the first time NRCSDs deploy above the ISS. A total of 4 LEMUR-2 satellites will deploy from the Cygnus vehicle.  The NanoRacks-LEMUR-2 satellites are part of a remote sensing satellite constellation that proves global ship tracking and weather monitoring.
+
+Marrow Collections: The crew performed their first blood collections in support of the Canadian Space Agency’s (CSA’s) Marrow experiment.  After collecting, the blood was spun in the Refrigerated Centrifuge and stored in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).   The Marrow investigation looks at the effect of microgravity on the bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow. 
+Fine Motor Skills (FMS): The 49Soyuz USOS crew performed their first FMS sessions this morning.  FMS is performed regularly during the crews’ on-orbit stay, with several sessions within the first week, then as the mission progresses, more time elapses between sessions.  Each FMS session involves the crew performing a series of interactive tasks on a touchscreen tablet. This investigation is critical during long-duration space missions, particularly those skills needed to interact with technologies required in next-generation space vehicles, spacesuits, and habitats. The crewmember’s fine motor skills are also necessary for performing tasks in transit or on a planetary surface, such as information access, just-in-time training, subsystem maintenance, and medical treatment.
+MATISS Installation: The crew installed four MATISS sample holders in the Columbus module. The MATISS experiment investigates the antibacterial properties of materials in space to see if future spacecraft could be made easier to clean. The experiment aims to understand the mechanisms of attachment of biofilms in microgravity conditions. The optimization of the internal surfaces of the International Space Station (ISS) is a challenge. The first objective is to simplify MATISS decontamination operations to save time crew. The second objective relates to space exploration: the validation of these innovative surfaces would indeed have new assets for the development of future spacecraft, including in the context of long journeys. 
+Microgravity Science Laboratory (MSL) Sample Cartridge Assembly (SCA) Installation: The crew inserted a new cartridge in the MSL, located in the Material Science Research Rack (MSRR), today.  The sample processing date is scheduled for later in the increment.  The Batch-2b of the Materials Science Laboratory Sample Cartridge Assemblies (MSL SCA-Batch 2b-ESA) serves two projects investigating how different phases organize in a structure when metallic alloys are solidified. The METCOMP project studies the phase formed by the reaction of the remaining liquid phase with an already formed solid, to form a second solid phase on cooling. For this purpose, Bronze (Copper-Tin Alloys) of different compositions will be processed. The other project, Solidification along a Eutectic path in Ternary Alloys (SETA), looks at how two phases that form together organize into lamellar, or fibre, structures when cooling Aluminium (Copper-Silver Alloys). Both projects will provide benchmark samples that will enable to test numerical models that aim to predict these structures. 
+Mobile Servicing System (MSS) Operations:  Following the successful Cygnus unberth and release, the Robotics Ground Controllers performed a video survey of the Node 1 Nadir Common Berthing Mechanism (CBM).  They then walked the Space Station Remote Manipulator System (SSRMS) off Node 2 onto Mobile Base System (MBS) Power Data Grapple Fixture 3 (PDGF3) and maneuvered the SSRMS to a Mobile Transporter (MT) translation configuration.  Currently the Robotics Ground Controllers are performing additional troubleshooting of the SSRMS End B Camera Light Pan/Tilt Unit (PTU) Assembly (CLPA).
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+USOS Window Shutter Close
+МО-8. Setup
+Body Mass Measurement – BMMD
+CSA Generic Frozen Blood Collection
+Photo/TV Depress Video Setup
+Cygnus-Node1 Vestibule Depressurization: Part 2
+МО-8. Closeout Ops
+CSA Generic Refrigerated Centrifuge Configure
+Cygnus-Node1 Vestibule Depressurization: Multimeter Reset
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+COSMOCARD. Photography of the Experiment Session [Aborted]
+CSA Generic Sample MELFI Insertion
+Auxiliary Laptop Computer System Virus Definition File Update
+CARDIOVECTOR. Experiment Ops.
+Fine Motor Skills Experiment Test
+CARDIOVECTOR. Photography of the Experiment Session
+Closing Shutters on windows 6, 8, 9, 12, 13, 14
+CSA Generic Frozen Blood Collection Conclude And Stow
+Cygnus-Node1 Vestibule Depressurization: Part 3
+Measuring CO partial pressure at Central Post using CSA-CP analyzer
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink Setup
+Bringing ODF up to date using Soyuz 733 delivered files
+Cygnus PCS Command and PROX Link Verification
+Cygnus-Node1 Vestibule Depressurization: Part4
+Glacier Tray Insert
+Repositioning ПТАБ-1М (Storage Battery Current Converter) (from pos. А306 to pos.А308) and ПТАБ-1М (from pos.А308 to pos.А306), preparation
+Scheduled monthly maintenance of Central Post Laptop Log-File Downlink from the Laptop.
+ISS Crew Orientation
+PILOT-T. Preparation for the experiment.
+Cygnus-Node1 Vestibule Depressurization: Part 5
+PILOT-T. Experiment Ops.
+Photo/TV Depress Video Deactiviation
+ISS Crew Handover
+ISS Crew Adaptation
+Cygnus Procedure Review
+Space Station Remote Manipulator System (SSRMS) Cygnus Release
+Fluid Shifts Dilution Measures Reference Material Review
+Fluid Shifts Dilution Measures Setup
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+Filling (Separation) of ЕДВ (КОВ) for Elektron – Handover
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ
+ARED USB Adapter Cable Installation
+HTV-6 ESA items trash gather
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+ESA Active Dosimeter Mobile Unit Allocation
+СОЖ maintenance
+Cygnus PROX Switch OFF
+Remote Workstation Monitor HD Video Downlink Deactivation RWS.
+European Modular Cultivation System Air Mix Supply Module Supply Check
+PCS Laptop Relocate
+PILOT-T. Experiment Ops.
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill [Aborted]
+DOSIS 3D Passive Detector Pouch handover after upload of dosimeters with Soyuz.
+Installation of the DOSIS 3D passive detector packs in Columbus and photodocumentation.
+SKIN B Laptop Power connection using METERON2 Laptop Power Chain
+Material Science Laboratory SCA Exchange2B #5
+Installation of Matiss Sample Holders
+IMS Update
+Meteor Shutter Open
+Joint Station LAN Edge Router Cable Demate
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Exercise Data Downlink via OCA
+RAD Detector USB Cable Install
+KORREKTSIYA. Logging Liquid and Food (Medicine) Intake
+Preparing for Antivirus scan on Auxiliary Computer Laptops
+
+ Completed Task List Items
+
+PPE Cleanup [Completed Saturday]
+Veggie Bungee Wipe [Completed Saturday]
+Wanted OGA H2 Sensor [Completed Saturday]
+Veg 03 Pillow Water [Completed Saturday]
+49S USOS Unpack
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Cygnus unberth and undock ops
+SSRMS ACBM inspection
+SSRMS Walkoff to MBS3 
+

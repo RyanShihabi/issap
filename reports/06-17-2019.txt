@@ -1,0 +1,166 @@
+
+VECTION: The crew performed a Vection experiment session. The objective of the study is to determine to what extent an astronaut’s ability to visually interpret motion, orientation, and distance may be disrupted in a microgravity environment, and how it may adapt, and how it may be changed upon return to Earth. Multiple experimental time points inflight and upon return to Earth allows for the adaptation and recovery process to be investigated.
+Life Support Rack (LSR): The crew removed the Waste Water Bus inlet filter today, replacing it with an alternate filter configuration so the previously used filter can be installed for use with the Water Storage System (WSS). LSR is a Technology Demonstrator for Closed Loop Air Revitalization. It captures carbon dioxide from cabin air and recovers 50% of its oxygen for use by the astronauts. LSR will operate for a minimum of one year on the ISS to demonstrate the robustness of the technology for future Exploration Missions.
+Japanese Small Satellite Orbital Deployer 11 (J-SSOD#11): The JSSOD deployer successfully launched four satellites and the crew performed imagery operations during the deployments. J-SSOD provides a novel, safe, and small satellite launching capability to the ISS. It is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites. Once J-SSOD is installed on the Multi-Purpose Experiment Platform (MPEP) by crewmembers, it is passed through the JEM airlock for retrieval, positioning, and deployment by the JEMRMS.
+Fiber Optic Production (FOP): The crew performed a preform and spool exchange allowing the ground to initiate a fiber optic print run. The Fiber Optic Production investigation creates optical fibers with high commercial value aboard the ISS using a blend of zirconium, barium, lanthanum, sodium, and aluminum called ZBLAN. It operates in the Microgravity Science Glovebox (MSG). Extensive theoretical studies along with a limited number of experimental studies suggest that ZBLAN optical fibers produced in microgravity should exhibit far superior qualities to those produced on Earth. The resulting optical fiber from Fiber Optic Production is expected to help verify these studies and guide further engineering efforts to manufacture high value optical fiber in large volume aboard the ISS.
+Rodent Research-12 (RR-12): The crew completed a conference with the NASA Rodent Research and the JAXA Mouse Mission teams to discuss logistics and operational lessons learned for both animal research projects. Rodent Research-12 examines the effects of spaceflight on the function of antibody production and immune memory. Spaceflight is known to have a dramatic influence on immune response, but there is little research on its effect following an actual challenge to the body’s immune system. Using a mouse model makes this possible, as the mouse immune system closely parallels that of humans. 
+Advanced Resistive Exercise Device (ARED): The crew inspected the X-rotation dashpots, cycled the main arm through full range of motion and greased the Vibration Isolation System (VIS) rails and rollers. Regularly scheduled quarterly maintenance, this activity is required to ensure ARED remains fully functional as an exercise resource on-board ISS.
+On-Board Training (OBT) Soyuz Descent Training: In preparation for 57S departure scheduled for June 24, Oleg and David performed today’s OBT using a Soyuz simulator. During the drill, they practiced a nominal descent and the transition to Manual Entry Control [РУС]. Responses to emergencies caused by nominal decent hazards were also reviewed.
+Mobile Servicing System (MSS) Operations: Over the weekend, Robotics Ground Controllers extracted the Flight Releasable Active Mechanism (FRAM) spare Battery Charge/Discharge Unit (BCDU) from External Stowage Platform (ESP) 3 Site 6, removed the empty BCDU Flight Support Equipment (FSE) FRAM from ELC-1 Site 4 and installed the spare BDCU FRAM into the freed location on site 4. Finally, they installed the empty BCDU FSE FRAM to ESP 3 Site 6 completing FRAM relocation operations. These activities are needed to support the upcoming Alpha Magnetic Spectrometer (AMS) EVA and makes room for the spare Li-ION battery arriving on SpX-18.
+Port Crew Quarters (CQ) Cleaning: In preparation for the return of 57S next week, the crew performed this scheduled maintenance to clean intake and exhaust ducts, fans and airflow sensors. Pre-cleaning photos were taken throughout the procedure to help evaluate the effectiveness of the recently installed inlet screens.
+Live Public Affairs Office (PAO) Event: Koch and McClain participated in a live event with CNN in New York, New York and “Our State” Magazine in Greensboro, North Carolina this morning.  Today’s event, portions of which will be broadcast on NASA-TV, will help connect operations on-board ISS with the upcoming anniversary of the Apollo 11 landing.
+Completed Task List Activities:
+
+Friday
+
+ARIS Stow Reconfig
+FCF Hardware Trash
+Vascular Echo Ultrasound
+
+
+Saturday
+
+NG-11 Trash Gather
+Rodent Research conference review
+
+
+Today
+
+SSL Trash Fill
+EVA S3 Boom Ethernet Cable Locate
+EVA Wire Tie Caddy Config
+EVA IDA Reflector Bag Locate
+
+
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SSRMS Walkoff to MBS3
+Prep for MISSE Robotics Ops
+OBT Soyuz Descent Drill
+Nominal commanding
+
+Look Ahead:
+Tuesday, 6/18 (GMT 169)
+Payloads:
+
+
+Vascular Echo Blood pressure setup and Measurements (CSA)
+Marrow Ambient Air Sample (CSA)
+Standard Measures (Fecal Collect) (NASA)
+HRP Urine Collect (NASA)
+Food Acceptability (NASA)
+VEG-04 Plant Check (NASA)
+HRF Frozen blood setup (NASA)
+LTE Post Sleep (NASA)
+LSR video setup (ESA)
+Capillary Structures Sorbent 4 Cell Ops
+NG-11 SEEKER Logo Imagery from Cupola Window (NASA)
+Genes in Space-6 CRISPR part 4 sequencing (NASA)
+
+Systems:
+
+EMU HUT R&R/checkout
+Crew departure prep
+57S pre-pack
+
+Wednesday, 6/19 (GMT 170)
+Payloads:
+
+
+Capillary Structures
+STaARS cryotube kit insertion
+ISS Experience crew conference
+
+Systems:
+
+OBT emergency mask review
+CBEF humidifier installation
+Crew departure prep
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Insertion Operations
+HRF Generic HRF Centrifuge Frozen Blood Collection 30 Minutes Subject
+HRF Generic HRF Centrifuge Frozen Blood Collection Operator
+HRF Generic HRF Centrifuge Frozen Blood Collection Configuration
+TOCA Water Recovery System (WRS) Sample Analysis
+HRF Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+Video Setup for Life Support Rack operations
+HRF Generic Sample MELFI Insertion CSA
+Exchange of Waste Water Filter
+On MCC Go Regeneration of БМП Micropurification Cartridge Ф1 (start)
+HRF Generic Sample MELFI Insertion
+Vection Hardware Deployment
+Replacement of urine receptacle and filter-insert in the toilet. Post-Replacement Activation
+Soyuz 741 Sokol Suit Leak Check
+[СТТС] Configuration for MRM2 comm
+Vection Experiment Session
+Pressure Soyuz 741 (БО) relief valve (КСД) from EVA Support Panel 2 (MRM2)
+In Flight Maintenance (IFM) Crew Quarters (CQ) Port Cleaning
+VECTION Hardware Teardown
+Comm reconfig for nominal ops
+Sokol Suit Dryout, Suits 1 and 2 Setup for Drying
+EML. Opening Gas Valves
+HRF Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+LBNP Training (PRELIMINARY)
+LBNP Training (PRELIMINARY) assistance
+Water Recovery and Management (WRM) Waste Water Bag (WWB) Split
+JEMRMS Small Satellite Deployment Observation
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Vection Flash Drive Stow
+Terminate Drying Suits 1,2
+Start Drying Spacesuit 3 and Set Up the 1st Pair of Gloves for Drying
+TOCA Sample Data Record
+Fiber Optic Production Sample Exchange
+Finish drying the 1st pair of gloves and start drying the 2nd pair
+Multicast MPEG2 TV Transmission Test via Ku-band
+Terminate drying the second pair of gloves
+KENTAVR fit check
+Food Acceptability Questionnaire
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+MOTOCARD. Experiment Session
+HRF Generic Urine Collection Male
+PAO Preparation
+MOTOCARD. Operator Assistance with the Experiment
+Food Acceptability Questionnaire
+Public Affairs Office (PAO) High Definition (HD) Config Setup
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+MOTOCARD
+ARED Quarterly Maintenance
+Standard Measures Fecal Collection Setup
+Drying of the 3rd suit – end, start drying the 3rd pair of gloves
+Crew Departure Prep
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+End of drying the 3rd pair of gloves
+Stow suits and gloves after drying
+LMM6 Biophysics Plate Relocate
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+TV Conference with the participants of the project The ISS is on Line (Ku + S-band)
+HRF Generic Urine Collection Male
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+MERLIN 3 Insert
+Setup and configuration of КСПЭ camcorder in SM for MPEG2 TV transmission during descent OBT
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Soyuz descent training
+Soyuz 741 Descent OBT and Briefing on Return Equipment List & Stowage
+Vacuum Cleaning area behind panels 405, 406 and MRM1 Interior
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+PROBIOVIT. Glovebox-S Setup
+Health Maintenance System (HMS) OCT2 Setup
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Health Maintenance System (HMS) – OCT2 Exam – Operator
+Health Maintenance System (HMS) OCT2 Exam – Subject
+Health Maintenance System (HMS) OCT2 Stow
+On MCC Go Deactivation of camcorder, TV system monitoring equipment, closing applications
+On MCC Go Regeneration of Micropurification unit (БМП) Ф1 cartridge (completion)
+
+ 

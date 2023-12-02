@@ -1,0 +1,21 @@
+
+Payloads:
+General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER): The Glacier trays (two), tray support structures, and desiccants were removed and stowed. The GLACIER refrigerators are ultra-cold freezers that will store samples at temperatures as low as -160°C (-301°F).
+ISS Ham Radio: An ISS Ham pass contact was made with Mohammad Bin Rashid Space Centre, Dubai, UAE. Since the earliest space station expeditions, ISS Ham Radio has allowed groups of students in schools, camps, museums, and planetariums to hold a conversation with the people living in space. As the ISS passes overhead, students have about nine minutes to ask crewmembers 10 to 20 questions.
+Systems:
+On-orbit Hearing Assessment (OOHA) with KUDUwave Software Setup and Test: The crew performed a hearing test using an OOHA Headset and KUDUwave software. The assessment measures hearing function while crewmembers are exposed to noise and microgravity during long-duration spaceflight.
+Environmental Health System (EHS) Sample Operations: The crew performed periodic EHS water sampling by collecting water samples from the Potable Water Dispenser (PWD) for in-flight and post-flight analysis. In-flight samples were used to perform a Total Organic Carbon Analyzer (TOCA) analysis that measures the amount of organic constituents in the potable water. The crew also tested the water samples for the presence of Coliform bacteria utilizing a Coliform test bag. These tests are used to determine if the drinking water is still safe for crew consumption.
+Extravehicular Activity (EVA) Mobility Unit (EMU) Loop Scrub and Airlock Deconfiguration: The crew completed an EMU Cooling Loop Scrub. EMU loop scrubs are required preventative maintenance needed to remove any chemical and biological contaminants from the EMU cooling loop. The EMU is and independent anthropomorphic system that provides environmental protection, mobility, life support, and communications for the crewmember to perform an EVA in Earth orbit. The Airlock was also deconfigured and cleaned up following last week’s successful IROSA 1B Install EVA.
+Treadmill 2 (T2) Monthly Inspection: The crew completed a regular maintenance inspection to ensure the T2 exercise device is in good operational condition. The crew inspected all four Snubber Arms for any sign of free play, as well as make any necessary adjustments to reduce the free play. The crew also performed additional inspections for Sorbothane residue on Snubber Pins, the Snubber Pin position within the Snubber Cup, and all tape and witness markings on the T2 Thumbwheels, Snubber Jam Nuts, and Snubber Cup Housing.
+EHS Microbial Air and Surface Sampling: Samples for microbial analysis were taken from the ISS air and surfaces using the Surface Sample Kit (SSK) and Microbial Air Sampler (MAS). These samples will be incubated on media slides and in Petri dishes, giving medical personnel a gauge of microbial growth in the air and on surfaces of the ISS. The EHS monitors the atmosphere for gaseous contaminants from nonmetallic materials off-gassing, combustion products, and propellants, microbial contaminants from crew members and Station activities, water quality, acoustics, and radiation levels.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+CCS S-band TLM HK1 Preempt
+Video Distribution System Survey of N2Z Cargo Dragon (SpX-28)
+EHDC Checkout
+

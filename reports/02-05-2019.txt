@@ -1,0 +1,108 @@
+
+Marrow: This morning a crewmember collected Breath and Ambient air samples for the Marrow study. Marrow looks at the effect of microgravity on bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow.
+Fluid Dynamics in Space (FLUIDICS): Today a crewmember installed the Fluidics hardware and initiated the session 5 autonomous science run. The measurement of liquid displacement within a sphere in microgravity relates to a given kinematic representation of a spacecraft’s fuel tank. The FLUIDICS investigation evaluates the Center of Mass (CoM) position regarding a temperature gradient on a representation of a fuel tank. The observation of capillary wave turbulence on the surface of a fluid layer in a low-gravity environment can provide insights into measuring the existing volume in a sphere.
+Lab Utility Outlet Panel (UOP)-4 Cable Reconfiguration: The crew worked to transfer loads from Lab UOP4 J4 to J3 connections and installed a 120 Volts Direct Current (VDC) Power / Ethernet Cable and Cobalt Brick on J4. This allows for a network connection through Ethernet on UOP4 J4 and enables troubleshooting of Payloads Joint Station LAN data with the ZBook Network Management System Laptop.
+Mobile Servicing System (MSS): On Monday evening, robotics ground controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) to grapple the Special Purpose Dexterous Manipulator (SPDM) located on the U.S. Lab Payload and Data Grapple Fixture (PDGF). Once the SPDM was grappled by the SSRMS, the SPDM was commanded to release the Lab PDGF and it was maneuvered to the Mobile Base System (MBS) and where it was commanded to grapple the MBS PDGF1. Now that the SPDM is located on MBS PDGF1, it is in a good configuration for the Stratospheric Aerosol and Gas Experiment (SAGE) survey this evening.
+Completed Task List Activities:
+
+ARED Bench Fastener Tighten
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SSRMS Operations in support of SAGE and MUSES Survey (Ongoing)
+
+ Two-Day Look Ahead:  
+Wednesday, 02/06
+Payloads:
+
+Lighting Effects log and Cognition tests (NASA)
+Standard Measures Questionnaire (NASA)
+Repository urine collection (NASA)
+Actiwatch Spectrum PLUS chk (NASA)
+BCM Questionnaire (NASA)
+Blood collections (CSA/JAXA)
+WMS-MMS data transfer (NASA)
+FLUIDICS sessions 2&3 (ESA)
+
+Systems
+
+Cygnus Egress and Return Preparation
+
+Thursday, 02/07
+Payloads:
+
+Slingshot Installation (NASA)
+POLAR 3&4 installation (NASA)
+WORF laptop reconnect (NASA)
+
+Systems
+
+Cygnus Robotics Onboard Trainer (ROBoT) Release Session
+Node 1 Nadir CBM Control Panel Assembly (CPA) Installation
+Pressure Management Device (PMD) Equipment Setup and Power and Data connections
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Marrow Breath And Ambient Air Sample Collection – Subject
+Reminder Behavorial Core Measures ROBoT-r Testing
+Extravehicular Activity (EVA)  Training Review
+Preparation of Reports for Roscosmos website and social media
+URAGAN. Observations and photography
+SCENARIO. Observation and photography using the camera
+RS ISS Module Photos
+ECON-M. Observation and photography
+Progress 440 [AO] Cargo Transfers and IMS Ops
+Lighting Effects Sleep Log Entry Subject
+Checkout of Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops and Report
+HRF Generic Urine Collection For Lighting Effects Female
+COLUMBUS Deck 1 and 2 clean-up
+HRF Generic Sample MELFI Insertion Operations
+ABOUT GAGARIN FROM SPACE. HAM Radio Session with Amur State University in Blagoveshchensk
+Pressurization of Elektron-VM Liquid Unit before Activation
+Fluidics hardware installation
+JEM Airlock Press
+VIZIR. Experiment Ops using СКПФУ P/L
+JEM Airlock Leak Check
+Fluidics hardware installation
+HRF Generic Urine Collection Female
+Elektron-VM Signal And Command Matching Unit (БССК) R&R
+Fluidics Run 1 execution
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+In Flight Maintenance (IFM) Pressurized Mating Adapter (PMA) 1 Inter Module Ventilation (IMV) Cleaning
+Plug-in Plan LAB Utility Outlet Panel 4 Receonfiguration
+On MCC GO Mating Elektron-VM БССК telemetry connector
+Current stabilizer СТ-64 and БССК R&R
+HRF Generic Urine Collection Female
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Behavioral Core Measures Journals Entry
+Fluidics Power OFF
+Behavioral Core Measures Journals Entry
+СОЖ maintenance
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+MERLIN EXPRESS Rack Relocation
+Quarterly Maintenance of Central Post Laptop, start test 1
+HRF Generic Urine Collection Female
+MERLIN 3 Desiccant Insert
+Scheduled Quarterly Maintenance of Central Post Laptop, end test 1 and start test 2. Creating reports
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+MELFI 1 Ice Brick Insert 2
+Robot Startup
+Contingency Water Container – Iodinated (CWC-I) Degas
+Quarterly Maintenance of Central Post Laptop, start test 3
+CSA Generic Frozen Blood Collection Setup
+Behavioral Core Measures ROBoT-r Testing
+Behavioral Core Measures Cognition Testing HRF PC 1
+Preparing for Troubleshooting FGB Power Supply System and СУБК devices
+Emergency RS ISS VHF-1 Comm Checkout from USOS
+Scheduled Quarterly Maintenance of Central Post Laptop, end test 3 and start test 4
+Behavioral Core Measures Cognition Testing HRF PC 1
+Behavioral Core Measures ROBoT-r Testing
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Hematocrit.  Hardware Setup
+Quarterly Maintenance of Central Post Laptop, End of test 4 and Closeout Ops
+
+ 

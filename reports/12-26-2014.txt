@@ -1,0 +1,57 @@
+
+Advanced Biological Research System (ABRS):  Cristoforetti removed the ABRS from EXPRESS Rack 2 and prepared it for stowage to return on SPX-5.  The ABRS provides two independently controlled environmental chambers capable of conducting a wide variety of biological investigations using plants, microorganisms, or small arthropods. The temperatures, lighting conditions, and atmospheric compositions within these chambers are adjusted for different experiments.
+Bone Densitometer Validation:  Cristoforetti installed the Bone Densitometer locker in EXPRESS Rack 7.  The Bone Densitometer hardware will be used to perform checkouts and measurements of mice flown as part of Rodent Research operations.  One of the most common side effects of space travel is a loss of bone density, which happens because of microgravity. Researchers can study these effects by evaluating mice flown in space, and use the results to develop treatments for bone density loss in space as well as in patients on Earth. Bone Densitometer Hardware Validation (Bone Densitometer Validation) tests an X-ray device the size of a kitchen microwave oven, which measures bone density, muscle and fat in mice living on the International Space Station.
+Internal Thermal Control System (ITCS) Samples:  Wilmore collected samples from the ITCS system in the Lab, Node 3, Node 3 and Japanese Experiment Module (JEM). The samples will be returned to ground for analysis.
+Portable Emergency Provisions (PEPs) Audit: Virts conducted an audit of the PEPs equipment, including Portable Fire Extinguishers (PFEs), Portable Breathing Assembly (PBA) Oxygen (O2) bottles and Quick Don Mask Assemblies (QDMAs). He verified that the correct items are in the expected locations to ensure emergency provisions are available if needed.
+IMV Flow Measurements:  Cristoforetti used the Velocicalc to collect measurements of the air flow exiting outlets and entering inlets throughout the USOS modules.  She also performed inspections in some areas, including screens.  This is done as part of the on-going system health monitoring.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+ABRS – equipment transfer
+Periodic health assessment – subject
+Crew Onboard Support Kit (КСПЭ) Equipment Audit / r/g 7549
+VIRTUAL. Experiment Ops. Tagup w/specialists / r/g 7557
+WRS – servicing of processing tank from EDV
+URAGAN. Observation and imagery using VSS utilization hardware. / r/g 7564
+EXPR2 – hardware install.
+ITCS sampling on JEM.
+NAPOR – mini RSA. Dual Pointing Platform (ДПН) Firmware upgrade. / r/g 7566
+Bode Densitometer Install in ExPRESS Rack 7
+VIRTUAL. Experiment Ops. / r/g 7561
+COSMOCARD. Closeout Ops / r/g 7550
+JRNL – log entry
+RSK-1 Laptop Antivirus S/W Reconfig. / rg 7559
+MOTOCARD. Experiment Ops / r/g 7562
+PBA and Fire Extinguisher Audit
+On-Orbit hearing assessment using EARQ.
+PROBOY. SW Upgrade / R/g 7565 + Proboj_Init.zip
+ISS Crew Medical Officer CBT
+JRNL – log entry
+PROBOY. RSE1 Laptop Ops. / r/g 7568
+PROBOY. Penetration simulator ops. / r/g 7569
+IMV flow measurements
+PHA audit, selecting PHA for priority use / r/g 7558
+Installation of TBM-1H SW. Tagup w/specialists / r/g 7567
+WRS – servicing of processing tank from EDV
+Elektron-VM purge following shut-sown
+Node 3 MTL sampling
+Lab ITCS LTL sampling
+Node 2 LTL sampling
+WinSCAT Behavioral Assessment
+Camcorder Configuration Test for Photo/TV
+Elife-S2 cable routing
+HMS – food questionnaire
+Crew moding of ISERV camera to nominal mode
+ENA inspection ops.
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Nominal commanding
+

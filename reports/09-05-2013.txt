@@ -1,0 +1,107 @@
+
+Node 3 Carbon Dioxide Removal Assembly (CDRA) Air Selector Valve (ASV) 103 Remove and Replace (R&R):  Flight Engineer (FE)-3 Cassidy performed an R&R of the Node 3 CDRA ASV.  The valve had failed to reach its commanded position (position B) on GMT 214 and 228. Telemetry indicated that the valve had stalled in an intermediate position. This R&R will consume the last spare onboard ISS. However, additional valves are currently being prepared for launch on SpX-3. The valve that will be removed will remain onboard for use in a contingency.  Valve cleaning would be necessary to recover the valve functionality if it becomes necessary.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES): Cassidy and FE-5 Parmitano prepared two SPHERES for Smartphone control. The crew loaded programs and controlled SPHERES via the Smartphone to perform inspection tasks.  SPHERES are bowling-ball sized spherical satellites. Each satellite is self-contained with power, propulsion, computers and navigation equipment. The results are important for satellite servicing, vehicle assembly and formation flying spacecraft configurations.  Information learned from this experiment may lead to simpler autonomous docking allowing for servicing, re-supplying, reconfiguring and upgrading of space systems.
+Asian Seed Experiment Termination:  FE-6 Nyberg retrieved and made observations of red bean sprouts after cultivation.  Downlinked video of crew operations provide students in the Asia-Pacific region with opportunity to learn about space experiments and the space environment.
+Urine Processing Assembly (UPA) Failure:  On Wednesday evening the UPA unexpectedly shutdown approximately 3 hours into a nominal processing cycle.  A data review determined that the cause of the shutdown was due to a spike of the high motor current in the Fluids Control and Pump Assembly (FCPA).  No additional anomalous signatures were seen at the time.  This morning ground control teams attempted a restart of the UPA, but the UPA immediately shutdown due to a high motor current on the FCPA.  Engineering teams will continue to review data from these events; however sustained high motor current signatures have led to FCPA R&Rs in the past. The current FCPA Orbit Replaceable Unit (ORU) was installed in March of this year.  Currently there is one spare FCPA on-board and an additional FCPA is expected to arrive on SpaceX-3.
+Total Organic Carbon Analyzer (TOCA) Ethernet Connection: Today Nyberg performed an activity to connect the TOCA to the Operations Local Area Network (OpsLAN) via Ethernet cable.  The TOCA software was then updated to support this Ethernet connection.  Connecting the TOCA to the OpsLAN will reduce crew time by allowing TOCA data to be copied directly to the network as opposed to requiring the crew to transfer data to the network using a Universal Serial Bus (USB) drive.  All indications are that the software upgrade was successful, however an error message was received that indicates a possible network connection issue.  Ground teams are working to resolve the network connection issue, and are discussing options if the issue cannot be resolved prior to the next TOCA run scheduled for Monday.
+Today’s Planned Tasks
+
+PROK – Urine Sample Collection [Complete]
+KHROMATOMASS. Experiment Setup [Complete]
+KHROMATOMASS. Saliva and Blood Collection  [Complete]
+ATV – ISS Pressurization with Oxygen (start)  [Complete]
+Collecting O2/CO2 Samples (in SM and Columbus) [Complete]
+Crew Departure Prep [Complete]
+MATRYOSHKA-R. Monitoring Tritel Readings [Complete]
+KHROMATOMASS. Closeout Ops  [Complete]
+Set up video equipment to record ARED exercise [Complete]
+Formaldehyde Monitoring Kit (FMK) Stow Operations [Complete]
+Resist Tubule Clean Bench (CB) SETUP [Complete]
+SPHERES – Video cameras and SSC Setup [Complete]
+LBNP Exercise (PRELIMINARY)  [Complete]
+MAI-75. Hardware Setup and Activation.  [Complete]
+MSPR  Experiment Laptop Terminal (ELT) Setup [Complete]
+SPHERES Crew Controlled Smartphone Session On Board Training. [Complete]   
+MAI-75. Hardware Activation and Monitoring.  [Complete]
+ARED Photo/TV Camcorder Setup Verification [Complete]
+SPHERES Test Setup [Complete]
+SPHERES – Payload Conference [Complete]
+Pen and Ink update to SODF POC book [Complete]
+Crew Departure Prep [Complete]
+MEMBRANA. Setup and Start Experiment with Kit 2. Turn on Mode 2.  [Complete]
+Periodic Fitness Evaluation [Complete]
+BRI Log Dump from RSS1  [Complete]
+LBNP Exercise (PRELIMINARY) [Complete]
+SPHERES Crew Controlled Smartphone Session [Complete]
+MAI-75. Hardware Activation and Monitoring. [Complete]
+МАI-75. Equipment Deactivation and Cleanup [Complete]
+Loading disposal hardware to ТК 708 [Complete]
+Cycle Ergometer ВБ-3М Generator Replacement [Complete]  
+ARED Photo/TV Camcorder Setup Verification [Complete]
+Crew Departure Prep [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (start) [Complete]
+MEMBRANA. Activate Heating Mode [Complete]
+IMS and Stowage Conference [Complete]
+ТК 708 Stowage Ops [Complete]
+PROK Diet Logging (Day 1) [Complete]
+Changeout of СРВК-2М purification column assembly [БКО]. Discard the removed unit. [Complete]
+Loading Disposable Hardware to ТК 708 [Complete]
+RWS Powerdown in Cupola [Complete]
+PAO Hardware Setup [Complete]
+SPHERES Test Shutdown [Complete]
+СОЖ Maintenance [Complete]
+Filling ЕДВ (КОВ) [Complete]
+Resist Tubule Clean Bench (CB) Checkout Preparation [Complete]
+Crew Prep for PAO [Complete]
+SPHERES – SSC Relocation [Complete]
+PAO Event [Complete]
+Gradient Heating Furnace (GHF) Heating Units Insulation resistance Measurement [Complete]
+Crew Departure Prep [Complete]
+Photography of Removable Cassette Container [СКК] No. 9 [Complete]
+ATV – ISS Pressurization with Oxygen (terminate) [Complete]
+СКПФ1, СКПФ2 Dust Filter Replacement and MRM1 ГЖТ Cleaning [Complete]
+Periodic Fitness Evaluation [Complete]
+Resist Tubule Clean Bench (CB) Deactivation Preparation [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop  [Complete]
+OBSTANOVKA. Download of Obstanovka P/L Data from БСПН to RSS1 (termination) [Complete]
+Remove and Replace Air Selector Valve (ASV) in Node 3 [Complete]
+Transfer urine From ЕДВ-У to ATV Tank [Complete]
+Asian Seed Experiment End [Complete]
+ARED Photo/TV Camcorder Setup Verification [Complete]
+Assess new MCA Mass Spectrometer Assembly (MSA) R&R access technique [Complete]
+MATRYOSHKA-R. Monitoring Lulin-5 readings [Complete]
+Remove capsules from thermostat and stow. [Complete]
+VZAIMODEISTVIYE. Experiment Ops [Complete]
+MEMBRANA. Hardware Removal and Stowage [Complete]
+ASIAN SEED – Start Replay [Complete]
+Columbus Deck Rack Front cleanup from stowage items [Complete]
+CIR Alignment Guide Installation [Complete]
+Collecting O2/CO2 Samples (in SM and Columbus) [Complete]
+Stow Video Equipment Used for ARED Exercise Video [Complete]
+ASIAN SEED – End Playback and Power off Camcorder  [Complete]
+
+Task List
+
+34S US Prepack [In Work]
+CEO Ops  [Complete]
+ARED Cylinder Evacuation   
+Data Prep for Return (CDR)
+Data Prep for Return (FE-2)
+IMS Edit
+КТО replace
+ЕДВ-У Remove and Replace [Complete]
+Prepare reports for Roskosmos web-site
+URAGAN. Observation and photography
+EKON-M. Observation and photography
+Data Prep for Return (FE-3) [In Work]
+EVA cam buckle inspection. [Complete]
+Crew Arrival Prep
+Cygnus Trash Prep
+Routing an Ethernet cable from TOCA to the NOD3 16-port Ethernet Switch. [Complete]
+Food Audit [Complete]
+SpX3 crew preference repack
+
+Ground
+
+Standard Ground Commanding  [Complete]
+

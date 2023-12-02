@@ -1,0 +1,21 @@
+
+Payloads:
+BioFabrication Facility (BFF): BFF samples were inserted into the Minus Eighty Degree Laboratory Freezer for ISS (MELFI) in preparation of upcoming operations. Using 3D biological printers to produce usable human organs has long been a dream of scientists and doctors around the globe; however, printing the tiny, complex structures found inside human organs, such as capillary structures, has proven difficult to accomplish in Earth’s gravity environment. To overcome this challenge, Techshot designed their BFF experiment to print organ-like tissues in microgravity, acting as a steppingstone in a long-term plan to manufacture whole human organs in space using refined biological 3D printing techniques.
+CIR (Combustion Integrated Rack): The Fluids and Combustion Facility (FCF) Input/Output Processor cable was checked for any anomalies. No anomalies were found and the CIR rack was put back into nominal configuration and the new CIR input/output processor (IOP) was reactivated in an attempt to recover telemetry. The CIR includes an optics bench, combustion chamber, fuel, and oxidizer control, and five different cameras for performing combustion investigations in microgravity. 
+Dreams: The Dreams hardware was doffed after completing an over-night recording. The hardware battery was recharged and re-donned prior to sleep. The Sleep Monitoring in Space with Dry- Electroencephalogram (EEG) Headband (Dreams) is a technology demonstration investigation that utilizes the Dry-EEG Headband: an effective, affordable, and comfortable solution to monitor astronaut sleep quality during long-duration spaceflight aboard the ISS. Sleep plays a major role in human health and well-being. Insufficient sleep, or sleep disorders can increase the risk of developing medical conditions, such as cardiovascular diseases, and can impair task performance.
+JEM Internal Ball Camera 2: The Camera Robot 2 (XF705 camcorder) was installed in the Japanese Experiment Module (JEM). JEM Internal Ball Camera 2 demonstrates technology for automating video and photos of research activities. Crew time is one of the most valuable resources on the ISS, and many simple, repetitive tasks could be automated. This frees up crew time for more important activities.
+Systems:
+In-Flight Maintenance (IFM) Purge Pump and Separator Assembly (PPSA) Installation: Today, the crew began to clear the Node 3 Deck Rack front in order to remove the current Pressure Control and Pump Assembly (PCPA). This in-flight maintenance operation is the first part of 10 hours of maintenance to be performed as part of the installation of the new Purge Pump and Separator Assembly (PPSA), over the next few days. The PPSA is a Urine Processor Assembly (UPA) upgrade that combines the Pressure Control and Pump Assembly (PCPA), Separator Plumbing Assembly (SPA), and Purge Gas 20 Micron Filter into a single ORU.
+Stowage Management: Today, multiple USOS crew worked together to organize and manage stowage, including checking deployed and temporarily stowed items that are in use, disposing of unneeded common trash, and relocating items as needed for the betterment of day-to-day ops on board station.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Big Fix Patching
+RSVG Router Maintenance (RSVG 3006)
+HRF Rack 1 Rack Power Up Commanding
+HV1 Troubleshooting
+

@@ -1,0 +1,158 @@
+
+Alpha Magnetic Spectrometer (AMS) Upgraded Tracker Thermal Pump System (UTTPS):  Today, the USOS crew transitioned the UTTPS from its launch configuration to its on-orbit configuration. To achieve this, the USOS crew transferred the UTTPS to the Japanese Experiment Module (JEM) and bungeed it to the JPM1D6 (JEM Pressurized Module Deck 6) location. Once the UTTPS was temporarily mounted to the D6 location, the crew removed the UTTPS radiator cover, released the UTTPS launch restraints, and configured the AMS Alternate Fitting (AF) for EVA operations. Once completed, the crew repositioned the UTTPS in preparation for EVA installation on the AMS. 
+Analog-1: The crew performed a successful proficiency (simulation) run in preparation for the science run next week.  In the simulation, the rover was used to locate several rocks and it performed the appropriate maneuvers to pick up one or more of the rocks.  Space is such a harsh place for humans and machines that future exploration of the Solar System may involve sending robotic explorers to “test the waters” on uncharted planets before sending humans.  The parent METERON project is a European initiative to help prepare for future human-robotic exploration missions to the Moon, Mars, and other celestial bodies. The project is organized around a series of experiments as preparatory steps towards gaining the experience needed, through adaptation of the traditional ways of working, to effectively and efficiently support operations of human and robotic combined elements on a planetary surface.
+Biofabrication Facility (BFF) test cassette installation:  In support of the third test print without cells, the crew installed the Test Print Cassette hardware into the BFF.  However, during the commanding supporting the test print, a syringe tip was broken and some of its contents were released inside the BFF print volume.  There are no safety concerns, but the ground will need to consider a forward plan to resolve the issue.  The BFF is dedicated to manufacturing human organs and tissues in space, primarily for use by patients on Earth. Besides printing tissue, the BFF also can help maintain the health of deep space exploration crews by producing food and personalized pharmaceuticals on demand.
+EML lens switch: In support of on-going operations, the crew changed the measurement mode of the EML High Speed Camera to STD mode.  The EML (Electro-Magnetic Levitator) is a 360 kg multi-user facility designed for containerless materials processing in space. It supports research in the areas of meta-stable states and phases along with the measurement of highly accurate thermophysical properties of liquid metallic alloys at high temperatures.  EML can accommodate up to 18 samples, each 5 to 8 mm in size.  Heating rates of up to 100 Kelvin per second can be achieved with a maximum temperature of 2,100°C.
+HERMES:  The crew opened the manual vacuum valve.  Hermes is an experimental microgravity facility that enables science experiments, microgravity exposure testing, testing of engineering components, testing of CubeSats, concept trials, and any payloads that fit within the Hermes design and operations constraints. It is open to any investigation that benefits from microgravity exposure.
+ISS HAM pass: The crew participated in an ISS HAM pass with Lakeside Elementary School, West Point, UT.  The crew was asked questions including the crew’s thoughts on the first all-female space walk, how a spaceship is driven, and the most dangerous situation the crew has experienced in space.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+Japanese Small Satellite Orbital Deployer-12 (JSSOD – 12):  The crew performed the first part of the hardware installation in support of J-SSOD-12, retracted the slide table, and closed the JEM airlock door.  J-SSOD-12 is currently planned for a Wednesday deploy and will launch CubeSats AQT-D from Japan, RWASAT-1 from Rwanda, and NARSSCube-1 from Egypt.  The J-SSOD provides a novel, safe, and small satellite launching capability to the ISS. The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites. Once J-SSOD, including satellite install cases with small satellites, is installed on the Multi-Purpose Experiment Platform (MPEP) by crew members, it is passed through the JEM airlock for retrieval, positioning, and deployment by the JEMRMS.
+Veg-04B The crew performed a plant check and watering today.  They had previously reported three of the ten plants had wilted leaves and the ground team adjusted the watering parameters in response.  The wilted leaves are not unexpected since there is no current method to track plant pillow moisture content.  No issues were reported with today’s ops.  The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System (Veg-0404A, Veg-04B, and Veg-05) investigation is a phased research project to address the need for a continuous fresh-food production system in space. A healthy, nutritious diet is essential for long-duration exploration missions, which means that the typical pre-packaged astronaut diet needs to be supplemented by fresh foods during flight; the Veggie Vegetable Production System (Veggie) has begun testing aboard the space station to help meet this need, and validation tests have demonstrated that leafy greens can be grown in spaceflight. The research of Veg-04B focuses on the impact of light quality and fertilizer on leafy crop growth for a 56-day grow-out, microbial food safety, nutritional value, taste acceptability by the crew, and the overall behavioral health benefits of having plants and fresh food in space.
+Systems:
+Regenerative Environmental Control and Life Support System (ECLSS) Operations: Today the crew performed a drain of the Waste Hygiene Compartment (WHC) Recycle Tank to ЕДВ-У serial #1226. Once the Recycle Tank drain was complete, the crew performed a visual check of the Recycle Tank quantity indicator to verify it was indicating empty. The crew then reconfigured the Recycle Tank valves to the “Fill” configuration and transferred the contents of ЕДВ-У serial# 1308 to the Urine Processing Assembly (UPA) Waste Water Storage Tank (WSTA). Finally, the crew configured the UPA drain/fill valves to “process” so that the pre-treated urine can be processed by the UPA. 
+Countermeasures System (CMS) Treadmill 2 System (T2) Monthly Inspection: Today, the crew performed the T2 monthly inspection. The inspection consisted of the crew accessing the four T2 snubbers and removing the snubber alignment guides to perform a wiggle check of the various snubber attachment points. The crew also inspected the attachment hardware witness marks for signs that fasteners have come lose.
+Completed Task List Activities:
+
+CMS-ARED-PIP PIN
+AstroPI SD Transfer API
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+
+Tuesday, 11/19 (GMT 323):
+Payloads:
+
+
+AMS EVA procedure review
+BFF, Food Acceptability
+ISS Experience
+JSSOD-12 installation part 2 and 3
+FIR/LMM desiccant installation
+Nanoracks Zero-G oven
+NutrISS
+RR-14 habitat restock and access unit clean
+Veg-04B plant check
+
+Systems:
+
+EHS Coliform Water Processing
+EHS Total Organic Carbon Analyzer (TOCA) Sample Data Record
+EHS Potable Water Dispenser (PWD) Sample Collect and Sample Analysis
+OBT EVA Robotics Onboard Trainer Session
+JEM Water Recovery System (JWRS) Cygnus Cargo Transfer and Setup
+
+Wednesday, 11/20 (GMT 324):
+Payloads:
+
+
+AMS EVA procedure review
+Actiwatch plus
+BEST
+CBEF-L
+Food Acceptability
+GBF/LSG setup
+ISS Experience
+JSSOD-12 deploy
+NutrISS
+PL NAS vent clean
+Radi-N2 retrieve
+RR-14 item gather
+Spacecraft Atmosphere Monitor GSC Collection
+Veg-04B plant check
+
+Systems:
+
+IFM Waste and Hygiene Compartment (WHC) Full Fill
+Water Recovery Management (WRM) Water Balance
+EHS Formaldehyde Monitoring Kit (FMK) Deployment Operations
+EHS Grab Sample Container (GSC) Sampling Operations
+
+Thursday, 11/21 (GMT 325) AMS EVA #2 (½ Crew Duty Day for EVA Crew):
+Payloads:
+
+
+AMS EVA procedure review
+BFF test print
+Food Physiology
+GBF leak check
+ISS Experience
+NutrISS
+RR-14 crew conference
+Veg-04B plant check
+
+Systems:
+
+73P stowage operations
+Inventory Management System Conference
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+SPLANH-2. Preparation
+SPLANH-2. Execution
+Metal Oxide (METOX) Regeneration Termination
+Hermes Vacuum Valve Open
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Analog-1 Rover Control Terminal Setup
+EML High Speed Camera Lens Switch
+XF305 Camcorder Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+AMS Procedure/video review
+MPEP and Passive Capture Mechanism Installation to JEM Airlock Slide Table
+Onboard Training (OBT) Robotics On-board Trainer (ROBoT) Setup
+NutrISS – ESA Nutritional Assessment
+BioFabrication Facility Test Print Without Cells Install
+MPEP Installation to JEM Airlock Slide Table Support
+BioFabrication Facility MELFI Sample Retrieve
+BioFabrication Facility Test Print Without Cells Install
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB)/Metal Oxide (METOX) Installation
+JEM Small Satellite Orbital Deployer (SSOD) onto Multi-Purpose Experiment Platform Installation Part 1
+BioFabrication Facility Historical Photo 2
+AMS Procedure/video review
+Photo TV Battery Charge Initiation
+Photo TV EVA Go Pro Battery Charging
+Analog-1 RCT Checkout
+VEG-04B Plant Check/Watering for each Plant Pillow
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Analog-1 Proficiency Run
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Analog-1 Closeout
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Extravehicular Activity (EVA) Procedure Conference
+Crew conference on Debris Avoidance Maneuver with the use of Soyuz MS-15 thrusters
+Battery Stowage Assembly (BSA) Operation Initiation
+ТВС and КСПЭ equipment turn off
+ExPRESS Rack 10 Locker 8 Relocate
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Space Technology and Advanced Research Systems Locker Relocation
+Food Acceptability Survey
+Extravehicular Activity (EVA) Station Support Computer (SSC) Relocate
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Extra-Vehicular Activity (EVA) Simplified Aid for EVA Rescue (SAFER) Installation Practice
+Photo TV Battery Charge Swap
+ExPRESS Rack 10 Locker 7 Relocate
+Telescience Resource Kit Demonstration Laptop Re-cable
+Delta file prep
+Checkout of ПТАБ-1М device
+Extravehicular Activity (EVA) Tool Configuring
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Checkout of ПТАБ-1М device
+Photo TV GoPro Setup
+Rodent Research Habitat Restock
+Evening Preparation Work
+Exercise data D/L
+Checkout of ПТАБ-1М device
+Evening Preparation Work
+ISS HAM Service Module Pass
+Photo TV Battery Charge Deactivation
+
+ 

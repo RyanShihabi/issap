@@ -1,0 +1,97 @@
+
+Ocular Health (OH) Eye and Cardiac Ultrasounds:  Today Flight Engineer (FE)-5 Parmitano performed ocular and cardiac ultrasound scans as part of FE-3 Hopkins’ Flight Day 30 Ocular Health session. In-flight data collection was assisted by remote guidance from ground experts to ensure proper positioning and data collection. Ocular ultrasound is used to identify changes in globe morphology, including flattening of the posterior globe, and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement.  Researchers believe that the measurement of visual, vascular, and central nervous system changes over the course of this experiment and during the subsequent.
+Biological Rhythms 48 Hour Experiment:  FE-6 Nyberg completed her session of JAXA’s Biological Rhythms 48-hour experiment, removed the Digital Walk Holter Electrocardiogram (ECG) and Actiwatch and saved the accumulated Holter data.  This study examines the circadian variation of astronaut’s cardiac autonomic function during space flight. The research is expected to provide insights into changes in those functions before, during, and after long-duration space flight and may be used to improve the health care technology used for future ISS crewmembers.
+Resist Tubule (Mechanisms of Gravity Resistance in Plants From Signal Transformation and Transduction to Response): Nyberg retrieved the Resist Tubule culture chambers and harvested the plants for fixation using KSC fixation tubes.  She inserted the samples into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) and downlinked photographs.  JAXA’s Resist Tubule is an investigation that uses the microgravity environment of ISS to examine the modifications in cellular components that are responsible for gravity resistance in plants.  The knowledge gathered during this investigation will enable efficient plant production in both space and on earth.
+Extravehicular Mobility Unit (EMU) Troubleshooting: Following yesterday’s successful R&R of the EMU 3011 Fan Pump Separator (FPS) Assembly, Hopkins completed pump priming then a checkout of the EMU this morning. The EMU successfully passed its water leak test with no water observed within the helmet. The R&R was part of an ongoing troubleshooting effort stemming from an issue experienced with the suit during USOS EVA #23, when water leaked into Parmitano’s helmet.
+Automated Transfer Vehicle (ATV)-4 Hatch Closure:  FE-1 Kotov and Parmitano closed the ATV-4 and SM Transfer Hatches then performed leak checks in preparation for ATV-4 undock on Monday, October 28 at 3:59 am CDT.  ATV-4 delivered more than 2489 kg of cargo to the ISS and will be disposing of more than 2160 kg of trash when it undocks.
+Today’s Planned Tasks
+
+HRF-SALIVA. Sample Collection [Complete]
+HRF – Sample Insertion in MELFI [Complete]
+PROK. РН Urine Test [Complete]
+ISS Crew Daily Conference with ГОГУ Management [Complete]
+USND2 – Hardware Checkout before the Experiment [Complete]
+MATRYOSHKA-R. Correction of Phantom Position at Exposure location  [Complete]
+Microbiome Survey Question Two [Complete]
+Conference with Search and Rescue Team Specialists (ГПСК) with the departing crew (S-band)  [Complete]
+Crew Medical Officer (CMO) Proficiency [Complete]
+Crew Orientation [Complete]
+Ultrasound – Prep for scanning [Complete]
+Ultrasound – Scanning Ops [Complete]
+IDENTIFIKATSIYA. ИМУ-Ц Data download to laptop  [Complete]
+BLR48. Holter data save  [Complete]
+Prep for ATV Hatch Closure   [Complete]
+Ultrasound – Closeout Ops [Complete]
+Water Recovery Management (WRM) Condensate Pumping Initiation [Complete]
+Cardiovascular evaluation during graded exercises on cycle ergometer (VELO).  [Complete]
+Ultrasound –  Data Export [Complete]
+OH. Cardio Ops [Complete]
+FGB Tool Panel No. 1, No. 2 Inventory  [Complete]
+VIRTUAL. Experiment Setup, Ops, Closeout [Complete]
+Water Recovery Management (WRM) Condensate Pumping Termination [Complete]
+ISS crew test УКВ1 comm session with Russian Ground Station -25  [Complete]
+FGB Tool Panel No. 1, No. 2 Inventory  [Complete] 
+ATV Undocking OBT  [Complete]
+Pro K Urine PH Kit Unstow [Complete]
+IMS Delta file prep [Complete]  
+Cygnus – Debrief Conference [Complete]
+Removal of Quick Disconnect Screw Clamps [Complete]  
+EMU 3011 Pump Priming  [Complete]
+ATV-СУ Transfer Hatch Closure. Video of the Interface [Complete]   
+СОЖ Maintenance [Complete]  
+SM-ATV Interface Video Downlink [Complete]
+BAR. Experiment Ops in SM and MRM2 [Complete]
+Pro K – Diet Log (Day 1) [Complete]
+SHD – Weekly Questionnaire [Complete]
+USND2 –Ultrasound 2 Power off [Complete]
+ПрК-СУ Transfer Hatch Closure [Complete]  
+SHD – Weekly Questionnaire [Complete]
+Pro K Urine PH Kit Unstow [Complete]
+IMS Stowage Conference [Complete]
+Microbiome Experiment. Fecal Sampling Setup [Complete]
+RST. Experiment Unit Stop [Complete]
+Potable Water Dispenser (PWD) Beverage Adapter Cleaning [Complete]
+Crew Orientation [Complete]
+RST R3 MG. Micro-G Sample Fixation [Complete]
+ТК 709 Stowage Pre-pack [Complete]  
+ATV Hatch Closure Leak Check [Complete]
+EMU 3011 Item 123 Remove and Repair verification checkout [Complete]
+RST R3 1G. Sample Fixation [Complete]
+ТК 709 Stowage Pre-pack [Complete]  
+RST. Sample Insertion in MELFI [Complete]
+RST R3. Photo Downlink [Complete]
+Post-Exercise Hygiene [Complete]
+Configure O2 System to a nominal configuration [Complete]
+SSC  Return [Complete]
+
+Task List
+
+ATV MLU Test
+ARED Cylinder Evacuation
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+Crew Discretion PAO [In Work]
+Emergency Equipment Setup
+35S Photos [Complete]
+35S Prepack [In Work]
+CFE ICF3
+CFE ICF5
+Crew Arrival Prep
+Crew Departure Prep
+CUPOLA Photos
+Data Prep for Return
+Dosimeter Photo
+Airlock Reconfiguration Part A
+Node 1 JSL 16-port ethernet switch deploy assessment
+J-WIS RSU Install
+SAFER Swap
+SM Printer Troubleshooting
+Windows on Earth Photos 
+
+Ground
+
+Nominal Commanding [Complete]
+

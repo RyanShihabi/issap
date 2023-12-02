@@ -1,0 +1,21 @@
+
+Payloads
+Cardinal Heart: The crew continued the Cardinal Heart experiment with additional tissue chamber microscopy.  One of the goals was to find beating cells within the cell culture wells of interest and take short videos of them.  Effect of Microgravity on Drug Responses Using Engineered Heart Tissues (Cardinal Heart) studies the effects of change in gravitational force on cardiovascular cells at the cellular and tissue level using engineered heart tissues (EHTs). Microgravity significantly affects heart tissues that perform work and exert an opposite force to gravity and is known to cause molecular and structural abnormalities in cells and tissues that can lead to disease. The investigation could provide new understanding of similar heart issues on Earth and help identify new treatments.
+Fiber Optic Production (FOP): The crew exchanged a processed sample assembly with a new one.  The FOP investigation creates optical fibers with high commercial value aboard the ISS using a blend of zirconium, barium, lanthanum, sodium, and aluminum called ZBLAN. It operates in the Microgravity Science Glovebox (MSG). Extensive theoretical studies along with a limited number of experimental studies suggest that ZBLAN optical fibers produced in microgravity should exhibit far superior qualities to those produced on Earth. The resulting optical fiber from FOP is expected to help verify these studies and guide further engineering efforts to manufacture high value optical fiber in large volume aboard the ISS. 
+Myotones: The crew gathered blood samples in support of the Myotones investigation.  The Myotones investigation observes the biochemical properties of muscles during long-term exposure to the spaceflight environment. Results from this investigation are expected to provide insight into principles of human resting muscle tone, which could lead to the development of new strategies for alternative treatments for rehabilitation both on Earth and for future space missions.
+Rodent Research (RR): The crew performed the activities necessary to restock RR Habitats 1, 2, 6, and 8.  The habitats are currently being used to support Rodent Research-10 and Rodent Research-23.  RR-10 is a study looking at tissue degeneration/regeneration in microgravity, specifically the CDKN1a/p21 pathway and its role in tissue regeneration.  RR-23 looks at changes to the eye which occur as a result of microgravity.  At least 40 percent of astronauts experience vision impairment known as Spaceflight-Associated Neuro-ocular Syndrome (SANS) on long-duration spaceflights
+Space Organogenesis:  The crew performed the ops necessary to close out the microscope used for the Space Organogenesis experiment. The Development of Advanced 3D Organ Culture System Utilizing the Microgravity Environment (Space Organogenesis) investigation demonstrates growth of organ buds from human stem cells in three-dimensional (3D) cultures in microgravity. Researchers plan to use these cultures to observe growth of the organ buds and analyze changes in gene expression. This experiment represents an important first step toward growing artificial organs.
+Systems
+Critical Bus Loss: On Saturday 4B Channel experienced a critical bus loss.  Ground controllers cross-tied Channel 4B to 4A and repowered DDCU S14B and DDCU S04B.  Critical system loads were recovered including CMG 4, KU Band A/G 2 and AMS control computer. Teams met to discuss cause and determined that the anomaly was caused by a Fault Detection Isolation & Recovery (FDIR) that is intended to protect the Lithium Ion batteries from overcharging in the event of a BCDU failure. On Tuesday, Channel 4 BCDU 4B3 and 4B2 were successfully activated. BCDU 4B1 was activated today and the system is back in nominal configuration.
+Extravehicular Activity Mobility Unit (EMU) Swap: The crew swapped EMU 3004 to the forward EMU Don/Doff Assembly (EDDA) and moved EMU 3015 to the aft EDDA. They also removed a Service and Cooling Umbilical (SCU) from the Umbilical Interface Assembly (UIA) and packed the unit for return to ground.
+Completed Task List Activities:
+
+Microscope reposition
+ISS Experience hardware stow
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+EVA SCU removal/pack for return
+Payloads ops support
+

@@ -1,0 +1,93 @@
+
+60 Soyuz (60S) Status: The un-crewed 60S vehicle was scheduled to dock to the ISS Saturday morning. On final approach to MRM2, docking was aborted via ISS crew command as a result of KURS issues which had halted the final approach at a range of approximately 90 meters.  MCC-M suspected an issue with an MRM2 KURS-P amplifier.  RSC-E tested the Service Module (SM) KURS and found it to be fully operational. Following extensive discussions between RSC-E and NASA, it was decided to relocate the 59S vehicle on SM Aft to MRM2 to allow 60S to dock to SM Aft.  On Sunday, 59S was manually relocated by its crew (Expedition 60-61) from the SM Aft port to the MRM2 zenith port.  Tonight, a second attempt to dock 60S will occur, this time to SM Aft.
+SpaceX (SpX)-18 Status: SpX-18 is scheduled to depart the ISS tomorrow at 9:42 AM CT. In preparation, the crew is completing final cargo transfer. Once transfer is complete, the crew will exit the vehicle followed by vestibule closeout.
+European Drawer Rack (EDR):  Over the weekend, the crew disconnected the ZBook and plugged in the EDR laptop in preparation for a Kubik Firmware update.  Kubik is a small controlled-temperature incubator or cooler with removable inserts designed for self-contained, automatic microgravity experiments such as those using seeds, cells, and small animals.
+Goodyear Tire:  On Saturday, the crew removed the samples and closed out the experiment.  This was the third and final day for the experiment and no issues were reported. 
+Nanoracks Module-9 ops 5: On Sunday, the crew removed the appropriate mixture tubes and performed the required ops.  These operations typically include the opening or closing of clamps on the tubes, followed by mixing of the contents. Some of the experiments in this group of mixture tubes included the effects of microgravity on the growth of Red Wiggler earthworms, the production a synthetic soil from waste generated on board ISS, and rust formation in microgravity.  Each experiment was chosen from more than 3,000 entries submitted by more than 23,000 U.S., Canadian, and Brazilian students. The experiments use NanoRacks MixStix, miniature laboratories activated by space station crew and eventually returned to the student teams on Earth for analysis.
+Photobioreactor (PBR): Over the weekend, the crew inserted nutrient solution and took a final algae sample from the off-nominal PBR experiment.  This final sample is an effort to recover as much science as possible from the investigation. The Photobioreactor investigation aims at demonstrating that microalgae (i.e. biological processes) can be used together with existing systems to improve recycling of resources, creating a hybrid life support system. This hybrid approach could be helpful in future long-duration exploration missions, as it could reduce the amount of consumables required from Earth, and will first be tested in space on the ISS.
+Rodent Research 17 (RR-17):  Over the weekend, the plan was to activate Lixits (water source for the mice), install food bars, transfer animals from Rodent Habitats 1 and 4 to the Transporter, and move the Transporter from US Lab to Dragon for return to the ground.  However, when the Animal Transporter was powered in its Dragon location, the crew detected a burning odor and reported a hot connector cap and tripped circuit breaker for this location. The crew removed the transporter from Dragon and moved it back to the ISS where it powered up nominally. Troubleshooting was subsequently performed, the mice were verified to be active and healthy, and the Transporter was relocated to its Dragon location.
+Completed Task List Activities:
+
+EVA Airlock deconfig
+73P USOS unpack
+Merlin DSC swap
+ESA EPO Xenogriss
+ESA PAOs AIDAA Congress, Euronews W34, Italian Engineers
+WHC pre-treat tank R&R
+Polar sample transfer
+ISS Experience message review
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Dragon center stack transfer
+59S interface leak check
+Dragon egress
+Payloads ops support
+
+Look Ahead:
+Tuesday, 8/27 (GMT 239)
+Payloads:
+
+
+BEST Sample Retrieval 3
+Handhold Experiment Platform Adapter and MPEP removal
+ISS Experience Message review in Cupola
+Kubik Firmware Update
+Microgravity Crystals Payload Review
+MVP-Cell-02 install
+NanoRacks Module 82 Photo
+NUTRISS Enablement
+Rodent Research Water check
+SABL CO2 controller Removals
+Standard Measures Post Sleep Questionnaire and Cognition Test
+
+Systems:
+
+60S docking
+Dragon departure
+
+Wednesday, 8/28 (GMT 240)
+Payloads:
+
+
+AMS Zbook Deploy and Software load
+Fluid Shifts setup
+HRF1 rack handle repair
+JAXA EPO Dry Run
+Microgravity Crystal Plate Load
+NUTRISS Enablement
+Spacecraft Atmosphere Monitor (SCRAM) grab sample collection-LAB
+Time Perception session
+
+Systems:
+
+EVA loop scrub
+AMS Z-Book deploy
+HRF rack handle R&R
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Opening of MRM2-Soyuz 746 Hatches Post-Relocation
+Transfer of Sokol Spacesuit 3 for Drying in Soyuz 742
+Drying of Sokol Spacesuit 3 (Initiation) (Soyuz 742)
+Restoration of the Nominal Comm Config after Soyuz 746 (59S) Relocation
+Maintenance of the Hatch Sealing Mechanism of the MRM2 АСП Passive Docking Assembly Hatch and Soyuz 746 (59S) Hatch
+Photography of the Docking Probe Traces on the MRM2 АСП Passive Docking Assembly Drogue after Soyuz 746 (59S) Relocation
+Downlinking Photographs of the Internal Surface of the Docking Probe via ОСА
+Drying of Sokol Spacesuit 3 (Termination). Drying of the Third Pair of Gloves (Initiation)
+Drying of the Third Pair of Gloves (Termination) (Soyuz 742)
+Transfer of Sokol Spacesuit 3 and the Gloves for Stowage in Soyuz 746 (59S) after Drying
+Perform Troubleshooting and if successful, complete powered payload transfers.
+Robotic Workstation (RWS) Setup
+Node2 HD Camera Activation
+Transfer Center Stack
+Dragon Cargo Operations Conference
+Dragon Egress in Preparation for Departure
+Common Berthing Mechanism (CBM) Controller Panel Assembly (CPA) Rotation, Installation, and Closeout
+USOS Window Shutter Close
+
+ 

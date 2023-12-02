@@ -1,0 +1,49 @@
+
+Biomolecule Sequencer (BMS) Sample Analysis: Yesterday, the crew initiated the third BMS sample off of the task list.  Following retrieval of the Flow Cell and Media Syringe Tube from the from Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) and thawing of the sample, the crew injected the sample into the Flow Cell and initiated the deoxyribonucleic acid (DNA) sequencing via the Surface Pro 3 tablet.  The goals of the BMS experiment are to provide a proof-of-concept for the functionality and evaluate crew operability of a DNA sequencer in a space/microgravity environment.  The capability for sequencing of DNA in space could provide for a better ability to identify microbes in real-time, instead of requiring sample return and ground based analysis.
+Node 1 Starboard Aft Intra-Module Ventilation (IMV) Fan Inlet Cleaning: Yesterday, the crew completed the IMV Fan Inlet cleaning.  The purpose of this cleaning is to remove any foreign object or debris (FOD) from Intermodule Ventilation (IMV) Fan inlet flow straighter and Silencers located at the Node 1 Starboard Aft location.
+Portable Emergency Provisions (PEPS) Inspection:  Today, the crew conducted a regular inspection of the Portable Fire Extinguishers (PFEs), Extension Hose Tee Kits (EHTKs), Portable Breathing Apparatus (PBAs), and Pre-Breathe Masks.  Pre-Breathe Masks are not emergency equipment, but have similar maintenance requirements and are included in this inspection.
+EXpedite PRocessing of Experiments to Space Station (EXPRESS) Rack 7 (ER7) Solid State Power Control Module (SSPCM) Remove and Replace (R&R):   The crew replaced the SSPCM in ER7 to recover the rack.  After powering the rack, ground teams report that the SSPCM powered up successfully.  The SSPCM failed on July 8, 2016.  Following the recovery of ER7 capability, tomorrow the crew will relocate the two Space Automated Bioproduct Laboratories (SABLs) currently in ER8 to ER7 to make room for the SpaceX-9 delivered Phase Change Heat Exchanger (PCHx).  The primary objective of the PCHx Project is to create a unique test platform utilizing the EXPRESS Rack on the ISS to advance the technology readiness level of phase change heat exchangers for infusion into future exploration vehicles. Phase change material heat exchangers are a useful technology that helps certain space missions in regulating the thermal conditions on their particular spacecraft. They serve as a supplemental heat rejection device during time-varying heat loads and/or transient environments. It does so by storing waste energy by melting a phase change material during peak loads. It can then reject this energy through a radiator when conditions allow, causing the phase change material to freeze.
+Advanced Resistive Exercise Device (ARED) Rope Replace:  As part of routine maintenance, the crew replaced both ARED cable arm ropes.  After the installation, the crew was unable to engage detents while the ARED Main Arm is on the Upper Stops. Currently the crew is no go for ARED exercise.  Ground teams are discussing a forward plan.
+Intermodule Ventilation (IMV) Flow Measurements:  As part of system health monitoring, the crew utilized a Velocicalc tool in order to obtain measurements of selected ventilation inlets and outlets within the USOS.  Today’s measurements were taken in the Joint Airlock, Node1, Node 2, Node 3, Cupola, and the Lab. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+ER7 Removal of Glacier 4 from EXPRESS Rack 7
+PILOT-T.  Preparation for the experiment
+EMCS Opening Gas Valve
+PILOT-T. Experiment Ops
+Fine Motor Skills (FINEMOTR) Experiment Ops
+WRS Recycle Tank Fill from EDV
+ER7 Rack Rotation
+EMU Conductivity Test
+ER7 SSPCM Replacement
+PILOT-T. Closeout Ops
+Preventive Maintenance of FS1 Laptop
+Semi-annual BRI Cleaning
+NAPOR-mini RSA. Cleaning Onboard Memory Storage БЗУ-М vents
+WRS Recycle Tank Fill from EDV
+Testing comm between modules
+ARED Rope Replacement
+ER7 Rack Rotation
+Inspection of Portable Breathing Apparatus (PBA) and Portable Fire Extinguisher (PFE)
+BRI log download from RSS1
+MPEG2 Multicast Video Streaming Test after BRI Cleaning
+СОЖ Maintenance
+ER7 Glacier 4 Setup in EXPRESS Rack 7
+Configuration Setup for MMB Measurement
+IMV Flow Measurement
+Photo/TV Camcorder Setup Verification
+IMV Flow Measurement
+Start EMU Metox Regeneration
+Stow Syringes used in Н2О Conductivity Test
+
+Completed Task List Items
+
+JEM Stowage Consolidation for OA-5
+Dust Mask Transfer
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+EPS Max Loading Test
+

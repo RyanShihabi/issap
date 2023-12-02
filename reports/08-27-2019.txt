@@ -1,0 +1,111 @@
+
+60 Soyuz (60S) Status:  Following Saturday morning’s aborted attempt to dock to MRM2 and subsequent 59S relocation to MRM2, 60S docked nominally to the Service Module (SM) Aft port yesterday at 10:08 PM CT. This uncrewed vehicle is currently scheduled to undock on September 6.
+SpaceX (SpX)-18 Departure:  Robotics Ground Controllers successfully released Dragon today utilizing the Space Station Remote Manipulator System (SSRMS) at 9:59 AM CT, while the Crew monitored its departure. Splashdown is planned at 3:20 PM CT.
+Astrobee:  The crew monitored the Astrobee system while the ground team performed software validations in preparation for the localization and mobility session on Wednesday.  Astrobee is a series of three free-flying, cube-shaped robots which are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the ISS. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+ISS Experience:  The crew set up the ISS Experience camera system and recorded the Spacesuit and EVA presentation. In this recording the astronauts discussed the use of the spacesuits, their components, and spacesuit evolution over the years. They also discussed tools used during a space walk and aspects of the space walks themselves. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses. 
+MVP-Cell-02: The crew installed twelve Everroad Modules into the Multi-use Variable-g Platform which initiated MVP-Cell-02 experiment.  The investigation seeks to understand how organisms adapt to the space environment, an important component of future space exploration. Microbes may play fundamental roles in the development of biologically-based closed-loop regenerative life support, in-situ resource utilization, and will have extensive interactions with human and plant hosts. Further, microbes may pose challenges through virulence and contamination, and as nuisance factors such as biofilms in water supply and ventilation systems.
+NanoRacks Module 82 Photo: The crew accessed the NanoRacks Module-82 stowed in NanoRacks Platform-3, took photos of the Palm Seed in the module, and restowed it. The United Arab Emirates (UAE) Palm Tree Growth Experiment examines germination of palm tree seeds in order to determine the best conditions for generating tissue samples for research. A process for growing healthy plant tissue in microgravity could be adapted for testing other indigenous plants of scientific, commercial or educational interest in the UAE. The investigation also observes and documents root growth in microgravity for educational purposes.
+NutrISS:  Using the EveryWear application, the crew performed the ESA Nutritional Assessment. Long duration spaceflight induces relevant changes in body composition and a loss of body mass. In the NutrISS investigation, a periodic assessment of body composition (body weight, fat mass, and fat-free mass) during spaceflight aboard the ISS is carried out using a dedicated bio-impedance analysis device to allow for the measurement of long-term energy balance modification over time. On the basis of this data, it is hypothesized that an adjusted diet maintaining a near-neutral energy balance, and/or increasing protein, intake can limit microgravity-induced bone and muscle loss of crew members.
+Mobile Servicing System (MSS) Operations: Yesterday, the Robotics Ground Controllers powered up the MSS in the hot backup configuration. Today, the Ground Controllers demated SpaceX-18 Dragon from the Node2 Nadir Active Common Berthing Mechanism (ACBM) and maneuvered it to the release position with the Space Station Remote Manipulator System (SSRMS). At 9:59 AM CT, the Ground Controllers released the Dragon and backed away the SSRMS while Crew monitored departure. After Dragon had departed, the Ground Controllers maneuvered the SSRMS to a park position and supported a video survey of the Node 2 Nadir ACBM with the SSRMS cameras. Later today and early tomorrow the SSRMS will be maneuvered and walked-off to the Mobile Base System (MBS) Power & Data Grapple Fixture 1 (PDGF 1), the Special Purpose Dexterous Manipulator (SPDM) will be un-stowed by SSRMS and the Mobile Transporter (MT) will translate from Worksite 6 (WS6) to WS2. From there the Materials International Space Station Experiment (MISSE) payload survey will be performed.
+Completed Task List Activities:
+
+iPad Air 2 swap with iPad Pro for FE-5
+AstroPi IR check
+FSL FCE lock
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SpX-18 unberth
+SSRMS walkoff to MBS1 (In work)
+Payloads ops support
+
+Look Ahead:
+Wednesday, 8/28 (GMT 240)
+Payloads:
+
+
+AMS Zbook Deploy and Software load
+Astrobee
+Fluid Shifts setup
+HRF rack handle r&r
+JAXA EPO Dry Run
+Microgravity Crystal review
+NUTRISS Enablement
+Spacecraft Atmosphere Monitor (SCRAM) grab sample collection-LAB
+
+Systems:
+
+EVA EMU loop scrub
+AMS ZBook deploy
+
+Thursday, 8/29 (GMT 241)
+Payloads:
+
+
+Biolab maintenance
+Food Acceptability
+Fluid Shifts
+ISS Experience
+Kubik
+NutrISS
+RR hab restock and access unit clean
+Slime check
+Space Moss
+Team Task Switching
+
+Systems:
+
+EVA tool deconfig
+JEMAL valve box remote controller frame swap prep
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Dragon Vestibule Configuration for Demate
+LSG Work Volume Stow
+Photo of traces left by the Active Docking Assembly Probe on the SM Aft Passive Docking Assembly (АСП) Receiving Cone
+JEM Camera Robot Preparation for JAXA-EPO-DRUN
+Downlink of Docking Cone Internal Surface Photos via OCA
+JEM ORU Transfer Interface (JOTI) Kit, Main Bus Switching Unit (MBSU) Maintenance Kit and Test Hardware Gather
+BIOPLENKA. MICROVIR. Kit Transfer and Setup in Cryogem-03 (+4 deg C)
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Kubik software update [Aborted]
+Magnetic 3D-bioprinter.  Hardware transfer from Soyuz 743
+Handhold Exp Platform Adapter removal.
+Magnetic 3D-bioprinter.  Visual Inspection of the Cuvettes Kits
+MPEP and Passive Capture Mechanism Removal from JEM Airlock Slide Table
+Magnetic 3D-bioprinter Setup and moding ТБУ-В thermostat No.07 to +4 deg С
+Crew Command Panel (CCP) Cable Route and Checkout
+JEM Active Mechanism Tether Loop (JAT) Removal
+JEM ORU Transfer Interface Installation
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Turning off camcorder, TV System control equipment
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Cupola Window Shutter Close
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Multi-use Variable-g Platform Historical Documentation Photography
+JEM JEM Network Storage (NeST) Mesh Cleaning
+Robotic Work Station (RWS) Dragon Release Procedure Review and Briefing
+Space Station Remote Manipulator Systme (SSRMS) Dragon Release from Node 2 Nadir (N2N) Preparation
+Regenerative Environmental Control and Life Support System (ECLSS) Urine Processor Assembly (UPA) Brine Filter Changeout
+Space Station Remote Manipulator System (SSRMS) Dragon release and departure monitoring
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+Environmental Health System (EHS) Coliform Water Processing
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Crew Command Panel (CCP) Cable Deroute
+Robotic Workstation (RWS) Teardown
+NanoRacks Module-82 Photography
+Stanchion Cover Build
+Astrobee Monitor
+COTS UHF Communication Unit (CUCU) Deactivation
+In-Flight Maintenance Thermal Amine Closeout
+Rodent Research Water Box and Light Check
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+
+ 

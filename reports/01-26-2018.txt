@@ -1,0 +1,62 @@
+
+European Modular Cultivation System (EMCS) Preparation for Plant Gravity Perception Operations: To prepare the EMCS for the Plant Gravity Perception investigation, the crew replaced the empty EMCS Air Mix Supply Module located on the lower left side of the EMCS holding structure with a full Air Mix Module and then opened the EMCS Gas Valves for ground commanding. Later, the experiment containers (ECs) on the EMCS rotors were replaced with new ECs and the first of three Plant Gravity Perception experiment runs began. The Plant Gravity Perception investigation germinates normal and mutated forms of thale cress, a model research plant, to study the plants’ gravity and light perception. Results provide new information about plants’ ability to detect gravity and how they adapt to an environment without it, which benefits efforts to grow plants for food on future missions. The EMCS is an experiment facility that is dedicated to studying plant biology in a reduced gravity environment. It supports the cultivation, stimulation, and crew-assisted operation of biological experiments under controlled conditions. The facility has performed multi-generation (seed-to-seed) experiments and studies the effects of gravity and light on early development and growth, signal perception and transduction in plant tropisms.
+Space Linear Acceleration Mass Measurement Device (SLAMMD) Hardware Setup and Control Run: The crew set the calibration arm, attached the calibration mass, and then set the software to implement a control run and a payload body mass measurement. The SLAMMD follows Newton’s Second Law of Motion by having two springs generate a known force against a crewmember mounted on an extension arm, the resulting acceleration being used to calculate the subject’s mass. The device is accurate to 0.5 pounds over a range from 90 pounds to 240 pounds.
+Space Headaches:  The crew completed the weekly questionnaire for the ESA Space Headaches investigation. The Space Headaches investigation collects information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission.
+Intramodule Ventilation (IMV) Cleaning:  The crew performed cleaning of the IMV Cone Screen located in the Node 1-Node 3 vestibule. This Cone Screen protects debris from entering the IMV Fan located in Node 3. As part of this activity, the crew also cleaned the air duct diffusers.
+Extravehicular Activity (EVA) Operations:  Today the crew continued to prepare for the EVA planned for Monday. They have charged batteries, configured tools, set up cameras, reviewed procedures, and discussed the tasks with ground teams.  The goals of this EVA have changed as a result of the failure of the new Latching End Effector (LEE) that was installed on EVA 47 (executed this past Tuesday).  The new LEE is not operating as expected, so the crew will return the Space Station Remote Manipulator System (SSRMS) to its original configuration. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+Extravehicular Activity (EVA) Tool Configuring
+Inventory Management System (IMS) conference
+Photo TV GoPro Setup
+Study of cardiovascular system under measured physical CYCLE Ergometer load.
+POC Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review
+СОЖ maintenance
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+Battery Stowage Assembly (BSA) Operation Termination
+Specific EVA Procedures Study.
+European Modular Cultivation System Air Mix Supply Module Replacement
+Extravehicular Activity (EVA) Procedure Conference
+SLAMMD Hardware Control Run
+Audit of БД-2 treadmill spares
+European Modular Cultivation System Gas Valve Open
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Rechargeable EVA Battery Assembly (REBA) Installation
+OCT Laptop Power Cable Reseat
+HRF2 Supply Kit Resupply
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+Preparation for pressurized Orlan suits transfer from DC1 to ПхО Training
+BIORISK TEST.  Preparing the bag for adjusting platform and 2 rubberized bags (КБО)
+ARED HARDWARE MOVE: Bogen Arm/Handrail relocate
+Extravehicular Activity (EVA) Procedure Review
+Dry Run with Two Pressurized Orlan Suits Transfer to ПХО.
+Food Locker Discard
+Manufacturing Device ABS Print Removal, Clean and Stow
+In-Flight Maintenance Intramodule Ventilation (IMV) Cleaning
+Space Headaches – Weekly Questionnaire
+Configuring ПхО to initial state after pressurized Orlan suits dry run
+Earth Imagery from ISS Nikon Target Operations
+Photo/TV – Flash Audit
+Photo/TV Lens Bumper Ring Installation
+Exchange AstroPi USB power cable
+WHC Pressure Sensor Trash
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB)/Metal Oxide (METOX) Installation
+Portable Repress Tank (БНП) No.17 (00056724R, ТПК734) Setup in [РО].  In Soyuz 734 install БНП No.10 п.2 (00038983R, МИМ2_Б1_402)
+IMS Update
+Columbus Video Camera Assembly 1 Adjustment
+Plant Gravity Perception/EMCS Experiment Container Replace
+Plant Gravity Perception/EMCS Historical Documentation Photography
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Standard commanding.
+

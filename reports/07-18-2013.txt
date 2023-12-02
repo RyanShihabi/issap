@@ -1,0 +1,70 @@
+
+New Status:
+Multi-Purpose Small Payload Rack (MSPR) Microscope Setup: FE-6 Nyberg assembled the Fluorescence Microscope for installation in the MSPR.  This configuration, along with the leak checks that the crew performed in June are in preparation for the Aniso Tubule experiment launching on HTV-4 in August.  Aniso Tubule will investigate the role of cortical microtubules and microtubule-associated proteins in plant growth while in microgravity.
+ISS Emergency On-Board Training (OBT): All six crew and Flight Control Team (FCT) members in Mission Control Centers (MCCs) participated in an OBT event simulating an onboard emergency.  Crew members stepped through procedures and used an OBT simulator to provide simulated data for a rapid depress, fire, toxic event, or ammonia release event. Following the OBT, the crew conducted debriefs with both MCC-Houston and MCC-Moscow.
+Biolab Reconfiguration: Over the next few days, the crew will perform several Biolab maintenance activities in preparation for extended ground testing and the Biolab Commissioning Run which will demonstrate Biolab’s ability to support the upcoming experiments.  Today, FE-5 Parmitano installed Life Support Modules (LSMs) 1 & 2. He executed an exchange of the biological isolation filters on the incubator rotors, and exchanged the Incubator Cold Spot Sponge.  Next week, the crew will install the Biolab Microscope and Microscope Distribution and Cleaning (D&C) Cassette.
+Internal Thermal Control Systems (ITCS) Sampling: FE-3 Cassidy performed nominal sampling from the Japanese Experiment Module (JEM) and US Lab ITCS. He also configured the Columbus module for samples taken later in the day by Parmitano. The preventative maintenance task is performed to determine the Ortho-Phthalaldehyde (OPA) and ammonia levels in the ITCS for each of the modules.
+Water Pump Assembly (WPA) Microbial Check Valve (MCV) Failure to Check: Following a WPA process cycle this morning the WPA MCV failed to check.  This is a known issue that has been tracked since the beginning of the year and has the potential to result in backflow from the waste water tank to the potable line. Ground teams are currently implementing a previously developed plan to flush the WPA reject line which will push any migrating waste water downstream of the potable line.  After the flush is complete the WPA will be ready to continue processing. The team will continue to monitor performance of the MCV in the future to determine if any additional actions are required.
+Today’s Planned Tasks
+
+Daily Planning Conference (S-band) [Complete]
+FMK Deployment Ops [Complete]
+BAR Experiment. r/g 2928 [Complete]
+Grab Sample Container (GSC) Sampling Operations [Complete]
+BIOLAB Tool Retrieval [Complete]
+Collecting SM and FGB Air Samples Using АК-1М Sampler  [Complete]
+JPM – TCA L Manual Valves Reconfiguration [Complete]
+SM Air Sampling for CO using ИПД Samplers HRF1- Hardware Setup [Complete]
+SM Air Sampling for FREON Using АК-1М Sampler  [Complete]
+ТКГ 418 (DC1) Stowage and IMS Ops  [Complete]
+HRF1 – Body Mass Measurement. [Complete]
+BLB – Installation of Modules 1 and 2 [Complete]
+MSPR – Microscope Setup [Complete]
+BRI Cleaning  [Complete]
+ТКГ 418 (DC1) Stowage and IMS Ops  [Complete]
+IMS Update  [Complete]
+BLB – Filter Changeout  [Complete] 
+JPM – TCA L Manual Valves Reconfiguration [Conplete]
+СОЖ Maintenance [Complete]
+BLB – Gas Bottles Opening [Complete]
+ISS Emergency Response OBT. [Complete]
+Integrated Emergency response training – ISS crew internal debrief [Complete]
+URAGAN. Photo Spectrum System Battery Charge (start) [Complete]
+EMU Cooling Loop Scrub Maintenance, Part 3 [Complete]
+IPU-MRDL – Cable Replacement [Complete]
+Greetings Video Footage  [Complete]
+Oxygen Supply System Reconfig to Initial [Complete]
+Integrated Emergency Response Training – Debrief between ISS and MCC. [Complete]
+JEM ITCS Sample Collection [Complete]
+PAO Hardware Setup [Complete]
+HRF1-SLAMMD – Hardware deactivation, teardown [Complete]
+BCAT – Image Transfer [Complete]
+USND2 – Ultrasound 2 Configuration and Connection [Complete]
+URAGAN. Observation and Photography using Photo Spectral System (ФСС). [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+Life On The Station Photo and Video [Complete]
+BLB – Tools Restow [Complete]
+Stow ITCS Samples [Complete]
+Closing window shutters No. 6,8,9,12,13,14 [Complete]
+Update BRI Configuration File to Version 4.2.3. [Complete]
+Daily Planning Conference (S-band) [Complete]
+USOS Window Shutter Close [Complete]
+
+Task List
+
+CEO Ops [Complete]
+WHC EDV R&R
+Roscosmos Report
+Uragan Report
+EKON Photo
+CSA-CP Checkout Part 2
+EVA Tool Stow [Complete]
+P/TV Bypass Stow
+Regen WSTA Fill
+
+Ground
+
+Nominal Commanding
+JSL 4.0 Transition
+

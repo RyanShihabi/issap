@@ -1,0 +1,92 @@
+
+Multi-purpose Small Payload Rack (MSPR) DC / DC Converter Unit (DCU) Replacement Part 1:  The crew replaced MSPR DCU with and upgraded DCU2. The still functional older unit will be kept onboard as a spare. The MSPR is a multipurpose payload rack system used in the JEM. It has two workspaces and a work table that can be used for wide fields of space environment utilization including science and educational missions. 
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM):  Mission 64 is continuing nominally.  As of today, the number participating has increased to just over 20,000 students from 35 countries.  EarthKAM allows thousands of students to photograph and examine Earth from a space crew’s perspective. Using the Internet, the students control a special digital camera mounted on-board the ISS. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The EarthKAM team then posts these photographs on the Internet for viewing by the public and participating classrooms around the world.
+Wireless Communication and Positioning Experiment (WICO):  The crew copied WICO data from the SD Card to a Station Support Computer (SSC) for subsequent downlink.  WICO demonstrates a wireless network for the efficient readout of sensors, as well as the localization of moving objects within the Columbus module. The experiment is based on the impulse radio – ultra-wideband (IR-UWB), which extends the capabilities of a recently performed Wireless Sensor Network (WSN) demonstration using Industrial, Scientific, and Medical (ISM) bands at 2.45 GHz. The evaluation of WICO helps to analyze potential uses of WSN for unmanned and manned spaceflight missions, and to derive obstacles and limitations for the operations under very specific conditions due to the complex electromagnetic environment. 
+HII Transfer Vehicle (HTV)7 Cargo Transfer:  The crew continued HTV7 cargo transfer operations today. Ground specialists estimate approximately 1 hour remains to complete transfer.
+Portable Breathing Apparatus (PBA) Hardline O2 Demonstration:  Today, the crew practiced demonstrating the connection of a PBA via an extension hose to a low pressure O2 port and donning the mask. This training serves as a refresher on the usage of PBA hardware and hardline O2 in response to a U.S. Segment Fire.
+Extravehicular Mobility Unit (EMU) Li-Ion Battery Data Logging:  Today the crew terminated an Autocycle session, which was initiated this past Friday for two EMU Long Life Batteries (LLB). Today’s activity leaves the LLBs in a nominal, discharged state. Over the course of three days, the auto cycle captures battery health data and helps ground experts understand the charge and discharge capacities of these new and improved LLBs. The data will also be used to compare charging system performance between the on-orbit and ground based systems.
+Port Solar Alpha Rotary Joint (PSARJ) Current Draw:  The port SARJ drive current has shown an increasing trend for the past several days, although it is still well below maximum limits. The current draw for String 2 Drive Lock Assembly (DLA) for the PSARJ is generally ~0.15 amps and increases to ~0.17 amps during high negative solar beta. Solar beta peaked at -62 degrees on October 21 and is decreasing in magnitude. Currently the solar beta angle is at -58 degrees and the PSARJ current draw is ~0.3 amps. The DLA trip point is 1.3 amps. There is no on orbit action required at this time. However, ground teams are studying the signature and may recommend a DLA string swap if the current does not drop when the solar beta decreases. The PSARJ was lubricated in 2011 and the lubricant is expected to last at least 15 years.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Nominal System Commanding
+
+Two-Day Look Ahead:
+Wednesday, 10/24:
+
+Payloads: 
+
+Lighting Effects
+METEOR Hardware Troubleshooting
+FIR/LMM/Biophysics-4 Plate Removal
+JAXA/MSPR R&R (continuing)
+
+Systems: 
+
+Deck CQ Cleaning 
+
+Thursday, 10/25:
+Payloads:
+
+
+BEST
+MELFI spare EU stow
+Veg-03 experiment run
+
+Systems: 
+
+Photo Survey of Port Solar Array
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Making a documentary about life onboard the ISS
+Russian PAO event report preparation
+Uragan. Observations and photo (Task list)
+ECON-M. Observations and photo (Task list)
+Визуальный осмотр и контроль течи с помощью американского течеискателя ULD в БО ТПК №739. ДнаЗ в с/св
+Portable Breathing Apparatus Demonstration
+COSMOCARD. Closeout Ops
+Health Maintenance System (HMS) Crew Medical Restraint System (CMRS) – Checkout
+PROFILAKTIKA-2. Preparation for the experiment
+XF305 Camcorder Setup
+MSPR Video Signal Convertor Closeout
+Combustion Integrated Rack Hardware Return
+Multi-purpose Small Payload Rack (MSPR) DCU2 R&R Preparation
+ISS HAM Service Module Pass
+Multi-purpose Small Payload Rack (MSPR) DCU2 R&R Part1
+PROFILAKTIKA-2. Experiment Ops on БД-2 Treadmill
+Multi-purpose Small Payload Rack (MSPR) DCU2 R&R Part1 (Sub).
+Scheduled quarterly maintenance of Central Post Laptop, start test 1. Tagup with specialists as necessary
+Verification of ИП-1 Flow Sensor Position
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Scheduled quarterly maintenance of the Central Post Laptop, end test 1 and start test 2. Generating Reports.  Tagup with specialists as necessary
+Wireless Compose SD Card Data Copy
+Food Relocate
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Scheduled quarterly maintenance of Central Post Laptop, start test 3. Tagup with specialists as necessary
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Transfer Operations – Pack and stow items on HTV
+Scheduled quarterly maintenance of Central Post Laptop, end test 3 and start test 4.
+Charging GoPro HERO3 Camcorder batteries (6 total) in Soyuz 739,  Start
+СОЖ maintenance
+Scheduled quarterly maintenance of Central Post Laptop, end test 4 and closeout ops.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Cleaning vent screens on FGB interior panels 116, 316, 231, 431
+Transfer Operations – Pack and stow items on HTV
+Cleaning FGB ЦВ1 Circulation Fan Guard Screen
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Vacuum Cleaning FGB ГЖТ4 ВТ-7 screen
+Evening Preparation Work
+EVA Long Life Battery Station Support Computer Relocate
+Charging GoPro HERO3 Camcorder batteries (6 total) in Soyuz 739,    End
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+HTV Cargo Operations Conference
+
+ 

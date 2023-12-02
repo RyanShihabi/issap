@@ -1,0 +1,82 @@
+
+Lab Carbon Dioxide Removal Assembly (CDRA) Shut down: Yesterday afternoon the Lab CDRA shut down due to an Air Selector Valve (ASV) fault on valve 104.  Initial recovery attempts, and subsequent troubleshooting, were unsuccessful.  Node 3 CDRA is active and Amine Swingbed was also activated, in order to better manage ppCO2 over the weekend. Teams are working on plans to change out the valve on Monday. 
+STaARS BioScience-9: The crew retrieved STaARS BioScience-9 samples and placed the samples into a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). STaARS BioScience-9 aims to identify novel biological mechanisms using genetically modified Escherichia coli (E. coli) to improve the bio-production of isobutene to an extent that economically competes with petrochemical production processes.
+Plant Habitat-1: Today the crew performed thinning activities in the Plant Habitat Facility. The thinned plants were placed into single foil packs and inserted into a MiniCold Bag. Plant Habitat is a fully automated facility that is used to conduct plant bioscience research on the ISS. The space environment is stressful for all living organisms. Understanding how plants respond will help crews on future missions successfully grow plants for food and oxygen generation. The Plant Habitat-1 investigation compares differences in genetics, metabolism, photosynthesis, and gravity sensing between plants grown in space and on Earth. This investigation is expected to provide key insights on major changes occurring in plants exposed to microgravity.
+At Home in Space: The crew completed a questionnaire for the At Home in Space investigation. This Canadian Space Agency investigation assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home in Space also uses questionnaires to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth. 
+Space Test Program – Houston 5 (STP-H5):  The crew took photos of the Cyclops Innovative Coatings Experiment (ICE) strips with still camera from Cupola and JEM. STP-H5 is an external payload consisting of 13 individual experiments ranging from technology demonstrations to space and terrestrial weather measuring and monitoring. The experiments are provided and operated by Department of Defense (DoD) and NASA agencies.
+Multi-Purpose Computer and Communication (MPCC) Phase 2 Software Load: This morning the crew installed a new software load on the EICL (European IP Communications Laptop). This update will enable communication between ground stations and onboard computer systems while running the MPCC Phase 2 update. 
+Cygnus Delta-Velocity Engine (DVE) Robotics Survey: Nominally, the DVE is not fired while attached to either the ISS or the SSRMS. Teams have proposed using the Cygnus vehicle to conduct an ISS Reboost, necessitating visual verification of the status of the DVE and surrounding heat shield.  Ground robotics specialists used the Space Station Remote Manipulator System (SSRMS) Latching End Effector (LEE) Camera to capture images of these components for analysis.   
+Health Maintenance System (HMS) Eye Exams: Today the 54S crew completed the third day of routine eye exams using Optical Coherence Tomography (OCT). OCT is an imaging technique analogous to ultrasound imaging that uses light instead of sound to capture micrometer-resolution, two- and three-dimensional images of tissue; In this case, the objects of interest are the crewmember’s eyes. Eye exams are performed regularly onboard in order to monitor crewmembers eye health. Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment. 
+Cygnus Cargo Operations: Today the crew continued packing the Cygnus vehicle, executing the steps in Cargo Message #3. They performed 5 hours of operations and then discussed their progress during a Cargo Conference with ground specialists early this afternoon. 
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+ISS Crew and GOGU (RSA Flight Control Team) Weekly Conference (S-band)
+Plant Habitat-01 Plant Thinning Hardware Gather
+High Definition Video Camera Assembly 2 Activation in High Definition Mode
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation Setup
+IMS Conference (S-band)
+BIOS Correction of the European IP Communication Laptop
+Plant Habitat-01 On-Board Training and Procedure Review
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation
+Health Maintenance System (HMS) Periodic Health Status (PHS) Stow Hardware
+Plant Habitat-01 MWA Preparation
+Vacuum Cleaning of the СКПФ1 and СКПФ2 Dust Filters and Cleaning of MRM1 ГЖТ Gas Liquid Heat Exchanger
+PHASE TRANSITION. Experiment Setup and Performance.
+Plant Habitat-01 Door Removal
+Microgravity Science Glovebox Laptop disposal
+Integrated Emergency Procedure Review
+VELO Exercise, Day 3
+Software Image Installation on the European IP Communication Laptop
+Plant Habitat-01 Plant Thinning Part 1
+Vacuum Cleaning of ПФ1 and ПФ2 Dust Filters and Cleaning of [B1] and [B2] Fan Screens in MRM2
+STaARS Cryotube Kit MELFI Retrieval
+Place STaARS samples into Kynar Bag
+Glaicer Ice Brick/Cold Block Retrieval
+DAN. Experiment Session.
+DAN. Assistance During the Experiment and Photography
+Verification of correct Software Installation and reboot of the European IP Communication Laptop
+Plant Habitat-01 Plant Thinning Part 2
+High Definition Video Camera Assembly 2 Switch to SD Mode
+Manufacturing Device Feedstock Canister Exchange
+Payloads Network Attached Storage (NAS) Vent Cleaning
+Plant Habitat-01 Plant Thinning Glacier Insertion
+Plant Habitat-01 Plant Thinning Part 3
+Health Maintenance System (HMS) – ESA Nutritional Assessment
+Plant Habitat Distribution Reservoir Water Remove and Refill
+Health Maintenance System (HMS) OCT Setup
+Vacuum Cleaning of ПФ1 and ПФ2 Dust Filters and Cleaning of [B1] and [B2] Fan Screens in DC1
+Comm Config from MRM1
+SEPARATION. RS [СРВ-У] Distillation.
+Transfer Cygnus Cargo Operations
+СОЖ maintenance
+Health Maintenance System (HMS) – OCT Exams
+N2 Nadir Hatch to Unlatch Hardstop
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Crew Medical Officer (CMO) Proficiency Training
+Team Task Switching Experiment Survey Subject
+Health Maintenance System (HMS) OCT Stow
+Crew Medical Officer (CMO) On Board Training (OBT)
+PHASE TRANSITION. Closeout Operations.
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Sample Stow
+Inventory Management System (IMS) Conference
+USB Data Transfer to SSC and PPS Reconfiguration
+Handover of Increment 56 Crew
+VZAIMODEISTVIYE-2. Experiment Session.
+IMS Delta File Prep
+Cygnus Cargo Operations Conference
+Program Management/ISS CREW Conference
+USOS Window Shutter Close
+
+Completed Task List Activities:
+
+None 
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Cygnus Thruster Survey Robotics Operations
+

@@ -1,0 +1,82 @@
+
+Body Measures Investigation:  Flight Engineer (FE)-6 Wakata, with operator assistance from FE-3 Hopkins, set up cameras and cabin video, performed body marker instrumentation, and collected calibration and body pose photos and circumference measurements. This is Wakata’s flight day 80 session, and is the third of six times he will conduct these measurements.  The goal of this study is to gather data to better understand the magnitude and variability of changes due to microgravity and fluid shifts within the human body during long-duration space flight.  Results of the investigation may result in changes to space suit fit and sizing, workstation design, etc. for future missions to maximize performance, prevent injury, and reduce crew time to accommodate their anthropometrics.
+Ocular Health (OH) Optical Coherence Tomography (OCT) Test and Fundoscope Examination:  FE-5 Mastracchio, performing as Crew Medical Officer (CMO), performed an OCT test of Hopkins.  Following the OCT examination, Hopkins applied drops to his eyes to dilate them.  Mastracchio conducted a Fundoscope eye examination of Hopkins with remote guidance from ground experts. The OCT and Fundoscsope activities are part of the Flight Day 120 session for Hopkins. The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment / intracranial pressure in ISS crewmembers.  Researchers believe the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post flight recovery will assist in the development of countermeasures, clinical monitoring strategies and clinical practice guidelines.
+Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) and Filter Change out: Hopkins completed this routine maintenance consisting of WHC urine receptacle and filter removal and replacement. The activity was followed by a successful functionality test.
+SpaceX-3 Prepack:  Wakata commenced prepacking activities in support of the upcoming SpaceX-3 mission. An estimated 25 hours of crew time will be spent towards prepacking activities in the coming weeks. SpaceX-3 is scheduled to launch no earlier than March 1st and rendezvous with ISS on March 3rd.
+Extravehicular Activity (EVA) Camera Configuration: Wakata configured two D2X cameras in support of Russian Segment EVA 37A, which is scheduled for next Monday, January 27th.  The two cameras will be transferred to the Russian Segment on Friday in advance of Monday’s EVA.
+Today’s Planned Tasks
+
+ENERGY Diet Log of Breakfast [Complete]
+D2XS Battery Charge [Complete]
+Reconnect SM Kurs-P cables to DC1 -Y port and Photography  [Complete]
+Waste and Hygiene Compartment (WHS) Urine Receptacle and Insert Filter Changeout [Complete]
+ISS O2 Repress from ТКГ 420 (DC1) СРПК Section 2 (terminate)  [Complete]
+Urine transfer from 2 EDV-U to ТКГ 420 (DC1) Rodnik Tank 2  [Complete]
+ИП-1 Flow Sensor Position Check  [Complete]
+ISS CREW/SSIPC CONFERENCE [Deferred]
+Terminate EMU Metox Regeneration [Complete]
+Start EMU METOX Regeneration [Complete]
+Maintenance activation of Atmosphere Purification System Emergency Vacuum Valves [АВК СОА] from the Spare Part Kit  [Complete]
+EVA Medical Kit Configuration [Complete]
+Body Measures Experiment Operations Subject [Complete]
+Maintenance activation of Atmosphere Purification System Emergency Vacuum Valves [АВК СОА] from the Spares Kit  [Complete]
+Spacesuit comm and telemetry configuration [Complete]
+Checkout of Beta-08 Data Output Device (УСИ) Using Gamma-1M  [Complete]
+СОЖ Maintenance  [Complete]
+BODYM – Assistance with the Experiment [Complete]
+Orlan and БСС telemetry check. Orlan comm check and medical parameter test  [Complete]
+Photography of sensor ТМ 168-04  [Complete]
+Comm reconfig into initial after Orlan Comm. Check  [Complete]
+Install US EMU lights, TV cameras, and REBA units on Orlan 4 and 6  [In Work]
+D2XS Battery Charge [Complete]
+OH-OCT – Test Setup [Complete]
+Verify attachment and LEMO Connections for US EMU Lights and TV Camera on ORLAN [Complete]
+ENERGY Diet Log of Lunch [Complete]
+OH-OCT – Test Ops [Complete]
+Consolidate Tool Caddy, Photography, Photo Downlink [Complete]  
+Vacuum Pressure Gauge Accuracy Check [Complete]
+Microbial Air Sampling – media 1 results obtained from locations No. 1 – 8 [Complete]  
+Optical Coherence Tomography (OCT) – Equipment Stowage [Complete]
+Cycle 14 Laptop & CD Audit [Complete]
+IMS and Stowage Conference [Complete]
+Cycle 14 Data Management System Portable Work Station (PWS1) Deactivation [Complete]  
+Inventory of ВП1 fuses in SM [Complete]
+WRM – Condensate Pumping Initiation [Complete]
+Cycle 14 PWS2 – Reconnection of power cable [Complete]
+PAO Hardware Setup [Complete]
+Install Orlan-MK Attached Equipment  [Complete]
+Crew Prep for PAO [Complete]
+IMS Update [Complete]
+Recycle Tank Quick Disconnect (QD) Reconfig [Complete]
+PAO Event [Complete]
+BCAT – Intervalometer Change [Complete]
+WRM – Terminate Condensate Pumping [Complete]
+Ocular Health (OH) Fundoscope Setup [Complete]
+PWS2 Activation [Complete]
+TERMO-LADA. Visual Inspection of Hardware Operation [Complete]  
+Ocular Health (OH) Fundoscope Prep [Complete]
+Dragon Prepack Conference [Complete]
+В3 Fan Screen Cleaning in DC1 [Complete]  
+Ocular Health (OH) Fundoscope Exam [Complete]
+Dragon Pre-pack [Complete]
+Ocular Health (OH) Fundoscope Equipment Stowage [Complete]
+SPHERES – Battery Installation [Complete]
+ENERGY Diet Log of Dinner [Complete]
+SPHERES – Installation of Charged Batteries [Complete]
+
+Task List
+
+ARED Cylinder Evac
+National Geographic B Roll Part 4 [In Work]
+ЕДВ-У R&R
+Replace KTO when full.
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+CFE VG2 Ops [Complete]
+SAMS ICU/D1 Activation
+JAXA Report [Complete]
+
+Ground
+
+Nominal Commanding  [Complete]
+

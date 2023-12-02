@@ -1,0 +1,99 @@
+
+Hybrid Training Part Eleven: Commander (CDR) Wakata donned the Hybrid Training hardware which provides electrical impulses to his non-dominant arm during concentric and eccentric arm motions. The electrical impulses help to simulate the resistance gravity would provide on the ground. This was Wakata’s eleventh of twelve Hybrid Training sessions. Hybrid Training will be used for Wakata’s upper limbs (the non-dominant arm) for four weeks, and his muscular strength and bulk will be compared to those of his dominant arm to examine its orbital operation capability utility, as well as the preventive for muscle atrophy. Hybrid Training can become a useful back-up for the standard training device on the ISS. It can also be a useful training device in small space ships for the exploration of the Moon and Mars.
+European Drawer Rack (EDR) Facility for Absorption and Surface Tension (FASTER) Installation: FE-5 Mastracchio installed FASTER which was delivered on SpaceX-3 into the EDR in the Columbus module. FASTER investigates links between emulsion stability and physico-chemical characteristics of droplet interfaces.
+NanoRacks Module 9 Extended: Wakata removed the NanoRacks Module 9 Extended from Commercial Generic Bioprocessing Apparatus (CGBA)-6 and activated mixture tubes. Afterwards, he stowed the mixture tubes into Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). The purpose of the ISS in-flight study is to validate and assess the efficacy of the benzofuran-2-carboxylic acid derivatives as pharmacological countermeasures, in-flight using the ISS platform, in mitigating the adverse effects of spaceflight on the immune system. The ISS radiation environment will also be characterized to determine its impact on the performance of these compounds.
+Advanced Colloids Experiment (ACE)-M-2 Sample Inspection: Wakata inspected ACE-M-2 samples yesterday and today. Wakata looked for bubbles, leaks, and free floating materials in the samples, which were delivered on SpaceX-3. A few bubbles were found in some of the wells. The bubbles will be stirred at a later date prior to insertion into the Fluids Integrated Rack (FIR). In the ACE-M-2 investigation, a model colloidal system is used to observe the microscopic behavior of liquids and gases separating from each other, near the critical point, via a process called spinodal decomposition.
+Cardio Ox Sample Collection: Wakata collected urine and blood for his Return-15 day session for the Cardio Ox investigation. The goal of Cardio Ox is to determine whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis risk in astronauts. Twelve crewmembers provide blood and urine samples to assess biomarkers before launch, 15, and 60 after launch, 15 days before returning to Earth, and within days after landing. Ultrasound scans of the carotid and brachial arteries are obtained at the same time points, as well as through 5 years after landing, as an indicator of cardiovascular health.
+Extravehicular Mobility Unit (EMU) and Airlock Cooling Loop Flush: FE-3 Swanson and Mastracchio continued with EMU and Airlock maintenance that they started yesterday. Today they performed Airlock flushes on EMUs 3005 and 3011. They also re-filled EMU water tanks and collected a sample representative of the mixed EMU and Airlock cooling water.
+Crew Medical Officer (CMO) On-Board Training (OBT): Wakata and Swanson performed this OBT today. This is a Computer Based Training (CBT) module that requires no ground interaction and is performed periodically to maintain proficiency for designated CMOs.
+Dragon Trunk Survey: Last night, Robotics Ground controllers performed a video survey of the Dragon Trunk using both Dragon cameras and the Special Purpose Dexterous Manipulator (SPDM). The survey is in preparation for robotics activities to deliver the High Definition Earth Viewing (HDEV) and Optical PAyload for Lasercomm Science (OPALS) payloads from Dragon to ISS this week.
+SpaceX-3 Cargo Operations: The crew has completed 60.2% of Dragon cargo operations through the end of the work day today.
+53P Reboost:  A reboost was performed this morning using Progress 53 (53P).  The reboost was performed for 566.7 seconds with a delta velocity of 1.23 m/s.
+Today’s Planned Tasks
+
+IMMUNO. Saliva Sample (Session 1). r/g 5493 [Complete]
+Laptop RS1(2) Reboot / Onboard Computer System [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+HRF Generic Refrigerated Centrifuge spin conclude [Complete]
+HRF Sample MELFI insert [Complete]
+HRF Frozen blood collection stow  [Complete]
+HAM SM pass [Complete]
+Hybrid training [Complete]
+OH BP ops operator [Complete]
+OH BP ops subject [Complete]
+Tonometry test setup [Complete]
+Tonometry test subject [Complete]
+Tonometry test CMO [Complete]
+Tonometry test stow [Complete]
+EHS CSA-CP checkout [Complete]
+Journals entry [Complete]
+FASTER h/w installl in EDR [Complete]
+Dragon transfer ops [In work]
+WRM condensate pump initiation [Complete]
+JEM System laptop terminal reboot [Complete]
+WRM condensate pumping bag swap [Complete]
+ACE sample inspect #2 [Complete]
+IMMUNO. First stress test, questionnaire data entry. r/g 5493 [Complete]
+IMMUNO. Venous blood collection r/g 5493 [Complete]
+IMMUNO. Assistance in the Experiment / r/g 5495 [Complete]
+IMMUNO. Venous blood sample processing (smear)  r/g 5493 [Complete]
+IMMUNO. Equipment Stowage / r/g 5493 [Complete]
+SM ПСС (Caution & Warning Panel) Test  [Complete]
+Nanoracks Biorack USB insert [Complete]
+CMO proficiency training [Complete]
+WRM condensate pump terminate [Complete]
+Dragon transfer cargo tagup [Complete]
+PAO HD config Lab setup [Complete]
+PAO prep [Complete]
+PAO event [Complete]
+EMU A/L flush [Complete]
+EMU water recharge [Complete]
+EMU A/L mix initialization [Complete]
+EMU A/L sample [Complete]
+EMU A/L flush deconfig [Complete]
+WHC partial fill [Complete]
+ВКС Laptops Antivirus Scan Check and Status Report / r/g 5201 [Complete]
+Daily Planning Conference (S-band) [Complete]
+MATRYOSHKA-R. Monitoring Lulin-5 readings / r/g 4110 [Complete]
+Life On The Station Photo and Video / r/g 5136 [Complete]
+Troubleshooting RSK2 laptop anomaly.  r/g 5501 [Complete]
+СОЖ Maintenance [Complete]
+Cleaning FGB ГЖТ Detachable Screens 1, 2, 3 [Complete]
+EXPOSE-R Hardware Assembly, Configuration Setup  r/g 5508 [Complete]
+Cleaning ventilation system screens on FGB interior panels (panel 201, 301, 401) [Complete]
+On MCC Go EXPOSE-R Mating connectors. r/g 5508 [Complete]
+EXPOSE-R To test hardware  r/g 5509 [Complete]
+ТК 711 Stowage Ops / r/g 5463  [Complete]
+On MCC Go EXPOSE-R  Re-mating Connectors.  r/g 5508 [Complete]
+ТКГ 420 (DC1) Transfers and IMS Ops / ТКГ 421 Transfer Ops (РПР) +r/g 5317 [Complete]
+EXPOSE-R. Closeout Ops.  r/g 5508 [Complete]
+IMS Update [Complete]
+ALBEDO. Battery Charge (start) / r/g 3620 [Complete]
+IMMUNO. Preparing Saliva-Immuno Kit for the experiment / r/g 5503 [Complete]
+Photography of Removable Cassette Containers [СКК] / r/g 5498  [Complete]
+IMMUNO. Saliva Sample (Session 2) / r/g 5493 [Complete]
+IMMUNO. Second stress test, questionnaire data entry / r/g 5493 [Complete]
+IMMUNO. Final Equipment Stowage / r/g 5493 [Complete]
+
+Task List
+
+ARED Cylinder Evac
+IFM Sabatier purge
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+37S US prepack [In work]
+EMU 3005 photos
+ICE2 t/s part 2 [Complete]
+XFER Dragon Cargo Ops [In work]
+Crew departure prep
+Data prep return
+NOD1OS2 LHA R&R
+ST ISS Read
+
+Ground
+
+Nominal commanding
+

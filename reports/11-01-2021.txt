@@ -1,0 +1,21 @@
+
+Payloads:
+Exploration ECLSS-TOILET:  A crewmember completed a weekly survey on the Toilet System to provide feedback on system functionality and crew observations. The Toilet ЕДВ was also changed out and the crewmember checked the Toilet System for adequate Pretreat dosing from the Dose Pump.  The Toilet System is an Exploration Tech Demo that has evolved into a permanent USOS system.  The Toilet has the same basic design as the Orion Universal Waste Management System (UWMS).  The Toilet System will be the primary WMS for USOS for up to 90-crew-days and interfaces with the Urine Transfer System (UTS) to allow concurrent WHC/Toilet operations. 
+FIR (Fluids Integrated Rack):  A crewmember performed Quick Disconnect water line hose maintenance on the FIR lines and also configured the back of the FIR optics bench in preparation for Flow Boiling Condensation Experiment (FBCE) hardware including installing required cables.  The FIR is a complementary fluid physics research facility designed to host investigations in areas such as colloids, gels, bubbles, wetting and capillary action, and phase changes, including boiling and condensation.
+Pilote:  A crewmember performed PILOTE science run.  In order to test the ergonomics of a multisensory interface for controlling robotic arms and spacecraft, it is necessary to perform the trials in microgravity. Performing the test on Earth would lead to a design of a work station using terrestrial ergonomic principles that do not correspond to conditions experienced on a spacecraft in orbit. The Pilote investigation tests the effectiveness of novel control schemes for the remote operation of robotic arms and space vehicles, using virtual reality and a new class of user-machine interfaces based on haptics.
+Systems: 
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: The crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis. The crew replaced the TOCA Waste Water Bag (WWB) just prior to the sample collection to preclude overfill.
+In-Flight Maintenance (IFM) Hatch Seal Inspections: The crew cleaned and inspected the JPM Starboard, Node 2 (Aft, Port, Starboard, Forward), COL Port and Lab (Forward, Aft) hatch seals, hatch plate sealing surfaces, and crank handles for damage or Foreign Object Debris (FOD) as part of standard preventive maintenance.
+Completed Task List Activities:
+
+Toilet Urine Filter Remove & Replacement
+Transfer 79 Progress USOS Unpack
+Toilet Fecal Canister Remove & Replacement
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+JEMRMS Console Bus Checkout Ground Support
+Automated Tracking and Data Relay Satellite (TDRS) Selection (ATS) Pre-Positioned (PPL) Loading
+Internal Audio Subsystem (IAS) Russian to USOS Communication Configuration
+

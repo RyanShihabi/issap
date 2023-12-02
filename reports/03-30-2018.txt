@@ -1,0 +1,67 @@
+
+Human Research Facility (HRF)-2:  This morning the crew connected a 5 meter USB cable and an 8 port serial adapter and spider cable between the HRF-2 and HRF-1 racks in order to support troubleshooting of the Rack Interface Controller (RIC) on HRF-2. Ground teams are evaluating the troubleshooting results. On Sunday, March 25th, approximately one hour after the nominal activation of HRF Rack 2, communication was lost with the rack.   
+Combustion Integrated Rack (CIR) Manifold #4 Bottle Replacement: As part of ISS joint research, a Russian crewmember removed and replaced a CIR manifold #4 bottle on the front of the optics bench. CIR provides sustained, systematic microgravity combustion research and it houses hardware capable of performing combustion experiments to further research of combustion in microgravity. 
+Veg-03:  Today the crew watered the Veg-03 lettuce plants and harvested select leaves for consumption. The plants were be left to grow and sprout new leaves.  Veg-03 supports the proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long duration space missions will require a fresh food supply grown in space to supplement crew diets.
+Space Headaches:  Two 53S crewmembers completed the weekly questionnaire for the ESA Space Headaches investigation today. This investigation collects information that may help in the development of methods to alleviate associated symptoms and improve the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission.
+Space Station Remote Manipulator System (SSRMS) Operations:  After providing robotic support to EVA #49, ground robotic specialists walked the SSRMS from the Mobile Base System (MBS) to the N2 Power Data Grapple Fixture (PDGF).  Following the SSRMS walkoff ground specialists completed a MT translation from worksite 6 to worksite 4. SSRMS is in position for the Dragon offset grapple training. 
+Urine Processor Assembly (UPA) Pressure Control and Pump Assembly (PCPA) Replacement: Wednesday, current sensors inside the PCPA detected a rise in current during a UPA process cycle resulting in a PCPA shutdown. Review of data by the UPA specialist indicated that the PCPA has failed. Today, the crew removed the failed PCPA and replaced it with one of the spares currently onboard.  UPA activation and checkout is in work. 
+Dragon On-Board Training (OBT) and Self Study:  The crew performed OBT using Robotics Onboard Trainer (ROBoT) and did self-study in preparation for Dragon approach and rendezvous.  They completed a 30m approach, two Capture Point (CP) hold runs and 2m runs.
+Post-Extravehicular Activity (EVA) Operations:  Following yesterday’s EVA, the crew completed Post-EVA medical evaluations, airlock deconfiguration and a water recharge on Extravehicular Mobility Units (EMUs) 3003 and 3006.  They also conducted an EVA debrief with ground specialists 
+ISS Emergency Hardware Familiarization OBT:  The newly arrived 54S crew were guided through a review of all of the ISS Emergency Hardware by a Russian and USOS crewmember.  This activity provides familiarization with the locations of equipment and the positions of valves used in emergencies.  They also practiced communication from the Russian modules in case of emergency.  Following the review, they reported the results to both Moscow and Houston ground specialists.   
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+ISS Crew Handover
+Life On The Station Photo and Video
+Swap USB Card Reader
+URAGAN. Observation and photography
+ECON-M. Observation and photography
+Activation of Windows 7 OS after SW Version 5.0 installation on Laptop RSK2
+БД-2 bungee cord adjustment, lubrication, and testing
+Actiwatch Spectrum HRF1 Setup
+Pille Dosimeter Readout after USOS EVA
+ISS HAM Radio Ops
+FAZOPEREKHOD. Preparation steps and starting the experiment
+Health Maintenance System (HMS) Periodic Health Status (PHS) Post EVA Examination
+MOTOCARD. Experiment Session
+In-Flight Maintenance (IFM) – Pressure Control & Pump Assembly (PCPA) Remove and Replace
+MOTOCARD. Operator Assistance with the Experiment
+Soyuz 738 Transfers and IMS Ops
+Actiwatch Spectrum HRF1 Stow
+Robotics Onboard Training (ROBoT) Session for Dragon
+SM Air Sampling for CO using ИПД Samplers
+ISS Crew Orientation
+Collecting SM and FGB Air Samples Using АК-1М Sampler
+Extravehicular Activity (EVA) Air Lock Deconfiguration
+FAZOPEREKHOD. Closeout Ops
+ПСС (Caution & Warning Panel) Test in DC1
+On-board Training (OBT) ISS Emergency Hardware Familiarization
+Polar1 Desiccant Swap
+VEG-03F Consumption Harvest #2
+Extravehicular Mobility Unit (EMU) Water Recharge
+СОЖ maintenance
+Combustion Integrated Rack Manifold #4 Bottle Replacement
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+PROFILAKTIKA-2. Training Session Using КОР-01-Н Set
+Inventory Management System (IMS) Conference
+Space Headaches – Weekly Questionnaire
+Extravehicular Activity (EVA) Debrief
+Robotics Onboard Training (ROBoT) Session for Dragon
+VEG-03 Dual Facility Watering for each Plant Pillow
+VEG-03 Plant Photos
+CONTENT. Experiment Ops
+IMS Update
+Waste & Hygiene Closet (WHC) configure for output to Urine Processor Assembly (UPA)
+
+Completed Task List Activities
+
+None 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Standard Commanding
+PCPA Setup Post R&R 
+

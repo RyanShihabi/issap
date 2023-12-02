@@ -1,0 +1,69 @@
+
+Robotic External Leak Locator (RELL) Operations: Overnight, RELL checkout and demonstration was performed by performing scans of the Port 1 Truss (P1) Truss Radiator Beam Valve Modules (RBVMs), and the P1 Ammonia (NH3) Vent. Today the Robotics Ground Controllers are performing the Pump Flow and Control Subsystem (PFCS) survey. Once the PFCS survey is complete, the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) will be maneuvered to a translation configuration. The Mobile Transporter (MT) will then be translated to Worksite 6 in order for RELL to perform a survey of the Zenith 1 (Z1) truss segment. RELL is an instrumentation package that is maneuvered externally by the SSRMS/SPDM to detect local pressure variations to help in locating a leak. For this demonstration, a predetermined scan/survey procedure will be executed that characterized the ISS environment and scans various ISS elements containing ammonia lines and systems. Planned operations will attempt to identify the source of the “white flakes” that have been noticed on downlink video. 
+Combustion Integrated Rack (CIR) Multi-user Droplet Combustion Apparatus Chamber (MDCA) Troubleshooting: On Friday, November 25th (GMT 330), the crew attempted to perform a Fluids and Combustion Facility (FCF) MDCA component replacement in preparation for upcoming science, however the crew was unable to remove the Chamber Insert Assembly (CIA). Today the crew performed investigative troubleshooting to determine the location of the obstruction. The troubleshooting consisted of utilizing a fiberscope to view down the rails of the CIA, and a tool to slide down the rail to determine the location of the obstruction.
+Veg-03: The crew performed their first harvest of Outredgeous Red Romaine Lettuce from the Veggie facility. This first of four harvests is part of a new paradigm of harvesting entitled “Cut and Come Again” were the astronaut will only harvest the outer leaves allowing for an attempt at a longer growth of the plants. After wiping the leaves with a food-grade antibacterial wipe, the crew consumed the leaves. The four harvests will occur over a 60-day growth period. The overall goal of Veg-03 is to further demonstrate proof-of concept for the Veggie plant growth chamber and the planting pillows using ‘Outregous’ Red Romaine lettuce. Future long-duration missions into the solar system, will require a fresh food supply to supplement crew diets, which means growing crops in space. Previous investigations focused on improving productivity in controlled environments, but the limited quarters of the space shuttle and ISS made it difficult to conduct large-scale crop production tests. Veg-03 expands on previous validation tests of the new Veggie hardware, which crew members will soon use to grow cabbage, lettuce and other fresh vegetables in space. Tests determine which types of microorganisms are present in space-grown cabbage, providing baseline data for future crop-growing efforts. Behavioral health surveys assess the impact of growing plants on crew morale and mood. 
+Human Research Program (HRP) Blood Collection: The crew performed their Flight Day 15 blood collections and then stowed them into the Minus Eighty-degree Freezer for ISS (MELF). These sample collections will be used to support the Biochem Profile, Repository, and Cardio Ox investigations.
+
+The Biochem Profile experiment tests blood and urine samples obtained from astronauts before, during and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank that is used to maintain biological specimens over extended periods of time and under well-controlled conditions. This investigation archives biosamples for use as a resource for future space flight related research.
+Cardio Ox determines whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis in astronauts.
+
+Electrostatic Levitation Furnace (ELF) Operations: The crew removed the samples from the ELF work volume then cleaned the internal chamber of sample residue. ELF was then put back into an operational configuration. The Electrostatic Levitation Furnace (ELF) is an experimental facility designed to levitate/melt/solidify materials by containerless processing techniques using the Electrostatic Levitation method. With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved. The ELF is located in the JEM Multipurpose Small Payload Rack (MSPR) in Kibo. 
+Space Automated Bioproduct Laboratory (SABL2) CO2 Controller Installation: The crew installed the Carbon Dioxide (CO2) Incubator Controller brought up by OA-5 into the SABL. Following the installation, ground controllers performed checkout operations of the new hardware. SABL supports a wide variety of experiments in the life, physical and material sciences with a focus on supporting research of biological systems and processes. It has over 23 liters of temperature controlled volume with LED lighting for scientific hardware and experiments. It can be fitted to provide 5% CO2 for cell cultures and has 2 USB 2.0 ports and 2 ethernet LAN connections. It also has switchable 28vdc and 5vdc power supplies for experiment use. 
+On-board Training (OBT) HII Transfer Vehicle (HTV) Rendezvous Review: In preparation for HTV-6 arrival scheduled for later this month, the crew participated in a conference with ground teams to discuss the training session and address any questions. The crew then performed their proficiency training session, covering the mission profile, the rendezvous crew procedures and crew interfaces for monitoring and commanding. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+HRF Generic Frozen Blood Collection
+HRF Generic Refrigerated Centrifuge Configuration
+HRF Generic Refrigerated Centrifuge Spin Conclude
+Space Automated Bioproduct Lab, CO2 Incubator Installation
+XF305 Camcorder Setup
+Electrostatic Levitation Furnace(ELF) chamber cleaning & sample holder exchange
+HRF Generic Sample MELFI Insertion
+Electrostatic Levitation Furnace(ELF) Sample Cartridge Retrieval
+HRF Generic Frozen Blood Collection Conclude Stow
+CIR Multi-user Droplet Combustion Apparatus Chamber Inlet Assembly Troubleshooting
+Electrostatic Levitation Furnace(ELF) Sample Holder Exchange [Deferred]
+Electrostatic Levitation Furnace(ELF) chamber cleaning & sample holder exchange Part 3
+СОЖ maintenance
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation
+ISS Crew Orientation
+Space Headaches – Weekly Questionnaire
+Meteor Hard Drive Swapout
+On-Board Training (OBT) HTV OBT Conference
+MRM2 comm config to support the P/L Ops
+SARCOLAB (MARES). Removal of Hard Drive from EPM Laptop and Stowage
+KULONOVSKIY KRISTALL. Experiment Ops.
+Cardio Ox Reference Material Review
+On-board Training (OBT) HTV Robotics Review
+CIR Multi-user Droplet Combustion Apparatus Chamber Inlet Assembly Troubleshooting
+On-board Training (OBT) HTV Rendezvous Review
+MRM2 Comm Reconfig for Nominal Ops
+Inventory Management System (IMS) Conference
+Program Management/ISS CREW Conference
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+On-board Training (OBT) HTV Rendezvous Review
+KULONOVSKIY KRISTALL. Copy and Downlink Data via RSPI
+Fast Neutron Spectrometer US LAB Hardware Setup
+HRF Generic Urine Collection Setup First Time
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+Habitability Narrated Task Video Setup – Subject
+Video Recording of Greetings
+VEG-03 Consumption Harvest #1
+ISS Crew Orientation
+Habitability Narrated Task Video End 
+
+Completed Task List Items
+
+EMU Swap
+VEG03 Pillow Water
+Crew New Food Evaluation
+Stowage of Empty CTBs in PMM Endcone
+Columbus Stowage Audit and Cleanup
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+RELL Operations
+

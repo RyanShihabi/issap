@@ -1,0 +1,115 @@
+
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM): The Crew setup the EarthKam into Node 2 for a weeklong imaging session. EarthKAM allows thousands of students to photograph and examine Earth from a space crew’s perspective. Using the Internet, the students control a special digital camera mounted on-board the ISS. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The EarthKAM team then posts these photographs on the Internet for viewing by the public and participating classrooms around the world. 
+Rodent Research-14 (RR-14): The crew installed four Rodent Habitats into the Lab module. Rodent Research–14, Microgravity as a Disruptor Of The 12-hour Circatidal Clock (RR-14), uses mice to test the hypothesis that disruptions in a microgravity environment to the circadian rhythm sleep/wake cycle will affect the body on a cellular and key organ level. The importance of this 12-hour clock has been established as a mechanism that controls stress-responsive pathways. The unique environment of the ISS provides an ideal setting to challenge this. In short, exposing cellular systems in mice to the stress of microgravity provides an opportunity to study the response of the 12-hour body clock from cellular adaptation and its effect(s) on organismal behavior.
+Systems:
+Cygnus NG-12 Mission:  The Cygnus vehicle (S.S. Alan Bean) successfully launched from NASA Wallops Launch Facility on Saturday, November 2 at approximately 9:00 am.  Cygnus arrived at the ISS on November 4 with capture around 3:10 am CT.  Following the capture of the Cygnus vehicle with Space Station Remote Manipulator System (SSRMS) and the berth to the Node 1 Nadir port, the crew prepared the ISS for Cygnus ingress including performing leak checks and outfitting the vestibule for ingress.  Next, the crew ingressed the Cygnus vehicle and started on cargo transfers to the ISS.  The Cygnus/NG-12 vehicle is part of the new Commercial Resupply Services-2 (CRS-2) program that includes multiple upgrades that expands the vehicle’s capabilities.   
+Mobile Servicing System:  Today, the crew monitored the vehicle approach. With Jessica Meir (M1) at the SSRMS control and Christina Koch (M2) monitoring vehicle status, they commanded the SSRMS to track and successfully captured the NG-12 Cygnus vehicle at approximately 3:10 am CT. After the capture, the Robotics Ground Controllers took control of the SSRMS and maneuvered it to the Cygnus Passive Common Berthing Mechanism (PCBM) inspection, then towards Node 1 Nadir CBM port. The Cygnus vehicle was berthed to the Station. The SSRMS will remain grappled to the vehicle until tomorrow. 
+Completed Task List Activities:
+
+EVA ECWS OBT
+ESA-PAO EURONEWS W44
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+Cygnus Capture and Berth Operations. 
+
+Tuesday, 11/05 (GMT 309):
+
+Cold Stowage unpack, (NASA)
+HRF Saliva collect (NASA)
+VEG-04B check (NASA)
+RR-14 Transfers (NASA)
+HRF Frozen blood setup
+TangoLab-2 CardCube replace (NASA)
+ISS HAM Pass (NASA)
+
+Systems:
+
+SSRMS Cygnus Capture
+RWS Configuration
+Cygnus Ingress
+Cygnus Cargo Ops and Transfer
+
+Wednesday, 11/06 (GMT 310):
+
+Vascular Echo scan and BP Measure (CSA)
+SAIBO-CBEF Control Unit 2 troubleshooting (JAXA)
+HRF Frozen Blood Collect (NASA)
+RR-14 Transport stow (NASA)
+ER6 Zbook R&R (NASA)
+MISSE-F Hardware Gather and MTT setup (NASA)
+VEG-04B check (NASA)
+BEST Sample Transfer 2 (NASA)
+EarthKam Lens change (Joint)
+ISS HAM (NASA)
+
+Systems:
+
+Cygnus Cargo Ops
+SSC Relocate
+Cygnus OBT Emergency Review
+
+Thursday, 11/07 (GMT 311):
+
+AMS EVA Preparations (NASA)
+MISSE (NASA)
+HRF Saliva Collection (NASA)
+BioFabrication Facility (NASA)
+NanoRacks ZGO SMPL Photo (NASA)
+
+Systems:
+
+Photo/TV Port Solar Array Survey
+Lab CCAA SCP Installation
+ISS Emergency Prep
+IFM WHC Pre-Treat Tank R&R 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+KORREKTSIYA. Starting Accelerometry
+USOS Window Shutter Close
+Robotics Workstation (RWS) Configuration
+Cygnus PCS Command and PROX Link Verification
+Centerline Berthing Camera System (CBCS) Power-up
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Cygnus R-BAR Approach
+Space Station Remote Manipulator System (SSRMS) Cygnus Capture
+VEG-04B Plant Check/Watering for each Plant Pillow
+AMS VSB Cover Handling Aid training
+Cold Stowage Double
+Coldbag Unpack Review
+Cygnus/Node 1 Pressurization and Leak Check Preparation
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Calibration Check
+Node 1 Centerline Berthing Camera System (CBCS) Removal
+Robotic Workstation (RWS) Teardown
+Remote Workstation Monitor HD Video Downlink Deactivation RWS.
+Photo TV High Definition (HD) Cygnus Video Setup
+Cygnus/Node 1 Pressurization and Leak Check
+СОЖ maintenance
+Private Psychological Conference (PPC)
+EarthKAM. Setup and Activation in Node 2
+Node 1 Nadir to Cygnus Vestibule Outfitting, Part 1
+HERMES SAMS POWER CYCLE
+БД-2 Monitoring
+HRF Generic Saliva Collection Setup
+Node 1 Nadir to Cygnus Vestibule Outfitting Part 2
+Common Berthing Mechanism (CBM) Controller Panel Assembly (CPA) Rotation and Closeout
+Exercise Data Downlink via OCA
+Cygnus Ingress – Crew A
+Cygnus Ingress – Crew B
+Cygnus (NG-12) air sampling using АК-1М sampler prior to air duct installation
+Cygnus Cargo Photo
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Calibration Check Data Record
+Polar Cygnus Uninstall, Transfer, And EXPRESS Rack Install Review
+Rodent Research Habitat Install
+Transfer Cygnus Cargo Operations
+Evening Preparation Work
+Daily Planning Conference
+KORREKTSIYA. End of Accelerometry
+
+ 

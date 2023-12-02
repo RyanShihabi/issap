@@ -1,0 +1,25 @@
+
+Payloads:
+Cardinal Heart 2.0: The crew recorded microscopy video for the tissue samples in the Biocells. A previous investigation showed that four weeks of microgravity exposure caused significant changes in heart cell function and gene expression that could lead to long-term damage or cardiac muscle atrophy. Effect of Microgravity on Drug Responses Using Heart Organoids (Cardinal Heart 2.0) uses heart organoids to test whether clinically approved drugs reduce these microgravity-induced changes in heart cell function. Results could support development of effective drug combinations to improve the health of astronauts and patients on Earth.
+NanoRacks CubeSat Deployer-25 (NRCSD-25): The JEM Airlock (JEMAL) Slide Table (ST) was configured to support next week’s installation of two NRCSD-25 quad deployers and associated hardware. NRCSD will subsequently be transferred outside the ISS and maneuvered to a launch orientation to prepare for launch of its six satellites.
+Plant Habitat-03A: The crew gained access to the Plant Habitat facility, prepared the Plant Habitat-03A samples for return to the ground, and cleaned the facility. Following return to the ground, some of the seeds from this experiment will be planted into another science carrier and flown back to ISS for the second part of the experiment. Plants exposed to environmental stress, including spaceflight, undergo epigenetic changes that involve adding extra information to deoxyribonucleic acid (DNA) rather than changing existing information. Epigenetic Adaptation to the Spaceflight Environment – Accumulated Genomic Change Induced by Generations in Space (Plant Habitat-03) assesses whether epigenetic adaptations in one generation of plants grown in space can transfer to the next generation. This could help identify genetic elements that increase the adaptability of plants to spaceflight, a first step toward developing cultivars better suited to provide food as well as air and water purification in life support systems on future space missions.
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM): The components of the EarthKAM experiment were installed and activated in Node 2 for a week-long imaging session. Not everyone can go to space, but everyone can see Earth from an astronaut’s perspective with the EarthKAM program. Thousands of students can remotely control a digital camera mounted on the ISS, and use it to take photographs of coastlines, mountain ranges and other interesting features and phenomena. The EarthKAM team posts the students’ images on the Internet, where the public and participating classrooms can view Earth from a unique vantage point. 
+Standard Measures: A cognition test was performed in support of the Standard Measures investigation. Cognition is actually a battery of ten tests that measure how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. The tests cover a wide range of cognitive functions, and provide immediate feedback on current and past test results. The software allows for real-time measurement of cognitive performance while in space.
+Systems:
+In Flight Maintenance (IFM) Portable Emergency Provisions (PEPS) Inspection: The crew verified the Portable Fire Extinguishers (PFEs), Extension Hose Tee Kit (EHTKs), the Portable Breathing Apparatuses (PBAs), and Pre-Breathe Masks are all free of damage to ensure functionality. The crew spends several minutes to inspect each item and notes any visual damage. PEPS inspections are performed routinely to ensure the PEPs are in good operational condition in the case of an emergency. The PBA provides breathable O2, eye/nose/mouth protection, and two-way communications to a crewmember during a fire, rapid depressurization, or toxic spill event. 
+Dragon Docking System Cleaning: The crew inspected and cleaned the Dragon Docking System Forward Hatch in preparation of the SpaceX-27 (SpX-27) undock on Saturday, April 15th. This activity is performed prior to departure to ensure successful Forward Hatch closure and seal, as well as avoid Foreign Object Debris (FOD) compromising the International Docking Adapter (IDA) seal surface during undock. The IDA converts the Pressurized Module Adapter (PMA) from the Shuttle-era Androgynous Peripheral Attachment System (APAS) docking system to a new low-Impact docking system that allows automated docking of visiting vehicles to the US Segment of the ISS.
+Cargo Dragon – Transfer Cargo Operations: As payload activities are completed, the crew continues to transfer science experiments and hardware from the ISS to the SpX-27 cargo vehicle. SpX-27 is scheduled to remain at the ISS until April 15th before it undocks for return to Earth.
+Completed Task List Activities:
+
+Airlock PCS USB to 1553 Adapter Cable Swap
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SSC 20 T2 Configuration
+Commercial Visiting Vehicle Video Survey
+MSS Power Up and Maneuver
+RST TO EDV Water Transfer Support
+PRO Commanding
+Cardinal Heart 2.0 Microscopy Support
+

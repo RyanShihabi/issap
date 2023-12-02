@@ -1,0 +1,67 @@
+
+Ocular Health (OH), Fundoscope: Kopra and Peake continued with OH and Fundoscope operations which are ongoing this week.
+ 
+Dose Tracker:  Kopra and Peake completed entries for medication tracking early this morning.  This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+ 
+OA-6 Preparations: Kopra and Peake completed another session of Robotics On-Board Trainer (RoBOT) On-Board Training (OBT) in preparation for OA-6 arrival. The procedure included a 30 meter approach, two Capture Point hold runs and 2 meter runs. Following RoBOT training Peake utilized the Auto Run Tool to continue practicing 2 meter and 30 meter approach runs. Also in preparation for OA-6, the crew unlatched the Node 1 Nadir hatch.
+ 
+Air Quality Monitor (AQM) Sieve Cartridge Troubleshooting: On February 3, during activation and checkout of AQM #1005 the crew received a “Not Ready” status. It was suspected that the issue is with a sieve cartridge. Kopra removed the old cartridges from AQM #1005 and replaced it with new ones to confirm whether the issue was due to a bad cartridge or the unit itself.  Initial results of ground commanding indicate that the cause was a bad cartridge and is now resolved.
+ 
+Mobile Servicing System (MSS) Operations: On October 8, 2015, during Robotics Refueling Mission (RRM) operations, invalid joint position and Resolver-to-Digital (RDC) Built-In-Test (BIT) errors were seen. Last evening, Robotics Ground Controllers performed Special Purpose Dexterous Manipulator (SPDM) Arm2 Shoulder Yaw (SY) joint characterization.  The characterization was completed with no test failures and no recurrence of the anomaly.  Data collected will be analyzed to help characterize the original anomaly.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+OCT Hardware Setup
+SEISMOPROGNOZ. Data export from БСПН Payload Server to RSS1 (start)  r/g 1677
+DOSETRK – Questionnaire Completion
+RS1 Laptop Displays Update Check r/g 1671
+WRS Water Sample Analysis
+DOSETRK – Questionnaire Completion
+Health Management System (HMS) – OCT – Subject
+PAO hardware setup
+Health Management System (HMS) – OCT – Operator
+Voice check in S/G1 from Baikonur
+Crew Prep for PAO / r/g 1676
+TV PAO with the Participants of Pan-Russian Schoolchildren Conference  “Step into the Future, Cosmonautics” r/g 1676
+Health Management System (HMS) – OCT – Operator
+Health Management System (HMS) – OCT – Subject
+Water Transfer to EDV from Progress 431 (DC1) H2O Tank 2 using compressor and H2O Tank Bladder Compression / r/g 1675
+OCT Hardware Stowage
+OTKLIK. Hardware Monitoring / r/g 1588
+TOCA Data Recording
+Unlatching N1 Nadir Hatch Hardstops
+On MCC Go Filling up Progress 429 (Aft) СрПК Section 2 with N2
+IMS Tagup (S-band)
+Onboard Training (OBT) – Dragon Rendezvous and Berthing Procedures Review
+СОЖ Maintenance
+SEISMOPROGNOZ. Data export from БСПН Payload Server to RSS1 (end) r/g 1677
+Environmental Health System (EHS) – AQM Checkout
+Onboard Training (OBT) – Dragon Rendezvous and Berthing Procedures Review
+Health Maintenance System (HMS) – Fundoscope Setup
+Health Maintenance System (HMS) – Fundoscope Prep
+On MCC GO Closeout Ops after H2O Tank 2 Bladder Compression in Progress 431 (DC1) Rodnik system
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 1589
+Fundoscope – Eye Exam
+Fundoscope – Eye Exam CMO
+Health Maintenance System (HMS) – Fundoscope Prep
+INTERACTION-2. Experiment Ops / r/g 1663
+Fundoscope – Eye Exam CMO
+Fundoscope – Eye Exam
+URISYS Hardware Setup r/g 1673
+Health Maintenance System (HMS) – Fundoscope Teardown and Stowage
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+OH support
+Cygnus RoBOT OBT support
+Nominal ground commanding
+
+ 

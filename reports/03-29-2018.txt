@@ -1,0 +1,79 @@
+
+USOS Extravehicular Activity (EVA) #49: Today Drew Feustel (as EV-1) and Ricky Arnold (as EV-2) exited the Joint Airlock at 8:30am CDT to perform US EVA #49.  Egress was delayed for about 1.5 hours due to issues with suit leak checks that were ultimately cleared.  The primary goal of today’s EVA was to install the Node 3 External Wireless Communications (EWC) Antennas and associated cables, Remove and Replace (R&R) the Camera Port (CP)-8 External Television Camera Group, and retrieve the Port 1 Radiator Beam Valve Module (RBVM) Flex Hose Jumpers. All of the prime tasks were completed and the CP8 functions, including External High Definition Camera, were successfully checked out.  The N3 EWC system will be checked out at a later date after the internal components are installed.  The crew was also able to conduct Pump/Flow Control Subassembly (PFCS) Jumper Set up in preparation for a future USOS PFCS Relocate EVA and perform preparatory tasks on the Pump Module stowed on External Stowage Platform (EXP)-2. The Phased Elapsed Time (PET) for the EVA was 6:10. 
+Space Station Remote Manipulator System (SSRMS) Operations:  Ground robotic specialists have started to walkoff the SSRMS from the Mobile Base System (MBS) to the N2 Power Data Grapple Fixture (PDGF) in prep for Offset Grapples training for Dragon. Following the SSRMS walkoff ground specialists will perform a MT translation from worksite 6 to worksite 4.  
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+USOS Extravehicular Activity (EVA) Communication Configuration
+USOS Window Shutter Close
+Extravehicular Activity (EVA) In-Suit Light Exercise (ISLE) Preparation
+ISS HAM Radio Power Down in Columbus
+ISS HAM Radio Power Down in Service Module
+VEG-03 Dual Facility Watering for each Plant Pillow
+Monitoring shutter closure on SM windows 6, 8, 9, 12, 13, 14. Note 5
+COSMOCARD. Closeout Ops
+DAN. Experiment Session.
+Extravehicular Mobility Unit (EMU) Purge
+Extravehicular Mobility Unit (EMU) In-Suit Light Exercise (ISLE) Prebreathe
+СОЖ maintenance
+Dynamic Onboard Ubiquitous Graphics (DOUG) Setup
+Checking the resistance of temperature sensors and ЗПЛ-1М (Ф-1, Ф-2) cartridge heaters in spares.
+Soyuz 738 Transfers and IMS Ops
+Crewlock Depress
+IDENTIFIKATSIYA. Copy ИМУ-Ц Micro-Accelerometer Data to Laptop
+Crewlock Post Depress
+Crewlock Egress
+CONSTANTA-2. Cassette removal from ТБУ-В and setup on a panel for 1-hour warmup
+Node 3 External Wireless Communications (EWC) Antenna Install
+SSRMS EVA Support
+SSRMS Setup for C9 Ops
+Node 3 External Wireless Communications (EWC) Nadir Antenna Install
+Radiator Beam Valve Module (RBVM) NASA Zero-Gravity Lever (NZGL) and Clamps Release
+CONSTANTA-2. Preparation and Execution 2
+Inspection and Photography of SM ПхО flat hatch covers.
+Radiator Beam Valve Module (RBVM) Quick Disconnect (QD) Release #1
+Node 3 External Wireless Communications (EWC) Zenith Antenna Install
+Radiator Beam Valve Module (RBVM) Quick Disconnect (QD) Release #2
+Cleaning vent screens on FGB interior panels 116, 316, 231, 431
+Node 3 External Wireless Communications (EWC) Cable Route
+Radiator Quick Disconnect (QD) Release #3
+Radiator Quick Disconnect (QD) Release #4
+Node 3 External Wireless Communications (EWC) Worksite Cleanup and Translate
+CALCIUM. Experiment Session 3
+Stow Jumpers and Translate to CP8
+Nikon still camera sync with station time
+CP8 External TV Camera Group (ETVCG) Setup
+CP8 High Definition (HD) Camera Removal
+Pump Flow Control Subassembly (PFCS) Jumper Checkout
+PROFILAKTIKA-2. Training Session Using КОР-01-Н Set
+CP8 External TV Camera Group (ETVCG) R&R and Stow
+CP8 External TV Camera Group (ETVCG) Removal
+Countermeasures System (CMS) VELO Exercise session
+CP8 External TV Camera Group (ETVCG) Install
+CP8 High Definition (HD) Camera Install
+EV2 Bag Stow
+Pump Flow Control Subassembly (PFCS) Jumper Setup
+SSRMS Cleanup
+Crewlock Ingress
+EVA Glove Photo Setup
+Crewlock Pre Repress
+Crewlock Repress
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Post Extravehicular Activity (EVA) Communication Deconfiguration
+EVA Glove Photo Downlink
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+Photo/TV Extravehicular Activity (EVA) GoPro Downlink 
+
+Completed Task List Activities
+
+None 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+US EVA 49 Support
+SSRMS Walkoff and MT Translation
+Lab MCA Zero Calibration 
+

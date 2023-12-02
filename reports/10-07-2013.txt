@@ -1,0 +1,105 @@
+
+ENERGY (Astronaut’s Energy Requirements for Long-Term Space Flight):  Flight Engineer (FE)-5 Parmitano continued his 10 day session of ESA’s ENERGY experiment with this sixth day of activities.  He ate a preselected diet, logged all food and drink consumed, and measured his intake and output of liquids and solids.  A loss in astronauts’ body mass is a common observation during space flight.  ENERGY measures change in energy balance in crewmembers following long term space flight.  It also measures adaptations in the components of total energy expenditure of crewmembers, so that an equation to determine the energy requirements of crewmembers during space flight may be derived. Such knowledge is of great importance to ensure optimal crew health and performance, overall mission success, and to ensure adequate exercise load and cargo allotments for food are provided while the crew is on-orbit.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3 Experiment Runs:  FE-6 Nyberg conducted the 40th and 41st runs of the planned 42 runs of InSPACE-3 for this experiment series.  InSPACE-3 studies the behavior of magnetic colloidal fluids which transition to a solid-like state by the formation and cross-linking of microstructures in the presence of a magnetic field. This technology can be used for vibration damping systems and to improve the design of structures.
+NanoRacks Platform-3 Display Troubleshooting:  FE-5 Parmitano powered on NanoRacks Frame-3, reset the NanoRacks monitor display properties, and then repeated steps from the installation and activation procedure to ensure the display is working nominally.  An anomaly was identified during the previous hardware checkout on GMT 182 of Platform 3 with the Nanoracks monitor and keyboard.  Although the activity today indicated the display resolution was resolved, an issue with the video recording during the activity will require rescheduling of Commissioning activities prior to arrival of the BioRack Centrifuge on SpX-3.
+US Segment Crew Handover: Parmitano  continued his handover with newly arrived crewmember FE-3 Hopkins. Topics include recommendations for on-orbit practices, lessons learned, and familiarization of ISS Systems and Payloads within each USOS module.
+Countermeasures System (CMS) Periodic Fitness Evaluation (PFE):  Hopkins performed his periodic PFE with assistance from Parmitano, who was supporting as the Crew Medical Officer.  The PFE is performed to monitor crewmember’s overall fitness levels to ensure that cardiovascular and musculoskeletal health and performance is satisfactory. The PFE consists of performing an exercise test on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
+Ku Comm Unit (KCU) Patch 9: Houston ground specialist successfully loaded both Ku Comm Units with Patch 9 Saturday night.  This delivery is 1 of a 2 part solution for the modem Ku Band Loss of Signal (LOS) / Acquisition Of Signal (AOS) recorder timing issue. The 1st part enables the ground to manually command the start and stop recording times. The 2nd part of the solution will be an automatic capability that involves Command and Control Software (CCS) R12 Patch 4, scheduled to be uplinked later this year.
+Node 3 Carbon Dioxide Removal System (CDRA): Over the weekend, the Node 3 CDRA experienced numerous failures associated with Air Selector Valve (ASV) 101 not transitioning from position B to A in its allocated time. Ground teams were successful in restarting CDRA after each fault. The Lab CDRA is available if Node 3 ASV 101 becomes operationally difficult.  Two degraded spares are located onboard. However, they would require cleaning prior to installation.
+JEM Control Processor (JCP)-A Failure: JCP-A failed this afternoon. Ground teams successfully commanded a transition to the backup JCP (B). Preliminary analysis indicate a possible recurrence of a hard disk failure associated with JCP-A.  
+
+Today’s Planned Tasks
+
+PROK- PH- urine test [Complete] 
+Urine droplet sample [Complete] 
+HRF- urine sampling and analysis [Complete] 
+HRF – blood sampling and photography [Complete] 
+HRF – sample insertion into MELFI [Complete] 
+ENERGY – diet logging (Breakfast) [Complete] 
+Preparation for TV XMTR R&R.  [Complete] 
+HAM radio session [Complete] 
+СО2 Filter unit (БФ)ИК0501 R&R.  [Complete] 
+KASKAD. Manual mixing in bioreactor  [Complete] 
+BAR. Experiment run [Complete]
+TV XMTR R&R.  [Complete] 
+PFE – video equipment install [Complete] 
+Periodical fitness assessment  [Complete] 
+TOCA Water Sample Analysis [Complete] 
+Microgravity Science Glovebox (MSG) Activation [Complete] 
+HRF- urine sampling and analysis [Complete] 
+HRF – sample insertion into MELFI [Complete] 
+HRF Generic Frozen Blood Collection Setup [Complete] 
+TV XMTR telemetry connectors mating Tagup [Complete] 
+TV XMTR R&R [Complete]
+HMS – vision check [Complete] 
+HRF- urine sampling and analysis [Complete] 
+HRF – sample insertion into MELFI [Complete] 
+INSP3 – experiment initiation [Complete] 
+KONSTANTA. Prep and study run [Complete]
+HRF – sample insertion into MELFI [Complete]
+HRF – hw stow [Complete]
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test [Complete] 
+HMS – vision check [Complete]
+PFE video equipment stow [Complete]
+Exercise data downlink [Complete] 
+KONSTANTA. Experiment assist [Complete] 
+ENERGY – water sample collection [Complete]
+ENERGY – urine sampling [Complete]
+HMS – vision check [Complete]
+NanoRacks Platform-3 Troubleshooting [Complete]
+HMS – vision check [Complete]
+HRF- urine sampling and analysis [Complete]
+Crew time for adaptation and ISS familiarization [Complete]
+HRF – sample insertion into MELFI [Complete]
+JEMRMS – cable mating for monitoring [Complete]
+ВКС laptops – antivirus db update [Complete]
+JEMRMS – power bus monitoring, part 1 [Complete]
+TOCA – data logging [Complete]
+P/L-MPC – playback start [Complete]
+PROK – diet data collection [Complete]
+ENERGY – diet logging (lunch) [Complete]
+СНТ-50МП (А25, А26) – preparation for installation in SM [Complete] 
+Crew time for adaptation and ISS familiarization [Complete]
+Handover [Complete]
+PROK – diet data collection (days 2-4) [Complete]
+INSP3- final ops [Complete]
+INSP3 – experiment initiation [Complete]
+СОЖ Maintenance [Complete] 
+PAO Video Documentation for ISS 15th Anniversary [Complete]
+MPC- Powerdown [Complete]
+Dust filters СКПФ1, СКПФ2 – cartridge replace; ГЖТ МИМ1 – cleanup [Complete] 
+ASEPTIK. Sample photos after incubation [Complete]
+KASKAD. Manual mixing in bioreactor [Complete]
+Crew time for adaptation and ISS familiarization [Complete]
+ASEPTIK. Photo editing and downlink [Complete] 
+INSP3- final ops [Complete]
+IMS update [Complete] 
+MSG- hw shutdown [Complete]
+ENERGY – diet logging (Lunch) [Complete]
+
+Task List
+
+ARED Cylinder Evacuation
+Cygnus Prepack
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+Recording video for Roskosmos Press Service
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+MSG Access Verify
+ESA Recorded Video Message
+Increment 37 crew handover [In Work] 
+Poster Print
+CFE ICF7 Operations [Complete]
+Crew Discretionary PAO Event [In Work]
+FFL move  [Complete] 
+Node3 GLA Label  [Complete] 
+Node 3 Reorganize  [In Work] 
+PAO Video Documentation for ISS 15th Anniversary
+
+Ground
+
+Nominal Commanding [Complete] 
+Battery 3B3 Reconditioning [In Work]
+

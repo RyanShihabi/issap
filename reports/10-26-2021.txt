@@ -1,0 +1,26 @@
+
+Payloads:
+Astrobee: The Astrobee systems were powered on and stowage in the area cleared away to allow the performance of free-flight maneuvers.  This type of activity is commonly called “crew minimal” and the goal is for the ground to command the Astrobee units and their dock to complete the objectives for the session.  Astrobee is made up of free-flying, cube-shaped robots which are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the space station. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and can accommodate up to three investigations.
+Combustion Integrated Rack/Advanced Combustion via Microgravity Experiments (CIR/ACME): The crew removed a used bottle with 30% butane/50% N2 and replaced it with a 100% propane gas bottle.  This was performed in preparation for a series of calibration burns prior to the Flame Design part 2 experiment.  The Flame Design investigation studies the production and control of soot in order to optimize oxygen-enriched combustion and the design of robust, soot-free flames. Soot can adversely affect efficiency, emissions, and equipment lifetime, so this may lead to more efficient and cleaner burner designs.
+Electrostatic Levitation Furnace (ELF): The crew exchanged sample holder 2 in the sample cartridge.  ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the electrostatic levitation method.  With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+Fluids Integrated Rack/Light Microscopy Module: The crew began the first of several activities to remove the LMM sub-facility from FIR and install the new Flow Boiling and Condensation Experiment (FBCE).  FBCE seeks to validate a model for flow boiling critical heat flux (CHF) and develop an integrated two-phase flow boiling and condensation facility for the International Space Station. Data from microgravity and the ground are compared to determine the influence of various forces and processes needed for gravity-independent flow boiling and condensation. Results could support development of boilers and heat exchangers that work in both microgravity and partial gravity.
+Manufacturing Device (ManD):  The crew removed the printed object, cleaned the extruder print nozzle, photographed, and stow the printed object.  The Manufacturing Device enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the ManD printer that is installed into an Express Rack locker location. ManD is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Plasma Kristall-4:  The crew powered on the PK-4 systems and performed a particle trapping procedure for two PK-4 experiment runs.  PK-4 is a scientific collaboration between the European Space Agency (ESA) and the Russian Federal Space Agency (Roscosmos), performing research in the field of Complex Plasmas:  low temperature gaseous mixtures composed of ionized gas, neutral gas, and micron-sized particles.  The main feature of the PK-4 facility (in comparison with its predecessors onboard the ISS, such as PK-3 and PK-3+) is a new concept of its discharge chamber. Application of a combined discharge that consists of a direct current discharge, inductive HF discharge and capacitive HF discharge allows varying the topology of studied plasma-dust formations in a wide range.
+Systems: 
+Dragon Return Prep:  Today, the Crew-2 Dragon crew performed activities in preparation for the Crew-2 undock and return. These activities included, Departure and Deorbit On-Board Training (OBT), Dragon Deorbit Simulation, and a Dragon Departure Conference. The Dragon2 Crew-2 is scheduled to undock and return on November 4th.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+In Flight Maintenance (IFM) Port Crew Quarters Safing
+In Flight Maintenance Port Crew Quarters Activation
+Brine Processor Activation
+Mobile Servicing System (MSS) Survey of Crew Dragon
+Secondary Power System (SPS) FET Control Hybrid (FCH) Troubleshooting
+Water Processor Assembly Gas Liquid Separator Time Parameter Override
+Dragon Zenith Power Source Swap
+Video System Port 1 Upper Outboard Luminaire Checkout
+

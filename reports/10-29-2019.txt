@@ -1,0 +1,159 @@
+
+Astrobee: The crew reviewed the Astrobee OBT (On-board Training) in preparation for tomorrow’s hardware checkout and calibration session.  Astrobee is a series of three free-flying, cube-shaped robots. The robots are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the ISS. The autonomous robots, powered by fans and vision-based navigation, perform crew-monitoring, sampling, logistics management, and accommodate up to three investigations.
+BFF (BioFabrication Facility): The crew performed a series of activities for the BFF, including a glovebox removal and installation, and a corrective procedure to disconnect a faulty sensor from the BFF printed circuit board. This will help prepare the facility to support future science activities.  The Techshot. Inc.  BioFabrication Facility (BFF) is dedicated to manufacturing human organs and tissues in space, primarily for use by patients on Earth. Besides printing tissue, the BFF also can help maintain the health of deep space exploration crews by producing food and personalized pharmaceuticals on demand. 
+ISS HAM: The crew participated in an ISS HAM event with Farmwell Station Middle School Space Dreamers, which is located in the suburbs of Ashburn, Virginia.  Questions included the possibility of growing plants in space, if faster-than-light travel is something crew believes can be created, and the effects of space radiation on the ISS astronauts.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+SLAMMD (Space Linear Acceleration Mass Measurement Device): The crew performed a post-rack transfer checkout of the SLAMMD unit.  They also set up the Calibration Arm, attached the Calibration Mass, and then performed a control run and mass measurement.  SLAMMD is able to calculate a crewmember or object’s mass without the presence of gravity, and is intended to be used for future support of Cargo Transfer Bag (CTB) mass determination.  It follows Newton’s Second Law of Motion (force equals mass times acceleration), which means that when two springs generate a known force on an object, the resulting acceleration can be used to calculate the crewmember’s mass. The device is accurate to 0.5 pounds (0.225 kg) over a range of 90 to 240 pounds (41 to 109 kg). 
+Veg-04B: The crew performed a routine plant check.  This includes the assessment of individual plant pillows, the addition of water as necessary, photography of the Mizuna plants, and mass measurement of any broken leaves.  The research of Veg-04B focuses on the impact of light quality and fertilizer on leafy crop growth for a 56-day grow-out, microbial food safety, nutritional value, taste acceptability by the crew, and the overall behavioral health benefits of having plants and fresh food in space.  A healthy, nutritious diet is essential for long-duration exploration missions, which means that the typical pre-packaged astronaut diet needs to be supplemented by fresh foods during flight; the Veggie Vegetable Production System (Veggie) has begun testing aboard the space station to help meet this need, and validation tests have demonstrated that leafy greens can be grown in spaceflight.
+Systems:
+Extravehicular Activity (EVA) Mobility Unit (EMU):  In preparation for the upcoming series of Alpha Magnetic Spectrometer (AMS) EVAs, the crew completed an EMU resizing activity that will set-up the EMU suits 3004 and 3008 for Luca Parmitano and Drew Morgan.  Jessica Meir and Christina Koch completed the previous Battery Charging Discharging Unit (BCDU) Remove and Replace EVA.
+Urine Processing Assembly (UPA) Distillation Assembly (DA):  Engineers on the ground have observed that the Urine Processing Assembly (UPA) Distillation Assembly (DA) compressor and hoses are showing trends of increased degradation.  As part of preventative maintenance, today the ISS crew replaced the UPA DA and hoses with new ones, which will help improve the overall UPA processing operations.
+Cygnus Launch Preparations: With the NG-12 launch rapidly approaching on November 2, the ISS crew spent some time today preparing for the arrival of the Cygnus vehicle including continuing with the Cygnus rendezvous robotic training.
+Completed Task List Activities:
+
+WHC KTO Replace
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Support Operations
+
+Look Ahead:
+Wednesday, 10/30 (GMT 303)
+Payloads:
+
+
+Astrobee ops
+BEST sample transfer
+GLACIER desiccant swap
+POLAR3 desiccant swap
+SAMS fan replacement
+Time Perception
+Veg-04B harvest and taste test
+
+Systems:
+
+HTV Cargo Ops
+Cygnus OBT 
+
+Thursday, 10/31 (GMT 304)
+Payloads:
+
+
+AMS EVA procedure review
+HRF/Veggie questionnaire
+ISS Experience
+Standard Measures
+
+Systems:
+
+PCS Relocate
+HTV SD Scavenge
+HTV Egress
+HTV Vest Demate
+Node 2 CPA install 
+
+Friday, 11/1 (GMT 305)
+Payloads:
+
+
+AMS EVA procedure review
+Astrobee ops
+Food acceptability
+Food Physiology
+ISS Experience stow
+RR transfer crew conference
+Standard Measures
+Veg-04B plant check
+
+Systems:
+
+PMD Depress
+HTV Depart and Prep
+HTV Release Monitor
+Cygnus Cargo Conference
+Cygnus Vehicle Ops CBT
+Cygnus Capture Review
+Cygnus Robotics OBT
+IMS Conference
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted. 
+
+Standard Measures Body Sampling Survey
+Standard Measures Body Sampling Collection
+HRF Generic MELFI Sample Insertion Operations
+Standard Measures Body Sampling Stow
+Checkout of Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops and Report
+ESA Crew Conference with two way Audio and video
+In-Flight Maintenance (IFM) Urine Processing Assembly (UPA) Distillation Assembly (DA) and Hoses R&R Gather
+COSMOCARD. Closeout Ops
+Private Exercise Conference with exercise specialist (S-band)
+Removal/Installation of Broadband Communication System (ШСС) MDM2.
+Structures and Mechanisms (S&M) JEM ORU Xfer I/F (JOTI) Gather
+Private Exercise Conference with exercise specialist (S-band)
+Remove the Stall in support of Node 3 Maintenance
+VHF-2 test from Soyuz 744 via US ground sites (VHF-2)
+XF305 Camcorder Setup
+Extravehicular Mobility Unit (EMU) Resize
+In-Flight Maintenance (IFM) Urine Processing Assembly (UPA) Distillation Assembly (DA) and Hoses R&R
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Inspecting and cleaning Nikon camera digital image sensors
+Passive Capture Mechanism Removal from JEM Airlock (AL) Slide Table
+Structures and Mechanisms JEM ORU Xfer I/F JEM Active Mechanism Tether Loop Removal
+JEM ORU Xfer I/F Install for MISSE Transfer Tray
+VEG-04B Water Check and Mass Measurement Device Operations
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+SLAMMD Hardware Review All
+Space Automated Bioproduct Lab, Long Tray Insert
+Space Acceleration Measurement System Maintenance Work Area Preparation
+Space Acceleration Measurement System RTS Drawer FOD Inspect
+SM Air Sampling for CO using ИПД Samplers
+HTV Transfer Operations
+Air sample collection using ИПД sampler for ammonia in SM
+SLAMMD Hardware Setup First Time Performance
+Collecting SM and FGB Air Samples Using АК-1М Sampler
+Remove Fan Power to RTS/D Drawer
+Air sample collection using АК-1М absorber in SM for Freon
+SLAMMD Hardware Checkout
+HTV Transfer Operations
+SLAMMD Hardware Control Run
+SLAMMD Hardware Stow
+Midday Meal
+Standard Measures Fecal Collection
+СОЖ maintenance
+Midday Meal
+Replace Stall following Node 3 Maintenance
+HRF Generic MELFI Sample Insertion Operations
+Standard Measures Fecal Collection Stow
+BioFabrication Facility Glovebag Removal
+BioFabrication Facility Glovebag Installation
+BioFabrication Facility Glovebag Installation Assist
+In-Flight Maintenance (IFM) Urine Processing Assembly (UPA) Distillation Assembly (DA) and Hoses R&R Stow
+IMS Delta File Prep
+PAO Preparation
+Gas Analyzer ИК0501 replacement.
+Public Affairs Office (PAO) High Definition (HD) Config Columbus Setup
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+On MCC Go Replacing ИК0501 Gas Analyzer. Demating telemetry connector
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Self study Session
+Replacing air filter in [АСУ] (Install No.0670033 (00072367R, СМ1РО_1_138_1). Dismantled unit No.0470030 (00071589R) – For disposal via Progress 442. Reflect changes in IMS
+Cold Stowage Icebrick Stow
+ISS HAM Service Module Pass
+PILOT-T. Preparation for Experiment
+Replacing urine receptacle (МП) and filter-insert (Ф-В) in [АСУ]. Post-Replacement [АСУ] Activation
+PILOT-T. Experiment Ops.
+Outlook 365  Troubleshooting Conference
+PILOT-T. Photography of the Experiment Ops
+BioFabrication Facility Procedure Review
+BioFabrication Facility Sensor Disconnect
+Extravehicular Activity (EVA) Tool Configuring
+PILOT-T. Experiment Ops.
+PILOT-T. Photography of the Experiment Ops
+PILOT-T. Closeout Ops
+Extravehicular Activity (EVA) Tool Configuring
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Self study Session
+Astrobee OBT Review
+Daily Planning Conference
+
+ 

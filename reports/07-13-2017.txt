@@ -1,0 +1,50 @@
+
+Window Observational Research Facility (WORF): The crew installed the WORF Improved Payload Ethernet Hub Gateway (iPEHG) and WORF Shutter Actuator System (SAS) in the WORF Rack. This hardware will allow ground commanded control of the US Lab Window Shutter in support of payload operations and the new iPEHG design corrects performance limitations experienced by the older PEHG. The WORF provides a facility for Earth science remote sensing instruments. It uses the US Laboratory science window that has the highest quality optics ever flown on a human-occupied spacecraft. 
+Space Automated Bioproduct Lab (SABL):  The crew installed a controller for the SABL CO2 Incubator. The SABL supports a wide variety of experiments in the life, physical and material sciences with a focus on supporting research of biological systems and processes. It has a temperature controlled volume with LED lighting for scientific hardware and experiments. It can be fitted to provide 5% CO2 for cell cultures.
+NeuroMapping: A USOS crewmember set up the Neuromapping hardware and performed tests in “strapped in” and “free floating” body configurations. During the test, the crewmember executed three Behavioral Assessments: mental rotation, sensorimotor adaptation, and motor-cognitive dual tasking. The NeuroMapping investigation studies whether long-duration spaceflight causes changes to brain structure and function, motor control, or multi-tasking abilities. It also measures how long it would take for the brain and body to recover from possible changes. Previous research and anecdotal evidence from astronauts suggests movement control and cognition can be affected in microgravity. The NeuroMapping investigation performs structural and functional magnetic resonance brain imaging (MRI and fMRI) to assess any changes that occur after spending months on the ISS.
+High Efficiency Particulate Air (HEPA) Filter Inspections: The crew audited the HEPA filters on June 16 and found that 8 of the 10 filters did not have required packaging. Engineering requested that the crew inspect the filters for seal debonding, seal deformation, and/or cuts/gouges that extend through the depth of the sealing surface and to verify that the cap is properly affixed to the housing. These filters were inspected by the crew today and Foreign Object Debris (FOD) was identified on the seals of some of the filters. Cleaning of the affected filters will be scheduled followed by wrapping of the filters in approved packaging for storage. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Reminder 1 Fluid Shifts Baseline Imaging Measures
+Combustion Integrated Rack Alignment Guide Install
+Long Duration Sorbent Testbed Status Check.
+Countermeasures System (CMS) Heart Rate Monitor (HRM) iPad Downlink
+Meteor Partial Removal
+JEMRMS Backup Drive System (BDS) Reconfiguration
+WORF PEHG Shutter Actuator System Installation
+Removal of 2 Navigation Modules from Progress 436 [AO]
+ROBoT Software Startup
+Environmental Health System (EHS) Acoustic Dosimeters – Data Transfer and Stow
+JEMRMS Backup Controller (BUC) Power On for BDS C/O
+Download Pille Dosimeter Readings
+Progress 435 (DC1) Stowage and IMS Ops
+JEMRMS Backup Drive System (BDS) Checkout 2
+Fluid Shifts CCFP Baseline Setup
+JEMRMS Back Up Controller (BUC) Power Off for BDS C/O
+JEMRMS Backup Drive System (BDS) Checkout cleanup
+Replacement of 800А unit from position А105, ПТАБ-2 installation, Preparation (locating devices, documentation review)
+WORF Shutter Actuator System Installation Assist
+Fluid Shifts Hardware Battery Installation
+Measuring CO partial pressure at Central Post using CSA-CP analyzer Midday Meal
+WORF PEHG Shutter Actuator System Installation
+EXPRESS Rack 4 Locker Removal
+TangoLab Hardware Move
+Space Automated Bioproduct Lab, CO2 Incubator Installation
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ) Detachable Screens 1, 2, 3
+In-flight Maintenance (IFM) Bacteria Filter Inspection
+Meteor Partial Installation
+Water Recovery System Waste Water Tank Drain Init
+Multi-purpose Small Payload Rack (MSPR) Video compression and Recording Unit (VRU) Activation
+Water Recovery System Waste Water Tank Drain Termination
+WORF Window Shutter Actuator System Calibration
+
+Completed Task List Items
+
+NeuroMapping Experiment Neurocognitive Test 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+WORF PEHG Shutter Actuator System Installation Support
+

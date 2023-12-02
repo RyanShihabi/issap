@@ -1,0 +1,22 @@
+
+Payloads:
+Actiwatch Plus (AWP): The crew connected the AWP devices to a Human Research Facility (HRF) Rack 1 Universal Serial Bus (USB) hub to charge them and transfer data for subsequent downlink. The Actiwatch is a waterproof, non-intrusive, sleep-wake activity monitor worn on the wrist of a crewmember. It contains a miniature uniaxial accelerometer that produces a signal as the subject moves. The data is stored in non-volatile memory within the Actiwatch until they are downloaded for analysis.
+HRF Veggie: Profile of Mood States (POMS) questionnaires were completed by the crew. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System investigation is a phased research project that includes Veg-04A, Veg-04B, Veg-05, and HRF Veg including HRF Veggie POMS questionnaires. This work addresses the need for a system to produce healthy, fresh food on future long-duration exploration missions to supplement the standard pre-packaged astronaut diet. HRF Veg uses psychological surveys and crew evaluations of the flavor and appeal of plants grown for other investigations on the ISS to focus on the overall behavioral health benefits to crew members of having various plants and fresh food in space.
+SpaceDuino: The SpaceDuino hardware was removed and prepared for return to the ground. Science activities for this experiment have been previously completed. SpaceDuino studies the technical capabilities and economic benefit of off-the-shelf hardware and open-source software in microgravity. Arduino, Raspberry Pi, and other single board computers have increased in computational power, reliability, and availability while decreasing in cost. Paired with features such as low-voltage sensors and wireless communication, these systems can provide low-cost data acquisition and control, increasing opportunities for microgravity-based research and allowing for more efficient use of resources.
+Systems:
+USOS Extravehicular Activity (EVA) Preparation Activities: In preparation for the upcoming 1A ISS Roll-Out Solar Array (IROSA) Prep EVA scheduled for January 20th, the crew completed Robotics On-Board Trainer (ROBoT) self-study, On-Board Training (OBT) for the Extravehicular Mobility Unit (EMU) Enhanced Caution and Warning System (ECWS), completed EVA Procedure Review, Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review, and Virtual Reality Training (VRT) for EVA Simplified Aid for EVA Rescue (SAFER). The main goal of this EVA is to route cables on two mod kits and install the 1A Mod Kit on the 1A Solar Array Wing (SAW) Mast Canister to prepare these SAWs for future IROSA installations.
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace (R&R): Today, the crew conducted routine maintenance to R&R the WHC UR and IF. As part of the R&R, the crew cleaned the WHC power supply, reactivated WHC, and performed a functionality test to verify the WHC was operational following the maintenance. The UR On-orbit Replacement Unit (ORU) consists of a replaceable Russian-supplied funnel, urine hose, and a receptacle switch for turning the WHC on/off and the associated wiring.
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test: The crew performed a monthly WinSCAT test. The test is a screen tool developed by NASA to monitor astronauts and their neuro-cognitive status while in space and alert NASA flight surgeons to any accuracy or reaction time changes in an astronaut’s performance. WinSCAT tests working memory, computational skills, attention, visual tracking, and spatial processing.
+Completed Task List Activities:
+
+N/A
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SDMS Data Dump
+BCDU Firmware Load [Active]
+PRO MSRR Deactivation Commanding
+LSR Valve Check
+EVA Procedure Conference
+

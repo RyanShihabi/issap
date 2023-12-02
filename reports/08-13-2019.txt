@@ -1,0 +1,97 @@
+
+Advanced Combustion via Microgravity Experiments (ACME): The crew configured the ACME Chamber for s-Flame by partially reinstalling the chamber insert to replace the igniter tip, then reinstalled the chamber insert, replaced the fuel controller, and closed the Front End Cap and rack doors. The ACME experiment series includes five independent studies of gaseous flames. The primary goals of ACME are to improve fuel efficiency and reduce pollutant production in routine fuel combustion activities on Earth.  Its secondary goal is to improve spacecraft fire prevention through innovative research focused on materials flammability.
+Bio-Monitor: A crewmember donned the BioMonitor garment and headband and connected the data unit to the bio-monitor application for a 72-hour session. Although the ISS is equipped with health and life sciences research tools, the existing instrumentation for continuous and simultaneous recording of several physiological parameters is lacking. To address this issue, the Bio-Monitor Commissioning activity tests the Bio-Monitor facility; a wearable garment capable of monitoring relevant physiological parameters for up to 48 hours in a non-invasive and non-interfering way. The physiological parameters which can be monitored consist of heart rate, respiration rate, ECG (Electrocardiogram), skin temperature, peripheral blood oxygen saturation, etc.
+Micro-15: The crew completed a media change ops session. The goal of this investigation is to better understand the effects of gravity on the differentiation of mammalian cells using 3-D cultures of induced pluripotent stem (iPS) cells. Past flight experiments and ground-based simulations have demonstrated that microgravity influences gene expression, cell proliferation, and differentiation in stem cells but the mechanism behind these observations is not clearly understood. This study investigates how exposure to microgravity fundamentally alters cell regulation and how these changes can affect the timing, progression, and outcomes of cell differentiation.
+NanoRacks Module-9: The crew performed Ops Session #3 by deactivating and/or shaking designated Mixture Tubes. NanoRacks-National Center for Earth and Space Science Education-Gemini (SSEP Mission 13) (NanoRacks-NCESSE-Gemini) includes 41 microgravity experiments designed by students in grades 5 through 12 and college. The experiments range from examinations of water filtration and purification to synthetic soil production, rust formation, antibiotic effectiveness, growth and development of microacquatic organisms, and growth of plant, fungi, and bacteria. Each was chosen from more than 3,000 entries submitted by more than 23,000 U.S., Canadian, and Brazilian students. The experiments use NanoRacks MixStix, miniature laboratories activated by space station crew and eventually returned to the student teams on Earth for analysis.
+Mobile Servicing (MSS) Operations: Yesterday, Robotics Ground Controllers powered up the MSS and set up for Robotic Refueling Mission 3 (RRM3) Tech Demo operations, which begin tonight and will conclude on Thursday. The results of this series of tests will be used to demonstrate potential satellite refueling techniques for future use.
+Emergency On-Board Training (OBT): All six crewmembers reviewed training material in preparation for tomorrow’s Emergency scenarios (depressurization, toxic atmosphere, and fire) OBT session.
+International Docking Adapter (IDA)3 Extravehicular Activity (EVA) Preparations: The crew performed the following in preparation for the IDA3 EVA scheduled for August 21:
+
+Verified functionality of EMU glove heaters and the EMU TV is receiving power from the Rechargeable EVA Battery Assembly (REBA)
+Configured Dynamic Onboard Ubiquitous Graphics (DOUG) software to receive and display real time SSRMS joint angle telemetry from a PCS laptop
+Reviewed procedure for 4-hour in-suit and EVA campout pre-breathe protocols
+Reviewed EVA procedures
+
+Completed Task List Activities:
+
+WHC-UR/Piping R&R (GMT 224)
+Micro-15 media change (GMT 224)
+iPad swap for CDR, FE-7
+WHC KTO R&R
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+RRM3 ops
+EVA prep support
+Payloads ops support
+
+Look Ahead:
+Wednesday, 8/14 (GMT 226)
+Payloads:
+
+Lighting Effects – visual GLA test (NASA)
+Standard Measures pre-sleep questionnaire (NASA)
+Food Acceptability (NASA)
+Bio-Monitor, hardware changeout during a 72hr run (CSA)
+Bioculture System Facility packing for return (NASA)
+Micro-15 – session C1 (NASA)
+CIR Hardware stow (NASA)
+
+Systems:
+
+OBT emergency sim/conference with ground
+EVA prep
+
+Thursday, 8/15 (GMT 227)
+Payloads:
+
+Standard Measures post sleep questionnaire and saliva collect(NASA)
+Food Acceptability (NASA)
+NeuroMapping test (NASA)
+Bio-Monitor (CSA)
+Goodyear Tire (NASA)
+ISS HAM (NASA)
+The ISS Experience JEM intro recording (NASA)
+Micro-15 D1 exchange session ops (NASA)
+LSG glove swap (NASA)
+Probiotics hardware Gather(JAXA)
+Rodent Research-17 restock (NASA)
+
+Systems:
+
+EVA loop scrub, LCVG water fill, EMU water ops
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Dragon Cargo Transfer Operations
+Atmosphere Purification Unit (БОА) Teardown
+Rechargeable EVA Battery Assembly (REBA) Installation
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+Extravehicular Activity (EVA) Airlock Unstow
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Extravehicular Activity (EVA) Review
+Extravehicular Activity (EVA) Tool Configuration
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+DAN. Experiment Session
+Combustion Integrated Rack Hardware Gather
+Sampling Condensate Water [КАВ] from СРВ-К2М before Gas-Liquid Mixture Filter (ФГС). Sampler removal, Disassembly.  Sample transfer from [КАВ] container to drink bag, Closeout Ops
+Combustion Integrated Rack Doors Open
+Combustion Integrated Rack Front End Cap Open
+Sampling atmospheric condensate [КАВ] upstream of [СРВ-К2М] Water Purification Column Unit (БКО), configuration set up, sampler installation (drink bag)
+ACME Chamber Insert Configuration
+Collecting condensate water samples [КАВ] up to [СРВ-К2М] БКО, sampler replacement
+FOTOBIOREACTOR. Visual inspection with photography
+Hematocrit  Equipment setup
+HRF Rack 2 Supply Kit Resupply
+Extravehicular Activity (EVA) Procedure Review
+Combustion Integrated Rack Front End Cap Close
+Combustion Integrated Rack Rack Doors Close
+Extra-Vehicular Mobility Unit (EMU)  Simplified Aid For EVA Rescue (SAFER) Practice
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+ISS Emergency OBT Overview
+Review Emergency OBT Simulator Functionality
+Sampling condensate water [КАВ] upstream of [СРВ-К2М] БКО, removing sampler, equipment disassembly
+
+ 
+ 

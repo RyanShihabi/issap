@@ -1,0 +1,77 @@
+
+H-II Transfer Vehicle (HTV)-6 Deorbit:  HTV-6 successfully completed all three deorbit burns over the weekend.  Loss of telemetry occurred Sunday 05-February at 15:11:21 GMT at an altitude of 80 km over the South Pacific near 50° S, 142° W. 
+Lighting Effects Vision Test: This morning the crew unstowed the Visual Performance Test hardware, then configured the Solid State Lighting Assembly (SSLA) in their Crew Quarters (CQ) to the correct mode, turning off all other light sources, then performed one Numerical Verification Test and one Color Discrimination Test. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance.
+JEM Airlock (JEMAL) Repress: The crew repressed and conducted a leak check of the JEMAL with the Exposed Facility Unit-5 (EFU5) adapter on the slide table.  Tomorrow the crew will install the HDTV EF-2. HDTV-EF2 is a high-definition television camera system delivered by HTV-6, which will be used for earth observation from the ISS.  
+Dragon On-Board Training (OBT):  The crew participated in a conference with Ground Specialists in preparation of the start of robotics OBT for the upcoming Dragon rendezvous and capture.  Following this conference, they reviewed the OBT materials and then performed computer based proficiency training on the Dragon mission profile, the Dragon rendezvous crew procedures and the crew interfaces for monitoring and commanding. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+EarthKAM. Crew conference with P/L Developer
+БД-2 end switch adjustment.
+DAN Experiment Ops.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+TIMER. Battery charge
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+VEG-03 Plant Photo
+Habitability Human Factors Directed Observations – Subject
+Lighting Effects Visual Performance Tests Light Setting – Subject
+Station Support Computer (SSC) 5 LAB Setup
+Atmosphere Control and Supply (ACS) Nitrogen Manual Valve Open
+Exercise Data Downlink via OCA
+COTS UHF Communication Unit (CUCU) File Transfer
+Atmosphere Control and Supply (ACS) Nitrogen Manual Valve Close
+COTS UHF Communication Unit (CUCU) Software Update DVD Check
+EarthKAM. Installation and activation of h/w in Node2
+TIMER. Preparation and start of video recording of experiment ops
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+VIZIR. Experiment Ops.
+On-Board Training (OBT) Dragon OBT Conference
+On-board Training (OBT) Dragon Robotics Review
+On-board Training (OBT) Dragon Rendezvous Review
+TIMER. Video registration termination and close out ops 
+Photo and Video Recording of Life on Station
+IMS Update
+МО-11. Setup. REFLOTRON h/w
+JEM Airlock Press
+Activation of Video Streaming on PWS
+HRF Generic Urine Collection Setup
+Photo/TV Camcorder Setup Verification
+JEM Airlock Leak Check
+Deactivation of Video Streaming on PWS
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Activation
+Activation of Video Streaming on PWS
+CB/ISS CREW CONFERENCE
+Deactivation of Video Streaming on PWS
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+
+Completed Task List Items
+
+Structures and Mechanisms Docking Mechanism Accessory Kit Audit
+Food Consolidate Pt 2
+EVA service and cooling umbilical dryout
+LAB1O5 Audit
+Treadmill 2 System (T2) Monthly Inspection
+COL1F2 Cue Card Replacement
+ESA Active Dosimeter Area Monitoring Mobile Unit Stow
+ESA PAO Recorded Message “France Info Q&A Set 3”
+ESA PAO Recorded Message “Future jobs in the EU”
+CLPA Pack/US EVA 39 Cleanup
+EXPRESS Locker Prep
+Health Maintenance System (HMS) Automated External Defibrillator (AED) Inspection
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+NanoRacks Platform-1 Module-63 Secure
+Photo/TV CAMCORDER MICROPHONE CHECK
+Photo/TV Node 3 Camcorder Swap
+Payloads Network Attached Storage (NAS) Vent Cleaning
+Dragon 10 Prepack
+New Food Evaluation
+VEG-03 Watering
+Space Automated Bioproduct Lab, CO2 Incubator Removal
+EVA Housekeeping
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+3A1 Battery Capacity Test
+MCA Zero Calibration
+

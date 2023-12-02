@@ -1,0 +1,134 @@
+
+JAXA Mouse Mission: The crew performed blood draws and cage water maintenance for the Mouse Mission experiment. The purpose of this mission is to analyze alterations of the gene expression patterns in several organs and the effects on the germ-cell development of mice exposed to a long-term space environment. 
+Genes in Space-6: The crew performed photography and provided observation notes for the CRISPR yeast growth media plates. Colonies were selected for DNA extraction and amplification using the miniPCR16 DNA analyzer. Deoxyribonucleic acid (DNA) damage caused by increased exposure to radiation can affect the long-term health of astronauts. The experiment determines the optimal DNA repair mechanisms that cells use in the spaceflight environment. The investigation evaluates the entire process in space for the first time by inducing DNA damage in cells and assessing mutation and repair at the molecular level using the miniPCR and the Biomolecule Sequencer tools aboard the space station. 
+Astrobee: The crew performed Astrobee module mapping in preparation for future free flyer operations. This was a repeat of a previous mapping attempt. Astrobee is a series of three free-flying, cube-shaped robots. The robots are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the ISS. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+Fiber Optic Production (FOP): The crew installed the FOP hardware into the Microgravity Science Glovebox (MSG), changed out the preform and spools and activated the facility in preparation for the next operation run which is initiated from the ground. The investigation creates optical fibers with high commercial value aboard the ISS using a blend of zirconium, barium, lanthanum, sodium, and aluminum called ZBLAN (ZrF4-BaF2-LaF3-AlF3-NaF). It operates in the Microgravity Science Glovebox (MSG). Extensive theoretical studies along with a limited number of experimental studies suggest that ZBLAN optical fibers produced in microgravity should exhibit far superior qualities to those produced on Earth. The resulting optical fiber from Fiber Optic Production is expected to help verify these studies and guide further engineering efforts to manufacture high value optical fiber in large volume aboard the ISS. 
+Laboratory (Lab) Charcoal HEPA Integrated Particle Scrubber (CHIPS) Filter Install: Today the crew removed six existing bacteria filters in the Lab and replaced them with the new CHIPS filters that were delivered on NG-11. By adding charcoal to the filter system, experts hope to scrub volatile siloxanes from the air before they can affect other ISS systems. Installing these filters on ISS is a key objective for NASA’s exploration vehicle programs because data collected after the install will determine how charcoal affects the life of the Water Processor Assembly (WPA) and other downstream hardware. These filters have already been installed in both Node 2 (N2) and Node 3 (N3).
+71 Progress (71P) ISS Reboost: At 11:08 AM CT, the ISS performed a 2.56 meter/second reboost, with a duration of 19 minutes and 56 seconds, using 71P thrusters. This reboost, which increased ISS altitude by 4.4 km, was required to start phasing of the ISS orbit in preparation for 57S undock scheduled on June 24.
+Completed Task List Activities:
+
+PEPS relocate [Completed GMT 142]
+MELFI sample consolidate [Completed GMT 142]
+MMD hardware stow [Completed GMT 142]
+RR access unit clean [Completed GMT 142]
+Sextant OBT [Completed GMT 142]
+VO2 Max hardware trash [Completed GMT 142]
+WRM WWB combine [Completed GMT 142]
+LAB Filter R&R
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+ISS reboost
+Payloads ops support
+
+Look Ahead:
+Friday, 05/24 (GMT 144)
+Payloads:
+
+BioAnalyzer Cell-2 Analysis (CSA)
+Mouse Mission Blood Draws (JAXA)
+Probiotics fecal ops (JAXA)
+MVP Cell-01 Cell -01 replace and photo (NASA)
+Food Acceptability (NASA)
+MicroAlgae ops (NASA)
+FOP sample exchange (NASA)
+Team Task Switching survey (NASA)
+Standard Measures cognition test (NASA)
+BCM RoBOT test (NASA)
+Sextant Ops (NASA)
+
+Systems:
+
+Handhold Experiment Platform detach from JEMAL Slide Table
+
+Saturday, 05/25 (GMT 145)
+Payloads:
+
+Probiotics Item Gather (JAXA)
+Mouse data transfer (JAXA)
+Mouse Icebrick stow (JAXA)
+MicroAlgae deploy and stow (NASA)
+
+Systems:
+
+Crew off duty; housekeeping
+
+Sunday, 05/26 (GMT 146)
+Payloads:
+
+Probiotics Saliva collect and questionnaire (JAXA)
+Food Acceptability (NASA)
+MicroAlgae deploy and stow (NASA)
+
+Systems:
+
+Crew off duty 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+HRF Generic HRF Centrifuge Frozen Blood Collection 25 Minutes Subject
+HRF Generic HRF Centrifuge Frozen Blood Collection Operator
+HRF Generic HRF Centrifuge Frozen Blood Collection Configuration
+HRF Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+MICRO ALGAE Culture Bag Daily Deploy
+XF305 Camcorder Setup
+Japan Aerospace eXploration Agency Sample MELFI Retrieval and Insertion
+JAXA Mouse Mission Blood Drawing Preparation
+HRF Generic Sample MELFI Insertion
+HRF Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+Probiotics Fecal Sample Operations
+Checking cover closure on SM windows 6, 8, 9, 12, 13, 14
+Mouse Blood Drawing Familiarization
+Installation of USOS EMU Lights, video camera and REBA on Orlan-MKS
+Microgravity Science Glovebox Activation
+Probiotics Fecal Sample MELFI Insertion
+USOS Endoscope Checkout
+JAXA Mouse Mission Item Gathering
+JAXA Mouse Mission MELFI Retrieval
+Mouse Blood Drawing
+HRF Generic Urine Collection Stow
+Genes in Space MWA Preparation
+USOS Crewmember verification of Light and video camera installation on ORLAN suits to support Russian EVA
+Genes in Space 6 MELFI Sample Retrieve
+Genes in Space 6 CRISPR Run Part 3
+Fiber Optic Production Hardware Gather
+Assessment of Cardiovascular Function on Cycle Ergometer.
+Study of cardiovascular system response to measured cycle ergometer load (Operator)
+Fiber Optic Production Hardware Setup
+Mouse Blood Centrifuge Processing
+JAXA Mouse Mission Blood Drawing Closeout
+Assessment of Cardiovascular Function on Cycle Ergometer.
+Study of cardiovascular system response to measured cycle  ergometer load(Operator)
+Genes in Space MELFI Insert
+Handhold Exp Platform #2 (HXP2) Item Checking and Pre-Gathering.
+Closeout after mouse blood processing with HRF Centrifuge.
+JAXA Mouse Mission MELFI Insertion
+JAXA Mouse Mission Preparation for Watering
+JAXA Mouse Mission Cage Watering for 1G
+JAXA Mouse Mission Cage Watering for Micro-G
+JAXA Mouse Mission Watering Closeout.
+Team Task Switching Experiment Survey
+Water Recovery Management (WRM) JEM Sample Check
+Installation of Orlan-MKS add-on equipment.
+Adlink Mini PC SD Card Move
+Astrobee OBT Review
+Astrobee Crew Conference
+Astrobee JEM Mapping Operations
+Yakor foot restraint installation for Orlan exit after A/L repress.
+Genes in Space 6 CRISPR MiniPCR Stop and Stow
+Genes in Space MELFI Insert
+Micro Algae Maintenance Work Area Preparation
+Micro Algae Culture Bag Photography
+SpaceX Water Bottle Demo Setup
+SpaceX Crew Potable Water Bottle Demonstration
+Inventory Management System (IMS) Conference
+Fiber Optic Production Sample Exchange
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+MICRO ALGAE Culture Bag Daily Stow
+
+ 

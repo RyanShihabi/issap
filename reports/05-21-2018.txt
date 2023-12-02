@@ -1,0 +1,99 @@
+
+Orbital-ATK 9 (OA-9) Launch: OA-9 launched from the Wallops Flight Facility this morning at 08:44:06 GMT (3:44 CT).  The Cygnus solar arrays have been deployed nominally.  OA-9 capture and berthing to the ISS is planned for Thursday 24-May.
+Atomization:  This morning a crewmember set up and activated the Atomization hardware in the Multi-purpose Small Payload Rack (MSPR). The Atomization experiment investigates the disintegration processes of a low-speed water jet for various jet issue conditions in the Japanese Experiment Module (JEM) to validate the new atomization concept by observing the process using a high speed camera. The knowledge gained can be applied to improve various engines utilizing spray combustion. 
+Human Research Program (Biochemical Profile, Repository and Cell Free Epigenome):  A 54S crewmember collected blood and urine samples for his Flight Day 60 session of the Biochem Profile, Repository, and Cell Free Epigenome investigations.  A 53S crewmember collected urine samples for his return next month to include 14-day session of the Biochem Profile and Repository investigations.
+
+The Biochemical Profile investigation tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results; which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. The repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+The JAXA Cell Free Epigenome investigation tests blood samples collected from astronauts and cellular genes are analyzed.  Blood carries molecular signals released from the cells inside the body. The analysis results provide insights to scientists on how human bodies function during space flight.
+
+Probiotics: Today a crewmember collected saliva samples and stowed them in a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  He also completed a questionnaire. Some species of harmful bacteria such as Salmonella grow stronger and more virulent in the microgravity environment of space. At the same time, the human immune system is weaker in space, leading to increased health risks. The objective of the Probiotics investigation is to study the impact of continuous consumption of beneficial bacteria (probiotics) on immune function and intestinal microbiota in astronauts in a closed microgravity environment.  The results of this investigation may be used to support improvements in crew members’ intestinal microbiota and their immune function on long-duration space missions. 
+OA-9 Robotics Onboard Training:  Earlier today, Robotics Ground Controllers powered up the MSS in support of the crew’s Cygnus Offset Grapple practice.  During the Off Set Grapple activity, the crew used the PMM FRGF as the target to practice grapple approaches, maneuvering the SSRMS over the pin and practice pulling the trigger when they are in the grapple envelope. After the Offset Grapple training, the crew performed a Robotics Onboard Trainer (ROBoT) session. ROBoT is an on-orbit version of the ground-based Dynamics Skills Trainer (DST) that simulates robotics operations with graphical feedback. 
+OA-9 Arrival Preparations: In preparation for OA-9 capture and berthing on Thursday, the crew deployed, and perform a checkout of, the Centerline Berthing Camera System (CBCS) on the Node 1 Nadir hatch. Video from the CBCS will be used to aid Flight Controllers during Visiting Vehicle mating operations. 
+Extravehicular Activity (EVA) Tether Inspections and Tool Configuration: Today the crew began the tool configurations necessary to support the upcoming US EVA #51 Node 2 EWC. They also inspected their 85ft Safety Tethers, Waist Tethers, and D-ring Extenders for structural integrity. The Node 2 EWC EVA is currently planned for June 14th. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+HRF Generic Frozen Blood Collection Double Spin Collection
+HRF Generic Urine Collection
+МО-8. Configuration Setup
+Body Mass Measurement
+HRF Generic Refrigerated Centrifuge Double Spin Configuration 1
+Probiotics Saliva Operations
+Body Mass Measurement – BMMD
+MO-8. Equipment stowage
+Probiotics Saliva Sample MELFI Insertion
+HRF Generic Refrigerated Centrifuge Double Spin Configuration 2
+Probiotics Question
+HRF Generic Sample MELFI Insertion
+HRF Generic Refrigerated Centrifuge Spin Conclude
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Set Up
+XF305 Camcorder Setup
+Columbus Video Camera Assembly 1 Adjustment
+Microgravity Measurement Apparatus (MMA) Laptop Terminal 2 (MLT2) Cable Reconfiguration
+ISS Crew Departure Preparation
+Columbus SUP2 Reconfiguration and MPCC Laptop-PWS1 Power Connection Swap
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Power Up
+Experiment Laptop Terminal 2 (ELT2) set up
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Installation of the European IP Communication Laptop (Zbook) in Columbus [Aborted]
+iPad Air 2 Update Prep
+Atomization set up
+Orthostatic Stability Evaluation with LBNP
+Evaluation of Orthostatic Stability with LBNP (Operator)
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS
+Installation of the Columbus Payload LAN Switch in Columbus [Aborted]
+Activation of the Columbus Payload LAN Switch [Aborted]
+COSMOCARD. 24hr electrocardiogram recording (prep + init).
+HRF Generic Urine Collection Male Subject
+VIZIR. Preparatory ops.
+ISS Crew Departure Preparation
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Wanted Fluorescence Microscope Test Sample and Sample Holder
+Centerline Berthing Camera System (CBCS) and Vestibule Outfitting Equipment Gather
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+Extravehicular Activity (EVA) Tool Configuring
+Reconnecting SM KURS-P Cables from MRM2 Port Antenna Feeder to DC1 Port Antenna Feeder
+Multi-purpose Small Payload Rack (MSPR) Component Activation for Atomization
+On-board Training (OBT) Cygnus Offset Grapple
+MATRYOSHKA-R. Replacing Personal Hygiene Items СЛГ and СЛГ-3 in the Protective Screen PL Stores, Photography.
+Preparation of Items for Return and Disposal with Soyuz 737
+СОЖ maintenance
+IPEHG Hardware Gather
+Microgravity Science Glovebox Activation
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Conclude
+US Extravehicular Activity (EVA) Tether Inspection
+VIZIR. Closeout Ops
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Self-study Session
+HRF Generic Sample MELFI Insertion Operations
+Marrow Breath And Ambient Air Sample Setup – Subject
+HRF Generic Frozen Blood Collection Setup
+HRF Generic Frozen Blood Collection Conclude And Stow
+IMS Delta File Prep
+Metabolic Tracking MSG Life Science Hardware Teardown
+MRM1-FGB Quick-Disconnect Screw Clamp Tightening
+Health Maintenance System (HMS) Profile of Mood States (POMS) Questionnaire
+Checking БД-2 treadmill carriage position. Photograph position of БД-2 carriage relative to pullout roller by lifting БД-2 curtain. Downlink photo via OCA.
+Crew Departure Preparations for Return to Earth
+Centerline Berthing Camera System (CBCS) Installation and Checkout
+HRF Generic Urine Collection Male Subject
+Single Stowage Locker Relocate
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Cygnus Cargo Operations Conference
+Exercise Data Downlink via OCA
+
+Completed Task List Activities
+
+JAXA Report Part 8 [Completed GMT 140]
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+SSRMS maneuver to ACBM position
+CBCS Checkout
+High Beta Powerdown
+Solar Array configuration for High Beta 
+

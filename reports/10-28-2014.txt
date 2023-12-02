@@ -1,0 +1,56 @@
+
+Orbital (Orb)-3 Cygnus Launch Anomaly:  Following yesterday’s launch cancellation due to a range violation, today at 5:22pm CDT, the Orbital Antares Rocket launched then experienced a catastrophic failure soon after. Orbital Sciences will be working with NASA teams in order to investigate the cause of the failure. No injuries have been reported.
+Rodent Research-1:  The Crew performed processing procedures, preparing the remaining Rodent Research-1 experiment test subjects for the scheduled return on SpaceX-5.  The Rodent Research Hardware provides a platform aboard the ISS for long-duration rodent experiments in space. Such experiments will examine how microgravity affects the animals, providing information relevant to human spaceflight, discoveries in basic biology, and knowledge that will have direct impact toward human health on Earth. Rodent Research-1 is also a test of operational capabilities of the new hardware system, including the Transporter, Rodent Habitat, and Access Unit.  
+BP Reg:  Gerst set up the BP Reg hardware and then completed his data collection session. This investigation tests the effectiveness of an in-flight manipulation of arterial blood pressure (BP) as an indicator of post-flight response to a brief stand test, since space flight negatively impacts the regulation of BP on return to upright posture on earth. A Leg Cuff test induces a brief drop in BP following the release of a short obstruction of blood flow to the legs. The change in BP from pre-flight to in-flight will be used to predict those astronauts who might be susceptible to experience the greatest drop in BP in the post-flight stand test. A second objective of this investigation is to determine whether cardiac output calculated from the analysis of the finger blood pressure waveform provides an accurate estimate both pre-flight and in-flight by comparison with a rebreathing method.
+Biological Rythyms 48 hour:  Gerst terminated first his 24-hour measurement, exchanged the multi-media card and battery, and then restarted for the final 24-hour measurement.  The objective of this study is to examine the accurate circadian variation of cardiac autonomic function by space flight. The crew will wear an Actiwatch for 96-hour and an electrocardiograph (ECG) for 48-hour.  
+Circadian Rhythms:  Wiseman removed instrumentation concluding the 36 hour Circadian Rhythm experiment.  Circadian Rhythms investigates the role of synchronized circadian rhythms, or the “biological clock,” and how it changes during long-duration spaceflight. Researchers hypothesize that a non-24-hour cycle of light and dark affects crewmembers’ circadian clocks. The investigation also addresses the effects of reduced physical activity, microgravity and an artificially controlled environment. Changes in body composition and body temperature, which also occur in microgravity, can affect crewmembers’ circadian rhythms as well. Understanding how these phenomena affect the biological clock will improve performance and health for future crewmembers.
+Zebra Fish Muscle:  Gerst performed periodic water maintenance on the Aquatic Habitat and measuring concentration of ammonium in water to check water quality.  The Zebra fish muscle experiment asks if the atrophy of muscles under the condition of microgravity also occurs in zebrafish and why their atrophy occurs in the microgravity. 
+Electromagnetic Levitation (EML):  Gerst completed final assembly of Electromagnetic Levitation experiment hardware components in the Columbus module in preparation for future commissioning.  The EML provides for containerless processing of liquid metals in a micro-gravity environment and precise measurement of their thermo-physical properties.
+SpaceX-4 Dragon Departure:  On Saturday October 25th, SpaceX-4 Dragon was successfully unberthed from the Node 2 Nadir docking port then released by the Crew utilizing the Space Station Remote Manipulator System (SSRMS) at 8:58am CDT.  Dragon later performed a nominal deorbit burn which led to splashdown in the expected Pacific Ocean landing zone at 2:40pm CDT the same day.   Dragon was subsequently recovered by the recovery vessel and powered cargo and early de-stow items were transferred.
+Progress 56 Undocking:  Progress M-24M (56P) undocked from the DC1 docking port at 12:38am CDT Monday, October 27th.  The Progress spacecraft will remain in orbit until November 19th in support of a non-ISS related experiment “ОТРАЖЕНИЕ-5”.
+Conjunction with Object #34881 (COSMOS 2251 Debris):  Monday, Ground Teams evaluated tracking data for a possible conjunction with Object #34881. Concern level on the item remained high after several tracking updates were received, which led to the decision to perform an avoidance maneuver. Ground teams initiated a Pre-Determined Debris Avoidance Maneuver (PDAM) utilizing the Automated Transfer Vehicle (ATV) thrusters at 12:42 pm CDT. The maneuver achieved a delta-V (velocity) of 0.5 meters per second, which cleared this event and is not expected to perturb near term visiting vehicles (57P and Orb-3) rendezvous with ISS.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+IMMUNO. Saliva Sample
+IMMUNO. stress tests, questionnaire data entry
+IMMUNO. Test-Tube Blood Collection (finger)
+IMMUNO. Blood Sample Processing
+BLR48 – Multi Media Card Exchange for Alexander Gerst
+Atmosphere Control and Supply (ACS) – High Pressure O2 Bypass Configuration
+CRHYT – Hardware deinstallation
+SM CO measurement using CMS unit
+Searching and connecting cable for mating КСПЭ and SM TV-system
+ZEBRA – Water Sampling & Measurements
+Blood Pressure (BP Reg) – Experiment Ops
+Study of cardiac bioelectric activity at rest
+LBNP Exercise (PRELIMINARY)
+Rodent Research: Sample processing
+NAPOR-miniRSA. Dual Pointing Platform (ДПН) Firmware Upgrade
+CWQMK Water Sample Analysis
+MATRYOSHKA-R. Monitoring Lulin-5 readings
+BIOCARD. Experiment Ops
+Post-EVA SM ПхО and DC1 Reconfig to Nominal
+Vacuum Gauge Pressure check 1 hour after RTS Ops Part 3
+Post-EVA SM ПхО and DC1 Reconfig to Nominal
+EML Finalizations Activities, Clearing Columbus
+EDV Refill from ATV5 WDS tank
+TV Conference with Korolev TV Channel Editor
+Atmosphere Control and Supply (ACS) High Pressure Nominal Configuration
+Filling (separation) EDV (KOV) lid No. 10 п.36 for Elektron
+Disassembly of Battery charger [ЗУ-С] setup
+
+Completed Task List Items
+
+EML Finalize 4,5
+Rodent Research MSG Cleanup
+Network Monitoring System (NMS) Laptop Deploy
+Node1 P4 restow [In work]
+Stow US EVA equipment post RS EVA 40
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Nominal commanding
+

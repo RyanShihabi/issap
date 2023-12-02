@@ -1,0 +1,99 @@
+
+Orbital 6 (OA-6) Launch:  Cygnus is scheduled to launch from Kennedy Space Center tonight at 10:05PM CDT. Capture is scheduled for Saturday, March 26 at 5:40AM CDT with ingress on Sunday, March 27 and the beginning of cargo transfer operations.
+ 
+NeuroMapping: Kopra completed a NeuroMapping Neurocognitive test on a Human Research Facility (HRF) laptop.  The experiment studies whether long-duration spaceflight causes changes to the brain, including brain structure and function, motor control, and multi-tasking; as well as measuring how long it takes for the brain and body to recover from those possible changes. Previous research and anecdotal evidence from crewmembers returning from a long-duration spaceflight suggests that movement control and cognition are affected in microgravity.
+ 
+Marrow: Williams completed his Launch plus 4 day (L+4) blood, breath and air samples after waking today for the Canadian Space Agency (CSA) Marrow investigation.  This investigation studies the effect of microgravity on human bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the marrow. The extent of this effect, and its recovery, are of interest to space research and healthcare providers on Earth.
+ 
+Dose Tracker: Peake completed entries for medication tracking which documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+Synchronized Position Hold, Engage, Reorient, and Experimental Satellites (SPHERES): Peake charged and swapped several sets of batteries to support the SPHERES investigation activities scheduled this week. SPHERES are bowling-ball sized spherical satellites. They will be used to test a set of well-defined instructions for spacecraft performing autonomous rendezvous and docking maneuvers. Three free-flying spheres will fly within the cabin of the ISS, performing flight formations. Each satellite is self-contained with power, propulsion, computers and navigation equipment. The results are important for satellite servicing, vehicle assembly and formation flying spacecraft configurations.
+Habitability Human Factors Directed Observations: Kopra and Peake viewed assorted videos to review the different sessions of the Habitability experiment. The Habitability investigation collects observations about the relationship between crew members and their environment on the ISS. Observations help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+USOS Crew Handover: Kopra conducted this handover with Williams to discuss recommendations for on-orbit practices and lessons learned related to ISS systems and payloads. They also covered generic safety reminders, use of exercise equipment and specific information about each module.
+ 
+Emergency Roles and Responsibilities Review: All six crew members participated in this review. Topics covered included crew accountability during an emergency situation such as a Soyuz retreat, Commander Responsibilities and procedure strategy for crew members.
+ 
+In-Flight Maintenance (IFM) Bacteria Filters: Kopra Removed & Replaced (R&R) bacteria filters and cleaned area smoke detectors in Node 3. He also R&Rd the filters in the AirLock and cleaned the Inter Module Ventilation (IMV) return screens.  Systems that had to be safed for that operation are being brought back online.
+ 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted. 
+
+MARROW – Air Sampling
+Morning Inspection. SM ПСС (Caution & Warning Panel) Test / Manual Controls [РСУ]
+Inspection of СМ-У, РУ2, РУ4, РУ5 connector on МНР-НС separator pump in [АСУ] behind panel 139 and line 5182-03 from Pretreat and Water Dispenser (ДКиВ) to [МНР] in its transparent section
+CSA – Blood collection – Operator
+CSA – Blood Collection
+CSA – Refrigerated Centrifuge Configuration
+SPHERES – Battery Charging
+CSA – Refrigerated Centrifuge Spin Conclude
+CSA – Sample Insertion into MELFI
+CSA – Blood Sample Collection Closeout Ops
+Water Recovery and Management (WRM): Condensate Pumping Initiation
+Gas Analyzer Deactivation in Soyuz 719 / Soyuz 719
+Gas Analyzer Deactivation in Soyuz 720 / Soyuz 720
+Microgravity Science Glovebox (MSG) – MLC Troubleshooting
+СОЖ Maintenance
+MSG power off
+Soyuz 720 Samsung Tablet Recharge – initiate
+Water Recovery Management (WRM): Iodine Fill – start
+COSMOCARD. Closeout Ops. Tagup with specialists / r/g 1703
+HABIT – Preparing for the experiment
+Crew time for ISS adaptation and orientation
+Water Recovery and Management (WRM):  Condensate Pumping Termination
+COSMOCARD. Photography of the Experiment Ops / r/g 1717
+COSMOCARD. Setup. Starting 24-hr ECG Recording r/g 1716
+Progress 429 (Aft) Stowage and IMS Ops / r/g 1682
+Soyuz 720 Transfers and IMS Ops / r/g 1691
+Water Recovery Management (WRM): Iodine Fill – End
+OA-6 (Cygnus) – Cargo Environment Sensor (CES) Data Download
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start) r/g 1721
+SPHERES – Battery Replacement
+MELFI – Transfer of MICROBE IV bags from MELFI 3 to MELFI 1
+URAGAN. SW Update for Photo Spectrum System (ФСС) P/L r/g 1724
+PMM Cleanup, Part 3
+HABIT – Data Recording to iPad
+Soyuz 720 Samsung tablet charge – end
+DOSETRK – Data Export
+Habitability – Questionnaire
+Preventive maintenance of MRM2 АСП-О Hatch Sealing Mechanism and Soyuz 720 hatch
+Transfer of brine/urine from EDV-U into Progress 431 (DC1) Rodnik H2O Tank2 – Handover / r/g 1723
+Transfer of brine/urine from EDV-U into Progress 431 (DC1) Rodnik H2O Tank2 / r/g 1723
+Test procedure and plan
+SPHERES – Tagup with specialists regarding the Experiment
+SPHERES – Battery Replacement
+Crew Prep for PAO
+PAO Hardware Setup
+PAO Event
+Safety Handover Procedure Review
+Bringing ODF up to date using ТК 720 delivered files / r/g 1720
+SPHERES – Battery Replacement
+Crew time for ISS adaptation and orientation
+Soyuz 719 Samsung Tablet Recharge – Initiate
+Gather Items Required for Airlock and Node 3 Bacteria Filter R&R
+CONTENT. Experiment Ops  r/g 1718
+IMS Delta File Prep
+NMAP – Experiment Test
+Crew time for ISS adaptation and orientation
+T2 Treadmill Introduction
+NOD3 Bacterial/Charcoal Filter R&R
+PCS 1553 card R&R
+Airlock Bacterial/Charcoal Filter Remove & Replace
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup r/g 1721
+Inspection of Portable Breathing Apparatus (PBA) and Portable Fire Extinguisher (PFE)
+Countermeasures System (CMS) – Tightening ARED Bolts
+Soyuz 719 Samsung tablet charging – Terminate
+Camcorder Setup to View LAB RWS Monitor 3
+SPHERES – Battery Replacement
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities are on schedule unless otherwise noted. 
+
+Bacteria filter R&R support
+Nominal ground commanding
+
+ 

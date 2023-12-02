@@ -1,0 +1,87 @@
+
+Electromagnetic Levitator (EML): Today the crew performed a sample chamber swap for the EML facility.  Experiment samples are contained in these dedicated sample chambers that are attached to the EML, and new experiment batches are loaded by swapping the sample chambers.  The EML is a multi-user facility is designed for containerless materials processing in space. It supports research in the areas of meta-stable states and phases along with the measurement of high-accurate thermophysical properties of liquid metallic alloys at high temperatures.
+Radi-N2 deploy:  The crew deployed all eight detectors in the Node 3 F3 rack area and took photos of the deployed detectors.  The objective of this Canadian Space Agency investigation is to better characterize the ISS neutron environment, define the risk posed to the crew members’ health, and provide the data necessary to develop advanced protective measures for future spaceflight. It’s been recognized that neutrons make up a significant fraction (10-30%) of the biologically effective radiation exposure in low-Earth orbit.  The bubble detectors used in the investigation are designed detect neutrons and ignore all other radiation.
+Bio-monitor hardware setup: The crew set up the camcorder for live HD video, installed the Bio-Monitor Controller, synchronized the Bio-Monitor Data Unit using the Controller, and printed the Data Unit LED Status Cheat Sheet in preparation for Bio-Monitor operations currently planned for tomorrow.  Although the ISS is equipped with health and life sciences research tools, the existing instrumentation for continuous and simultaneous recording of several physiological parameters is lacking. To tackle this issue, the Bio-Monitor Commissioning activity tests the Bio-Monitor facility; a wearable garment capable of monitoring relevant physiological parameters for up to 48 hours in a non-invasive and non-interfering way. 
+Transition to (X2) R17 Software: Today, crew and ground teams continued with the X2R17 software transition by loading the prime and backup Payload Multiplexer/Demultiplexers (MDMs) with PEP R14 software. In addition, ground teams are loading the Standby Command and Control (C&C) MDM with BEP104, CCS R17, and MSS 9.2 software.  Ground teams will also install a PCS software patch to correct a problem with the Command Panel Display, which will be used for crew monitoring during Northrop Grumman (NG)-10 release planned for mid February. The teams will continue to load X2R17 software into various MDMs through this Thursday, January 17.
+Onboard Training (OBT) ISS Emergency Simulation: All three crewmembers participated in an ISS Emergency Simulation to practice responses along with ground teams.  They translated through ISS to appropriate locations and practiced procedure execution and decision making based on cues provided by a simulator. Following the training, they conducted a review session with Houston and Moscow Control Centers.
+Completed Task List Activities:
+
+Joint Station Local Area Network Monitoring System Universal Serial Bus Install
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+X2R17 Software Transition (Ongoing through January 17)
+
+Two Day Look Ahead:
+Wednesday, 01/16:
+Payloads:
+
+Actiwatch plus check
+Behavioral core measures
+Biomonitor commissioning
+Fluid Shifts
+
+Systems
+
+WHC Urine Hydraulic Components R&R
+X2R17 Software Transition (Ongoing through January 17)
+
+Thursday, 01/17:
+Payloads:
+
+
+Bio-monitor power off
+Fluid Shifts
+Kubik
+MSPR bonding strap installation closeout
+Team Task switching
+
+Systems
+
+X2_R17 Software Transition
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Training for Emergency Response On-board ISS
+Node3 Air Revitalization System (ARS) Rack – Major Constituent Analyzer (MCA) – Hand Valve 01 (HV01) Open
+Restore ISS comm to the nominal configuration
+XF305 Camcorder Setup
+Preparation for Installation of bonding strap for Multi-purpose Small Payload Rack (MSPR) DC/DC converter unit 2 (DCU2) and MSPR Hub.
+COSMOCARD. Preparing for and Starting 24-hr ECG Recording
+Verification of ИП-1 Flow Sensor Position
+Delta File Prep
+Deinstallation of EML Sample Chamber
+Installation of EML Sample Chamber
+On-board Training (OBT) ISS Emergency Drill Conference
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Installation of bonding strap for Multi-purpose Small Payload Rack (MSPR) DC/DC converter unit 2 (DCU2) and MSPR Hub
+Photo/TV Camcorder Setup Verification
+NORS Tank Restow
+Floater iPad FIT App Update
+Air Revitalization System (ARS) Rack – Major Constituent Analyzer (MCA) – Hand Valve 01 (HV01) Close
+Environmental Health System (EHS) Coliform Water Processing
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) PFU3 Functional Check
+СОЖ maintenance
+Photo/TV Camcorder Setup Verification
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+MATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors to USOS
+Radi-N2 Historical Photo
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and deployment for exposure
+Fluid Shifts Dilution Measures Reference Material Review
+Fluid Shifts Dilution Measures Setup
+Waste Hygiene Compartment (WHC) to Internal EDV
+WHC Urine Hydraulic Components Stowage Gather
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+On Board Training (OBT) ROBoT T&C Self Study
+Bio-Monitor Hardware Setup
+
+ 

@@ -1,0 +1,112 @@
+
+Cerebral Autoregulation: Using the Cardiolab Portable Doppler and European Physiology Module Facility Continuous Blood Pressure Device, the crew performed data measurements for the JAXA Cerebral Autoregulation experiment.  As the body’s most important organ, the brain needs a strong and reliable blood supply so the brain is capable of self-regulating blood flow even when the heart and blood vessels cannot maintain an ideal blood pressure. The investigation tests whether this self-regulation improves in the microgravity environment of space.
+ISS HAM Pass: The crew participated in an ISS HAM event with Shaftesbury High School, Winnipeg, Manitoba, Canada. Shaftesbury High School is a public school in the Pembina Trails School Division serving approximately 700 students from grades 9 through 12.  Questions involved solar power on ISS, entertainment in space, and the crew’s diet on ISS. ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+Cygnus Rendezvous On-Board Training (OBT): In preparation for NG-11 launch currently planned on April 17 and berth on April 19, today the crew completed this proficiency training covering the mission profile, rendezvous crew procedures and crew interfaces for monitoring and commanding the Cygnus.
+Mobile Servicing System (MSS) Operations: Robotics Ground Controllers powered up the MSS and performed a base change from the LAB Power Data Grapple Fixture (PDGF) to Mobile Base System (MBS) PDGF 1. They commanded the Space Station Remote Manipulator System (SSRMS) to release MBS PDGF 1 and walked off to MBS PDGF 4. Ground Controllers released SSRMS from MBS PDGF1 and maneuvered the SSRMS to grapple Special Purpose Dexterous Manipulator (SPDM) PDGF. After a base change, they commanded the SSRMS to unstow the SPDM and started a series of auto-sequence to position the MSS towards the Port side of the ISS in preparation for the last P4 NiH2 battery relocation to 4A3. Finally, they ran SPDM Brakes and Joint diagnostics on Body and Arms as part of the regular checkouts then powered down the MSS cameras.
+Completed Task List Activities:
+
+ECWS OBT
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+C2V2 activation/checkout
+EMU cooling loop scrub support
+SSRMS/SPDM return NiH2 battery from EP to 4A IEA
+
+Thursday, 4/11:
+Payloads
+
+
+Airway Monitoring airlock session
+Cerebral Autoregulation
+CIR manifold bottle exchange
+EarthKAM lens change
+ISS Experience
+ISS HAM pass
+LMM/Biophysiics-6 config
+Medical Proteomics
+Repository
+SUBSA sample exchange
+Team Task Switching 
+
+Systems
+
+Recycle tank drain
+HRF collections1
+
+Friday, 4/10: Crew holiday for Cosmonautics Day
+Payloads: Repository
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+Photo TV Battery Charge Initiation
+XF305 Camcorder Setup
+Replacement of Komparus КР-МПА Unit in FGB
+Cerebral Autoregulation Data Measurement
+Vozdukh system deactivation
+DUCKWEED. Photography of cultivation cameras with plants
+Replacement of Komparus КР-МПА Unit in FGB
+Airway Monitoring Big Picture Words Read
+Countermeasures System (CMS) Treadmill 2 System (T2) Monthly Inspection
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Iodination
+On-board Training (OBT) Cygnus Robotics Review
+On-board Training (OBT) Cygnus Rendezvous Review
+ISS Experience Message Review
+Photo TV Battery Charge Swap
+On-board Training (OBT) Cygnus Rendezvous Review
+On-Board Training (OBT) CYGNUS OBT Conference
+Airways Monitoring Crew Medical Officer (CMO) Briefing
+PS-120 Junction Box Move to Airlock
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+Replacement of Komparus КР-МПА Unit in FGB
+Robot Startup
+Airways Monitoring Private Medical Conference (PMC)
+Behavioral Core Measures Journals Entry
+Water Recovery and Management (WRM) Waste Water Bus (WWB) Combine
+Airways Monitoring Private Medical Conference (PMC)
+Condensate transfer from Lab Condensate tank to WPA Waste Water Tank
+Ultrasound 2 HRF Rack 2 Power On
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+EVA Airlock Unstow
+PAO Preparation
+UPA Brine Filter Gather
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Condensate direct transfer from Lab condensate tank to WPA waste water tank.
+Team Task Switching Experiment Survey
+Water Recovery and Management (WRM) Waste Water Bus (WWB) Split
+ISS HAM Service Module Pass
+Photo TV Battery Charge Swap
+URISYS Hardware Setup
+Gathering a Manovacumeter [MB] in support of 10.2 Ops Airways activity on GMT 101.
+Photo/TV (P/TV) Airway Monitoring Video Setup
+AIRMON Setup
+VEG-03H Hardware Deactivation
+Health Maintenance System (HMS) Ultrasound 2 Scan Prep
+Crew Prep for PAO event
+Actiwatch Plus Evaluation Display Check
+Combustion Integrated Rack Hardware Return
+Health Maintenance System (HMS) Ultrasound 2 Scan performed by a Crew Medical Officer (CMO)
+Health Maintenance System (HMS) Ultrasound 2 Scan
+Setup and Activation of Crew Onboard Support Kit (КСПЭ) Equipment for MPEG2 TV coverage from SM
+PAO event with the participants of TCHAIKOVSKY AND SPACE concert
+Cygnus Crew PCS Command Panel Checkout via C2V2 without RF Transmission to Ground Site
+Deactivation of Camcorder, TV system control hardware, and Closing SSC Applications at Central Post
+Food Acceptability Questionnaire
+HRF Generic Urine Collection Setup
+Cygnus Crew PCS Command Panel Checkout via C2V2 without RF Transmission to Ground Site
+Health Maintenance System (HMS) Ultrasound 2 Scan performed by a Crew Medical Officer (CMO)
+Health Maintenance System (HMS) Ultrasound 2 Scan
+Behavioral Core Measures Journals Entry
+Food Acceptability Questionnaire
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Health Maintenance System (HMS) Ultrasound 2 Post Exam
+HRF Generic Frozen Blood Collection Setup
+Vozdukh system deactivation
+AIRMON Power Off
+Photo TV Battery Charge Deactivation
+
+ 

@@ -1,0 +1,68 @@
+
+Japanese Experiment Pressurized Module Inter Module Ventilation (IMV) Cleaning: Commander (CDR) Wakata temporarily removed the Starboard Forward Fan and IMV grills and cleaned behind them. Wakata and  and Flight Engineer (FE) Mastracchio then measured the air velocity in the JEM using the Velocicalc instrument.
+Ice Crystal-2 Troubleshooting: During an Ice Crystal-2 experiment run on March 18th, the ground could not control the temperature in the thermo module, delaying further Ice Crystal-2 sample runs.  Over this past weekend, Wakata completed troubleshooting of the issue. Results indicate the Ice Crystal-2 experiment is nominal, but the thermo module is not operational.  Other thermo modules are available, and remaining runs can resume once a Solution Crystallization Observation Facility (SCOF) cable is delivered on SpaceX (SpX)-3.  SpX-3 is planned to launch this weekend.
+Capillary Flow Experiment (CFE) Interior Corner Flow (ICF)-2 Test: Mastracchio set up hardware on the Maintenance Work Area (MWA) and conducted an ICF test using the ICF6 hardware which contains a diagonal linearly tapered vane in a square cylindrical section. CFE ICF studies capillary flow in interior corners of vessels with various geometries. Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can be used to improve propellant management aboard spacecraft.
+Advanced Colloids Experiment (ACE)-M-1 Sample Installation: Wakata configured the Light Microscopy Module (LMM) in the Fluids Integrated Rack (FIR) for an additional ACE-M-1 investigation run. The ACE-M-1 studies the behavior of microscopic particles in gels and creams. Many consumer products are colloidal mixtures with stabilizers added to make them last longer.  Particles do however eventually clump together and sink to the bottom in a process known as coarsening which can spoil a product. The ISS is an ideal location to study the physics of coarsening which could lead to manufacturing longer lasting products.
+Today’s Planned Tasks
+
+Reaction Self test [Complete]
+Laptop RS1(2) Reboot / Onboard Computer System (БВС) [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+SM ПСС (Caution & Warning Panel) Test  [Complete]
+Inspection of connector SМ-U on МНР-НС behind panel139 in АСУ [Complete]
+Daily Planning Conference (S-band) [Complete]
+БМП F1 cartridge regeneration (start) [Complete]
+CFE-ICF experiment materials review [Complete]
+VHF comm. checks via US ground sites [Complete]
+Voice loop checks in S/G1 from Baikonur cosmodrom [Complete]
+Prep for inspection and photography of windows in DC1  r/g 5149 [Complete]
+Inspection and photography of windows in DC1. r/g 5149 [Complete]
+HMS – Mood profile questionnaire [Complete]
+CFE – MWA prep [Complete]
+CFE – prep and hardware setup [Complete]
+СОЖ Maintenance [Complete]
+FIR- hardware check, opening rack doors. Video recording [Complete]
+CFE – tests [Complete]
+LMM- hardware setup and video recording [Complete]
+ACE – sample prep [Complete]
+SEISMOPROGNOZ. Software install on RSS1 laptop for init file replacement. r/g 5145 [Complete]
+PE data downlink / r/g 2639 [Complete]
+LMM – Rotate microscope in operational orientation. Video recording. [Complete]
+FIR – closing rack doors [Complete]
+JPM-IMV – fan cleaning [Complete]
+CFE – hardware placement in Ziploc bags [Complete]
+АСУ inserts audit / r/g 5148 [Complete]
+SSC3 – connection to network [Complete]
+WRM – condensate evacuation initiation [Complete]
+Food Related Equipment (СОП) Audit / r/g 5146 [Complete]
+WRM – condensate evacuation termination [Complete]
+Measuring air velocity in JEM [Complete]
+OGS Rack AAA Inlet FLow Measurement [Complete]
+Journal Entry [Complete]
+Daily Planning Conference (S-band) [Complete]
+БМП F1 cartridge regeneration (end)  [Complete]
+Reaction Self test [Complete]
+
+Task List
+
+54P Trash Gather
+ARED Cylinder Evac
+ICE2 T/S Part 1 [Completed Sunday]
+ICE2 T/S Part 2 [Completed Sunday]
+IMS Edit
+WHC EDV R&R
+Roscosmos report
+Uragan photo
+Dragon Robot self study [In work]
+EVA FPS Tool Gather [Complete]
+RGN WSTA fill [Complete]
+CSACP Battery Build
+EVA UIA Filter Flash R&R
+HMS Med Kit Photos
+Melfi Insulation Install
+JPM1F6 ZSR audit
+
+Ground
+
+Nominal Commanding
+

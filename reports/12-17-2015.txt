@@ -1,0 +1,90 @@
+
+Mobile Servicing System (MSS) Status:  Today, Robotics Ground Controllers powered up the Mobile Serving System (MSS), surveyed the Mobile Transporter (MT) translation path and performed MT Checkouts.  The MSS was then powered down for the MT translation from Worksite 4 (WS4) to WS2.  The Translation Drive (TD) Integrated Motor Controller Assembly (IMCA)-A experienced an error shortly after the MT left WS4 which caused motion to stop.  Another error was experienced while trying to translate back to WS4.  Several attempts in different configurations were performed to move the MT back to WS4, but were unsuccessful.  The team has powered down the MT and powered up the MSS to Keep Alive using the Mobile Transporter Relay Assembly (MTRA).  The MT is currently braked but not latched.  Ground teams have completed surveys of the MT and surrounding areas, and are analyzing the video.  MCC-H and MCC-M are currently assessing impacts for upcoming Progress operations this weekend.
+ 
+Habitability:  Today, Peake documented his recent observations related to human factors and habitability for the Habitability investigation.  Habitability assesses the relationship between crew members and their environment in order to better prepare for future long-duration spaceflights to destinations, such as near earth asteroids and Mars.  Observations recorded during 6 month and 1 year missions can help spacecraft designers determine how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+Dose Distribution Inside the ISS – 3D (DOSIS 3D):  Kelly received passive radiation detectors from a Russian crewmember today and installed them in the Columbus module in the support of European Space Agency’s (ESA’s) DOSIS 3D investigation.  Data from the various active and passive radiation detectors installed in the ISS are used in the determination of the radiation field parameters absorbed doses and dose equivalents inside the ISS.  A concise three dimensional (3D) dose distribution map of all the segments of the ISS will be developed, based on this data and data from JAXA and NASA monitoring devices.
+ 
+Space Headaches:   Peake completed another Daily Space Headaches questionnaire as part of his week-long series. The daily questionnaires are only scheduled immediately after arrival of a new crewmember to the ISS.  Weekly questionnaires will be completed in subsequent weeks.  Headaches can be a common complaint during spaceflight. The Space Headaches experiment will provide information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space.
+ 
+Electromagnetic Levitation (EML) Operations:  Processing of samples in the European Space Agency’s (ESA’s) EML facility continues for the fourth week.  The ongoing EML Batch 1 science experiments that are supported by EML utilize hardware that is ground commanded.  The multi-user facility EML electromagnetic levitator is designed for containerless materials processing in space. It covers research in the areas of meta-stable states and phases (e.g., investigations of nucleation and solidification kinetics in undercooled melts and the developing microstructure) and thermophysical properties of liquid metallic alloys at high temperatures.
+ 
+Cygnus Cargo Operations:  Today, the USOS Crew participated in a Cygnus cargo conference with ground specialists.  Once complete, all three worked on transferring cargo from the Cygnus vehicle to ISS.
+ 
+Crew Handover: The 45S crew participated in a handover from Kelly regarding lessons learned, and suggested on-orbit practices related to ISS systems and payloads. Kelly also provided some generic safety reminders and a review of the exercise equipment.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+BIOSIGNAL. Temperature check in Cryogem-03
+Ultrasound 2 – Hardware Activation
+Ultrasound – Scan Prep
+Replacement of ИК0501 CO2 Filter Unit (БФ) Install БФ CO2 #165 (00068061R, СМ1РО_4_449_1, bag 249-17. Removed #163 – for disposal on Progress 428. Update IMS
+ТКГ 428 (DC1) Stowage and IMS Ops
+COSMOCARD. Setup. Starting 24-hr ECG Recording
+Cygnus Cargo Operations Tagup
+Ultrasound 2
+Soyuz 719 Transfers and IMS Ops
+OBT Cygnus Emergency Procedure Review
+Ultrasound-2- Post-scan Ops
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves [АВК СОА] [Aborted]
+OBT Cygnus Emergency Ops
+Ultrasound 2 – Data Export
+СОЖ Maintenance
+Cygnus Cargo Operations
+Ultrasound 2 – Deactivation
+WRS – fill from EDV for processing [Aborted]
+Bringing ODF up to date using ТК 719 delivered files
+Post-PE Hygiene
+Crew time for ISS adaptation and orientation
+Photography of traces left by the Active Docking Mechanism Probe on the MRM1 Passive Mechanism Receiving Cone
+T2 Monthly Inspection
+Downlink docking cone internal surface photos to OCA
+Crew Preparation for PAO Event
+Preventive maintenance of MRM1 АСП Hatch Sealing Mechanism and Soyuz 719 hatch
+Preventive maintenance of DC1 АСП hatch sealing mechanisms and ТКГ 428 АСА hatch (DC1)
+ТК 719 Transfers and IMS Ops
+Health Maintenance System (HMS) – Food Frequency Questionnaire
+PAO Event
+CONTUR-2. P/L Assembly Setup on panel 418
+Removal of ЛКТ (ТА251МБ) and ROM from ТКГ 428 (DC1) Place in SМ1РО_3_314_1, bag 353-8 (00037141R)
+Handover
+CONTUR-2. Experiment Session Ops
+В3 Fan Screen Cleaning in DC1 / Thermal Mode Control System [СОТР], 10.4.4 p. 10-9 (123)
+Inventory of rotation wrench set for [OHA] High Gain Antenna on RSOS/ r/g 0898
+Crew time for ISS adaptation and orientation
+Familiarization with PE procedures and ARED
+CONTUR-2. Experiment Session Ops
+Private Medical Conference
+HABIT – Experiment Ops
+On MCC GO ISS N2 Repress from Progress 428 (DC1) СрПК Section 2
+HABIT – Applications Overviews
+OBT Cygnus Emergency Ops
+Crew time for ISS adaptation and orientation
+CONTUR-2. De-installation of master arm with adapter from panel 418
+Crew time for ISS adaptation and orientation
+ISS N2 Repress from ТКГ428 (DC1) СрПК Section 2 (terminate)
+Handover of US cargo delivered on Soyuz 719
+Handover of DOSIS 3D delivered on ТК 719 to US crew
+DOSIS 3D – installation
+ИП-1 sensor placement check
+SHD- questionnaire
+IMS ops
+Removal of GoPro camera in ТК 719. Transfer of Video to Hard Drive. Clearing flash card. Battery Charge. Stowage in ТК 719
+RODF update on iPADs ECON-M. Observation and Photography
+URAGAN Observations and Photography
+Preparation of Reports for Roscosmos Web Site and Social Media
+Installation of inserts to ease opening of SM interior panel locks (Unstow Элементы конструкции (Structural Elements) kit (004890R), ФГБ1ПГО_4_427_1, СТВ No.1112 (004106J)
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+MT Translation troubleshooting
+
+ 

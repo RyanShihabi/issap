@@ -1,0 +1,89 @@
+
+Kubik-6 Ebox Exchange:  Yesterday, Kelly unstowed the European Space Agency (ESA) Kubik-6 facility and exchanged the centrifuge and thermal eBoxes in preparation for the Kubik-6 commissioning.  Today he activated and checked out the facility.  Kubik is a small controlled-temperature incubator / cooler used to study biological samples in a microgravity environment.  It is equipped with removable inserts designed for self-contained, automatic experiments using seeds, cells, or small animals.  
+ 
+Japanese Experiment Module (JEM) Airlock Operations for Robotics Refueling Mission (RRM) Task Board 4 Retrieval:  Peake depressurized and vented the JEM Airlock today in preparation for the retrieval of RRM Task Board 4 (TB4) from the ExPRESS Logistics Carrier-4 (ELC-4), located on the ISS Starboard 3 (S3) Truss.
+ 
+Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts): Kelly continued his Return-45 (R-45) multi-day session with baseline imaging collection, including Optical Coherence Tomography (OCT), Distortion Product Otoacoustic Emissions (DPOAE), Tonometry, and Ultrasounds.  Kopra assisted him as the operator.  Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+ 
+Biological Rhythms 48 Hours:  Kopra donned the Holter Electrocardiogram to support JAXA’s Biological Rhythms 48 Hours investigation.  He then synchronized data between the Actiwatch and Holter.  This investigation studies the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours. While the ISS schedule follows Greenwich Mean Time, it is not known whether a separate biological rhythm is imposed on long-term flight crews. To study this, astronauts wear an Actiwatch for 96 hours and a Holter electrocardiograph for 48 hours.
+ 
+Dose Tracker:  Kopra and Peake completed entries for medication tracking on an iPad.  This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data are expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+ 
+Russian Pilot-T Experiment:  Kelly performed a session of the Russian experiment Pilot-T today. The goal of Pilot-T is to improve methods and develop equipment to assess and predict crewmember performance reliability during the execution of complex operator tasks (such as piloting a space vehicle or controlling transport and robotic equipment on the surface of a spacecraft) during various stages of long-term spaceflight.
+ 
+Sequential Shunt Unit (SSU) Extravehicular Activity (EVA) Preparation:  Kopra and Peak worked together to remove arm sizing rings from Extravehicular Mobility Unit (EMU) 3005 in support of resizing activity later in the day.  EMU 3005 was then uninstalled from the Aft EMU Don/Doff Assembly (EDDA) and EMU 3011 was installed in its place.  Later, EMU 3008 was resized for Peake and EMU 3011 for Kopra.  The crew also manually removed gas from the payload water reservoir, recharged the EMU feed water tank, filled a dry Liquid Cooling and Ventilation Garment (LCVG), and performed a tether inspection.  The SSU EVA is scheduled to occur next week on January 15th.
+ 
+Mobile Servicing System (MSS) Operations:  Yesterday evening, the Robotics Ground Controllers continued reconfiguring tools and adapters on RRM TB4.  This afternoon, TB4 was removed from RRM using the SPDM Robot Micro Conical Tool 2 (RMCT2).   Tomorrow, the Mobile Transporter will be moved to Worksite 7 to allow access to the JEM Airlock Slide Table.  TB4 will be placed on the Slide Table Thursday night, along with the failed RMCT1, in order to bring both items inside the ISS for return on SpX-8.
+ 
+Russian Treadmill (БД-2):  The Russian crew reported a rubber shock absorbing belt in the БД-2 was torn.  Photos have been downlinked for ground analysis.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Sprint Portable Pulmonary Function System (PPFS) Partial Setup
+Fluid Shifts Experiment
+USOS EVA – Enhanced Caution and Warning System (ECWS) On-Board Training
+SM Ventilation System Preventive Maintenance. Group А
+Photo/TV Battery Charge Initiation
+Soyuz 718 Samsung Tablet Recharge – Initiate
+Audit of Docking and Internal Transfer System (ССВП) accessories, kits
+COSMOCARD. Closeout Ops
+Portable Power Supply (PPS) – Settings
+BLR48 – starting measurement
+PPS – Settings Adjustment
+PILOT-T. Preparation for the experiment
+VCA1 Camera Adjustment
+JEMAL – Depress and Vent
+USND2 – Hardware Activation
+ARED Flywheel Cylinder Evacuation
+PILOT-T. Experiment Ops
+Fluid Shifts – Ultrasound Scan (assistance)
+MRM1 Fan Screen Cleaning (Group C)
+Fluid Shifts – CCFP Measurement Ops
+Battery Charger Battery Swap
+USND2 – Hardware Deactivation
+Start BSA Battery Charge
+JEMAL – Closeout Verification
+Complete the Dose Tracker application (Subject)
+Soyuz 718 Samsung Tablet Recharge – terminate
+JEMAL – JEM Airlock Vent Confirmation
+Complete the Dose Tracker application (Subject)
+Verification of ИП-1 Flow Sensor Position
+MRM1-FGB Screw Clamp Tightening
+Repair of SM Interior Panel 335 by Installing Overlay Panels – Day 1
+EMU backpack replacement
+PPS – Hardware Checkout
+Repair of SM Interior Panel 335 by Installing Overlay Panels – Day 1
+PPS – KUBIK6 deactivation and stowage
+EMU Resizing
+PILOT-T. Experiment Ops
+Comm config for conference from MRM2
+Kulonovskiy Kristall Experiment Run
+Photo/Video Battery Charger Battery Swap
+EMU Payload Water Recharge Bag (PWR) De-gas
+EMU Water Refill
+PILOT-T. Experiment Ops
+MRM2 Comm Reconfig for Nominal Ops
+KULONOVSKIY KRISTALL. Copy and Downlink Data
+EMU LCVG Water Fill
+IMS Delta File Prep
+USOS EVA Tool Config
+PILOT-T. Closeout Ops
+СОЖ Maintenance
+Terminate Photo/Video Battery Charge
+Preparation of Reports for Roscosmos Web Site and Social Media
+Video Recording for All-Russia State Television and  Radio Broadcasting Company (ВГТРК)
+ECON-M. Observations and Photography
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Continuation of Robotics Refueling Mission (RRM) Taskboard 4 Retrieval
+
+ 

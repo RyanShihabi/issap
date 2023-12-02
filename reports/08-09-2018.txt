@@ -1,0 +1,85 @@
+
+HTV-7 Rack Relocation Prep: This week the crew has been executing a series of activities in order to prepare ISS for the installation of new racks arriving on HTV-7. After relocating and consolidating stowage earlier in the week, two crewmembers relocated five racks today within and between various modules in the US Segment. Prior to starting the rack transfer late this morning, the crew cleared remaining items from the rack translation paths and configured the Treadmill 2 (T2) and Waste and Hygiene Compartment (WHC) Kabin as required to clear the racks during movement. The crew also disconnected the MagVector umbilicals since they would interfere with transferring the adjacent COL1F2 Zero-G Softrack (ZSR). After completing these final prep activities, the crew transferred the following racks:
+
+Resupply Stowage Rack (RSR) from PMM1O4 to LAB1P1
+ZSR from JPM1A5 to PMM1O4
+RSR from PMM1D4 to JPM1A5
+“Gutted” MARES Rack from COL1F3 to PMM1D4.
+ZSR from COL1F2 to COL1F3
+
+The crew completed the day’s activities by both reconfiguring T2 and the WHC Kabin back to their nominal configurations and placing a flag over the now empty COL1F2 rack bay to maintain nominal airflow within Columbus.
+Japanese Experiment Module (JEM) Moderate Temperature Loop (MTL) Leak Update: Experts at the Space Station Integration and Promotion Center (SSIPC) continue to monitor the JEM MTL pressures following the isolation of Express Rack (ER)5 on Tuesday. While telemetry indicates the leak has slowed or stopped, the slow leak rate, and resolution of available telemetry, necessitates a 72-hour monitoring period prior to declaring ER5 the source of the leak.
+Hatch Seal Inspection: This afternoon the crew performed scheduled maintenance to clean and inspect the United States On-orbit Segment (USOS) hatch seals in N1, N2, Lab, and N3. They inspected the sealing surface and hatch handle mechanism for Foreign Object Debris (FOD) or damage and ensured today’s rack relocations did not cause damage to any seals.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Tether Slosh: Today the crew set up the SPHERES Tether Slosh hardware and cameras in order to execute this experiment session. SPHERES Tether Slosh combines fluid dynamics equipment with robotic capabilities aboard the ISS to investigate automated strategies for steering passive cargo that contain fluids. In space, the fluid fuels used by spacecraft can slosh around in unpredictable ways making space maneuvers difficult. This investigation uses two SPHERES robots tethered to a fluid-filled container covered in sensors to test strategies for safely steering spacecraft such as dead satellites that might still have fuel in the tank.
+Microbial Tracking-2 (MT-2): This morning a 55S crewmember collected saliva samples for the Microbial Tracking-2 investigation andplaced them inside a MELFI.  MT-2 monitors the different types of microbes that are present on ISS over a 1-year period.  After the samples are returned to Earth, a molecular analysis of the RNA and DNA will be conducted to identify the specific microbes that are present on ISS in order to understand the microbial flora diversity on the ISS and how it changes over time. 
+Manufacturing Device (MD): The crew replaced the Manufacturing Device build platform today. The Manufacturing Device supports the production of components on the ISS for both NASA and commercial objectives. It is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.  
+Public Affairs Office (PAO) Event: This afternoon Ricky Arnold participated in a live PAO event with the McAuliffe-Shepard Discovery Center in Concord, New Hampshire. The McAuliffe-Shepard Discovery Center is an air and space museum dedicated to two New Hampshire space pioneers: Christa McAuliffe and Alan Shepard. The session will be integrated into several summer camp sessions and will provide the children with the chance to speak to an astronaut about the relevant themes of astronomy and human space exploration. 
+Mobile Servicing System (MSS) Operations: Overnight, robotics ground controllers used the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) to unfasten H1 (secondary) fixtures and break torque on H2 (primary) fixtures across all six Channel 4A Integrated Equipment Assembly (IEA) batteries. These operations, along with Tuesday night’s operations on Channel 2A, will reduce the ExtraVehicular Activity (EVA) time needed to install the new Lithium Ion (Li-Ion) batteries launching on HTV-7.  Tonight the robotic ground controllers will be moving the SSRMS to a park position then translating the Mobile Transporter (MT) from Worksite(WS)7 to WS3.
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Microbial Tracking-2 Body Sample Collection
+Microbial Tracking-2 Sample MELFI Retrieval Insert
+Wastewater Storage Tank Assembly (WSTA) Fill
+ТГК 70P docking mechanism (СтМ) installation
+Stowage Configure Cleanup
+Total Organic Carbon Analyzer (TOCA) Calibration Check
+LAB1P1 Stowage Clear
+URAGAN. Checking Icarus Connection.
+De-Mating of MagVector Umbilicals from COL1F2 UIP
+Tropical Cyclone Hardware Closeout
+In Flight Maintenance (IFM) Stowage Gather
+ТГК 70P activation
+In Flight Maintenance (IFM) Rack Transfers
+Brine/urine transfer from ЕДВ to Progress 438 [AO] Rodnik H2O tank 1
+Acoustic Monitor Data Transfer and Stow
+Quick-disconnect screw clamps (БЗВ) removal
+Lighting Effects Visual Performance Tests Light Setting Subject
+Team Task Switching Experiment Survey Subject
+DC1-Progress 439 Hatch Closure
+DC1-СУ and СУ-Progress Hatch Leak Check
+SPHERES Crew Conference
+SPHERES Payload OBT
+In Flight Maintenance (IFM) COL1F3 Reconfiguration
+Specific EVA Procedures Study
+Columbus Zero-Gravity Stowage Rack (ZSR) Transfer
+Total Organic Carbon Analyzer (TOCA) Calibration Check Data Record
+In Flight Maintenance (IFM) LAB1P1 Reconfiguration
+Removal of Fast-Removal Screw Clamps (ЗВБ) on DC1-Progress 439 Interface, Video Downlink via OCA
+SPHERES Test Session Setup
+In Flight Maintenance (IFM) Restow
+SPHERES VERTIGO Test Session Run
+Installation of US add-on hardware on Orlan-MKS.  Photography, Photo Downlink
+Installation of Orlan Tether Adapters (OTA) on Orlan-MKS.
+Stowage Rack Relabeling [Deferred]
+Installation of US add-on hardware on Orlan-MKS. Photography, Photo Downlink.
+Food Acceptability Questionnaire – Subject
+LAB1P1 Stowage Replace [Deferred]
+JPM LTL ITCS COOLANT SAMPLING ADAPTER REMOVAL
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Total Organic Carbon Analyzer (TOCA) Waste Water Bag (WWB) Changeout
+Water Recovery and Management Condensate Pumping Init
+Countermeasures System (CMS) Cycle Ergometer with Vibration Isolation Stabilization (CEVIS) Audit
+Manufacturing Device Scan Head Installation
+Water Recovery and Management Condensate Pumping Term
+Automated External Defibrillator (AED) Inspection
+Inventory Management System (IMS) Conference
+Fan replacement in ИК0501.
+Hatch Seal Inspection
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+SPHERES Test Session Shutdown
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SPCH untie 4A/1A
+BGA 4A unlatch
+MSS Operations: MT translation
+

@@ -1,0 +1,113 @@
+
+BioServe Protein Crystallography (BPC)-1:  The crew performed BioServe Protein Crystallography Microscope operations today.  They removed the BioServe Protein Crystallography samples from the Space Automated Bioproduct Laboratory (SABL), made observations, and photographed the sample wells using the microscope, and returned the samples to the SABL.  BPC-1 seeks to demonstrate the feasibility of conducting protein crystal growth in real time onboard the ISS.  Crewmembers add solutions to the hardware, observe the crystals that form and adjust for follow-on experiments. This approach gives scientists the ability to optimize crystal growth in microgravity instead of waiting for samples to return and then launching them again. 
+Biomolecule Extraction and Sequencing Technology (BEST): The crew swabbed surfaces on the PMM blackout curtain and areas around the crew quarters and stowed the samples in a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). The BEST investigation studies the use of sequencing for identification of unknown microbial organisms living on the ISS, and how humans, plants and microbes adapt to living on the ISS.    
+Binary Colloidal Alloy Test – Cohesive Sediment (BCAT-CS): The crew checked the camera alignment and focus by viewing the latest BCAT images on a laptop and then re-set the intervalometer as needed.  The BCAT-CS investigation studies the forces between particles that cluster together by using sediments of quartz and clay particles.  Conducting the research in the microgravity environment of the ISS makes it possible to separate the forces acting on the particles over a short range (adhesive forces) versus those acting over a long range (cohesive forces). The quartz/clay system is commonly found in a wide variety of environmental settings (such as rivers, lakes, and oceans) and plays an important role in technological efforts related to deep-sea hydrocarbon drilling and carbon dioxide sequestration.
+Mobile Servicing System (MSS) Operations: This evening, ground robotic specialists will use Special Purpose Dexterous Manipulator (SPDM) to engage gimbal locks on the Multiple User System for Earth Sensing (MUSES) platform. The DLR Earth Sensing Imaging Spectrometer (DESIS) payload, which was installed in the JEM Airlock yesterday, will be transferred to the MUSES platform next week. After the MUSES prep tonight SPDM will then be used to move a spare Remote Power Controller Module (RPCM) from CTC-2, which is next to MUSES on ELC-4, to a spare RPCM slot on S0 (pre-staging spare to simplify future RPCM R&R if needed).  MUSES is a FRAM-based platform which can host up to four Earth-sensing payloads.  MUSES launched on SpX-11 & installed on ELC-4 without any Hosted Payloads. Hosted Payloads flown internally & transferred to/from MUSES by SPDM via JEM Airlock.
+Japanese Experiment Module Remote Manipulator System (JEMRMS) Small Fine Arm (SFA) Backup Drive System (BDS) Install and Checkout: The crew installed the new SFA BDS and re-configured JEMRMS cabling to perform a checkout of the unit. This new BDS provides backup commanding capability to the SFA and, coupled with the already installed JEMRMS BDS, allows operators to safely operate the entire JEMRMS system if the primary command console fails. Following the checkout, the crew reconfigured the JEMRMS system for nominal operations. 
+Emergency Mask Review On Board Training (OBT): The entire 55S crew reviewed and practiced the Emergency Mask donning and purging technique using training masks. The crew regularly completes OBT sessions to refresh their familiarity with the various emergency procedures that can result from off-nominal events onboard ISS.  
+WHC Waste and Hygiene Compartment (WHC) Piping Remove and Replace (R&R): The crew replaced the WHC piping between the Pump Separator and the Dose Pump. Scheduled every 180 days, this routine preventive maintenance activity ensures proper operation of WHC and minimizes the probability of a leak within the system.
+Completed Task List Activities:
+
+Food Relocation Part 4 [Completed GMT 230]
+
+Ground Activities:
+All activities were completed unless otherwise noted.
+
+
+Lab MCA Zero Calibration
+MSS Ops: MUSES Prep and RPCM Relocate
+
+Two-Day Look Ahead:
+Wednesday, 08/22:
+Payloads
+
+Atomization syringe install
+Photography of Bioserve Protein Crystallography (BPC)-1 samples
+Photos of CASIS Protein Crystal Growth (PCG) 13 samples with microscope
+WetLab-2 Parra session
+Lighting Effects visual performance test
+Biomolecule Extraction and Sequencing Technology (BEST) swabs
+Exercise session for SpaceTex-2 and Metabolic Space data collection
+
+Systems
+
+69P Undock [GMT 235/02:16]
+JPM1A5 Ground Strap install in preparation for HTV-7
+JPM1F5 Rack cleanout in preparation for new payloads arriving on HTV-7
+EVA Biomed pigtail connector inspection 
+
+Thursday, 08/23:
+Payloads
+
+ER5 subsystem valve R&R, which requires Plant Habitat Disassembly
+Fill new set of wells in PCG-13 card
+Photography of Bioserve Protein Crystallography (BPC)-1 samples
+Sextant Navigation session
+ESA’s Time Perception in Microgravity session 
+
+Systems
+
+Columbus module spare IMV Supply Fan Assembly (ISFA) checkout
+
+Today’s Planned Activities:
+All activities were completed unless otherwise noted.
+
+
+Hematocrit Test
+Hematocrit Test. Hardware Stowage
+Auxiliary Computer System [ВКС] Laptops Antivirus Software Checkout and Report
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Set Up
+PL Cntl Box (S/N 001) Disconnection from USB to 1553 Adapter
+COSMOCARD. Closeout Ops.
+PL Cntl Box (S/N 001) Relocation to MSPR2
+JEM LAN Monitor Closeout
+PMM1P3 Rack Bay Audit
+RADIOSKAF. Deactivation of Repeater Mode. Replacement of Kenwood D700 with Kenwood D710.
+Photo/TV Camcorder Setup Verification
+Ultrasound 2 HRF Rack 1 Power On
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Health Maintenance System (HMS) Ultrasound 2 Scan
+JEM BDS SFA I/F BOX INSTALLATION
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Power Up
+Photo/TV Camcorder Setup Verification
+Post-EVA SM ПхО and DC1 Reconfig Back To Nominal
+Station Support Computer 21 TouchPad Troubleshooting
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+Crew relocates hardware per the message
+Formaldehyde Monitoring Kit (FMK) Deployment Operations
+Grab Sample Container (GSC) Sampling Operations
+Biomolecule Extraction and Sequencing Technology (BEST) Swabbing Operations
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+Wet Lab-2 Procedure Review
+Biomolecule Extraction and Sequencing Technology (BEST) MELFI Sample Insertion into a Box Module
+Wireless Componse Anchor Mote Battery Exchange
+Binary Colloidal Alloy Test – Cohesive Sedimentation Camera Activities
+In Flight Maintenance (IFM) Waste Hygiene Compartment (WHC) Piping R&R
+Rodent Research Node 2 Camcorder Video Setup
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+Rodent Research 7 Camera Cleaning
+Post-EVA SM ПхО and DC1 reconfig to nominal
+Routine maintenance of air pressure [КН], H2O [КВ] and drainage [КД] Valves in SM Rodnik Tanks
+СОЖ maintenance
+PILOT-T. Experiment Ops.
+Filling (separation) of ЕДВ [КОВ] for Elektron-VM or ЕДВ-СВ
+Cleanup of the Sensor Array Experiment Equipment
+PAO Preparation
+Microscope Reposition Preparation
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Waste and Hygiene Compartment (WHC) Full Fill
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Wastewater Storage Tank Assembly (WSTA) Fill
+BioServe Protein Crystallography Microscope Phase 2 Operations
+Food Relocate Part 3
+URISYS Hardware Setup
+Virtual Reality Training (VRT) Extravehicular Activity (EVA) Simplified Aid for EVA Rescue (SAFER)
+PFS Gas Delivery System Portable PFS Photography
+CONTENT. Experiment Ops
+Integrated Emergency Procedure Review
+Tropical Cyclone Untended Operations
+Countermeasures System (CMS) Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Conclude
+Microscope Reposition Post Ops
+
+ 

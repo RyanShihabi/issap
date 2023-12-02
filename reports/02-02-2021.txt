@@ -1,0 +1,21 @@
+
+Payloads
+Cell Biology Experiment Facility-L (CBEF-L): The crew connected video, power and data cables to the Cell Biology Experiment Facility (CBEF) Control Equipment (CE). CBEF-L is a Japan Aerospace Exploration Agency (JAXA) new subrack facility, which is an upgraded facility of the original Cell Biology Experiment Facility (CBEF) currently aboard the International Space Station (ISS). CBEF-L provides new capabilities with additional new resources such as Full High Definition video interface, Ethernet, 24 VDC power supply, and a larger diameter centrifugal test environment. By using the original CBEF and CBEF-L as one facility for the same experiment, the payload user is provided with an upgraded experimental environment that can handle the processing of more experimental samples for a wider array of experiments.
+Veg-03: The crew harvested plants from the VEG-03J plants and stowed them for science return and then used the harvested VEG-03I plants for taste sampling and consumption. Photos of harvested plants were downlinked to the Science teams. Organisms grow differently in space, from single-celled bacteria to plants and humans. But future long-duration space missions will require crew members to grow their own food, so understanding how plants respond to microgravity is an important step toward that goal. Veg-03 uses the Veggie plant growth facility to cultivate Extra Dwarf Pak Choi, Amara Mustard and Red Romaine Lettuce using Seed Film which are harvested on-orbit with samples returned to Earth for testing.
+Airborne Particulate Monitor (APM): The crew re-oriented the Airborne Particulate Monitor in at the NOD3A3 location so that the inlet pointing Zenith is now pointing Nadir. Air quality in crewed spacecraft is important for keeping astronauts healthy and comfortable. Although requirements exist for maximum allowable concentrations of particulate matter, currently no measurement capability verifies whether these requirements are met. The Airborne Particulate Monitor (APM) demonstrates an instrument for measuring and quantifying the concentration of both small and large particles in spacecraft air. The data can be used to create a map of air quality in terms of particles and shed light on the sources of such particles.
+Astrobee: The crew performed repair tasks of the Astrobee Docking Station Assembly which included swapping out a suspected memory card. Astrobee is made up of three free-flying, cube-shaped robots which are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores, and give ground controllers additional eyes and ears on the space station. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+Systems
+Post-Extravehicular Activity (EVA) Activities: The crew completed multiple post-EVA activities after yesterday’s successful ISS upgrades II EVA. Their activities included a post-EVA debrief conference with the EVA ground teams, an Extravehicular Activity Mobility Unit (EMU) swap and EMU battery charge. The crew also performed water recharges on EMUs 3006 and 3009; the recharges ensure there is a full supply of fresh cooling water to each EMU suit. Additionally, the crew performed a Full Water Tank dump and fill to purge gas buildup in the EMU Water Tanks.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Atmospheric Control and Supply Nitrogen Repress
+PRO CIR Activation Commanding
+Mobile Servicing System (MSS) Maneuver
+Mobile Transporter (MT) Translation
+Atmosphere Revitalization System (ARS) Thermal Amine Scrubber (TAS) Troubleshooting
+

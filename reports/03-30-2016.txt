@@ -1,0 +1,93 @@
+
+61 Progress (61P) Undock: 61P undocked from the Service Module (SM) aft port today at 9:14 AM CDT. The deorbit burn is scheduled for Friday, April 8 at 8:30AM CDT following a non-ISS related, free-flight experiment planned for April 3-7.
+Fine Motor Skills:  Kopra, Peake, and Williams each completed a session of the Fine Motor Skills experiment when they performed a series of interactive tasks on a touchscreen tablet. Williams took documentary photos of crewmembers positioned in front of the iPad performing the Fine Motor Skills test before transferring and downlinking the photos. This investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth’s gravity. 
+Sprint Ultrasound 2 Operations: Kopra performed the Sprint VO2 Portable PFS hardware setup including power, data, front panel, and gas connections from a temporary stow deployed position. Williams connected the Video Power Converter to a Human Research Facility (HRF) Rack and powered on the Ultrasound 2. Sprint VO2 is a test that measures oxygen uptake, ventilatory threshold, and other physiological parameters for evaluation of Sprint exercise prescription.  It uses the Portable Pulmonary Function System (PFS), CEVIS, PFS Gas Cylinders, Mixing Bag System (MBS), and multiple other pieces of hardware. Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume.
+NanoRacks Module-48 Imagery: Williams took videos and photos of the NanoRacks Module-48 and its contents. NanoRacks Module-48 is a collection of educational materials from Japan Manned Space System (JAMSS) including promotional/printed materials, seeds, and photographs put together by students. Williams will take pictures of the photos to document their presence on orbit. Some of the material will be trashed, however, the seeds will be round tripped and used for educational outreach.
+Cardio Ox: Williams, with Peake as the operator, performed Cardio Ox ultrasound session. Williams attached the Electrocardiogram (ECG) Electrodes, marked the arteries, and performed ultrasound scanning with operator assistance and remote guidance from ground teams. The goal of Cardio Ox is to determine whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis risk in astronauts.
+Dose Tracker: Peake, Williams, and Kopra configured the Dose Tracker application and completed entries for medication tracking. This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight.
+Japanese Experiment Module (JEM) Exposed Facility Unit (EFU) Adapter, Global Positioning System (GPS)/Wheel Demo Unit Preps: Williams installed the high rate data link to the Ethernet converter for the EFU Adapter.  Peake depressurized the JEM Airlock (JEMAL), performed a leak check and confirmed JEMAL venting. Japan Aerospace Exploration Agency’s (JAXA’s) EFU Adapter is a new type of JEM exposed facility platform used as an interface between JEM EFU and up to 2 payloads.
+Cycle Ergometer with Vibration Isolation & Stabilization (CEVIS) Maintenance: Kopra completed this yearly scheduled maintenance to apply Braycote to the forward frame guide pins and mounting block bushings. This activity is scheduled to ensure that CEVIS can be rotated to the stowed position. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Initiate drain from the Environmental Control and Life Support System (ECLSS) Recycle Tank
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start) r/g 1595
+CARDOX – Material Review
+RGN – Initiate drain into EDV
+ELECTRONIC NOSE. Experiment Ops / r/g 1804
+ENERGY Experiment Conference
+MOTOCARD. Hardware check.  r/g 1806
+Fine Motor Skills – Experiment Ops
+FINEMOTR – Photography
+ENERGY – Hardware Gathering
+DOSETRK – Data Export
+On-orbit hearing assessment using EARQ
+WRS Water Sample Analysis
+Soyuz 720 Samsung Tablet Recharge – initiate
+USND2 – Hardware Activation
+JEMAL – Depress and Vent
+Crew time for ISS adaptation and orientation
+TORU OBT
+CARDOX – Setup Ops
+Fine Motor Skills – Test
+CARDOX – Scanning
+CARDOX – Battery Installation
+24-hour ECG Monitoring (start) / r/g 1798
+CARDOX – Measurement Ops
+Preparation to remove failed ЗУ1Б and replace with ЗУ1А / r/g 1801
+Checkout of Compound Specific Analyzer-Combustion (CSA-CP)
+CARDOX – Equipment removal
+Photo/TV Camcorder Setup Verification
+Making assessment whether Power Switching Unit БСК-1#10Ю=А457 can be replaced r/g 1800
+24-hour BP Monitoring (start)
+Soyuz 720 Samsung tablet charge – end
+MAR – Hard Drive Installation into EPM laptop
+Closing window 6,8,9,12,13,14 shutters / r/g 6965
+Common Gas Supply Equipment (CGSE) Gas Bottle Unit CO2 R&R
+Photo/TV Camcorder Setup Verification
+USND2 – Hardware Deactivation
+TOCA – TOCA Analyzer Data Recording
+Installation of EFU adapter HRDL to Ethernet adapter
+Closing USOS Window Shutters
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (end) and start file compression r/g 1595
+JEMAL – Verifying depressurization complete
+WRS – Recycle Tank Fill from EDV
+JEM Airlock Depressurization and Vent Confirmation
+Health Maintenance System (HMS) – ISS Medical Accessories Kit (IMAK) Unpack 
+СОЖ Maintenance
+Crew time for ISS adaptation and orientation
+Preparation and Photography of Progress 429 Docking Assembly from SM Window No.26 during undocking from SM Aft / r/g 1803
+INTERACTION-2. Experiment Ops r/g 1805
+Switch ПрК-ТК PEV to CLOSED position
+MAR – EPM Rack Hard Drive Installation
+ISS Safety Video
+Soyuz 719 Samsung Tablet Recharge – Initiate
+Complete the Dose Tracker application – Subject
+ALGOMETRIA. Experiment Ops / r/g 1808
+PAO Hardware Setup
+Crew Prep for PAO / r/g 1797
+TV Conference with NTV Channel Correspondent / r/g 1797
+Soyuz 719 Samsung Tablet Recharge – terminate
+Monthly Inspection of T2 Treadmill System
+CEVIS Monthly Maintenance
+Photo/TV Camcorder Setup Verification
+NANO – Photo/Video
+SPRINT – Hardware Setup
+Video Footage of Greetings / r/g 1807
+HRF2 – Supply Kit Inventory
+DOSETRK – Questionnaire
+Search for ODF “Ascent & Descent” in  Soyuz 720 ЗСП recess and report results to MCC
+INTERACTION-2. Experiment Ops / r/g 1802
+ISS HAM Radio Power Up
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+61P undock
+JEMAL depress, leak check, venting
+Nominal ground commanding
+

@@ -1,0 +1,61 @@
+
+Extravehicular Activity (EVA) Preparation:  Today the crew performed final preparation for EMU EVA #39 (Channel 1A Battery R&R). Hatch open is scheduled tomorrow, Friday January 6th at 12:10 GMT (6:10 CST). Earlier today the crew completed the pre-EVA health status exams, final EVA tool configuration and procedure reviews.  Ground specialists and the crewmembers participated in a conference to discuss any final questions.  Finally, the crew prepared the Equipment lock for the EVA. 
+Mobile Servicing System (MSS) Operations:  Robotics Ground Controllers completed all battery moves in preparation for Friday’s EVA. Last night, the Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) Body and Arm2 as required to stow the Robotic Offset Tool (ROST) in the SPDM Tool Holder Assembly (THA).  They then maneuvered the SSRMS and SPDM Body and Arm2 as required to remove the Nickel-Hydrogen (NiH2) battery from slot 2 on the 1A Integrated Electronics Assembly (IEA).  Finally the Robotics Ground Controllers maneuvered the SSRMS and SPDM to a park position.  Currently SPDM is holding three NiH2 batteries (one on each arm plus another on Enhanced ORU Temporary Platform). These batteries will be moved to the EP post-EVA. Due to some issues encountered yesterday with SPDM’s ROST tool, ground teams were unable to secure the H1 bolts on the Li-Ion batteries in slot 1 and 5, so the EV crewmembers will be picking that up as an EVA task, similar to what we did in last week’s EVA.
+Microgravity Science Glovebox (MSG) Laptop Hard Drive Replacement: Today the crew replaced the MSG hard drive and successfully completed the software installation. On GMT 009 the MSG laptop that supports the Packed Bed Reactor Experiment (PBRE) lost communication. Over the last few days the crew checked the cables, rebooted the laptop, and reset the hard drive before declaring it failed and replacing the hard drive. The MSG is fully operational and there was no loss of science or data to the PBRE. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Biochemical urine test, Sample collection
+Biochemical urine test, Sample Measurements
+Biochemical urine test, Closeout Ops
+KORREKTSIYA. NEUROIMMUNITET. Collection of Blood Samples
+KORREKTSIYA. NEUROIMMUNITET. Venous blood sample processing using Plasma-03 centrifuge
+Insertion of Russian experiments blood samples into MELFI
+KORREKTSIYA. NEUROIMMUNITET. Handover to USOS for MELFI Insertion
+Periodic Health Status (PHS) Pre EVA Examination Setup
+RELAKSATSIYA Hardware Setup
+Periodic Health Status (PHS) Pre EVA Examination
+Photograph Ceres, then stow Ceres and Cataliss.
+Pre-EVA Periodic Health Status Examination – Stow
+Extravehicular Activity (EVA) Tool Configuring
+RELAKSATSIYA. Parameter Settings Adjustment.
+PELLE Data Download & placement before EVA
+СОЖ maintenance
+RELAKSATSIYA. Observation. 
+Extravehicular Activity (EVA) Tool Audit.
+RELAKSATSIYA. Closeout Ops and Hardware Removal.
+Maintenance activation of Atmosphere Purification System Emergency Vacuum Valves [АВК СОА] from the Sparest Kit (004173R, СМ1РО_3_321_1, white bag II-1/256-1, enclosure for [АВК] (007223R)
+Extravehicular Activity (EVA) Procedure Review
+Extravehicular Activity (EVA) Procedure Conference
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Deactivation
+ISS HAM Service Module Pass
+Extravehicular Activity (EVA) iPad Contingency Procedures preparation
+Space Headaches – Weekly Questionnaire
+Audit of FGB interior panel latches
+Exchange Hard Drive for MSG Laptop computer
+Audit of cables in space behind SM panels 228 and 229А.
+Equipment Lock (E-LK) Preparation
+Station Support Computer (SSC) 6 and 17 Reload Preparation
+MSG MLC Software Load
+Initiate water transfer from CWC-I to ЕДВ
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ)  Detachable Screens 1, 2, 3
+Terminate water transfer from CWC-I to ЕДВ
+INTERACTION-2. Experiment Ops
+Replacing filters in FGB ПС1, ПС2 Dust Collectors (ФГБ1ПГО_4_419_1, bag 429-21 (00068135R)). Discard de-installed items. Reflect changes in IMS
+Delta file prep
+RELAKSATSIYA. Charging battery for Relaksatstiya experiment (initiate)
+
+Completed Task List Items
+
+Node 3 Axial Shield Bundle Build
+EVA Tool Configuration
+Manufacturing Device Print Removal, Clean and Stow
+Biomolecule Sequencer Sample Stop
+Payload NAS Reboot
+Strange Tool Bag Stowage Reconfiguration 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+HTV heater error troubleshooting 
+

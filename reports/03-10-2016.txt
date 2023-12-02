@@ -1,0 +1,65 @@
+
+Combustion Integrated Rack (CIR) Alignment Guide Removal: Kopra removed the Alignment Guides from CIR to unlock PaRIS before the beginning of CIR operations that require a microgravity environment. CIR provides sustained, systematic microgravity combustion research and it houses hardware capable of performing combustion experiments to further research of combustion in microgravity.
+ 
+Multi-Omics Saliva Operations: Peake completed the Japan Aerospace Exploration Agency (JAXA) Multi-Omics investigation by collecting saliva samples and inserting the samples into a Box Module within a MELFI (Minus Eight-degree Freezer for ISS) Rack. The Multi-Omics analysis of human microbial-metabolic cross-talk in the investigation evaluates the impacts of space environment and prebiotics on astronauts’ immune function, by combining the data obtained from the measurements of changes in the gut microbiological composition, metabolites profiles, and the immune system.
+ 
+Habitability Human Factors Directed Observations: Peake viewed videos to learn about the different sessions of the Habitability experiment. The investigation collects observations about the relationship between crew members and their environment on the ISS. Observations can help spacecraft designers understand how much habitable volume is required and whether a mission’s duration impacts how much space crew members need.
+ 
+Waste and Hygiene Compartment (WHC): Last Friday, the crew completed a pre-treat tank Remove & Replace (R&R) without the Pre-Treat Bad Qual Light (PTBQL) illuminating. Illumination is expected when water in the EK hose passes through the piping where the PTBQL sensor is located. Ground teams believe this was an indication of a bad PTBQ sensor and recommended R&Ring the following 3 items: the piping (which includes the PTBQ sensor), the dose pump, and the EK hose.  The dose pump was at the end of its expected 6 month life.  The EK hose would serve to verify that the PTBQ sensor and light are both working. Kopra R&Rd these components today with no issues. The PTBQL illuminated as expected, then cleared with dosing as expected and the crew then configured WHC to UPA.
+Common Communications For Visiting Vehicles (C2V2): Peake, with assistance from Kopra, continued C2V2 installation which began on Monday. Peake completed coldplate installation, Internal Thermal Control System (ITCS) umbilical re-routing and temperature sensor installation. The comm unit installation is scheduled for tomorrow.  C2V2 will  integrate a communications system for the ISS to be used specifically for communicating with future visiting vehicles. This system will utilize both an S-Band based Radio Frequency (RF) system, and hard-line connections to visiting vehicles so secure, reliable communications will be available for all phases of rendezvous, docking, and mated operations. The system will consist of elements that will be permanently installed on the ISS as well as a corresponding element that will be made available to visiting vehicles.
+ 
+Remote Power Controller Module (RPCM) LAP51A4A-A R&R: This RPCM experienced a FET Controller Hybrid (FCH) failure on RPC 2 in September of 2012 and RPC 18 in March of 2014. Four different spare RPCMs were installed in the LAP51A4A-A location. None would communicate with the Multiplexer/De-multiplexer (MDM) on either channel, however, each worked nominally in other locations on ISS. The original RPCM was reinstalled and has continued to communicate in this LAP51A4A-A location.  Both FCH failures have since self-healed. A failed RT Address connection in the rack is the most likely cause of the prior inability to communicate with the four spare RPCMs.Today the crew installed a unique RPCM with a pre-installed RT Address Jumper in the LAP51A4A-A location.The R&R was completed with no issues followed by the ground performing a successful refresh of the RPCM.
+Mobile Servicing System (MSS) Operations: Yesterday Robotic Ground Controllers powered up the MSS and maneuvered Special Purpose Dexterous Manipulator (SPDM) Arm2 into position to grasp the Robotic Offset Tool (ROST).  Over the course of last evening, the ROST was released from its tool holster and checked out in free space.  After the successful checkout, the tool was re-stowed.  These operations used the updated recon files from Canadian Space Agency (CSA) that modified the expected size of the grasp fixture. Operations were nominal throughout.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Multi Omics (MO) – Saliva Sample Collection
+Multi Omics (MO) – Sample Insertion into MELFI
+Multi Omics (MO) – Equipment Stowage
+Multi Omics (MO) – Questionnaire Completion
+Prep for SW Updates on RS1, RS2, RS3, REMOTE RS r/g 1634
+PCS Powerdown
+Common Communications Equipment for Visiting Vehicles (C2V2) Mod Kit Installation in Lab
+Water Separation in EDV using Separation Unit (УС).  Tagup with specialists as necessary / r/g 1638
+Replacement of АСУ components / r/g 1637
+Assistance with Installation of Common Communications Equipment for Visiting Vehicles (C2V2) Mod Kit in Lab
+Psychological Evaluation Program (WinSCAT)
+WHC maintenance
+T2 Monthly Inspection
+Replacement of urine receptacle (МП) and filter-insert (Ф-В) in the toilet [АСУ] / SM r/g 1637
+Post-Replacement АСУ Activation
+CIR – Equipment Removal
+WRS – Recycle Tank Fill from EDV
+СОЖ Maintenance r/g 1633
+EXPRESS Rack 4 Drawer Recovery
+Verification of ИП-1 Flow Sensor Position
+COSMOCARD. Closeout Ops / r/g 1611
+Ultrasound 2 HRF Rack 1 Power On
+VIZIR. Experiment Ops with Photo Image Coordinate Reference System (СКПФ-У) Hardware / r/g 1639
+RPCM R&R and Installation of UOP behind LAB1P5 Rack
+IMS Delta File Prep
+HABIT – Data Recording to iPad
+Physical Fitness Evaluation (on the treadmill)  r/g 1636
+Ultrasound 2 HRF Rack 1 Power Off
+WRS – Recycle Tank Fill from EDV
+SSC21 – Hard Drive Swap
+Post-Exercise Hygiene Procedure
+IMS Conference
+CONTENT. Experiment Ops / r/g 1635
+Health Maintenance System (HMS) – Nutritional Assessment (ESA)
+HAM radio session from Columbus
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal ground commanding
+WHC maintenance support
+
+ 

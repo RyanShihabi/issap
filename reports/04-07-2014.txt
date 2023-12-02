@@ -1,0 +1,120 @@
+
+54 Progress (54P) Undock: 54P successfully undocked from the ISS at 8:58am CDT. Progress will remain in orbit for the non-ISS-related “Radar-Progress” experiment April 13-18. Deorbit is planned for April 18 at 9:52am CDT.
+SpaceX-3 Preparations: In preparation for SpaceX (SpX)-3 arrival, Commander (CDR) Wakata and Flight Engineer (FE)-5 Mastracchio  performed Dragon Robot 3 Onboard Training today. The purpose of this training is to complete 2 Capture Point (CP) hold runs which allows the crew to practice free drift timing/malfunction/nominal rate approaches. Mastracchio also powered up and performed checkout of the Commercial Orbital Transportation Services Ultra High Frequency Communication Unit (CUCU).  SpX-3 berthing is scheduled for April 16, 2014.
+Columbus (COL) High Definition Encoder:  Today, Mastracchio installed a PS-120 junction box, AC inverter, and 16-port ethernet switch in the Columbus module. This task was in preparation for tomorrow’s installation of a high definition encoder and camcorder which will enable downlink of high definition video from the module.
+Salivary Markers: FE-3 Swanson completed his Flight Day (FD) 10 Salivary Markers sample collections over the weekend. The samples included saliva and urine samples. These samples will be used to measure markers of latent viral reactivation (a global indicator of immune impairment and infection risk) in conjunction with salivary antimicrobial proteins and immune cell functional assays. This research study will help identify if there are any risks of an adverse health event in crewmembers due to an impaired immune system. Maintaining a robust immune system during prolonged spaceflight missions (i.e., to other planets or asteroids) will be important to ensure mission success. If any impairment in immunity is found due to spaceflight, this will allow the development of appropriate countermeasures to help mitigate the risks.
+Circadian Rhythms: Over the weekend, Wakata donned the Circadian Rhythms hardware to start a 36 hour data take. This morning he terminated the data collection and removed the Circadian Rhythms equipment. The objective of the experiment is to get a better basic understanding of any alterations in circadian rhythms in humans during long-term space flights. The data will provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts, as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+Biochemical Profile: Swanson collected his FD 15 Biochemical Profile blood and urine samples. The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Sprint Ultrasound: With assistance from Wakata, Swanson took Sprint ultrasound data for his FD 14 ultrasound Sprint session. Then with the help of Mastracchio, Wakata completed his Flight Day 150 Sprint ultrasound session. Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in International Space Station (ISS) crewmembers during long-duration missions. Ultrasound scans are on FD 14, 30, 60, 90, 120, 150, and Return-7 for mission duration of six months and are used to evaluate spaceflight-induced changes in the muscle volume.
+Ocular Health: Swanson conducted his FD 10 Ocular Health vision test with Wakata as operator, using the tonometer to collect eye pressure measurements. Tomorrow, retinal images will be collected using the fundoscope. The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Binary Colloidal Alloy Test (BCAT)-Low Gravity Phase Kinetics Platform (KP) Sample Installation: Mastracchio transferred BCAT-KP images from the camera to a Station Support Computer (SSC) for downlink to the ground, completing this round of BCAT-KP samples. More samples will be processed after the SpX-3 mission. BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties. The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses.
+Today’s Planned Tasks
+
+Circadian Rhythms Experiment Constraints Reminder [Complete]
+Laptop RS1(2) Reboot / Onboard Computer System (БВС), [Complete]
+SM ПСС (Caution & Warning Panel) Test / Manual Controls [РСУ], [Complete]
+KHROMATOMASS. Experiment setup. r/g 5257 [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete]
+ARED Exercise Photography Reminder [Complete]
+HRF Urine Sample Collection [Complete]
+REMINDER – Reading Reminder [Complete]
+CHROMATOMASS. Saliva and Blood Collection / r/g 5257 [Complete]
+HRF – Blood Sample MELFI Insertion [Complete]
+HRF-F/BLD – Frozen Blood Collection Operations [Complete]
+HRF Blood Draw [Complete]
+ARED Exercise Photography Reminder [Complete]
+REMINDER – Crew reminder about the experiment procedure [Complete]
+HRF – Centrifuge Configuration [Complete]
+ISS HAM – Radio Deactivation [Complete]
+Daily Planning Conference (S-band) . [Complete]
+HRF – Crew removes blood tubes and powers off the Refrigerated Centrifuge. [Complete]
+CIRCADIAN RHYTHMS – Removal [Complete]
+Set up video equipment to record ARED exercise [Complete]
+HRF – Urine Sample Insertion Into MELFI [Complete]
+HMS Visual Testing Activity [Complete]
+Crew PAO prep / r/g 5263 [Complete]
+VIRU. Software Upgrade. r/g 5259  [Complete]
+VIRU. Relaksatsiya Experiment Ops. r/g 5269 [Complete]
+Audio/Video Conference with Retro FM Radio Station Hosts. r/g 5263 [Complete]
+FGB Dust Collector ПС1, ПС2 Filter Replacement [Complete]
+Demate/mate ТВМ2 (А12) J03 connector. Tagup with specialists / r/g 5268 [Complete]
+Health Maintenance System (HMS) – Vision Questionnaire [Complete]
+Blood Pressure Operations [Complete]
+OH-BP – Blood Pressure Operations (assistance) [Complete]
+Ocular Health (OH). Tonometry Test  Setup [Complete]
+Photo/TV Camcorder Setup Verification [Complete]
+Ocular Health (OH). Tonometry Test – СМО [Complete]
+СОЖ Maintenance [Complete]
+Ocular Health (OH). Tonometry Test – Subject [Complete]
+WRM – condensate transfer initiation [Complete]
+Ocular Health (OH). Tonometry Test – Equipment Stowage [Complete]
+USND2 – Hardware activation [Complete]
+SPRINT. Ultrasound Ops [Complete]
+Exercise data downlink / r/g 2639 [Complete]
+USOS Window Shutter Close [Complete]
+SPRINT-GUIDE – Assistance with placing reference marks [Complete]
+WRM – condensate transfer termination [Complete]
+CONSTANTA. Prep and Execute Session 2 Run.  r/g 5254 [Aborted]
+VIRU. Fill out and Downlink VIRU Log Sheet / r/g 5269 [Complete]
+OBT – Dragon rendezvous and berthing procedure review [Complete]
+MPEG2 PAO Hardware Setup in SM / r/g 5260 [Complete]
+Closing SM Window Shutters 6, 8, 9, 12, 13, 14 / r/g 5265 [Complete]
+Crew Prep for PAO [Complete]
+ROBoT OBT debrief [Complete]
+TV Conference with Schoolchildren from Kazan School No. 35 r/g 5270, 5260 [Complete]
+WinSCAT psychological evaluation program [Aborted]
+HRF Urine Sample Collection [Aborted]
+HRF – Blood Sample MELFI Insertion [Aborted]
+Crew time for ISS adaptation and orientation [Complete]
+Preparation for and Photography of ТКГ 422 docking Assembly from RS window No. 7 during the undocking from the ISS / r/g 5267 [Complete]
+CHROMATOMASS. Closeout Ops / r/g 5257 [Complete]
+HRF – Stow Urine Collection Equipment [Complete]
+Connection plan: Columbus hardware deployment [Complete]
+NAPOR-miniRSA. Installation of ТВМ1-Н (0303) [Complete]
+HRF Blood Collection Hardware Stowage [Complete]
+MRM1 Fan Screen Cleaning (Group B) / Thermal Mode Control System [СОТР], [Complete]
+On MCC Go Reset СО-ТК PEV to CLOSED position [Complete]
+TORU OBT. r/g 5262 [Complete]
+Photo/TV Camcorder Setup Verification [Complete]
+SPRINT. Ultrasound ops [Complete]
+Journal entry [Complete]
+SPRINT-GUIDE – assistance in marking [Complete]
+CDRA – Component Bed Removal [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+JSL – 16-port Ethernet switch deployment [Complete]
+Photo/TV Camcorder Setup Verification [Complete]
+USND2 – Ultrasound 2 Hardware Power Off [Complete]
+Photo/TV Camcorder Setup Verification [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+BCAT – Transfer of images from the camera [Complete]
+CUCU checkout [Complete]
+CUCU – CCP stow [Complete]
+WHC fill [Complete]
+SSC11 transition to hardwired connection [Complete]
+ISERV – Window Shutter Open [Complete]
+Daily Planning Conference (S-band) [Complete]
+Stow Equipment after ARED Exercise Video Recording [Complete]
+
+Task List
+
+ARED cylinder flywheel reconfig [Completed Sat.]
+CDRA process review [Completed Sat.]
+COL camera labeling [Completed Sat.]
+MSPR AL tape replace [Completed Sat.]
+EMU swap [Completed Sun.]
+IMS food audit [Completed Sun.]
+Lab1P1 J7 cap [Completed Sun.]
+NORS prep A/L reconfig [Completed Sun.]
+P/TV D2XS Date/Time [Completed Sun.]
+WHC KTO replace [Completed Sun.]
+CMS ARED cylinder evac
+Dragon Robot self study [In work]
+IMS edit
+Roscosmos Report
+Uragan photo 
+
+Ground
+
+Nominal commanding [Complete]
+

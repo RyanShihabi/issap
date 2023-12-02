@@ -1,0 +1,183 @@
+
+H-II Transfer Vehicle (HTV)-8 Capture and Berthing: HTV-8 launched on September 24 and was successfully captured on Saturday at 6:11 AM CT. Berthing occurred approximately 2 hours later and the crew ingressed the vehicle at 2:30 PM CT. The vehicle delivered approximately four tons of supplies, parts, and experiment hardware.
+H-II Transfer Vehicle (HTV)-8 Berth Operations: Today, the crew completed the HTV8 cargo ops overview training.  In addition, the crew completed the HTV emergency procedure review in support of HTV8 berth operations.
+Extravehicular Activity (EVA) Preparations: The crew performed the following in preparation for the first P6 Battery EVA currently scheduled for October 6.
+
+Configured the Dynamic Onboard Ubiquitous Graphics (DOUG) software to display real time Space Station Remote Manipulator System (SSRMS) joint angle telemetry. DOUG was then configured without real time SSRMS joint angle telemetry.
+Rechargeable EVA Battery Assembly (REBA) powered hardware checkout for glove heaters and EMU TV.
+
+Mobile Servicing System (MSS) Ops: Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and released the External Pallet 7 (EP7) from the Payload & ORU Accommodation (POA). The Space Station Remote Manipulator System (SSRMS) maneuvered the EP7 and handed it off to the Japan Experiment Module – Remote Manipulator System (JEM-RMS). Then, the SSRMS maneuvered to the EP8, grappled it and extracted it from the HTV-8 Unpressurized Logistics Carrier (ULC). The SSRMS maneuvered the EP8 and handed it off to the POA. The SSRMS maneuvered away from the EP8 to a park position and the MSS was powered down.
+Saturday (28-September) Payload summary:
+ESA EPO:  The crew completed recording massages from the UAE crewmember.  The activities related to this project are intended to encourage and strengthen the teaching of science curriculum, and through this, stimulate the curiosity of students and motivate them towards further study of STEM (Science, Technology, Engineering and Mathematics) subjects.
+Fluidics:  The crew continued the series of Fluidics experiments by performing run 2 and run 3.  The measurement of liquid displacement within a sphere in microgravity relates to a given kinematic representation of a spacecraft’s fuel tank. The FLUIDICS investigation evaluates the Center of Mass (CoM) position regarding a temperature gradient on a representation of a fuel tank. The observation of capillary wave turbulence on the surface of a fluid layer in a low-gravity environment can provide insights into measuring the existing volume in a sphere.
+Microgravity Crystals: The crew performed the final observation for the Microgravity Crystals group B samples.  The activities involve the removal of the Microgravity Crystals samples from Space Automated Bioproduct Laboratory (SABL), observation and photography of the sample wells using the microscope, and then returning the samples to SABL.  The Saturday observations marked day 28, the final day, for these group B samples.  The Microgravity Crystals investigation crystallizes a membrane protein that is integral to tumor growth and cancer survival. Although crystallization of this protein has yielded unsatisfactory results on Earth, this investigation leverages extensive protein crystallization work on the space station, significantly increasing the likelihood of successful crystal growth. Results may support development of cancer treatments that target the protein more effectively and with fewer side effects.
+PCG-19:  The crew performed the appropriate sample retrievals and insertions to and from MELFI and various incubators in support of the PCG-19 experiment.  The Monoclonal Antibody Stability in Microgravity-Formulation Study (CASIS PCG 19) examines the stability of monoclonal antibody formulations in microgravity. These formulations degrade over time and sometimes must be discarded, increasing cost and limiting the parts of the world where patients can benefit from them. Storing formulations in microgravity may reveal processes that lead to degradation and, ultimately, to methods for slowing it down.
+The ISS Experience: The crew performed a log recording event in the NODE 2 area.  Topics discussed in the recording included the launch experience, impressions when looking back at the Earth from ISS, adaptation for mind and body to the microgravity environment, etc.  The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses.
+Time Perception/SFP VC: Using a head-mounted Oculus Rift display/headphones, a finger trackball, and support computer, the crew performed the Time Perception experiment sessions.  In this experiment, a program on the laptop induces visual and audio stimuli to measure a subject’s response to spatial and time perception in a microgravity environment. The accurate perception of objects in the environment is a prerequisite for spatial orientation and reliable performance of motor tasks. Time is fundamental to motion perception, sound localization, speech, and fine motor coordination.
+Monday (30-September) payload summary:
+Advanced Nano Step:  The crew removed the FACET cell, and then inserted the Nano Step Cartridge with Nano Step Specimen Cell and Nano Step Circuit Box into the SCOF (Solution Crystallization Observation Facility).  This begins the 35-day crystal growth experiment run, which is expected to return on SpX-19.  Advanced Nano Step, more formally known as Effects of Impurities on Perfection of Protein Crystals, Partition Functions, and Growth Mechanisms, monitors and records how the incorporation of specific impurity molecules affect the development and quality of protein crystals.  The crystals grown on the ISS are returned to Earth, and characterized using synchrotron X-ray diffraction.  The investigation seeks to improve on the quality and success rate of crystals grown in microgravity.
+BEST (Biomolecule Extraction and Sequencing Technology) sample transfer:  The crew performed the routine cell maintenance activities for the on-going BEST experiment 2.  These activities involve cell transfer, cell culture media exchange, etc.  The BEST investigation studies the use of sequencing for identification of unknown microbial organisms living on the ISS, and how humans, plants and microbes adapt to living on the ISS.
+GRIP: The crew performed the seated science 1 sessions.  In these sessions, also known as the dynamic seated sessions, the crew performs friction, oscillations, targeted and sensors verification tasks within a set of trials as guided by the GRIP software.  The GRIP experiment consists of 3 protocols: Dynamics Seated, References Seated and References Supine. They are performed in 3 separate sub-sessions.  ESA’s Gripinvestigation tests how the nervous system takes into account the forces due to gravity and inertia when manipulating objects.  Results from this investigation may provide insight into potential hazards for astronauts as they manipulate objects in different gravitational environments.  They also support design and control of haptic interfaces to be used in challenging environments such as space, and provide information about motor control that will be useful for the evaluation and rehabilitation of impaired upper limb control in patients with neurological diseases.
+JAXA EPO (Education Payload Observation):  The crew participated in an EPO event using the JEM camera robot.  Demonstrations performed for the activity included control of the JEM camera robot, stabilization using a gyroscope, and attitude control.  JAXA EPO activities demonstrate artistic activities on board the ISS/JEM to enlighten the general public about microgravity research and human space flight. The JEM Internal Ball Camera is a free-floating, remote-controlled panoramic camera that helps crews monitor operations in the Japanese Experiment Module (JEM).
+Microgravity Crystals: The crew removed the Microgravity Crystals samples from Space Automated Bioproduct Laboratory (SABL), observed and photographed the sample wells using the microscope, then returned the samples to SABL.  This set of Microgravity Crystals samples were initiated on Friday (20-September) and is expected to run for 28 days.  The Monday observations mark day 9 for these group C samples.  The Microgravity Crystals investigation crystallizes a membrane protein that is integral to tumor growth and cancer survival. Although crystallization of this protein has yielded unsatisfactory results on Earth, this investigation leverages extensive protein crystallization work on the space station, significantly increasing the likelihood of successful crystal growth. Results may support development of cancer treatments that target the protein more effectively and with fewer side effects.
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM) mission 67: The crew closed out this session and stowed the hardware.  As of the final report, 225 schools representing 20,802 students and 28 countries signed up to request images (including 108 students from 4 Russian schools). Also as of the final report, 7,384 images had been downlinked, and 6,677 images had been posted to the web (earthkam.org). Using the Internet, the students control a special digital camera mounted on-board the ISS. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The EarthKAM team then posts these photographs on the Internet for viewing by the public and participating classrooms around the world.
+Completed Task List Activities:
+
+IPOD-T/S (GMT 271)
+CBCS/VOK Restow (GMT 272)
+ESA PAO Feltrinelli (GMT 272)
+ESA PAO INAS Games (GMT 272)
+ESA PAO Nathan Never (GMT 272)
+ESA PAO New Sci mag (GMT 272)
+WHC KTO Replace (GMT 272)
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payloads ground support
+Mobile Servicing System (MSS) EP7/EP8 relocate
+
+Look Ahead:
+Tuesday, 10/1 (GMT 274)
+Payloads:
+
+
+Functional Immune
+GRIP
+GPS/Wheel Demo Unit Removal
+Nanoracks mod 9/82/86
+Probiotics
+Standard Measures
+Story Time from Space
+Veg-04B
+
+Systems:
+
+Luca, Christina EMU OFV
+EVA Equipment Lock prep, procedure review and conference
+
+Wednesday, 10/2 (GMT 275)
+Payloads:
+
+
+Acoustic Diagnostics
+Actiwatch ops
+ELF cartridge cleaning
+Food Acceptability
+Food Physiology
+Functional Immune
+Food Physiology
+GRIP
+HRP blood ops
+ISS Experience
+SOLISS install
+
+Systems:
+
+Change of Command, reduced crew duty day
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+KORREKTSIYA. Accelerometry Initiation
+Delta file prep
+Rack Transfer Big Picture Words Review
+Roskosmos and social media features preparation
+ECON-M. Observations and photo (Task list)
+HRF Generic MELFI Sample Retrieval And Insertion Operations
+Functional Immune Saliva Collection Dry Book
+Extravehicular Activity (EVA) Reminder for On-Orbit Fitcheck Verification (OFV)
+JAXA Educational Payload Observation Preparation Part 2
+JEM Temp Stowage
+KORREKTSIYA. Logging Liquid and Food Intake (medicine)
+БМП Ф1 absorption cartridge regeneration (init)
+Psychological support file deletion from Samsung tablets and RS iPads prior to Soyuz 742 undock
+GRIP Big Picture Words reading
+JAXA Education Payload Observation Briefing
+PAO event during Visiting mission (conference via UHF).
+Acoustic Monitor Setup for Crew Worn Measurements
+JAXA Education Payload Observation Event
+GRIP setup in the SEATED configuration
+Auxiliary Laptop Computer System Virus Definition File Update
+JEM Camera Robot Closeout
+GRIP Big Picture Words reading
+СОЖ Maintenance. SEPARATION Mixing in urine circulation loop
+ISS Crew Orientation
+JEM Stowage Return
+Crew Departure Preparations for Return to Earth
+VEGGIE Display On-Board Training
+PAO event during Visiting mission (conference via UHF). Hardware setup and assistance
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+VEG Series Experiment On-Board Training
+Soyuz 742 IRIDIUM Phone Recharging, Setup, Start Recharging (Setup charger unit (ЗУ) ФГБ1ПГО_2_224_1, 0.5 CTB # 1017 (002857J), collapsible container (00044322R))
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Exercise Session
+PAO Preparation
+PAO event during Visiting mission. Closeout operations
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+KARDIOVECTOR. Assistance and photo
+GRIP science performance in seated position
+Soyuz 742 IRIDIUM Phone Charging – Battery Status Check
+Soyuz 742 IRIDIUM Phone Charging, Terminate Charge
+Photo and Video recording of SFP performing experiment
+Charging GoPro HERO3 camcorder battery in Soyuz 742 (6 pieces) – initiate
+Soyuz 746 IRIDIUM Phone Recharging, Start Recharge
+HTV Transfer Operations
+Soyuz 746 IRIDIUM Phone Charging – Battery Status Check
+Soyuz 746 IRIDIUM Phone Charge, Terminate Charge, Teardown of the Setup Stow charger unit (ЗУ) in ФГБ1ПГО_2_224_1, 0.5 CTB # 1017 (002857J), collapsible container (00044322R))
+Earth observation (UAE)
+KARDIOVECTOR. Assistance
+ISS Crew Orientation
+Photography of SM Panel 140
+Crew Departure Prep
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Extravehicular Activity (EVA) Procedure Review
+HTV Transfer Operations
+CONSTANTA-2. Cassette retrieval from ТБУ-В and stowage on panel for 1-hour warmup
+Charge external batteries SM-AGAT-U55 (2 items) from Soyuz 742 , Initiate
+GRIP science performance in seated position
+CONSTANTA-2. Preparation and Execution of Session 1. Tagup with specialists
+KORREKTSIYA. Logging Liquid and Food Intake (medicine)
+Preventive maintenance of MRM1 АСП Hatch Sealing Mechanism and Soyuz 742 hatch
+Symbolic activities
+Countermeasures System (CMS) Treadmill 2 (T2) Quarterly Maintenance
+On-board Training (OBT) EVA Robotics Onboard Trainer (ROBoT) Session
+Recharging Soyuz 742 GoPro HERO3 Batteries (6), – end
+Soyuz nominal descent training 2. Tagup with specialists
+CONSTANTA-2. Photography during the science operation
+Biomolecule Extraction and Sequencing Technology (BEST) MWA Preparation
+XF305 Camcorder Setup
+Facet Cell Removal
+Microscope Reposition Preparation
+Biomolecule Extraction and Sequencing Technology (BEST) MELFI Sample Retrieve
+Microgravity Crystals Microscopy Plate Set C, Session 3 (Day 9)
+Advanced Nano Step Cartridge and Cell2 Installation
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Photography of Plume Impingement and Deposit Monitoring Unit [БКДО] position on MRM2 through SM window No.13 – setup
+Biomolecule Extraction and Sequencing Technology (BEST) Experiment 2 Part 2
+Photography of Plume Impingement and Deposit Monitoring Unit [БКДО] position on MRM2 through SM window No.13
+Photography of Plume Impingement and Deposit Monitoring Unit [БКДО] position on MRM2 through SM window No.13 – concluding ops
+Biomolecule Extraction and Sequencing Technology (BEST) MELFI Sample Insertion into a Box Module
+CONTENT. Experiment Ops
+OSTEOLOGY. Setup Ops (selection of sets from stowage locations)
+MRM1 comm config for tag-up
+3D Magnetic Bioprinter. Closeout ops after completion of Experiment Session 2 using scientific hardware 3D-МБП and ГБ. Tagup with specialists
+Probiotics Item Gathering
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+Descent Private Medical Conference (PMC)
+Advanced Nano Step Temp Logger data Save
+Acoustic Monitor Battery Swap
+EarthKAM Node 1 Shutdown, Disconnect and Stow – Russian
+Microscope Reposition Post Ops
+On-Board Training (OBT) HTV Emergency Review
+NanoRacks Zero-G Oven Glacier Sample Removal
+On-Board Training (OBT) HTV OBT post capture Conference
+Stowage Items Return
+Exercise Data Downlink via OCA
+NanoRacks Zero-G Oven Sample Photo
+NanoRacks Zero-G Oven Sample Glacier Insertion
+Daily Planning Conference
+
+ 

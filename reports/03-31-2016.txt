@@ -1,0 +1,86 @@
+
+63 Progress (63P) Launch: 63P launched at 11:23AM CDT today. Orbital insertion was nominal, and the vehicle is performing well.  Docking is scheduled to occur this Saturday at 1:00PM CDT.
+ 
+Thermolab De-instrumentation for Circadian Rhythms: Peake removed the double sensors and the Thermolab Unit before cleaning and stowing the equipment after completing the measurement process of the European Space Agency’s (ESA’s) Circadian Rhythm experiment. The measurement process takes 36 hours, over a three day period to complete. The objective of the experiment is to get a better understanding of alterations in circadian rhythms in humans during long-term space flights. Such knowledge will not only provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+ 
+Energy Experiment: Peake set up the Armband Activity Monitor and took a water sample from the Potable Water Device (PWD) in support of ESA’s Energy experiment. The Pulmonary Function System (PFS) instrument setup and other planned activities will be scheduled during the experiment session expected the week of April 18.
+ 
+Cell Biology Experiment Facility (CBEF) Reconfiguration and Removal: In support of the Mouse Epigenetics experiment, Williams reconfigured video cables between the CBEF and the Video compression and Recording Unit 2 (VRU2) as well as between the CBEF and Image Processing Unit (IPU) from single channel to multiple channel, and attached video transformers. The CBEF is a Japan Aerospace Exploration Agency (JAXA) sub-rack facility located in the Saibo Experiment Rack and is used in various life science experiments such as cultivating cells and plants in the Japanese Experiment Module (JEM). The CBEF consists of an incubator and control equipment and is used to control temperature, humidity, and carbon dioxide concentration for cultivation of cells and plants.
+ 
+Sprint Ultrasound 2 Operations: Kopra and Williams completed operational phases of Sprint VO2, including video setup, exercise preparation and instrument calibrations, exercise protocol, cessation, and data downlink. Peake assisted with placing reference marks on the thigh and calf of the right leg, and with donning the Sprint Thigh and Calf Guides. Sprint VO2 is a test that measures oxygen uptake, ventilatory threshold, and other physiological parameters for evaluation of Sprint exercise prescription.  It uses the Portable Pulmonary Function System (PFS), CEVIS, PFS Gas Cylinders, Mixing Bag System (MBS), and multiple other pieces of hardware. Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume.
+ 
+Strata-1 Payload Install: Peake installed the Strata hardware into an EXPRESS Rack in the US Lab. The Space Acceleration Measurement System (SAMS) sensor enclosure will be moved from the JEM to the Strata payload for activation and checkout activities tomorrow. Strata-1 investigates the properties and behavior of regolith on small, airless bodies.  Regolith is the impact-shattered “soil” found on asteroids, comets, the Moon, and other airless worlds, but it is different from soil here on Earth in that it contains no living material.  Strata-1’s goal is to provide answers about how regolith behaves and moves in microgravity, how easy or difficult it is to anchor a spacecraft in regolith, how it interacts with spacecraft and spacesuit materials, and other properties.  It is important to NASA to know how to set anchors in regolith, how to safely move and process large volumes of regolith, and predict and prevent risk to spacecraft and astronauts visiting these small bodies.
+ 
+Extravehicular Mobility Unit (EMU) Operations: Kopra bundled and stowed EMUs 3003 and 3010 in the Crewlock, then unbundled EMU 3005 and EMU 3008 and installed EMU Don/Doff Assemblies (EDDAs) in those suits for tomorrow’s loop scrub activities. He also cycled the Secondary Oxygen Package Checkout Fixture (SCOF) relief valves on 3005 and 3008. The SCOF allows pressurization of the ventilation loop of the EMU without completely assembling the full suit and should be physically cycled once per year.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+USND2 – Hardware Activation
+SPRINT – Hardware Power Up
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference r/g 1792
+SPRINT Experiment Ops
+GREAT START. Video Script Review r/g 1817
+CRHYT – Hardware Removal
+SPRINT – Donning Equipment (assistance)
+IMS Tagup (S-band) / r/g 1813
+Study of cardiovascular system under graded physical load on VELO (Operator)
+Verification of ИП-1 Flow Sensor Position / Pressure Control & Atmosphere Monitoring System
+Study of Cardiovascular System Under Graded Physical Load on VELO.
+SPRINT – Equipment Stowage
+STRATA – Payload Installation in EXPRESS Rack
+Photo/TV Camcorder Setup Verification
+On MCC Go ЗУ1Б Remove and Replace with ЗУ1А / r/g 1801
+STRATA – Hardware Relocate [Deferred]
+CIR – Equipment Removal
+USND2 – Equipment Deactivation and Stowage
+CBEF – Cable Reconfig
+24-hour ECG Monitoring (termination) / r/g 1798
+Crew Prep for PAO / r/g 1819
+PAO Hardware Setup
+24-hour BP Monitoring (end) r/g 1799
+TV Conference with Voskhod recreation camp. /  r/g 1819
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 1589
+24-hour ECG Monitoring (start) / r/g 1798
+24-hour BP Monitoring (start) r/g 1799
+EMU backpack replacement
+ESA Weekly Crew Conference
+ALGOMETRIA. Experiment Ops / r/g 1815
+Transfer of Thermal Protection Jackets [ТЗК] from Soyuz 719 to ISS / r/g 1814
+ENERGY – Monitor Installation
+ISS Crew Handover / Handover Recommendations (РПС)
+Water separation to EDV through Separation Assembly / r/g 1820
+ENERGY – Water Sampling
+EMU Secondary Oxygen Package (SOP) Check-Out Fixture SCOF Positive Pressure Relief Valve cycling
+CBEF – Cable Removal
+ISS Crew Handover / Handover Recommendations (РПС)
+CBEF – Cable Reconfig
+ARED Exercise Video Equipment Stowage
+ENERGY – PFS Setup [Deferred]
+ALGOMETRIA. Experiment Ops / r/g 1816
+GREAT START. Preparation for the Experiment / r/g 1817
+GREAT START. EPO session and video recording of Regeneratsiya experiment / r/g 1817
+GREAT START. Closeout Ops / r/g 1817
+STRATA – Hardware Activation [Deferred]
+MERLIN Desiccant Replacement
+Water separation to EDV through Separation Assembly [УС] / Closeout Ops / r/g 1820
+Onboard Training (OBT) – Dragon Rendezvous Procedures Review
+OBT – Dragon Rendezvous and Berthing Procedures Review
+Replacement of FGB Dust Collector ПС1, ПС2 Filters
+INTERACTION-2. Experiment Ops r/g 1818
+СОЖ Maintenance
+SPRINT – Closeout Ops
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+SPRINT Ultrasound support
+Nominal ground commanding
+
+ 

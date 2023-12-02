@@ -1,0 +1,20 @@
+
+Nanoracks Module 74: Today a crewmember sequentially placed the 6 microplates into the Plate Reader-2 for scanning and stowed them in Module-74. This is day 13 of plate reader ops. The Module-74 experiment investigates the Effects of Microgravity on Controlled Release of Antibiotics and Curing Mechanism of a Novel Wound Dressing (Hydrogel Formation and Drug Release in Microgravity Conditions) and studies the formation and drug release from cross-linked or mixed hydrogels in microgravity.
+SODI MLC (Selectable Optical Diagnostics Instrument – MSG Laptop Computer) cable swap: In an effort to resolve the Ethernet connection between the SODI-DCMIX4 (Selectable Optical Diagnostics Instrument – Diffusion and thermodiffusion coefficients in MIXtures) and the MSG (Microgravity Science Glovebox) laptop computer, today the crew replaced the W212 cable.  SODI is still able to perform science runs in this state but data downlinks are not possible until the Ethernet connection issue is resolved. SODI DCMIX studies the Soret effect. The Soret effect is the movement of heat and mass that is caused by a difference in temperature. The scientific objective of DCMIX4 is the determination of the diffusion coefficients of ternary fluid mixture samples, the same as in previous DCMIX experiments, but this time instead of having just one mixture with diverse concentrations, three ternary mixtures will be observed under different conditions.
+Emergency Roles & Responsibilities Review:  All crewmembers participated in an Emergency Roles & Responsibilities Review today. Items of discussion included crew accountability, access to escape vehicles, and ISS Commander responsibilities. Due to the complex nature of emergencies in space, it is imperative each crewmember is fully familiar with the various emergency procedures and strategies in place.
+ISS Emergency Hardware Familiarization OBT: The crewmembers conducted a review of all of the ISS Emergency Hardware.  This activity provides familiarization with the locations of equipment and the positions of valves used in emergencies.  They also practiced communication from the Russian modules in case of an emergency.  Following the review, they reported the results to both Moscow and Houston ground specialists.
+Mobile Servicing System (MSS) Operations: Yesterday, the Robotic Ground Controllers (ROBO) maneuvered SSRMS as required to grapple the Space Environment Data Acquisition equipment – Attached Payload (SEDA-AP) payloads on the Japanese Experiment Module-External Facility (JEM-EF) Exposed Facility Unit (EFU) #13 and extracted it. Next, SSRMS was maneuvered to positon the SEDA payload for Jettison, Nadir of ISS.  At 4:49 PM CT, ROBO commanded the SSRMS to release the SEDA-AP, which slowly drifted away from SSRMS and ISS.
+Completed Task List Activities:
+
+Crew Provisions Relocate – Part 1 & 2 (Completed GMT 354)
+Fire Cartridge Packing (Completed GMT 354)
+Health Maintenance System (HMS) Laryngoscope Checkout (Completed GMT 354)
+ISS Crew Handover Self Study for New Crewmembers (Completed GMT 354)
+Relocate AC Inverter to NOD1(Completed GMT 354)
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Nominal System Commanding
+

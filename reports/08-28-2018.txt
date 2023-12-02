@@ -1,0 +1,128 @@
+
+ExPRESS Rack (ER) 5 Payload Isolation: On August 23rd, the ER5 Subsystem Valve was removed and replaced (R&R’d) after a Japanese Experiment Module (JEM) Moderate Temperature Loop (MTL) leak had been isolated to ER5. Earlier today, the crew disconnected the supply and return lines to the Space Automated Bioproduct Laboratory (SABL) and Plant Habitat facilities after JAXA specialists determined a leak is still present. Today’s activities, which isolated both payload facilities from the ER’s MTL interface, will assist experts in determining the source of the JEM MTL slow leak.
+Japanese Experiment Module Airlock (JEMAL) Operations for the German Space Agency (DLR) Earth Sensing Imaging Spectrometer (DESIS): Last night the JEMAL Slide Table was extended to the exterior of the ISS and the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) were used to remove DESIS from the Slide Table and install it on the Multiple User System for Earth Sensing (MUSES) external facility. Today the Slide Table was brought back into the JEM and the Payload Mounting Assembly (PMA) hardware removed from it. The DESIS investigation is expected to verify and enhance commercial space-based hyperspectral (from the visual to near infrared spectrum) imaging capabilities for Earth remote sensing.  Requested images are transferred to a hosted cloud that provides user access.  DESIS has a number of commercial and humanitarian applications.
+Advanced Combustion via Microgravity Experiments (ACME): The crew opened the Combustion Integration Rack (CIR) and replaced two ACME controllers. The ACME experiment series being performed in the CIR includes five independent studies of gaseous flames. The primary goals of ACME are to improve fuel efficiency and reduce pollutant production in routine fuel combustion activities on Earth.  Its secondary goal is to improve spacecraft fire prevention through innovative research focused on materials flammability.
+Rodent Research-7 (RR-7):  Today the crew restocked the rodent habitats. They also stowed fecal pellets and food bar/Habitat swabs in a Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  The RR-7 investigation examines how the space environment affects the community of microorganisms in the gastrointestinal tract of mice (also known as the microbiota). It also looks at microgravity’s effects on multiple physiological systems known to be affected by the microbiota, including the gastrointestinal, immune, metabolic, circadian, and sleep systems. These studies should help explain mechanisms underlying interactions between these systems and the role of the microbiota in these interactions.
+Tropical Cyclone: The crew configured the camera settings in the Cupola to support the capture of untended images of Tropical Cyclone Lane.  The Tropical Cyclone investigation is normally used to capture images of tropical cyclones and hurricanes that are rated at Category 3 or greater on the Saffir-Simpson scale. A pseudo-stereoscopic method is used to determine the altitudes of the cloud tops near the center (eye) of a cyclone by precisely tracking the apparent positions of cloud features with respect to the Earth and how those positions change over time as an observer (the ISS in this case) passes over the storm. The photographic images will be used to demonstrate that pseudo-spectroscopy can be used to measure the cloud altitudes to sufficient precision so that, when combined with other remote-sensing data, an accurate determination of the intensity of hurricane or cyclone can be made.
+Grip: The crew completed the second of three Grip operations in the seated position today. ESA’s Grip investigation tests how the nervous system takes into account the forces due to gravity and inertia when manipulating objects.  Results from this investigation may provide insight into potential hazards for astronauts as they manipulate objects in different gravitational environments, support design and control of haptic interfaces to be used in challenging environments such as space, and provide information about motor control that will be useful for the evaluation and rehabilitation of impaired upper limb control in patients with neurological diseases.
+US Extravehicular Activity (EVA) Extravehicular Mobility Unit (EMU) Resize: Today the crew resized EMU 3003 and 3004 in preparation for the upcoming EVA. Each EMU contains exchangeable components allowing each astronaut to adjust EMU fit to their individual preference. EMU 3003 was resized for Drew Feustel and EMU 3004 was resized for Alexander Gerst. 
+Extravehicular Activity (EVA) Preparations: Today the crew gathered and configured various tools and tethers needed for the upcoming H-II Transfer Vehicle (HTV)-7 Battery R&R EVAs in September. They also verified that the EMU Glove heaters were functional and that the EMU TV Camera as receiving power from the Rechargeable EVA Battery Assemblies (REBAs). The first EVA in the pair is scheduled for 20 September while the second planned EVA is scheduled on September 26th.
+Eye Exams: Today the crew completed the first of four days of routine eye exams using a Fundoscope.  Eye exams are performed regularly onboard in order to monitor crewmembers eye health.  Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+LAB MCA Zero Calibration
+
+Two-Day Look Ahead:
+Wednesday, 08/29:
+Payloads
+
+MSRR Master Controller R&R
+BEST 4th experiment session
+Payload Control Box installation in Ryutai Rack laptop
+Team Task Switching (TTS) survey
+SpaceTex2 & Metaspace session
+Grip supine session
+BCAT camera alignment and focus
+
+Systems
+
+Optical Coherence Tomography (OCT)
+Fundoscope Eye Exams
+EMU Swap
+HTV-7 Prep: JEM Stowage Consolidation
+HTV-7 Prep: PROX System Checkout
+N3 MCA Activation Part 3 (Ground) 
+
+Thursday, 08/30:
+Payloads
+
+Atomization syringe replacement
+GRASP seated configuration
+PCG 13 microscope operations
+Sextant Navigation session 5
+
+Systems
+
+Optical Coherence Tomography (OCT)
+Fundoscope Eye Exams
+Eye Ultrasound Imaging
+EVA Tool Config
+HTV-7 Prep: PROX System Checkout
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Combustion Integrated Rack Doors Open
+JEM Airlock Press
+SM Internal Wireless Instrumentation System (IWIS) Remote Sensing Unit (RSU) s/n 1027 power cycle
+Regeneration of Micropurification Unit (БМП) cartridge Ф2 (start)
+Combustion Integrated Rack Front End Cap Open
+GRIP science performance in seated position
+SPHERES Rechargeable Battery Install
+PROFILAKTIKA-2. Preparation for the experiment.
+ACME Controller Replace 2
+JEM Airlock Leak Check
+JEM Airlock Slide Table (ST) Extension to JPM Side
+PROFILAKTIKA-2. Operator Assistance in Preparation for the Experiment
+DESIS Slide Table Remove
+Battery Charge Deactivation for MetabolicSpace
+US Extravehicular Activity (EVA) Tools Gather
+PROFILAKTIKA-2. БД-2 Treadmill Experiment Ops (Individual strategy test)
+Combustion Integrated Rack Front End Cap Close
+PROFILAKTIKA-2. Closeout Ops
+Passive Capture Mechanism Installation to JEM Airlock (AL) Slide Table
+Combustion Integrated Rack Doors Close
+Repairs and Installation of Overlay Panels in SM, Preparation.
+Extravehicular Mobility Unit (EMU) Resize
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Rodent Research Lab Camcorder Video Setup
+Rodent Research 7 Habitat Restock
+PROFILAKTIKA-2. Hygiene Procedures
+Dismantling of the old and installation of a new Mass Measurement complex from KMA-01. Test Activation.
+Progress 439 (DC1) Cargo Transfers and IMS Ops
+Tropical Cyclone Untended Operations
+Rechargeable EVA Battery Assembly (REBA) Installation
+Delta file prep
+SPHERES Rechargeable Battery Charge and Stow
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+Rodent Research MELFI Insert
+Water Refill Kit Habitat H2O Fill
+PLETHYSMOGRAPH Functional Check
+Filling (separation) of ЕДВ (КОВ) for Elektron-VM or ЕДВ-СВ
+Health Maintenance System (HMS) – ESA Nutritional Assessment
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+On Board Training (OBT) ROBoT T&C Self Study
+Wastewater Storage Tank Assembly (WSTA) Fill
+СОЖ maintenance
+US Extravehicular Activity (EVA) Tools Gather
+SPHERES Rechargeable Battery Charge and Stow
+Nitrogen Oxygen Recharge System (NORS) Oxygen Transfer to Low Pressure O2 Tank
+On Board Training (OBT) ROBoT T&C Self Study
+Rodent Research 7 Habitat Restock
+Scheduled monthly maintenance of Central Post Laptop.
+Tropical Cyclone Hardware Closeout
+Nikon still camera sync with station time
+MSRR Payload Overview
+ISS HAM Service Module Pass
+Fundoscope Setup
+Rodent Research MELFI Insert
+Dust collectors ПC1, ПС2 filter cleaning by vacuum cleaner in FGB (panels 203, 403)
+MSRR Hardware Gather
+Fundoscope Prep
+SPHERES Rechargeable Battery Charge and Stow
+Rodent Research Access Unit Clean
+Eye Exam – Fundoscope
+Extravehicular Activity (EVA) Tool Configuring
+Fundoscope Tear Down and Stow
+Regeneration of Micropurification Unit (БМП) Ф2 Absorber Cartridge (end)
+
+ 

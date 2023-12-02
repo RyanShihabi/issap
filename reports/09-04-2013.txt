@@ -1,0 +1,100 @@
+
+H-II Transfer Vehicle (HTV)-4 Departure:  This morning FE-5 Parmitano and FE-6 Nyberg finished closing out the Node 2 vestibule by demating all umbilicals to HTV-4. Meanwhile, FE-3 Cassidy depressurized the vestibule between HTV-4 and Node 2 in preparation for the unberth. Commands were then sent to the Common Berthing Mechanism (CBM) bolts to unlatch prior to unberth.  HTV-4 was then maneuvered to the release position via the Space Station Remote Manipulator System (SSRMS).  Nyberg, with Parmitano assisting released HTV-4 at 11:20 am CDT. HTV-4 is scheduled for destructive re-entry on Saturday, 07 September.
+Fluid Science Laboratory (FSL) Small Computer System Interface (SCSI) End Termination Install:   Parmitano installed a single ended terminator behind the FSL Video Management Unit (VMU) Digital Line Tape (DLT) Recorder to recover recording capability. The FSL VMU had lost its JPEG recording capability early during the Increment. Ground troubleshooting identified the VMU SCSI termination as a possible root cause and subsequently manifested a new terminator onboard 35S.
+Binary Colloidal Alloy Test (BCAT) C1 Partial Setup in Japanese Experiment Module (JEM):  Cassidy verified the set up of BCAT-C1 hardware components in preparation for future BCAT-C1 operations in the JEM. His activity included setting up the BCAT-C1 Slow Growth Sample Module and checking the configuration of the D2Xs Camera and SB-800 Flash Unit.  The BCAT-C1 experiment studies nano-scale particles dispersed in liquid, known as a colloidal suspension, commonly found in such commercial commodities as paint, electronic polishing compounds and food products. These suspensions have a unique property which makes the particles phase separate then self-assemble into crystals that interact strongly with light. Photographing these samples in microgravity allows the measurement of these processes while avoiding the effects of particle sinking due to gravity. This study allows the development of new insights into this important material process.
+Resist Tubule Charged coupled devices (CCD) Camera Setup:  Nyberg installed the microscope CCD camera and calibration chamber into the clean bench.  The camera installation and checkout was performed in preparation for Resist Tubule experiment scheduled to start in increment 37.  Resist Tubule is an investigation that uses the microgravity environment of ISS to examine the modifications in cellular components that are responsible for gravity resistance in plants.  The knowledge gathered during this investigation will enable efficient plant product in both space and on earth.
+Today’s Planned Tasks
+
+SPRUT-2 Experiment Ops [Complete]
+Gathering O2/CO2 Samples [Complete]
+BAR. Terminate Pyren Charge [Deferred]
+USOS Window Shutter Close [Complete]
+RWS Cupola Crew Restraint (CCR) Removal [Complete]
+Camcorder Setup to View LAB Remote Workstation (RWS) Monitor 3 [Complete]
+Cycle Ergometer ВБ-3М Generator Replacement – prep [Complete]
+HTV Pressurized Logistic Carrier Vestibule Power Cable Demating [Complete]
+Charging GoPro HERO3 Camcorder Battery – start  [Complete]
+Characterization of SM ОДУ valve electric control circuit.   [Complete]
+MAI-75 Hardware Setup and Activation.  [Complete]
+MEMBRANA. Experiment Setup and Start Using Kit No. 1 (Mode 2 Activation) [Complete]
+Depress the vestibule between HTV and Node2 [Complete]
+ESA Weekly Crew Conference [Complete]
+MAI-75. Hardware Activation and Monitoring.  [Complete]
+Cleaning ГЖТ4 (Gas-Liquid Heat Exchanger) ВТ-7 fan screen  [Complete]
+HTV Hardware Command Panel (HCP) Setup [Complete]
+HTV Hardware Command Panel (HCP) Self-check [Complete]
+Crew Departure Prep [Complete]
+FSL VMU SCSI – Line Troubleshooting   [Complete] 
+Crew Departure Prep [Complete]
+Russian Water Port Adapters Audit  [Complete]
+Node 2 Nadir CBM Demate  [Complete] 
+MAI-75. Hardware Activation and Monitoring  [Complete] 
+Recycle Tank Quick Disconnect (QD) Reconfig  [Complete] 
+МАI-75. Equipment Deactivation and Cleanup  [Complete] 
+Pre-pack cargo items for return or disposal on ТК 708   [Complete] 
+Charging GoPro HERO3 Camcorder Battery  [Complete] 
+WRS Water Sample Analysis [Complete]
+RGN – Remove depress hose  [Complete] 
+Collecting condensate water [КАВ] samples from [СРВ-К2М] upstream of Gas-Liquid Mixture Filter (ФГС) to Russian Sampler – termination  [Complete] 
+Video camera GoPro HERO3 setup and Adjustment for Operation during ТК 708 Descent. Removal of attachment plate SM-GoPro-U08 in ТК 708 БО for descent stowage  [Complete] 
+RST-CCD – Camera 1 Setup  [Complete]
+Sampling condensate water [КАВ] to Russian drink bags upstream of СРВ-К2М БКО [Complete]
+Consultation on GoPro HERO3 Camcorder Operation and Setup in ТК 708 СА   [Complete] 
+MEMBRANE Deactivate Heating Mode  [Complete] 
+Urine Transfer to ATV Tank (using compressor)  [Complete] 
+RST-CCD – Camera 2 Setup  [Complete] 
+Sampling condensate water [КАВ] upstream of СРВ-К2М БКО to Drink Bags  [Complete] 
+PROK – Unstow Equipment [Complete]
+ТК 708 Descent OBT and Briefing On Return Equipment List & Stowage  [Complete] 
+СОЖ Maintenance  [Complete] 
+ISS – HAM Radio Session with Mill Springs Academy, Alpharetta, GA  [Complete]   
+BCAT-C1 – Partial Installation in JEM  [Complete] 
+MSS HTV Release Setup  [Complete] 
+BCAT-C1 – SFU Sample Setup 1  [Complete] 
+HTV Departure Preparations  [Complete] 
+Crew Departure Prep  [Complete] 
+SSRMS HTV Release  [Complete] 
+Reconnect АФУ cable from SM KURS-P -Y (DC1) to MRM2 +Y and photo  [Complete]   
+MEMBRANA. Remove capsules from thermostat and stow  [Complete] 
+RWS CUP Monitoring Camcorder Deactivation and Stowage  [Complete] 
+RWS Cupola Crew Restraint (CCR) Removal  [Complete] 
+VZAIMODEISTVIYE. Experiment Ops  [Complete] 
+TOCA 2 Data Recording  [Complete] 
+HTV Hardware Command Panel (HCP) Inhibit  [Complete] 
+IMS Update  [Complete] 
+HTV – Hardware Command Panel (HCP) Stow  [Complete] 
+RST-CCD – Camera Setup Part 3  [Complete] 
+BIOME – Water Sampling  [Complete] 
+Crew Departure Prep  [Complete] 
+Sampling condensate water [КАВ] upstream of СРВК-2М БКО to Russian Drink Bags [Complete]   
+HTV – JPM PROX Switch Off  [Complete] 
+CIR – Hardware Teardown  [Complete] 
+Gathering O2/CO2 Samples  [Complete] 
+ISERV – Opening window shutters in the LAB  [Complete] 
+
+Task List
+
+ARED Cylinder Evacuation    [Complete]
+ЕДВ-У Remove and Replace
+КТО replace
+Data Prep for Return (CDR)
+Data Prep for Return (FE-2)
+Data Prep for Return (FE-3) [In Work]
+34S US Prepack [In Work]
+Prepare reports for Roskosmos web-site
+EKON-M. Observation and photography
+URAGAN. Observation and photography
+Prepare personal data on SSC for crew return
+Cygnus Trash Prep
+Routing an Ethernet cable from TOCA to the NOD3 16-port Ethernet Switch.
+Food Warmer Swap [Complete]
+Food Audit
+FPEF Marangoni Inside(MI) Item Retrieve [Complete]
+JSL Network Information for JSL Administration (NINJA) Print [Complete]
+SpX3 crew preference repack
+
+Ground
+
+HTV Unberth support [Complete]
+Standard Ground Commanding [Complete] 
+

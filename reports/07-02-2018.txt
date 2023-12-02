@@ -1,0 +1,103 @@
+
+SpX-15 Mission:  At 5:56 AM CDT, the ISS crew used the Space Station Remote Manipulator System (SSRMS) to capture the Dragon vehicle. Ground specialists then maneuvered the spacecraft to the pre-install position where they performed an inspection of the Passive Common Berthing Mechanism (PCBM).  Once complete, Dragon was berthed to the Node2 Nadir port at 09:38 AM CDT and the crew completed vestibule pressurization, leak checks, vestibule outfitting, and CBM Control Panel Assembly (CPA) rotation in support of tomorrow morning’s scheduled ingress. 
+OA-9 Hatch Closure: The crew has completed loading all trash into the Cygnus vehicle and have closed both the Cygnus and N1 Nader hatches; in this configuration, the crew can temp-stow cargo in the N1 Deck 2 (NO1D2) area. Power and data cables to the spacecraft will remain connected, however, until closer to the planned unberth date of 15-July.  
+MagVector 3D: The crew exchanged a MagVector 3D sample today. A total of 12 different samples will be processed on the ISS (1 per day).  ESA’s MagVector investigation supports a study of how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research is expected to help improve future ISS experiments and electrical experiments, and could also offer insights into how magnetic fields influence electrical conductors in general. 
+Microgravity Investigation of Cement Solidification (MICS): Today the crew transferred a MICS ampoule kit to the ISS Portable Glovebag in order to break two ampoules in each sample bag and mix the contents with a spatula. The crew then returned each sample bag to the kit bag, which will be stowed for return. A total of eight MICS sessions are planned. The MICS investigation supports the evaluation of microstructure and material properties of benchmark cement samples.  Different responses to thermal and mechanical loading are expected and will be characterized in detail.  Positive attributes found in the hardening process due to the microgravity environment aboard the ISS will be reported with the intent of improving Earth-based cement and concrete processing. 
+Space Test Program – Houston 5 (STP-H5):  The crew took still photos of the Cyclops ICE experiment strips through the Cupola and Japanese Experiment Module (JEM) windows. STP-H5 is an external payload consisting of 13 individual experiments ranging from technology demonstrations to space and terrestrial weather measuring and monitoring. The experiments are provided and operated by the US Department of Defense and NASA agencies. 
+Biological Experiment Laboratory (BioLab):  The crew performed troubleshooting steps for the Biolab Incubator Door Locking Bolt today.  A previous effort to replace the bolt on June 7th was unsuccessful after the bolt threads failed to engage. The BioLab is a multiuser research facility located in the Columbus laboratory. It is used to perform space biology experiments on microorganisms, cells, tissue cultures, small plants, and small invertebrates. BioLab allows scientists to gain a better understanding of the effects of microgravity and space radiation on biological organisms.
+Tropical Cyclone: The crew configured the camera settings in the Cupola to support the capture of untended images of Kilauea Volcano, Hawaii. 
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Crew Command Panel (CCP) Cable Route and Checkout
+Lighting Effects Sleep Log Entry
+Photo TV High Definition (HD) Dragon Video Setup
+USOS Window Shutter Close
+MRM1 comm config to support tagup
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+FAZOPEREKHOD. Experiment Setup and Start ops
+Probiotics Fecal Sample Operations
+Daily Electro-cardiogram registration (start)
+Photo/TV Ghost Camera in Cuopla on SSC power recording
+Robotics Workstation (RWS) Dragon Configuration
+ALGOMETRIA. Pressure and Thermal Algometry preparation and measurement session.
+Probiotics Fecal Sample MELFI Insertion
+Check to see that shutters are closed on windows 6, 8, 9, 12, 13, 14. Note.7
+24-hour Blood Pressure Monitoring (start)
+Dragon R Bar Approach
+Magvector 3D Sensor Array Sample Exchange
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Recovery of distiller as part of RS [СРВ-У].
+Dragon R Bar Approach
+Exercise Data Downlink via OCA
+Nikon Camera Time Sync
+Environmental Health System Grab Sample Containter (GSC) and Microbrial Air Sampler (MAS) Sampling in OA-9
+Space Station Remote Manipulator System (SSRMS) Dragon Capture
+FAZOPEREKHOD. Closeout Ops.
+EDV AUDIT
+FAZOPEREKHOD. Experiment Setup and Start ops
+JEM System Laptop Terminal Reboot
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+Electrostatic Levitation Furnace(ELF) Connector Photo taking
+EXPRESS Rack ELC Hard Disk Drive Swap
+Biolab Incubator Door Locking Bolt Troubleshooting
+Node 2 to Dragon Pressurization and Leak Check Equipment Setup
+EXPRESS-1 Laptop Computer (ELC) CLS 10 load
+Comm Reconfig for Nominal Ops
+Double Coldbag Unpack Review
+ALGOMETRIA. Measurements in strain-gage algometry mode
+CIR. Upper Door Open
+CIR. Manifold 4 – bottle changeout
+Cleaning of TV System LIV voltage converter vent grille
+CIR. Upper Door Close
+MICRO-11 Thaw Pouch SABL Insertion
+Microgravity Investigation of Cement Solidification (MICS) Procedure Review
+SABL Ice Brick Removal
+СОЖ maintenance
+Commercial Generic Bioprocessing Apparatus Sample Insert/Retrieve
+Microgravity Investigation of Cement Solidification (MICS) Preparation
+MPCC Cable Troubleshooting
+Cyclops ICE Experiment Photos
+FAZOPEREKHOD. Closeout Ops.
+Micro 12 SABL Configuration
+Microgravity Investigation of Cement Solidification (MICS)  2 Ampoule Mix Ops
+Makita drill batteries No.7, 8, 9, 10 discharge and battery No 7 charge
+IMS Delta File Prep
+Tropical Cyclone Operations Review
+Tropical Cyclone Untended Operations
+ISS HAM Service Module Pass
+RADIOSKAF. Disconnecting Tanysha-YUZGU-3 small satellite from charger and connecting and Tanysha-YUZGU-4 to charger
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+BD-2 Roller Position Check
+Reconfigure Node 3 BelAir Wireless Access Point (WAP) Antennas for Checkout
+NOD2D2 CLEANOUT
+Node 2 to Dragon Pressurization and Leak Check
+Close the Cygnus hatch.
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Dragon Vestibule Outfitting
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+On-board Training (OBT) Dragon Attached Phase Operations Review
+Water Recovery and Management Condensate Pumping Init
+Environmental Health System (EHS) – Rad Detector Rotate
+Crew Command Panel (CCP) Cable Deroute
+Ghost camera teardown in Cupola
+Water Recovery and Management Condensate Pumping Term
+Node 2 Nadir Controller Panel Assembly (CPA) Removal/Rotation
+ALGOMETRIA. Measurements in strain-gage – and thermoalgometry modes Closeout Ops 
+
+Completed Task List Activities:
+
+EPO crew message recording: School Lab Tour [Completed GMT 181]
+ESA PAO Message – FIA Futures Day [Completed GMT 181]
+PAO – Germany in the US Day of Unity [Completed GMT 181]
+Cygnus Banner Imagery [Completed GMT 182]
+WHC KTO REPLACE [Completed GMT 182]
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Dragon Capture and Berth
+Dragon activation 
+

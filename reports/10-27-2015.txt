@@ -1,0 +1,84 @@
+
+Crew Half-Duty Day:  Today was a reduced duty day for the United States On-orbit Segment (USOS) Crew in advance of tomorrow’s EVA.
+ 
+Extravehicular Activity (EVA) Preparations:  The USOS crew members made final preparations by setting up EVA tools, performing a tool audit, and preparing the Equipment Lock, and Extravehicular Mobility Units (EMUs).  In addition, all three USOS crew reviewed related procedures and briefing packages.  USOS EVA #32 (ISS Upgrades EVA) is scheduled to occur tomorrow with hatch opening taking place at approximately 7:15am CDT.
+ 
+Plasma Kristall-4 (PK-4) Operations:  Kononenko continued ongoing PK-4 operations by connecting the gas supply flexhose to the Neon gas supply, opening a valve to pressurize it, reporting the pressure, and then disconnecting the flexhose.  An experiment run in PK-4 is planned to start tomorrow.  Plasma Kristall-4 is a complex European Space Agency (ESA) plasma laboratory installed in the Columbus European Physiology Module (EPM) rack and operated by Russian crewmembers.  PK-4 supports research in the field of Complex Plasmas: low temperature gaseous mixtures composed of ionized gas, neutral gas and micron-sized particles. The micro-particles become highly charged in the plasma and interact strongly with each other, which can lead to a self-organized structure of the micro-particles (i.e., “plasma crystals”).
+ 
+Large Format Motion Picture Camera (IMAX):  Kelly connected the IMAX Codex to a Station Support Computer (SSC) for a downlink of recorded video files.  IMAX filmmakers intend to produce a three dimensional movie called A Perfect Planet, using ISS-based video and images to show how natural and human forces shape planet Earth. The film will also showcase NASA’s exploration efforts and highlight the ISS as a platform for scientific research and a stepping stone to deep space exploration.
+ 
+Reaction Self-Test:  Kelly completed a session today for the Reaction Self-Test investigation.  Reaction Self-Test helps crewmembers objectively identify when their performance capability is degraded by various fatigue-related conditions that can occur as a result of ISS operations and time in space (e.g., acute and chronic sleep restriction, slam shifts, extravehicular activity (EVA), and residual sedation from sleep medications).
+ 
+Sleep Log:  Kelly and Kornienko recorded Sleep Log entries today.  The Sleep ISS-12 experiment monitors ambient light exposure and crew member activity and collects subjective evaluations of sleep and alertness.  The investigation examines the effects of space flight and ambient light exposure on sleep during a year-long mission on the ISS.
+ 
+Urine Processing Assembly (UPA) Status:   Following yesterday’s Fluids Control Pump Assembly (FCPA) change out, today Ground Controllers updated pump parameters and successfully initiated a UPA process cycle.  The process cycle is expected to complete later this evening.
+ 
+Node 1 Nadir Common Berthing Mechanism (CBM) Checkout:   Yesterday afternoon, Ground Controllers completed a successful checkout of the Node 1 Nadir CBM.  This is a routine checkout performed every 6 months, and also serves as Launch Commit Criteria (LCC) for the planned OA-4 berthing in December.
+ 
+Today’s Planned Activities
+All activities were coompleted unless otherwise noted. 
+
+NEIROIMMUNITET. CORRECTSIA
+RUEXP – Blood Sample Insertion into MELFI
+Verification and report of antivirus scan results on Auxiliary Computer System (ВКС) laptops
+Purging Elektron-VM Liquid Unit (БЖ) after Shutdown
+Replacement of RS TORU trainer cable 17КС.30Ю8230А-2030 cable
+Progress 429 (SM Aft) Transfers and IMS Ops
+JEM Terminal Computer Reboot
+Hair Sample Cleaning ГЖТ4 (Gas-Liquid Heat Exchanger) ВТ-7 fan screen
+VIBROLAB. Monitoring hardware activation
+Inspection and Cleaning of RS2 laptops No.1098 (POC22473J,СМ1РО_1_102), RS3 No.1144 (POC22519J,ФГБ1ПГО_4_426_1, bag 352-20 (00037779R)
+Demating wire harness W0142
+On MCC GO RS1 Laptop Inspection and Cleaning
+Verification of ИП-1 Flow Sensor Position
+WRS – Recycle Tank Fill from EDV
+CARDIOVECTOR. Experiment Ops
+Relocating PBBs for upcoming EVA
+EVA Tool Config
+Final printout of EVA procedures
+ISS Crew Medical Officer (CMO) Computer Based Training (CBT)
+ABOUT GAGARIN FROM SPACE. Experiment Ops
+EVA2 Procedure Review
+Pille sensors prep for USOS EVA
+On-orbit hearing assessment using EARQ
+PLAZMENNIY KRISTALL. Gas Exchange in the Chamber for Neon
+IMAХ – Connecting to SSC
+USOS EVA Tool Audit
+WRS – Recycle Tank Fill from EDV
+Installation of RSK1 SW Version 1.11 and Checkout of TORU Relocation Simulator
+Wiping SM surfaces with Fungistat:  panels 128, 130, 131, 135
+Water Transfer and Shell Compression of Progress 429 (SM Aft) Rodnik БВ1 tank
+Equipment Lock Preparation
+HAM radio session from Columbus
+IMS Delta File Prep
+СОЖ Maintenance
+VIBROLAB. Copy and Downlink Data
+IMAX – Terminate Battery Charge
+EVA Procedure Conference
+IMAX – Terminate Codex 512 GB Drive charge
+24-hour ECG Monitoring (termination)
+24-hour BP monitoring (terminate)
+IMAX – power down
+NEIROIMMUNITET. Stress Test
+NEIROIMMUNITET. Closeout Ops
+Reaction Self-Test (Sleep)
+On MCC GO Compression of Progress 429 (SM Aft) Rodnik Tank БВ1 – Closeout Ops
+Preparation of Reports for Roscosmos Web Site and Social Media
+ECON-M. Observation and Photography
+URAGAN Observations and Photography
+
+ 
+Completed Task List Items
+
+RMS Laptop Terminal 2 (RLT2) Hard Disk Drive Installation
+RMS Laptop Terminal 3 (RLT3) Swap
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+EVA Preparation Commanding
+Backup and Standby C&C MDM Swap
+S-Band String 1 Activation
+
+ 

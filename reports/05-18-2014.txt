@@ -1,0 +1,68 @@
+
+SpaceX-3 Release:  Today ISS CDR Swanson completed closeout of the Node 2 nadir vestibule, removed the final power jumpers and closed the Node 2 nadir hatch.  He then depressed the vestibule and demated the Common Berthing Mechanism (CMB) bolts and latches.  Using the Space Station Robotic Manipulator System (SSRMS) robotics ground controllers performed the SpaceX unberth from Node 2 nadir and maneuvered SpaceX-3 to the release postion.    Swanson, with robotics assistance from FE-1 Skvortsov, completed the SpaceX Dragon release from the SSRMS on time at 8:26am CDT.  After Dragon departure, the robotics ground controllers maneuvered the SSRMS to a park position, performed a video survey of the Node2 nadir CBM and then powered it down.  SpaceX-3 splashdown occurred at approximately 2:04pm CDT today.
+Lab Smoke Detector Annunciation:  Before crew wake, one of the crew members detected an odor.  Swanson investigated, but could not confirm the source.  Later, the LAB1PD1 smoke detector annunciated and then returned to normal.  The crew investigated, including CSA-CP checks which were nominal.  The crew did find a strip of tape that had been melted. Investigation into the event is continuing.
+Today’s Planned Tasks
+
+Daily Planning Conference (S-band) [Complete]
+Dragon – vestibule preparation for undock [Complete]
+RSS1, RSS2 reboot / r/g1009 [Complete]
+Laptop RS2(1) reboot [Complete]
+Testing ПСС СМ [Complete]
+Weekly housekeeping [Complete]
+SM ventilation system (Group E) maintenance [Complete]
+Cleaning FGB [ЦВ2] fan [Complete]
+Inspect [СКВ] [Complete]
+Clean [БМП] fan grille [Complete]
+Dragon/Node 2 – depress vestibule [Complete]
+Node 2 –CBM Demate [Complete]
+CCP panel – routing and cable check [Complete]
+Activate video equipment for monitoring additional SSC laptop in support of Dragon release. [Complete]
+RWS – configuration [Complete]
+SSRMS – preparation for Dragon release [Complete]
+Monitoring Dragon release and separation by SSRMS [Complete]
+COЖ Maintenance. СВО, СГО, АСУ counter, SM and FGB POTOK information d/l. [Complete]
+Video for Roskosmos / r/g 5667 [Complete]
+CCP panel – cable routing [Complete]
+CUCU – deactivation [Complete]
+RWS switch off [Complete]
+VEG – plants daily check [Complete]
+VEG – plants watering [Complete]
+ISERV – window shutter opening [Complete]
+Daily planning conference (S-band) [Complete]
+Video for Roskosmos / r/g 5667
+
+Task List
+
+ARED Cylinder Evac
+Dragon Temp Logger Find [In work]
+WHC KTO Replace
+WHC EDV-U R&R
+Roscosmos Report
+SEINER. World Ocean Observation
+Test Operation of МИС on ISS RS
+Ekon Photo
+CTB 1048 Relocate
+IFM-WHC UR/IF R&R
+3DA1-Cam-Ops
+EMU 3005 Photos
+EMU LLB Auto-Init
+EMU LLB SSC Relocate
+EMU LLB SSC Return
+EVA ORU Bag Inspection
+MOOT restow
+NOD1OS2-LHA R&R
+NOD1PD2-LHA R&R
+PEP Inspection
+KTO EDV Audit
+NOD3 PEPS assessment
+P/TV Hardware questions
+POSSUM PL Photo
+Viable Crew OBT
+Viable PL Photo
+Viable PL Touch
+WMRS MRF Remove
+
+Ground
+
+Nominal commanding
+

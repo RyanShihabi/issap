@@ -1,0 +1,74 @@
+
+USOS Food Warmer Status: Today the USOS Food Warmer within LAB Express Rack 6, Drawer 8 experienced an over current and tripped the associated Remote Power Controller (RPC). The crew has been instructed not to use the food warmer until ground teams can troubleshoot.
+ISS Reboost: The reboost that was planned at 7:54 pm CST last night was cancelled due to possible post-reboost conjunction.  The reboost has been replanned for January 17th at 6:09pm CST.
+NightPod Investigation:  Flight Engineer (FE)-6 Wakata installed ESA’s NightPod in the Cupola and then performed a checkout after a new software load.  NightPod photographs will be taken while the ISS trajectory passes over Mexico, the Eastern United States and Europe. Wakata then stowed NightPod and copied all of the pictures to a Station Support Computer (SSC) for downlink.  NightPod includes tracking device technology being tested on the ISS for its ability to assist cameras in taking improved photographs of the Earth, especially at night (in low light conditions). The device compensates for ISS movement allowing a camera fitted to the device a longer exposure time on fixed targets on Earth. This is helpful for taking images of Earth for education, promotion or research activities and holds the potential for use on orbital craft on future missions around other planets and planetary bodies.
+Binary Colloidal Alloy Test – Kinetics Platform (BCAT-KP) Experiment:  FE-3 Hopkins installed and performed a checkout of the BCAT-KP hardware.  Hopkins has setup and homogenizing the first of five Harvard samples, the start of a 14 day sample run. He also photographed the sample and the other nine that are not being activated yet.  BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties.  The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses.
+NanoRacks Microscope Operation with Module-38:  Wakata used Microscope-2 to perform microscopic analysis of the NanoRacks Module-38 Petri dishes.  These Module-38 experiments are designed by students as part of a competition sponsored by the International Space School Educational Trust (ISSET).  This particular experiment examines three-dimensional growth of slime mold in petri dishes utilizing the NanoRacks Microscopes Facility.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Zero Robotics Test:  FE-5 Mastracchio and Commander Kotov performed a dry run of the Zero Robotics tests in preparation for the final compatition scheduled for Friday January 17th.  SPHERES Zero Robotics provides high school students with the opportunity to act as ground controllers for research in space.  As part of the competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are then tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS.
+Vaccine-21 Group Activation Packs (GAPs) Experiment Conclusion:  Mastracchio accessed the Commercial Generic Bioprocessing Apparatus-2 (CGBA-2), removed the active Vaccine-21 GAPs and placed them in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  This experiment, also referred to as Antibiotic Effectiveness in Space-1 (AES-1), tests the hypothesis that antibiotics used to treat bacterial grown in space will exhibit reduced efficacy and will be associated with specific changes in bacterial gene expression that correlate with cell survival.
+Today’s Planned Tasks
+
+TERMO-LADA. Visual Inspection of Hardware Operation  [Complete]
+NightPod – Setup in Cupola [Complete]
+AMS Software Load/Swap Start [Complete]
+Preparation of Spacesuit Replaceable Elements, Service and Personal Gear.  [Complete]
+NightPod – Photography  [Complete]
+ISS Medical Accessory Kit (IMAK) Unpack [Complete]
+Installation of Power Supply System Diagnostic Equipment ИН-50 in FGB. [Complete]
+NightPod – Deinstallation [Complete]
+AMS Software Load/Swap Finish [Complete]
+BCAT – Experiment Review [Complete]
+NANO. Module-38 Operations [Complete]
+BCAT. Hardware Installation and Verification [Complete]
+BCAT. Sample Photography [Complete]
+Locating EVA hardware and tools.  [Complete]
+MELFI Nitrogen Pressure Check [Complete]
+MELFI Nitrogen Pressure Check [Complete]
+СОЖ Maintenance [Complete]
+BCAT – Sample Homogenization [Complete]
+SPHERES Synchronized Position Hold, Engage, Reorient, Experimental Satellites Review [Complete]
+SPHERES – Payload Conference [Complete]
+Retrieval of Radi-N dosimeters from deployed locations [Complete]
+MATRYOSHKA-R.Handover of BUBBLE-dosimeters from USOS. [Complete]
+RADIN – Handover of RADIN dosimeters [Complete]
+SEISMOPROGNOZ. Test comm check with МКСД. [Complete]
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements. [Complete]
+SPHERES Setup [Complete]
+MATRYOSHKA-R BUBBLE-dosimeter gathering and readings. [Complete]
+US EVA 24/25 Tool Stow. [Complete]
+Locating EVA hardware and tools. [Complete]
+Post EVA 25 Airlock Audit Systems [Complete]
+SM Ventilation System Preventive Maintenance. [Complete]
+SPHERES – Test Run [Complete]
+SPHERES Shutdown [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+MELFI Nitrogen Pressure Check [Complete]
+WHC Partial Fill [Complete]
+IMS Update [Complete]
+VACC21. GAP Ops [Complete]
+VACC21. MELFI Insertion [Complete]
+Closing Cupola window shutters
+
+Task List
+
+ARED Cylinder Evac [Complete]
+National Geographic B Roll Part 4 [In Work]
+Replace KTO
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+Stow Items for Disposal  to Progress 420 with IMS Update
+URAGAN. Observation and photography
+EKON-M. Observations and photography
+Columbus HD Assessment
+Cable Consolidate  [Complete]
+Gather fluid plugs
+Audit and consolidate wet trash bags and trash bag liners.
+Cygnus Cargo Transfer Ops   [Complete] 
+
+Ground
+
+Nominal Commanding [Complete]
+Cupola Window Heaters Powerdown Test
+

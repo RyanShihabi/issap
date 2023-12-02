@@ -1,0 +1,171 @@
+
+CBEF-L (Cell Biology Experiment Facility – Left): The crew installed the CBEF-L centrifuge and performed the necessary temperature/humidity sensor relocations to support the ground-commanded checkout activities.  CBEF-L is a new JAXA subrack facility, which is an upgraded facility of the original Cell Biology Experiment Facility (CBEF) currently aboard the International Space Station (ISS). CBEF-L provides new capabilities with additional new resources such as Full High Definition video interface, Ethernet, 24 VDC power supply, and a larger diameter centrifugal test environment. By using the original CBEF and CBEF-L as one facility for the same experiment, the payload user is provided with an upgraded experimental environment that can handle the processing of more experimental samples for a wider array of experiments.
+ECHO maintenance: The ECHO hardware was deployed to allow the ground team to perform scheduled maintenance.  Once the maintenance was completed, the crew stowed the hardware again.  Echo is a tele-operated ultrasound system, equipped with motorized probes that are controlled by flight controllers on the ground.
+JEM Water Recovery System (JWRS): The crew performed the water collection, water transfer and bag exchange in support of the continuing JWRS checkout activities.  The Demonstration JWRS will generate potable water from urine. In the past on manned spacecraft, urine and waste water were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Nanoracks Zero-G (ZGO) oven: The crew installed the ZGO Sample Tray in the Zero-G Oven to initiate a cooking session.  Although the crew reported a cooling rack rail that unexpectedly came off, the ground team believes the impact will be minimal.  Zero-G Oven examines heat transfer properties and the process of baking food in microgravity. It uses an oven designed specifically for use aboard the space station with a top temperature of 363.3° C. On future long-duration missions, fresh-baked food could have psychological and physiological benefits for crew members.
+NutrISS (Nutrition Monitoring for the International Space Station): The crew set up the NutrISS Device and equipment, executed the final Bioelectrical Impedance Analysis Measurement, removed the batteries and stowed the device.  Long-duration spaceflight induces relevant changes in body composition and a loss of body mass. In the NutrISS investigation, a periodic assessment of body composition (body weight, fat mass, and fat-free mass) during spaceflight aboard the ISS is carried out using a dedicated bio-impedance analysis device to allow for the measurement of long-term energy balance modification over time. It is hypothesized that an adjusted diet maintaining a near-neutral energy balance, and/or increasing protein, intake can limit microgravity-induced bone and muscle loss.
+Rotifer-B1: The crew concluded the investigation run by removing the Rotifer-B1 Experiment Container from Kubik.  The Rotifer-B1 investigation aims to explore the effects that spaceflight has on both the metabolism and genomic/genetic level of the bdelloid rotiferAdineta vaga. This is achieved by culturing rotifers in Kubik, an on-orbit incubator facility. After exposing rotifers to space conditions inside the ISS, samples are frozen and returned to Earth for post flight analyses.
+Systems:
+Boeing OFT Preparations:  Today, the ISS prepared for the Boeing OFT mission arrival and performed Computer Based Training (CBT) that is designed to familiarize the crew with the Boeing Starliner vehicle. Currently, Starliner is scheduled to launch on December 20 and dock with the ISS on December 21. 
+P6 Heat Exchanger Endoscope Replacement:  As part of the Carbon Dioxide Removal Assembly (CDRA) Snorkel Detailed Test Objective (DTO), the endoscope installed in the P6 heat exchanger was inundated with water.  Therefore, today the crew removed the old, failed USOS Endoscope (S/N 1001) from the LAB1P6 CCAA Heat Exchanger and installed the new USOS Endoscope (S/N 1002). Also the crew performed troubleshooting of the failed USOS Endoscope S/N 1001 to determine which hardware is failed. The new Endoscope will provide a view of the installed CDRA Snorkel so that the ground can verify that water is flowing around the snorkel as expected. With positive video results, more CDRA Snorkels will eventually be installed.
+Completed Task List Activities:
+
+No completed task list activities.
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+
+Tuesday, 12/17 (GMT 351)
+Payloads:
+
+
+BEST
+CBEF
+ECHO maintenance
+FNS relocate
+Standard Measures
+JWRS
+Nanoracks Zero-G oven
+NutrISS
+Polymer Convection gather
+Rotifer-B1
+Rodent Research-19 
+
+Systems:
+
+Polar Dragon Transfer
+IFM P6 Endoscope R&R
+WHC operations
+Columbus VCA R&R
+
+Wednesday, 12/18 (GMT 352)
+Payloads:
+
+
+Actiwatch plus
+CBEF
+MSRR/MSL SCA exchange
+NREP review
+Polymer Convection
+Rotifer-B1
+Standard Measures
+
+Systems:
+
+CST Prepack Transfer
+Col HDVAC
+ECL PEPS Inspection
+
+Thursday, 12/19 (GMT 353)
+Payloads:
+
+
+BFF
+Food Acceptability
+Food Physiology
+Kidney Cells Pump Install
+Microgravity Crystals
+JEMAL/NREP installation
+PLNAS vent clean
+Standard Measures
+
+Systems:
+
+61S Emergency Drill
+61S OBT
+PCS Relocate
+CST Prepack
+Node 2 Hatch Open
+SSC Relocate
+CST Monitor S/U
+Node 2 Fwd Clean-out
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+IMS delta file prep
+Preparation of reports for Roscosmos website and social media
+Saving personal data from T61p model of RSS1 laptop before replacing it with an HP ZBook
+ECON-M. Observation and Photography
+HRF Generic Saliva Collection 10 Minutes
+МО-8. Configuration Setup
+HRF Generic MELFI Sample Retrieval And Insertion Operations
+Last Bioelectrical Impedance Analysis Measurement
+Standard Measures Body Sampling Survey
+Standard Measures Body Sampling Collection
+Body Mass Measurement – BMMD
+МО-8. Closeout Ops
+HRF Generic MELFI Sample Insertion Operations
+Standard Measures Body Sampling Stow
+JEM Airlock Depressurization
+NanoRacks Zero-G Oven Preheat
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation Setup
+Setup and Activation of Crew Onboard Support Kit (КСПЭ) Equipment in SM for TV MPEG2 coverage Replacement of БД-2 Treadmill Belt
+Echo setup for ground maintenance activities
+БД-2 treadmill belt replacement. БД-2 treadmill maintenance.
+Acoustic Monitor Setup for Crew Worn Measurements
+XF305 Camcorder Setup
+CBEF IU Temp/Humidity Sensor replace 1
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation – Subject
+Cell Biology Experiment Facility Left (CBEF-L)  Centrifuge Installation
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation – Crew Medical Officer (CMO)
+In Flight Maintenance (IFM) LAB1P6 USOS Endoscope Remove and Replace (R&R)
+Columbus HD-VCA2 R&R
+Health Maintenance System (HMS) Periodic Health Status (PHS) Stow Hardware
+Deactivate VCA2
+Standard Measures Fecal Collection
+HRF Generic MELFI Sample Insertion Operations
+Standard Measures Fecal Collection Stow
+Standard Measures Cognition Testing HRF PC2
+JEM Airlock Vent
+Rotifer-B1 Experiment Container deinstallation
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Rotifer-B1 hardware insertion in MELFI
+Private Medical Conference (PMC)
+JEM Airlock Vent Confirmation
+Polar (Unpowered) Dragon Uninstall, Transfer, and EXPRESS Rack Install
+JEM Water Recovery System (JEM WRS) Potable Water Dispenser (PWD) Water Collect
+CBEF IU Temp/Humidity Sensor replace 2
+XF305 Camcorder Setup
+JEM Water Recovery System (JEM WRS) Water Transfer.
+JEM Water Recovery System (JWRS) Water Bag Exchange
+On-Board Training (OBT) CST-100 OFT Operations familiarization
+On MCC Go  Deactivation of camcorder, TV system monitoring equipment, closing applications
+NanoRacks Zero-G Oven Polar Sample Removal
+NanoRacks Zero-G Oven Sample Swap
+Polycon Hardware Gather
+NanoRacks Zero-G Oven Sample Installation
+On-Board Training (OBT) CST-100 OFT OBT Conference
+Fast Neutron Spectrometer Relocate to COL
+Rodent Research Access Unit Clean
+On-Board Training (OBT) CST-100 OFT Mission and Vehicle Overview
+СОЖ maintenance Replacement of Gas Analyzer ИК0501 СО2 Filter Unit / Install No.210 (00076618R, СМ1РО_4_449_1, container No.431-11 (00068712R)). Old unit – to ПрК for disposal
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Food Acceptability Survey
+Stowage of Echo hardware
+Private Medical Conference (Ku + S-band)
+Waste and Hygiene Compartment (WHC) Manual Fill Initiation
+Health Maintenance System (HMS) Fundoscope Setup
+Biomolecule Extraction and Sequencing Technology (BEST) MELFI Sample Insertion into a Box Module
+NanoRacks Zero-G Oven Sample Swap
+LSG Work Volume Stow
+Water Recovery System (WRS) Waste Tank Sample
+Health Maintenance System (HMS) Fundoscope Prep
+Waste and Hygiene Compartment (WHC) Manual Fill Termination
+Health Maintenance System (HMS) CMO – Fundoscope
+Health Maintenance System (HMS) Eye Exam – Fundoscope
+Health Maintenance System (HMS) Fundoscope Tear Down and Stow
+NanoRacks Zero-G Oven Sample Remove
+Private Medical Conference (PMC)
+Acoustic Monitor Battery Swap
+NanoRacks Zero-G Oven Polar Sample Insertion
+Standard Measures Pre-sleep Questionnaire
+Reminder Rodent Research Thermal Consideration
+
+ 

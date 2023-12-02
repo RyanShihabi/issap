@@ -1,0 +1,116 @@
+
+NanoRacks CubeSat Deployers (NRCSD):  Utilizing the JEM Remote Manipulator System (JEMRMS), Ground controllers performed an emergency stop shake test on the NRCSD.  No deployments were observed during this time.  However, after roughly 7 hours, an additional door (#7) was observed to be open, implying an inadvertent deploy during the morning of the crew workday.  The JEMRMS and deployer were still pointed in the nominal deploy direction so there is no recontact risk to the ISS. Imagery is being retrieved and ground teams are working to acquire and track the deployed satellites.  Two deployers (4 and 8) remain closed an undeployed.  Ground teams are discussing options for future NRCSD operations.
+Energy:  Flight Engineer (FE)-6 Gerst continued Day 3 of the Energy investigation and continued to eat a special diet. Energy measures change in energy balance in crewmembers following long term space flight. Energy also measures adaptations in the components of total energy expenditure of crewmembers, so that an equation to determine the energy requirements of crewmembers during space flight may be derived. Such knowledge of energy requirements is of a great importance to ensure health, good performance and the overall success of a mission, and also contributes to ensure adequate exercise load and cargo allotments for food during space flight.
+Biochemical Profile Sample Collection:  ISS Commander (CDR) Swanson collected his Return-14 day blood samples for the Biochemical Profile investigation. The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+FLame Extinguishment Experiment (FLEX)-2 Operations: FE-5 Wiseman removed the Combustion Integration Rack (CIR) alignment guides, which will isolate the rack and allow ground teams to conduct another FLEX-2 test point via ground commanding. A mixture of toluene and heptane was used for this test point. FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Dose Distribution inside ISS (DOSIS)-3D Retrieval: Gerst retrieved DOSIS-3D passive detector packs that were deployed around ISS in March. The detector packs will be returned on 38 Soyuz. DOSIS-3D uses several active and passive detectors to determine the radiation doses inside the ISS. The goal is a three-dimensional radiation map covering all sections of the ISS.
+SpaceX Dragon On-Board Training (OBT):   Wiseman and Gerst performed on-board proficiency training in preparation for the upcoming SpaceX-4 mission. The lesson walks through the steps in the rendezvous procedures and provides representative Robotics Work Station (RWS) and Portable Computer System (PCS) screenshots for each step. In addition, the lesson provides an overview of the Dragon commands available to the crew via the Crew Command Panel (CCP). SpaceX-4 is scheduled to berth with ISS on 20 September 2014.
+Emergency Roles & Responsibilities (R&R) Review/Crew Handover:  Wiseman, Gerst, and FE-4 Suraev reviewed emergency general instructions and discussed overall emergency responses.
+38 Soyuz (38S) Departure Preparations:  In preparation for 38S undock and landing scheduled for next Wednesday, September 10th, ISS CDR Swanson, FE-1 Skvortsov, and FE-2 Artemyev  performed OBT Soyuz Drill 2. The crew reviewed procedures associated with a nominal Soyuz descent.
+Ku Communications Unit (KCU) Software Load:  Finalizing the X2R13 software migration, ground controllers loaded newly delivered software (R2 Patch 3) onto both KCU1 and KCU2 Orbital Replacement Units (ORUs). The latest KCU software will support Common Communications for Visiting Vehicles (C2V2), add video setting commands, and increase telemetry.
+Today’s Planned Tasks
+
+МБИ-28-PREP, r/g 5844  [Complete]
+HRF-SALIVA-OPS15_CDR [Complete]
+МБИ-28-CLCT, r/g 5844 [Complete]
+HRF-SALIVA-OPS15_FE6 [Complete]
+HRF-MELFI-R/INS OPS  [Complete]
+Т-38S-СУДН-TST-UNDK [Complete]
+HRF-F/BLD-OPS30_CDR [Complete]
+HRF-MELFI-R/INS OPS  [Complete]
+HRF-F/BLD-OPS_OPR  [Complete]
+HRF-RC-CNFG  [Complete]
+ENERGY-BRKFST-LOG-AG [Complete]
+RGN-REC TNK-R&R [Complete]
+HRF-SPIN-CNCLD [Complete]
+HRF-MELFI-INS [Complete]
+HRF-F/BLD-STOW [Complete]
+МБИ-28-CLSOUT, r/g 5844 [Complete]
+ГОГУ/МКС-CONF, r/g 6541 [Complete]
+ПФП-ОДНТ-TRNG-PR, r/g 6556 [Complete]
+ПФП-ОДНТ-TR-PR-ASST, r/g 6556 [Complete]
+БТХ-11-CLCT-PHOTO, r/g 6568 [Complete]
+ТЛФ-ПЕРЕГ, r/g 6566[Complete]
+38S-PREPACK-RELABEL[Complete]
+БТХ-11-CLCT-PHOTO, r/g 6568[Complete]
+CUBSAT-H/W-PHOTO
+IVA-EXER-SURVEY_FE6
+RGN-REC TNK-FILL[Complete]
+ОБР-7-EXE, r/g 6566[Complete]
+OBT-DRGN ROBO-RVW[Complete]
+БТХ-11-CLCT-PHOTO, r/g 6568[Complete]
+ПФП-ОДНТ-TRNG-PR-CL, r/g 6556[Complete]
+ПФП-ОДНТ-TRNG-PR, r/g 6556[Complete]
+ПФП-ОДНТ-TR-PR-ASST, r/g 6556[Complete]
+OBT-DRGN RNDZ-CBT  [Complete]
+EHS-MCD/CFM-T+2[Complete]
+RGN-REC TNK-FILL[Complete]
+IVA-EXERCLOTH-STOW[Complete]
+OBT-DRGN-CONF[Complete]
+ISERV-SHUTTER-OPEN[Complete]
+EHS-FMK-STOW[Complete]
+RGN-REC TNK-FILL[Complete]
+IMS-CONF[Complete]
+ENERGY-LUNCH-LOG-AG[Complete]
+HRF-URINE-SETUP[Complete]
+EMER-ROLE/RESP-RVW[Complete]
+OBT-SOYUZ-NOM-DRILL2, r/g 6557[Complete]
+BCAT-INTERV-CHNG[Complete]
+RGN-REC TNK-QD CNFG[Complete]
+CIR-ALIGN INSP-RMVL  [Complete]
+СОЖ-MNT[Complete]
+EHS-DOSMTR-XFER/STOW[Complete]
+RGN-REC TNK-FILL[Complete]
+RWS-SETUP[Complete]
+ISS-CREW-DEPART-PREP[Complete]
+ГКМ-СКК-PHOTO, r/g 6560[Complete]
+IVA-EXER-SURVEY_FE5[Complete]
+IVA-ROUT-SURVEY_FE5[Complete]
+ГФИ-8-COPY, r/g 6567   [Complete]
+DOS3D-PDP-DEINST_CT[Complete]
+RGN-REC TNK-DRN INIT[Complete]
+DOS-H/O-UR     [Complete]
+RGN-REC TNK-DRN TERM[Complete]
+IVA-ROUT-SURVEY_FE6[Complete]
+FD/ISS CREW-CONF     [Complete]
+IVA-EXERCLOTH-STOW[Complete]
+HMS-PSC-FE-5 [Complete]
+ENERGY-DINNER-LOG-AG[Complete]
+
+Task List
+
+ARED Cylinder Evac
+Earth Imagery
+IMS update
+NORS A/L Reconfig Part 3
+WHC EDV-Y R&R
+WHC KTO replace
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+3DA1 cam ops
+Condensate sample install
+Crew Departure Prep
+CTB 1226 unpack [In Work]
+CTB 1247 unpack [In Work]
+Data prep return- CDR, FE1, & FE2
+EVA Handover
+Food Warmer Mod
+ACTEX R&R
+Audio Questionnaire
+Safety Video Followup
+ATV cargo transfer operations
+Bogen arm verify
+ARED detent flip
+Dragon4 Stowage prep
+EHS-EARPLUG AUDIT
+EVA tape Audit
+EVA WIF Adapter Prep
+IMAK Audit
+Dragon 4 Prepack List 
+
+Ground
+
+KCU Software load [Complete]
+MSS Checkout for new X2R13 software (MSS 8.1) [In Work]
+

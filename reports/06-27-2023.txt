@@ -1,0 +1,27 @@
+
+Payloads:
+Kibo Robot Programming Challenge-4 (Robo-Pro Challenge): A repeat of the rehearsal-1 session for Robo-Pro Challenge was performed. This session was not able to be completed in a previous attempt due to battery issues with the Astrobee free flyers. Technical Rehearsals are used to verify various elements of the real Robo-Pro Challenge. In the actual competition, the student teams develop code to direct Astrobee to locate and seal a virtual ammonia leak in the ISS cabin. The Robo-Pro Challenge, also known as Kibo-RPC, allows students to create programs to control Astrobee, a free-flying robot aboard the ISS. This opportunity provides hands-on experience with science, technology, engineering, and mathematics in space and inspires the next generation of explorers.
+Multi-use Variable-G Platform-2 (MVP-2): The crew removed the MVP-2 facility door, replaced the hard drive, and took photos of the hardware. The commercially developed, owned, and operated MVP includes two internal carousels that simultaneously can produce up to 2 g of artificial gravity. MVP is used to conduct research in space with a wide variety of sample types, such as fruit flies, flatworms, plants, fish, cells, protein crystals and many others.
+Plant Habitat-03b: Preparation for the upcoming Plant Habitat-03b experiment session continued by filling the system with water, followed by testing a sample of the water. Plants exposed to environmental stress, including spaceflight, undergo epigenetic changes that involve adding extra information to deoxyribonucleic acid (DNA) rather than changing existing information. Epigenetic Adaptation to the Spaceflight Environment – Accumulated Genomic Change Induced by Generations in Space (Plant Habitat-03) assesses whether epigenetic adaptations in one generation of plants grown in space can transfer to the next generation. This could help identify genetic elements that increase the adaptability of plants to spaceflight: a first step toward developing cultivars better suited to provide food, as well as air and water purification in life support systems on future space missions.
+Story Time From Space-9: The crew recorded themselves reading from the books Ticket to Space and Totality!. Story Time From Space combines science literacy outreach with simple demonstrations recorded aboard the ISS. Crew members read five science, technology, engineering and mathematics-related children’s books in orbit, and complete simple science concept experiments. Crew members videotape themselves reading the books and completing demonstrations. Video and data collected during the demonstrations are downlinked to the ground and posted in a video library with accompanying educational materials.
+Systems:
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test: The crew performed a monthly WinSCAT test. The test is a screen tool developed by NASA to monitor astronauts and their neuro-cognitive status while in space and alert NASA flight surgeons to any accuracy or reaction time changes in an astronaut’s performance. WinSCAT tests working memory, computational skills, attention, visual tracking, and spatial processing.
+Temperature and Humidity Control (THC) Common Cabin Air Assembly (CCAA) Swap: The crew configured air ducting and low-temperature loop (LTL) flow to swap from the S6 to the P6 CCAA in the Lab. This activity is a follow-up to the Port 6 CCAA Liquid Check Valve (LCV) R&R performed last week. The CCAA circulates, cools, and dehumidifies air in the Lab, Node 2, Node 3, and the Airlock.
+Atmosphere Revitalization System Four Bed Carbon Dioxide (4BCO2) Scrubber Samples: Hardware was set up and CO2 samples were collected from 4BCO2 for analysis on the ground. 4BCO2 is a full-scale CO2 removal Flight Demonstration Unit (FDU) to conduct a CO2 removal on-orbit technology demonstration supporting exploration-sized crews.
+SpX-28 Departure Preparations: The crew continued SpX-28 departure activities including cargo transfer operations, SpX-Crew Dragon Deorbit Entry and Landing Contingencies Refresher training, and the mid/center bag packing. SpX-28 is scheduled for undocking on Thursday, June 29th.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Crew Dragon Prop Checkout
+C2V2 Activation
+Dragon C2V2 Checkout for Departure
+Dragon GNC Checkout
+Dragon Ground Station Checkout
+Dragon TDRS Checkout
+Dragon Battery Reconfiguration
+Dragon Docking System Checkout
+

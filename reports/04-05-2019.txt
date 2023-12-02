@@ -1,0 +1,121 @@
+
+MELFI (Minus Eighty-Degree Laboratory Freezer for ISS): A crewmember completed the last part of the MELFI 2 Dewar 3 cleanup.  The Minus Eighty-Degree Laboratory Freezer for ISS (MELFI) is a cold storage unit that maintains experiment samples at ultra-cold temperatures throughout a mission.
+The ISS Experience:  Crewmembers performed an ISS Experience crew log recording and a recording with a crewmember using the Treadmill. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses. 
+Light Microscopy Module (LMM) Cleanup: The last session of the Biophysics experiment performed on February 16 resulted in two broken glass capillaries on one of the plates as well as on the LMM lens. Today a crewmember cleaned the glass off the surfaces with wet wipes while another crew member vacuumed any loose particles. 
+Extravehicular Activity (EVA) #54 Preparations: In preparation for Monday’s scheduled USOS EVA #54, Truss Jumper EVA, the crew completed the following activities today:
+
+Continue with final tool configuration.
+Printing of final EVA procedures.
+Transfer of EVA hardware, both Trunnion Slip Off Prevention (TSOP) devices and the S3 power cable, from 72 Progress.  
+
+Mobile Servicing System (MSS) Operations: Later tonight, robotics ground controllers will continue channel 4A3 recovery operations using the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) to relocate a NiH2 battery from 4A Integrated Electronics Assembly (IEA) slot 6 (4A3-2) to slot 5 (4A3-1). Following the relocation, SPDM will be stowed and SSRMS will execute a double walk-off in preparation for Monday’s US EVA #45 Truss Jumper EVA.  
+Nitrogen / Oxygen Recharge System (NORS) Tank Uninstall: The crew worked with MCC-H to terminate the transfer of Oxygen from the NORS Recharge Tank to the High Pressure Gas Tanks (HPGTs) located around the Airlock module. They removed the fill hose and regulator, then uninstalled and stowed the tank for return on a future cargo vehicle. 
+Solid State Lighting Assembly (SSLA) Installation:  The crew upgraded the light at the Japanese Experiment Logistics Module-Pressurized Section (JLP) 1FP1 location with a new SSLA.  Designed to replace General Luminaire Assemblies (GLAs), the new SSLAs improve visual acuity and to provide a crew health countermeasure for circadian rhythms, sleep, alertness and performance. To accomplish these goals, SSLAs are designed to operate in three modes providing three distinct spectrums of light; the different spectrums provide control of the blue portion of the light, which affects melatonin production in humans, that can impact sleep.
+Japanese Experiment Module (JEM) Inter Module Ventilation (IMV) Cleaning: The crew cleaned the JEM IMV starboard forward fan and associated IMV grille as part of scheduled preventative maintenance. The IMV flow rates must be great enough to ensure that the IMV fan is operating outside of the stall region which reduces airflow and increases fan acoustic noise, and excessive dust buildup can cause this phenomenon. The effectivity of today’s cleaning will be checked during the next set of IMV flow measurements.
+Public Affairs Office (PAO) Live Event: David Saint-Jacques participated in a live PAO event with high school students participating in the FIRST Robotics Festival.  Located in Quebec City, Canada, this festival hosts the regional finals of the FIRST competition and is Canada’s largest high school robotics competition.  Students used this opportunity to connect with the ISS and ask David Saint-Jacques questions about living and working and space and the future of space exploration.
+Completed Task List Activities:
+
+Veggie03 plant check/watering
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+LMM cleanup assist
+
+Saturday, 4/6:
+Payloads
+
+
+VEG-03 Plant Harvest (NASA)
+Probiotics Fecal collection (JAXA)
+ISS Ham Pass 
+
+Systems
+
+Housekeeping
+
+Sunday, 4/7:
+Payloads
+
+
+Off-Duty
+
+Systems
+
+EVA tool audit, Equipment Lock prep, procedures review
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Standard Measures Post-sleep Questionnaire
+Behavioral Core Measures Post-sleep Questionnaire
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Set Up
+BIOPLENKA. Activation of Cryogem-03 at +37°С setting
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Power Up
+JEM Inter Module Ventilation (IMV) Fwd Side Cleaning
+MICROVIR. Removal of Cassette-M No.6-1 and No.6-2 from ТБУ-В No.05, photography and setup for warmup
+VOZDUKH Atmosphere Revitalization Subsystem [СОА]  Mode Change
+Space Station Computer Power Down
+Preventive Maintenance of pressure sealing mechanisms of DC1 [АСП] hatch cover and Progress 441 [ACA] hatch cover
+Vacuum Cleaning area behind panels 405, 406 and MRM1 Interior
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+MICROVIR. Glovebox-S Setup
+STRUKTURA.  Luch-2 Transfer from Progress
+STRUKTURA.  Process activation and setup for exposure
+MICROVIR. Photography of Cassette-M No.6-1, No.6-2 upper cells.  Squeezing to Glovebox, Photography of lower cells. Activation of auto photography
+STRUKTURA.  Photography
+PROBIOVIT. Kit Transfers from Progress and setup on SM panel 327
+FIR LMM Cleanup Review
+PROBIOVIT. Photography of Probiovit Kit Setup
+Extravehicular Activity (EVA) Tool Configuring
+BIOPLENKA. Fixation of Constanta cassette No.4-1 biofilm and setup in ТБУ-В No.05.  Insertion of Constanta kit No.4 for incubation into Cryogem-03 (+37 deg C)
+RIYASKA. Progress Transfer Ops
+СТТС Reconfiguration in MRM1
+RIYASKA. Hardware setup Turning on LED panel. Selecting lighting mode
+LIGHT INSTALLATION AT JLP1FP1
+СОЖ maintenance
+RIYASKA. Photography of plant cultivation chambers
+Comm reconfig for nominal ops
+Inventory Management System (IMS) conference
+Photo of a scuff mark left by the Active Docking Mechanism probe on the DC1 Passive Mechanism Receiving Cone
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow and Reconfigure for Airway Monitoring
+Downlink Photos of Docking Cone Internal Surface via OCA
+MICROVIR. Photography of Cassette-M No. 6-1 and 6-2 cells contents
+Countermeasures System (CMS) Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Conclude
+Fluids Integrated Rack Rack Doors Open
+ISS Experience Node 1 Setup
+Lab Bacteria Filter Clean
+MELFI 2 Dewar Cleaning Part 2
+Fluids Integrated Rack Vacuum Setup
+Fluids Integrated Rack Rack Doors Open
+Bringing ODF up to date using Progress 441 delivered files
+MICROVIR. Photography of Cassette-M No. 6-1 and 6-2 cells contents
+ISS Crew Orientation
+Progress 441 (DC1) Time-Critical, Priority, and US Cargo Transfers and IMS Ops
+Atmospheric Control System (ACS) Nitrogen Oxygen Recharge System(NORS) Oxygen Transfer Termination
+ISS Experience Recording Preparation
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Atmospheric Control System (ACS) Nitrogen Oxygen Recharge System(NORS) Oxygen Transfer Termination
+Fluids Integrated Rack Rack Doors Close
+PAO Preparation
+Lab Bacteria Filter Inspection
+FIR Vacuum Stow
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Virtual Reality Training (VRT) Extravehicular Activity (EVA) Simplified Aid for EVA Rescue (SAFER) [Deferred]
+ISS Experience Record Conclude
+Extravehicular Activity (EVA) Procedures Print
+ISS Experience Hardware Relocate
+Retrieve S3 Ethernet Cable and Trunnion Slip-Off Preventors
+Extra-Vehicular Mobility Unit (EMU)  Simplified Aid For EVA Rescue (SAFER) Practice
+MICROVIR. Photography of Cassette-M No. 6-1 and 6-2 cells contents
+Extravehicular Activity (EVA) Tool Configuring
+ISS Experience Recording Preparation
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Combustion Integrated Rack Hardware Gather
+ISS Experience Astronaut Log Recording
+N1 Nadir Hatch to Unlatch Hardstop
+ISS Experience Hardware Relocate
+
+ 

@@ -1,0 +1,94 @@
+
+New Status:
+Ocular Health: The crew continued Ocular Health activities with Flight Engineer (FE)-3 Cassidy acting as Crew Medical Officer (CMO) to  perform ultrasound scans on FE-5 Parmitano and FE-6 Nyberg.  Parmitano and Nyberg also performed cardiac ultrasound scans and blood pressure measurements using the Ocular Health hardware. The cardiac ultrasound aims to obtain vascular compliance measures and is integrated with a blood pressure measurement and electrocardiogram tracing.  Data collected from the Ocular Health investigation aims to provide a greater understanding of the causes and effects of changes to the eye and brain resulting from weightlessness. The goal of the Ocular Health protocol is to systematically gather physiological data to characterize the Risk of Microgravity-Induced Visual Impairment/Intracranial Pressure on crewmembers assigned to a 6 month ISS increment. Researchers believe by systematically measuring visual, vascular and central nervous system changes over the course of this experiment, a database could be developed to inform future in-flight research protocols, identify mechanisms, develop countermeasures, and direct clinical monitoring and clinical practice guidelines.
+EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Rack Interface Controller (RIC) Remove & Replace (R&R): Cassidy performed an R&R of the EXPRESS Rack 7 RIC and replaced it with a Biological Rack Interface Controller (BRIC). Following completion of the R&R, ground teams received good health and status and initial telemetry indicates positive results..Since issues observed in the past were intermittent, the rack will run for the next 2 weeks to verify functionality  EXpedite the PRocessing of Experiments for Space Station (EXPRESS) Racks are multipurpose payload rack systems that store and support research aboard the ISS The EXPRESS Racks can support science experiments in various disciplines by providing structural interfaces, power, data, cooling, water, and other items needed to operate science experiments in space.
+Robotic Work Station (RWS) Capture Volume Checkout Status: Yesterday morning, Robotics Ground Controllers were unable to complete the RWS Capture Volume Checkout in preparation of H-II Transfer Vehicle (HTV)-4.  This checkout verifies the Capture Volume Overlay by maneuvering the Space Station Remote Manipulator System (SSRMS) to various positions within the Capture Volume to confirm the overlay has been drawn correctly. Yesterday afternoon, specialists conducted troubleshooting to collect and analyze data.  Ground specialists modified a Capture Volume configuration parameter but were again unable to move the Capture Volume.  Further analysis indicated a feature in the software, which depends on an active HTV in the telemetry stream to correctly position the Capture Volume Overlay. This feature was implemented in a Mobile Servicing System (MSS) software update in February of 2013 and is only applicable to HTV. Ground specialists continue to work forward plans for completing the Capture Volume Checkout prior to HTV arrival planned for August 9th.
+Today’s Planned Tasks
+
+PROK – Urine Sample Collection[Complete]
+Reaction Self Test [Complete]
+Reaction Self Test [Complete]
+Regeneration of БМП Ф2 Micropurification Cartridge (start) [Complete]
+ASEPTIC Photography of Medium before the experiment. r/g 3066 [Complete]
+Condensate Pumping Initiation  [Complete]
+CASKAD. Removal from Cryogem-03 and setup in Glovebox. r/g 3068 [Complete]
+JPM Window Shutter Closure [Complete]
+Columbus Deck Rack Front cleanup from stowage items [Complete]
+ТКГ 420 Transfers and IMS Updates + r/g 3032 + r/g 3043 + r/g 3047 [Complete]
+USND2 – Hardware Checkout before the Experiment [Complete]
+Preparation and Review of Installation/Deinstallation of КЛ-108/109Ц in SM. r/g 3011 [Complete]
+ASEPTIC Placement in GB / r/g 3066 [Complete]
+ASEPTIC Box Sterilization Activation / r/g 3066 [Complete]
+Ultrasound – Scanning Prep [Complete]
+ASEPTIC Photo Edit and Downlink / r/g 3066 [Complete]
+Ultrasound Scan – Operator [Complete]
+Ultrasound Scan – Operator [Complete]
+Ultrasound Data Transfer [Complete]
+Terminate BSA Battery Maintenance Cycle [Complete]
+ASEPTIC Repositioning Equipment in the Box / r/g 3066
+Search for and Gathering of US EVA Tools for RS EVA [Complete]
+WRS Water Sample Analysis [Complete]
+BCAT – Camera Battery Changeout [Complete]
+ASEPTIC Box Sterilization Deactivation / r/g 3066
+Ultrasound Scan – Operator [Complete]
+EVA Procedures and Preliminary Timeline Review, DVD Review.r/g 3064, 3073 [Complete]
+Ultrasound Scan – Operator [Complete]
+CASKAD.  r/g 3068 [Complete]
+CASCADE Photography  / r/g 3069 [Complete]
+Ultrasound Scanning [Complete]
+Ultrasound Data Transfer [Complete]
+EXPRS7. Deactivation and removal of payload lockers from the front of the rack [Complete]
+ASEPTIC.  Surface Sampling and Beginning of Air Sampling Before Sterilization / r/g 3066 [Complete]
+ASEPTIC. Experiment Photography / r/g 3067 [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+EVA Procedures and Preliminary Timeline Review, DVD Review r/g 3064, 3073 [Complete]
+EXPRS7 – Rotate Down [Complete]
+СОЖ Maintenance [Complete]
+EVA Procedures and Preliminary Timeline Review, DVD Review. r/g 3064, 3073 [Complete]
+EXPRS7. Deactivation and removal of payload lockers from the front of the rack [Complete]
+ТКГ 420 Transfers and IMS Updates + r/g 3032 + r/g 3043 + r/g 3047 [Complete]
+PROK – Controlled Diet Log [Complete]
+HRF. Urine Sample Insertion [Complete]
+PROK – Unstow Equipment [Complete]
+Terminate Condensate Pumping  [Complete]
+Ocular Health (OH) – Cardiac Operations [Complete]
+Ocular Health Cardiac Operations  [Complete]
+ASEPTIC Monitoring Automatic Pump Shut Off / r/g 3066 [Complete]
+EVA US Tools Transfer from USOS to RS in Preparation for EVA-34 and EVA-35 [Complete]
+TOCA 2 Data Recording [Complete]
+EXPRS7 – Rotate Up [Complete]
+ASEPTIC. Retrieving samples from box and placing in thermostat / r/g 3066 [Complete]
+EVA Procedures and Preliminary Timeline Review, DVD Review. r/g 3064, 3073 [Complete]
+EXPRS7 Umbilical Mate [Complete]
+EVA Procedures and Preliminary Timeline Review, DVD Review. r/g 3064, 3073 [Complete]
+IMS Update [Complete]
+EXPRS7. Deactivation and removal of payload lockers from the front of the rack [Complete]
+Ocular Health Cardiac Operations and Hardware Stowage [Complete]
+Ocular Health Cardiac Operations [Complete]
+BIF. Transfer of case to Thermostat at +4 deg C / r/g 3065
+USND2 – Close-out Ops and Stowage [Complete]
+БМП Ф2 Absorption Cartridge Regeneration (termination)
+Reading BCAT Reminder [Complete]
+Reading REMINDER [Complete]
+Reaction Self Test [Complete]
+Reading BCAT Reminder [Complete]
+
+Task List
+
+CEO Ops [Complete]
+WHC KTO Replace [Complete]
+WHC EDV R&R
+Roscosmos Report
+Uragan Report
+EKON Photo
+ARED Cylinder Evac [Complete]
+52P USOS Unpack [In Work]
+EDV Cover Resupply [Complete]
+Regen WSTA Fill
+
+Ground
+
+Nominal Commanding
+

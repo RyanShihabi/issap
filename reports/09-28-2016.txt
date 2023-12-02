@@ -1,0 +1,50 @@
+
+Marangoni Experiment (Dynamic Surf 3): Overnight another run of the Marangoni experiment occurred in the Fluid Physics Experiment Facility (FPEF). The Dynamic Surf investigation is part of a series of JAXA experiments studying Marangoni convection driven by the presence of surface tension gradients produced by a temperature difference at a liquid/gas interface. By observing and understanding how a silicone oil liquid bridge moves, researchers can learn about how heat is transferred in microgravity and ultimately drive the design and development of more efficient fluid flow based systems and devices. 
+Hard to Wet Surfaces: FE-6 performed the sample processing, setup of the Sample Module, and initiated automated photography of the samples. Throughout the day, FE-5 and FE-6 periodically remixed the samples before finally downlinking the day’s photographs and stowing the experiment. The Hard to Wet Surfaces (Eli Lilly-Hard to Wet Surfaces) investigation studies how certain materials used in the pharmaceutical industry dissolve in water while in microgravity. Results from this investigation could help improve the design of tablets that dissolve in the body to deliver drugs, thereby improving drug design for medicines used in space and on Earth.
+Group Combustion Module (GCM) Installation: Today, FE-5 continued with day 2 of installation and preparation for the GCM experiment. FE-5 installed the Combustion Chamber (CC) that the crew assembled yesterday and the Gas Bottle Unit (GBU) Air into the Multi-Purpose Small Payload Rack (MSPR) Work Volume. The Elucidation of Flame Spread and Group Combustion Excitation Mechanism of Randomly-distributed Droplet Clouds (Group Combustion) investigation by the Japan Aerospace Exploration Agency (JAXA) tests a theory that fuel sprays change from partial to group combustion as flames spread across a cloud of droplets. In the Multi-Purpose Small Payload Rack (MSPR) in the Kibo module, droplets of decane, a component of gasoline or kerosene, are arranged randomly on thin-fiber lattice points, and the flame and droplet positions and temperature distribution are measured as the flame spreads. Microgravity blocks convection, which on Earth would quickly disperse the droplets and combustion products before such measurements could be made.
+Sound Level Meter (SLM) Survey:  Today FE-6 performed SLM acoustic measurements. The Node 3 diagnostic SLM survey plan called for eight sets of measurements, encompassing various Node 3 Common Cabin Air Assembly (CCAA) fan speeds and Rheostat Air Mix Valve (RAMV) settings with the Urine Processor Assembly (UPA) Distillation Assembly (DA) and Oxygen Generation Assembly (OGA) Pump either on or off depending on the portion of the survey plan being worked, totaling 52 SLM measurements.  In addition, standard SLM measurements of the US Lab and Service Module (SM) were taken.  
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Fine Motor Skills Experiment Test – Subject
+Hard To Wet Surfaces Sample Processing
+Э-NOC. Execution experiment
+Multi Omics FOS Stow
+Hard To Wet Surfaces D2Xs Battery Charge
+Multi Omics FOS Preparation
+Ghost Camera Setup for Modal Test
+Hard To Wet Surfaces Sample Remix.
+Sound Level Meter (SLM) Setup and Operations
+Hard To Wet Surfaces Sample Remix.
+ENERGY Big Picture Words Reading 
+ENERGY Equipment Pre-gather
+Strata Card Changeout
+Hard To Wet Surfaces Sample Remix
+Sound Level Meter (SLM) Data Transfer
+ISS air pressurization from ТГК
+Dose Tracker Data Entry Subject
+Personal CO2 Monitor Power Cycle
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Greetings Video Recording
+XF305 Camcorder Setup
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) Install
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Modal Test Hardware Unstow
+Air Heater Fan [БВН]  64P PROGRESS checkout
+IWIS Install for Modal Test
+Group Combustion Module (GCM) Gas Bottle Unit Air (GBU) Install
+СОЖ maintenance
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+HARD TO WET SURFACES CAMERA RESTART
+
+Completed Task List Items
+
+JAXA Report Part 6 (Active)
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+N3 system reconfigurations for SLM measurements
+RPCM AL1A4A_B and LAD62B_A Firmware Update
+

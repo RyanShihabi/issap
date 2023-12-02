@@ -1,0 +1,22 @@
+
+Payloads:
+Cardiobreath: Bio-Monitor wearable hardware was donned and data was collected during a Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS) Exercise session. Astronauts experience changes in their cardiovascular, respiratory, and musculoskeletal systems during spaceflight, which can affect their capacity to exercise and to maintain blood pressure when standing after return to Earth. Causal Analysis of Cardiorespiratory Coupling on the ISS (Cardiobreath) studies the combined effects of cardiovascular and respiratory adaptations on blood pressure regulation during spaceflight. Results could provide a better understanding of the mechanisms of these adaptations on long-duration missions and support development of methods for assessing cardiovascular and respiratory effects on blood pressure before and after spaceflight.
+StemCellEX-H Pathfinder: BioCells samples were taken and media was exchanged for each BioCell. The samples were then placed into the Iceberg cold stowage facility. Hematopoietic Stem Cell Expansion in Space: Pathfinder Investigation (StemCellEX-H Pathfinder) tests methods for producing human hematopoietic stem cells in space. Hematopoietic stem cells give rise to blood and immune cells and have potential as treatments for patients with blood diseases and cancers. Producing them in space could lead to the ability to produce greater numbers of stem cells with superior attributes for clinical use than is currently possible on the ground.
+Solidification Using Baffles in Sealed Ampoules (SUBSA)-ugGA: Ampoule sample #3 was installed into the SUBSA Thermal Chamber. Examination of the Multi-physical Properties of Microgravity-synthesized Graphene Aerogels (SUBSA-ugGA) seeks to create a graphene aerogel on the ISS. Microgravity is expected to alleviate effects of Earth’s gravity, such as agglomeration, sedimentation, and thermal convection, and enable production of a superior, uniform material structure. This research could lay the groundwork for the engineering of bulk quantities of graphene aerogel with exceptional physical properties for applications in power storage, environmental protection, and chemical sensing.
+Systems:
+Airlock Stowage Platform (ASP) Replacement: Today, the crew began a multi-day operation to replace the ASP with the new Airlock Overhead Stowage Platform. The crew began by performing an unstow of the ASP in preparation for removing the A/L1O1 Stowage Platform. Next, the crew gathered hardware and completed Big Picture Words and procedure reviews. Finally, the crew terminated a Nitrogen Oxygen Recharge System (NORS) Oxygen transfer, removed NORS Hardware, and removed Airlock closeout panels. The older Stowage Platform is being replaced in order to increase stowage volume in the Airlock.
+Node 3 Low Temperature Loop (LTL) Gas Trap Plug Replacement: Today, the crew reinstalled the Gas Trap Plug on the Node 3 LTL Pump Package Assembly (PPA) Gas Trap and replaced all stowage at the NOD3D1-02 location. First, a section of insulation covering the Gas Trap was removed, followed by the installation of the Gas Trap Plug. The swivel foot was inspected for damage and cleaned, and the removed section of the insulation blanket was reinstalled. Finally, the configuration was photographed and any stowage temporarily removed was replaced.
+Transfer Cygnus Cargo Operations: Today, the crew continued cargo transfer operations between the ISS and the Cygnus NG-19 cargo vehicle. These operations included offloading crew provisions and hardware from NG-19. NG-19 is planned to remain at the space station until the end of October before it departs the ISS for an eventual destructive re-entry in the Earth’s atmosphere.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain/Fill: The recycle tank was set up to drain via the Urine Processor Assembly (UPA) Fill Drain Valve into a Brine EDV using the Urine Transfer System (UTS). Following the setup, the gound performed the tank drain using the UTS. Once the ground specialists completed the transfer, the crew verified the recycle tank was empty, terminated the drain, repositioned the fill/drain valve to force fill the recycle tank using UTS, and configured for nominal processing operations.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+StemCellEx-H Pathfinder BioCell Media Change and Sampling Support
+ECLSS Recycle Tank Drain Support
+NORS Safing
+SUBSA Sample Exchange Support
+

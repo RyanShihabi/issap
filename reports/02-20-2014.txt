@@ -1,0 +1,73 @@
+
+Spinal Ultrasound Scan Operations:  Flight Engineer (FE)-3 Hopkins, with assistance from FE-6 Wakata and ground experts, performed his Flight Day 150 Spinal Ultrasound session. This investigation aims to characterize microgravity-associated spinal alterations during and after spaceflight using in-flight ultrasound. Results from this research will provide data to enhance crew health for long duration space missions.
+Cube Satellite (CubeSat) Operations:  Wakata pressurized the Japanese Experiment Module (JEM) Airlock, performed a leak check, then opened the inner hatch to bring the Airlock slide table into the JEM.  He then replaced the empty NanoRacks CubeSat Deployers (NRCSDs) on the Multi-Purpose Experiment Platform (MPEP) with loaded new NRCSDs. Later in the afternoon, Wakata retracted the slide table with the loaded NRCSDs back into the Airlock and closed the inner hatch.  Next week, the loaded NRCSDs will be extended out of the JEM Airlock to the exterior of the ISS.  JAXA Flight Controllers will then utilize the JEM Remote Manipulator System (JEMRMS) in order to grapple the MPEP and maneuver it to the launch position. Seventeen CubeSats are scheduled to be launched next week.
+Burning and Suppression of Solids – 2 (BASS-2) Experiment:  Mastracchio set up the BASS hardware and performed 2 single burn tests with ground support from the experiment Principal Investigator.  BASS-2 runs vary in ambient oxygen concentration, ventilation flow velocity, fuel type, thickness, and geometry.  BASS-2 tests the hypothesis that materials in microgravity with adequate ventilation will burn as well or better than in normal gravity with other conditions being identical.  Flame growth rates are useful in determining how quickly a fire in space can grow and if the flames reach a finite size or continue to grow.  This has implications for firefighting strategies in spacecraft.
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation: This morning with each acting alternately as Crew Medical Officer (CMO) and subject, Hopkins and Mastracchio completed routine health status evaluations. Wakata also completed his evaluation with Hopkins as CMO. Following evaluation completion, the crew entered the data and stowed the hardware.
+Today’s Planned Tasks
+
+USND2 – Hardware Setup and Activation [Complete]
+SEISMOPROGNOZ. Seismoprognoz P\L data  downlink (start) / r/g 4901 [Complete]
+PHS Evaluation Setup [Complete]
+ISS crew and ГОГУ (RSA Flight Control Management Team) r/g 4887 [Complete]
+RGN – Start Water Transfer to EDV [Complete]
+Periodic Health Status – Assistance [Complete]
+Periodic Health Status – Subject [Complete]
+IMS Tagup (S-band) [Complete]
+SPINAL – Hardware Setup and Configuration [Complete]
+Orthostatic Stability Evaluation with LBNP. [Complete]
+Preparation for SM Window Inspection and Photography r/g 4899 [Complete]
+RGN – End Water Transfer to EDV [Complete]
+RS SM Window 14 Inspection and Photography. r/g 4899 [Complete]
+SPINAL – Ultrasound Ops Assistance [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 4787 [Complete]
+ИП-1 Flow Sensor Position Check  [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+Seiner. Observations and photography. r/g 4898 [Complete]
+Cleaning FGB ГЖТ Detachable Screens  [Complete]
+Evaluation of Orthostatic Stability with LBNP. [Complete]
+Periodic Health Status – Assistance [Complete]
+Periodic Health Status – Subject [Complete]
+MSG – Glovebox Activation [Complete]
+Periodic Health Status – Subject [Complete]
+Periodic Health Status – Assistance [Complete]
+Periodic Health Status (PHS) Data Entry and Stowage of All Hardware Used in PHS [Complete]
+BASS – Hardware Installation and Test Start [Complete]
+SEISMOPROGNOZ. Downlink of Seismoprognoz P/L data (end) /  r/g 4901 [Complete]
+USND2 – Close-out Ops and Stowage [Complete]
+JEM Airlock – Pressurization [Complete]
+BASS – Hardware Installation and Test Start [Complete]
+JEM Airlock – Leak Check [Complete]
+JEM Airlock Slide Table Extension [Complete]
+Replacement of БРПК-2 pump in СРВ-К2М / r/g [Complete]
+ТТС MU Removal for disposal from the RS,  r/g 4907 [Complete]
+ZSR Bags Audit [Complete]
+NanoRacks Cubesat – Deployer Swap  [Complete]
+BASS – Hardware Installation and Test Start [Complete]
+IMS Update  [Complete]
+СОЖ Maintenance [Complete]
+BASS – Hardware Installation and v/cassette changeout [Complete]
+Condensate Pumping Initiation [Complete]
+Video for Roscosmos TV Studio / r/g 4908 [Complete]
+Food Frequency Questionnaire [Complete]
+Condensate Pumping Terminate [Complete]
+JEM Airlock Slide Table Retraction [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 4787 [Complete]
+MSG – Glovebox Powerdown [Complete] 
+
+Task List
+
+ARED Cylinder Evac
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+Data prep return-CDR, FE-2, FE-3
+Food warmer troubleshooting
+
+Ground
+
+Nominal Commanding [Complete]
+

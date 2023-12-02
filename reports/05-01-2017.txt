@@ -1,0 +1,113 @@
+
+OsteoOmics Investigation:  In preparation for OsteoOmic investigation activities planned this week, the crew configured OsteoOmics hardware and the Microgravity Science Glovebox (MSG), reviewed procedures, conferred with ground experts and completed an OsteoOmics practice session.  Samples were retrieved from Minus Eighty Laboratory Freezer for ISS (MELFI) and General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) for the investigation and temporarily stowed them for tomorrow’s operations.  Crewmembers experience bone loss in orbit due to lack of gravity acting on their bones. OsteoOmics investigates the molecular mechanisms that dictate this bone loss by examining osteoblasts, which form bone, and osteoclasts, which dissolve bone.  Improved understanding of these mechanisms could lead to more effective countermeasures to prevent bone loss during space missions and in a wide range of disorders on Earth. This may lead to better preventative care or therapeutic treatments for people suffering bone loss as a result of bone diseases like osteopenia and osteoporosis, or for patients on prolonged bed rest.
+Japanese Experiment Module (JEM) Airlock (JEMAL) Operations:  In preparation for the deploy of NanoRack Cubesat Deployer (NRCSD) #11 satellites planned for May 15, the crew opened the inner hatch of the JEMAL, extended the airlock Slide Table (ST) into the JEM Pressurized Module (JPM), mounted the Small Fine Arm Attachment Mechanism (SAM) and Multi-Purpose Experiment Platform (MPEP) facilities to the ST and returned the table into the JEMAL. 
+Human Research Program (HRP) Collections and Operations: A 50S crewmember collected Flight Day (FD) 15 blood and urine samples yesterday and today for Biochem Profile, Repository, and Marrow investigations and air samples for Marrow.
+
+The Biochem Profile experiment tests blood and urine samples obtained from astronauts before, during and after spaceflight.  Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank that is used to maintain biological specimens over extended periods of time under controlled conditions. This archive of biosamples will be used as a resource for future spaceflight related research.
+The Marrow investigation identifies the effect of microgravity on bone marrow.  It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow.
+
+SkinSuit Investigation:  Over the weekend the crew performed two days of Skinsuit activities. With assistance from a crewmember acting as operator they took measurements after donning the suit in the morning and again before doffing in the afternoon. The Skinsuit is a tailor-made overall with a bi-directional weave specially designed to counteract the lack of gravity by squeezing the body from the shoulders to the feet, with a force similar to that felt on Earth. The subjects perform an evaluation of the efficacy of the Skinsuit in reducing or preventing lower back pain and preventing spine elongation. They measure the gravitational load provided by Skinsuit and evaluate operational considerations, in particular hygiene, microbiology, comfort, thermoregulation, donning and doffing, impingement and range of motion. Results from this investigation will be used to prepare for long duration missions.
+Extravehicular Activity (EVA) Preparations: The EVA crew completed the following in preparation for the EXPRESS Pallet Controller Assembly (ExPCA) EVA currently planned for May 12.
+
+Unstowed hardware from the Airlock not needed for the EVA and prepared the Airlock to support EVA operations.
+Reviewed a briefing package including hardware overview/tool config, detailed timeline, and expected Caution and Warnings.
+
+Compound Specific Analyzer-Combustion (CSA-CP) Checkout: The crew changed the batteries in 2 newly resupplied CSA-CP units and updated internal clock settings. The units will remain deactivated with new batteries for at least 24 hours for sensors to re-establish bias voltages. 
+Mobile Service System (MSS) Operations: Last Friday night, Robotics Ground Controllers powered up the MSS and used the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) Arm 2 to extract the S11A-C Remote Power Control Module (RPCM).  They temporarily stowed this RPCM in the S14B-H empty slot.  Next, controllers extracted the S14B-G RPCM and installed it in the in S11A-C slot.  Finally the RPCM in the S14B-H slot (old S11A-C) was extracted and installed in the S14B-G slot and the MSS was configured for park. 
+Cygnus Cargo Operations Status: The crew completed Message #2 over the weekend. Teams are working to complete Message #3 but at present, there are no cargo operations planned for this week. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Marrow Breath And Ambient Air Sample Collection – Subject
+Reminder HRF Generic Frozen Blood Collection Double Spin
+Reminder HRF Generic Urine Collection End
+HRF Generic Frozen Blood Collection Double Spin Collection – Subject
+HRF Generic Refrigerated Centrifuge Double Spin Configuration 1
+HRF Generic Urine Collection Male – Subject
+HRF Generic Refrigerated Centrifuge Double Spin Configuration 2
+HRF Generic Sample MELFI Insertion
+Combustion Integrated Rack Alignment Guide Removal
+HRF Generic Refrigerated Centrifuge Spin Conclude
+HRF Generic Sample MELFI Insertion
+Preventive Maintenance of FS1 Laptop (Cleaning and rebooting)
+VIZIR. Start charging СКПИ Infrared Receiver (ИКП) battery
+HRF Generic Frozen Blood Collection Conclude Stow
+JEM Internal Port Camera HD Status Check
+Atmospheric Control System (ACS) NORS Oxygen Transfer to Low Pressure O2 Tank
+NAPOR-mini RSA. Cleaning Onboard Memory Storage БЗУ-М vents
+Monthly Smart Switch Router (БРИ)
+HRF Generic Urine Collection Stow
+OsteoOmics SABL CO2 Valve Open
+XF305 Camcorder Setup
+Comm config to support tagup on S/G2 from MRM2
+JEM Airlock Slide Table (ST) Extension to JPM Side
+RSE-2 laptop install in MRM2 Test activation
+Active Mechanism Tether Loop Removal from JEM Airlock Slide Table
+Small Fine Arm (SFA) Airlock Attachment Mechanism (SAM) installation To JEM Airlock (AL) Slide Table
+Extravehicular Activity (EVA) Airlock Unstow
+Photo/TV Camcorder Setup Verification
+OsteoOmics Bag Retrieval
+MRM2 Comm Reconfig for Nominal Ops
+OsteoOmics MWA Prep
+EVA Safing for Thermal Painted Surfaces on ExPCA ORU
+Extravehicular Activity (EVA) Tool Configuring
+СКПФ1, СКПФ2 Dust Collector and MRM1 ГЖТ Cleaning with Vacuum Cleaner
+JEM Airlock Capture Mechanism Release
+Photo/TV Camcorder Setup Verification
+JEMRMS Multi-Purpose Experiment Platform Installation to Small Fine Arm Attachment Mechanism Part1.
+JEM Airlock Capture Mechanism Capturing
+JEMRMS Multi-Purpose Experiment Platform Installation to Small Fine Arm Attachment Mechanism Part2.
+Changeout of SM ПФ1-4 dust filter cartridge
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+EVA Safing and Cleanup for Thermal Painted Surfaces on ExPCA ORU
+CASKAD. Manual Mixing in Bioreactor
+VIZIR. CКПИ Infrared Receiver battery charge
+OsteoOmics Operations Practice
+OsteoOmics Operations Review 1
+ISS Crew Orientation
+RS2 and RS3 laptops inspection and cleaning
+OsteoOmics BioCell Split
+OsteoOmics Payload Crew Conference
+Auxiliary Laptop Computer System Virus Definition File Update
+Environmental Health System (EHS) – Compound Specific Analyzer-Combustion (CSA-CP) Checkout
+OsteoOmics MSG Setup
+RS1 laptop inspection and cleaning
+В3 fan grill cleaning in DC1
+Public Affairs Office (PAO) High Definition (HD) Config for JEM Event
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) JEM
+Crew Medical Officer (CMO) Proficiency Training
+Exercise Data Downlink via OCA
+Atmospheric Control System (ACS) Nitrogen Oxygen Recharge System(NORS) Oxygen Transfer Termination
+VIZIR. CКПИ Infrared Receiver battery charge
+SM Ventilation Subsystem Preventive Maintenance. SM Ventilation Subsystem Preventive Maintenance. Group В1
+СОЖ (SOZH) maintenance
+Combustion Integrated Rack Alignment Guide Installation
+OsteoOmics MERLIN Removal
+
+Completed Task List Items
+
+EVA tool config
+ESA PAO daily activities
+N2P knob tightening
+Everywear Smartshirt setup
+HRF generic frozen blood collection double spin overview
+VEG-03 consumption harvest #1
+VEG-03 plant water/photo
+Cygnus cargo ops
+IFM Robotic Hand Controller
+EMER CMS Battery Charging
+JSL Router Cable T/S
+ARED Slider Inspection
+Extremo Session A
+CD Library Audit
+IFM Light Lab1Op2 R&R
+Wanted Docking Accessory Kit
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+OsteoOmics support
+EVA prep support 
+

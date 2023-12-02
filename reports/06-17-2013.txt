@@ -1,0 +1,79 @@
+
+New Status:
+ATV4 Operations: ATV4 successfully docked to the ISS on Saturday, June 15. Russian management expressed concerns with suspected microbial growth on some of the cargo bags in the vehicle and therefore hatch opening scheduled for today was delayed while the coordination on microbial remediation was determined.  The current plan is to open the ATV hatch early in the crew morning on Tuesday and have the crew wipe the suspected bags with Fungistat prior to transferring to ISS.
+Surface Telerobotic Experiment: Flight Engineer (FE)-3 Cassidy reviewed a video and Big Picture words, then configured the camcorder and participated in a Graphic User Interface (GUI) On-Board Training (OBT). He then conducted the first of three planned sessions of the experiment followed by a debrief with the Ground Specialists. Surface Telerobotics investigates space-based crew control of surface telerobotics in preparation for future missions such as L2 Lunar Farside, Near-Earth Asteroid (NEA), and Mars orbital exploration. This operation will allow researchers to characterize the differences between Earth-based control and on-orbit control of surface robots which will drive requirements for future human-robotic systems.
+Spinal Ultrasound: FE-5 Parmitano and FE-6 Nyberg reviewed the Spinal Ultrasound Review Software and participated in a conference with the Payload Investigator (PI). They reviewed questions and tips for optimal scanning when they perform their first of three sessions scheduled for tomorrow and Wednesday.
+Biological Rhythms: Parmitano attached electrodes and donned a Digital Walk Holter Electrocardiogram (ECG) this morning and will wear them for 48 hours to perform the first of two sessions of this experiment. The investigation examines the circadian variations in the cardiac autonomic function during space flight. Results will be used to improve crew health technology on long-duration space flights.
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Rope Replace: As part of routine maintenance, Parmitano removed and replaced the ARED cable arm ropes.   During a subsequent exercise session, the crew noted that the rope length on the left side was shorter than the one on the right side. Ground controllers performed various troubleshooting steps with Parmitano and determined that the best course of action is to continue to perform cable exercises as needed in order to stretch out the rope.   
+Today’s Planned Tasks
+· Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete]
+· PROK. Urine РН Test [Complete]
+· REACTION – Self-reaction test [Complete]
+· Reaction Self Test [Complete]
+· Daily Planning Conference [Complete]
+· ATV Attached Phase Operations OBT. r/g 2632 [Complete]
+· Node 3 – IMV Fan Screen Cleaning [Complete]
+· Orlan Spacesuit and Orlan Interface Unit [БСС] Cooling Loop Separation in DC1 [Complete]
+· ARED Cylinder Flywheel Evacuation [Complete]
+· ON MCC GO ПрК-ATV Interface Leak Check [Complete]
+· ПхО БСС Water Cooling System Separation / Orlan-MK Ops, [Complete]
+· Opening of ПрК-СУ Transfer Hatch [Complete]
+· IFM – MAKITA Battery Installation [Complete]
+· P/TV – G1 camcorder prep before ATV ingress [Complete]
+· Review EVA Translation Paths and Work Zones through ISS Windows. [Complete]
+· BLR48 – Starting measurements [Complete]
+· Photo/Video of ATV Hatch Opening [Deferred]
+· ON MCC GO ATV-СУ Hatch Opening  r/g 2626 [Deferred]
+· ATV Grab Sampler Container (GSC) Operations [Deferred]
+· ССВП Quick Release Clamps Installation and First ATV Ingress [Deferred]
+· IFM – QD Clean and Repair [Complete]
+· ATV Air Sampling using AK-1M Sampler  r/g 2624 [Deferred]
+· Collection of CO Samples in ATV Using ИПД Draeger tube air samplers  r/g 2624 [Deferred]
+· ATV air scrubbing (start) [Deferred]
+· Terminate battery auto cycling [Complete]
+· Exercise data downlink / r/g 2639 [Deferred]
+· Start EMU Battery Charge [Complete]
+· СОЖ Maintenance
+· SURFACE. SSC Relocation [Complete]
+· ATV – Playback Start [Deferred]
+· IFM – Replacement of Batteries in MAKITA Charger [Complete]
+· SURFACE. Printout and Review the Experiment [Complete]
+· CIR – Hardware Teardown [Complete]
+· ATV – Playback end [Deferred]
+· PROK. Diet Logging First Time [Complete]
+· Review EVA Translation Paths and Work Zones using DOUG Application [Complete]
+· SURFACE. Telerobotics GUI Training [Complete]
+· SPINAL – Software Review [Complete]
+· PCE Box Stowage Location Prep / r/g 2646 [Complete] 
+· SPINAL. Crew conference [Complete]
+· Deinstallation of Antenna Switch box [Complete] 
+· IFM – MAKITA Battery Installation [Complete]
+· ARED – Rope Replacement (assistance) [Complete]
+· SURFACE. Session 1 Ops [Complete]
+· Re-connect Cables on КСК2 from PCE to БКИПН [Complete] 
+· ATV Atmosphere Scrubbing (terminate) [Deferred]
+· SEINER Ocean Observations / r/g 2637 [Complete]
+· ATV Air Sampling using AK-1M Sampler  r/g 2624 [Deferred]
+· Collection of CO Samples in ATV Using ИПД Draeger tube air samplers  r/g 2624 [Deferred]
+· IMS Update
+· MO-21 Prep. EKOSFERA battery charge. r/g 2640 [Complete]
+· SURFACE. Crew Debrief [Complete]
+· SURFACE. SSC Relocation [Complete]
+· Daily Planning Conference (S-band) [Complete] 
+· LCS. RSE-LCS Laptop Deactivation / r/g 2634
+· REACTION – Self-reaction test
+· Reaction Self Test
+
+Task List
+· WHC KTO replace
+· WHC EDV R&R
+· Preparation of reports for Roskosmos site
+· ECON-M. Observations and Photography
+· URAGAN Observations and Photography
+· CMS BD2 harness check
+· EVA-Connector sleeve locate [In work]
+· Hearing equipment audit [Complete]
+· IFM ELPS Connector safe [Complete]
+Ground
+· Nominal Commanding
+

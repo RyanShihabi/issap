@@ -1,0 +1,71 @@
+
+Cyclops Install onto JEM Airlock (JEMAL):  Following Friday’s successful deployment of SpinSat, Wilmore and ground teams returned the Cyclops launch platform to the JEMAL. The JEMAL outer hatch was opened, the slide table extended and the JEM Remote Manipulator System (JEMRMS) Small Fine Arm (SFA) guided the Cyclops for installation onto the slide table.  The slide table was retracted and the outer hatch closed.  Removal of the Cyclops from the slide table will be planned for a later date.  The Cyclops platform, also known as the Space Station Integrated Kinetic Launcher for Orbital Payload Systems (SSIKLOPS), holds and ejects nanosatellites from outside the ISS.
+3D Printing in Zero-G:  Cristoforetti removed then stowed a 3D printed coupon.  The 3D printing in Zero–G technology demonstration experiment aims to validate extrusion-based additive manufacturing technology’s ability to function in a micro-gravity environment
+Astro Pallet:  Virts retrieved a special Astro Palate prepackaged meal, consumed it as his midday meal and then completed the Mood and Food Consumption/Satisfaction Questionnaires. This is Virts first Astro Pallet session.  Factors Contributing to Food Acceptability and Consumption, Mood and Stress on Long-Term Space Missions (Astro Palate) studies the relationship among emotions, mood, stress and eating during spaceflight. The study explores ways to minimize stressful aspects of the eating situation so that individuals consume more food and are more satisfied with it. Additionally, the experiment examines ways to use the eating itself to reduce the stress or negative moods that crewmembers might normally experience in flight.
+Emergency Hardware On-Board Training (OBT):  Today’s training was led by Commander Wilmore to familiarize newly arrived crewmembers Shkaplerov, Cristoforetti, and Virts with equipment used during an emergency.  In addition, the Crew translated along the emergency egress path to their Soyuz vehicle and confirmed there were no obstructions and inspected all hatchways, ensuring that they can be quickly cleared in an emergency.
+Node 3 Carbon Dioxide Removal Assembly (CDRA) Procedure Review:  Wilmore and Virts reviewed procedures associated with removing and cleaning the CDRA desiccant/adsorbent beds this week. Pressure across the rear and front desiccant/adsorbent beds of the Node 3 CDRA have been increasing since the previous cleaning in June of this year. The reduction in flow is due to flaking adsorbent material (Zeolite) inside the beds. The main goal of this week’s task is to separate each desiccant/adsorbent bed into its two parts, clean the Zeolite, change out a filter, and then re-assemble the beds.
+Mobile Servicing System (MSS) Operations: Today, the Robotics Ground Controllers translated the Mobile Transporter (MT) from Worksite 4 (WS4) to WS6.  This was done in preparation for unstowing the Special Purpose Dexterous Manipulator (SPDM) from Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2) and stowing it on the Lab PDGF on Tuesday.  MSS performance today was nominal.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+HRF- urine sampling & placement of samples into MELFI
+HRF- Blood/ refrigerating centrifuge operations
+WRS – water sampling
+Installation of movable platform onto JEF part 1
+Reconfiguration of SSC22
+Unstow Progress №424 (DС1) with IMS update
+Update antivirus base on [ВКС laptops
+РСПИ. [ЭН СВПИ] useful current measurement
+MELFI- equipment inspection
+Switching over USB ports of NanoRacks from platform 1 to platform 2
+JEMRMS Arm monitoring
+Activation of FMK monitors
+IFM – gather equipment for [CHT] oscillography
+Sampling in GSC container
+VIZIR. Experiment run. Tagup with specialists
+[РСПИ] Disconnect [УКР-50] and connect ТМ-cnctrs of [ЭН СВПИ]
+HRF- transfer equipment after experiment
+[BMC]- urine sampling
+Regeneration of Ф1 БМП cartridge
+Review and preparation for testing SM EPS feeders. Tagup with specialists
+CARDIOVECTOR. Experiment run
+BMC- placement of samples into MELFI
+JEM Airlock – capture of Cyclops
+Unstow Progress №424 (DС1) with IMS update
+Audio measurement with EARQ s/w
+CHEMISTRY OF FORMATION. Review experiment t/l
+TOCA – data entry
+D/l data on physical exercise
+Astro Palate experiment run
+Maintenance of [КВ] and [КН] valves in SM RODNIK tanks СМ
+IFM – review procedures for CDRA R&R
+[БД-2] removal to support SM EPS feeders test
+RGN – water drain into [ЕДВ]
+Clean ventilation grilles on FGB interior panels (panels 116, 316, 231, 431)
+CDRA – gather equipment for R&R of air supply switch valve
+Close the pit with [СНТ]
+Clean  removable grilles 1, 2, 3 in FGB gas-liquid tract 
+3DPrinting – retrieve and stow printed sample
+VOZDUKH [АВК] valves operation /
+GEMATOKRIT. Equipment prep
+
+Completed Task List Items
+
+IWIS Node 1 RSU move
+JSL LS1 Cable R&R
+POLAR 2 Locker Install Part 1
+POLAR 2 Locker Install Part 2
+ROBOT Setup
+Journals Audio Entry Subject
+JEM Wireless Instrumentation System (WIS) Environmental Monitor Remote Sensor Unit (RSU) Troubleshoot
+Microgravity measurement Laptop Terminal 2 (MLT2) Ethernet Cable Replacement
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+JEM RMS Ops for Cyclops installation onto JEM Airlock Slide Table
+Node 3 CDRA Safeing, Lab CDRA Activation
+MT Translation from WS4 to WS6 in prep for ROBO Ops Tuesday
+

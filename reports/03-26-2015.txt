@@ -1,0 +1,60 @@
+
+Node 3 (N3) Carbon Dioxide Removal Assembly (CDRA) Status:  Earlier today ground specialist completed fine leak checks of the N3 CDRA beds.  Following the leak checks the N3 CDRA shutdown due to Air Selector Valve (ASV) 104 not reaching commanded position.  On Tuesday of this week the crew replaced ASV 106 of this same CDRA.  Ground controllers attempt to recover ASV 104 with three power cycles was unsuccessful, teams will attempt another power cycle tomorrow.   The ppCO2 levels remain low, if ground teams are not able to recover N3 CDRA tomorrow they plan to activate Lab CDRA.  
+Japanese Experiment Module Airlock (JEMAL) Reconfiguration:  Following yesterday’s removal of the Nanoracks Cubesat Deployer and support hardware, today Virts and Cristoforetti installed the Robotics Refueling Mission (RRM)-2.  The RRM On-Orbit Transfer Cage (ROTC), Visual Inspection Poseable Invertebrate Robot (VIPIR) Vision System, Task Board 3, and Task Board 4 were installed onto the Slide Table. The crew initially had issues fully inserting the slide table.  The ground power cycled the table, and the crew removed and reinserted the slide table, and was able to successfully insert the slide table with the ROTC and other hardware installed.  The RRM-2 deployment is scheduled for the end of April and science operations which will be executed by ground controllers planned for later in the Increment.
+JEM Image Processing Unit (IPU): Japanese Aerospace Exploration Agency (JAXA) ground controllers reported yesterday that the IPU failed when a Marangoni image was downlinked following a Dynamic Surf 2 run. Failure investigation and a troubleshooting plans are in work.  The IPU is required to continue Marangoni/Dynamic Surf operations and Space Aging (arriving on SpaceX-6).
+Columbus Rack Commanding: Ground controllers are currently working an issue commanding to the active NASA racks in the Columbus module (EXPRESS Rack 3, HRF 2).  Columbus Control Center (COL-CC) ground controllers are able to command to the ESA racks.  Specialists are working on a command capability recovery plan.
+Combustion Integration Rack (CIR) Manifold Bottle Replacement: In preparation for next Monday’s FLame Extinguishment Experiment (FLEX)-2 run initiation, Virts replaced the CIR Manifold Bottle #2.  Next week’s FLEX-2 experiment will be the last FLEX-2 run for Increments 43/44. Additional runs are scheduled for future increments. The experiment is the second to fly on the ISS which uses small droplets of fuel to study the special spherical characteristics of burning fuel droplets in space. The experiment studies how quickly fuel burns, the conditions required for soot to form, and how mixtures of fuels evaporate before burning. Understanding these processes could lead to the production of a safer spacecraft as well as increased fuel efficiency for engines using liquid fuel on Earth.
+Skin-B: Cristoforetti performed Corneometer (measuring the hydration level of the stratus coreum, or outer layer of the skin), Tewameter (skin barrier function measurement), and Visioscan (skin surface topography) measurements in support of the Skin-B experiment. The Skin-B investigation aims to improve the understanding of skin aging which is slow on Earth but greatly accelerated in space. This will also provide insights into the aging process in other (similar) bodily tissues in general. This could help in determining impact on astronauts on future missions to the Moon and Mars where environmental conditions are more challenging.
+On Board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT):  On Tuesday the crew was able to complete only 1 of 3 planned SpX-6 arrival simulations due to ROBoT software issues. Today Virts and Cristoforetti performed the remaining two simulations. Ground specialists directed the crew to reboot the ROBoT hardware between each run to mitigate issues experienced during the Tuesday session. 
+N2 Nadir Hatch to Unlatch Hardstop:  In preparation for the scheduled arrival of SpX-6 on April 12, Cristoforetti took the N2 nadir hatch latch to the hard stop position.  This is to minimize probability/effects of a hatch mechanism jam which would preclude opening hatch during SpX-6 ingress.
+Special Purpose Dextrous Manipulator (SPDM) Stowage and Maneuver to Translate Configuration:  Today (GMT 085), the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) cameras and maneuvered the Space Station Remote Manipulator System (SSRMS) away from the External Stowage Platform (ESP) 2 park position.  Next they reconfigured the Special Purpose Dexterous Manipulator (SPDM) for stow and stowed it on Mobile Base System (MBS) Power Data Grapple Fixture (PDGF) 2.  The Robotics Ground Controllers then released the SPDM and maneuvered the SSRMS to a Mobile Transporter (MT) translate configuration.  Finally the Robotics Ground Controllers performed an unloaded Latching End Effector (LEE)-A checkout per Chit 13262 to help characterize its performance post the LEE-A lubrication that was performed during USOS Extravehicular Activity (EVA) 30.  MSS performance today was nominal.
+UPA WSTA Troubleshooting:  Earlier today the crew was able to transfer fluid from the WSTA into an EDV.  The crew then transferred fluid from a new EDV to the WSTA.  The crew stopped the transfer at 50% and reported that they did not see any flow however the quantity continued to increase.  The crew has disconnected the hose and the ground team will continue to troubleshoot the problem. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Audio Conference with Mayak Radio Station Host (S-band)
+Robotic Refueling Mission (RRM). OBT, Procedure Overview
+RRM. Procedure review
+VIZIR
+JEM Airlock Slide Table (ST) Extension to JPM Side
+RRM. Installation Assistance
+RRM. Hardware setup
+MOTOCARD. Test hardware.
+JEM – Slide Table Retraction
+HRF2 – Hardware Unstow and SW Upload
+OBT – Dragon Rendezvous and Berthing Procedures Review
+Onboard Training (OBT) Robotics Onboard Trainer (ROBoT) Debrief
+HRF2 – Closeout Ops
+SKNB – Connecting hardware to the Laptop and performing measurements
+CIR – Upper Rack Doors Open
+CIR – Troubleshooting and Replacement
+CIR – Upper Rack Doors Close
+On MCC GO Replacement of ПТАБ-1М (А308) АБ Module No.8.
+Trashing old hardware, gathering, locating and connecting cables, photography, and stowing IMAX cables in preparation for Fluid Shifts experiment.
+Unlatching Node2 Nadir Hatch Hardstop
+Crew Medical Officer (CMO) proficiency training
+Maintaining Progress 424 (DC1) QD Screw Clamps
+СОЖ Maintenance
+Wireless Connection of SSC3
+ИК0501 Gas Analyzer О2 Channel Adjustment
+Stem Cell Differentiation (SCD).  Review Big Picture Words
+Health Maintenance System (HMS) – Nutritional Assessment (ESA)
+TOCA Potable Water Dispenser (PWD) Sample Analysis
+WRS – Recycle Tank Fill
+Flight Director / ISS Crew Tagup
+COGN – Battery Testing 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+MSS powerup
+SPDM maneuver to translate config
+42S crew config
+MSS powerdown
+

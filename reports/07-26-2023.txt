@@ -1,0 +1,35 @@
+
+Payloads:
+Confocal Space Microscopy: The temperature logger was removed from Confocal Space Microscopy and the measurements were reported to the ground. The Confocal Space Microscope is a JAXA facility that provides fluorescent images of biological samples aboard the ISS. Confocal microscopy uses spatial filtering techniques to eliminate out-of-focus light or glare in specimens with thicknesses exceeding the immediate plane of focus. With the Confocal Microscope, data can be obtained on the fundamental nature of cellular and tissue structure and functions in real-time.
+Electromagnetic Levitator (EML): The EML High Speed Camera was set into RECAL mode. The EML is a facility composed of four inserts installed into the European Drawer Rack (EDR) for the electromagnetic levitation of samples. The experiment samples are installed in a dedicated sample chamber that is attached to EML and can be replaced by new sample chambers for new experiment batches.
+Investigating Structure and Function of the Eye (ISAFE): Eye pneumotonometer, blood pressure, and ultrasound data was collected. ISAFE measures eye, brain, and blood vessel changes during missions of several lengths to determine whether Spaceflight Associated Neuro-Ocular Syndrome (SANS) varies with mission length, whether these changes recover when crewmembers return to Earth, and how long any potential recovery takes. Results could help predict eye changes on future long-duration spaceflights, such as trips to Mars, and support development of methods to protect astronauts’ eyes.
+JEM Water Recovery System (JWRS): The JWRS processed water bag was retrieved and connected to the electrolysis water bag for JWRS operation. The demonstration of JWRS generates potable water from urine. In the past, urine and wastewater were collected and stored, or vented overboard. However, for long-term space missions, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Zero Robotics-Astrobee: The crew positioned the Astrobee Free Flyer in the JEM and assisted the ground team in conducting multiple gesture-recognition software test runs. For Astrobee-Zero Robotics (Zero Robotics), students write software to control one of the space station’s Astrobee free-flying robots. The first several rounds of the competition, co-led by the Massachusetts Institute of Technology, the Innovation Learning Center, and many collaborators, use an online simulation. Finalists have their code downloaded by NASA to the Astrobee platform and observe its performance. The experience helps inspire the next generation of scientists, engineers, and explorers.
+Systems:
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain/Fill: The recycle tank was set up to drain via the Urine Processor Assembly (UPA) Fill Drain Valve into a Brine EDV using the Urine Transfer System (UTS). Following the setup, the ground performed the tank drain using the UTS. Once the ground specialists completed the transfer, the crew verified the recycle tank was empty, terminated the drain, repositioned the fill/drain valve to force fill the recycle tank using UTS, and configured for nominal processing operations. The crew also swapped the EDV in the offload EDV spot of the UTS.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA): To check the accuracy of the TOCA calibration, the crew used a sample bag with a known amount of TOC and TIC. The crew recorded this calibration data for tracking and systems analysis. TOCA primarily serves as a third level of redundancy safety control for the Regenerative Environmental Control and Life Support System (ECLSS) Water Processor for potable water by monitoring total organic carbon (TOC) and total inorganic carbon (TIC) concentration levels, a general indication of overall water quality.
+Temperature and Humidity Control (THC) Common Cabin Air Assembly (CCAA) Swap: The crew configured the ducting to support a Lab CCAA swap. The crew terminated the Low Temperature Loop (LTL) flow through the Lab S6 CCAA heat exchanger and initiated LTL flow through the Lab P6 CCAA heat exchanger. The CCAA circulates, cools, and dehumidifies air in USOS modules. 
+EHS On-Orbit Sampling: The crew deployed two Formaldehyde Monitoring Kits (FMKs) in designated sample locations for post-flight analysis of on-orbit formaldehyde levels. The crew also used a Grab Sample Container (GSC) to collect instantaneous air samples for post-flight analysis. Sampling is performed every 45 days.
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test: The crew performed a monthly WinSCAT test. The test is a screen tool developed by NASA to monitor astronauts and their neuro-cognitive status while in space and alert NASA flight surgeons to any accuracy or reaction time changes in an astronaut’s performance. WinSCAT tests working memory, computational skills, attention, visual tracking, and spatial processing.
+Emergency Simulation Onboard Training (OBT): Today, the crew participated in a training exercise for ISS fire and rapid depressurization emergency scenarios. The emergency training involved crew and ground teams working together to practice communication and coordination while the crew physically translated through ISS to the appropriate response locations to visualize the use of equipment and interfaces. A post-simulation crew conference took place to discuss and evaluate the crew/ground control responses during the training event.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Alpha Magnetic Spectrometer Operations and Commanding
+DMC Unattended Resource Tracking
+Test Tertiary Circuit 002-0304 (RSVG3021)
+Secondary Power Systems Remote Power Controller Firmware Update
+Cygnus MCC-D No-Op Command Checkout
+Cygnus C2V2 Checkout
+Configure RMAD PPL 178 for Cygnus Rendezvous
+Columbus HDVCA1 High-Definition Video Downlink
+Crew Dragon Awake Mode Checkout
+Dragon Zenith Cabin Video
+IAS Russian to USOS Communication Configuration
+USCV PCS Checkout Clear Latch
+IAS Configuration for Nominal Operations
+

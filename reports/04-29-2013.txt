@@ -1,0 +1,134 @@
+
+New Status: 
+51 Progress (P) Reboost – Yesterday the International Space Station (ISS) performed a nominal 1.53 meters per second reboost using 51P thrusters. This reboost provided phasing for the upcoming 33 Soyuz landing and 35 Soyuz launch.
+
+Nutrition and Pro-K Experiment Sample Collections: Cassidy collected blood and urine samples and stowed them in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). The samples were collected in support of his participation in the Nutrition/Pro-K experiments, which both investigate how diet affects an astronaut’s physiology.  The Nutrition experiment measures bone metabolism, oxidative damage, chemistry and hormonal changes; as well as assessments of the nutritional status of the crewmembers participating in the study.  Dietary Intake Can Predict and Protect Against Changes in Bone Metabolism during Spaceflight and Recovery (Pro-K) looks at linkage between the ratio of animal protein and potassium and potential bone loss.
+Burning and Suppression of Solids (BASS) Experiment (BASS): Cassidy completed the 6th of 13 sessions planned for this experiment. BASS examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity and will guide strategies for extinguishing fires in microgravity. BASS results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Environmental Health System (EHS) Sampling: Marshburn took microbial and fungal surface samples from all the USOS modules. The samples will stay in an incubation bag at ambient temperature for five days. They will then be analyzed and packed for return on 33S. He also cleaned the Portable Water Dispenser (PWD) beverage adapter and lubricated the beverage adapter slide assembly, button, and Package-in-Place (PIP) plunger. Hadfield conducted Microbial Air Sampler (MAS) Kit Sample Collection.
+NanoRacks Module 19 Experiment: NanoRacks Module-19 was flown on SpX-2 and contains 52 crystal growth experiments which have been growing for 60 days. Today Hadfield captured digital microscope images of each Crystal Plate using the NanoRacks Microscope 2.
+Crew Departure Preparations: This week Hadfield and Marshburn will prepare for their departure and return to Earth on the 33 Soyuz vehicle on May 14.
+
+Previous Status (04/26/13)
+51 Progress (51P) Docking: 51P successfully docked to the ISS Russian Segment Service Module (SM) aft port with contact and capture at 7:26 am CDT. All Progress systems operated nominally with the exception of KURS АСФ2 antenna which did not deploy. A software patch was uplinked to the vehicle which allowed the automated rendezvous using only one deployed antenna and extended the final approach time from 11 to 20 minutes.  Hatch opening occurred at 10:30 am CDT.
+
+Capillary Flow Experiments (CFE) Interior Corner Flow (ICF)-9 Operations: Marshburn unstowed the hardware, prepared the Maintenance Work Area (MWA), secured the CFE hardware on the MWA, positioned the High Definition (HD) camcorder and performed the 5th of 10 planned runs of this experiment. CFE is a suite of fluid physics experiments that investigates how fluids translate across surfaces in microgravity. The results aim to improve current computer models that are used by designers of low gravity fluid systems and may improve fluid transfer systems for water on future spacecraft.
+In Flight Maintenance (IFM) (American to Russian Converter Unit) (CHT): Hadfield conducted the last day of this 4-day test which characterized the magnitude and frequency of the current noise seen by Main Bus Switching Unit (MBSU)2A as well as MBSU4A. The test utilized an on-orbit oscilloscope and current probe, controlled by the SSC laptop, to measure the magnitude and frequency of the current. Following the test he removed the test equipment and stowed in Node 1.  Data will be analyzed to determine if the magnitude of the measured noise can damage USOS hardware on-orbit.
+Health Maintenance System (HMS) Ultrasound 2 Scan: Hadfield, acting as Crew Medical Officer (CMO) and with assistance from the ground, set up the equipment and performed a Panoptic exam on FE-3 Cassidy. This exam is part of nominal medical testing on ISS crewmembers and is performed as part of a suite of eye exams this week, including Ultrasound Wednesday and Tonometry yesterday to gather information on intraocular pressure and eye anatomy.
+Reversible Figures (RF) Experiment: Marshburn and Hadfield performed their 6th and last session of this experiment. The experiment investigates whether the perception of ambiguous perspective-reversible figures (figure that can normally be seen to change in perspective or orientation in two different ways) is affected by microgravity. A comparison of the perceived reversals during visualization of the figures in crewmembers occurs before, during and after long-term exposure to microgravity. It is expected that measurable, perceptual differences can expand our understanding of human cognitive-perception dynamics by examining the differences that exist between the microgravity environment of the International Space Station (ISS) and that of the Earth’s surface.
+Conjunction Status: Updates received on Object 30917 (debris from a Chinese satellite) confirm that it is no longer a threat to the ISS.
+Today’s Planned Tasks
+· BCAT Camera Battery Changeout [Complete] 
+· Reboot Laptop RS2(1)  [Complete] 
+· Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete] 
+· KHROMATOMASS. Experiment Setup / r/g 2210 [Complete] 
+· Urine Spot Test [Complete] 
+· SPRUT-2. Setup, Body Mass Measurement, [Complete] 
+· HRF Urine Sample Collection [Complete] 
+· KHROMATOMASS. Saliva and Blood Collection / r/g 2210
+· HRF – Urine Sample MELFI Insertion [Complete] 
+· REMINDER – Reading Reminder [Complete] 
+· SPRUT-2. Experiment Ops. Tagup with specialists (S-band, VHF) / r/g 2209
+· SM ПСС (Caution & Warning Panel) Test
+· HRF Sample Blood Draw [Complete] 
+· HRF Blood Sample Draw (assistance) [Complete] 
+· Morning Inspection. RSS1, RSS2 Reboot / r/g 1009 step 1  [Complete] 
+· HRF – Centrifuge Config [Complete] 
+· ТКГ 419 Aft Transfers and IMS Ops / ТКГ 419 Transfer Ops [РПР] + r/g 2199, 2179
+· NANORAC ‘Big Picture’ overview [Complete] 
+· KHROMATOMASS. Closeout Ops / r/g 2210
+· HRF- Blood sample removal from centrifuge and deactivation [Complete] 
+· HRF – Sample Blood MELFI Insertion [Complete] 
+· HRF – Blood Collection Stowage [Complete] 
+· ТКГ 419 Aft Transfers and IMS Ops / ТКГ 419 Transfer Ops [РПР] + r/g 2199, 2179
+· NANORACK – Microscope Operation  [Complete] 
+· HRF Urine Sample Collection [Complete] 
+· HRF MELFI Urine Sample Insertion [Complete] 
+· Surface Sample Kit (SSK) Collection/Incubation [Complete] 
+· US equipment config for TV PAO [Complete] 
+· Crew Prep for PAO / r/g 2206 [Complete] 
+· TV Conference with Roskosmos TV Studio Correspondent (Ku + S-band) / r/g 2206 [Complete] 
+· RSK1 Laptop SW Update with New Version 3.5. r/g 2207 [Complete] 
+· P/L Video Playback Start [Complete] 
+· MSG – Visual inspection and activation  [Complete] 
+· HRF Urine Collection Hardware Stowage [Complete] 
+· Bringing ODF up to date using ТКГ 419 delivered files / r/g 2205
+· MATRYOSHKA-R. Tritel Hardwar r/g 2208 [Complete] 
+· Potable Water Dispenser (PWD) Beverage Adapter Cleaning [Complete] 
+· BASS. Preparation steps [Complete] 
+· Power Tool Battery Recharge [Complete] 
+· Handover / Handover Recommendations  (РПС) [Complete] 
+· ТКГ 419 Aft Transfers and IMS Ops / ТКГ 419 Transfer Ops [РПР] + r/g 2199, 2179
+· S/G4 Voice Check
+· CIR – Hardware Teardown  [Complete] 
+· Power Tool Battery Recharge  [Complete] 
+· BCAT3– camera checkout  [Complete] 
+· NANORACK – Copy Data to Laptop  [Complete] 
+· PROK. Logfile and PH Logsheet Photography [Complete] 
+· Crew Departure Prep [Complete] 
+· MERLIN – Desiccant Removal [Complete]
+· Power Tool Battery Recharge  [In Work] 
+· JRNL – Journal Entry [Complete]
+· Urine transfer from EDV-U to Progress 418 (DC1) +r/g 2233 [Complete]
+· BASS. Test Ops [Complete] 
+· Microbial Air Sampler (MAS) Kit Sample Collection [Complete]
+· Study of cardiac bioelectric activity at rest. r/g 2204  [Complete]
+· IMS Update [Complete]
+· СОЖ Maintenance [Complete]
+· Counter Measure System (CMS) Harmful Contaminant Measurements in SM / r/g 1955 [Complete]
+· Payload Playback Stop [Complete]
+· VASC – Blood Collection Hardware Setup [Complete]
+· BASS. Closeout Ops. [Complete] 
+· URISIS Hardware Setup [Complete]
+· ISS – HAM Radio Session [Complete]
+· Auxiliary Laptop Anti-Virus Update / r/g 1930 [Complete]
+· Crew Departure Prep [Complete] 
+· MSG – Hardware deactivation
+· P/TV Playback Start
+· BIF Transfer of Bioecologiya case to Thermostat  r/g 2212
+· BCAT Camera Battery Changeout
+· P/TV Playback Stop
+Task List
+· CEO ops [Completed Sat.]
+· 51P US unpack [Completed Sat.]
+· EMU Resize-part 1 [Completed Sat.]
+· EMU Resize-part 2 [Completed Sat.]
+· Laptop cleanup 3 [Completed Sat.]
+· CMS battery changeout [Completed Sat.]
+· Food consolidate [Completed Sat.]
+· HMS AED inspect [Completed Sat.]
+· HMS Winscat test – FE-6 [Completed Sat.]
+· HMS Winscat test – FE-3 [Completed Sat.]
+· HMS Winscat test – CDR
+· HRF2 stw audit/trash [Completed Sat.]
+· Crew choice imaging [Completed Sat.]
+· EHS PWD hot sample [Completed Sat.]
+· EHS SRV-K warm sample [Completed Sat.]
+· EHS SVO-ZV sample [Completed Sat.]
+· EHS water unstow [Completed Sat.]
+· EMU resize part 3  [In Work] 
+· HMS stow – CDR
+· HMS stow – FE-6
+· IFM Lab aft stbd inspect
+· IFM tool page audit
+· IFM toolbox D1 audit
+· IFM toolbox D2 audit
+· IFM toolbox D3 audit
+· IFM toolbox D4 audit
+· IFM toolbox D5 audit
+· JEM stowage consolidate
+· SSC19 UBA fix-P1
+· VOK consolidate
+· RGN WSTA fill
+· SSC data gather (FE-6)
+· SSC data gather (CDR)  [In Work] 
+· WHC KTO replace
+· WHC EDV R&R
+· HRF SAL pouch locate  [In Work] 
+· Roscosmos Report
+· 33S US prepack  [In Work] 
+· Data prep return CDR  [In Work] 
+· Data prep return FE4
+· Data prep return FE6  [In Work] 
+
+Ground
+· Nominal Commanding  [In Work] 

@@ -1,0 +1,31 @@
+
+Payloads:
+Cell Biology Experiment Facility (CBEF): Six Plant Experiment Units were retrieved from the CBEF Incubator Unit (IU) Micro-G Sample Tray. Four Plant Experiment Units were then installed into the CBEF IU 1G Centrifuge. CBEF, a JAXA sub-rack facility, is an incubator with an artificial gravity generator. CBEF is housed in the Saibo (living cell) Experiment Rack with the Clean Bench (CB).
+NanoRacks Module-102: Photos were taken of NanoRacks Module-102 in the Cupola, and the module was then placed into POLAR-3 for refrigeration. NanoRacks Module-102 is a plant-life experiment studying the growth of chickpeas. It is a custom-built NanoLab with clear sides to allow pictures of the plants inside after operations. While it is installed in Mainframe Alpha, it will have a vinyl cover wrapped around it so that light can bounce around inside the module to help the plants grow.
+Rodent Research Facility: The crew performed an inventory audit of the Rodent Research Facility. The Rodent Research Facility provides rodent housing onboard the ISS. Animal research is essential for understanding the impacts of spaceflight on the systems of the human body and for development of potential therapies that will ease harmful responses to spaceflight.
+Systems:
+USOS Extravehicular Activity (EVA) #80: RBVM Jumper Install EVA: Today, ISS crewmembers Raja Chari and Matthias Maurer completed the USOS EVA #80 with Space Station Remote Manipulator System (SSRMS) support from Kayla Barron and Tom Marshburn. The main goal of this EVA was to re-install two refurbished RBVM Jumpers and remove and replace (R&R) an External High-Definition Camera (EHDC) on Camera Port 8 (CP8). The RBVM controls the transfer of ammonia between the Radiator Assembly Orbital Replacement Unit (ORU) and the rest of the External Active Thermal Control System (EATCS) loop, and it contains sensors to monitor absolute pressure, temperature, and valve position within the ORU. During the 6-hour and 54-minute EVA, the EV crew completed the following objectives:
+
+Complete CP8 Ethernet Cable routing
+Install Parking Position (PAPOS) Cable Adapter and close BTL clamps
+Install RBVM Jumper
+JAXA EF Multilayer Insultation (MLI) Straightening
+R&R CP8 EHDC with Wireless Access Point (WAP) capable unit
+Install WAP Cable and Hardware
+Mate CP8 Ethernet Cable to WAP Pigtail
+MiniPump Panel A316 reconfiguration
+Airlock (A/L) PIP Pin photos & HECA imagery
+
+In-Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace (R&R): The crew performed an R&R of the UR and its IF as part of routine preventative maintenance for the WHC. The WHC is a modified ACY (Russian toilet) system that was altered to integrate into a United States On-Orbit Segment (USOS) rack. The UR is made up of a replaceable Russian supplied funnel, urine hose, and receptacle switch for turning the WHC on/off with associated wiring. After replacement, a functionality test was performed.
+ЕДВ (EDV) Assembly: The crew assembled an EDV from stowed components for the WHC. An EDV is intended for short-term storage and manual water transportation between facilities, and it can be used for liquid waste collection in the АСУ (Russian toilet) or WHC.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+USOS EVA #80 Support
+Dragon Quiescent Operations Checkout
+Crew Health Care System (CHeCS) Commanding and Data Downlink
+

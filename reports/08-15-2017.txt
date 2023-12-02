@@ -1,0 +1,80 @@
+
+Intracranial Pressure & Visual Impairment (IPVI): The crew took front and profile view pictures to check for facial edema, then completed a conference with ground experts.  The IPVI investigation studies changes to crewmembers’ eyes and optic nerves by analyzing arterial blood pressure and blood flow to the brain before and after spaceflight. The IPVI investigation uses non-invasive methods as compared to current invasive methods (e.g., spinal tap) to measure intracranial pressure. 
+MagVector:  The crew performed closeout and cleanup activities for the 7-day MagVector Run 11.  The European Space Agency (ESA) MagVector investigation studies how the Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research not only helps improve future International Space Station experiments and electrical experiments, but it could offer insights into how magnetic fields influence electrical conductors in general – the backbone of our technology. 
+Japanese Experiment Module (JEM) Camera Robot:  The crew set up the JEM Camera Robot and the ground took video and photos of several scenes in the JEM module. This device is a free-flying camera robot that provides real time video downlink and photographs.  It is expected to reduce the crew time requirements to support video recording of activities, especially at the blind spot of existing JEM internal cameras. 
+Multi-Omics-Mouse:  The crew refilled water containers in Mouse Habitat Cage Units for the JAXA Multi-Omics-Mouse investigation. Several studies have reported space flight effects on the human immune system but the relationship between microbiota and immune dysfunction during flight remains unclear. In Multi-Omics-Mouse, food with and without fructooligosaccharides (FOS) will be used as prebiotics, which could improve the gut environment and immune function.  After the flight, researchers will analyze the gut environment (microbiota and metabolites) and immune system of the mice by multi-omics analysis, and evaluate the effect of FOS during flight.
+Kubik:  The crew unstowed and set up the Agenzia Spaziale Italiana (ASI) Kubik 5 facility in the Columbus module.  They then performed a functional check and preheating of Kubik 5 to prepare for support of upcoming ASI Biomission investigations that will utilize the Kubik facility.  Kubik is a small controlled-temperature incubator or cooler used to study biological samples in a microgravity environment. It is equipped with removable inserts designed for self-contained, automatic experiments using seeds, cells, and small animals.
+At Home in Space: The crew completed an At Home in Space questionnaire. This Canadian Space Agency experiment assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home in Space uses a questionnaire to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth.
+Dragon Robotics On-Board Trainer: In preparation for tomorrow’s SpX-12 capture and berthing, the crew completed 3 Capture Point Hold runs which allows the crew to practice free drift timing. They also practiced malfunction response, nominal rate approaches and 2 meter approaches. 
+Remote Power Controller Module (RPCM) P12B_B Status: Following successful closure of RPCM P12B_B RPC10 late Sunday evening, the RPC tripped this morning.  This RPC powers the S-Band transponder for String 2. The trip signature continues to indicate a Field Effect Transistor (FET) Hybrid failure. Ground teams will continue to attempt to reclose the RPC. This is an external RPCM that can be Removed and Replaced (R&Rd) by the Special Purpose Dexterous Manipulator (SPDM).
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+At Home In Space Questionnaire
+KUBIK Functional check
+KUBIK 5 preheat and functional check
+KUBIK 5 Setup
+Combustion Integrated Rack Alignment Guide Install
+Combustion Integrated Rack Manifold Bottle Replacement
+Combustion Integrated Rack Upper Rack Doors Open/Close
+CEVIS Portable PFS Conclude
+CEVIS Portable PFS Partial Stow
+Max CEVIS Portable PFS Power Up
+CEVIS Portable PFS Subject
+Crew Command Panel (CCP) Cable Route and Checkout
+Dragon Vestibule Outfitting Kit (VOK) Gather
+CDM and MCA Comparison
+Acoustic Dosimeter Setup Day 2
+EXPRESS Rack 8 Locker Removal
+Health Maintenance System (HMS) – ESA Nutritional Assessment
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+HRF Generic Urine Collection Stow
+Intracranial Pressure & Visual Impairment (IPVI) Face Photo-taking
+JEM Camera Robot Activation/Deactivation
+JEM Camera Robot Shooting
+Video recording for KOROLYOV TV channel
+USB Jumpdrive Return and PPS2 Reconfiguration
+Mouse Habitat Unit Cage Water Refill
+Dragon Robotics Onboard Trainer (ROBoT) Session 2
+Ghost camera setup in Cupola
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink/Deactivation
+Polar Hardware Express Rack Transfer
+Recycle Tank Drain Parts 1-3
+Wastewater Storage Tank Assembly (WSTA) Fill
+XF305 Camcorder Setup
+Dragon Cargo Operations Conference
+Replacement of Onboard Oxygen Tanks БК-3М
+Installation of Orlan #6 ORUs prior to EVA
+Installation of Orlan #4 ORUs prior to EVA
+Comm Check and Media Parameters Control.
+Comm Setup for Orlan OBT
+Resuming Nominal Comm Config after Orlan OBT
+Spacesuit Onboard Interface Unit in DC1 (БСС СО1) Checkout.
+Removal of Air Ducts in DC1 prior to the OBT (Do Not Disconnect the Air Ducts)
+Post-OBT Installation of Air Ducts in DC1
+Systems Check in Orlan-MKS Spacesuit #6 Before OBT.
+Systems Check in Orlan-MKS Spacesuit #4 Before OBT.
+Post-OBT Ops
+Doffing Orlan.
+Donning Orlans #4 and 6, Closing Backpacks.
+Verification of Orlan Sizing at Orlan Pressure=0.4.
+Translation Training in Orlan-MKS #4 and Orlan-MK #6.
+Control of the Initial Condition of Orlan and Spacesuit Onboard Interface Unit (БСС) during the OBT
+Preliminary Orlan and БСС Leak Check
+Donning Gear.
+Orlan and БСС Control Units Check
+Preparation of Reports for Roscosmos web site and social media
+URAGAN. Observation and Photography
+ECON-M. Observation and photography
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Max CEVIS support
+Dragon RoBOT OBT
+Dragon capture and cargo transfer reviews
+

@@ -1,0 +1,78 @@
+
+Miniature Exercise Device (MED-2):  Today crewmembers set up cameras in Node 3 to capture video from multiple views of the Advanced Resistive Exercise Device (ARED) and MED-2 hardware.  They also applied body markers, and performed exercises before transferring the video for downlink.  The ISS’s exercise equipment is large and bulky, while the MED-2 aims to demonstrate small robotic actuators can provide motion and resistance for crew workout sessions, reducing the size and weight of exercise equipment for long-duration space missions. The MED-2 investigation is a system to test key technologies needed to develop space based exercise equipment that may provide appropriate countermeasures to the adverse effects of microgravity. This technology is critical for the initial design and development of second and third generation Counter Measure Systems (CMS) hardware that is an order of magnitude lighter and smaller than existing ISS class of CMS hardware and that has significantly greater reliability. 
+Fluids Integrated Rack (FIR) Light Microscopy Module (LMM) Hardware Configuration: The crew continued to conduct the LMM configuration activities that began last week, by removing the Constrained Vapor Bubble (CVB) control box and LMM Monochrome camera, before installing the Fluids and Combustion Facility (FCF) high rate data link, the LMM confocal unit and brackets, and the LMM confocal and wide-field cameras. The LMM hardware configuration will support upcoming ACE-T6 operations. The Light Microscopy Module (LMM) is a modified commercial, highly flexible, state-of-the-art light imaging microscope facility that provides researchers with powerful diagnostic hardware and software onboard the International Space Station (ISS). 
+Meteor Grating Configuration: The crew removed and replaced gratings in the Meteor camera located in the Window Observational Research Facility (WORF) payload volume. The Meteor payload is a visible spectroscopy instrument with the primary purpose of observing meteors in Earth orbit. Meteor uses image analysis to provide information on the physical and chemical properties of the meteoroid dust, such as size, density, and chemical composition. Since the parent comets or asteroids for most of the meteor showers are identified, the study of the meteoroid dust on orbit provides information about the parent comets and asteroids.   
+TangoLab-2 Card Troubleshooting: In August, during installation of a payload card into the TangoLab-2 slot, the card did not seat properly.  Today as part of the troubleshooting efforts, the crew took a different payload card from TangoLab-1 and then installed it into the slot in TangoLab-2. The crew photographed the inside of TangoLab-2 specifically where connectors are located for downlink. 
+Veg-03 Operations: The crew photo-documented the status of the plants in the Veggie facility. The Veg-03 investigation uses the Veggie plant growth facility to cultivate a type of cabbage, lettuce and Mizuna which are harvested on-orbit with samples returned to Earth for testing.  Organisms grow differently in space, from single-celled bacteria to plants and humans. Future long-duration space missions will require crew members to grow their own food, so understanding how plants respond to microgravity is an important step toward that goal. Veg-03 uses the Veggie plant growth facility to cultivate a type of cabbage, lettuce and Mizuna which are harvested on-orbit with samples returned to Earth for testing.
+Earth Imagery from ISS Target Operations: The crew setup and configured the RED camera in the Cupola to capture video footage of New York City and the Nile Delta. The Earth Imagery from ISS investigation creates a series of videos, showcasing Earth from space. These videos will be taken with cameras on the International Space Station in 6K hi-resolution, then integrated into videos for screensavers for public enjoyment, exploration, and engagement.
+USOS Extra-Vehicular Activity (EVA) #46 Preparations:  Today the crew set up cameras and reviewed robotics procedures/tools in preparation for this Friday’s EVA. The goals of USOS EVA #46 include Removal and Replacement (R&R) of the Latching End Effector (LEE) A Camera Lens Assembly (CLA).
+Remote Power Controller Module (RPCM) P12B-B R&R:  Today, robotics ground controllers removed a degraded RPCM from external slot P12B-B and attempted to replace it with a functional unit from P13A-G. The installation of the new RPCM into P12B_B slot was unsuccessful this morning. Ground teams have backed off to a park position. Teams are discussing a forward plan. This RPC provides power to the S-band String 2 Transponder. 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+BIOPLENKA. Activation of Cryogem-03 at +37°С setting
+KONYUGATSIYA. ТБУ-В No.2 Moding to +29 deg С
+Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops
+Miniature Exercise Device Operations Session
+Onboard Training (OBT) Robotics On-board Trainer (ROBoT) Setup
+Regeneration of Micropurification Unit (БМП) Ф2 Cartridge (start)
+Review of Robotics procedures for US Extravehicular Activity (EVA) 46
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ (ЕДВ1 – No.1300 (00071692R, СМ1ПрК), ЕДВ2 – No.1210 (00067598R, ФГБ1ПГО_1_110), ЕДВ3 – No.1242 (00069551R, ФГБ1ПГО_1_111,3.0 CTB for ЕДВ (00053480R))
+Meteor On Board Training
+METEOR Grating Configuration
+PRODUTSENT. Removal of from ТБУ-В No.05 (+4 deg C) and transfer to ТБУ-В No.02 (+29 deg C)
+СОЖ Maintenance
+Meteor Hard Disk Drive and Antivirus Update
+PRODUTSENT. Photography of Bioekologiya case setup in ТБУ-В No.02
+KONYUGATSIYA. Removal of Recomb-K from thermostat (+4 deg C) and Insertion into thermostat at +29 deg C. Tagup with specialists
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+MPEP BRACKET INSTALLATION
+Crew Medical Officer (CMO) On Board Training (OBT)
+BIOPLENKA. Fixation of Constanta No.4-1 cassette biofilm and setup in ТБУ-В No.05. Insertion of Constanta kit for incubation into Cryogem-03. Tagup with specialists
+Photo TV GoPro Setup
+Bringing ODF up to date using Progress 437 delivered files
+KONYUGATSIYA. Process activation, setup in ТБУ-В at +29°С. Tagup with specialists
+Water Drainage from SM Rodnik H2O Tank 1 to ЕДВ. SM H2O Tank 1 shell compression
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Setup
+On-board Training (OBT) EVA Robotics Onboard Trainer (ROBoT) Session
+Inspect ЕДВ cover 1308. Tagup with specialists
+IMS Update
+KONYUGATSIYA. Completion of activation process, setup in thermostat (+29 deg C). Tagup with specialists
+KONYUGATSIYA. Photography of deactivation. Tagup with specialists
+VEG-03 Plant Photo
+Environmental Health System (EHS) Coliform Water Processing
+ENERGY Big Picture Words Reading 
+TangoLab-2 Card Troubleshooting
+ENERGY Equipment check and pre-gather.
+CALCIUM. Photo and Placement of Bioecologia Cases. Photo downlink
+Preventive maintenance of DC1 АСП hatch sealing mechanisms and Progress 437 [АСА] hatch
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+EVA Camera Lens Change
+KONYUGATSIYA. Retrieval from thermostat (+29 deg С) and transfer to thermostat (+4 deg С). Tagup with specialists
+Verification of ИП-1 Flow Sensor
+Payload Locker Empty
+Fluids Integrated Rack Rack Doors Open
+Take Photo of LAB1O3 Z-Panel to Determine Configuration of all Umbilicals.
+LMM Hardware Configuration for Confocal
+Exercise Data Downlink via OCA
+CONTENT. Experiment Ops
+Fill SM Rodnik H2O Water Tank 1 with Disinfectant
+Fluids Integrated Rack Rack Doors Close
+Fluids Integrated Rack Hardware Return
+Glacier Desiccant Swap Alternate
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+BIOPLENKA. Removal of Samples from the Thermostat, fixation of Constanta cassette No.4-2 biofilm. Tagup with specialists
+BIOPLENKA. Photography during the Insertion into thermostat
+Regeneration Micropurification Unit (БМП) Ф2 Absorption Cartridge (end)
+
+Completed Task List Activities
+
+Emergency Mask OBT Questionnaire
+Vande Hei Glove Inspection
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+RPCM R&R
+Standard commanding
+

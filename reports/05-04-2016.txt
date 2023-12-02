@@ -1,0 +1,98 @@
+
+Fluid Shifts Baseline Imaging Using Chibis in the Russian Segment: The crew began operations for the third and final week of the Fluid Shifts experiment by performing data collections while wearing the Chibis Lower Body Negative Pressure (LBNP) device. The Fluids Shift investigation is divided into three one-week segments: Dilution Measures, Baseline Imaging, and Baseline Imaging using the Russian Chibis Lower Body Negative Pressure (LBNP) device. The experiment measures how much fluid shifts from the lower body to the upper body, in or out of cells and blood vessels, and determines the impact these shifts have on fluid pressure in the head, changes in vision and eye structures.
+ 
+Rodent Research-3 (RR-3) Transfer and Bone Densitometer Scans: Following yesterday’s grip strength operations, today the crew transferred the rodents from their habitats, configured Ultrasound 2, and performed bone densitometer scans with support from ground teams. This is one of three sessions planned this week that studies the molecular and physical changes to the musculoskeletal system that occur in space. Results will expand scientists’ understanding of muscle atrophy and bone loss in space while testing an antibody that has been known to prevent muscle wasting in mice on Earth.
+ 
+Microbial Observatory-1 Review: In preparation for upcoming Microbial Observatory -1 operations, the crew reviewed reference material and videos before discussing sample collection procedures with the payload developer. The Microbial Observatory-1 investigation monitors the types of microbes present on ISS over a one-year period. Samples are returned to Earth for further study, enabling scientists to understand the diversity of the microbial flora on the ISS and how it changes over time.
+ 
+AMS external survey: Last night, Robotics Ground Controllers successfully completed a survey of the Alpha Magnetic Spectrometer (AMS) payload from various angles to understand the state of the payload as well as to obtain detailed views of the payload. This evening, controllers will translate the Mobile Transporter (MT) from Work Site 2 (WS2) to WS4. The Space Station Remote Manipulator System (SSRMS) will then walk off to Node 2 to perform Dragon Thermal Protection System (TPS) inspection and re-grapple in preparation for unberth on May 11.
+ 
+Treadmill 2 (T2) software update:  Ground teams updated the software on the T2.  The regularly scheduled exercise session on T2 after the update was performed nominally.
+ 
+Pressurized Mating Adapter (PMA1)/Node 1 Intermodule Ventilation (IMV) Reconfiguration:  Following the PMA1/Node 1 IMV reconfiguration activity on Monday, data indicated that air exchange is still occurring between the Russian segment and the USOS.  Today, to limit the air exchange through the PMA, the crew repositioned the Node 1 Overhead Starboard diffuser vanes so the air flows away from the PMA.  Additionally, the crew will be reconfiguring the stowage in the PMA to direct the air coming out of the PMA grille toward the Russian Segment.  The airflow between the segments is being limited in order to optimize CO2 removal throughout the ISS.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+FLUID SHIFTS. Comm configuration for the experiment / r/g 9995
+FLUID SHIFTS. Gathering and Connecting Equipment for TV coverage
+FLUID SHIFTS. Activation of РБС for Ultrasound Equipment / r/g 2133
+FLUID SHIFTS. Ultrasound 2 Setup and Activation in SM
+Rodent Research (RR)  Camcorder Setup
+FLUID SHIFTS. Assistance with Chibis and Gamma-1 r/g 2136
+FLUID SHIFTS. Chibis Setup / r/g 2136
+Rodent Research (RR)  Animal transfer to MSG and back
+Rodent Research (RR) Blood Samples Retrieval from MELFI
+Replacement of ПФ1, ПФ2 Dust Filter cassettes and cleaning В1, B2 fan screens in MRM2
+Rodent Research (RR) Experiment Ops
+Rodent Research (RR) Bone Densitometer Scan
+FLUID SHIFTS. Ultrasound 2 Scan, Operator 1
+FLUID SHIFTS. Ultrasound 2 Scan, Subject
+Rodent Research (RR) Bone Densitometer Scan
+СКПФ1, СКПФ2 Dust Filter Replacement and MRM1 Gas-Liquid Heat Exchanger (ГЖТ) Cleaning
+FLUID SHIFTS. Chibis Closeout Ops / r/g 2136
+Rodent Research (RR) Camcorder Setup
+Gathering and connecting SM-AGAT-U52 charger r/g 2130
+Verification of ИП-1 Flow Sensor Position
+24-hour ECG Monitoring (start) / r/g 2107
+24-hour BP monitoring (start) / r/g 2108
+MICRO10 SABL 2 Rack Doors Open
+Complete the Dose Tracker application
+Rodent Research (RR) Habitat Transfer
+FLUID SHIFTS. Chibis Setup / r/g 2135
+FLUID SHIFTS. Operator Assistance with Chibis and Gamma-1 r/g 2135
+FLUID SHIFTS. Ultrasound 2 Setup and Activation in SM
+ПФ1, ПФ2 Dust Filter Replacement and В1, В2 Fan Grille Cleaning in DC1
+FLUID SHIFTS. Ultrasound 2 Scan, Test Subject
+FLUID SHIFTS. Ultrasound 2 Scan, Operator
+Vacuum Cleaning of ВД1 and ВД2 air ducts in DC1
+FLUID SHIFTS. Chibis Closeout Ops / r/g 2135
+SPHEROIDS. Temperature Check
+FLUID SHIFTS. Deactivation of РБС and USND / r/g 2134
+Soyuz 720 Samsung Tablet Recharge, Initiate
+Soyuz 719 Samsung Tablet Recharge, Initiate
+Rodent Research (RR) Habitat Transfer
+Rodent Research (RR) Experiment Ops
+FLUID SHIFTS. Ultrasound 2 Stowage in SM
+Rodent Research (RR) Bone Densitometer Scan
+FLUID SHIFTS. CCFP hardware, HRF Laptop in SM
+PMA1 airflow redirect [Deferred]
+Rodent Research (RR) Bone Densitometer Scan
+Cleaning of TVS LIV voltage converter vent grille
+СОЖ Maintenance
+VIZIR. Experiment Ops with СКПФУ Hardware r/g 2125
+FLUID SHIFTS. Installation of cable assembly for voltage converter r/g 2131
+FLUID SHIFTS. Hardware Handover to USOS
+Cleaning FGB ЦВ1 Circulation Fan Screens
+FSL Optical Adapter Cable removal and restoring EDR and FSL connections
+Rodent Research (RR) Experiment Ops
+FLUID SHIFTS. Connecting US-invertor to СУБА
+FLUID SHIFTS. Crew Onboard Support System (КСПЭ) Hardware  Deactivation and Closing Applications
+FLUID SHIFTS. Restore nominal comm config
+CONTENT. Experiment Ops / r/g 2119
+USND2 Verification of devices and camcorder configuration
+WHC EDV-U R&R
+Rodent Research (RR) Habitat Transfer
+Reconfigure LAB camcorder and Dual Canon Li-Ion Battery Charger to nominal config
+MICROBS1  Procedure Review
+CONTENT. Experiment Ops / r/g 2118
+MICROBS1 Crew Conference
+Soyuz 720 Samsung Tablet Recharge, Terminate
+Flushing БКО for Condensate Water Recovery System r/g 2121
+Soyuz 719 Samsung Tablet Recharge, Terminate
+C2V2 Voice Check
+
+ 
+Completed Task List Items
+
+WHC KTO replace
+
+ 
+Ground Activities
+All activities were completed otherwise noted. 
+
+RR ops support
+C2V2 checkout
+Nominal ground commanding
+
+ 

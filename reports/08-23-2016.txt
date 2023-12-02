@@ -1,0 +1,96 @@
+
+SpaceX-9 Dragon Pack: In preparation for SpX-9 return this Friday the crew completed the following:
+
+Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) to Polar Sample Transfer: Samples were transferred from the MELFI to the Polars.
+Space Automated Bioproduct Lab (SABL) CO2 Controller Removal: SABL-1’s CO2 Incubator Controller was removed for return on SpaceX-9.
+SPHERES Blue Satellite: The CO2 tank in the SPHERES blue satellite was removed, vented, and packed.
+Meteor Hard Drive Retrieval: The Meteor Laptop hard drive was retrieved.
+
+Mouse Epigenetics Habitat Cage Unit Maintenance:  The Mouse Cage Units containing the mice were transferred from the Cell Biology Experiment Facility (CBEF) to the glove box to conduct food cartridge exchanges and cleaning activities. The crew also performed troubleshooting activities on the Transportation Cage Units (TCU) by performing individual cover replacements, cage block replacements, and TCU exchanges to prepare for return on SpX-9. The Mouse Cage Units were then returned to CBEF.  The Mouse Epigenetics investigation studies altered gene expression patterns in the organs of male mice that spend one month in space, and also examines changes in the deoxyribonucleic acid (DNA) of their offspring. Results from the investigation identify genetic alterations that happen after exposure to the microgravity environment of space. 
+Biomolecule Sequencer Surface Pro 3 Hardware Checkout: The crew set up and connected Surface Pro 3 tablets to the wireless network before completing checkout activities to support upcoming Biomolecule Sequencer operations later this week. The Biomolecule Sequencer investigation seeks to demonstrate for the first time that DNA sequencing is feasible in an orbiting spacecraft. A space-based DNA sequencer could identify microbes, diagnose diseases and understand crew member health and potentially help detect DNA-based life elsewhere in the solar system.
+Fine Motor Skills: A series of interactive tasks on a touchscreen tablet was completed for the Fine Motor Skills investigation. This investigation is critical during long-duration space missions, particularly those skills needed to interact with technologies required in next-generation space vehicles, spacesuits, and habitats. The crewmember’s fine motor skills are also necessary for performing tasks in transit or on a planetary surface, such as information access, just-in-time training, subsystem maintenance, and medical treatment. 
+Habitability Human Factors Directed Observations: The crew recorded and submitted a walk-through video documenting observations of life onboard ISS, providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the ISS. Observations can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need. 
+Dose Tracker: The crew completed entries for medication tracking on an iPad today. This investigation documents the medication usage of crewmembers before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+Columbus Payload Power Switching Box (PPSB) – SDX Switch 1 Reconfiguration: The crew reconfigured the SDX 1 switch on the PPSB1 for RapidScat in Columbus in preparation for tomorrow’s 63P reboost.
+Columbus Power Distribution Unit 1 (PDU-1) Troubleshooting: On Monday, ground teams were unable to repower the COL’s PDU-1  Outlet 3 which provides operational power to RapidScat and Solar Monitoring Observatory (SOLAR) payloads.  Today, ground teams successfully repowered SOLAR from Outlet 3 by turning OFF the Columbus Payload Power Switching Box (PPSB) – SDX switch 1 to isolate RapidScat from the power feed.  RapidScat has active heater power and can remain deactivated with no impact to hardware.  Ground teams continue to investigate the anomaly.
+Mobile Servicing System (MSS) Operations: Last night Robotics Ground Controllers stowed the Special Purpose Dexterous Manipulator (SPDM) on Mobile Base System (MBS) Power Data Grapple Fixture #2 (PDGF2). At the end of rigidizing its Latching End Effector (LEE) on MBS PDGF2, the SPDM safed, which has been observed previously. Controllers performed the necessary recovery steps and latched and mated the SPDM LEE to the PDGF. The SSRMS was then maneuvered to grapple the SpX-9 Flight Releasable Grapple Fixture (FRGF) in preparation of the SpX-9 release on Friday.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+MO-8 Body mass measurement Configuration Setup
+Body Mass Measurement  r/g 3165
+МО-8. Closeout Ops
+MORZE. Logging Liquid and Food (Medicine) Intake / r/g 3167
+Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops
+Conference of Search and Rescue (ГПСК) specialists with returning crew
+DRAGON. Transfers
+WRS Sample Collection
+Fine Motor Skills (FINEMOTR) Experiment Ops
+Measuring top and bottom plate connection in SM (panels 225, 226) r/g 3171
+PILOT-T. Preparation for the experiment r/g 3159
+DRAGON. Transfers
+PILOT-T. Experiment Ops r/g 3159
+Photo/TV, Camcorder Activation Check
+Filling (separation) of ЕДВ-СВ. for Elektron or ЕДВ-СВ
+TOCA Potable Water Dispenser (PWD) Sample Analysis
+DUBRAVA. Observation and photography using VSS / r/g 3176
+WRS Recycle Tank Fill from EDV
+Water Processing using MCD
+СОЖ Maintenance
+Procedure review for sample transfer from MELFI to POLAR
+ARED Cylinder Flywheel Evacuation
+Sample Transfer from MELFI to POLAR
+Photo/TV, Camcorder Activation Check
+PILOT-T. Experiment Ops r/g 3163
+Relocate Double Coldbags for access to Dragon Lithium Hydroxide (LiOH) Enclosure
+HABIT Preparing for the experiment
+Dragon Lithium Hydroxide Filter Bag Remove and Replace
+SP3 Hardware Checkout
+PILOT-T. Photography of the Experiment Ops / r/g 3161
+Photo/TV, Camcorder Activation Check
+Software Update installation on RSS1 Laptop for BRI Diagnostics r/g 3169
+PILOT-T. Closeout Ops r/g 3163
+SPHERES Battery Replacement
+MOUSE Hardware Setup
+PAO Hardware Setup
+MORZE. Logging Liquid and Food (Medicine) Intake / r/g 3167
+On MCC Go Transfer of urine from RS ЕДВ-У U and USOS brine to Progress 433 (DC1) r/g 3164
+MORZE. Psycho-physiological Evaluation: SUPOS Test
+Preparation for diagnostics of FGB Power Supply System Devices r/g 3168
+Crew Prep for PAO
+XF305 Camcorder Settings Adjustment
+MOUSE Habitat Cage Unit Cleaning
+PAO Event
+SEISMOPROGNOZ. Check Ethernet interface cable routing between МКСД and АСП r/g 3166
+RS internal lighting system audit (SM, MRM1, MRM2, DC1) / r/g 3009
+TOCA Data Recording
+Gathering Centerline Berthing Camera System (CBCS) and Vestibule Outfitting Kit Equipment
+ISS-HAM Radio Session
+Mouse Epigenetics.  Habitat Cage Unit Cleaning 5 and Food Exchange in Glovebox
+Photo/TV, Camcorder Activation Check
+DRAGON. Transfers
+Mouse Epigenetics. Habitat Cage Unit Cleaning 5 
+Photo/TV, Camcorder Activation Check
+Plant RNA Regulation/European Modular Cultivation System  Onboard Training (OBT)
+Video Footage of Greetings / r/g 3175
+CONTENT. Experiment Ops / r/g 3160
+MORZE. Experiment setup / r/g 3170
+Photo/TV, Camcorder Activation Check
+IMS Delta File Prep
+Polar Transfer Review
+Dragon Cargo Operations Conference
+USOS Window Shutter Close
+Closing window 6,8,9,12,13,14 shutters/ r/g 6965
+MORZE. Logging Liquid and Food (Medicine) Intake / r/g 3167
+SPLANH. Diet Restrictions Reminder /  r/g 3162
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Maritime payload ops
+Nominal ground commanding
+

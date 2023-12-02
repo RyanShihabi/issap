@@ -1,0 +1,59 @@
+
+Human Research Program (HRP) Collections: The crew continued a urine collection session today and performed the first blood draw in support of the Biochemical Profile and Repository experiments. Collected samples are placed in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for return at a later date. The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body. Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+Orbital ATK (OA)-5 Cargo Operations:  Today, the crew continued transferring cargo from Cygnus to ISS. After the transfer operations, CDR participated in a cargo conference with ground specialists. At last report approximately 9.5 hours of cargo operations had been completed and an estimated 16 hours of operations remaining. 
+International Docking Adapter (IDA) Survey: The robotics team is performing an imagery survey of the recently installed IDA at Pressurized Mating Adapter 2 (PMA-2). The purpose of the survey is to perform a full characterization of the final installed state of the PMA docking target, IDA peripheral targets, hemi-spherical and planar reflectors, and key features on the Node 2 end-cone, PMA-2, and IDA that face ISS forward. This survey will help ensure that there are no key features that are partially blocked or unexpectedly shadowed to ensure the relative navigation of any incoming vehicles will not be adversely affected. In addition, the imagery will be used to provide accurate information regarding the position and orientation of the docking plane interface. Today’s imagery will be a series of static surveys that place the SPDM at several locations around the PMA-2 and IDA. Additional dynamic surveys using auto-sequence commanding to simulate the view from an incoming docking vehicle as it approaches the ISS will be performed next week.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+EKON-M. Observations and photography
+HRF Generic Urine Collection
+HRF Generic Blood Collection
+HRF Generic Refrigerated Centrifuge Configuration
+PAO Preparation
+HRF Generic Sample MELFI Insertion
+PAO Hardware Setup in LAB
+TV Conference with Voskhod Recreation Camp
+IMS Tagup
+ISS HAM Service Module Pass
+Crew time for ISS adaptation and orientation
+HRF Generic Frozen Blood Collection Conclude Stow
+DAN. Experiment
+Verification of ИП-1 Flow Sensor Position
+Replacement of ИП-1 Flow Sensor on ПхО-MRM2 hatch (removal)
+Nitrogen Purge Assembly (БПА-M) R&R in Elektron-VM Oxygen Generation Unit [СКО] (Removal)
+De-mating БКС connector from and БПА-М connector.
+Demating telemetry connector from ИП-1 Flow Sensor.
+БПА-M Nitrogen Purge Assembly R&R in Elektron-VM Oxygen Generation Unit [СКО] (Installation)
+Replacement of Flow Indicator ИП-1 on ПхО-MRM2 hatch (installation)
+Mating БКС and БПА-М Connectors
+Mating ИП-1 Flow Sensor telemetry connector
+Deinstall Nitrogen purging unit (БПА) КР6 half connector intended for disposal
+Replacement of ИП-1 Flow Sensor on ПхО-MRM2 hatch, Closeout Ops
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+VEG-03 Plant Photo
+24-hour ECG Recording (termination)
+СОЖ maintenance
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+ISS Crew Orientation
+24-hour Blood Pressure Recording (start)
+Transfer of Hard Drive from USOS to RS
+Progress 433 (DC1) Transfers and IMS Ops
+Photography of Plume Impingement and Deposit Monitoring Unit (БКДО) position on MRM2 through SM window No.13
+IDENTIFIKATSIYA. Exporting ИМУ-Ц Micro-Accelerometer Data to Laptop
+Crew time for ISS adaptation and orientation
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Transfer Cygnus Cargo Operations
+Cygnus Cargo Operations Conference
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+IDA Imagery Survey
+4B2 Battery Capacity Test
+

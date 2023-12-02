@@ -1,0 +1,19 @@
+
+Payloads
+RADI-N2 (Radiation Dosimetry Inside ISS-Neutrons): The crew retrieved the 8 neutron bubble detectors and pouches and handed them over to the Russian crew for processing. The objective of this Canadian Space Agency investigation is to better characterize the ISS neutron environment, define the risk posed to the crew members’ health, and provide the data necessary to develop advanced protective measures for future spaceflight.  It’s been recognized that neutrons make up a significant fraction (10-30%) of the biologically effective radiation exposure in low-Earth orbit.  The bubble detectors used in the investigation are designed detect neutrons and ignore all other radiation.
+Systems
+Mobile Servicing System (MSS) Operations: Yesterday, MSS software version 10.1 was uplinked to ISS. Following the uplink, ground controllers (ROBO) power cycled the Lab and Cupola Robotics Work Stations (RWS) to download the new software. The Lab RWS was commanded to backup status nominally. The Cupola RWS command to active status was aborted due to invalid checkpoint data. After ROBO reset the checkpoint data the Cupola RWS was commanded to active status and the MSS was powered up. Due to the 2.5 hour delay, the Direct Drive Testing activity was postponed to a later date. The Feed Forward Limping (FFL) checkout was completed.
+USOS Isolation Operations: Today, the crew completed gathering and transferring items to the Russian Segment along with placing life support equipment in a dormant state in preparation for the upcoming USOS isolation period. The crew closed several module hatches to allow the ground team to monitor pressures throughout the weekend. The crew will remain isolated in the Russian Segment (SM/MRM2/Soyuz/Progress) until Monday afternoon. The ECLS Community has been tracking an increase in nominal atmosphere leakage since October 2019.
+Completed Task List Activities:
+
+USOS Isolation Gather
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+USOS Module Isolation Ground Support
+MT Translation and SSRMS Walk-off
+LSR Software Update
+RGN OGA Discharge
+

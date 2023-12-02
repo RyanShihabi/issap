@@ -1,0 +1,79 @@
+
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Zero Robotics (ZR):  Today the crew provided support for a SPHERES ZR Challenge competition between students from High Schools around the world. The SPHERES-Zero-Robotics investigation establishes an opportunity for high school students to design research for the International Space Station (ISS). As part of a competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS.
+Probiotics Operations: Today a crewmember initiated the first of four sampling phases of the JAXA Probiotic investigation by collecting fecal samples and immediately stowing the samples into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). This sampling phase includes fecal and saliva sample collections and a questionnaire. The saliva sample collection and questionnaire for this phase will be conducted this weekend. Some species of harmful bacteria such as Salmonella grow stronger and more virulent in the microgravity environment of space. At the same time, the human immune system is weaker in space, leading to increased health risks. The objective of the Probiotics investigation is to study the impact of continuous consumption of probiotics on immune function and intestinal microbiota in astronauts under closed microgravity environment This investigation studies the effects of beneficial bacteria (Probiotics) to improve crew members’ intestinal microbiota as well as their immune function on long-duration space missions. 
+Rodent Research 6 (RR-6) Transporter Setup: To prepare for return on SpaceX-13, the crew activated the lixit water bottles, installed food bars, and transferred the rodents from habitats 1 and 2 to the animal transporter. After the rodents were transferred, the transporter were moved from the US Lab to the SpaceX vehicle. The rodents in habitats 3 and 4 will remain on the International Space Station (ISS).  The RR-6 mission uses mice flown aboard the ISS and maintained on Earth to test drug delivery systems for combatting muscular breakdown in space or during disuse conditions. RR-6 includes several groups of mice selectively treated with a placebo or implanted with a nanochannel drug delivery chip that administers compounds meant to maintain muscle in low gravity/disuse conditions.
+Earth Imagery from ISS Target (EIISS): Using the Nikon camera, the crew took images of Seattle and the Pacific Northwest.  The crew also used the Red camera to take images of Fitz Roy, Patagonia. EIISS is used to support creation of a series of videos showcasing Earth views taken from space. The videos are taken with cameras on the ISS in 6K hi-resolution and are integrated into videos for screensavers for public enjoyment, exploration, and engagement. 
+Made in Space Removal and Stow: To create space for the crew to reach the Made in Space Fiber Optics’ bolts in the back of EXPRESS Rack (ER7), the crew removed Manufacturing Device from ER7 locker 6.  After the Made in Space Fiber Optics was removed and stowed, the crew reinstalled the Manufacturing Device back into ER7.  The Optical Fiber Production in Microgravity (Made in Space Fiber Optics) investigation demonstrates the merits of manufacturing fiber optic filaments in microgravity. The fiber optic material chosen for this demonstration is ZBLAN. Research indicates this material has the potential for better optical qualities than the silica used in most fiber optic cable. This demonstration of the scientific and commercial merits of manufacturing exotic optical fiber in microgravity could set the stage for large scale manufacture of high-quality fiber optic fiber in orbit. 
+Airway Monitoring US Airlock Reconfiguration: Following yesterday’s successful Airway Monitoring session in the Airlock, today the crew will disconnect and stow the experiment hardware and reconfigure the Airlock back to its nominal configuration. Airway Monitoring is the first experiment to use the US Airlock as a hypobaric facility for performing science. Utilizing the US Airlock will allow unique opportunities for the study of gravity, ambient pressure interactions, and their effect on the human body. This investigation studies the occurrence and indicators of airway inflammation in crewmembers, using ultra-sensitive gas analyzers to analyze exhaled air. This helps to highlight any health impacts and to maintain crewmember well-being on future human spaceflight missions, especially longer-duration missions to the Moon and Mars for example, where crewmembers will have to be more self-sufficient in highlighting and avoiding such conditions. 
+Light Microscopy Module (LMM) Petri Plants Plate Installation: Using the light meter, the crew recorded the light intensity for the Petri Plates and took science photos of the plates before checking that inside of Petri Plate was free of condensation and the outside of the plate was dry to install the LMM for imaging.  The crew subsequently removed the LMM Petri base from the LMM Auxiliary Fluids Container (AFC) and installed the Petri Plate onto the LMM petri base before installing them into the LMM AFC. Plants cultivated in microgravity look mostly normal, but space-grown plants have a number of distinct features compared to plants grown in comparable habitats on Earth, most notably in the way their roots grow. The Characterizing Arabidopsis Root Attractions-2 (CARA-2) investigation studies the molecular signals that can cause these changes, including the genetic underpinnings of how a plant senses the direction of gravity. Results can improve efforts to grow plants in microgravity on future space missions, enabling crews to use plants for food and oxygen. 
+Waste & Hygiene Compartment (WHC) Pump Separator R&R:  After recent incidents of repeated annunciations of the “check separator” warning light on the WHC, the crew changed out the WHC Pump Separator.  This hardware had been approaching end of life.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Payload F4 Pack
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+WHC Pump Separator R&R
+Polar Express Rack Uninstall, Transfer, Handover And Dragon Install
+Polar Express Rack Uninstall, Transfer And Handover
+Manufacturing Device Locker Move
+24-hour ECG Recording (termination)
+Made In Space Fiber Optics Removal & Stow
+Treadmill 2 (T2) Exercise Video Equipment Setup
+MOTOCARD. Experiment Session.
+MOTOCARD. Operator Assistance with the Experiment
+Dragon F4 Loading
+Petri Plants Plate Photos
+Fluids Integrated Rack Rack Doors Open
+AIRMON Stow & Transfer
+Petri Plants Plate Check
+UPA Brine Filter Gather
+LMM Petri Plants Plate Installation
+Regenerative Environmental Control and Life Support System (ECLSS) Urine Processor Assembly (UPA) Brine Filter Changeout
+Cold Stowage Dragon Double Coldbag Pack Overview Review
+SPHERES Crew Conference
+FIR Camera Replace
+SPHERES Zero Robotics Setup and Checkout
+24-hour Blood Pressure Recording (start)
+Photo/TV Camcorder Setup Verification
+Airway Monitoring Video Stow
+СОЖ maintenance
+Teardown the PS-120 Junction Box and stow, and reconfigure A/L UOP.
+Fluids Integrated Rack Doors Close
+Rodent Research Node 2 Camcorder Video Setup
+SPHERES Zero Robotics Welcome
+BRI power off
+Rodent Research Live Animal Return
+SPHERES  Zero Robotics Run
+Rerouting Ethernet cables above BRI unit (panel 229А)
+Treadmill 2 (T2) Exercise Video Equipment Stow
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+Cargo Transfer to Dragon
+Probiotics Fecal Sample Operations
+Probiotics Fecal Sample MELFI Insertion
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+HRF Generic Frozen Blood Collection Setup
+BRI power on. Express-check of nominal network configuration
+Power cycle N3 AVN443 HD Encoder
+СТТС comm assets switchover to a backup
+VHF2d test from SM (using redundant СТТС sets )
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Polar Express Rack Uninstall, Transfer, And Dragon Install with Rodent Transporter
+Power cycle COL AVN443 HD Encoder
+SPHERES Zero Robotics Shutdown
+Dragon Cargo Operations Conference
+CB/ISS CREW CONFERENCE
+Temperature and Humidity Control (THC) Portable Fan Assembly (PFA) Teardown
+
+Completed Task List Activities
+
+WHC Pump Separator R&R
+Portable Computer System (PCS) R19 Hard Drive Pregather
+TangoLab-1 Card Cube Remove
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Standard commanding
+

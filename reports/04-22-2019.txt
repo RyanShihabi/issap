@@ -1,0 +1,143 @@
+
+Treadmill 2 (T2) Mechanical Issues and False Fire: During a T2 session this morning, the crew reported that the belt slowed dramatically, a grinding noise was heard, and the T2 Smoke Detector triggered a fire alarm.  Air measurements confirmed this to be a false fire event and investigation by the crew confirmed that the T2 slats are not square with the T2 closeout panel. T2 remains No-Go for use at this time.  Ground teams are reviewing additional imagery of the hardware and will hold meetings this afternoon to discuss their findings. 
+NanoRacks Platforms: Over the weekend, a crewmember installed Module 78 onto NanoRacks Platform 1 and removed Module 77. NanoRacks Platforms is a multipurpose research facility on board the International Space Station (ISS). NanoRacks Platforms supports NanoRacks Modules in the CubeSat form factor by providing power and data transfer capabilities to operate investigations in microgravity.
+Space Tango MultiLab Locker (TangoLab-1): Over the weekend, a crewmember installed a new sample CardCube in the TangoLab-1 facility. TangoLab-1 is a reconfigurable general research facility designed for microgravity research and development and pilot manufacturing aboard the ISS.
+Rodent Research-12 (RR-12): Today, crewmembers transferred 40 mice from the Cygnus spacecraft into the ISS Rodent Habitats. RR-12, Tetanus Antibody Response by B cells in Space (TARBIS), examines the effects of spaceflight on the function of antibody production and immune memory.  Spaceflight is known to have a dramatic influence on immune response, but there is little research on its effect following an actual challenge to the body’s immune system. Using a mouse model makes this possible, as the mouse immune system closely parallels that of humans.
+Radiation Dosimetry Inside ISS-Neutrons (RADI-N2): Today, a crewmember retrieved 2 temporarily stowed dosimeters for deployment in crew quarters and the other to be donned for 7 days. Six dosimeters were retrieved from a Russian crewmember and were deployed in the Cupola. The objective of this Canadian Space Agency (CSA) investigation is to better characterize the ISS neutron environment, define the risk posed to the crew members’ health, and provide the data necessary to develop advanced protective measures for future spaceflight. It has been recognized that neutrons make up a significant fraction (10-30%) of the biologically effective radiation exposure in low-Earth orbit. The bubble detectors used in the investigation are designed detect neutrons and ignore all other radiation.
+Fluid Shifts: Today, a crewmember performed the Dilution Measures setup in preparation of blood, urine, and saliva collections.  The purpose of this study is to characterize fluid distribution and compartmentalization associated with long-duration space flight, and to correlate these findings with vision changes and other elements of the Spaceflight Associated Neuro-ocular (SANS) syndrome.
+POLAR: Today, a crewmember activated and checked out POLAR 6 and 8.  POLAR is a Cold Stowage managed facility that provides transport and storage of science samples at cryogenic temperatures (-80ºC) to and from the ISS.
+Spaceborne Computer: Today, Spaceborne Computer was deactivated by ground controllers and therefore completing its experiment and will be de-installed and stowed.  Spaceborne Computer’s goal is to run a yearlong experiment of high performance commercial off-the-shelf (COTS) computer systems on the ISS.  During high radiation events, they intend to verify if the systems can still operate correctly by lowering their power, and therefore, speed. This research helps scientists identify ways of using software to protect ISS computers without expensive, time-consuming or bulky protective shielding.
+Thermal Amine System:  Today, the crewmembers completed preliminary steps for the new Thermal Amine System, which arrived on NG-11. Thermal Amine System tests a method to remove carbon dioxide (CO2) from air aboard the ISS, using actively heated and cooled amine beds. Controlling CO2 levels on the station reduces the likelihood of crewmembers experiencing symptoms of CO2 buildup, which include fatigue, headache, breathing difficulties, strained eyes, and itchy skin. The system includes elements that reduce loss of water vapor, and recover CO2 for use in electrolysis to produce oxygen.
+Northrop Grumman 11 (NG-11) Cygnus Cargo Operations:  After Friday’s successful berthing of NG-11, the crew ingressed the vehicle and started unloading cargo; since then, the crew has completed approximately 17 hours of cargo operations.  Ground teams estimate ~20 hours of cargo operations remain to completely unload the vehicle of the newly arrived equipment and science.
+Waste and Hygiene Compartment (WHC) Urine Receptacle Remove and Replace (R&R):  Today, the crew removed and replaced the WHC Urine Receptacle and Insert Filter.  After replacement, a functionality test of the WHC was performed and the WHC was declared operational.
+Completed Task List Activities:
+
+Payloads NAS Deep Cleaning
+SpX-17 Dragon Prepack
+ESA Cargo Consolidation
+Housekeeping Procedure Print
+EPM Power Distribution ESEM Switch
+WHC KTO Replace
+N1 Food Pantry Survey
+IFM Personal Tool Kits Configuration
+IFM Thermal Amine Installation Part 1
+IFM Thermal Amine Installation Part 2
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Cygnus Power Channel Test
+Primary Power System Batter Capacity Test
+
+Look Ahead:
+Tuesday, 04/23 (GMT 113): 
+Payloads:
+
+Fluid Shifts Urine and Blood collections (NASA)
+ISS HAM (NASA)
+MISSE MSC Installation on to JEM Slide Table (NASA)
+MVP-02 historical photos and Install (NASA)
+Space Fibers Setup (NASA)
+RR-12 H2O chk (NASA)
+GLACIER Basic Express Rack install and Tray removal (NASA)
+Cryo Chiller Install and Cartridge insert (NASA)
+SUBSA H/W Stow (NASA) 
+
+Systems:
+
+NG-11 Cargo Transfer
+Dragon OBT Conference
+Dragon Robotics Review OBT
+MT Translation 
+
+Wednesday, 04/24 (GMT 114): 
+Payloads:
+
+ASTROPI Transfer to COL module (ESA)
+KUBIK 5&6 setup (ESA)
+ICE CUBES Cube install and remove (ESA)
+Z-Book Harddrive Update (NASA)
+Actiwatch-Plus Chk (NASA)
+STPH5-ICE photo (NASA)
+Fluid Shifts Blood, urine and saliva collect (NASA)
+Space Fiber sample exchange (NASA)
+NeuroMapping (NASA)
+Team Task Switching (NASA)
+Food Acceptability (NASA)
+
+Systems:
+
+NG-11 Cargo Transfer
+Dragon Rendezvous Review OBT
+Dragon ROBoT OBT
+IFM N2 Filter R&R
+IFM WHC Pre-Treat Tank R&R
+MT Translation
+
+Thursday, 04/25 (GMT 115): 
+Payloads:
+
+ASTROPI Docking station activation (ESA)
+ISS Experience Node3 setup (NASA)
+Team Task Survey (NASA)
+PONDS Historical Photo and work area prep (NASA)
+Fluid Shifts ops (NASA)
+Space Fiber hardware stow (NASA)
+Veggie Display OBT (NASA)
+
+Systems:
+
+NG-11 Cargo Transfer
+ROBoT Session for Dragon
+THC IMV Flow Measurement Survey
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+IMS Delta File Prep
+DUBRAVA. Observations and Photography of Tellerman Forest
+ECON-M. Observation and Photography
+ISS Experience Message Review
+Preparation of Reports for Roscosmos Web Site and Social Media
+СОЖ maintenance
+LSG Work Volume Deploy
+Progress 441 (DC1) Priority Cargo Transfers and IMS Ops
+COSMOCARD. 24hr electrocardiogram recording prep + init
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+LSG Crew Restraint Installation Subsequent (Primary)
+Installation and Connection of Communication Enhancement Device ([УУКС]).
+Rodent Research Mass Measurements-1
+Changeout of Dust Filter ПФ1-4 Cartridges in SM. Update IMS
+Changeout of Dust Filters СКПФ1, СКПФ2. Update IMS and Cleaning MRM1 Gas-Liquid Heat Exchanger (ГЖТ)
+RYASKA. Photography of cultivation cameras with plants
+Transfer Cygnus Cargo Operations
+Fluid Shifts Dilution Measures Reference Material Review
+Water Recovery and Management (WRM) Waste Water Bus (WWB) Split
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Cygnus Cargo Operations Conference
+Testing of Communication Enhancement Device ([УУКС]).
+CONSTANTA-2. Cassette retrieval from ТБУ-В and stowage on panel for 1-hour warmup
+Rodent Research Mass Measurements-2
+ПФ1, ПФ2 Dust Filter Replacement and [В1], [B2] Fan Grille Cleaning in DC1. Update IMS.
+KONSTANTA-2. Prepare and execution 5
+Polar Hardware Install into Express Rack
+Polar Desiccant Swap
+Polar Hardware Install into Express Rack
+MATRYOSHKA-R. Prep and Initialization of Bubble-Dosimeter Detectors
+MATRYOSHKA-R. Tritel Hardware Monitoring
+Polar Desiccant Swap
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters to USOS
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. BUBBLE-dosimeters initialization and deployment for exposure
+Radiation Dosimetry Inside ISS-Neutrons
+Cold Stowage Double Coldbag Icebrick Stow
+Radiation Dosimetry Inside ISS-Neutrons
+Exercise Data Downlink via OCA
+LSG Crew Restraint Removal (Primary)
+Mass Measurement Device Hardware Stow
+Onboard Training (OBT) Cygnus Debrief Conference
+LSG Work Volume Stow
+
+ 

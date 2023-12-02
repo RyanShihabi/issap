@@ -1,0 +1,146 @@
+
+Fluids Integrated Rack (FIR)/Light Microscopy Module (LMM)/ACE Module Changeout: The crew removed the processed ACE-T12 Module and installed the ACE-T10 Module. In contrast to the ACE-T12, which studied nanoparticle haloing (a mixture of non-charged large particles with much smaller charged particles), ACE-T10 looks at crystal nucleation in colloidal fluids, the origin of ageing in glasses and gels, as well as the heterogeneous nature of the microscopic dynamics in these structures. The study must be conducted in microgravity, as gravitational stresses affect the structure and growth of these solids from colloids.
+Airway Monitoring: The crew completed the Airway Monitoring ambient science session.  This was the final session on the final subject for the investigation.  In this session, both the high NO (Nitric Oxide) measurements and low NO measurements were taken. The goal of the high NO protocol is to determine how much NO is diffused into the blood, while the low NO measurement determines how much NO is exhaled with the respiration.  The primary goals of the Airway Monitoring experiment is to determine how gravity and microgravity influence the turnover of Nitric Oxide in the lungs. During future manned missions to the Moon and to Mars, airway inflammation due to toxic dust inhalation is a risk factor. Since dust may cause airway inflammation and since such inflammation can be monitored by exhaled Nitric Oxide, the present study is highly relevant for astronaut health in future space programs.
+Bio-Analyzer: The crew collected a finger blood sample, mixed the sample with the appropriate reagents, and performed two analysis cycles using the Cellular Labeling instrument in the Bio-Analyzer. They also supported a conference with ground personnel to give feedback on the session.  Although the ISS is equipped with health and life sciences research tools, existing instrumentation for the analysis of biological samples is almost completely lacking as compared to capabilities found in laboratories on Earth. The Bio-Analyzer Commissioning activity tests the Bio-Analyzer facility, which was specifically developed to quantify molecules and cells in body fluids such as blood, urine or saliva. The analysis is conducted on blood samples collected through a finger prick and the instrument provides the data within 2 hours after blood collection.
+Bionutrients:  To conclude run 1 of 6, the crew removed the 8 processed production packs for their 30 deg C incubation location and inserted them into Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  Four of the production packs were loaded with S. cerevisiae yeast and four were loaded with S. Boulardii yeast.  The crew provided some unexpected video of the 6 hour agitation operations which allowed the ground team to observe and comment on what was seen. The process uses engineered microbes, like yeast, to generate carotenoids from an edible media to supplement potential vitamin losses from food that is stored for very long periods. Specially designed storage/growth packets are intermittently activated by astronauts over a 5-year period, then frozen and returned to Earth for examination.
+Capillary Structures:  The crew completed the current session of Capillary Structures Evaporation Science 2 which included taking photographs, cleaning and stowing of the hardware, and performing appropriate file transfers. Ground teams scheduled an additional run for this session to make up for the missing 10-12 hours of camera imagery reported on June 5.  Current life-support systems on the ISS require special equipment to separate liquids and gases, including rotating or moving devices that could cause contamination if they break or fail. The Capillary Structures investigation studies a new method using structures of specific shapes to manage fluid and gas mixtures. The investigation studies water recycling and carbon dioxide removal systems, benefiting future efforts to design lightweight, more reliable life support systems for future space missions.
+Mobile Servicing System (MSS) Operations:  Robotics Ground Controllers powered up the MSS  and SSRMS was walked off from MBS PDGF1 to MBS PDGF4. SSRMS was then maneuvered to position the Latching End Effector (LEE) A to perform a snare cable survey. LEE B snare cable survey was performed yesterday.
+Extra Vehicular Activity (EVA) Glove Voltage Regulator Swap:  The crew reconfigured the Extravehicular Mobility Unit (EMU)s on EMU Don/Doff Assembly (EDDA)s and swapped the EMU Glove Voltage Regulator (ILCVR) between EMUs 3004 and 3006. The ILCVR regulates power to the glove heaters.   
+Japanese Experiment Module (JEM) Airlock (AL) Slide Table:  The crew installed the Multi-Purpose Experiment Platform (MPEP) adapter plate and JEMAL slide table passive capture mechanism on the JEMALslide table today in preparation for Japanese Small Satellite Orbital Demonstration (JSSOD) installation tomorrow. 
+Water Storage System (WSS) Checkout:  Ground controllers performed additional functional checkout of the WSS Node 2 and potable water systems after the unexpected water transfer from WSS Resupply Tanks (RST) to the WPA Waste Water (WW) tanks on Monday.  These system checkouts include valve actuations for the N2 and potable water systems.
+Oreo Service Pack (SP):  Ground controllers completed the deployment of the Oreo SSC Service Pack  including Joint Station Local Area Network (JSL) Routers and Switches.  Reloading Adlink Mini-PC was also part of final configuration.
+Completed Task List Activities:
+
+Tuesday
+
+ER2 ZBook setup
+Glovebag trash
+Rodent Research inventory
+
+
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Int MDM Swap
+SPDM Lee Survey
+MT Translation
+WSS Checkout
+
+Look Ahead:
+Thursday, 6/13 (GMT 164)
+Payloads:
+
+
+CIR manifold bottle replace
+ELF
+ISS HAM pass
+JSSOD-11 install
+Standard Measures
+Vascular Echo
+
+Systems:
+
+SSRMS contingency power jumper install
+58S crew emergency drill
+
+Friday, 6/14 (GMT 165)
+Payloads:
+
+
+Astrobee
+Actiwatch spectrum
+JEMAL depress
+JAXA Mouse Mission cleanup
+Neuromapping
+RR audit
+Standard Measures
+STFS
+Vascular Echo
+Veg-04A
+
+Systems:
+
+EMU Loop Scrub and UIA O2 Hose Inspection
+Flight Director Conference
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Probiotics Saliva Operations
+Probiotics Salive Sample MELFI Insertion
+Probiotics Question
+Bio-Analyzer Session Setup
+Photo/TV (P/TV) Airway Monitoring Video Setup
+Airway Monitoring Setup and Power On
+Sampling Condensate Water [КАВ] from СРВ-К2М before Gas-Liquid Mixture Filter (ФГС) – Sampler removal, Disassembly Sample transfer from [КАВ] container to drink bag, Closeout Ops
+Recharging Soyuz 742 Samsung PC prior to OBT, start recharge
+ISS EXP ZCAM Setup
+Standard Measures Cognition Testing HRF PC 1
+СОЖ maintenance
+Sampling atmospheric condensate [КАВ] up to СРВ-К2М БКО (Water Purification Column Unit), configuration setup, sampler installation (drink bag)
+XF305 Camcorder Setup
+Bio-Analyzer Blood Sampling And Cellular Labeling Analysis Two Samples
+Electrostatic Levitation Furnace (ELF) Software upload Cable Disconnection
+Preventive Maintenance of SM Ventilation Subsystem. Group В2. Inspection of Air Conditioning System [СКВ1, СКВ2]
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Hardware prepack for return and disposal on Soyuz 741
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Exercise Session
+JEM Airlock Slide Table (ST) Extension to JPM Side
+MPEP Installation to JEM Airlock Slide Table
+AIRMON Low NO measurements, Calibration and High NO measurement
+Collecting condensate water samples [КАВ] up to  [СРВ-К2М] БКО, sampler replacement
+BIOCARD. Operator Assistance During the Experiment and Photography
+BIOCARD. Experiment Session Tagup with specialists
+MPEP Installation to JEM Airlock Slide Table Support
+BioNutrients-1 Retrieval from SABL
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+BioNutrients-1 MELFI Insert
+BioNutrients-1 Crew Survey
+Search for AC Dry Vacuum Cleaner Debris Bags
+Light Installation for JPM1OF2
+Crew Departure Preparations for Return to Earth
+AIRMON High NO measurement
+Private Psychological Conference (PPC)
+Space Automated Bioproduct Lab, CO2 Incubator Swap
+Bio-Analyzer Crew Session Debrief
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Bio-Analyzer Hardware Conclude
+Private Medical Conference (PMC)
+JEM Dragon18 Stowage Reconfiguration
+Verification of ИП-1 Flow Sensor Position
+Recharging Soyuz 742 Samsung PC prior to OBT, remove from recharge
+Preventive Maintenance of SM Ventilation Subsystem. Group В2. Inspection of Air Conditioning System [СКВ1, СКВ2]
+Low NO Analyzer Jumper Connection
+Private Psychological Conference (PPC)
+Sampling condensate water [КАВ] upstream of СРВ-К2М БКО, removing sampler, equipment disassembly
+Private Medical Conference (PMC)
+PILOT-T. Preparation for the experiment. Tagup with specialists as necessary
+Standard Measures Fecal Collection Setup
+PILOT-T. Experiment Ops. Tagup with specialists as necessary
+Private Family Conference (PFC)
+ExtraVehicular Activity Glove Regulator Removal
+ExtraVehicular Activity Glove Regulator and EVA Mobility Unit Swap
+Airway Monitoring Power Off
+Environmental Health System (EHS) – Formaldehyde Monitoring Kit (FMK) Stow Operation
+Water Resource Management Water Storage System Compressor-N On
+Private Psychological Conference (PPC)
+Cupola Robotic Work Station (RWS) Fastener and Cable Inspection.
+ISS Crew departure preparation
+PILOT-T. Experiment Ops. Tagup with specialists as necessary
+Behavioral Core Measures Journals Entry
+Capillary Structures MWA Prep
+Capillary Structures Evaporation Science 2 Teardown
+Fluids Integrated Rack Rack Doors Open
+ACE Module Changout
+PILOT-T. Closeout Ops. Tagup with specialists as necessary
+ISS CREW/CSA Conference
+Behavioral Core Measures Journals Entry
+CONTENT. Experiment Ops
+Fluids Integrated Rack Rack Doors Close
+ISS Experience Hardware Stow
+Program Management/ISS Crew Conference
+
+ 

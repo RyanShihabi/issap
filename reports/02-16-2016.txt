@@ -1,0 +1,89 @@
+
+Burning and Suppression of Solids – Milliken (BASS-M):  Today Kopra completed the final session of BASS-M operations, preparing and testing different samples with ground assistance from the Principal Investigator.  The BASS-M investigation tests flame-retardant cotton fabrics to determine how well they resist burning in microgravity. Results benefit research on flame-retardant textiles that can be used on Earth and in space.
+ 
+Microbiome:  For his Return Minus 14 day Microbiome session, Kelly collected a fecal sample and completed a questionnaire.  Microbiome investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time)
+ 
+Ocular Health:  In support of their ongoing Flight Day 60 Ocular Health investigation, Kopra and Peake completed Optical Coherence Tomography (OCT) testing and Kelly, acting as the Chief Medical Officer (CMO), performed a fundoscopy activity of Kopra and Peake.  OCT is used to measure retinal thickness, volume, and retinal nerve fiber layer, and the fundoscope is used to obtain images of the retinal surface.  The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+ 
+Education Payloads Operations (EPO) – AstroPi:  Peake set up the European Space Agency (ESA) AstroPi IR hardware in the Node 2 nadir hatch window.  The payload then autonomously run a pre-defined sequence of program files.  AstroPi is composed of RaspberryPi B+, Sense HAT (Hardware Attached on Top) and a camera module, contained within a protective aluminum case.  Raspberry Pi is a credit-card sized computer that enables students to explore computing and learn how to program. Two AstroPi are on board: AstroPi Vis, with visible light camera, and AstroPi IR, with an infrared camera.  Both AstroPi will run programs written by the winners of a student competition and collect data from sensors (i.e., inertial movement, barometric pressure, relative humidity and temperature). The data will be shared with schools.
+ 
+Extravehicular Mobility Unit (EMU) 3003 and EMU 3010 Loop Scrubs:  Following yesterday’s successful EMU 3003 Return To Service (RTS) activities, Kelly performed cooling loop maintenance on the suit, as well as on EMU 3010. This included ionic and particulate filtration (scrubbing) and biocidal maintenance (iodination) of EMU and Airlock cooling water loops. These activities were followed by a dry out of the EMU fan module and vent loop.
+ 
+Correction for Daily Summary Report on Monday, 02/15/16:
+Japanese Experiment Module (JEM) Stowage Frame:  The JEM Stowage Frame Installation was not performed yesterday as stated in the Daily Summary Report.  The activity will be rescheduled for another day in the near future.   Once fully installed, the frame will increase JEM stowage capability by 12 Cargo Transfer Bag Equivalents (CTBE).
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Ocular Health (OH) OCT Setup
+Monitoring Anti-Virus Scanning Results on Auxiliary Computer System ([ВКС]) Laptops and Report
+ARED – Cylinder Flywheel Evacuation
+Conference of Search and Rescue Team (ГПСК) Specialists with Crew To Return on Soyuz 718
+Ocular Health (OH) – OCT Exam – Operator
+MORZE. Psychophysiological Evaluation: Cattell Test
+BIOME – Questionnaire
+Condensate ([КАВ]) Sampling from [СРВ-К2М] Upstream Gas-Liquid Mixture Filter (ФГС) into Drink Bags
+Replace the insert-trap. Install #20 item 1 (00068077R, СМ1РО_2_231А_1, bag 359-16 (00043849R)). Removed insert-trap is for disposal
+ISS Crew Departure Preparation
+BASSM – Preparation Part 1
+MRF Purge
+DAN. Experiment Ops
+Ocular Health (OH) – OCT Exam
+METERON Laptop Power On
+Health Maintenance System (HMS) On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+СОЖ Maintenance
+EDV-SV #1192 Fill in (00065120R, ФГБ1ПГО_1_107) and EDV-KOV #1106
+EDV-SV #1192 Separation into #1199 (00065916R, ФГБ1ПГО_1_109)
+Soyuz 718 Landing Site Observation and Photography
+MORZE. Psychophysiological  Evaluation: Strelau Test
+BASSM Experiment Start
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance
+Monitoring Progress 431 (DC1) АСН-КП Exchange with Laptop during the Test
+DAN. Experiment Ops
+MORZE. Closeout Ops
+Monitoring TV Signal during Test with Progress 431 Klyost-M TV System Activation in PCE (МБРЛ) Mode during the Joint Flight Stage
+EPO – Hardware Setup in Node 2
+BASSM – BASS Hardware Setup and Tests
+Synchronization of RS Still Cameras with Station Time
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance
+CSA PAO Placeholder
+BASSM Experiment End
+Condensate ([КАВ]) Sampling Upstream [СРВ-К2М] БКО – Setup, Sampler Assembly
+24-hour ECG Monitoring
+HABIT – Conference
+Soyuz 718 Pre-Pack Ops
+24-hour ECG Monitoring
+Crew Departure Preparations for Return to Earth
+Transfer of water to the water storage tank via the MRF (end)
+WRS. Waste Water Tank Drain (Start)
+URAGAN. Photo Spectral System Science Equipment ([НА] ФСС) Recovery
+Condensate ([КАВ]) Sampling Upstream [СРВ-К2М] БКО – Sampler Changeout
+Soyuz 718 Pre-Pack Ops
+HRF – Disposal of Non-Operational Hardware
+BIOME – Sampling Setup
+WRS – Waste Water Tank Drain (End)
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance – EMU Reconfig
+MAMS – Screen Cleaning
+Ocular Health (OH) Fundoscope Setup
+EVA Extravehicluar Mobility Unit (EMU) Long Dryout
+ECCO – Small Cartridge Insertion into MELFI
+Ocular Health (OH) Fundoscope Prep
+IMS Delta File Prep
+Ocular Health (OH) Fundoscope Exam
+Ocular Heath (OH) CMO – Fundoscope
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+Ocular Health (OH) Fundoscope Stow
+Condensate ([КАВ]) Sampling Upstream [СРВ-К2М] БКО – Sampler Removal, Teardown
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+
+ 

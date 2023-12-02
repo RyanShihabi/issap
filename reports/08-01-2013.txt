@@ -1,0 +1,99 @@
+
+New Status:
+Multi-Purpose Small Payload Rack (MSPR) Combustion Chamber (CC) Communication Cable Checkout:  Flight Engineer (FE)-3 Cassidy successfully performed activation and checkout of the MSPR CC Communication Cable.  Following this activity, ground specialists initiated steps to verify the video quality downlinked from the G1 camcorder.
+ Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3 Setup:  FE-6 Nyberg set up the InSPACE-3 experiment by installing hardware, cables, and InSPACE vial assemblies inside the Work Volume (WV) and also installed video tapes into the Microgravity Science Glovebox (MSG) Video Drawer. This setup is for InSPACE-3 test runs planned for tomorrow.  InSPACE-3 obtains data on fluids containing ellipsoid-shaped particles that change the physical properties of the fluids in response to magnetic fields. InSPACE-3 collects and records data on fluids containing ellipsoid-shaped particles that change the physical properties of the fluids in response to magnetic fields.  This investigation aims to provide information for a better understanding of the interplay of magnetic, surface, repulsion forces, and shape between particles in magnetically responsive fluids.  Technology developed through this investigation has potential to improve the ability to design structures such as bridges and buildings to better withstand earthquake forces.
+ H-II Transfer Vehicle (HTV)-4 Robotic Onboard Trainer (ROBoT)-2 Training:  Cassidy, Nyberg, and Parmitano completed an HTV simulated approach from 30 meter hold through capture. This training session gives the crew a big picture of the HTV approach and capture.  Following training, the crew participated in a conference with ground specialists.  HTV-4 is planned to launch August 3rd and berth on August 9th.
+Robotic Work Station (RWS) Capture Volume Checkout Status: Last night, Robotcs Ground Controllers successfully completed the RWS Capture Volume Checkout in preparation of HTV-4.  This checkout verifies the Capture Volume Overlay by maneuvering the Space Station Remote Manipulator System (SSRMS) to various positions within the Capture Volume to confirm the overlay has been drawn correctly. Following power-up of the SSRMS last night, Japan Aerospace Exploration Agency (JAXA) Ground Controllers configured telemetry to setup the data path for the RWS software to receive an active HTV telemetry stream.  This allowed the RWS software to access the Mobile Servicing System (MSS) configuration file with the HTV Capture Volume Overlay data required to produce the overlays. The Capture Volume was verified at all positions of the SSRMS. Ground specialists then configured the RWS software from the HTV to Commercial Orbital Transportation Services (COTS), which does not require active HTV telemetry to draw the overlays to confirm the results from the first test. Controllers then successfully moved the Capture Volume Overlays to their correct positions. These successful tests completed the checkout launch commit criteria for HTV-4.  Following the test, Robotics Ground Controllers maneuvered the SSRMS back to the park position, rebooted the RWS to verify it was in the nominal configuration, and powered down the MSS.
+Automated Transfer Vehicle (ATV)-4 Status: Monday, the crew transferred approximately 210 liters of water from ATV-4 to the ISS Service Module (SM) and approximately 66 liters of water from ATV-4 to three ЕДВ water containers for stowage in the Functional Cargo Block (FGB).  Today, fuel and oxidizer were nominally transferred from the ATV-4 refueling system tanks to the FGB low pressure tanks. Additionally, ATV Ground Specialists have been tracking a decrease in the ATV-4 cabin fan speed.  Ground specialists are examining the cabin fan data and are reviewing forward plans.
+Urine Processing Assembly (UPA): Late today, the UPA shut down due to a fault as a result of high pressure in the system. The data has been downlinked and Engineering teams are currently assessing for a forward plan.
+ Potential Conjunction:  Ground controllers are tracking Object 81908 with a Time of Closest Approach (TCA) on Saturday, August 3rd at 11:41 am CDT. Ground controllers will continue to track the object.
+Today’s Planned Tasks
+
+PROK – Urine Sample Collection [Complete]
+PROK – Urine Sample Collection [Complete]
+HRF Urine Sample Collection [Complete]
+Reaction Self Test [Complete]
+HRF – Urine Sample MELFI Insertion [Complete]
+Reaction Self Test [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 3070 [Complete]
+ASEPTIC. Photo of Medium before the experiment / r/g 3072 [Complete]
+ТКГ 420 Transfers and IMS Updates r/g 3043 + r/g 3032 + r/g 3047 [Complete]
+MSPR. Comm check [Complete]
+Installation and Connection of КЛ-108/109Ц unit in SM. r/g 3011 [Complete]
+On MCC Go Mating КЛ-108/109Ц telemetry connector. / r/g 3011 [Complete]
+HD-VCA Activation in Columbus prior to BIOLAB R&R [Complete]
+Installation and connection of КЛ-108/109Ц unit in SM (end).  r/g 3011 [Complete]
+ASEPTIC. Placement in GB / r/g 3072 [Complete]
+BIOLAB. Handling Mechanism Drawer Troubleshooting
+ASEPTIC Box Sterilization Activation / r/g 3072 [Complete]
+ASEPTIC Photo Edit and Downlink / r/g 3072  [Complete]
+MSG – Visual inspection and activation [Complete]
+Replacement of ИПК-1М Personal Protection Gear in MRM1 / r/g 3079 [Complete]
+INSPACE3 Hardware Setup [Complete]
+ASEPTIC Repositioning Equipment in the Box / r/g 3072 [Complete]
+EHS MCD Water Processing [Complete]
+Replacement of ИПК-1М Personal Protection Gear in MRM1 / r/g 3079 [Complete]
+HD-VCA Deactivation in Columbus after BIOLAB R&R [Complete]
+Replacement of ИПК-1М Personal Protection Gear in DC1 / r/g 3079 [Complete]
+Replacement of ИПК-1М Personal Protection Gear in SM / r/g 3079 [Complete]
+INSP3. Setup digital camera and take still photos of hardware [Complete]
+ASEPTIC Box Sterilization Deactivation / r/g 3072 [Complete] 
+ASEPTIC. Surface Sampling and Beginning of air sampling after cleaning / r/g 3072 [Complete]
+CALCIUM. Bioecologia cases photography and deployment.  r/g 3071 [Complete]
+WHC Fill [Complete]
+HRF Urine Sample Collection [Complete]
+HRF – Urine Sample MELFI Insertion [Complete]
+CIR – Hardware Teardown [Complete]
+СОЖ Maintenance [Complete]
+ТКГ 420 Transfers and IMS Updates r/g 3043 + r/g 3032 + r/g 3047 [Complete]
+PROK – Controlled Diet Log [Complete]
+CALCIUM. Photography and set up Bioecologia cases / r/g 3071 [Complete]
+HRF – Hardware Setup [Complete]
+Photo/TV Setup for ROBoT Ops [Complete]
+Setup for Robotics OBT [Complete]
+PROK – Diet Log [Complete]
+OBT – HTV Rendezvous and Docking Review [Complete]
+HRF Urine Sample Collection [Complete]
+BRI Log Dump from RSS1 [Complete]
+Video Address Dedicated to 1150th Anniversary of Smolensk / r/g 3080 [Complete]
+ASEPTIC Monitoring Automatic Pump Shut Off / r/g 3072 [Complete]
+HRF – Sample MELFI Insertion [Complete]
+OBT – HTV Rendezvous and Docking Review [Complete]
+ASEPTIC. Preparation and Start of Air Sampling / r/g 3072
+Stow Video Equipment Used during ROBoT Ops [Complete]
+CALCIUM. Photo Processing and Downlink. r/g 3071 [Complete]
+Onboard Training (OBT) Robotics Onboard Trainer (ROBoT) Conference [Complete]
+MSG Hardware Deactivation [Complete]
+Columbus Cargo Transfers [Complete]
+Deinstallation Of КЛ-108/109Ц in SM and Connection of КЛ-108А Transmitter r/g 3011 [Complete]
+IMS Update [Complete]
+ISS – HAM Radio Session [Complete]
+HRF Urine Sample Collection [Complete]
+HRF – Urine Sample MELFI Insertion [Complete]
+On MCC Go Mating КЛ-108А TLM connectors. r/g 3011 [Complete]
+Replacement of ПС1, ПС2 Dust Collector Filters in FGB (ФГБ1ПГО_2_219_1, bag 410-32 (00054260R).  Update the IMS)  [Complete]
+Deinstallation Of КЛ-108/109Ц in SM and Connection of КЛ-108А Transmitter (end). r/g 3011 [Complete]
+ASEPTIC Monitoring Automatic Pump Shut Off / r/g 3072 [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 3070 [Complete]
+ASEPTIC. Retrieving samples from box and placing in thermostat / r/g 3072 [Complete]
+Reading REMINDER [Complete]
+Reaction Self Test [Complete]
+
+Task List
+
+CEO Ops
+CMS-ARED Cyclinder EVAC [Complete]
+WHC EDV R&R
+Roscosmos Report
+Uragan Report
+EKON Photo
+EVA Loop Scrub Procedure Review [Complete]
+HMS-BP/ECG Swap [Complete]
+52P USOS Unpack [In Work]
+EHS AQM Tape [Complete]
+Regen WSTA Fill
+
+Ground
+
+Nominal Commanding
+

@@ -1,0 +1,65 @@
+
+Veg-03 Wick Opening: FE-3 opened the wicks on the plant pillows to allow for better growth capability.  The overall goal of Veg-03 is to further demonstrate proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long-duration missions into the solar system, finally culminating on Mars, will require a fresh food supply to supplement crew diets, which means growing crops in space. Previous investigations focused on improving productivity in controlled environments, but the limited quarters of the space shuttle and International Space Station made it difficult to conduct large-scale crop production tests. Veg-03 expands on previous validation tests of the new Veggie hardware, which crew members will soon use to grow cabbage, lettuce and other fresh vegetables in space. Tests determine which types of microorganisms are present in space-grown cabbage, providing baseline data for future crop-growing efforts.  Behavioral health surveys assess the impact of growing plants on crew morale and mood.
+RapidScat Survey Performed – Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) were maneuvered through 13 RapidScat observations points. RapidScat engineers guided robotics ground controllers through pan/tilt/zoom operations for both the SSRMS tip elbow and SPDM body 1 and 2 cameras. Ground personnel’s review of the imagery to assess potential MMOD damage is forecast by the end of November.
+Urine Processor Assembly (UPA) Pressure Control and Pump Assembly (PCPA) Replacement: Last week, pressure sensors inside the PCPA detected a rise in pressure during a UPA process cycle. Review of data by the UPA specialist indicates that the PCPA has failed. Today, the crew removed the failed PCPA and replaced it with one of the two spares currently onboard.  UPA is currently in standby while the system is being configurated for a UPA process run.
+Crew Quarters (CQ) Cleaning:  Prior to departure on Saturday FE-5 and FE-6 cleaned the Starboard and Deck CQs. The activity includes cleaning of the intake and exhaust ducts, fans and airflow sensors.
+Change of Command:  The Change of Command ceremony was held to hand over control of the ISS from current ISS CDR Anatoly Ivanishin to Shane Kimbrough.  Following the Change of Command, the new Commander’s Soyuz (48S) crew becomes the prime crew for emergencies and the departing Soyuz (47S) crew becomes the non-prime crew.  During the Change of Command event, the entire crew discussed their roles and responsibilities for the timeframe between the Change of Command event and the departure of the Soyuz. 
+Loss of Joint Station LAN-2 (JSL-2) Return Link – Yesterday there was a loss of JSL-2 return link that impacted all payloads utilizing Ku-Internet Protocol capability. The Ku-band Communications Unit (KCU)-1 Network 2 Card was power cycled and the JSL-2 Return Link was successfully recovered.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Signing ISS RS Handover Protocol
+Strata Status Check
+OTKLIK. Hardware Monitoring
+Transfer Operations – Prepack of US items to be loaded into Soyuz
+Comm check and operation from Soyuz 731 via RGS (VHF)
+IMS Tagup (S-band)
+Combustion Integrated Rack Alignment Guide Installation
+Crew time for ISS adaptation and orientation
+LBNP Exercise (CLOSEOUT).
+Handover of Increment 49/50 Crew
+Vacuum Pressure Gauge Accuracy Check
+In Flight Maintenance (IFM) Crew Quarters (CQ) Starboard Cleaning
+CARDIOVECTOR. Experiment Ops
+Preventive Maintenance of MRM2 Passive Docking Assembly [АСП] and Soyuz 732 Active Docking Assembly [ACA] Hatch Sealing Mechanisms
+Pressure Control & Pump Assembly (PCPA) Hardware Gather
+CARDIOVECTOR. Photography of the Experiment Ops
+Urine Processor Assembly (UPA) Pressure Control & Pump Assembly (PCPA) Remove and Replace
+Soyuz 731 Samsung Tablet Recharge, Initiate
+POLYGEN. Closeout Ops
+Soyuz 731 Samsung tablet recharging, terminate
+POLYGEN. Video of fruit flies w/blocked access to food / r/g 3731
+VEG-03 Wick Open
+BIOPLENKA. Removal of Cryogem-03 after Completion of the Experiment
+Preventive Maintenance of MRM1 Passive Docking Assembly [АСП] and Soyuz 731 Active Docking Assembly [ACA] Hatch Sealing Mechanisms
+FGB panel 426 lock R&R
+Personal Medication Stow
+Transfer Operations – Prepack of US items to be loaded into Soyuz
+Soyuz 731 Equipment Stowage for Return
+REGENERATSYIA-1. Container transfers to Soyuz 731
+In Flight Maintenance (IFM) Crew Quaters (CQ) Deck Cleaning
+ISS Crew Orientation (Replacement of СРВК-2М Gas-Liquid Mixture Filter)
+Replacement of СРВК-2М Gas-Liquid Mixture Filter
+Flushing Progress 433 (DC1) Rodnik H2O Tank 1 and Tank 2 H2O connectors В1, B2
+СОЖ maintenance
+Health Maintenance System (HMS) Food Frequency Questionnaire (FFQ)
+Soyuz 731 Transfer Operations Status Report (S-band)
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Space Headaches – Weekly Questionnaire
+Change of Command Ceremony (Ku-Band)
+Communication and Tracking (C&T) On-Call Crew Quarters Configuration
+
+Completed Task List Items
+
+Remove and Replace Waste Hygeine Compartment (WHC) ЕДВ-Y
+Unpack USOS items that arrived on 48S
+48S IMAK Unpack
+Biomolecule Sequencer Sample Init 8
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+UPA PCPA Calibration
+UPA Pump Down
+ETVCG Survey of P4 Integrated Equipment Assembly (IEA)
+

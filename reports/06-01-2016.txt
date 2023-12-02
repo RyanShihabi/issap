@@ -1,0 +1,95 @@
+
+NanoRacks CubeSat Deployer #8 (NRCSD#8) Deployment Operations: Following completion of successful deployment of 5 NRCSD #8 silos, one more silo was successfully deployed last night and another earlier this morning. The last deploy is planned for tonight at 9:15 PM CDT, which will conclude three consecutive days of deployment operations for NRCSD#8. Each silo contains two CubeSats for a total of 16 Doves. The Dove satellites are a fleet of nanosatellites that enables imagery of the entire changing planet to be taken on a frequent basis, with humanitarian and environmental applications ranging from monitoring deforestation and the ice caps to disaster relief and improving agriculture yields in developing nations. The NRCSD is a commercially operated small satellite deployer from the ISS, maximizing full capabilities of each airlock cycle [of deployments.
+ 
+Biological Rhythms 48 Holter Start: The crew began the operations phase of the Biological Rhythms experiment by attaching the Digital Walk Holter Electrocardiogram (ECG) and electrodes and initiating the first of two 24-hour measurements. The crew will perform a recording event with the Digital Walk Holter ECG and Actiwatch Spectrum following the measurements. The objective of the Japan Aerospace Exploration Agency (JAXA) Biological Rhythms 48 is to study the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours.
+ 
+Personal CO2 Monitor Installation: The crew completed software and hardware installation by configuring the iPad applications, updating the Personal CO2 monitor software, and setting up the Carbon Dioxide Monitor (CDM) and the Personal CO2 Monitors. The Personal CO2 Monitor demonstrates a system capable of unobtrusively collecting and downlinking individual crew members’ CO2 exposure for an extended period. This investigation evaluates wearability principles in microgravity and also demonstrates Modular Wearable Architecture Base Board, allowing rapid certification of future wearable devices.
+ 
+Sprint: The crew completed the operational phase of Sprint VO2 including video setup, exercise preparation, instrument calibrations and exercise protocol.  Sprint VO2 is a test that measures oxygen uptake, ventilatory threshold, and other physiological parameters for evaluation of Sprint exercise prescription. It evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crew members during long-duration missions.
+ 
+Dose Tracker: The crew completed entries for medication tracking. This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+ 
+Habitability Human Factors Directed Observations: The crew recorded and submitted a walk-through video documenting observations of an area/activity providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the International Space Station. Observations can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+Bigelow Expandable Aerospace Module (BEAM) Vestibule Outfitting: BEAM successfully completed an 80 hour leak check this morning and the crew began activities to prepare the vestibule for BEAM ingress tentatively scheduled for Monday, June 6th. The crew removed the Node 3 Aft Negative Pressure Relief Valves (NPRV) and installed Inter Module Ventilation (IMV) Valves. During the activities it was discovered that the Node 3 Aft Starboard IMV Flexible Coupling was missing.  This coupling is needed to connect the ducting to the starboard IMV on the IMV return leg between BEAM and Node 3. The flex coupling is unique to this location and there are no spares on orbit or alternate locations from which to scavenge. Vestibule operations the rest of the week will continue as planned, however, this issue will likely need to be resolved prior to BEAM ingress. Teams are developing a workaround.
+ 
+Special Purpose Dexterous Manipulator (SPDM) P12B-A Remote Power Controller Module (RPCM) Remove & Replace (R&R): Last evening, ground controllers began operations to R&R RPCM P12B-A. RPC 16 that failed in 2012 and powers the P1 Lower Outboard Luminaire Heater. These operations will be performed over the course of 6 days and require the relocation of multiple RPCMs to utilize the RPCM that is currently in the P11A-A location as a donor to allow for a hot-mate at the P12B-A location. During last night’s operations, Cargo Transport Container 5 (CTC-5) was relocated from EXPRESS Logistics Carrier 3 (ELC-3) to the Enhanced ORU Temporary Platform (EOTP) and the CTC was opened. This set the team up to continue with this evenings operations to relocate a spare RPCM from the CTC and temp stow it in the currently unoccupied P11A-C location on the truss.
+ 
+Advanced Resistive Exercise Device (ARED) Sensor Calibration Status: Following yesterday’s unsuccessful attempt to perform an ARED sensor calibration, it was determined that the cause of the error message received by the crew was likely due to a corrupt file on the SSC. This particular SSC had issues last week that required a reload of the SSC. Ground teams will download the pertinent files in an attempt to confirm this theory. Operators will then remove all of the files and reload them to the SSC to correct the issue. A verification that the correct files have been successfully loaded to the SSC will be performed prior to rescheduling the ARED sensor calibration.
+ 
+Japanese Experiment Module (JEM) Return Grille Cleaning: The crew removed the return grille mesh cover and cleaned the inside return grilles in the JEM Pressurized Module (JPM) and the Japanese Experiment Logistics Module-Pressurized Section (JLP).
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+PHS Hardware Installation
+BEAM – Pressure and Temperature Measurements
+Periodic Health Evaluation (PHS) – CMO
+Dust Filters Replacement and [B1] and [B2] Fan Screens Cleaning in DC1
+Periodic Health Evaluation (PHS) – Subject
+ARED Platform Partial Fold
+Video greetings recording / r/g 2412
+Swap of Node 3 Aft Negative Pressure Relief Valve (NPRV) to IMV Valve. Adjustment of the IMV Remote Manual Override (RMO) in Node 3 Aft.
+Periodic Health Evaluation – Subject
+Periodic Health Evaluation (PHS) – CMO
+SPRINT. Hardware Setup
+Recording of the Periodic Health Evaluation Data and Stowage of All of the Hardware used during PHS
+DOSETRK. Questionnaire
+JEM Mesh Cover-Return Grille Cleaning
+PILOT-Т. Preparation for the experiment r/g 2410
+ELEKTRON БЖ liquid unit repress
+iPad app install for personal CO2 Monitor [Aborted]
+Monitoring the Condition of RS Hull Structural Element Surfaces Using МВП-2К Multipurpose Eddy Current Device (ПрК Shell) r/g 2387
+Payload OBT. Personal CO2 Monitor
+Personal CO2 Monitor Replacement [Deferred]
+SPRINT. Experiment Session
+PILOT-Т. Experiment Session r/g 2410
+Audit of the equipment connected to БВ-1, БВ-3, БВП-5, БВП-10, and БВП-20 r/g 2398
+Stowage Consolidation on the USOS
+BLR48 Measurements (start)
+Familiarization with ARED Software
+Installation of Personal CO2 Monitor iPad App
+Stowage Consolidation on the USOS
+24-Hour ECG Holter Monitoring (Termination) / r/g 2383
+СОЖ Maintenance
+24-Hour Blood Pressure Monitoring (Termination) / r/g 2382
+Monitoring the Condition of RS Hull Structural Element Surfaces Using МВП-2К Multipurpose Eddy Current Device ([PO-1] Working Compartment Shell) r/g 2387
+ARED Platform Unfold Back to Nominal Position
+Monitoring the Condition of RS Hull Structural Element Surfaces Using МВП-2К Multipurpose Eddy Current Device ([PO-1] Working Compartment Shell) r/g 2387
+Audit of the equipment connected to БВ-1, БВ-3, БВП-5, БВП-10, and БВП-20 r/g 2398
+DOSETRK. Questionnaire
+Hardware Prep for a PAO event
+Monitoring of the Installation of ИП-1 Sensors
+PILOT-Т. Experiment Session r/g 2413
+Monitoring the Condition of RS Hull Structural Element Surfaces Using МВП-2К Multipurpose Eddy Current Device (ПрК Shell) r/g 2387
+HABIT. Entering observation results in an iPad app
+SPRINT. Hardware Stow
+Stowage Consolidation on the USOS
+Preparation of Data on the Monitoring of the RS Hull Structural Element Surfaces Condition to be downlinked via OCA
+Familiarization with ARED Software
+PILOT-Т. Closeout ops r/g 2413
+DOSETRK. Questionnaire
+IMS Delta File Prep
+Crew Preparation for a PAO event
+PAO event
+SPRINT. Closeout Operations
+CONTENT. Experiment Session / r/g 2407
+CONTENT. Experiment Session / r/g 2408
+WRM – Condensate Collection Reconfig
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+CubeSat deploy
+BEAM vestibule outfitting
+Sprint VO2 support
+RPCM R&R Robotics commanding
+Nominal ground commanding
+
+ 

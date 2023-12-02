@@ -1,0 +1,94 @@
+
+New Status:
+50 Progress (50P) Undocking: The Progress 50P vehicle (M-18M, No. 418) successfully undocked from the ISS Russian Segment Docking Compartment 1 (DC1) nadir docking port at 3:44 pm CDT, after the command to open the vehicle hooks was issued at 3:41 pm CDT.  The separation appeared smooth with no vibrations noted.  Video from the Progress vehicle showed that the docking ring surface appeared nominal and free of debris.  The first separation burn was completed at approximately 3:47 pm CDT and the de-orbit of the vehicle is planned for today at approximately 6:53 pm CDT.
+Marangoni Deformation (MD) 30 Fluid Physics Experiment Facility (FPEF) Setup: FE-3 Cassidy continued with the configuration of the FPEF for the MD30 and Dynamic Surf experiments starting in Expedition 37.  Cassidy removed the FPEF Experiment Cover, setup 3-D cameras, installed the MD30 and Infrared (IR) imager into the FPEF, and then reinstalled the Experiment Cover.
+Multi-user Droplet Combustion Apparatus (MDCA) Hardware Replace: FE-5 Parmitano opened the Combustion Integration Rack (CIR) doors and replaced the MDCA Fuel Reservoir in the MDCA Chamber Insert Assembly (CIA), as well as the Igniter Tips and MDCA Fiber Arm.  Following these replacements, Parmitano returned the CIR rack to its operational state.
+Common Cabin Air Assembly (CCAA) Swap: FE-6 Nyberg performed a swap of the Lab CCAAs, deactivating the Port-side CCAA and activating the Starboard-side. She first disconnected the Waste Water Hose from the Waste Water Quick Disconnect (QD) at the LAB1P6 Utility Interface Panel (UIP).  Then Nyberg terminated LTL flow through the Port CCAA heat exchanger, activated the Starboard CCAA and is initiating flow through its heat exchanger.   Late last week, ground controllers noticed that the check valve in the Water Separator (WS) for the Port CCAA is showing signs of degradation.
+International Space Station Wireless Instrumentation System (IWIS) Remote Sensor Unit (RSU) Update:  Nyberg was scheduled to upgrade the IWIS RSUs with new firmware.  However, she was unable to locate a cable required to connect the RSUs to a laptop for the firmware upgrade.   Ground specialists will investigate what cables are available and reschedule the activity at a later date.
+Mobile Servicing System (MSS) Operations: Last night, Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) into position to grapple the Special Purpose Dexterous Manipulator (SPDM).  They completed the SPDM base change and power up and released it from Mobile Base System (MBS) Power Data Grapple Fixture (PDGF) 2.  The Robotics Ground Controllers then maneuvered the SPDM away from the MBS and configured the SPDM Body Roll Joint and SPDM Arm 2 to use On-Orbit Replaceable Unit (ORU) Tool Changeout Mechanism (OTCM)-2 to grasp the H Fixture on the Enhanced ORU Temporary Platform (EOTP) and rotate the EOTP 210 degrees.  Next they released the EOTP H Fixture, reconfigured SPDM Arm 2 and the SPDM Body Roll Joint to a stow position and performed the SPDM diagnostics before relocating it to the Lab PDGF.  The Robotics Ground Controllers then released the SSRMS from the SPDM and maneuvered the SSRMS to a park position.  Finally they reconfigured the SPDM Body Roll Joint.  Operations were in preparation for the H-II Transfer Vehicle (HTV) 4 capture and berthing scheduled for August 9, 2013.
+Today’s Planned Tasks
+
+PROK – Urine Sample Collection [Complete]
+RSS1, RSS2 Reload, БРИ Temperature Check / r/g 1009 [Complete]
+Reaction Self Test [Complete]
+HRF Urine Sample Collection and Scanning [Complete]
+HRF – Sample MELFI Insertion [Complete]
+Daily Planning Conference (S-band) [Complete]
+ISS Crew and ГОГУ (RSA Flight Control Team Management) Weekly Conference [Complete]
+ISERV – Opening window shutters in the LAB [Complete]
+Connecting HTV Hardware Command Panel (HCP) [Complete]
+CIRCADIAN RHYTHMS – Hardware Teardown [Complete]
+MRM2 Comm Config  [Complete]
+G1 – Camcorder Setup [Complete]
+CIR Rack Doors Open [Complete]
+Photography of Removable Cassette Containers [СКК] No. 2  [Complete]
+Repositioning Of Accumulator Bellows Bottom In КОБ1 Hydraulic Loop (in SM).  [Complete]
+Repositioning Of Accumulator Bellows Bottom In КОБ1 Hydraulic Loop (in MRM2). [Complete]
+MD30. Hardware Setup Part 1 [Complete]
+JPM PROX – Rack Power and HCP Switch ON [Complete]
+ARED Flywheel Cylinder Evacuation [Complete]
+MATRYOSHKA-R. Monitoring Lulin-5 readings  [Complete]
+CIR Front End Cap Open [Complete]
+Yellow tagging IWIS delivered on ATV4  [Complete]
+MDCA Hardware Replacement [Complete]
+ALBEDO. Photo Spectral System (ФСС) Prep, Imagery, Closeout Ops  [Complete]
+Restore Nominal Comm Configuration [Complete]
+Troubleshooting БРИ Fan Module.   [Complete]
+СОЖ Maintenance  [Complete]
+VIZIR. Experiment. Tagup with specialists (S-band)  [Complete]
+ROBOT Checkout [Complete]
+Temperature and Humidity Control (THC) Common Cabin Air Assembly (CCAA) swap from P6 to S6 [Complete]
+MD30. Close-out ops with work bench [Complete]
+G1 – Closeout Ops [Complete]
+CIR Front End Cap Close [Complete]
+CIR Rack Doors Close [Complete]
+Disconnect the Waste Water Bus from the LAB1P6 Rack  [Complete]
+ESA Weekly Crew Conference [Complete]
+PROK – Diet Log [Complete]
+HRF Urine Sample Collection and Scanning [Complete]
+Crew “No Stabilization” TORU ONS Conference.  [Complete]
+MATRYOSHKA-R. Gather and Initialize BUBBLE-dosimeter detectors.  [Complete]
+HRF – Urine Sample MELFI Insertion [Complete]
+CIR Equipment Stow [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+MATRYOSHKA-R. Handover of BUBBLE-dosimeters to USOS  [Complete]
+RADIN – Radiation Dosimetry Inside ISS-Neutrons Hardware Handover from the Russian Crew [Complete]
+HTV Hardware Command Panel (HCP) Self-check [Complete]
+MATRYOSHKA-R. BUBBLE-dosimeter initialization and positioning for exposure. Radin dosimeter deployment [Complete]
+Food Frequency Questionnaire [Complete]
+HTV Hardware Command Panel (HCP) Checkout [Complete]
+Food Frequency Questionnaire [Complete]
+IWIS RSU Firmware Upgrade [Aborted]
+Cleaning of the sensors in the Nikon D3s cameras to remove dirty spots  [Complete]
+HRF Urine Sample Collection and Scanning [Complete]
+Terminate EMU Metox Regeneration [Complete]
+HRF – Sample MELFI Insertion [Complete]
+HRF – Hardware Setup [Complete]
+Ham Radio Deactivation [Complete]
+USOS Window Shutter Close [Complete]
+Daily Planning Conference (S-band) [Complete]
+Photography of ТКГ418 Docking Assembly from SM Window No. 7 after Undocking / r/g 2994 [Complete]
+HRF Urine Sample Collection and Scanning [Complete]
+ON MCC GO Switch DC-Soyuz PEV to CLOSED position [Complete]
+HRF – Urine Sample MELFI Insertion [Complete]
+Reading REMINDER [Complete]
+Reaction Self Test [Complete]
+
+Task List
+
+CEO Target
+WHC EDV R&R
+Roscosmos Report
+Uragan Report
+EKON Photo
+EMU Troubleshooting Procedure Review [Completed]
+WHC EDV Build
+Regen WSTA Fill
+
+Ground
+
+Nominal Commanding
+CCAA Swap
+

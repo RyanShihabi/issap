@@ -1,0 +1,56 @@
+
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N) Retrieval: Today a USOS crewmember retrieved all 8 of the Space Bubble Detectors that were deployed last week around the International Space Station (ISS) for the RaDI-N experiment, and handed them to the Russian crewmember to be processed in the Bubble Reader. The Canadian Space Agency (CSA) RaDI-N investigation measures neutron radiation levels while onboard the ISS. RaDI-N uses bubble detectors as neutron monitors which have been designed to only detect neutrons and ignore all other radiation. 
+Telescience Resource Kit (TReK) Laptop Setup: In support of the Space Commerce Conference and Exposition, the crew setup the TReK Demonstration laptop and relocated the high definition camcorder to allow the conference attendees to view their images real-time from the Trek laptop on the ISS. TReK is a suite of software applications and libraries that can be used to monitor and control assets in space or on the ground.  This week, the Space Commerce Conference and Exposition will present a three day event engineered to highlight the intersection points between terrestrial industries and the aerospace community. 
+Orbital ATK (OA)-5 Cargo Operations:  The crew performed 3.5 hours of Cygnus cargo transfer operations today, thus completing all of the Cygnus cargo operations.  Following today’s transfer operations the crew participated in a conference with ground specialists. Ground teams are assessing photos of the vehicle to verify the final configuration.
+Emergency Book Updates:  The crew made pen and ink (redline) edits into the six hard copy Emergency (EMER)-1a books. These changes reflect new operations following the ISS Server1 transition to Zbook that was completed last week.  The EMER-1a books contain crew response to Depress, Fire and the equipment to be retrieved prior to isolating a module. 
+Station Support Computer (SSC) Guacamole Service Pack Transition: Today, ground controllers deployed the Guacamole service pack on the SSC client laptops.  This service pack provides software updates and additional functionality, including applications for the European Space Agency (ESA) EveryWear payload. The EveryWear application allows for connecting remote “wearable” sensors, allowing for physiology data collection for both science research and medical purposes. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+MORZE. Taking food and liquids (medicine) registration in flight log
+Compound Specific Analyzer-Combustion Products (CSA-CP) Checkout Part 2
+BIMS. Operator Assistance During the Experiment
+BIMS. Experiment Ops.
+UDOD. Experiment Ops with DYKHANIYE-1 and SPRUT-2 Sets.
+Water Recovery System Waste Water Tank Drain Termination
+UDOD. Photography during Experiment Ops
+Changeout of ПФ1, ПФ2 Dust Filters (ТГК433ГрО_з2_КII-1). Discard de-installed items. Update IMS and Cleaning В1, В2 Fan Screens in DC1
+Exercise Data Downlink via OCA
+PFS PuFF Calibration Syringe Maintenance
+MORZE. Psychophysiological Evaluation: Cattell Test
+Telescience Resource Kit Laptop Setup
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Systems Operations Data File (SODF) Emergency Book Update
+MORZE. Taking food and liquids (medicine) registration in flight log
+Cleaning FGB ЦВ1 Circulation Fan Screens
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ.
+Transfer Cygnus Cargo Operations
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements.
+СОЖ maintenance
+В3 Fan Screen Scrubbing in DC1
+Radi-N Detector Retrieval/Readout
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. Handover of BUBBLE-dosimeter detectors from USOS.
+Transfer Cygnus Cargo Operations
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements.
+Activity with Progress 433 Air Heater Fan (БВН)
+MORZE. Experiment Setup
+Cygnus Cargo Operations Conference
+Delta file prep
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+КОНТУР-2. P/L Assembly Setup on panel 418
+MORZE. Taking food and liquids (medicine) registration in flight log
+
+Completed Task List Items
+
+Veggie 03 Pillow Watering (Completed Monday)
+HRF Ultrasound 2 USB Drive Swap (Completed Saturday)
+OA-5 Flag Photograph (Completed Saturday)
+JEM CTB Location Confirmation (Completed Saturday)
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Battery 4B3 Reconditioning
+SSRMS SPDM Stow
+

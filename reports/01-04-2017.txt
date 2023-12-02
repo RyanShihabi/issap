@@ -1,0 +1,72 @@
+
+Extravehicular Activity (EVA) Preparation:  Today, the USOS crew continued to gather and configure tools that will be used during Friday’s EVA, which will upgrade Nickel Hydride Channel 3A batteries to Lithium Ion batteries. They also configured two cameras that will be used during the EVA. Finally, the crew reviewed procedures associated with EVA. US EVA #38 is scheduled for Friday, January 6th with Joint Airlock Egress occurring at ~6:15am CST.
+Mobile Servicing System (MSS) Operations:  Yesterday and overnight (GMT 003-004), the Robotics Ground Controllers powered up the MSS and operated the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) Body and Arm2 to unstow the Robotic Offset Tool (ROST) from the SPDM Tool Holder Assembly (THA). They then used it to fasten the H1 (secondary) bolt on the Lithium-Ion (Li-Ion) battery in Slot 5 of the 3A Integrated Electronics Assembly (IEA). They also made multiple attempts to fasten the H1 bolt on the Li-Ion battery in Slot 1 of the 3A IEA without success. Finally the Robotics Ground Controllers maneuvered the SSRMS and the SPDM to a park position and maneuvered SPDM Arm2 as required to allow for an inspection of the ROST using SPDM Camera Light Pan Tilt Unit (PTU) Assembly 1 (CLPA1). There was a Multilateral Anomaly Resolution Team (MART) meeting at 11:00am Central Time (CT) this morning to discuss the issue with fastening the H1 bolt on the Li-Ion battery in slot 1. MSS performance was nominal. 
+Body Measures: Today’s Body Measures activity was the second inflight session for the 49S subject. The crew, with assistance from a trained operator, conducted a Body Measures data collection session. The crew configured still cameras and video, then collected the Neutral Body Posture video and stow the equipment. NASA is collecting in-flight anthropometric data (body measurements) to assess the impact of physical body shape and size changes on suit sizing. Still and video imagery is captured and a tape measure is used to measure segmental length, height, depth, and circumference data for all body segments (chest, waist, hip, arms, legs, etc.) from astronauts before, during and after their flight missions.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Zero Robotics Unit Test: The crew configured the SPHERES hardware and an EXPRESS Laptop Computer (ELC) then executed an end-to-end hardware and software test prior to the Zero Robotics competition scheduled for January 27, 2017. The SPHERES Zero Robotics investigation establishes an opportunity for high school students to design research for the ISS. As part of a competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS.
+Fine Motor Skills: The crew performed their weekly Fine Motor Skills tests, performing a series of interactive tasks on a touchscreen tablet. The investigation studies how fine motor skills are effected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of Fine Motor Skills is to answer how fine motor performance in microgravity trend/vary over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trend/vary before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Activation on GMT004
+Regeneration of БМП Ф2 Micropurification Cartridge (start)
+Fine Motor Skills Experiment Test – Subject
+Charging EVA Camera D4 Battery
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Extravehicular Activity (EVA) Tool Configuring
+Glisser-M Battery Charging: setup and start charging the first batch of batteries (6 pcs)
+[ПУ БПК] Condensate Supply Unit Control Panel R&R
+Body Measures Equipment Gather
+Body Measures Experiment Operations
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+ [МФР] Membrane Filter Separator Leak Check
+Columbus GFI Test Preparation
+Body Measures Experiment Operations – Operator
+GFI test of all twelve COLUMBUS SUPs 120V DC power outlets
+Photodocumentation of the Crisstal and Cataliss experiments.
+Photodocumentation of the EPO Pesquet Ceres
+ESA ACTIVE DOSIMETER MOBILE UNIT SWAP
+Columbus GFI Test Inverter Reconfiguration
+Columbus GFI Test post reconfiguration
+Fine Motor Skills Experiment Test – Subject
+SPHERES Payload OBT Russian Crew
+Strata Card Changeout
+Extravehicular Activity (EVA) Tool Configuring
+SPHERES Crew Conference
+ISS HAM Service Module Pass
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Delta file prep
+Extravehicular Activity (EVA) iPad Contingency Procedures preparation
+Charging the first batch of batteries (6 pcs) (End) and Charging the second batch of batteries (6 pcs) (Start)
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Deactivation
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Packed Bed Reactor Experiment Lab Video Setup
+SPHERES Test Session Setup
+СОЖ maintenance
+Habitability Human Factors Directed Observations – Subject
+Dose Tracker Data Entry
+Charging the second batch of batteries (6 pcs) and Battery stow
+Soyuz 732 (ТК732БО_сервант_конт1) HERO3 GoPro Batteries Recharge, Initiate
+Packed Bed Reactor Experiment Lab Video Return
+Photo/TV Extravehicular Activity (EVA) Camera Configuration
+Life On The Station Photo and Video
+SPHERES Test Session Run
+Rad Detector Rotate
+Soyuz 732 GoPro HERO3 batteries charge – finish and stow (ТК732БО_сервант_конт1)
+ISS HAM Service Module Pass
+Extravehicular Activity (EVA) Procedure Review
+SPHERES Test Shutdown
+Flight Director/ISS CREW CONFERENCE
+Regeneration of БМП Ф2 Absorption Cartridge (end)
+
+Completed Task List Items
+
+Deploy ESA Active Dosimeter Mobile Units (2) for Area Monitoring
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Lab CDRA Activation
+Lab CDRA Standby
+3A Battery H1 bolt troubleshooting
+

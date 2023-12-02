@@ -1,0 +1,81 @@
+
+Resist Tubule (Mechanisms of Gravity Resistance in Plants From Signal Transformation and Transduction to Response):  Today Flight Engineer (FE)-6 Nyberg attached a Plant Experiment Unit (PEU) with plant samples and the Dehumidifier inside the Cell Biology Experiment Unit (CBEF) and then activated the PEU program.  After 32 days of growth in the PEU an ISS crew member will retrieve the culture chambers and harvest the plants for fixation using Kennedy Space Center (KSC) Fixation Tube (KFT). JAXA’s Resist Tubule is an investigation that uses the microgravity environment of ISS to examine the modifications in cellular components that are responsible for gravity resistance in plants.  The knowledge gathered during this investigation will enable efficient plant production in both space and on earth.
+Emergency Mask Replacement In Flight Maintenance (IFM) and Training:  Nyberg replaced current Ammonia Respirator Kits with new Emergency Mask Kits.  Afterwards, all crewmembers took part in an On-Board Training (OBT) session in order to practice mask donning and purging techniques. The new Emergency Mask Kits are able to be used for ammonia or smoke scenarios versus the older kits which were solely used for ammonia.
+Orbital-D1 (Orb-D1) Launch Preparations: Orb-D1 launch date has slipped from September 17th to the 18th. The launch window will open at 09:50 CDT.  The slip was due to a communications problem discovered between ground support equipment and the Antares flight computer on the pad.   A damaged cable was replaced and an Ethernet switch had to be reset in order to established communication between the ground support equipment and flight computer. Although the launch has slipped by a day, berthing with ISS remains on schedule for 22 September.  Orbital is go for launch following today’s Launch Readiness Review.
+Common Berthing Mechanism (CBM) Centerline Berthing Camera System (CBCS) Installation and Checkout: Parmitano installed CBCS onto the Node 2 nadir hatch window and connected the associated power, video, and electronics cables.  Initially, the video from the camera was not observed as ground teams expected. However, after some troubleshooting, a faulty electronics cable was identified and replaced.  Once installation was complete, video from the CBCS camera was routed to the Cupola Robotics Work Station (RWS) for verification and checkout. CBCS is used as a prime cue during CBM berthing and will remain installed until Orb-D1 arrival.
+Node 2 Nadir CBM Checkout: Ground teams commanded a checkout of the Node 2 Nadir CBM to confirm functionality prior to Orb-D1 launch.  An additional checkout of the CBM will be performed the day before berthing.
+Automated Transfer Vehicle (ATV) Thruster Test: Ground controllers performed a planned series of firings of ATV thruster T402, to collect pressure sensor data.  The thruster has been deactivated since June 15th, when it had an anomalous pressure signature.  Ground teams will be reviewing the data from the test to decide whether or not to reintegrate the thruster.
+Today’s Planned Tasks
+
+PROK- Urine Sample Collection [Complete]
+Reaction Self Test [Complete]
+СОЖ Maintenance [Complete]
+HAM Radio Session [Complete]
+RST – sample placement in CBEF [Complete]
+Close USOS window shutters [Complete]
+O2/CO2 sampling [Complete]
+Check ИП-1 sensor placement [Complete]
+Makita tool battery capacity restoration – r/g review, hardware search and preparation [Complete]
+WRS – water sample analysis [Complete]
+Update EMER Books per Pen & Ink instructions.  [Complete]
+Makita tool battery discharge schematics setup, start of discharge  [Complete]
+CMO skill refresh  [Complete]
+Monitoring Makita tool battery discharge [Complete] 
+Completion of Makita tool battery discharge, removal of Battery from Makita tool [Complete]  
+Emergency Mask R&R [Complete]
+Makita tool battery charge schematics setup, start of charge [Complete]
+Monitoring Makita tool battery charge [Complete]  
+RST – activation [Complete]
+Completion of Makita tool battery charge, removal of Battery from the charge unit [ЗУ] [Complete]
+TOCA 2 – data recording [Complete]
+Makita tool battery capacity restoration – teardown charge and discharge schematics, hardware stow, file downlink [Complete]
+1 HD VCA camera activation in HD mode [Complete]  
+OBT Emer Mask Review [Complete]
+Comm. config for transmitting from MRM2 for experiment ops  [Deferred]
+PROK- prep and diet log entry [Complete]
+Hardware prep for PAO [Complete]
+KULONOVSKIY KRISTALL. Hardware and schematics setup [Complete]  
+WinSCAT psychological assessment  [Complete]
+Crew prep for PAO [Complete]
+PAO [Complete]
+KULONOVSKIY KRISTALL. Experiment ops [Complete]
+Robotics OBT prior to Cygnus docking – session 2 [Complete]
+Robotics OBT debrief [Complete]
+Comm. reconfig in MRM2  [Deferred]
+KULONOVSKIY KRISTALL. Data copying to HDD [Complete]  
+High Definition Video Camera Assembly 1 Switch to SD Mode [Complete]
+MATRESHKA-R. BUBBLE-DOSIMETER initialization and placement for exposure [Complete]
+
+Node 2 Nadir Hatch Unlatch [Complete]
+CBCS – hardware setup [Complete]
+CBCS berthing camera setup and checkout [Complete]
+Cygnus Vestibule Outfitting Kit (VOK) Gather [Complete]
+ISERV: manual pointing [Complete]
+Physical exercise data downlink [Complete]  
+Reaction self-test [Complete]
+
+Task List
+
+ARED Cylinder Evacuation  [Complete]
+IMS update
+КТО replace
+ЕДВ-У R&R
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+Preparation of reports for Roskosmos site
+WSTA Fill
+PiP Audit  [Complete]
+SPECULA Inventory  [Complete]
+1.0 CTB 1096 stow  [Complete]
+CTB Relocate  [Complete]
+Safety Video Followup
+Velcro Aid install 
+
+Ground
+
+Nominal Ground Commanding  [Complete]
+Node 2 CBM Checkout [Complete]
+CBCS Checkout [Complete]
+SSU Test [Complete]
+ATV4 Thruster Test [Complete]
+

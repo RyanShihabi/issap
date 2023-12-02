@@ -1,0 +1,81 @@
+
+Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts):  This morning, Kelly began his Return-45 (R-45) Fluid Shifts Dilution Measurements.  Upon wakeup he collected saliva, blood and urine and inserted them into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) prior to ingesting a Sodium Bromide (NaBr) tracer.  Throughout the day, he performed more urine, blood, and saliva collections, inserting those samples into MELFI as well.  The Dilution Measurements are the first of three parts in the series of R-45 Fluid Shifts measurements.  Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+ 
+Biological Rhythms 48-Hour:  Kopra began his Biological Rhythms experiment today by preparing and starting the Actiwatch.  Tomorrow, he will don a Holter Monitor to collect Electrocardiogram (ECG) measurements for 48 hours.  Biological Rhythms 48 hours studies the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours. While the ISS station maintains Greenwich Mean Time (GMT) as its time zone, it remains unknown whether a separate biological rhythm is imposed on long-term flight crews. To study this astronauts wear an Actiwatch sleep monitor for 96 hours and a Holter electrocardiograph for 48 hours in the middle of that sequence.
+ 
+Advanced Colloids Experiment (ACE)-Heated-2 (H2):  Peake activated ACE-H2, which was delivered on Orbital ATK (OA)-4.  He configured the Light Microscopy Module (LMM) for the next series of science runs with an ACE Heated Sample.  He also cleaned up residual oil and removed the ACE Heated Sample currently installed inside the LMM Auxiliary Fluids Container (AFC).  At three times during the day, Peake mixed the samples using a magnet from the BCAT experiment.  The ACE-H2 experiment involves the design and assembly of complex three-dimensional structures resulting from the interaction of different sized particles suspended within a fluid medium. These so-called “self-assembled colloidal structures”, are vital to the design of advanced materials. In the microgravity environment, insight will be provided into the relationship between particle interactions and their shape, surface charge, and concentration. Their resulting structure and stability is a fundamental issue in condensed matter science. The use of the LMM on the international space station will enable insight into finer control of the self-assembly (as well as directed-assembly) of such colloidal-based structures.
+ 
+Cardiac and Vessel Structure and Function with Long-Duration Space Flight and Recovery (Vascular Echo) Checkout:  Peake installed the Cardiolab Portable Doppler Driver on the European Physiology Module (EPM) laptop.  Peake and ground teams then checked the functionality of the drivers in advance of the Vascular Echo Doppler Ultrasound protocol, scheduled for Thursday.  The Vascular Echo experiment investigates the stiffening of the arteries and increased blood pressure (hypertension) observed in some returning ISS crewmembers.  By observing the changes in blood vessels, and the heart, while the crew members are in space and following their recovery on return to Earth, investigators hope to provide insight into potential countermeasures to help maintain crew member health, and quality of life.
+ 
+Extravehicular Mobility Unit (EMU) 3008 Checkout:  Kopra performed a checkout of EMU 3008 in order to
+verify all systems on the suit were functioning properly after its launch on OA-4.  During the activity, Ground teams monitored EMU telemetry and performed successful communication checks with the suit’s UHF Radios and hardline audio system. This EMU is planned for use during the Sequential Shunt Unit (SSU) EVA currently scheduled for January 15th.
+ 
+Retractable Equipment Tether (RET) Inspection:  Kopra performed an inspection for damaged cords on mounted and unmounted RETs.  Each RET cord must be inspected prior to EVA use.
+ 
+Waste & Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace (R&R):  Kelly performed this maintenance activity to R&R the WHC pre-treat tank.
+ 
+Mobile Transporter (MT) Translation to Work Site 2 (WS2):  This afternoon, ground controllers successfully commanded an MT translation from WS4 to WS2.  The move positions the Mobile Servicing System (MSS) for robotic operations this week to retrieve Robotics Refueling Mission (RRM) Taskboard (TB) 4.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Morning Inspection. Testing ПСС СМ
+Laptop RS1(2) reboot
+Inspect cnctrs СМ-У, РУ2, РУ4, РУ5 on МНР-НС behind panel 139 of  АСУ and pipeline 5182-03 from ДКиВ to МНР in its transparent section
+Fluid Shift experiment ops
+Fine Motor Skills
+BLR48 – equipment config
+Video coverage for Science 2.0 TV channel
+CARDIOVECTOR. Experiment run. Tagup with specialists
+BSA battery charging
+Preparation of items for disposal on Cygnus OA-4
+ACE experiment ops
+DOS3D – photo of DOSIS passive sensors after installation
+FIR ops
+SEISMOPROGNOZ. Info d/l from [МКСД] hard drive
+CMS – replace batteries
+EMU – reconfig after retrieval from transport container
+MOTOCARD. Experiment run
+VEG-01 – seedlings imagery
+HMS – inspect defibrillator
+Unstow Progress №431 (on DC1) and IMS update
+ER2 ops
+HABIT – video coverage
+WRS – recycle tank fill
+Tighten clamps of QDs between MRM2 and Soyuz №718
+JRNL – log entry
+Repair works. Installation of cover sheets on SM interior panel №334
+WHC tank and hose changeout
+EMU – reconfig after retrieval from transport container
+Replace [ПФ1], [ПФ2] dust filters and clean [В1], [B2] fan grilles in MRM2
+Unstow Progress №431 (on DC1) and update IMS
+VECHO
+Refill (separation) of [ЕДВ (КОВ)] for ELEKTRON or [ЕДВ-СВ]
+SOZh maintenance
+IMS update
+Update anti-virus base on [ВКС] laptops
+Daily Planning Conference (S-band)
+Preparation for anti-virus scanning on [ВКС] laptops
+Preparation of reports for Roskosmos site and social networks
+Video coverage for [ВГТРК] TV company
+ECON-М. Observation and imagery
+
+ 
+Completed Task List Items
+
+EPO GV MX Kick Off (Completed on Saturday)
+EVA ECWS OBT (Completed on Saturday)
+EPO-GV RS (Completed on Sunday)
+EPO-GV-S2EC (Completed on Sunday)
+ESA-PAO-REC-DOMLIFE (Completed on Sunday)
+45S USOS Unpack
+EVA RET inspection
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal system commanding
+MT Powerup and Translate (Worksite 4 – Worksite 2), SPDM Unstow
+
+ 

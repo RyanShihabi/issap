@@ -1,0 +1,77 @@
+
+Cube Satellite (CubeSat) Deploys:  Following yesterday’s successful launch of four CubeSats, the Japanese Experiment Module (JEM) Remote Manipulator System (RMS) was used this morning to launch two more satellites. An unsuccessful attempt was made to launch additional satellites from deployers 3 and 5.  Ground teams are investigating the anomaly. The remaining satellites in the NRCSDs on the JEMRMS are scheduled to be launched this week.
+Ocular Health (OH) Examination:  With assistance from FE-5 Mastracchio and FE-6 Wakata, a blood pressure measurement and a tonometry test were performed on FE-3 Hopkins as part of his OH Return minus 30 (R-30) flight day session. The Ocular Health protocol is a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment / intracranial pressure in ISS crewmembers. Researchers believe the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Material Science Laboratory (MSL) Solidification and Quench Furnace (SQF) Sample Cartridge Exchange:  Mastracchio removed a used sample cartridge from the SQF and replaced it with Columnar-to-Equiaxed Transition in Solidification Processing-2 (CETSOL-2) test sample 7. This investigation aims to deepen the understanding of the physical principles that govern solidification processes in metal alloys. The patterns of the crystals resulting from transitions of liquids to solids is important for processes used to produce materials such as solar cells, thermoelectrics, and metal alloys.
+Capillary Flow Experiment (CFE) Interior Corner Flow (ICF)-4 Test: FE-6 Wakata set up the hardware and will initiate a CFE ICF-4 test run later this morning. The ICF-4 vessel has a 50 degree stepped taper snow cone section.  CFE ICF studies capillary flow in interior corners of vessels with various geometries.  Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity.  Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can be used to improve propellant management aboard spacecraft.
+Burning and Suppression of Solids – 2 (BASS-2) Experiment Preparation:  Mastracchio completed an overview, watched a video, and later will set up BASS-2 hardware in the Microgravity Science Glovebox (MSG) to support the BASS experiment run this Friday, February 14th.  BASS-2 tests the hypothesis that materials in microgravity with adequate ventilation will burn as well or better than in normal gravity with other conditions being identical.  The main variables to be tested are the effects of ambient oxygen concentration, ventilation flow velocity, and fuel type, thickness, and geometry.  Many of the tests will focus on finding a minimum oxygen concentration or flow velocity where a material will burn in space, to compare with the Earth-based limits.   Flame growth rates are also of interest, to determine how quickly a fire in space can grow and if the flames reach a finite size or continue to grow.  This has implications for firefighting strategies in spacecraft.
+Countermeasures System (CMS) Treadmill 2 (T2) Accelerometer Remove and Replace (R&R): Today, FE-3 Hopkins removed the T2 from its rack then perform a detailed inspection of the failed accelerometer’s surrounding area. Once inspection was complete, he successfully replaced the right bottom accelerometer B.  Lastly, he reinstall the treadmill back onto its rack.   
+Internal Audio Controller (IAC) Transitions: This morning, automatic Fault Detection, Isolation, and Recovery (FDIR) software powered off IAC-2 and transitioned over to IAC-1.  Shortly after, FDIR transitioned back to IAC-2.  IAC2 is currently active and operating nominally.  During this timeframe, the Flight Control Team also observed Passive Built-In Test (PBIT) faults on several Audio Terminal Units (ATUs) and Audio Bus Controllers (ABCs). Flight Controllers subsequently powered on IAC1 in backup mode and successfully checked it out.  They then proceeded to clear the PBIT faults on the ATUs and ABCs.  All PBIT faults were cleared for the exception of the port ATU within Node 3 and ABC 2 and 6. A successful comm check was performed from the Node 3 port ATU. Ground teams will be investigating the cause of the IAC transitions and develop further troubleshooting plans associated with the remaining PBIT faults. The IACs are responsible for the distribution of voice and Caution & Warning Tones throughout the entire United States On-orbit Segment (USOS).
+Today’s Planned Tasks
+
+Morning Inspection. SM ПСС (Caution & Warning Panel) Test [Complete]
+Seiner. Photo Spectral System (ФСС) Battery Charge (start) Complete]
+CASKAD. Manual Mixing in Bioreactor Complete]
+SM Ventilation System Preventive Maintenance. Group В2 Complete]
+Life On The Station Photo and Video Complete]
+Chibis-M Repairs. Complete]
+OH – Blood Pressure Operations and Recording Results Complete]
+OH-BP – Blood Pressure Operations (assistance) Complete]
+Formaldehyde Monitoring Kit (FMK) Stow Operations Complete]
+Ocular Health (OH) Tonometry Test – Setup Complete]
+Ocular Health (OH) Tonometry Test Complete]
+Chibis-M Checkout after Repairs. Complete]
+MSL Cartridge Exchange Complete]
+Ocular Health (OH) – Equipment Stowage Complete]
+CFE – Hardware Test Ops Review Complete]
+Replacement of the failed PTT. Checkout and Testing Complete]
+SPHERES – MWA Setup [Complete]
+CFE – Preparation and Hardware Setup  [Complete]
+КЦП2 computer network statistics collection. Tagup with specialists  [Complete]
+24-hour Holter monitoring (terminate) [Complete]
+Video Camera Assembly (VCA1) Adjustment [Complete]
+CDA screen inspection in Columbus  [Complete]
+On MCC GO КЦП2 computer network statistics collection. Tagup with specialists  [Complete]
+Columbus RGSH ventilation screen cleaning  [Complete]
+On-orbit Hearing Assessment using EARQ  [Complete]
+On MCC GO RS1 Laptop Activation. Tagup with specialists [Complete]
+BASS – Review [Complete]
+GREAT START. Review Script  [Complete]
+CFE-ICF4 – Test Ops [Complete]
+BAR.  Experiment Ops. Tagup with specialists (as necessary) [Complete]
+MRM2 comm config to support voice comm during the experiment  [Complete]
+KULONOVSKIY KRISTALL. Experiment Ops / Tagup with specialists  [Complete]
+T2 – Accelerometer R&R  [Complete]
+BASS Payload Crew Conference  [Complete]
+Seiner. Observation and Photography using Photo Spectrum System (ФСС) [Complete]
+MSG – Visual inspection and activation  [Complete]
+BASS Equipment Setup  [Complete]
+MRM2 Comm Reconfig  [Complete]
+KULONOVSKIY KRISTALL. Files prep and downlink. Tagup with specialists  [Complete]
+СОЖ Maintenance [Complete]
+Installation of Navigation Receiver Module (НПМ) [Complete]
+Capillary Flow Experiment (CFE) – Hardware packing into Ziploc bags [Complete]
+IWIS RSU installation [Complete]
+URAGAN. Observation and Photography  [Complete]
+T2 Activation and Checkout Video Setup [Complete]
+T2 – Accelerometer R&R [Complete]
+IMS Update  [Complete]
+Treadmill 2 (T2) Activation and Checkout (ACO) Video Teardown [Complete]
+CASKAD. Manual Mixing in Bioreactor  [Complete]
+Expedition Plaque Hanging [Complete] 
+
+Task List
+
+ARED Cylinder Evac
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+Laptop cleanup
+Data prep return-CDR, FE-2, FE-3
+Food warmer troubleshooting
+
+Ground
+
+Nominal Commanding[Complete]
+MSS FMS Data Gathering [In work]
+

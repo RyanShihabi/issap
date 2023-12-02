@@ -1,0 +1,85 @@
+
+Burning and Suppression of Solids (BASS)-II Operations: Flight Engineer (FE)-5 Wiseman conducted flame tests for the BASS-II investigation which examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity. The experiment will guide strategies for materials flammability screening for use in spacecraft as well as provide valuable data on solid fuel burning behavior in microgravity. BASS-II results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Capillary Flow Experiment (CFE) Operations: Commander (CDR) Swanson set up hardware on the Maintenance Work Area (MWA) and conducted an Interior Corner Flow (ICF) test using the ICF5 hardware which contains a square shaped rectangular section, equally divided into four smaller sections. CFE ICF studies capillary flow in interior corners of vessels with various geometries. Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can be used to improve propellant management aboard spacecraft.
+Earth Rim Observation Preparation: FE-6 Gerst set up cameras in the Cupola and took sequential pictures of the Earth’s rim. The images from the Cupola will be taken in conjunction with the nadir-pointing Visible and Infrared Spectral Imager (VISI) on the external Multi-mission Consolidated Equipment (MCE). This will give the ground stereoscopic images to help clarify the structures and dynamics of the Earth’s upper atmosphere using the emission of the airglow and the aurora.
+Circadian Rhythms: Gerst removed the Circadian Rhythms equipment, completing a 36 hour data collection session. Circadian Rhythms investigates the role of synchronized circadian rhythms, or the “biological clock,” and how it changes during long-duration spaceflight. Researchers hypothesize that a non-24-hour cycle of light and dark affects crewmembers’ circadian clocks. The investigation also addresses the effects of reduced physical activity, microgravity and an artificially controlled environment. Changes in body composition and body temperature, which also occur in microgravity, can affect crewmembers’ circadian rhythms as well. Understanding how these phenomena affect the biological clock will improve performance and health for future crewmembers.
+Alternate Station Computer (ASC) Deploy: Gerst deployed an ASC in support of the Force Shoes investigation. Force Shoes will measure exercise loads experienced during Treadmill 2 (T2) and Advanced Resistive Exercise Device (ARED) exercise. 
+Waste & Hygiene Compartment (WHC) Maintenance:  Swanson removed and replaced the WHC piping, a standard maintenance activity scheduled every 6 months.   After engineering review of the results of this week’s WHC maintenance activities,  the WHC was configured to flow fluid into the Urine Processing Assembly (UPA) instead of the internal [ЕДВ-У].
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+ECLSS: filling WSTA [Complete]
+MSG – Visual inspection and activation [Complete]
+USND2 – Ultrasound Power On [Complete]
+Digital TV Downlink Test from SM  КЛ-154М TV camera via RGS 25 r/g 6024 [Complete]
+Ultrasound – Scanning Prep [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+Ultrasound Scan – Subject [Complete]
+Ultrasound Scan – Operator [Complete]
+IMS Tagup / r/g 6027 [Complete]
+Study of cardiac bioelectric activity at rest. [Complete]
+Ultrasound Data Export [Complete]
+BASS. Preparation steps [Complete]
+CRHYT – Deinstrumentation and Cleaning Sensors [Complete]
+BRI Log Dump from RSS1 [Complete]
+Preparation for RS ISS Window Inspection and Photography  r/g 6025 [Complete]
+Digital TV Downlink Test from SM Sony Z7E TV camera via RGS 25  [Complete]
+MOTOCARD. Experiment Ops Tagup with specialists / r/g 6015 [Complete]
+JRNL – Journal Entry [Complete]
+CFE – HW test activity review [Complete]
+MOTOCARD. Experiment Assistance. r/g 6016 [Complete]
+CFE – MWA Preparation [Complete]
+Ultrasound Scan – Operator [Complete]
+Ultrasound Scan – Subject [Complete]
+SM Ventilation System Preventive Maintenance.  [Complete]
+CFE – prep steps and hw install [Complete]
+Ultrasound Scanning – Closeout Ops [Complete]
+Ultrasound Data Export [Complete]
+CIR – Hardware Setup [Complete]
+BASS. Test Ops [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+Ocular Health (OH) – Cardiac Operations Operator [Complete]
+MRM2 comm config to support voice comm during the experiment  [Complete]
+KULONOVSKIY KRISTALL experiment ops r/g 6026 [Complete]
+OH – Blood Pressure Operations Assistance [Complete]
+IMS and stowage conference [Complete]
+СОЖ Maintenance  [Complete]
+KULONOVSKIY KRISTALL. Copy and Downlink Data via РСПИ / r/g 6026 [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+CFE – Test fluid flow [Complete]
+ТКГ 427 (DC1) Stowage and IMS Ops / r/g 5987 [Complete]
+Inspection and Photography of RS SM windows 3,5,6,7. r/g 6025 [Complete]
+Replacing E-K container and hose in АСУ Install #306112  [Complete]
+Deploy ASC and matching hw in Node3 [Complete]
+Uninstall earlier Installed Formaldehyde Monitoring Kit (FMK) [Complete]
+HRF2 Photography [Complete]
+CFE – hw teardown [Complete]
+USND2 – Laptop deactivation and stowage [Complete]
+BASS. Closeout Ops [Complete]
+ECLSS. Filling WSTA container [Complete]
+EARTH RIM-OBS-PREP [Complete]
+WHC R&R [Complete]
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 5186 [Complete]
+IMS Delta File Prep [Complete]
+MSG – Glovebox Powerdown [Complete]
+Flight Director/ISS Crew Tagup [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO replace
+WHC EDV-Y R&R
+Roscosmos Report
+Econ photo
+Uragan photo
+ARED bag audit
+ESA EPO flying demo
+PAO deferred D/L msg
+Voice quality survey
+
+Ground
+
+Nominal commanding
+

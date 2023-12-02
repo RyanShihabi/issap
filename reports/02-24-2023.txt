@@ -1,0 +1,25 @@
+
+Payloads:
+Airborne Particulate Monitor (APM): The APM system was checked, and a status was provided to the ground. Air quality in crewed spacecraft is important for keeping astronauts healthy and comfortable. Although requirements exist for maximum allowable concentrations of particulate matter, currently no measurement capability verifies whether these requirements are met. APM demonstrates an instrument for measuring and quantifying the concentration of both small and large particles in spacecraft air. The data can be used to create a map of air quality in terms of particles and shed light on the sources of such particles.
+Cerebral Autoregulation: The crew successfully performed a Cerebral Autoregulation science session. As the body’s most important organ, the brain needs a strong and reliable blood supply so it can self-regulate blood flow even when the heart and blood vessels cannot maintain an ideal blood pressure. The Cerebral Autoregulation investigation tests whether this self-regulation improves in the microgravity environment of space. Non-invasive tests measure blood flow in the brain before, during, and after a long-duration spaceflight, and provide new insights into how the brain safeguards its blood supply in a challenging environment.
+Human Research Facility Veggie (HRF Veg): Profile of Mood States (POMS) questionnaires were completed by the crew. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System investigation is a phased research project that includes Veg-04A, Veg-04B, Veg-05, and HRF Veg including HRF Veggie POMS questionnaires. This work addresses the need for a system to produce healthy, fresh food on future long-duration exploration missions to supplement the standard pre-packaged astronaut diet. HRF Veg uses psychological surveys and crew evaluations of the flavor and appeal of plants grown for other investigations on the ISS to focus on the overall behavioral health benefits to crew members of having various plants and fresh food in space.
+Systems:
+69 Soyuz Launch: 69S successfully launched at 6:24 PM CT yesterday evening from the Baikonur Cosmodrome. This Soyuz spacecraft launched without a crew and is planned for a 33-orbit rendezvous with the ISS. Docking is targeted for Saturday evening at approximately 7:01 PM CT. 
+Environmental Control and Life Support System (ECLSS) Portable Emergency Provisions (PEPs) Inspection: Today, the crew completed a PEPs inspection to determine if PEPs are in a good operational condition. The crew inspected various emergency provisions such as the Portable Fire Extinguishers (PFEs), Portable Breathing Apparatus (PBAs), and Extension Hose Tee Kits (EHTKs) at multiple locations throughout the space station.
+Crew Dragon Departure Preparations: The Endurance crew continued preparations for their departure and the arrival of Crew-6. The crew configured Robotics On-board Trainer (ROBoT) hardware using Station Support Computers (SSCs) and completed On Board Training (OBT) ROBoT Self required for crew to reset Space Station Remote Manipulator System (SSRMS) proficiency. Dragon suit fit and operability was confirmed, and emergency equipment was gathered and audited to prepare for transfer to Crew-6. Finally, crew prepared Crew Alternate Sleep Accommodation (CASA) by connecting and checking out hardware and cleaning.
+Waste and Hygiene Compartment (WHC) Manual Fill: As part of regularly scheduled preventive maintenance, the crew performed a manual WHC flush tank fill. By using a post-flight analysis bag to capture any pressure relief, also known as a burp, the crew depressurized the flush water tank and the water valve block to protect the dose pump. This pump is critical as it injects pre-treat required to properly recycle waste urine.
+RS Water Transfers: Per documented agreements between NASA and IP Russia, the crew continues to transfer water from the USOS to the RS. Surplus water in the USOS was transferred from the Contingency Water Container – Iodine (CWC-I) to an ЕДВ. An ЕДВ is intended for short-term storage and manual water transportation between facilities.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Crew Dragon Awake Mode Checkout
+Turn Dragon Forward Fan On/Off
+Crew Dragon Cabin Fan Checkout
+Crew Dragon Oxygen System Checkout
+Dragon LED Light Check
+TCS TRRJ Reposition
+

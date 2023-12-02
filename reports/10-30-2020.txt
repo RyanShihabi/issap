@@ -1,0 +1,19 @@
+
+Payloads
+Cubesat review: The crew reviewed the NRCSD-19 installation material in preparation for next week’s activities. A single NanoRacks CubeSat Deployer (NRCSD) has the capability to launch 6 CUs worth of CubeSats. A CU is a Cube Unit, where 1 CU is a cube with 10 cm sides. For NRCSD-19, there are 8 Deployers preassembled in two (2) Quad Deployers, and a total of seven satellites will be deployed (SpOC, Bobcat-1, NEUTRON-1, LEMUR2 (v4.7), LEMUR2 (v4.8), DESCENT, and SAT-LLA).
+Plant Habitat-02: The original plan for Friday’s activities was to install the Plant Habitat-02 science carrier 1, and later in the day refill the P Hab-02 water distribution system. However, due to an issue with the Plant Hab-02 software application on the laptop, we were not able to complete the activities for today. The teams are assessing a forward plan. Assessment of Nutritional Value and Growth Parameters of Space-grown Plants (Plant Habitat-02) cultivates radishes as a model plant that is nutritious and edible, has a short cultivation time, and is genetically similar to Arabidopsis, a plant frequently studied in microgravity. Developing the capability for food production in space requires understanding cultivation conditions such as intensity and spectral composition of light and the effects of the culture medium or soil. This research could help optimize plant growth in the unique environment of space, as well as evaluation of nutrition and taste of the plants.
+Systems
+Mobile Servicing System (MSS) Operations – Yesterday, the Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) to the Mobile base System (MBS). The SPDM was stowed on the MBS Power & Data Grapple Fixture #2 (PDGF #2). The SSRMS released the SPDM and maneuvered to the Direct Drive position. SSRMS wrist Direct Drive test was performed yesterday and continued today.
+Completed Task List Activities:
+
+CMS Exercise Equipment Gather
+Replace damaged fire port hole decals
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+JEMRMS Maneuver for transfer Handhold Exp Platform
+SSRMS Direct Drive Test
+Nitrogen repress of ISS cabin atmosphere
+Plant Habitat Science Carrier Installation #1 support
+

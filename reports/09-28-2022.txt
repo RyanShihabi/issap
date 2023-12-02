@@ -1,0 +1,21 @@
+
+Payloads:
+Airborne Particulate Monitor (APM): Data was transferred from the APM for subsequent downlink.  APM was then removed from its location in the US Lab and stowed. Air quality in crewed spacecraft is important for keeping astronauts healthy and comfortable. Although requirements exist for maximum allowable concentrations of particulate matter, currently no measurement capability verifies whether these requirements are met. The APM demonstrates an instrument for measuring and quantifying the concentration of both small and large particles in spacecraft air. The data can be used to create a map of air quality in terms of particles and shed light on the sources of such particles.
+Autonomous Systems and Operations (AMO) EXPRESS-2.5 Ops: Experiment operations were continued, and a questionnaire filled out with feedback on the sessions. In these sessions, simulated commanding of EXPRESS rack 7 was conducted. AMO EXPRESS 2.5 conducts tests using automation and decision support software to help crew members manage spacecraft subsystems. The ability to perform such tasks without assistance from Mission Control is vital for future space exploration such as a mission to Mars, where significant time delays will occur in communications between space and ground. Using automation and decision support software to guide astronauts through complex spacecraft subsystem management activities also reduces the time needed to perform a task.
+Nutrition Monitoring for the International Space Station (NutrISS): The crew performed an ESA Nutritional Assessment (ENA) in support of the NutrISS investigation. Long-duration spaceflight induces relevant changes in body composition and a loss of body mass. In the NutrISS investigation, a periodic assessment of body composition (body weight, fat mass, and fat-free mass) during spaceflight aboard the ISS is carried out using a dedicated bio-impedance analysis device to allow for the measurement of long-term energy balance modification over time. It is hypothesized that an adjusted diet maintaining a near-neutral energy balance, and/or increasing protein intake can limit microgravity-induced bone and muscle loss.
+Systems:
+Life Support Rack (LSR) Auxiliary Power Troubleshooting and UOP Cable Reroute: Today, the crew re-established communication with LSR during an inspection of the LSR power cables, connectors, and adapters in an effort to troubleshoot power connectivity. The auxiliary power between the RPCM and LSR was re-established by reinserting a disconnected wire. The crew also rerouted the Node 3 Utility Operation Panel (UOP) power cable W3727 that was damaged. 
+Crew Quarters (CQ) Cleaning: As part of in-flight maintenance, the crew cleaned the intake and exhaust ducts, fans, and airflow sensors in the Deck Crew Quarters. Due to the large amounts of dust seen during previous CQ cleanings, the crew removed all relevant panels and temporarily stowed them to clean all areas at once.
+Change of Command Ceremony: The crew participated in a change of command ceremony from the 67S Commander Oleg Artemyev to Samantha Cristoforetti. Proceeding the ceremony, the 68S crew and 67S crew sleep shifted to prepare for 67S crew departure from ISS scheduled on September 29th at 2:33 AM CT.
+Solar Array Wing (SAW) Max Power Testing: Ground controllers continued the SAW bi-annual max power testing to track the performance and health of the arrays. Today, teams completed the Voltage Max Power (VMP) portion of the testing to characterize the voltage set points for the Sequential Shunt Units (SSUs). Testing is expected to complete this week after which the team will use the data collected for in-depth analysis and recommendations.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Solar Array Voltage Maximum Power
+Recycle Tank Drain Support
+Crew Quarters Activation
+

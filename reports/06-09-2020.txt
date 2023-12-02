@@ -1,0 +1,22 @@
+
+Payloads
+Electrolysis Measurement (EM): In support of the ongoing EM experiment, the crew performed a series of sample exchanges.  The experiment is expected to process 30 total samples over the next several weeks.  Electrolytic Gas Evolution Under Microgravity (Electrolysis Measurement) examines the influence of gravity on electrolytic gas evolution, a complex electrochemical process with multiple applications on Earth and in space. For example, electrolysis generates bubbles that can be used to create pressure differentials in microfluidic devices, such as skin patches, used to deliver medications. Microgravity makes it possible to single out bubble growth and study its effect on the process. 
+iSIM conference and installation:  The crew installed the iSIM onto the JEM Airlock (JEMAL) slide table in preparation for deployment on the JEM Exposed Facility on Wednesday (10-June).  The crew also participated in a crew conference with Spain to discuss the iSIM.  The integrated Standard Imager for Microsatellites (iSIM), is a high-resolution optical binocular telescope developed by SATLANTIS.  Spatial resolution of up to 1m is possible with iSIM at a price cheaper than traditional imaging systems of comparable performance.  The objective of this experiment is to demonstrate the technology, and its functionality, in the low-Earth orbit environment.
+Systems 
+Extravehicular Mobility Unit (EMU) Hard Upper Torso (HUT) Swap: Today, the crew performed a HUT swap on EMU S/N 3006 with a spare standalone HUT. The swap was performed to upsize the HUT from a large (L) to an extra-large (XL) in preparation for the upcoming S6 Battery EVAs. There are now 1 medium, 1 large, and 2 extra-large HUTs available to the crew.
+Treadmill (T2) Corrective Maintenance: The crew was scheduled to perform closeout activities on the treadmill today after replacing faulty components in the treadmill over the weekend. The crew installed the Y and Z-axis isolators but discovered a worn bolt while installing the ground strap. The crew was unable to complete all scheduled T2 activities today. The ground team will work to reschedule the deferred activities from today on to tomorrow’s plan. At this time, T2 is still non-operational. 
+H-II Transfer Vehicle (HTV)9 Cargo Operations: Today, the crew continued to perform HTV9 cargo transfer operations but a portion of the scheduled cargo ops was deferred due to the T2 maintenance. Ground teams estimate ~3 hours remain to complete available cargo ops. 
+Air Quality Monitor (AQM) Relocate:  The AQM was relocated to the Service Module today so the ground team can trend benzene levels. This is in preparation for split atmosphere ops later this week to attempt to pinpoint the source of benzene with the vehicle. In the last few weeks, the ground teams has observed an increase in the benzene level on the ISS.
+Completed Task List Activities:
+
+Extravehicular Activity (EVA) Retractable Equipment Tether (RET) Inspection
+Extravehicular Activity (EVA) Crew Tether Inspections
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+T2 Ops Ground Support
+Vacuum System (VS) PGT Pressure Bias Update
+A/L SD Cleaning Ground Support
+

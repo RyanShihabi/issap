@@ -1,0 +1,95 @@
+
+New Status:
+Advanced Colloids Experiment (ACE)-1: FE-6 Nyberg mixed the 6th of 10 wells for the ACE-1 experiment.  ACE-1 is the first in a series of microscopic imaging investigations of materials which contain small colloidal particles which have the specific characteristic of remaining evenly dispersed and distributed within the material. This investigation takes advantage of the unique environment onboard the ISS to separate the effects induced by Earth’s gravity to examine flow characteristics and the evolution and ordering effects within these colloidal materials. Engineering, manipulation and the fundamental understanding of materials of this nature potentially enhances our ability to produce, store, and manipulate materials which rely on similar physical properties. The experiment uses the Fluids Integrated Rack facility which is a complementary fluid physics research facility designed to host investigations in areas such as colloids, gels, bubbles, wetting and capillary action, and phase changes, including boiling and cooling.
+ 
+Spheres Zero Robotics (ZR):  Cassidy and Nyberg performed a practice run of the Spheres-ZR investigation planned for next Tuesday when middle school students will participate in the competition with real time video and audio of the runs from the ISS.  SPHERES-ZR investigation establishes an opportunity for students to design research for the ISS. As part of a competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS.
+ 
+Urine Processing Assembly (UPA) Status: Following yesterday’s Remove and Replace (R&R) of the Pressure Control and Pump Assembly (PCPA), ground controllers commanded the UPA to standby mode and later commanded the UPA to perform a process cycle.  All operations were nominal.
+ 
+Periodic Fitness Evaluation (PFE): Nyberg was scheduled to perform a PFE, however the adapters necessary to connect the new Blood Pressure-Electrocardiogram (BP/ECG) device to the SSC could not be found. The crew swapped the new BP/ECG cabling with old cabling with no success. Ground teams are investigating root cause for the connection issues as well as the location of the necessary adapters.
+ 
+H-II Transfer Vehicle (HTV)-4 Preparations and Status: Parmitano gathered the necessary equipment for HTV vestibule outfitting, needed following the grapple and berthing of HTV-4 scheduled for Friday, August 9.  Today, HTV-4 is performing a series of four maneuvers (Plane Change Maneuvers and Height Adjustment Maneuvers) raising the altitude from approximately 125 km below the ISS to approximately 28 km below ISS.  Through orbital mechanics, HTV4 is closing in on ISS, and following the burns will be approximately 4500 km behind the ISS and closing at 300 km per orbit.
+ 
+Binary Colloidal Alloy Test (BCAT)-3: Sample 5 is reacting slower than expected so the experiment has been extended for 3 weeks in order for scientists to observe the complete reaction. Depending on their relative distances and energies with respect one another, atoms and molecules organize themselves to form gases, liquids, and solids. BCAT-3-4-CP studies the critical point of these systems, which is defined where gases and liquids no longer exist as separate entities and a new state of matter forms which is known as the critical point. The application of this experiment in the near term is to enhance the shelf life of everyday products and in the longer term, the development of revolutionary materials for electronics and medicine.
+ 
+Today’s Planned Tasks
+·         SPRUT-2 Experiment Ops  [Complete] 
+·         Daily Planning Conference (S-band) [Complete] 
+·         WRS Maintenance [Complete] 
+·         D2XS Battery Charge [Complete] 
+·         Lab Camcorder Nominal Reconfig [Complete] 
+·         HTV – Print approach procedure [Complete] 
+·         BCAT – Camera Battery Changeout [Complete] 
+·         Periodic Fitness Evaluation – Nom Ops (subject) [Aborted] 
+·         СОЖ Maintenance  [Complete] 
+·         CASKAD. Manual Mixing in Bioreactor  [Complete] 
+·         Activation and Inspection of Orlan No. 6 [Complete] 
+·         Periodic Fitness Evaluation – (assistance) [Complete] 
+·         Collecting SM and FGB Air Samples Using АК-1М Sampler  [Complete] 
+·         Audio Dosimeter Preparation [Complete] 
+·         Replace backup БК-3М in Orlan No. 5  [Complete] 
+·         FIR Rack Doors Open [Complete]
+·         SM Air Sampling for CO using ИПД Samplers  [Complete] 
+·         Photo/TV Camcorder Setup Verification [Complete] 
+·         Testing КВД (Pressure Equalization Vlv) from ПхО ПОВ [Complete]
+·         LMM – Setup and Video [Complete]
+·         ACE – Sample Prep [Complete] 
+·         Changeout of Purification Column in Elektron Install No. 1109055 [Complete]
+·         ISS – HAM Radio Session [Complete]
+·         Checkout of БСС (Spacesuit Interface Unit) in DC1 [Complete]
+·         SM Ventilation System Preventive Maintenance. Group А [Complete]
+·         Checkout of БСС (Spacesuit Interface Unit) in ПхО [Complete]
+·         Pre-Gather HTV Vestibule Outfitting Kit (VOK) [Complete]
+·         LMM – Setup and Video [Complete]
+·         Spacesuit Replaceable Elements Ops  [Complete]
+·         FIR – Rack Door Close and Video [Complete]
+·         Testing КВД (Pressure Equalization Valve) from DC1 ПОВ [Complete]
+·         Spacesuit Replaceable Elements Ops [Complete]
+·         Configure D2X photo camera for RS EVA [Complete]
+·         CIR – Hardware Teardown [Complete]
+·         Handover of D2Xs Photo Camera to RS crew [Complete]
+·         Consolidate Tool Caddy, Photography, Photo Downlink. [Complete]
+·         WRS Maintenance [Complete]
+·         SM Ventilation System Preventive Maintenance. [Complete]
+·         SPHERES  Crew Conference [Complete]
+·         Columbus Front Deck Rack Front Restow [Complete]
+·         SPHERES – Camera Setup [Complete]
+·         IDENTIFIKATSIYA. [Complete]
+·         IMS Update [Complete]
+·         SPHERES – Test Run [Complete]
+·         DC1 EVA Support Panel (ПОВ) Test  [Complete]
+·         Replacement of СО2 (ВП2) Cartridge Fan [Complete]
+·         Mate ВП2 TLM Connectors to БИТС2-12 [Complete]
+·         ПхО EVA Support Panel (ПОВ) Test [Complete]
+·         Replacement of СО2 (ВП2) Cartridge Fan [Complete]
+·         SPHERES Shutdown [Complete]
+·         24-hour ECG Holter Monitoring [Complete]
+·         Photo/TV Camcorder Setup Verification [Complete]
+·         CWC Audit [Complete]
+·         Ultrasound 2 – Scanning Prep [Complete]
+·         VZAIMODEISTVIYE. Experiment Ops [Complete]
+·         ISERV:  Manual Pointing [Complete]
+·         Ultrasound 2 Scan Ops – Subject [Complete]
+·         Ultrasound 2 Scan Ops – CMO [Complete]
+·         Ultrasound 2 Scan [Complete]
+·         Ultrasound 2 Data Export [Complete]
+·         VZAIMODEISTVIYE Experiment Ops [Complete]
+·         Ultrasound 2 Stowage [Complete]
+·         CASKAD. Manual Mixing in Bioreactor [Complete]
+·         Stow Video Equipment Used for ARED Exercise Video [Complete]
+·         Daily Planning Conference (S-band) [Complete]
+ 
+Task List
+·         ARED Cyl Evac [Complete] 
+·         WHC KTO Replace
+·         WHC EDV R&R
+·         Roscosmos Report
+·         52P USOS Unpack [In Work]
+·         BK Curtain Retrieve
+·         Data Prep for Return FE-3
+·         TVIS Cue card Discard
+·         Regen WSTA Fill
+ 
+Ground
+·                     Nominal Commanding
+ 

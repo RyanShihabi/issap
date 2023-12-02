@@ -1,0 +1,94 @@
+
+FLame Extinguishment Experiment (FLEX)-2 Operations: Commander (CDR) Swanson removed the Combustion Integration Rack (CIR) alignment guides which isolated the rack and allowed ground teams to start another FLEX-2 test point via ground commanding. FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. This test session will utilize 50% heptane and 50% iso-octane. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Burning and Suppression of Solids (BASS)-II Operations: Flight Engineer (FE)-6 Gerst conducted flame tests for the BASS-II investigation which examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity. Gerst burned four black acrylic rods today. The experiment will guide strategies for materials flammability screening for use in spacecraft as well as provide valuable data on solid fuel burning behavior in microgravity. BASS-II results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Human Research Facility (HRF) Rack Interface Controller (RIC) Load: FE-5 Wiseman initiated HRF Rack 1 RIC load to update the software.
+Automated Transfer Vehicle (ATV)-5 Status: Following yesterday’s launch, ATV Control Center (CC) received an indication of an anomaly on one of ATV’s four Propulsion Drive Electronics (PDE) chains. Teams are investigating the root cause and determining if the PDE can be recovered.   Rendezvous and docking requires 3 of 4 PDE’s.  ATV docking is scheduled for August 12th.
+Cygnus Cargo Operations:  Today the crew began loading disposal items into the Cygnus spacecraft.  They will continue the loading operations tomorrow.  Cygnus unberth is scheduled for August 15th.
+Extravehicular Mobility Unit (EMU) Maintenance/Extravehicular Activity (EVA) Preparations: Swanson completed EMU water conductivity measurements on water samples from all four EMUs.  Later, he and Wiseman unstowed hardware from the Airlock that is not needed for the upcoming August EVAs and prepared the Airlock to support EVA operations.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139. [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238 [Complete]
+MSG – Visual inspection and activation [Complete]
+CIR – Hardware Teardown [Complete]
+Replacement of ЭЛВ1 valve and СКО Elektron-VM hydrogen line leak check  r/g 6242 [Complete]
+On MCC GO Regeneration of БМП Ф2 Micropurification Cartridge (start) [Complete]
+ТКГ 423 (DC1) Transfers and IMS Ops / ТКГ 423 Transfer Ops (РПР) + r/g 6203 [Complete]
+BASS Operations Preparation [Complete]
+Test Operation of МИС on ISS RS / r/g 6215 [Complete]
+HRF1 Load Preparation [Complete]
+OTKLIK. Hardware Monitoring / r/g 6040 [Complete]
+IVA – Exercise Clothes Survey [Complete]
+Installation of overlay plates on FGB interior panels (panel 303) – gathering and preliminary operations  r/g 6245 [Complete]
+RGN – Initiate drain into EDV [Complete]
+BASS – Test Ops [Complete]
+RGN – Terminate drain into EDV [Complete]
+Cygnus Cargo Operations [Complete]
+Installation of overlay plates on FGB interior panels (panel 303) – Disinfectant Treatment. [Complete]
+Cygnus Cargo Operations [Complete]
+Installation of overlay plates on FGB interior panels (panel 303) – Repeat disinfectant treatment. [Complete]
+HRF1 Load Terminate [Complete]
+Cygnus Cargo Operations Tagup [Complete]
+IVA – Exercise Clothes Survey / USOS procedures [Complete]
+Dried Clothes Stowage [Complete]
+Dried Clothes Stowage / USOS procedures [Complete]
+Preparing for replacement of ВВПхО, ВПО5, ВПО6 fans in SM with low noise units ‘ r/g 6246 [Complete]
+Installation of overlay plates on FGB interior panels (panel 304) – gathering and preliminary operations. r/g 6245 [Complete]
+Crew sets the D2Xs intervalometer [Complete]
+Cygnus Cargo Operations [Complete]
+EMU- H2O – Conductivity Test [Complete]
+Cygnus Cargo Operations [Complete]
+Preparing for replacement of DC1, MRM1, MRM2 БВН МО-2-5008 fans with low noise units / r/g 6247 [Complete]
+Dried Clothes Stowage / USOS procedures [Complete]
+Cygnus Cargo Operations Tagup [Complete]
+СОЖ Maintenance  [Complete]
+Installation of overlay plates on FGB interior panels (panel 304) – Disinfectant Treatment.  [Complete]
+WRS Water Sample Analysis [Complete]
+Cygnus Cargo Ops Conference [Complete]
+BASS Closeout Ops [Complete]
+MOTOCARD. Experiment Ops / r/g 6243 [Complete]
+IMS Delta File Prep  [Complete]
+MOTOCARD. Assistance in the Experiment / r/g 6244 [Complete]
+Installation of overlay plates on FGB interior panels (panel 304) – Repeat disinfectant treatment.  [Complete]
+ТКГ 423 (DC1) Transfers and IMS Ops / ТКГ 423 Cargo Transfers (РПР) + r/g 6203 [Complete]
+Airlock Unstow in Preparations for EVA Operations [Complete]
+MSG – Glovebox Down [Complete]
+JRNL – Journal Entry [Complete]
+TOCA Data Recording [Complete]
+COMMD – Questionnaire [Complete]
+Health Maintenance System (HMS) – Food Rations Photography [Complete]
+IVA – Exercise Clothes Survey / USOS procedures
+IVA – Everyday Clothes Survey / USOS procedures
+Daily Planning Conference (S-band) [Complete]
+IVA – Routine Clothes Survey  [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238 [Complete]
+Dried Clothes Stowage / USOS procedures
+On MCC GO Regeneration of БМП Ф2 Absorption Cartridge (termination) [Complete]
+
+Task List
+
+ARED Cylinder Evac
+Earth imagery
+WHC KTO replace
+WHC-ЕДВ-У R&R
+Roscosmos Report
+Uragan photo
+3DA1 cam ops
+ARED detent flip
+CMS skid tape audit
+CSA CP taping
+EVA A/L unstow
+J-RTN item relocate parts 1, 2
+US EVA 28 review
+SSCV5 USB card reader
+Cygnus transfer cargo ops
+56P unpack
+
+Ground
+
+Nominal commanding
+

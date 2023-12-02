@@ -1,0 +1,61 @@
+
+Microgravity Science Glovebox (MSG) reconfiguration:  FE-6 performed the teardown and removal of the Heart Cell payload from the MSG.  Heart Cells was completed and returned to the ground on SpaceX-9.  On Tuesday, the crew will install the Selectable Optical Diagnostics Instrument Experiment Diffusion Coefficient Mixture (SODI DCMix)-3 into the MSG work volume.  The Heart Cell investigation studies the human heart, specifically how heart muscle tissue contracts, grows and changes (gene expression) in microgravity and how those changes vary among subjects. Understanding how heart muscle cells, or cardiomyocytes, change in space improves efforts for studying disease, screening drugs and conducting cell replacement therapy for future space missions.  The main purpose of the SODI DCMix-3 investigation is the measurement of diffusion coefficients of selected ternary mixtures taking advantage of the reduced gravity environment available on board the ISS. 
+Japanese Experiment Module Airlock (JEMAL) Preparation: FE-5 extended the JEMAL Slide Table into the Japanese Experiment Module (JEM) volume and installed the Small Fine Arm (SFA) Attachment Mechanism (SAM) to the table.  FE-5 installed the Multi-Purpose Experiment Platform (MPEP) on the SAM.  The crew reviewed the NanoRack Cubesat Deployer (NRCSD) installation procedure ahead of tomorrow’s installation. 
+Fine Motor Skills (FMS): FE-5 and FE-6 performed their FMS sessions this morning.  Performing a series of interactive tasks on a touchscreen tablet were completed for the Fine Motor Skills investigation. This investigation is critical during long-duration space missions, particularly those skills needed to interact with technologies required in next-generation space vehicles, spacesuits, and habitats. The crewmember’s fine motor skills are also necessary for performing tasks in transit or on a planetary surface, such as information access, just-in-time training, subsystem maintenance, and medical treatment.
+Extravehicular Mobility Unit (EMU) Suit Maintenance: The crew performed maintenance tasks on EMU 3006 and EMU 3010 including an EMU swap, a loop scrub, a post-loop scrub water sample, suit and ion filter iodination and an EMU conductivity test.  
+Japanese Experiment Module (JEM) Network Storage (NeST) Mesh Replacement:  The crew removed the NeST mesh cover that covers the NeST internal fan inlet, changed out the mesh and replace the cover.  The old mesh was vacuumed and stowed.  This is nominal maintenance.
+Space Station Remote Manipulator System (SSRMS) Operations:  Today, the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered the SSRMS to a park position clear of the Japanese Experiment Module Remote Manipulator System (JEMRMS) NanoRacks CubeSat Deployer #9 (NRCSD 9) deploy operations scheduled for next week.  MSS Performance today was nominal.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Calf Volume Measurement
+Fine Motor Skills (FINEMOTR) Experiment Ops
+XF305 Camcorder Settings Adjustment
+Study of veins in lower extremities
+JEM Airlock Inner Hatch Open
+HRTCEL Glove Box Teardown
+JEM Airlock Slide Table Extension to JPM Monitor 1
+JEMAL Hardware Removal
+SAM Hardware Setup
+АСУ Receptacle and Hoses Replacement
+JEMAL Hardware Checkout
+MPEP Hardware Setup
+JEMAL Platform Installation
+Multi-Purpose Experiment Platform (MPEP) Hardware Setup
+EMU backpack replacement
+JEM Airlock Monitor Slide Table extension
+Equipment, work station setup, and Procedure Review for R&R of Replaceable Assembly Panel (ПАС) in DC1 [СOТР].
+JEM Airlock Monitor Slide Table extension
+Initiate EMU Cooling Loop Scrub Part 1
+Soyuz 731 Samsung Tablet Recharge, initiate
+Initiate EMU Cooling Loop Scrub Part 1
+СОЖ Maintenance
+CUBESAT Experiment Procedure Familiarization
+Start EMU cooling loop scrub
+RS Photo Cameras Sync Up to Station Time
+JEM Airlock Slide Table Extension to JPM Monitor 2
+EMU Conductivity Test
+JEM Airlock Inner Hatch Closure
+JEM Network Storage Mesh Cleaning
+Soyuz 731 Samsung Tablet Recharge – terminate
+Exercise Data Downlink via OCA
+EMU Cooling Loop Maintenance, Deconfiguration
+Terminate EMU METOX Regeneration
+Start EMU Metox Regeneration
+Stow Syringes used in Н2О Conductivity Test 
+
+Completed Task List Items
+
+ARED Cable Tension
+JPM1OF7 BBA/LHA R&R
+JPM1OF1 LHA R&R
+ELF tool retrieve
+STFS Flashdrive Scan
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+P4 Maximum Voltage Output Test
+MSS Mnvr clear for JEMRMS NRCSD Operation.
+ACDU-RC Slide Table Validation
+

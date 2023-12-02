@@ -1,0 +1,64 @@
+
+Integrated Resistance and Aerobic Training Study (Sprint) Ultrasound: Kelly, with Padalka assisting, configured video, Ultrasound 2 machine, and donned the calf and thigh reference guides for his Flight Day 120 Sprint Ultrasound.  Kelly then performed thigh and calf scans with guidance from the Sprint ground team.  Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume. The investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions. Upon completion of this study, investigators expect to provide an integrated resistance and aerobic exercise training protocol capable of maintaining muscle, bone and cardiovascular health while reducing total exercise time over the course of a long-duration space flight. This will provide valuable information in support of investigator’s long term goal of protecting human fitness for even longer space exploration missions.
+JEM Airlock (JEMAL) Operations: Kelly repressed and leak checked the JEMAL following the successful completion of the NanoRack Cubesat Deployer-5 (NRCSD5) operations. 
+Radiation Dosimetry Inside ISS-Neutrons (Radi-N):  Kelly retrieved the deployed eight bubble detectors for Radi-N and handed them over to Kornienko to log the data.  The objective of this investigation is to better characterize the ISS neutron environment and define the risk posed to the crewmembers’ health and provide the data necessary to develop advanced protective measures for future space flight.  For each session, 8 detectors are initialized and deployed in predetermined locations for measurements: a set of 6 spectrometric detectors and two control detectors are placed on a wall of an ISS Segment.  After 7 days the detectors are collected and read using the BUBBLE reader.
+Node 3 Carbon Dioxide Removal Assembly (CDRA) Leak Check Status: Yesterday, Kelly located a likely source of the leak in N3 CDRA during the inspection with Ultrasonic Leak Detector (ULD).  This leak was discovered following the installation of the new CDRA beds back in May of this year. Ground teams will be reviewing the data and developing a leak repair task for the crew to perform in the future. Overnight, the N3 CDRA was activated and operated nominally following the replacement of Air Selector Valve (ASV) 104, and it is actively scrubbing Carbon Dioxide (CO2).  ASV Spares Correction – Yesterday’s Daily Summary Report stated that the next CDRA ASV spare is expected to arrive on HTV-5 which is incorrect.  The next pristine spare is expected to arrive NET Orb-4.  There are two degraded spares that can be cleaned on-orbit if needed. 
+FLame Extinguishment Experiment (FLEX)-2J: Yesterday, Ground Controllers resumed operations of FLEX-2J.  After two successful runs of Test Point (TP)-1, soot was observed to be accumulating along the fiber.  Ground controllers attempted to investigate the extent of the soot deposits along the fiber to determine if the soot could be removed.  During the investigation through manual commanding, a hardware interference between the fiber arm tip and the needle occurred and resulted in a break in the fiber.  A fiber replacement activity is required prior to resumption of operations.
+Japanese Experiment Module (JEM) Return Grille Cleaning: Kelly removed return grille mesh covers and cleaned inside the return grilles of the Japanese Pressurized Module (JPM) and Japanese Experiment Logistics Module – Pressurized Section (JLP). 
+Mobile Servicing System (MSS) Operations: Last night Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) to grapple the Special Purpose Dexterous Manipulator (SPDM) using Latching End Effector B (LEE-B).  This grapple was done in Gear Box Limping (GBL) mode as part of the checkout of this feature which was designed to reduce the rigidization force required to capture a fixed grapple fixture. The SPDM was then released from the Lab Power Data Grapple Fixture (PDGF) and backed away to the grapple position.  The SPDM LEE was given a slight offset and its snares were then closed on the Lab PDGF pin and opened again. This was performed three more times and the SPDM LEE re-captured the Lab PDGF. These operations were to help characterize the enhanced Force-Moment Sensor (FMS) thermal drift filter in preparation for FMS use during H-II Transfer Vehicle 5 (HTV5) Exposed Pallet (EP) insertion operations next month. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Self-Reaction Test. Reaction Time Test (morning)
+Verification of anti-virus scan results on Auxiliary Computer System (ВКС) laptops
+JEM Mesh Cover-Return Grille Cleaning
+Locating unit 800А No.2393751401
+CARDIOVECTOR. Experiment Ops.
+СОЖ Maintenance
+JEMAL – Pressurization
+CASKAD. Manual Mixing in Bioreactor
+JEMAL – Leak Check after Pressurization
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start)
+CARDIOVECTOR. Experiment Ops.
+USND2 – activation of Ultrasound Hardware and Camcorder
+SPRINT – Hardware Setup and Configuration
+SPRINT – Experiment Assistance
+FLUID SHIFTS. СУБА Cable Installation and Connection.
+FLUID SHIFTS. Closeout Ops.
+IMS Delta File Prep
+USND2 – Hardware Deactivation and Closeout Ops
+PAO Hardware Setup
+Purging Elektron-VM Liquid Unit (БЖ) after Shutdown
+PAO crew prep
+PAO Event with A Year Long Mission crew
+ТКГ 425 (Aft) Transfers and IMS Ops
+VEG-01 – Water refills
+MATRYOSHKA-R. BUBBLE-dosimeter gathering and measurements.
+MERLIN Desiccant Kit Replace
+RADIN – Retrieval of dosimeters from deployed locations
+MATRYOSHKA-R. Receiving BUBBLE-dosimeter detectors from USOS.
+RADIN – Radiation Dosimetry Inside ISS-Neutrons Hardware Handover from the Russian Crew
+MATRYOSHKA-R. BUBBLE-dosimeter collection and measurements
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД)
+Video Footage for Nauka 2.0 TV Channel
+Physical Fitness Evaluation (on treadmill)
+RGN – Recycle Tank water drain into EDV
+Node 1 Stowage Reconfiguration [Deferred]
+CONTENT. Experiment Ops
+CASKAD. Manual Mixing in Bioreactor
+Self-Reaction Test. Reaction Time Test (evening)
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+JEM return grille cleaning support
+SPRINT Ultrasound ops
+JEMAL pressurization
+N3 MCA Full Calibration
+

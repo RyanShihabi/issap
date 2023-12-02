@@ -1,0 +1,149 @@
+
+Alpha Magnetic Spectrometer (AMS) Upgraded Tracker Thermal Pump System (UTTPS):  Today, the USOS crew transitioned the UTTPS from its launch configuration to its on-orbit configuration. To achieve this, the USOS crew transferred the UTTPS to the Japanese Experiment Module (JEM) and bungeed it to the JPM1D6 (JEM Pressurized Module Deck 6) location. Once the UTTPS was temporarily mounted to the D6 location, the crew removed the UTTPS radiator cover, released the UTTPS launch restraints, and configured the AMS Alternate Fitting (AF) for EVA operations. Once completed, the crew repositioned the UTTPS in preparation for EVA installation on the AMS. 
+CIR/ACME/s-Flames manifold bottle exchange: As a continuation of the s-Flame experiment, the crew performed a routine manifold bottle exchange.  In this activity, the crew replaced a used 30% O2/70% N2 bottle with a new one of the same composition, and replaced the used 45% CH4/55% N2 fuel bottle with a 100% H2 fuel bottle.  The purpose of s-Flame is to advance our ability to predict the structure and dynamics, including extinction and instabilities, of both soot-free and sooty flames. The results may contribute to the development of lean-burn engines for improved efficiency and reduced pollutant emissions here on Earth.  S-Flame is one of five experiments hosted by CIR/ACME which is designed to study gaseous flames.
+Fluids Integrated Rack (FIR)/Light Microscopy Module (LMM)/ACE-T5: The crew installed two bags of desiccant into the LMM to support the on-going ACE-T5 science.  The use of desiccant controls the humidity and allows the experiment to use low temperatures without the risk of condensation developing.  Colloids are small particles suspended in a liquid. They can self-assemble into higher order structures of various forms. The Advanced Colloids Experiment-Temperature-5 (ACE-T-5) investigation studies a new class of soft materials that contain two non-mixing liquids separated by a layer of colloids, called bi-continuous interfacially jammed emulsion gels, also known as Bijels. Microgravity experiments with bijels allow detailed examination of their stability and the forces at play during their processing without complications arising from gravity.
+ISS Experience: The crew set up the ISS Experience hardware, recorded an introduction, and the installation of the J-SSOD-12 satellite deployer system, which is planned to deploy its satellites tomorrow. Among other items, the crew discussed the general concept of an airlock, as well as the process for getting the J-SSOD system outside the ISS and maneuvered for deployment.  The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses. 
+Japanese Small Satellite Orbital Deployer-12 (J-SSOD – 12):  The crew performed the final two parts of the hardware installation in support of J-SSOD-12.  Ground checkout of the system indicated a cable configuration issue, which the crew found and subsequently resolved.  J-SSOD-12 is currently planned for a Wednesday deploy and will launch CubeSats AQT-D from Japan, RWASAT-1 from Rwanda, and NARSSCube-1 from Egypt. The J-SSOD provides a novel, safe, and small satellite launching capability to the ISS. The J-SSOD is a unique satellite launcher, handled by the Japanese Experiment Module Remote Manipulator System (JEMRMS), which provides containment and deployment mechanisms for several individual small satellites. Once J-SSOD, including satellite install cases with small satellites, is installed on the Multi-Purpose Experiment Platform (MPEP) by crew members, it is passed through the JEM airlock for retrieval, positioning, and deployment by the JEMRMS.
+JEM Water Recovery System (JWRS) Setup: The crew assembled the JEM WRS Water Processor and Controller.  The Demonstration JWRS will generate potable water from urine. In the past on manned spacecraft, urine and waste water were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Nanoracks (NR) Zero-G oven installation:  The crew set up the NR GoPro camera and recorded the installation of the NR Zero-G oven.  Zero-G Oven examines heat transfer properties and the process of baking food in microgravity. It uses an oven designed specifically for use aboard the space station with a top temperature of 363.3° C. On future long-duration missions, fresh-baked food could have psychological and physiological benefits for crew members.
+Rodent Research-14 (RR-14):  The crew performed a routine habitat restock and access unit cleaning in support of the ongoing RR-14 investigation.  Rodent Research–14 focuses on microgravity as a disruptor of the 12-hour circatidal clock.   The study uses mice to test the hypothesis that disruptions in a microgravity environment to the circadian rhythm sleep/wake cycle will affect the body on a cellular and key organ level. The importance of this 12-hour clock has been established as a mechanism that controls stress-responsive pathways. The unique environment of the ISS provides an ideal setting to challenge this. In short, exposing cellular systems in mice to the stress of microgravity provides an opportunity to study the response of the 12-hour body clock from cellular adaptation and its effect(s) on organismal behavior.
+Systems:
+Environmental Health System (EHS) Operations:  Today, the ISS crew performed the periodic EHS water sampling and Air Quality Monitoring (AQM) measurements.  First, the crew collected water samples from the Potable Water Dispenser (PWD) to perform a Total Organic Carbon Analyzer (TOCA) analysis that measures the amount of organic constituents in the potable water.  The crew also tested the water samples for the presence of Coliform bacteria utilizing a Coliform test bag. These two tests are used to determine if the drinking water is still safe for crew consumption. Finally, the crew used the AQM to accurately measure target compounds important to the assessment of the onboard air quality.
+Completed Task List Activities:
+
+SPACECOM 2019
+EVA-EFSF-PHOTOS
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support 
+
+Wednesday, 11/20 (GMT 324):
+Payloads:
+
+
+AMS EVA procedure review
+Actiwatch plus
+BEST
+CBEF-L
+Food Acceptability
+LSG setup
+ISS Experience
+JSSOD-12 deploy
+NutrISS
+PL NAS vent clean
+Radi-N2 retrieve
+RR-14 item gather
+Spacecraft Atmosphere Monitor GSC Collection
+Veg-04B plant check
+
+Systems:
+
+Water Recovery Management (WRM) Water Balance
+EHS Formaldehyde Monitoring Kit (FMK) Deployment
+EHS Grab Sample Container (GSC) Sampling
+
+Thursday, 11/21 (GMT 325) (½ Crew Duty Day for EVA Crew):
+Payloads:
+
+
+AMS EVA procedure review
+BFF test print
+Food Physiology
+GBF leak check
+ISS Experience
+ISS HAM pass
+NutrISS
+RR-14 crew conference
+TReK video setup
+Veg-04B plant check
+
+Systems:
+
+73P stowage operations
+Inventory Management System Conference 
+
+Friday, 11/22 (GMT 325) AMS EVA #2
+Payloads:
+
+
+ISS Experience
+NutrISS
+Veg-04B plant check
+
+Systems:
+
+AMS EVA#2
+EHS Formaldehyde Monitoring Kit (FMK) Stow
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted. 
+
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Reconnecting SM KURS-P cables from to MRM2 port Antenna Feeder to DC1 port antenna feeder, photography
+XF305 Camcorder Setup
+Small Satellite Orbital Deployer Checkout Prep
+JEM Small Satellite Orbital Deployer (SSOD) onto Multi-Purpose Experiment Platform Installation Part 2
+Discharge Makita tool batteries (4 count:  No.2, No.3, No.4, No.5). Install Makita battery No.2 to charge.
+Preventive Maintenance of FS1 Laptop (cleaning and rebooting).
+Semi-annual BRI maintenance.
+ISS Experience JEM Setup
+Rodent Research Access Unit Clean
+ISS Experience Recording Preparation
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+ISS Experience Introduction Recording
+Small Satellite Orbital Deployer Checkout Cleanup
+NutrISS – ESA Nutritional Assessment
+Testing Inter-modular connectivity  (after semi-annual BRI cleaning).
+Fluids Integrated Rack Rack Doors Open
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+JEM Small Satellite Orbital Deployer (SSOD) onto Multi-Purpose Experiment Platform Installation Part 3
+Advanced Colloids Experiment T5 Desiccant Bag Installation
+ESA Monthly Management Conference
+Gathering equipment to replace ЦВМ1 central computer.
+JEM Water Recovery System (JWRS) Cygnus Cargo Transfer
+Fluids Integrated Rack Rack Doors Close
+NanoRacks GoPro Video Recording Setup
+NanoRacks Zero-G Oven Installation
+VEG-04B Plant Check/Watering for each Plant Pillow
+Remove Makita tool battery No.2 from charge
+ISS Experience Microphone Don
+ISS Experience Microphone Doff
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Recharging Soyuz 746 IRIDIUM Phone, configuration setup  (ФГБ1ПГО_2_224_1, soft container 00044322R)  Initiate recharge
+JEM Airlock Depressurization
+NanoRacks GoPro Camera Stow
+Recharging Soyuz 746 IRIDIUM phone, battery status check
+ISS Experience Record Conclude
+Recharging Soyuz 746 IRIDIUM phone, end recharging (stow ФГБ1ПГО_2_224_1, flexible container (00044322R)
+SEPARATION. Mixing in the [СРВ-У-РС] urine circulation loop. Tagup with specialists as necessary
+ISS Experience Hardware Relocate
+XF305 Camcorder Setup
+Multi-purpose Small Payload Rack (MSPR) JEM Water Recovery System (JWRS) Setup
+Combustion Integrated Rack Manifold #2 Bottle Replacement
+Life on the Station Photo/Video
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ (flush water container)
+Combustion Integrated Rack Manifold #4 Bottle Replacement
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+CCE Preparation
+Crew Choice Event
+СОЖ Maintenance
+Progress 442 (DC1) Stowage and IMS Ops
+VELO Exercise, Day 3
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+JEM Airlock Vent
+Battery Stowage Assembly (BSA) Operation Re-initiation of Charge on Battery Charger (BC) 4
+Environmental Health System (EHS) Coliform Water Processing
+NanoRacks Zero-G Oven Status Check
+IMS Delta File Prep
+JEM Airlock Vent Confirmation
+AMS Procedure/video review [Aborted]
+AQM Deploy and Sieve Cartridge Remove and Replace
+UF-ATMOSFERA.  Hardware and electrical connections setup
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+On-board Training (OBT) EVA Robotics Onboard Trainer (ROBoT) Session
+UF-ATMOSFERA. PL activation.
+
+ 

@@ -1,0 +1,76 @@
+
+Probiotics Operations: Over the weekend, a crewmember completed the fourth and final sampling phase of the JAXA Probiotic investigation. The first half of the sampling phase was completed on GMT 343 with fecal sample collections. The second half of the sampling phase included saliva sample collections and a questionnaire, which was completed the following day. The objective of the Probiotics investigation is to study the impact of continuous consumption of probiotics on immune function and intestinal microbiota in astronauts under closed microgravity environment This investigation studies the effects of beneficial bacteria (Probiotics) to improve crew members’ intestinal microbiota as well as their immune function on long-duration space missions.
+Human Research Program (HRP) Collections – Functional Immune: Over the weekend, two 52S crewmembers and a 51S crewmember began a five day Functional Immune session by collecting salvia samples and stowing the samples in the the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). The samples collected will support the mid-mission HRP compliment for the 52S crewmembers and the return minus zero Day (R-0) compliment for the 51S crewmember. Saliva samples will be collected the first four days of this session and blood samples will be taken on the fifth day. The Functional Immune investigation analyzes blood and saliva samples to determine the changes taking place in crewmembers’ immune systems during flight. The changes in the immune system are also compared with crewmembers’ self-reported health information. Results are expected to provide new insight into the possible health risks of long-duration space travel, including future missions to Mars, asteroids, or other distant destinations.
+Lighting Effects: A 52S crewmember signed into the sleep log application and provided sleep log entries to track his daily sleep patterns and wakefulness over the weekend and today. These entries support a two week long sleep shift session that began last week.The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance.
+Earth Imagery from ISS Target Operations: This weekend the crew captured images and video footage of the Iberian Peninsula, the India-Himalayas-Tibetan Plateau, and the Sahara Desert and Nile Delta in the daytime with the RED Dragon camera. Using the NIKON camera, the crew captured images of the India-Himalayas-Tibetan Plateau and Italy at night. Today, images of the Himalaya will be taken with the RED Dragon camera. The Earth Imagery from ISS investigation creates a series of videos, showcasing Earth from space. These videos will be taken with cameras on the International Space Station in 6K hi-resolution, then integrated into videos for screensavers for public enjoyment, exploration, and engagement.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) SmoothNav: The crew setup the SPHERES work area to activate and check out the hardware and EXPRESS laptop computer (ELC) before conducting the SmoothNav experiment test run. SmoothNav develops an estimation algorithm aggregating relative state measurements between multiple, small, and potentially differently instrumented spacecraft. The algorithm obtains the most probable estimate of the relative positions and velocities between all spacecraft using all available sensor information, including past measurements. The algorithm remains portable between different satellite platforms with different onboard sensors, adaptable in the case that one or more satellites become inoperable, and tolerant to delayed measurements or measurements received at different frequencies. 
+Microgravity Science Laboratory (MSL) Calibration Cartridge Exchange: The crew removed the used MSL Solidification Quenching Furnace (SQF) sample cartridge and installed the MSL Furnace Calibration cartridge to prepare the facility for a calibration run. The Materials Science Research Rack (MSRR) is used for basic materials research in the microgravity environment of the ISS. MSRR-1 can accommodate and support diverse Experiment Modules. In this way many material types, such as metals, alloys, polymers, semiconductors, ceramics, crystals, and glasses, can be studied to discover new applications for existing materials and new or improved materials. 
+Microgravity Science Glovebox (MSG) Laptop Computer (MLC) Upgrade: The crew installed, re-cabled, and configured the Zbook for the MSG, and verified that the new software had been loaded. The MSG is one of the major dedicated science facilities on the ISS. It has a large front window and built-in gloves to provide a sealed environment for conducting science and technology experiments. The Glovebox is particularly suited for handling hazardous materials when the crew is present. 
+Lighting Maintenance:  The crew attempted to regain functionality of the LAB Master Lighting Switch (MLS) by disconnecting the data connector (J2) from multiple Lights in the LAB. Now that the data connector has been disconnected, these Lights have to be operated individually via the controls on the faceplate.  They also removde and replaced several lights in Node 2. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+HRF Generic Saliva Collection 10 Minutes – Subject
+HRF Generic Sample MELFI Retrieval Insertion Operations
+Lighting Effects Sleep Log Entry – Subject
+In Flight Maintenance Lab Master Lighting Switch Troubleshooting
+Multi Omics FOS Stow
+Multi Omics FOS Preparation
+Collecting SM and FGB Air Samples Using АК-1М Sampler
+Health Maintenance System (HMS) items stow
+СОЖ Maintenance
+In-Flight Maintenance (IFM) Node 2 Light Installation
+Material Science Laboratory Calibration Cartridge Insert
+SM air sampling for CO using ИПД samplers
+CALCIUM. Bioekololgiya Cases: Photography, Processing, and Photo Downlink, Pre-pack for Return
+Change of load mode of CDR seat Kazbek-UM in Soyuz 736. Adjusting to semi-heavy
+ISS Crew departure preparation
+LBNP training session (FINAL).
+EIISS Crew Preference RED Camera Target Operations
+ISS HAM Service Module Pass
+Handover Procedure Review
+MSG MLC Upgrade
+Soyuz 736 Stowage Ops for Return
+In Flight Maintenance (IFM) Fluids Integrated Rack (FIR) ARIS Snubber Pin Secure
+Health Maintenance System (HMS) Personal Medication Stow
+SPHERES Payload OBT
+Auxiliary Laptop Computer System Virus Definition File Update
+CONSTANTA-2. Constanata kit transfer to Soyuz 736
+SPHERES Crew Conference
+Data Prep for Return
+MATRYOSHKA-R. Deinstall Detectors from Fantom
+SPHERES Test Session Setup
+ESA Public Affairs Office (PAO) Event in High Definition (HD) – Columbus
+SPHERES VERTIGO Test Session Run
+Crew Departure Preparations for Return to Earth
+MATRYOSHKA-R. Removal of Passive Detector Assemblies for return on Soyuz 736.
+In Flight Maintenance PMA-1 Intermodule Ventilation (IMV) Screen Cleaning and Duct Capping
+Clean FGB ЦВ1 Fan Guard Screen
+CONTENT. Experiment Ops
+SPHERES USB Download
+Close SM window covers № 6,8,9,12,13,14
+Increment 52 Plaque Hanging
+iPad Air 2 Charge
+USOS Window Shutter Close
+Preparation for Antivirus Scanning on [ВКС] Laptops 
+
+Completed Task List Activities
+
+AstroPi PR Photo Shooting
+Consolidation of Cargo Configuration in Columbus
+AC Dry Vacuum Debris Bag Return
+ESA PAO Message Expedition 52-53 Documentary
+ESA PAO Message – Il Messaggero
+MARES SCSI Drive preparation
+OA-8 CD Transfer
+Payload MSG Drawer Cleanup
+Recorded Greeting Request 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+N3 CDRA Activation for SPHERES
+Standard Commanding
+

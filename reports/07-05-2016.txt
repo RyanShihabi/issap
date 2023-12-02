@@ -1,0 +1,65 @@
+
+62 Progress (62P) Undock: 62P undocked successfully from the Docking Compartment (DC) 1 nadir port Saturday night at 10:48PM CDT. Deorbit burn was at 2:03AM CDT on Sunday followed by atmospheric entry and destruction.
+3D Printing in Zero-G Experiment Operations: Following last week’s activities to print the calibration and compression coupons in the Microgravity Science Glovebox (MSG), today the ground team continued remotely operating the 3D printer to produce two more 3D printed test coupons, after which the crew removed and stowed both of them. The 3D Printing In Zero-G experiment demonstrates that a 3D printer works normally in space. A 3D printer extrudes streams of heated plastic, metal or other material, building layer on top of layer to create 3 dimensional objects. Testing a 3D printer using relatively low-temperature plastic feedstock on the ISS is the first step toward establishing an on-demand machine shop in space, a critical enabling component for deep-space crewed missions and in-space manufacturing. 
+Mouse Epigenetics Setup Operations: In advance of the delivery of JAXA’s Mouse Epigenetics experiment on SpaceX (SpX) 9, the crew configured the Multi-Purpose Small Payload Rack (MSPR) Laptop and cleaned inside the Cell Biology Experiment Facility (CBEF) micro-gravity and 1G Incubator Units (IUs).  He then installed the Mouse Habitat Unit (MHU) Interface Units into the CBEF.  The goal of Mouse Epigenetics is to aid scientists to better understand the impacts and effects of the spaceflight environment’s long-term effects on genetic activity, from changes in gene expression in individual organs to changes in DNA that can be inherited and expressed in future generations.
+Water Processing Assembly (WPA): On Sunday, the WPA shut down during reprocessing due to an Independent Shutdown Monitor (ISM) fault. Subsequent re-attempts to get the WPA’s conductivity to drop resulted in ISM faults. This has happened twice in the last 6 weeks and all were caused by increased delta pressure (dP) across the Microbial Check Valve (MCV).  A Flight Investigation Team (FIT) met today to discuss a workaround for flowing through the MCV as well as other troubleshooting options.
+Node 2 (N2) Common Cabin Air Assembly (CCAA) Inlet Fan: The N2 CCAA inlet fan current was showing an increase prior to the weekend with the expectation of imminent failure within 4-6 days. During the weekend, the current dropped to near nominal operating current so today’s plan to replace the CCAA Fan with an on-orbit spare was deferred. The data is indicative of increased resistance on the fan’s rotating components such as a degraded bearing or Viton Pad within the fan assembly. The drop in current indicates that the fan has overcome whatever mechanical interference that caused the initial increase.  Procedures are available to replace the fan if needed.
+Extravehicular Activity (EVA) Battery Maintenance: The crew began recharging Rechargeable EVA Battery Assembly (REBA), and Pistol Grip Tool (PGT) batteries in the Battery Stowage Assembly (BSA) via the Battery Charger Assembly (BCA). Charging will terminate on Friday.
+Systems Operations Data File (SODF) Updates: The crew deployed revisions to emergency books, replaced the cue card with printed procedure and stowed discarded books and cue card. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+XF305 Camcorder Setup
+MSPR LAPTOP-AMT-Activation
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software
+VIBROLAB. Hardware Activation Monitoring / r/g 2703
+Air Samples Collection using [AК-1М] Sampler in the SM and FGB r/g 2704
+RELAKSATSIYA. Hardware Setup r/g 2707
+Air Samples Collection using [AК-1М] Sampler in the SM for Freon Concentration r/g 2704
+DOSETRK Questionnaire
+Air Samples Collection using ИПД Sampler in the SM for Ammonia Concentration r/g 2704
+MRLN3/MELF3. Transfer of Samples from MERLIN to MELFI-3
+Operatins with the Degassing Assembly (УС) r/g 2673
+WRS. Water Samples Analysis
+BSA Battery Charge (start)
+RELAKSATSIYA. Parameters Setting r/g 2707
+GLACIER. Consumables Replacement
+CBEF. Incubator Unit (IU) Cleaning
+RELAKSATSIYA. Observation r/g 2707
+RELAKSATSIYA. Closeout Operations and Hardware Teardown r/g 2707
+MHU. Rodents Habitat Interface Unit Installation
+Sensors Installation Monitoring / Pressure Control and Atmosphere Monitoring System (CКДС)
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software
+Synchronization of RS Cameras with ISS Time / r/g 1594
+MELF3. Icebrick Installation
+TOCA. Data Recording
+TOCA. WWB Changeout
+3DP. Printer Teardown and Stow
+WRM. Water Balance. Placeholder
+NAPOR-miniРСА. [ТВМ-1Н] Software Installation r/g 2705
+СОЖ Maintenance
+Soyuz 720 Samsung Tablet Charging (start)
+WRM. Water Balance. Placeholder
+Unloading Progress 432 (SM Aft) r/g 1812, 1832
+Dust Filters R&R and [B1] and [B2] Fans Screens Cleaning in DC1
+Systems Operations Data File (SODF) Deploy
+NOD2 Clearout in Preparatioan for Dragon 9 Arrival
+Transfer of SAMS F05 Sensor from the Stow Location to JEM
+Hardware Setup for the PAO Event in the LAB
+Crew Prep for the PAO Event / r/g 2710
+Video Greetings of the RAS Instutite of Chemical Physics in relation to its 60th anniversary / r/g 2710
+Soyuz 720 Samsung Tablet Charging (end)
+VIBROLAB. Data Transfer and Downlink / r/g 2703
+IMS Delta File Prep
+3DP. Printer Teardown and Stow
+Countermeasures System (CMS) Sprint Exercise Optional 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Nominal ground commanding
+

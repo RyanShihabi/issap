@@ -1,0 +1,79 @@
+
+NanoRack Cubesat Deployer (NRCSD) #13: Installation: This morning, the JEM A/L inner hatch was opened and the slide table was extended to the JPM side. The crew then installed the NRCSD #13 deployer onto the Multipurpose Experiment Platform (MPEP). The slide table was retracted from the JPM side and the inner hatch was closed.  The Airlock was then depressurized in preparation for the planned deployment of the CubeSats next week. 
+Sarcolab-3:  Today the crew set up and configured the Muscle Atrophy Research & Exercise System (MARES) facility in the Columbus module for Sarcolab-3 operations next week.  They installed the Ankle configuration and Electromyograph and Percutaneous Electrical Stimulation (PEMS) devices on MARES.  The data collected for Sarcolab-3 will be compared to pre and post flight measurements to assess the impact of hypothesized microgravity induced muscle loss.  Myotendinous and Neuromuscular Adaptation to Long-term Spaceflight (Sarcolab) investigates the adaptation and deterioration of the soleus, or calf muscle, where it joins the Achilles tendon, which links it to the heel and carries loads from the entire body. Muscle fiber samples are taken from crewmembers before and after flight, and analyzed for changes in structural and chemical properties. MRI and ultrasound tests and electrode stimulation are conducted to help assess muscle and tendon changes caused by microgravity exposure. 
+Human Research Program (HRP) Collections (Biochemical Profile, Marrow, and Repository): A 51S crewmember completed Flight Day (FD) 60 blood sample collections to support the Biochemical Profile and Repository experiments. The samples were placed in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).
+
+The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+Marrow looks at the effect of microgravity on bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the bone marrow.
+
+Earth Imagery from ISS Target Operations: The crew captured video footage of the Indian-Himalayas-Tibetan Plateau, Seattle, and the Northwest Pacific. The Earth Imagery from ISS investigation creates a series of videos, showcasing Earth from space. These videos will be taken with cameras on the International Space Station in 6K hi-resolution, then integrated into videos for screensavers for public enjoyment, exploration, and engagement.
+Story Time from Space: A crewmember participated in the Story Time from Space project by reading “Notable Notebooks Scientists and Their Writing” today while being videotaped.  The recording will be downlinked and used for educational purposes. Story Time rom Space combines science literacy outreach with simple demonstrations recorded aboard the ISS. Crewmembers read science, technology, engineering and mathematics-related children’s books on orbit, and complete simple science concept experiments. Video and data collected during the demonstrations are downlinked to the ground and posted in a video library with accompanying educational materials.
+Space Headaches:  The crew completed the weekly questionnaire for the ESA Space Headaches investigation. The Space Headaches investigation collects information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission. 
+Spare Latching End Effector (LEE)/Utility Transfer Assembly (UTA) Flight Releasable Attachment Mechanism (FRAM) Swap:  Overnight, the MT translated back to WS-7 from WS-4 and the spare LEE was installed on ESP-2. These activities are in preparation for EVAs planned next January, and have positioned the spare LEE in a more EVA-accessible location for the LEE R&R. 
+Pressure Probe Troubleshooting:  Today, the crew performed troubleshooting on the Internal Sampling Adapter Scopemeter Pressure Probe and multimeter.  This hardware exhibited issues earlier this week while performing JEM ITCS maintenance.
+ISS Server1 Rebuild:  Thursday evening during crew sleep, ground controllers deployed a new build of the ISS Server1 Virtual Machine (VM).  In recent weeks, ISS Server1 has experienced numerous spontaneous lockups, causing disruptions to operations onboard.  The new build of Server1 has some modifications to it which are hoped to resolve the lockup issue.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Marrow Breath And Ambient Air Sample Collection – Subject
+HRF Generic Frozen Blood Collection Double Spin Collection
+HRF Generic Refrigerated Centrifuge Double Spin
+HRF Generic Sample MELFI Insertion
+Inventory Management System (IMS) conference
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Stowage gather and COL cabin cleanup before MARES deployment.
+JEM Active Mechanism Tether Loop Installation
+MARES deployment
+NanoRacks CubeSat Deployer Installation on the MPEP
+PILOT-T. Experiment Ops. Tagup with specialists if required
+Internal Sampling Adapter (ISA) Scopemeter Pressure Probe and Multimeter Troubleshooting
+Columbus Video Camera Assembly 2 Adjustment
+Story Time Book Notable Notebooks Scientists and Their Writings Read
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+JEM Airlock Depressurization
+ITCS Maintenance Canister Installation in JEM
+MARES Power On and Battery Charge
+Vacuum Cleaning of the Ventilation Screens on FGB Interior Panels (panels 201, 301, 401)
+Transfer Cygnus Cargo Operations
+Multi-purpose Small Payload Rack (MSPR) Two-Phase Flow Experiment Equipment Deactivation
+Vacuum Cleaning of the FGB Pressurized Adapter (ГА)
+Review Big Picture Words for operations to configure BEAM for stowage.
+HRF Generic Urine Collection Setup
+Search and Take Photographs of the Connectors behind Panel 202 in MRM2 for Future Payloads
+СОЖ Maintenance
+Inlet ORU Flight Support Equipment (FSE) Swap
+Temporary Activation of the Emergency Valves of Vozdukh Atmospheric Purification System
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+IMS Delta File Prep
+NanoRacks Microbial Growth Experiment Imagery
+MARES Ankle configuration fit check
+JEM Airlock Vent
+MARES Battery Charge control
+EMG and PEMS installation with PEMS Self test
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Space Headaches – Weekly Questionnaire
+VIZIR. Experiment Ops.
+Crew Medical Officer (CMO) Proficiency Training
+Cleaning of the Ventilation Screen of the LIV experimental video complex
+IDENTIFIKATSIYA. Copying ИМУ-Ц Measurements to the Laptop
+SREDA-ISS. Prep Operations and Start of Observations. Tagup with specialists
+Cygnus Cargo Operations Conference
+Health Maintenance System (HMS) ISS Medical Accessories Kit (IMAK) Unpack from OA-8
+VEG-03 Plant Photo
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Cold Stowage Double Coldbag Icebrick Stow
+JEM Freezer-Refrigerator Of STirling cycle 2 (FROST2) Temperature check 
+
+Completed Task List Activities
+
+VEG-03 Plant Pillow Water
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+JEM A/L depressurization
+Standard commanding
+

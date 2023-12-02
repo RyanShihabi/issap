@@ -1,0 +1,89 @@
+
+Circadian Rhythms: Flight Engineer (FE)-6 Gerst removed the Circadian Rhythms hardware to end a 36 hour data take and downloaded the data to the ground for analysis. The main objective of the experiment is to get a better basic understanding of alterations in circadian rhythms in humans during long-term space flights. This data will provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions. 
+Burning and Suppression of Solids (BASS)-II (BASS) Stow/Capillary Channel Flow (CCF) Installation: Gerst removed BASS-II from the Microgravity Science Glovebox (MSG) and stowed it, then FE-5 Wiseman installed the CCF hardware into the MSG, connected cables, and configured the MSG video system. Ground teams will now be able to run the investigation from the ground without crew involvement. Capillary flow is the natural wicking of fluid between narrow channels in the opposite direction of gravity. Tree roots are one example of a capillary system, drawing water up from the soil. By increasing understanding of capillary flow in the absence of gravity, the CCF experiment helps scientists find new ways to move liquids in space. Capillary systems do not require pumps or moving parts, which reduces their cost, weight, and complexity.
+US Extravehicular Activity (EVA) Delay: Swanson and Wiseman completed Simplified Aid for EVA Rescue (SAFER) On-Board Training (OBT), EVA procedures review and follow up conference with ground teams. Later in the day, due to an issue discovered on the ground with Extravehicular Mobility Unit (EMU) Long Life Batteries (LLBs), teams were directed to stand down on preparation for US EVAs 27 and 28 scheduled this month.  The EVAs will be delayed until after new LLBs are flown, currently scheduled for SpX-4.
+Automated Transfer Vehicle (ATV) Rendezvous and Docking Simulator Proficiency 1: Gerst and FE-1 Skvortsov completed this training in preparation for ATV-5 docking planned for August 12. Following the activity, they discussed results in a conference with ground teams. 
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+Biochemical Urine Test [Complete]
+URISYS Hardware Stow [Complete]
+WRS – Recycle Tank Fill from EDV [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238 [Complete]
+CRHYT – Deinstrumentation and Cleaning Sensors [Complete]
+WRS – Recycle Tank Fill from EDV [Complete]
+24-hour ECG (termination) / r/g 6269 [Complete]
+Locating equipment and tools for EVA 39.  r/g 6266 [Complete]
+ИК0501Gas Analyzer О2 readings adjustments. [Complete]
+Camcorder setup to capture T2 exercise [Complete]
+CIR – Hardware Setup [Complete]
+MSG – Visual inspection and activation [Complete]
+SAFER – OBT using VRT [Complete]
+HMS Defibrillator Inspection [Complete]
+Hardware and tool search for EVA-25. r/g 6266 [Complete]
+Replacement of Wring Collector Hoses [СОТ] in АСУ / r/g 6297  [Complete]
+Remove and Replace (R&R) the Waste & Hygiene Compartment’s (WHC) ЕДВ-У  [Complete]
+WRS Water Sample Analysis [Complete]
+BASS – Removal and Stowage [Complete]
+RGN REC-TNK – Remove depress hose for nominal operations [Complete]
+EVA Procedure Review [Complete]
+Private Medical Conference with Physical Exercise Specialists (S-band) [Complete] 
+CRHYT – Deinstrumentation and Cleaning Sensors  [Complete]
+24-hour ECG (start) / r/g 6269  [Complete]
+EVA2 Procedure Review [Complete]
+Photo/TV Camcorder Setup Verification  [Complete]
+EXPOSE-R Hardware Connection to БСПН. r/g 6293  [Complete]
+EVA Procedure Conference [Complete]
+TOCA Data Recording  [Complete]
+Recording of Video Greetings / r/g 6296  [Complete]
+RGN – Initiate drain into EDV [Complete]
+SAFER – OBT using VRT (CDR, FE-5) [Complete]
+ATV Rendezvous and Docking Simulator Proficiency No.1. r/g 6257, 6253 [Complete]
+ИП-1 Flow Sensor Position Check [Complete]
+СКПФ1, СКПФ2 Dust Filter Replacement and MRM1 Gas-Liquid Heat Exchanger  [Complete]
+JRNL – Journal Entry [Complete]
+Russian PAO event [Complete]
+Preparation for S/W Upgrade. r/g 6291 [Complete]
+RGN – Terminate drain into EDV [Complete]
+CCF – Install Without Optical Diagnostic Unit [Complete]
+SAFER – OBT using VRT (FE-6) [Not scheduled]
+Cygnus cargo ops [Complete]
+ASEPTIC. Samples photo after incubation. r/g 6292 [Complete]
+ПФ1-4 Dust Filter Cartridge Replacement in SM (ФГБ1ПГО_4_419_1, Zone 28Б enclosure.  [Complete]
+EHS – CSA -Calibration  [Deferred]
+ASEPTIC Photo Edit and Downlink / r/g 6292 [Complete]
+СОЖ Maintenance [Complete]
+Photo/TV Camcorder Setup Verification
+IMS Delta File Prep  [Complete]
+Stow T2 Exercise Video Equipment
+ATV Rendezvous and Docking OBT Conference.  [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 6238  [Complete]
+ASEPTIC. Cryogem-03 Removal / r/g 6295 [Complete]
+CCF – Historical Documentation Photography  [Complete]
+Stow ARED Video Equipment  [Complete] 
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO replace
+WHC-ЕДВ-У R&R
+Roscosmos Report
+COMMD Task Questions CDR, FE-5
+EVA Procedure Review
+3DA1 cam ops
+ARED detent flip
+Data prep return CDR, FE-1, FE-2
+EHS IV TEPC T/S
+IWIS RSU check
+SSCV5 USB card reader
+ST Time read
+Cygnus transfer cargo ops
+56P unpack [In Work]
+
+Ground
+
+Nominal commanding
+

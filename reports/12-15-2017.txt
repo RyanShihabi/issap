@@ -1,0 +1,75 @@
+
+51 Soyuz (51S) Undock and Landing:  The 51S crew Randolph Bresnik, Sergey Ryazanskiy and Paolo Nespoli undocked from the ISS at 11:13 pm CST on Wednesday evening and landed at 2:37am CST on Thursday.  Ryazanskiy has arrived back in Moscow and Bresnik and Nespoli have arrived back in Houston.  The ISS will be in 3-crew operations until the arrival of 53S on December 19.
+SpaceX (SpX)-13 Launch: SpX-13 launched today from Kennedy Space Center at 9:36 am CST. In addition to supplies and equipment for crewmembers, the vehicle will deliver investigations and instruments for several science experiments that will be conducted on ISS.  Dragon capture is scheduled for December 17th at 5:00 am CST. 
+Multi-Omics Sample Collections: Upon wakeup a 52S crewmember collected a saliva sample and place it into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) before completing a questionnaire. The Multi-omics analysis of human microbial-metabolic cross-talk in the space ecosystem (Multi-Omics) investigation evaluates the impacts of space environment and prebiotics on astronauts’ immune function, by combining the data obtained from the measurements of changes in the gut microbiological composition, metabolites profiles, and the immune system.
+Lighting Effects: A 52S subject provided a sleep log entry before conducting a series of three Cognition tests and four urine sample collections throughout the day. The samples were stowed in the MELFI for freezing until their return and analysis. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have major implications for people on Earth who use electric lights.
+Space Headaches: A crewmember completed a weekly questionnaire for the Space Headaches investigation.  This experiment collects information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission.
+Earth Imagery from ISS Target Operations: Using the RED camera, the crew captured daytime images and video footage from Ireland to Moscow. This investigation creates a series of videos, showcasing Earth from space. These videos will be taken with cameras on the ISS in 6K hi-resolution, then integrated into videos for screensavers for public enjoyment, exploration, and engagement.
+Inspection and High Efficiency Particulate Air (HEPA) Filter Installation:  The crew performed an inspection of Lab and Node 1 looking for sources of elevated fungal levels.  No obvious sources were identified.  They installed 6 new HEPA filters in the Lab and installed 4 of the filters removed from the Lab in Node 1, replacing the previously installed charcoal filters. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Sleep Log Entry – Subject
+IMS Update
+Life On The Station Photo and Video
+Preventive Maintenance of SM Ventilation Subsystem. Group А
+Preparation of Reports for Roscosmos Web Site and Social Media
+URAGAN. Observation and photography
+Vacuum cleaning of ВТ7 screens on ГЖТ4 behind FGB panel 108
+ECON-M. Observation and photography
+Multi Omics Saliva Operations
+Multi Omics Saliva sample MELFI Insertion
+Multi Omics Saliva Stow
+Multi Omics Question
+HRF Generic Urine Collection Lighting Effects Male – Subject
+HRF Generic Sample MELFI Insertion Operations
+Polar Desiccant Swap
+ISS HAM Radio Power Up
+Inventory Management System (IMS) conference
+In Flight Maintenance – LAB IMV Bypass Duct Installation
+Lighting Effects Cognition Test 1 – Subject
+HRF Generic Urine Collection Male – Subject
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+MSPR Laptop Battery Changeout
+MSPR ELT Battery Changeout
+CONTROL. Switching Indicator-ISS P/L measuring modes
+Node 1 Microbial Growth Inspection
+CALCIUM. Experiment Session 9
+СОЖ maintenance
+Prep for Central Post Computer 2 (КЦП2) Test (r/g review, equipment gathering).
+VEGGIE1 Facility Sanitization
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Central Post Computer 2 (КЦП2) testing with MSG cartriges swapping.
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+53S Crew Arrival Prep
+Lighting Effects Cognition Test 2 – Subject
+T61p LS1 Teardown
+Cleaning Nikon D5 #2 Image Sensor
+Station Support Computer (SSC) Hypervisor (HV) 3 Virtualization Enable
+Tools and materials gathered for Lab and Node 1 Bacteria Filter R&Rs.
+ARED S/W Conference
+Inventory Audit of card readers SM-FOTO-D3-U14, SM-FOTO-D3X-U14
+Metal Oxide (METOX) Regeneration Initiation
+53S SSC21 Reload Prep
+In Flight Maintenance (IFM) Lab Bacteria Filter Remove and Replace
+Dust collectors ПC1, ПС2 filter cleaning by vacuum cleaner in FGB
+ПФ1, ПФ2 Dust Filter Replacement and В1, В2 Fan Grille Cleaning in DC1 (ФГБ1ПГО_2_224_1 bag 436-26 (00071452R). Reflect changes in IMS)
+In Flight Maintenance (IFM) Lab Bacteria Filter Remove and Replace
+In Flight Maintenance (IFM) Node 1 Bacteria Filter R&R.
+Lighting Effects Cognition Test 3 – Subject
+Space Headaches – Weekly Questionnaire
+BIOPLENKA. Deactivation of ТБУ-В No.05 Thermostat
+
+Completed Task List Activities
+
+None 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+SSC21 Reload
+CRDA Swap
+WSGT Matrix Switch Maintenance
+

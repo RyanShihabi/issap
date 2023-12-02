@@ -1,0 +1,140 @@
+
+Northrop Grumman 11 (NG-11) Launch/Berth:  NG-11 launched successfully today at 3:46 PM CT from NASA’s Wallops Flight Facility in Virginia.  Over the next two days, S.S. Rodger Chaffee will perform a series of phasing burns to rendezvous with ISS. Vehicle capture is planned for Friday, April 19, at 4:30 AM CT. 
+JEMAL (JEM Airlock) Configuration: The crew removed the Airlock Adapter Plate (JCAP) and RRM3 interface plate (STRIP) from the JEMAL slide table and installed it on the JEM Orbital Replacement Unit (ORU) Transfer Interface (JOTI) in preparation for Materials International Space Station Experiment (MISSE) Transfer Tray (MTT) activities. The MISSE-11 rotation cycle was launched on NG-11. A total of 349 samples/devices will be hosted on the MISSE facility during the MISSE-11 mission.  The samples consist of radiation protection, radiation detection, laminates, coatings, polymetric, high-efficiency low-mass solar cell systems, composites, and additively-manufactured materials, all exposed to the low-Earth orbit space environment.
+JAXA Mouse Mission:  Mouse Habitat unit preparation and item gather activities were performed in preparation for the upcoming JAXA Mouse Mission.  The purpose of this mouse mission is to analyze alterations of the gene expression patterns in several organs, and the effects on the germ-cell development of mice exposed to a long-term (e.g. more than 30 days) space environment. Data collected could suggest not only experimental information about mice in the space environment, but also fundamental information about humans exposed to a prolonged space environment.
+Time Perception: Using a head-mounted Oculus Rift display, headphones, finger trackball, and laptop computer, the crew performed the Time Perception science sessions.  A program on the laptop induces visual and audio stimuli to measure a subject’s response to spatial and time perception in a microgravity environment. The accurate perception of objects in the environment is a prerequisite for spatial orientation and reliable performance of motor tasks. Time is fundamental to motion perception, sound localization, speech, and fine motor coordination.
+Extravehicular Mobility Unit (EMU) Loop Scrub and Dump and Fill: As part of the deconfiguration from recent EVAs, the crew emptied and refilled EMU 3004’s water supply. Once complete, they performed a water loop scrub before acquiring and testing water samples for conductivity. These activities are required for long term health monitoring and maintenance of the EMUs.
+NG-11 Arrival Preparations: In preparation for NG-11 arrival this Friday, today the crew completed the following activities:
+
+Equipment gathering of the Centerline Berthing Camera System (CBCS) and equipment needed to outfit the Node 1 Nadir vestibule for NG-11 berthing.
+The second NG-11 robotics training session utilizing the Robotics Onboard Trainer (ROBoT), an on-orbit version of the ground-based Dynamics Skills Trainer (DST) that simulates robotics operations with graphical feedback.
+A conference with ground teams to discuss NG-11 cargo transfer details.
+
+Public Affairs Office (PAO) Live Event: Today Saint-Jacques participated in a live PAO event with students from the École Champs Vallée School in Alberta, Canada. Participants in CSA’s Living Space Project, the students asked questions about how work in space can improve environmental conditions and health and well being on Earth. 
+Completed Task List Activities:
+
+EVA tool stow [GMT 106]
+CSA Pics in Space
+CSA Wayfinding Video
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Cygnus RoBOT OBT
+Cygnus cargo ops overview
+
+Thursday, 4/18:
+Payloads:
+
+
+GLACIER/POLAR desiccant swaps
+LSG
+Mass Measurement Device setup
+Repository
+MISSE procedure review
+Rodent Research-12 hab install
+Standard Measures
+
+Systems:
+
+EVA Airlock restow
+N1 CBCS installation/checkout
+JEM blue stowage rack stowage audit
+
+Friday, 4/19:
+Payloads:
+
+
+ISS Experience
+Repository
+RR Hab install
+Standard Measures
+SUBSA sample exchange
+Two-phase flow 2
+Myotones
+
+Systems:
+
+NG-11 berth/ingress/cargo transfer
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Reminder 1F HRF Generic Frozen Blood Collection
+HRF Generic Saliva Collection 10 Minutes
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Insertion Operations
+Atmosphere Purification Unit (БОА) R&R in Vozdukh Atmosphere Revitalization Subsystem [СОА]. Disconnecting БКС cables
+JAXA Mouse Mission Item Gathering
+The EML Experiment. High Speed Camera Lens Switch
+ISS Experience Audio Record Reconnect
+XF305 Camcorder Setup
+On MCC GO Atmosphere Purification Unit (БОА) R&R in Vozdukh Atmosphere Revitalization Subsystem [СОА]. Disconnecting БКС telemetry cables Х11, Х12. Tagup with specialists.
+JEM Airlock Leak Check
+Atmosphere Purification Unit (БОА) R&R in Vozdukh Atmosphere Revitalization Subsystem [СОА]. Plug-In Assemblies and Units Removal
+Water Recovery System (WRS) Waste Tank Sample
+Mouse Habitat Unit Washer Fluid Filling for 1G
+Cygnus Capture Review
+Centerline Berthing Camera System (CBCS) and Vestibule Outfitting Equipment Gather
+Mouse Habitat Unit Watering Function Checkout 3 Preparation
+Mouse Habitat Unit Cage Exchange for M5
+Mouse Habitat Unit Watering Function Checkout 3
+Mouse Habitat Unit Water Refill 1
+ISS Experience Hardware Stow
+Mouse Habitat Unit Washer Fluid Filling for Micro-G
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Cygnus Cargo Operations Review
+AL Adapter Plate (JCAP) and RRM3 I/F Plate (STRIP) Removal from Slide Table
+TIME experiment combined session (Setup + Science)
+Extravehicular Mobility Unit (EMU) Water (H2O) Dump and Fill
+Structures and Mechanisms JEM ORU Xfer I/F JEM Active Mechanism Tether Loop Removal
+Structures and Mechanisms (S&M) JEM ORU Transfer Interface (JOTI) Installation for MISSE Transfer Tray (MTT) Transfer
+LAB1O1 Rack Cleanup
+Cygnus Capture Review
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Time experiment science only
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+HRF Generic Urine Collection Male
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+TIME experiment combined session (Science + Stowage)
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Iodination
+Private Medical Conference (PMC)
+Atmosphere Purification Unit (БОА) R&R in Vozdukh Atmosphere Revitalization Subsystem [СОА]. Disconnecting Lines
+AL Adapter Plate (JCAP) / RRM3 I/F Plate (STRIP) Stow
+FPGA Board Exchange for teh Video Management Unit MkII (VMU2)
+Rodent Research Gather
+Lighting Effects Light Meter Setup First Time
+Atmosphere Purification Unit (БОА) R&R in Vozdukh Atmosphere Revitalization Subsystem [СОА]. Removal of БОА
+Lighting Effects Light Meter Readings
+PAO Preparation
+HRF Generic Urine Collection Male
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+24-hour ECG Recording (termination)
+СОЖ Maintenance
+Battery Stowage Assembly (BSA) Operation Termination
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Lighting Effects Light Meter Stow
+ISS CREW/CSA CONFERENCE
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+24-hour BP recording (terminate)
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Session 2
+MOTOCARD. Experiment Session
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+MOTOCARD. Operator Assistance with the Experiment
+MOTOCARD. Experiment Ops in lieu of Exercise. Tagup with specialists
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Cygnus Cargo Operations Conference
+CONTENT. Experiment Ops
+HRF Generic Frozen Blood Collection Setup
+ISS HAM Service Module Pass [Aborted] 
+Overlay Camera Calibration
+
+ 

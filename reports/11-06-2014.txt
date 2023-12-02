@@ -1,0 +1,67 @@
+
+Muscle Atrophy Resistive Exercise System (MARES) Battery Removal and Replacement (R&R): Wilmore R&Rd the failed MARES battery followed by a battery status check using the A31p Laptop and battery monitoring Crew Guided Procedure.  MARES is an ESA physiological research facility that is designed to carry out research on musculoskeletal, biomechanical, and neuromuscular human physiology. The results of this research will provide a better understanding of the effects of microgravity on the muscular system and an evaluation of the countermeasures designed to mitigate muscle atrophy. Research performed utilizing the MARES facility is important for long-duration space exploration, as well as for better understanding muscle disorders and rehabilitation methods used on Earth.
+Body Measures Equipment Gather: Gerst gathered the hardware required to execute his final session of Body Measures on Friday.  This experiment increases the quantity of in-flight anthropometric data (body measurements) gathered to assess the impact of physical body shape and size changes on suit sizing. This study will involve collecting anthropometric data using digital still and video imagery and a tape measure to measure segmental length, height, depth, and circumference data for all body segments from astronauts for pre-, post-, and in-flight conditions.
+Integrated Resistance and Aerobic Training Study (Sprint):  Wiseman completed his final SPRINT session.  This experiment will start again in Increment 43. Today’s session utilized the Portable Pulmonary Function System (PPFS) to monitory the Volume of Oxygen (VO2) during Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS) exercise.  Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions. Tomorrow, Wiseman will be performing his final Sprint ultrasound session prior to his return on November 9.
+Ocular Health: Wilmore, with assistance from Gerst, performed his first eye ultrasound session (Launch+30 day) in support of Ocular Health.  Ocular Health protocols call for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+39S Nominal Departure Drill #2:  In preparation for 39S undock scheduled for Sunday, November 9th CST, Suraev, Gerst, and Wiseman performed On Board Training (OBT) Soyuz Drill #2.  As part of this training, they reviewed preliminary undocking and descent data, worked through the descent timeline (from Soyuz activation through post-landing activities) using the Neptune-ME control panel.
+39S Crew Departure Preparations:  Wiseman and Gerst continued to pack their personal items in preparation for their return to earth.  The packed items will be returned via Soyuz 39, SpaceX-4, and SpaceX-5.
+Remote Power Controller (RPC) Trip:  Today, the RPC which provides power to the Lab Carbon Dioxide Removal Assembly (CDRA) air selector valves, tripped open.  Ground Teams are reviewing telemetry in order to determine the forward plan for troubleshooting and whether or not the RPC can be re-closed.  Meanwhile, the Node 3 CDRA is operating nominally.
+Today’s Planned Activities  
+All activities were completed unless otherwise noted.
+
+Morning Inspection. Laptop RS1(2) & RSS2 Reboot / r/g 1009,
+Morning Inspection. SM ПСС (Caution & Warning Panel) Test / Manual Controls
+HRF – Generic Sample Operations
+HRF Ops: MELFI Retrieval and Insertion Operations
+Acoustic Dosimeter Ops
+ТК 713 Descent OBT. / r/g 7103, 7110
+ТКГ 424 (DC1) Transfers and IMS Ops
+RS Lights Audit (SM, MRM1, MRM2, DC1) / r/g 7111
+MEDICAL CONTINGENCY OBT
+Charging GoPro HERO3 Camcorder Battery – start / r/g 7102
+SPRINT – Power up and Warm up
+ИП-1 Flow Sensor Position Verification
+Rodent Research Experiment.  Rodent Research Sample Transfer from +4 deg C cold Dewar to -95 deg C cold stowage
+BODYM – Gather equipment in preparation for Body Measurements data collection operations
+COL – Clearing COL1D3 items
+SPRINT Experiment Ops
+LBNP Exercise (PRELIMINARY). / r/g 7104
+Assisting with LBNP Exercise / r/g 7104
+MARES – Battery Replacement
+Preparation for МО-21. Charging of Ekosfera Battery Pack  r/g 7107
+MARES – Vibration Isolation Frame Installation Support
+ISTOCHNIK-M. Test Activation of Hardware. / r/g 7105
+MATRYOSHKA-R. Gathering and Initialization of Bubble-Dosimeter Detectors. / r/g 7113
+MATRYOSHKA-R. BUBBLE-dosimeter detector initialization and deployment for exposure. / r/g 7113
+RADIN – Dosimeter Installation
+Video camera GoPro HERO3 setup and Adjustment for Operation during ТК 713 Descent
+ТКГ 424 (DC1) Transfers / ТКГ 424 Transfer Ops [РПР] + r/g 7018, 7034
+AMINE – Screen Cleaning
+ТКГ 424 (DC1) Transfers and IMS Ops
+SDGR2.  Crew OBT
+ИК0501 Gas Analyzer О2 readings adjustments. U= 2.77V.
+MARES – Disconnecting from PUI
+VZAIMODEISTVIYE. Experiment Ops / r/g 7112
+SPRINT-PPFS – Equipment Stowage
+Crew Departure Prep
+Ultrasound 2 – Scanning
+Space Headaches Weekly Questionnaire
+MARES – EPM A31p Laptop Stowage
+XF305 – Camcorder Setup
+Installing Water Canister Bag for Crystall Experiment
+COL – Re-stow items into COL1D3 rack
+Clean Bench (CB) Closeout Prep
+Flight Director / ISS Crew Tagup
+Terminate EMU METOX Regeneration
+SPRINT – Hardware Deactivation and Closeout
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Deactivate backup S-Band String 1
+Lab CDRA Deactivation [Aborted]
+

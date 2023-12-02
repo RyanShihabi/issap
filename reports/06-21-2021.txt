@@ -1,0 +1,33 @@
+
+United States On-orbit Segment (USOS) Extravehicular Activity (EVA) #75 – ISS Roll-Out Solar Array (IROSA) 2B Install 2: EV1 (Thomas Pesquet) and EV2 (Shane Kimbrough) performed a 6 hour and 28 minute EVA on Sunday, June 20th and completed the following tasks in support of the IROSA 2B Install 2 EVA:
+
+Complete install of IROSA on Port 6 (P6) 2B Mast Canister
+Connect IROSA Electrical Connectors
+Deploy P6 2B IROSA
+Prepare the 4B IROSA for release from the Flight Support Equipment (FSE) [Partially Completed]
+
+Following the EVA, ground teams confirmed the P6 2B IROSA is performing nominally. The IROSA 4B Install EVA is planned for Friday, June 25th.
+Payloads
+Asian Herbs in Space: The crew took some photos of Asian Herb Seed packages. Microgravity affects the growth of plants and understanding the nature of these changes is important for future missions that will rely on plants for food. Asian Herbs in Space studies fast-growing plants used for traditional medicine and flavoring food, examining differences in their aroma that may result from microgravity-related cellular changes. This investigation benefits future plant growth efforts in space, and provides new information on the formation of aroma compounds in common herbs.
+Confocal Space Microscopy: The crew took photos of the confocal microscope cables, removed the temperature logger and recorded readings. The Confocal Space Microscope (Confocal Microscope) is a JAXA facility that provides fluorescence images of biological samples aboard the ISS. Confocal Microscope uses spatial filtering techniques to eliminate out-of-focus light or glare in specimens whose thickness exceeds the immediate plane of focus. With the Confocal Microscope, data can be obtained on the fundamental nature of cellular and tissue structure and functions in real-time.
+Lyophilization-2: The crew removed the processed sample tray S/N 11 from the sample chamber and stowed it for return to the ground and then inserted a new sample tray S/N 13. Lyophilization-2 in Microgravity (Lyophilization-2) examines gravity’s effects on freeze-dried materials. Lyophilization, or freeze-drying, is a common method for formulating pharmaceuticals with improved chemical and physical stability. On Earth, the process leads to formation of layers with structural differences, but if such stratification is due to gravity, it may not occur in microgravity. This investigation, which follows up on previous work, could result in improved freeze-drying processes for the pharmaceutical and other industries.
+OBIS (Oral Biofilms in Space): The crew hydrated the OBiS Assembly session Packs 11-15 with Fluid Bag 2 into the Fluid Chamber and then packs 11, 13 and 14 were restowed into the MERLIN for incubation. Packs 12 and 15 were lost due to leakage and were trashed. Fluid Bag 2 is a fluid medium containing chemicals designed to promote bacterial growth along with oral care bioactives within the Fluid Chamber. Effect of Environmental Stressors on Oral Biofilm Growth and Treatment (Oral Biofilms in Space) studies the effect of gravity on the behavior of oral bacteria, including the structure of the bacterial community, and changes in bacterial response to common oral care agents. The findings could support development of novel treatments to fight oral diseases such as caries, gingivitis, and periodontitis. The investigation also could provide insights into how microgravity affects the microbiome of other mucosal surfaces in the body.
+Plasma Krystall-4 (PK-4): The crew connected the PK-4 chamber to the Neon Gas Supply by opening valves and reported the pressure to ground. PK-4 is a scientific collaboration between ESA and Roscosmos performing research in the field of “Complex Plasmas”. Complex Plasmas are low temperature gaseous mixtures composed of ionized gas, neutral gas, and micron-sized particles. The micro-particles become highly charged in the plasma and interact strongly with each other, which can lead to a self-organized structure of the micro-particles, so-called plasma crystals. Experiments in the facility aim to study transport properties, thermodynamics, kinetics and statistical physics, non-linear waves, and instabilities in Complex Plasmas.
+Phase II Real-Time Protein Crystal Growth-2 (RTPCG-2): The crew set up the appropriate microscope hardware, observed and took photos of the crystal growth screening plate S/N C1C7 and then loaded plate 1C17. RTPCG-2 demonstrates new methods for producing high-quality protein crystals in microgravity. Previous work has shown that microgravity can sometimes produce high-quality protein crystals that can be analyzed to identify possible targets for drugs to treat disease. RTPCG-2 tests high-quality proteins crystals for detailed analysis back on Earth.
+Systems
+EVA Recovery Activities: The crew completed several activities in order to recover from the IROSA 2B Install 2 EVA and prepare for the IROSA 4B Install EVA. The crew performed Contingency Water Containers-Iodine (CWC-I) degas, Extravehicular Mobility Unit (EMU) water recharge, Metal Oxide (METOX) cartridge regeneration, battery charging, and tool configuration activities. Finally, the IROSA 2B EV crew participated in an EVA debrief conference with the ground.
+JPM Intermodular Ventilation (IMV) Mesh Cover Remove & Replace (R&R) and Flow Measure: The crew completed an R&R of the JPM Starboard-Aft inlet IMV mesh cover and then used a Velocicalc tool to measure the amount of airflow through the inlet. After completing the measurements, the crew verified the JEM Wireless Instrumentation System (WIS) Remote Sensor Unit (RSU) B4 and connected air flow sensors at the inlet were in a good configuration.
+Health Maintenance System (HMS) Eye Exams: The crew completed routine eye exams using an ultrasound device. Eye exams are performed regularly onboard in order to monitor each crewmember’s optical health. Eyesight is one of many aspects of the human body affected by long-duration stays in a microgravity environment.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Recycle Drain Support Commanding
+EMU Water Recharge Support Commanding
+SDMS Activation
+Security Patch Deploy
+Lab CDRA Activation for 4 Half-cycles
+

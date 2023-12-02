@@ -1,0 +1,69 @@
+
+New Status:
+Robonaut Experiment:  FE-5 Parmitano set up Robonaut for a second day of ground commanded activities.  Today’s objectives included a vision recognition test and velocicalc measurements to characterize air flow in the work volume.  Robonaut is a humanoid robot designed with the versatility and dexterity to manipulate hardware and react safely when bumped or following interaction. Robonaut is currently deployed inside the ISS but future project goals include mobility outside the ISS in the extravehicular environment.
+Automated Transfer Vehicle (ATV)-4 Cargo Operations: FE-6 Nyberg completed an 1 hour and 25 minutes of additional cargo transfer today.  Ground cargo specialists estimate that the crew completed 3 hours 35 minutes.  The crew is now ~72% complete with ATV cargo operations, with 22 hours and 50 minutes remaining.
+Potable Water Dispenser (PWD) Filter Remove and Replace (R&R): On June 9th, the crew reported a brown residue indicating a past water leak at the PWD Filter Quick Disconnects (QDs). Today, Cassidy R&R’ed the PWD filter and conducted troubleshooting for possible leak sources. He took images of the removed filter and obtained a sample of the brown residue. The removed filter and samples were packaged to preserve the residue for future ground analysis.  A test was performed to determine if the leak originated from the PWD auxiliary port tubing but no leaks were detected. Ground specialists will review the imagery and determine if further troubleshooting steps are required. The PWD can still be used by the crew.
+Heat Rejection Subsystem (HRS) Imagery: Cassidy took photos of the starboard HRS from the Soyuz/MRM-2 windows. The Thermal Radiator Rotary Joint (TRRJ) was rotated to different angles so images could be taken from both sides of the radiator. This imagery will provide insight into the overall health of the radiators as well as documentation of MMOD strikes. Imagery of the port radiator is scheduled on July 2nd.
+Spinal Ultrasound Operations: Parmitano was the subject of today’s spinal ultrasound with Cassidy as the operator. This investigation characterizes the micro-gravity associated spinal alterations during and after spaceflight using in-flight ultrasound.
+Gradient Heating Furnace (GHF) Operations:  Nyberg removed the Alloy Semiconductor Sample cartridge from the GHF, and installed 3 Hicari samples for processing. Alloy Semiconductor studies how high-quality bulk alloy semiconductor materials grow and crystallize in microgravity.  Hicari aims to verify the crystal-growth by Travelling Liquidous Zone method, and to produce high-quality crystals of Silicon-Germanium (SiGe) semiconductor.
+Mobile Servicing System (MSS) Status: Yesterday Robotics Ground Controllers (ROBO) maneuvered the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator System (SPDM) into position to check out the SPDM capability to acquire and drive a bare bolt head using the Robot Micro Conical Tool (RMCT) held by On-Orbit Replaceable Unit (ORU) Tool Changeout Mechanism (OTCM)-2. The forward tie-down bolt (1 of 2 tie-down bolts) on the Extravehicular – Charged Particle Directional Spectrometer (EV-CPDS) was to be released then refastened for this checkout.  The checkout was aborted when ROBO could not confirm with available views that the SPDM would not come into contact with a cable bundle which was close to the workspace.  ROBO maneuvered the SSRMS and SPDM away from the EV-CPDS, stowed RMCT2 in the SPDM Tool Holder Assembly (THA) and reconfigured the SPDM for overnight park. Prior to releasing RMCT2 from OTCM-2, the ROBOs had to troubleshoot to get it into the correct mode for release.
+Today’s Planned Tasks
+·         Laptop RS2(1) Reboot / Onboard Computer System (БВС)  [Complete]
+·         Morning Inspection. RSS1, RSS2 Reboot / r/g 1009  [Complete]
+·         SM ПСС (Caution & Warning Panel) Test   [Complete]
+·         JEMRMS Back Up Controller (BUC) Power On   [Complete]
+·         USND2. Hardware Activation  [Complete]
+·         ROBONAUT – Review  [Complete]
+·         PWD Filter Maintenance  [Complete]
+·         ROBONAUT- Camcorder Setup  [Complete]
+·         R2 – Velocical Prep  [Complete]
+·         Recording of TV Greetings and Downlink via OCA + r/g 2747 [Complete]
+·         ROBONAUT – Robonaut Relocation  [Complete]
+·         Robonaut Camcorder HD Setup  [Complete]
+·         ROBONAUT – Power Up  [Complete]
+·         БУПТ-1М Connectors А405, А406 Checkout Prep r/g 2746  [Complete]
+·         R2 – Velocical Setup  [Complete]
+·         SPINAL. Scanning Ops  [Complete]
+·         PAO Hardware Setup  [Complete]
+·         Crew Prep for PAO  [Complete]
+·         SPINAL. Scanning Assistance  [Complete]
+·         PAO Event  [Complete]
+·         SPINAL – Documentation Photo [Complete]
+·         ATV Cargo Operations [Complete]
+·         OBSTANOVKA. (start) / r/g 2745 [Complete]
+·         Hi Resolution Images of Loop A Radiators [Complete]
+·         Crew Discretionary Event [Complete]
+·         JEMRMS Back Up Controller (BUC) Power Off [Complete]
+·         СОЖ Maintenance
+·         OBSTANOVKA. (termination) / r/g 2745 [Complete]
+·         ATV Transfer Tagup [Complete]
+·         HMS Defibrillator Inspection [Complete]
+·         Urine Transfer from 1 ЕДВ-У  r/g 2731 [Complete]
+·         Terminate charging the 2nd Orlan Battery Pack 825М [Complete]
+·         USND2 – Closeout Ops [Complete]
+·         G1 – Camcorder Setup [Complete]
+·         Food Frequency Questionnaire [Complete]
+·         ALLOY – Cartridge Removal [Complete]
+·         SHD – Weekly Questionnaire [Complete]
+·         MATRYOSHKA-R. Monitoring Lulin-5 readings / r/g 2096 [Complete]
+·         ARED Flywheel Cylinder Evacuation [Complete]
+·         HICARI – Cartridge Installation [Complete]
+·         R2 – Return of Velocical [Complete]
+·         ROBONAUT – Power Down [Complete]
+·         Microbial sample collection. r/g 2709 [Complete]
+·         ROBONAUT – Reconfigure Camcorder for Nominal Ops [Complete]
+·         Restow Columbus Deck Rack Front stowage items  [Complete]
+·         ALLOY – Cartridge Separation [Complete]
+·         G1 Close-Out Ops [Complete]
+Task List
+·         CEO Ops [Complete]
+·         WHC EDV R&R
+·         Roscosmos Report
+·         Uragan Photo
+·         Econ Photo
+·         EVA Tool config [In work]
+·         EDV Separation
+·         IFM – FFTD find [In work] 
+Ground
+·         Nominal Commanding
+·         Robonaut Commanding

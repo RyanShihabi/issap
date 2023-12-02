@@ -1,0 +1,78 @@
+
+Skin-B: Flight Engineer (FE) 3 Swanson conducted his first Skin-B data collection using the Tewameter probe to measure the skin barrier function; the Visioscan Camera to measure skin surface topography; and the Corneometer probe to measure skin hydration. The Skin-B experiment will improve understanding of skin aging, which is slow on Earth but very much accelerated in space. This will also provide insights into the aging process in other (similar) bodily tissues in general. The data could help in determining impact on astronauts on future missions to the Moon and Mars for example where environmental conditions are more challenging.
+Hybrid Training Part Three:  ISS Commander Wakata donned the Hybrid Training hardware which provides electrical impulses to his non-dominant arm during concentric and eccentric arm motions. The electrical impulses will help to simulate the resistance that gravity would provide on the ground. This was Wakata’s third of twelve Hybrid Training sessions. Hybrid Training will be used for Wakata’s upper limbs (the non-dominant arm) for four weeks, and his muscular strength and bulk will be compared to those of his dominant arm to examine its orbital operation capability utility, as well as the preventive for muscle atrophy. Hybrid Training can become a useful back-up for the standard training device on the ISS. It can also be a useful training device in small space ships for the exploration of the Moon and Mars. 
+Ocular Health: Swanson continued his Flight Day 10 Ocular Health vision test. With Wakata as the operator, Swanson used Optical Coherence Tomography (OCT) to measure retinal thickness, volume, and retinal nerve fiber layer. Then with the help of FE-5 Mastracchio, Swanson used the fundescope to obtain images of the retinal surface. The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Node 3 (N3) Carbon Dioxide Removal Assembly (CDRA):   This morning the crew removed the N3 CDRA from the rack and removed the Desiccant/Adsorbent Bed (DAB) 201 from the CDRA frame in preparation for bed cleaning. The activity was completed ahead of the timeline, so the crew removed the insulation from the DAB, replaced Air Selector Valve 101 and inspected ducting for blockage in support of the ongoing investigation into whether CDRA is passing water into Sabatier. The crew reported no blockage in the ducting. All CDRA components have been temporarily stowed in the Japanese Experiment Module (JEM).  The crew will continue with activities tomorrow.
+Columbus (COL) High Definition Encoder:  Yesterday Mastracchio installed a PS-120 junction box, AC inverter, and 16-port ethernet switch in the Columbus module. Today he installed a high definition encoder and camcorder, enabling downlink of high definition video from the module.  Following installation, the ground team completed a successful checkout of the system.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot / Onboard Computer System (БВС), [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+SM ПСС (Caution & Warning Panel) Test / Manual Controls [РСУ], [Complete]
+CHROMATOMASS. Experiment Setup / r/g 4080 [Complete]
+CHROMATOMASS. Saliva and Blood Collection / r/g 4080 [Complete]
+Daily Planning Conference (S-band) [Complete]
+SKNB. Experiment Ops and Data Downlink  [Complete]
+On MCC GO ТГК 421 Progress (SM) Rodnik БВ 2 Tank Bladder Compression  r/g 5292 [Complete]
+HYBRID – Muscle Training [Complete]
+VIRTUAL. Experiment Ops / r/g 5284 [Complete]
+CHROMATOMASS. Photography of the Experiment Ops / r/g 4080 [Complete]
+CHROMATOMASS. Closeout Ops / r/g 4080 [Complete]
+ARIL. Thermostat Setup for the Experiment / r/g 5286 [Complete]
+Carbon Dioxide Removal Assembly (CDRA) – Removal [Complete]
+HYBRID – Training Session Questionnaire [Complete]
+BIOEMULSIYA. Thermostat Setup for the Experiment / r/g 5286 [Complete]
+Recording a Video Footage of “Totalnyi Diktant” (Total Dictation) Event / r/g 5290 [Complete]
+CONYUGATSIYA. Thermostat Setup / r/g 5286 [Complete]
+NAPOR-miniRSA. БЗУ-M Software Upgrade.  r/g 5291 [Complete]
+FGB ЦВ1 Fan Grille Cleaning / FGB Systems Operations, [Complete]
+СОЖ Maintenance [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+Cleaning ВД1 and ВД2 Air Ducts in MRM2 [Complete]
+Carbon Dioxide Removal Assembly (CDRA) – Removal of Component Filter [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+TV PAO with the participants of “Earth Space Safety Day” event  r/g 5295 [Complete]
+URAGAN. Photo Spectrum System Battery Charge (start) / r/g 3620 [Complete]
+On MCC GO Elektron-VM Purge After Deactivation [Complete]
+Installation of Version 4.0 Software on RSK2.  r/g 5294 [Complete]
+Dust Filter Cartridge Replacement in SM [Complete]
+Demating Connectors ЭЛ27 and ЭЛ28, Pressure Check in hydrogen loop / r/g 5297 [Complete]
+PAO Hardware Setup [Complete]
+Cleaning ГЖТ4 (Gas-Liquid Heat Exchanger) ВТ-7 Fan Screen [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+Crew Prep for PAO [Complete]
+Pressure Check in hydrogen loop / r/g 5297 [Complete]
+Crew time for ISS adaptation and orientation [Complete]
+PAO Event [Complete]
+COL AVN443 Encoder and XF305 Camcorder Powerup with AC Power [Complete]
+Audio Journal Entry FE3 [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+IMS Update [Complete]
+On MCC GO Progress 421 (SM) Rodnik БВ2 Bladder Compression Closeout Ops  r/g 5292 [Complete]
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 5186 [Complete]
+Ocular Health (OH) Tonometry Test Setup [Complete]
+Ocular Health (OH) Tonometry Test – assistance [Complete]
+Ocular Health (OH) Tonometry Test – Subject [Complete]
+Pressure Check in hydrogen loop / r/g 5297 [Complete]
+Ocular Health (OH) – Equipment Stowage [Complete]
+URAGAN. Observation and Photography using Photo Spectrum System / r/g 5288 [Complete]
+Fundoscope – Ocular Health (OH) Prep  [Complete]
+Fundoscope – Ocular Health (OH)  Equipment Setup  [Complete]
+Fundoscope – Ocular Health (OH)  Subject [Complete]
+Fundoscope – Ocular Health (OH) СМО [Complete]
+Fundoscope – Ocular Health Exam (Stowage) [Complete]
+
+Task List
+
+CMS ARED cylinder evac
+Dragon Robot self study [In work]
+WHC KTO replace
+WHC EDV-Y R&R
+Roscosmos Report
+Uragan photo
+
+Ground
+
+Nominal commanding [Complete]
+

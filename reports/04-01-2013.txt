@@ -1,0 +1,112 @@
+
+New Status:
+Fluids Control and Pump Assembly (FCPA) Remove and Replace (R&R):  Friday night, the Urine Processing Assembly (UPA) experienced a failure and was shut down. An error message was generated because the FCPA pump speed sensor did not match the FCPA pump motor speed sensor. Ground teams reviewed the data and recommended removing and replacing the FCPA.  Flight Engineer (FE)-6 Tom Marshburn completed the R&R this morning but when the UPA was commanded to standby, there was a high current fault on the V4 valve cluster. Engineering teams reviewed the data and recommended attempting another standby command.  The V4 valve cluster operated but there was another high current. Specialists researched the history of the spare unit and discovered that this particular spare FCPA had not been cycled for over a year, and that the valves were “packed” tighter during assembly than previous valve blocks to help prevent leakage.  The UPA FCPA valves will be checked tomorrow in their 4 possible configuration positions to characterize the performance of the valve block and valve motor.
+
+ENERGY Experiment: Saturday and Sunday Marshburn completed days 4 and 5 of metabolic measurements and completed day 6 today.  A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+Protein Crystal Growth (PCG) Experiment: Saturday, Marshburn installed a canister in the Protein Crystallization Research Facility (PCRF) and set up the cables in preparation for the high quality Protein Crystal Growth experiment which was subsequently started. The aim of this experiment is the growth of crystals of biological macromolecules by the counter-diffusion technique. The main objective of the JAXA PCG experiment is to produce the fine quality protein crystals under microgravity environment. These space-grown crystals will be applied to structural biology and pharmaceutical activity.
+Crew Handover: Commander (CDR) Hadfield performed a handover to newly arrived crewmember FE-3 Chris Cassidy. Topics covered were recommendations for suggested on-orbit practices and lessons learned related to ISS systems and payloads. Recent deltas to the configuration of ISS systems were also reviewed as it may have been a month or more since the oncoming crew was briefed on ISS system status.
+Emergency Roles and Responsibilities Review: All 6 crewmembers participated in this review to bring the 3 newly arrived crewmembers up to speed on their roles and responsibilities in the event of an ISS emergency. Top priority during an emergency is safety of crew followed by safe configuration of the Station. Various subjects were covered to meet these priorities including crew accountability, escape vehicle access, maintenance of Soyuz configuration, ISS Commander responsibility, and communication and coordination.
+Countermeasures System (CMS) Advanced Resistive Exercise Device ARED Exercise Rope R&R: Hadfield and Cassidy completed this routinely scheduled maintenance activity today.
+Previous Status (3/28/13)
+34 Soyuz (S) Launch and Docking:  34S launched nominally at 3:43pm CDT.  Docking to the ISS is scheduled  at 9:32 pm CDT. The Soyuz is bringing Chris Cassidy, Alexander Misurkin and Pavel Vinogradov to the ISS.
+
+ENERGY Experiment: Flight Engineer (FE)-6 Marshburn completed days 2 and 3 of metabolic measurements today due to sleep shifting tomorrow. A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+Seedling Growth Experiment: Last Thursday, Marshburn loaded four Experiment Containers (EC) for Run #1 of this experiment into the European Modular Cultivation System (EMCS). Ground commands were then sent to supply water to the dry seeds in the cassettes. The seeds were kept at 1g with white light for 4 days to allow them to germinate and grow. On the 5th day, the EMCS rotor was stopped, exposing the seedlings to 0g, and at the same time, photostimuli (red or blue light from the side) was started and the response of the seedlings to these conditions were observed for 2 days. Today, Marshburn is scheduled to remove the ECs from EMCS, set up the ECs for Run #2, remove the cassettes, and insert them in Minus Eighty-Degree Laboratory Freezer for ISS (MELFI). Run #2 will begin in 3 weeks. Seedling Growth studies the effects of microgravity on the growth of plants and is being performed on board the International Space Station (ISS) in collaboration with the European Space Agency. Images of the plants will be captured and down-linked to Earth. Samples of the plants will be harvested and returned to Earth for scientific analysis. The results of this experiment can lead to information that will aid researchers in food production studies concerning future long-duration space missions, as well as data that will enhance crop production on Earth.
+
+High-Rate Communications System (HRCS) Ku Communications Unit Installation Procedures Review: Commander (CDR) Hadfield and Marshburn reviewed procedures and conducted a conference with Ground teams in preparation for installation activities scheduled to begin next Tuesday. The installation will be broken out over multiple days in a two week period.
+Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) Remove and Replace: Hadfield removed and replaced the WHC UR hose and Insert Filter. Following the replacement, a functionality test of the WHC was performed nominally.
+Today’s Planned Tasks
+· Reaction Self Test  [Complete] 
+· Reboot Laptop RS2(1) / Onboard Computer System (БВС)  [Complete] 
+· Visual Inspection of Circuit Breaker [АЗС] Position on DC1 Power Switch Panel (БВП) and Fuses on DC Fuse Boxes  30, 36 using LED indication / [Complete] 
+· Reboot Laptop RSS1, RSS2 / r/g 1009  [Complete] 
+· Visual Inspection of Circuit Breaker [АЗС] Position on DC1 Power Switch Panel (БВП) and Fuses on DC Fuse Boxes 30, 36 using LED indication / EPS,  [Complete] 
+· SM ПСС (Caution & Warning Panel) Test / Manual Controls [РСУ],  [Complete] 
+· Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139  [Complete] 
+· Visual Inspection of Circuit Breaker [АЗС] Position on DC1 Power Switch Panel (БВП) and Fuses on DC Fuse Boxes 30, 36 using LED indication / EPS,  [Complete] 
+· Reaction Self Test  [Complete] 
+· Crew REMINDER About Constraints
+· Glove Box (MSG) Activation  [Complete] 
+· ISS Crew Adaptation  [Complete] 
+· CSLM2-ECU – Programming  [Complete] 
+· BCAT-C1 Image Transfer and Camera Intervalometer Set  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· АБ#6 БУПТ-1М(А406) R&R – preparation / r/g 1941  [Complete] 
+· ENERGY Diet Log of Breakfast  [Complete] 
+· Connect WORF Cable  [Complete] 
+· CASKAD. Thermostat Activation at +26 deg С / r/g 1937  [Complete] 
+· MWA – transfer and installation  [Complete] 
+· Fluids Control and Pump Assembly R&R  [Complete] 
+· CASKAD. Removal from Thermostat (+ 4 deg) and Setup in Glovebox. Tagup with specialists / r/g 1931  [Complete] 
+· CSLM2-ECU – End Reprogramming   [Complete] 
+· ARED Rope Replacement (assistance)  [Complete] 
+· CASKAD. Start Glovebox-S Cleaning mode.  Tagup with specialists / r/g 1931  [Complete] 
+· CSLM2 – Equipment Stow  [Complete] 
+· CASKAD. Reconfigure Glove Position Tagup with specialists (S-band) / r/g 1931  [Complete] 
+· ТК 708 Transfers and IMS Ops / Reference Materials + r/g 1913
+· MSG – Glovebox Power Down  [Complete] 
+· Crew time for ISS adaptation and orientation
+· MELF1 – Insert Ice Bricks   [Complete] 
+· MELF3 – Insert Ice Bricks  [Complete] 
+· EHS-AQM 1003 Transfer to LAB1D1, LAB1D2 rack rotations are complete  [Complete] 
+· CASKAD. Turn off Cleaning and Turn on General Light.  Tagup with specialists (S-band) / r/g 1931  [Complete] 
+· CASKAD. Fill Bioreactor, Remove from Glovebox-S, and Setup in Thermostat at +26 deg C. r/g 1931  [Complete] 
+· CASCADE Photography  / r/g 1934  [Complete] 
+· Handover  [Complete] 
+· CASCAD Photography  / r/g 1934  [Complete] 
+· ENERGY – Urine Sample Collection  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· Pressurization of Elektron-VM Liquid Unit before Activation / r/g 1935  [Complete] 
+· ENERGY – Water Sample Collection  [Complete] 
+· ENERGY Diet Log of Lunch  [Complete] 
+· Emergency Roles and Responsibilities Review  [Complete] 
+· Emergency Roles and Responsibilities Conference / СУДН,  [Complete] 
+· HMS Visual Testing Activity  [Complete] 
+· СОЖ Maintenance  [Complete] 
+· CONSTANTA. Prep and Execution 1. Tagup with specialists (S-band) / r/g 1936  [Complete] 
+· FMK Deployment Ops  [Complete] 
+· Grab Sample Container (GSC) Sampling Operations  [Complete] 
+· WRS Water Sample Analysis  [Complete] 
+· PAO Hardware Setup  [Complete] 
+· CONSTANTA Experiment Photography / r/g 1933  [Complete] 
+· Crew Prep for PAO  [Complete] 
+· PAO Event  [Complete] 
+· Auxiliary Laptop Anti-Virus Update / r/g 1930  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· Transfer of Thermal Protection Jackets [ТЗК] from ТК 704А to ISS / r/g 1932  [Complete] 
+· Recovery of TK708-MRM2 Exchange Bus Redundancy / r/g 1938  [Complete] 
+· HMS Visual Testing Activity  [Complete] 
+· ISS Crew Adaptation  [Complete] 
+· JRNL – Journal Entry  [Complete] 
+· TOCA 2 Data Recording
+· Crew conference with Astronaut Office
+· P/TV Playback Start/End  [Complete] 
+· ENERGY Dinner Diet Log  [Complete] 
+· Reaction Self Test
+· Reaction Self Test [Complete] 
+Task List
+· CEO ops  [Completed Saturday] 
+· IFM FCPA Gather [Completed Saturday]
+· Medical Conference Crew Msg (FE-6) [Completed Saturday]
+· RGN WSTA Tank Drain [Completed Saturday]
+· SSC Data Gather (CDR) [Completed Saturday]
+· IMS update
+· SSC data gather (FE-6)
+· SSC data gather (CDR)  [Complete] 
+· WHC KTO Replace
+· WHC EDV Build [Completed Saturday]
+· WHC EDV R&R [Completed Saturday]
+· Roscosmos Video
+· Uragan Photo
+· EKON Photo
+· CTB 1260 cleanup
+· ISS ext survey – MRM
+· Crew handover
+· HTV4 Stowage Relocate 1
+· HTV4 Stowage Relocate 2
+· JLP US Rack Labels
+· P/TV contacts clean
+· WHC SWR R&R
+
+Ground
+· Nominal Commanding

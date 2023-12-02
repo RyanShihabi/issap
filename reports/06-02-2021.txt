@@ -1,0 +1,37 @@
+
+Russian Segment (RS) Extravehicular Activity (EVA) #48: Today, FE-4 Oleg Novitskiy (EV1) and FE-5 Petr Dubrov (EV2) egressed the Mini-Research Module (MRM)-2 airlock and completed the following tasks during today’s 7 hour and 19 minute EVA
+
+Demonstration of RSC ENERGIA emblem
+R&R of Flow Regulator Panel (SP RRZh) on FGB and airtight container jettisoning from MRM2
+STRELA1 boom retraction and stowing on MRM2
+Demating SM “KURS-P” Antenna Feeder Unit from DC1 “KURS-P”
+Mating SM “Kurs-P” to “Kurs-P” Antenna Feeder Unit on ПхО nadir Docking Assembly
+Removal of EVA ladder – SM [PO]sm.dia. gap spanner
+Installation of VINOSLIVOST payload on MRM2
+Installation of TEST payload on MRM2
+
+US Astronaut Mark Vande Hei aided the Russian crew in pre and post EVA operations. This EVA prepares the ISS for DC-1 decommissioning and replacement by the Multipurpose Logistics Module (MLM)
+Payloads:
+AC Touch: Per standard procedure, the crew touched both the coated and uncoated coupons for this long-term investigation.  Boeing Environment Responding Antimicrobial Coatings tests an antimicrobial coating on several different materials that represent high-touch surfaces. Some microbes change characteristics in microgravity, which could create new risks to crew health and spacecraft systems as well as creating the possibility of contaminating other planetary bodies. The samples remain in space approximately six months then return to Earth for analysis.
+ELF Holder exchange: The crew performed the necessary steps to access the ELF experiment volume and exchanged sample holder 2 in the sample cartridge.  They also gathered and stowed any loose samples found in the experiment volume.  JAXA’s ELF is an experimental facility designed to levitate, melt and solidify materials by containerless processing techniques using the electrostatic levitation method.  With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.  ELF typically processes oxide samples, but is also capable of processing semiconductors, alloys, and metals.
+ISS HAM pass: The crew participated in an ISS HAM pass with The Father’s House Christian School, Morinville, Alberta, Canada.  Some of the questions asked included how the ISS avoids crashing into space debris, what the Canadaarm is used for, and an example of some of the experiments the crew is working on.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+ManD: The crew accessed the Manufacturing Device (ManD) print volume, removed the latest printed object, cleaned the extruder print nozzle, took photos and stowed the printed object.  The Manufacturing Device enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the ManD printer that is installed into an Express Rack locker location. ManD is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Molecular Muscle 2 (MME-2): The crew reviewed the big picture words, and set up the experiment containers in the Kubik 5 facility, beginning the 5 ½ day investigation.  The Molecular Muscle Experiment 2 (MME-2) uses a validated model organism, the C. elegans worm, to study human health changes in space. MME-2 tests a series of drugs to see if they can improve health in space, as well as evaluating if a specific molecule controls some of the health changes in space.
+SUBSA Hardware stow: The crew removed and stowed the final processed DFM ampoule, and then removed the SUBSA furnace facility from the Microgravity Science Glovebox (MSG) and stowed it.  When a metal solidifies during casting or additive manufacturing, it forms a multitude of tiny crystals called dendrites. The dendrite shape and whether the dendrites fragment determines the strength of the resulting solid metal. However, since gravity affects the growth and fragmentation process, it is unclear how those dendrites grow during freezing. The Dendrite Fragmentation and Morphology During Melting and Solidification (DFM) investigation, conducted in the Solidification Using a Baffle in Sealed Ampoules (SUBSA) facility, uses microgravity to examine the effects of cooling and heating rate on the shape of these crystals.
+Systems:
+IDA MLI Imagery and Measurements: On Sunday, May 30, the Space Station Remote Manipulator System (SSRMS) performed a visual survey of the Zenith International Docking Adapter striker plates to determine the condition of the Multilayer Insulation (MLI).  In addition, on Monday May 31, Crew completed a measurement of the on orbit MLI on the IDA assembly to help correlate the MLI thickness on orbit to ground testing hardware.  Teams agree that despite the slight interference of the MLI on the striker plates, the current configuration can accept the SpX-22 vehicle.  The IMMT polled go for SpX-22 Launch and Dock which is targeted for June 3rd and June 5th respectively.
+SpaceX-22 pre-docking preparations: in preparation for SpX-22 arrival the crew prepacked bags with items that will be returned on the vehicle. They also performed on-board training and reviewed Space X Cargo Dragon rendezvous procedures. SpX-22 is currently scheduled to Launch from KSC on Thursday, June 3 and dock to the ISS on Saturday, June 5.
+Extravehicular Activity (EVA) Preparations: The crew continued preparations for the upcoming IROSA EVA. The crew performed an EVA review of the Suit IV briefing package, and an EVA tool configuration.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: Crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Atmospheric Control System (ACS) Nitrogen Oxygen Recharge System(NORS) Nitrogen Transfer
+Attitude Control Subsystem (ACS) Configuration Controller Database (CCDB) Attitude Update
+Common Communications for Visiting Vehicles (C2V2) Activation
+Crew Dragon Awake Mode Checkout
+

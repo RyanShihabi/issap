@@ -1,0 +1,20 @@
+
+Payloads
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM): A crewmember performed a setup and activation of the EarthKam hardware in Node-2. EarthKAM allows thousands of students to photograph and examine Earth from a space crew’s perspective. Using the Internet, the students control a special digital camera mounted on-board the ISS. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The EarthKAM team then posts these photographs on the Internet for viewing by the public and participating classrooms around the world.
+Real-Time Protein Crystal Growth-2 (RTPCG-2): The crew printed out the Screening/Production Plate Recipe Cards and temp stowed them near Node 2 MWA. RTPCG-2 demonstrates new methods for producing high-quality protein crystals in microgravity. Previous work has shown that microgravity produces high-quality protein crystals that can be analyzed to identify possible targets for drugs to treat disease. RTPCG-2 produces high-quality protein crystals for up to eight proteins for detailed analysis back on Earth.
+Space Automated Bioproduct Laboratory (SABL): The crew installed the SABL-3 Guide Rail and Short Tray in preparation for RTPCG-2 ops. The SABL supports a wide variety of investigations in the life, physical and material sciences with a focus on supporting research of biological systems and processes. It has over 23 liters of temperature-controlled volume with LED lighting for scientific hardware and investigations. It can be fitted to provide 5% CO2 (or any required concentration of CO2) for cell cultures or other types of investigations and has two USB 2.0 ports and two Ethernet LAN connections. It also has switchable 28VDC and 5VDC power supplies for investigation use.
+Systems
+Extravehicular Activity (EVA) Preparations: The crew completed several activities in preparation for the ISS Upgrades III EVA. First, the crew installed Rechargeable EVA Battery Assemblies (REBAs), Long Life Batteries (LLBs), and Metal Oxide (METOX) cartridges into EMUs 3009 and 3015. Next, the crew completed a debrief conference for the IROSA Prep EVA from this past weekend. Then the crew participated in a Robotics Procedure conference. Finally, the crew reviewed ISS Upgrades III EVA procedures and Dynamic Onboard Ubiquitous Graphics (DOUG) animations. The ISS Upgrades III EVA (United States On-orbit Segment EVA 72) is scheduled for Friday, March 5th.
+Oxygen Generation System (OGS) Water Sample: The crew obtained water samples from the OGS Recirculation Loop for return-to-ground analysis. The Water Recovery System (WRS) reclaims wastewater from both the crew’s urine and humidity condensate from USOS modules. This water, once processed, is used to feed the OGS system and needs to be maintained within certain parameters to ensure optimum system performance. The water samples taken from the OGS Recirculation Loop will be returned to the ground for microbial growth analysis and to ensure parameters are within limits on-orbit.
+OGS Hydrogen (H2) Sensor Orbital Replacement Unit (ORU) Remove & Replace (R&R):  The crew performed an R&R of the OGS H2 sensor and cleaned the associated Avionics Air Assembly (AAA) inlet.  The H2 sensor R&R is routine maintenance activity and is necessary due to nominal degradation of the H2 sensor materials over time. Following today’s R&R, ground specialists will be conducting a checkout of the new sensor.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Rad Detector Flight Software Commanding
+ISS Experience ZCam Removal from JEMAL (IN WORK)
+OGS Activation (IN WORK)
+

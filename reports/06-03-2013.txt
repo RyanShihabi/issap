@@ -1,0 +1,93 @@
+
+New Status: 
+35 Soyuz (35S) Crew Handover: Flight Engineer (FE)-3 Cassidy continued handover with the 35S crewmembers FE-5 Parmitano and FE-6 Nyberg including on-orbit practices and lessons learned related to ISS systems and payloads. They also reviewed topics that are not limited to a particular module or scheduled activity as well as those that are usually scheduled as separate activities.   CDR Vinogradov reviewed use of ISS emergency hardware with FE-4 Yurchikhin, Parmitano and Nyberg.
+Binary Colloidal Alloy Test (BCAT) Experiment: Cassidy initiated Sample 2 of this experiment today. BCAT documents the formation of crystals from microscopic spheres (known as colloids) suspended in a liquid, both on the surface of the sample container walls and in the bulk of the sample container. Results help scientists develop fundamental physics concepts previously unobserved due to the effects of gravity.
+Automated Transfer Vehicle (ATV)-4 Preparation: FE-2 Misurkin and Parmitano successfully conducted a test of TV downlink via Ku-band and a Proximity Communications Equipment (PCE) test required prior to docking. ATV4 is scheduled to launch this Wednesday, June 5 and dock on June 15.
+Joint Station LAN (JSL) Node 2 Utilization and Operations Panel (UOP)-1 Checkout: Nyberg checked out the power and data cable that provides Joint Station LAN (JSL) Ethernet connectivity between Node 2 and the Columbus Module Portable Workstations (PWS). This activity is one of the final steps in the Columbus Cycle 13/Obsolescence Driven Avionics Re-Design (ODAR) upgrades.
+Today’s Planned Tasks
+· PROK – Urine Sample Collection [Complete]
+· МО-8. Setup  [Complete]
+· SM ПСС (Caution & Warning Panel) Test [Complete]
+· PROK – Urine Sample Collection [Complete]
+· REMINDER- read reminders [Complete]
+· Calf Volume Measurement / [Complete]
+· HRF Urine Sample Collection and Scanning [Complete]
+· RSS1, RSS2 Reboot / r/g.1009 [Complete]
+· Inspection of СМ-У connector on МНР-НС separator pump behind АСУ panel 139 [Complete]
+· Body Mass Measurement  [Complete]
+· SPRUT-2. Setup for experiment and measurement session. r/g 2508 [Complete]
+· Body Mass Measurement  [Complete]
+· HRF – Urine Sample MELFI Insertion [Complete]
+· Body Mass Measurement  [Complete]
+· MO-8. Cleanup  [Complete]
+· HRF- centrifuge activation [Complete]
+· HRF- blood sample draw – operator [Complete]
+· SPRUT-2. Measurement and Closeout Ops. r/g 2509 [Complete]
+· HRF- cooling centrifuge config [Complete]
+· Daily Planning Conference (S-band) [Complete]
+· HRF- blood samples retrieval from centrifuge and its deactivation [Complete]
+· HRF – Urine Sample MELFI Insertion [Complete]
+· ТК 709 Transfers and IMS Ops / r/g 2467 [Complete]
+· Gather equipment for water separation with membrane filter-separator r/g 2512 [Complete]
+· URAGAN.  Photo Spectral System Battery Charge (begin) / r/g 2437 [Complete]
+· Z1 – Gather stowed items [Complete]
+· Gather Water separation equipment with membrane filter-separator  r/g 2512 [Complete]
+· БД-2 Exercise – Day 3 [Complete]
+· JSL – UOP1 connection [Complete]
+· WRS – water sample analysis [Complete]
+· HRF- cooling centrifuge and hardware setup [Complete]
+· EMU METOX regeneration -termination [Complete]
+· БД-2 Exercise – Day 4 [Complete]
+· Crew time for ISS adaptation and orientation [In work]
+· Checkout of SSC Server Connection with Portable Workstation 1 (PWS1) [Complete]
+· Portable Workstation 1 (PWS1) Telecommand and Telemetry Checkout [Complete]
+· JSL – UOP1 Disconnection [Complete]
+· ON MCC GO ISS Repress with Oxygen from ТКГ 419 (Aft ) СрПК Section 1 (begin) [Complete]
+· PROK – Diet Log ops [Complete]
+· Integrated Emergency Hardware Familiarization.  r/g 2496 [Complete]
+· ISS O2 Repress from ТКГ 419 (Aft) СрПК Section 1 On MCC Go (terminate) [Complete]
+· WRM condensate swap [Deferred]
+· PROK- photography and data copying [Complete]
+· BCAT –  Sample initialization and photography [Complete]
+· HRF- hardware stowage after experiment completion [Complete]
+· TOCA 2 – data recording [Complete]
+· Integrated Emergency Hardware Familiarization Conference [Complete]
+· Test 1 of PCE, PCE antenna feeder (АФУ), ATV control panel commands. [Complete]
+· S/G 3 and S/G 4 comm check  [Complete] 
+· Configuration for condensate evacuation  [Complete] 
+· Space Headaches – Daily Questionnaire  [Complete] 
+· СОЖ Maintenance
+· СА-325 monoblock R&R prep at Regul-OS work station 1 / r/g 2506  [Complete] 
+· MELFI – Refrigerator external inspection [Complete]
+· Comm config for КЛ-154М TV camera test command from ATV Control Panel and Laptop using MPEG-2 encoder prior to ATV docking to ISS  [Complete] 
+· КЛ-154М TV camera test commands from ATV Control Panel and Laptop using MPEG-2 encoder prior to ATV docking to ISS.   [Complete] 
+· LCS. Activate RSE-LCS laptop to start data recording / r/g 2503  [Complete] 
+· Restore Nominal Comm Configuration  [Complete] 
+· Daily Planning Conference (S-band)  [Complete] 
+· P/TV Playback Start  [Complete] 
+· BAR Pyren Charging Start / r/g 2038   [Complete] 
+· BCAT4 – reminder   [Complete] 
+· BCAT4 – reminder   [Complete] 
+· P/TV Playback Stop   [Complete] 
+
+Task List
+· BASS sample locate [Completed Saturday]
+· CEO ops [Completed Saturday]
+· COL stowage consolidation [Completed Saturday]
+· CTB1217 cleanup [Completed Saturday]
+· EMCS relief valve check [Completed Saturday]
+· N3 encoder deploy [Completed Saturday]
+· Audit MWA Utility Kit [Completed Saturday]
+· P/TV Trash/Retrieve [Completed Saturday]
+· PMM Cleanup for ATV4 [Completed Saturday]
+· IMS edit
+· Crew handover [Active]
+· WHC-KTO Replace
+· WHC ЕДВ R&R
+· US PIP audit
+· Preparation of reports for Roskosmos site
+· ECON-M. Observations and Photography
+· URAGAN Observations and Photography
+Ground
+· Nominal Commanding
+

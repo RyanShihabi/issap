@@ -1,0 +1,23 @@
+
+Payloads
+Kibo Robot Programming Challenge Rehearsal: The Astrobee satellite performed several maneuvers and tasks as a checkout for the upcoming Robo Pro challenge.  Astrobee was able to successfully perform several of the practice tasks for the rehearsal.  The Kibo Robot Programming Challenge (Robo-Pro Challenge), also known as Kibo-RPC, allows students to create programs to control Astrobee, a free-flying robot aboard the International Space Station (ISS). This opportunity provides hands-on experience with science, technology, engineering and mathematics in space and inspires the next generation of explorers. This activity is based on Japan-U.S. cooperation through the Japan-US Open Platform Partnership Program (JP-US OP3).
+MATISS 2.5 Remove: The crew removed two MatISS (Microbial Aerosol Tethering on Innovative Surfaces in the International Space Station) sample holders and prepared them for return to the ground.  These samples have been deployed for one year, passively gathering data.  The MATISS experiment investigates the antibacterial properties of various materials in space for possible application in future spacecraft. MATISS is expected to provide additional insight into the mechanisms of attachment of biofilms in microgravity conditions. 
+Space Automated Bioproduct Lab (SABL3): In preparation for the upcoming Onco-selectors experiment, a CO2 incubator controller system and CO2 probe/meter were installed in SABL3.  SABL supports a wide variety of experiments in the life, physical and material sciences with a focus on supporting research of biological systems and processes. It has over 23 liters of temperature controlled volume with LED lighting for scientific hardware and experiments. It can be fitted to provide 5% CO2 for cell cultures and has two USB 2.0 ports and two Ethernet LAN connections. It also has switchable 28 Vdc and 5 Vdc power supplies for experiment use.
+Systems
+ISS Leak Detection Operations: Today, the crew used the Ultrasonic Leak Detector (ULD) to inspect for air leaks at the JEM windows, SM Windows #1 and #12, and DC1 EV hatch window #2. Ground teams are currently working to schedule a second isolation test over the upcoming weekend.
+Health Maintenance System (HMS) Eye Exams: Today, the crew completed a routine eye exam using Optical Coherence Tomography (OCT). OCT is an imaging technique analogous to ultrasound imaging that uses light instead of sound to capture micrometer-resolution, two- and three-dimensional images of tissue. In this case, the objects of interest are the crewmember’s eyes. Eye exams are performed regularly onboard in order to monitor crewmembers eye health. Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis & Data Record: Crew performed an analysis of the water processing assembly (WPA) using the TOCA. The TOCA unit oxidizes organic carbon species present in the water to carbon dioxide gas and measures the concentration using nondispersive infrared spectroscopy. Analysis of the potable water using the TOCA occurs on a weekly basis. The crew also replaced the TOCA Waste Water Bag (WWB) to preclude overfill.
+Completed Task List Activities:
+
+In Flight Maintenance (IFM) Ultrasonic Leak Detector Leak Checks
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Ground Supt for Astrobee Ops (ROBO PRO Rehearsal)
+Nitrogen Repress (6mmHg)
+SSRMS Soyuz Survey
+Lab MCA Zero Calibration
+LSR OGA PSM Valve Driver Check-Out Test
+SSRMS Elbow Pitch Joint Testing
+

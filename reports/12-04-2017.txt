@@ -1,0 +1,106 @@
+
+Earth Imagery from ISS Target Operations: Over the weekend, the crew captured images and video footage of Japan, the Sahara Desert, the India-Himalayas-Tibetan Plateau, Seattle and the Pacific Northwest, and Ireland to Moscow at night. Today the crew captured images of the Himalayas, facing northwest up the mountain range. The Earth Imagery from ISS investigation creates a series of videos showcasing Earth from space. These videos are taken with cameras on the ISS in 6K hi-resolution, then integrated into videos for screensavers for public enjoyment, exploration, and engagement.
+Eli Lilly-Lyophilization Sample Tray Installation: The crew set up the Lyophilization hardware this morning, removed the two frozen sample trays from the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) and placed the samples into the sample chamber within the Microgravity Science Glovebox (MSG) for processing. Lyophilization in Microgravity (Eli Lilly-Lyophilization) examines freeze-drying processes in the microgravity environment aboard the ISS. Freeze-drying is used to preserve food and medication but may create layering or other textures in the presences of gravity. The samples will be returned to the Earth for comparison with control samples.
+ISS Non-invasive Sample Investigation and results Transmission to ground with the Utmost easiness (In Situ):   The crew collected a saliva sample and processed it in the bio analyzer for the In Situ investigation.  Crewmembers are continuously monitored for health changes, and as part of these measurements, they have to take saliva samples that are stored and returned to Earth later. The In Situ bioanalysis is a portable device that can check crewmembers’ saliva on board, enabling direct real-time analysis. The device’s first uses are to monitor stress levels and appetites among crewmembers. Humans living in space experience dramatic changes to their health, from weakened bone and muscle to reduced appetites and increased stress levels. The device uses disposable cartridges that check for the presence of the stress hormone cortisol.  A miniature analytical device that can detect certain biomarkers using non-invasively collected samples would benefit health care workers on Earth, from emergency medical technicians on call, to small rural clinics in developing countries. 
+Fine Motor Skills (FMS): Today a 51S crewmember conducted a Flight Day 132 FMS session, which is executed on a touchscreen tablet, where the subject performs a series of interactive tasks. The investigation studies how fine motor skills are affected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of FMS is to answer how fine motor performance in microgravity trend/vary over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trend/vary before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods.
+Extravehicular Mobility Unit (EMU) Preparation for Return:  The crew swapped EMU 3008 and 3010 and then removed hardware from EMU 3010 in preparation for return on SpaceX-13.  The EMU arms and legs will remain on ISS for future activities.  After the hardware is removed, the crew installed Short EMU ancillary hardware and soft stow covers to prepare the SEMU for installation into the SEMU Launch Enclosure. 
+51S Cargo Pre-pack:  The crew gathered hardware and labelled it for return on 51S.  Some of the hardware that will be retrieved at the landing site for immediate return requires special labelling to help locate it in the Soyuz at landing. 
+Cygnus Release Preparations:  In support of the OA-8 Cygnus unberth planned for tomorrow and the release planned for Wednesday, the crew performed a refresher session on Cygnus release operations using Robotics Onboard Trainer (ROBoT).  This procedure included three Cygnus runs and instructions for self-study.  Additionally, the crew activated the Commercial Off the Shelf (COTS) Ultra High Frequency (UHF) Communications Unit (CUCU), checked out the CUCU Crew Command Panel (CCP), and then restowed the CCP.  Earlier this morning, ground controllers activated the Cygnus Prox system. 
+ORU Tool Changeout Mechanism 1 (OTCM) Troubleshooting:  Last Monday, November 28th, during Space Station Remote Manipulator System (SSRMS) Force Moment Sensor (FMS) Fine characterization, OTCM1 failed on two attempts to grasp the H-Fixture on the Mobile Base System (MBS). This past Friday was able to grasp the EOTP H-fixture with no issues. The successful OTCM1 testing at a second H-fixture location confirms that the MBS H-fixture issue is an oversized H-fixture.  Out of spec components have been encountered on-orbit in the past and can be accommodated with an update to the payload file with increased tolerances. 
+Lab Carbon Dioxide Removal Assembly (CDRA): Early Sunday morning, Lab CDRA failed with the Fan Motor Controller (FMC) current and fan speed going to zero.  Node 3 CDRA was activated to minimize CO2 impacts. The failure signature indicates this is a recurrence of a previous failure on 1/29/16.  Lab CDRA was recovered with an FMC power-cycle. Node 3 CDRA was put in standby once the Lab CDRA was recovered. 
+Node 2 High Definition (HD) Encoder Firmware Update: On Friday, the firmware was updated on the Node 2 HD encoder. The load was successful and a checkout is in progress. This is a new version of Commercial Off-The-Shelf (COTS) firmware for the AVN443 HD Encoder. The purpose of the AVN443 HD Encoder firmware upgrade is to implement a timestamp function in the Encoder that does not exist in the current firmware. Ground teams will confirm the update is successful before attempting to load the remaining five HD encoders on ISS.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+MO-8. Preparation
+Body Mass Measurement – BMMD
+MO-8 equipment stowage. Closeout ops
+Cygnus PROX Switch ON
+INSITU MELFI Sample Retrieve
+Fine Motor Skills Experiment Test – Subject
+Atmosphere Control and Supply (ACS) Nitrogen Manual Valve Open
+Collection of Condensate Water [КАВ] Samples from [СРВ-К2М] upstream ФГС using Russian Samplers
+Circadian Rhythms Kit Audit
+Health Maintenance System (HMS) Periodic Health Status (PHS) Evaluation
+EIISS Crew Preference RED Camera Target Operations
+Load Alleviating Strap (LAS) Remove and Replace
+Lyophilization MELFI Sample Retrieve
+Lyophilization Sample Tray Installation
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+IN SITU Saliva Collect Operations
+PAO Hardware Setup Video and Voice Comm Check
+Extravehicular Mobility Unit (EMU) Short Extravehicular Mobility Unit (SEMU) Launch Enclosure (SLE) Preparation
+Dragon Cargo Prep
+TV PAO Event with students of Lomonosov State University Gymnasium (Ku+S-band)
+IN SITU Saliva Collect Finish
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+JEM System Laptop Terminal Reboot
+Life On The Station Photo and Video
+Progress -736 SOKOL suit leak check without donning ПКО or Kentavr
+Environmental Health System (EHS) Coliform Water Processing
+Drying Sokol spacesuits: set up suit 1 and 2 for drying
+Robotic Workstation (RWS) Setup
+TV PAO Event with RSUH students (S + Ku-band)
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Release Session
+Brine EDV transfer to Progress 436 [AO] Rodnik Water Tank (БВ1)
+Consultation on descent and ODF updates
+Countermeasures System (CMS) Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Isolator Inspection
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Medical Consumables Tracking Battery Changeout
+Atmosphere Control and Supply (ACS) Nitrogen Manual Valve Close
+ISS HAM Service Module Pass
+Node 1 Nadir CBM Controller Panel Assembly (CPA) and Vestibule Outfitting Kit (VOK) Gather
+Drying out of the spacesuit 1 and 2 – termination
+Drying of suit 3 and setup of the 1st pair of gloves for drying
+COTS UHF Communication Unit (CUCU) Activation
+ISS Crew departure preparation
+Delta file prep
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+Photo/TV CUCU Video Setup
+Glove pair #1 drying end, glove pair #2 drying setup
+Pre-Soyuz 737 docking Ku-Band MPEG-2 TV test.
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Checkout
+Synthetic Bone SABL 2 Hardware Installation
+COTS UHF Communication Unit (CUCU) Crew Command Panel (CCP) Stow
+Glove pair #2 drying termination
+Photo TV CUCU Video Deactivation
+Cycle Ergometer with Vibration Isolation Stabilization (CEVIS) Control Panel Time Synchronization
+Health Maintenance System (HMS) Vision Test
+Crew Departure Preparations for Return to Earth
+Health Maintenance System (HMS) Vision Questionnaire
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+Station Support Computer ARED Relocate
+Exercise Data Downlink via OCA
+Environmental Health System (EHS) – Compound Specific Analyzer-Combustion Products (CSA-CP) Checkout Part 2
+СОЖ maintenance
+Drying of suit 3 – termination, drying of Pair of Gloves 3 – initiation
+Multi Omics FOS Stow
+Photo/TV (P/TV) Station Support Computer (SSC) Video Viewer Activation
+Glove pair #3 drying termination
+Multi Omics FOS Preparation
+Stowage of suits and gloves post drying
+Telescience Resource Kit Laptop Setup
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+
+Completed Task List Activities
+
+Columbus Toolbox tools swap
+ESA PAO Message Finland 100
+MARES Stowage Informations
+Photo/TV EVA Clean up
+Photo/TV Lens Stow
+Cygnus Cargo Transfer Ops
+PWD Filter Circuit Breaker Reset
+Grab Sample Container and CO2 Monitor
+Medical Checklist Update
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Prox system activation
+MPEG2 test for 53S docking
+Standard commanding
+

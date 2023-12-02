@@ -1,0 +1,67 @@
+
+Japanese Small Satellite Orbital Deployer 8 (J-SSOD#8):  Last night and this morning, Robotics Controllers in Tsukuba, Japan maneuvered the Japanese Experiment Module Remote Manipulator System (JEMRMS) to the Small Satellite Deploy Position and deployed the Japanese Small Satellite Orbital Demonstration (JSSOD)-8 satellites.  The crew supported the activity as observes, taking photographs of the various small satellites as they were deployed from both JSSOD-8 launchers. 
+Space Headaches:  Two 53S crewmembers completed a weekly questionnaire for the ESA Space Headaches investigation today. This investigation collects information that may help in the development of methods to alleviate associated symptoms and improve the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission.
+Live Public Affairs (PAO) Event: This evening, Drew Feustel will receive an honorary Doctorate degree from the University of Purdue.  Feustel, along with Purdue Alumnus Scott Tingle, will also participate in Purdue’s commencement ceremony, sharing words with the recent graduates.  
+Integrated Communications Unit (ICU) R4 Transition: This morning the crew installed a Gigabit Ethernet cable from ICU-1 to the JSL router and transferred the R4 software to the ICU-1 Kernal 1.  Later this evening, ground teams will load new firmware/coefficient files and begin a transition from Antenna Group (AG)-2, and ICU-2, to AG-1 and ICU-1.  This is the desired configuration for the SGTRC (Space to Ground Transmitter Receiver Controller) R&R scheduled during next week’s US EVA.  The intent of ICU R4 is to increase the return link bandwidth from 300 Mbps to 600 Mbps. 
+Extravehicular Activity (EVA) Preparations: In preparation for next week’s US EVA 50 Pump and Flow Control Subassembly (PFCS) Relocate, the crew utilized Dynamic Onboard Ubiquitous Graphics (DOUG) Software to review crew translation paths and Space Station Remote Manipulator System (SSRMS) movement during the EVA. Once complete with this simulation, the crew continued reviewing the EVA Systems Briefing Package before conducting a second EVA Procedures Conference with ground specialists.  A checkout of the Rechargeable EVA Battery Assembly (REBA), used to power the glove heaters on the Extravehicular Mobility Units (EMUs), concluded the list of today’s EVA prep activities. 
+Eye Exams: Today the entire US crew continued with a second day of routine eye exams using both Optical Coherence Tomography (OCT) and Ultrasound hardware. Eye exams are performed regularly onboard in order to monitor crewmembers eye health.  Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment. 
+Mobile Servicing System (MSS) Operations: Last night, the Robotics Ground Control team powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) to stow the Special Purpose Dexterous Manipulator (SPDM), with the “Leaky” Pump/Flow Control Subassembly (PFCS), on the LAB Power Data Grapple Fixture (PDGF).  The SSRMS then released the SPDM and maneuvered to the start position in support for the EVA scheduled next week. MSS performance was nominal. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+HV1-Server Shell Swap
+ISS Crew and ГОГУ (RSA Flight Control Team) weekly conference
+Ultrasound 2 HRF Rack 1 Power On
+JEM System Laptop Terminal Activation and Photo taking
+FAZOPEREKHOD. Preparation steps and starting the experiment.
+Health Maintenance System (HMS) Ultrasound 2 Scan Prep
+iPad Air 2 Update Prep
+Inventory Management System (IMS) conference
+KU-Comm Unit R4 Cable Mate
+Health Maintenance System (HMS) OCT Setup
+Kazbek fit check (Soyuz 737)
+PROFILAKTIKA-2. Training Session Using КОР-01-Н Set
+Health Maintenance System (HMS) Ultrasound 2 Scan
+Preparation and Configuration Setup for Remote RS Laptop on USOS.
+Testing RS Remote Laptop with КЦП1 and КЦП2.
+JEMRMS Small Satellite Deployment Observation  Tear Down of Remote RS Laptop Setup.
+MRM1 Fan Screen Cleaning (Group B)
+FAZOPEREKHOD. Preparation steps and starting the experiment.
+Health Maintenance System (HMS) OCT Exam
+СОЖ maintenance
+SEPARATION. Additional flushing of [СРВ-У-РС] urine circulation loop. 
+Health Maintenance System (HMS) OCT Stow
+Veggie Ponds Plant Photo
+Water Recovery and Management Condensate Pumping Init
+Rechargeable EVA Battery Assembly (REBA) Installation
+MATRYOSHKA-R. Monitoring Tritel Readings and Data Downlink
+Extravehicular Activity (EVA) Procedures Print
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout
+Water Recovery and Management Condensate Pumping Term
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review
+Audit of Personal Hygiene Articles
+FAZOPEREKHOD. Closeout Ops.
+Dust collectors ПC1, ПС2 filter cleaning by vacuum cleaner in FGB
+Cleaning vent screens on FGB interior panels 116, 316, 231, 431
+Extravehicular Activity (EVA) Procedure Review
+PROFILAKTIKA-2. Training Session Using КОР-01-Н Set
+Extravehicular Activity (EVA) Procedure Conference
+Health Maintenance System (HMS) Fundoscope Setup
+Health Maintenance System (HMS) Eye Exam – Fundoscope
+Inventory Management System (IMS) Conference
+Health Maintenance System (HMS) Fundoscope Tear Down and Stow
+IMS Update
+Space Headaches – Weekly Questionnaire 
+
+Completed Task List Activities
+
+None 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+ICU R4 KCU1 Transition 
+JEMRMS JSSOD 8 deploy 
+

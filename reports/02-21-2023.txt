@@ -1,0 +1,22 @@
+
+Payloads:
+Mochii: The crew performed a power-cycle of the Mochii electron microscope system, and then reported the status of the LEDs on the diagnostic strip. This is an effort to restore communication to Mochii following a network switch power cycle a little over a week ago. Mochii is a miniature scanning electron microscope (SEM) with spectroscopy to conduct real-time, on-site imaging and compositional measurements of particles on the ISS.
+Muscle Tone in Space (Myotones): The Myotones device was used to measure various body target areas. Echo ultrasound imagery was also obtained from several different target areas including the foot, leg, back, shoulder, and neck. The Myotones investigation observes the biochemical properties of muscles (e.g., muscle tone, stiffness, elasticity) during long-term exposure spaceflight environment. Results from this investigation can provide a better understanding of the principles of human resting muscle tone. This could lead to the development of new strategies for alternative treatments for rehabilitation on Earth, as well as for future space missions.
+Veg-05: The plants growing in the two Veggie facilities were inspected, watered as needed, and photographed. The Pick-and-Eat Salad-Crop Productivity, Nutritional Value, and Acceptability to Supplement the ISS Food System (Veg-05) investigation is the next step in efforts to address the need for a continuous fresh-food production system in space.
+Systems:
+Bigelow Expandable Activity Module (BEAM) Activities: The crew ingressed BEAM to support retrieval of items for NG-18 disposal, SpX-27 return, SpX-28 return, and upcoming maintenance. Environmental Health System (EHS) Microbial and Surface Samples were collected, incubated, and stowed in BEAM. The crew re-stowed corridor bags in BEAM, egressed and re-installed the BEAM Hatch, and closed the Node 3 Aft Hatch. Items were returned back to the N3A location that were removed for BEAM ingress.
+Crew Dragon Departure Preparations: The Endurance crew performed several activities to prepare for their departure and the arrival of Crew-6. The crew reviewed On Board Training (OBT) for Dragon zenith rendezvous and operations products, and participated in a conference with the ground team and instructors to discuss questions. Orthostatic Intolerance Garment (OIG) measurements were also performed.
+Treadmill 2 (T2) Monthly Inspection: The crew completed a regular maintenance inspection to ensure the T2 exercise device is in good operational condition. The crew inspected all four Snubber Arms for any sign of free play as well as make any necessary adjustments to reduce the free play. The crew also performed additional Inspections on all tape and witness markings on T2 Thumbwheels, Snubber Jam Nuts, and Snubber Cup Housing, inspected the Snubber Pin position within the Snubber Cups, and Sorbothane residue on Snubber Pins.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+MSS Walkoff to Node2 PDGF
+MT Pre-Translation Check Out and Survey
+MT Translation
+MT RPCM Test
+SPDM BDU 60 day Checkout
+

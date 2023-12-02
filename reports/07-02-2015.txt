@@ -1,0 +1,62 @@
+
+60 Progress (60P) Launch: 60P is scheduled to launch tonight at 11:55 PM CDT. Docking is planned for Sunday at 2:13 AM CDT following a 34-orbit rendezvous.
+Human Research Facility (HRF)-2 Resupply: To prevent use of expired hardware and simplify future operations, Kelly performed consolidation and resupply of the HRF2 rack in the Columbus Module. To access the rack, he disconnected the Magvector Umbilical, then trashed expired hardware from the various kits.  He then restocked contents from the HRF Resupply kit.
+Combustion Integration Rack (CIR) Multi-user Droplet Combustion Apparatus (MDCA) Remove and Replace (R&R) Preparations: Kelly configured the Maintenance Work Area (MWA) Work Surface Area, reviewed the CIR MDCA hardware overview Just-In-Time Training (JIT) video, and gathered the required items in advance of tomorrow’s MDCA Igniter Tip and MDCA Fiber Arm replacements.  The igniter tip and fiber arm are required for the FLame Extinguishment Experiment (FLEX-2J).  The FLEX-2J experiment studies the interactions of flames on the motion and ignition (or non-ignition) of millimeter-sized droplets. Results can provide fundamental insight into the physics of fuel burning, which improves computer models designed to reduce emissions and improve fuel consumption efficiency in space and on Earth.
+Robonaut Software Load: Today, ground teams attempted to update the software on Robonaut’s three processors, sometimes referred to as the ‘brain stem’ by the Robonaut team.  Teams were able to get one of the three processors updated, and after multiple power cycles and several different lockup signatures, were not able to make any further progress.  The team is looking at how the Robonaut operations scheduled for Monday may need to change, including potential troubleshooting.  One step of the troubleshooting will likely be removing Robonaut’s chest plate to view the lights on the chest. Robonaut is a two-armed humanoid robot torso designed with the versatility and dexterity to manipulate hardware, work in high risk environments, and respond safely to unexpected obstacles. Robonaut is currently mounted inside the International Space Station (ISS); in the future, it will perform tasks both inside and outside the ISS. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+МО-8. Configuration Setup
+RSS1,2 Reboot
+Laptop RS1(2) Reboot
+Visual Inspection of Circuit Breaker [АЗС] Position on DC1 Power Switch Panel (БВП) and Fuses on Fuse Boxes БПП-30
+Body Mass Measurement
+МО-8. Closeout Ops
+VIZIR. Battery Charge
+Weekly Conference between ISS crew and ГОГУ (RSA Flight Control Management Team)
+IMS Tagup (S-band)
+Acoustic Dosimeter Ops
+Removal of PCE, ATV Control Panel cables.
+UDOD. Experiment ops using DYKNANIYE-1 and SPRUT-2 sets.
+MDCA – Preparation Ops
+CIR Review Big Picture Words
+CIR Hardware Gather
+Configure Lab condensate tank for waste water collection from Waste Water Bus
+Changeout of Microbial Removal Filter (MRF) Cartridge
+Disconnection of MagVector Umbilicals from COL1F2 UIP
+HRF – Hardware Removal and Relocation
+Verification of ИП-1 Flow Sensor Position
+Reconnection of MagVector Umbilicals from COL1F2 UIP
+ISS Safety Video [Deferred]
+VIZIR. Battery Charge
+CASKAD. TBU-V No.2 Thermostat Setup
+MATRYOSHKA-R. Monitoring Lulin-5 readings
+Robonaut Mobility Powerup in Stowed Location
+CTTC Test.
+IMS Stowage Conference
+PAO Hardware Setup
+Crew Prep for PAO
+PAO Event
+Removal of PCE, ATV Control Panel cables.
+Filling (separation) of EDV (KOV) No.1162
+СОЖ Maintenance
+Cleaning FGB Gas-Liquid Heat Exchanger
+BRI Log Dump from RSS1
+INTERACTION-2. Experiment Ops
+Flight Director / ISS Crew Tagup
+Deactivation/activation of NOD2 ISL router
+Robonaut Mobility Power Down in Stowed Location
+VIZIR. Battery Charge 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Robonaut powerup
+Payload JSL 60M Downlink
+

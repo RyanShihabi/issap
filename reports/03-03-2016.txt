@@ -1,0 +1,64 @@
+
+MAGVECTOR: Peake configured switches on portable power supply 1 and inserted the Universal Serial Bus (USB) in preparation for the European Space Agency’s (ESA’s) MAGVECTOR experiment run.  MAGVECTOR qualitatively investigates the interaction between a moving magnetic field and an electrical conductor. The expected changes in the magnetic field structure on the ram and wake side of the electrical conductor are of interest for technical applications as well as for astrophysical research. 
+
+Education Payloads Operations (EPO) – AstroPi:  Peake played Reaction Games on the ESA AstroPi which is a complete suite of games that provide reaction times of the user.  AstroPi is composed of RaspberryPi B+, Sense HAT (Hardware Attached on Top) and a camera module contained within a protective aluminum case.  Raspberry Pi is a credit-card sized computer that enables students to explore computing and learn how to program. Two AstroPi are on board: AstroPi Vis, with visible light camera, and AstroPi IR, with an infrared camera.  Both AstroPi will run programs written by the winners of a student competition and collect data from sensors (i.e., inertial movement, barometric pressure, relative humidity and temperature). The data will be shared with various schools.
+ 
+Robonaut: Kopra setup the XF305 camcorders, which will be used capture video downlinks of the Robonaut investigation in the Lab and Node 2 modules. Kopra configured the Oscilloscopes to Robonaut which will monitor voltage signatures during debugging activities. Robonaut is a humanoid robot designed with the versatility and dexterity to manipulate hardware, work in high risk environments, and respond safely to unexpected obstacles. It is comprised of a torso with two arms and a head, and two legs with end effectors that enable the robot to translate inside the ISS by interfacing with handrails and seat track. Robonaut is currently operated inside the ISS, however, in the future, it will perform tasks both inside and outside the ISS. The Robonaut Teleoperations System enables Robonaut to mimic the motions of a crewmember wearing specialized gloves, a vest and a visor providing a three-dimensional view through Robonaut’s eyes.
+ 
+Urine Processing Assembly (UPA) Separator Plumbing Assembly (SPA) Remove & Replace (R&R): On February 21st, the UPA failed due to the Distillation Assembly (DA) centrifuge speed exceeding its low limit. Three attempts to restart the UPA were not successful and review of the data indicated that the SPA was not functioning properly. Today Peake purged the DA-PCPA purge hose of moisture and R&Rd the malfunctioning SPA. Shortly after transitioning the UPA to standby, the PCPA turned on and the UPA immediately faulted due to a high pressure alert, indicating a lack of flow through the SPA. The crew subsequently cycled the Quick Disconnects (QDs) connected to the newly installed SPA in an attempt to recover flow through the SPA which was unsuccessful. The crew was advised to perform another SPA R&R which was completed but did not recover the UPA. Teams are meeting to discuss the forward plan.
+ 
+Today’s Planned Activities   
+All activities were completed unless otherwise noted. 
+·         ISS HAM RADIO Power Down
+·         Charger Unstow and Setup 
+·         VCA1 Camera Adjustment
+·         MAGVEC – Gather and setup hardware 
+·         MAGVEC – Data Export from USB Drive
+·         SPHERES – Battery Charging
+·         Consolidation of US Food Rations
+·         HAM Radio Power Up
+·         VIZIR. Start charging СКПИ Infrared Receiver (ИКП) battery / r/g 1593
+·         IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 1589
+·         ARED exercise video setup
+·         Urine Processor Assembly (UPA) Hose Purge 
+·         Flushing Elektron-VM Gas-Liquid Separator (ГЖС) SKO / r/g 1590
+·         Filling (separation) of EDV (KOV) for Elektron or EDV-SV  r/g 1590
+·         СОЖ Maintenance
+·         SSC – Crew Log Out
+·         UPA SPA R&R 
+·         Date and Time Synch on 6 RS photo cameras to the station time / r/g 1594
+·         Preventive Maintenance of FS1 Laptop / r/g 1023
+·         Semi-annual BRI Cleaning. Express-check of nominal network configuration r/g 1596
+·         Urine Processor Assembly (UPA) Purge Hose Part 2
+·         ROBONAUT – Installation of camcorder for EPO video 
+·         SPHERES – Battery Replacement
+·         VIZIR. Battery Charge / r/g 1593
+·         R2 – Equipment Setup
+·         EPO – Reaction Game (Crew’s choice)
+·         SPHERES OBT
+·         Testing Inter-modular connectivity r/g 1597
+·         Test procedure and plan 
+·         SPHERES – Battery Replacement
+·         BRI log download from RSS1 / Auxiliary Computer System
+·         OTKLIK. Hardware Monitoring / r/g 1588
+·         Checkout of video equipment to capture ARED exercise 
+·         ROBONAUT 2 (R2) – Hardware Deactivation and Stowage
+·         ARED Exercise Video Equipment Stowage
+·         SPHERES – Battery Replacement
+·         Crew handover conference
+·         PAO Hardware Setup
+·         VIZIR. Battery Charge / r/g 1593
+·         IMS Delta File Prep
+·         Crew Prep for PAO
+·         PAO Event
+·         Station Support Computer (SSC) System Log-in
+·         Flight Director / ISS Crew Tagup
+·         SPHERES – Battery Replacement
+ 
+Completed Task List Items
+·         None
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+·         UPA recovery support
+ 

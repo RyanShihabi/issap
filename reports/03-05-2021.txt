@@ -1,0 +1,27 @@
+
+United States On-orbit Segment (USOS) Extravehicular Activity (EVA) #72 – ISS Upgrades III: Today, EV1 Kate Rubins and EV2 Soichi Noguchi performed a 6 hour 56 minute EVA and completed the following tasks during the ISS Upgrades III EVA:
+
+4B ISS Roll Out Solar Array (IROSA) Mod Kit Installation
+2B IROSA Mod Kit Modification
+Worksite Interface Extender (WIFEX) Stow
+Articulating Portable Foot Restraint (APFR) Relocate
+
+The COL Payload Parking Position Interface (PAPOS) connector troubleshooting and the Node 1 Wireless Video System External Transceiver Assembly (WETA) Remove & Replace (R&R) tasks were deferred due to time constraints and will be pursued on future EVAs.
+Payloads
+Human Resources Facility-1 (HRF-1): A crewmember removed the old HRF-1 drawer handles and replaced them with new handles. The crew also performed a supply inventory on the HRF-1 facility. HRF-1 provides an on-orbit laboratory that enables scientists conducting human life science research to evaluate the physiological, behavioral, and chemical changes induced by space flight. Research performed using HRF-1 provides data to help scientists understand how the human body adapts to long-duration spaceflight.
+Packed Bed Reactor Experiment (PBRE): The crew inspected the Microgravity Sciences Glovebox (MSG) Work Volume for any water release from the PBRE Vent Hose. The PBRE studies the behavior of gases and liquids when they flow simultaneously through a column filled with fixed porous media. The porous media or “packing” can be made of different shapes and materials and are used widely in chemical engineering as a means to enhance the contact between two immiscible fluid phases (e.g., liquid-gas, water-oil, etc.). Packed columns can serve as reactors, scrubbers, strippers, etc. in systems where efficient interphase contact is desired, both on Earth and in space.
+Systems
+Joint Station LAN (JSL) Node 3 Gigabit Ethernet Cable Routing: The crew routed a new Gigabit Ethernet cable, W3907, for the JSL network from the J109 bulkhead to the Node 3 16-Port Ethernet Switch, and the 20-Port Network Switch. The cables will be connected to these devices in a future activity to allow for the checkout of other systems due to vestibule jumpers being replaced, which carry other signals to other modules in addition to Ethernet. 
+Environmental Control and Life Support System (ECLSS) Portable Emergency Provisions (PEPs) Inspection: The crew performed the periodic PEPs inspection, which involves utilizing a PEPs matrix and inspecting various emergency provisions such as the Portable Fire Extinguisher (PFE), Portable Breathing Apparatus (PBA), Quick Don Mask (QDM), and Extension Hose Tee Assemblies at multiple locations throughout the space station.  The crew spends several minutes on each item and notes any visible damage.  Inspections are performed routinely to ensure the PEPs are in good operational condition.
+Temperature and Humidity Control (THC) Intermodule Ventilation (IMV) Flow Measurement: As part of system health monitoring, the crew used a Velocicalc tool to measure the amount of airflow through selected ventilation inlets and outlets. Today’s measurements were taken for the NanoRacks Airlock (NRAL), the Bigelow Expandable Aerospace Module (BEAM), and the Crew-1 Dragon.
+Completed Task List Activities:
+
+Crew Dragon Tablet Procedure Update
+Cygnus Cargo Operations
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+ISS Upgrades II EVA Commanding and Support
+Nominal Ground Commanding
+

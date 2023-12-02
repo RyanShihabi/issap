@@ -1,0 +1,102 @@
+
+ 
+Preparation for Cygnus Unberth and Release:  The Crew has configured Cygnus and the Node 1 vestibule in preparation for Cygnus departure tomorrow. This morning, the Crew removed Intermodule Ventilation, Power/Data Jumpers, and closed the Cygnus hatch.  Once the hatch was closed, the Crew installed the Common Berthing Mechanism (CBM) Center Disk Cover and four CBM Controller Panel Assemblies (CPAs) onto an Active CBM bulkhead, then closed the Node 1 nadir hatch.   In addition, ground teams successfully checked out the Proximity (PROX) Communication Link.  Cygnus is now being powered though its Power Video Grapple Fixture (PVGF) by the Space Station Remote Manipulator System (SSRMS) and is ready for unberth tomorrow at approximately 4:10am CST with release planned to occur at 6:25am CST.
+ 
+Electrostatic Levitation Furnace (ELF):  Today Peake installed a sample cartridge in the ELF chamber.  The JAXA ground team then started ELF checkout with that sample. The ELF is an experimental facility designed to levitate, melt and solidify materials employing containerless processing techniques that use the electrostatic levitation method with charged samples and electrodes. With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+ 
+Microbiome:  Today Kelly continued his Return Minus 14 day Microbiome session by collecting body and surface samples.  Microbiome investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time).
+ 
+Cognition:  Kopra and Peake each performed their Flight Day 60 session of the Cognition experiment today.  The Individualized Real-Time Neurocognitive Assessment Toolkit for Space Flight Fatigue (Cognition) investigation is a battery of tests that measure how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. Cognition includes ten brief computerized tests that cover a wide range of cognitive functions, and provides immediate feedback on current and past test results. The software used allows for real-time measurement of cognitive performance while in space.
+ 
+Fine Motor Skills:  Kopra and Peake each completed sessions of the Fine Motor Skills experiment today.  During the experiment they performed a series of interactive tasks on a touchscreen tablet. This investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+BIOME – Sample Collection
+IMMUNO.  Saliva Sample (Session 1)
+Cygnus – Cygnus PROX Power Activation
+IMMUNO. First stress test, questionnaire data entry
+Body Mass Measurement
+Calf Volume Measurement
+IMMUNO. Test-Tube Blood Collection (finger)
+Body Mass Measurement
+IMMUNO. Blood Sample Processing
+HRF – Sample Insertion into MELFI
+IMMUNO. Equipment Stowage
+Body Mass Measurement
+МО-8. Closeout Ops
+Water Recovery System (WRS) Microbial Removal Filter (MRF) Purge [Aborted]
+Cygnus – Mass Property Update [Aborted]
+Study of veins in lower extremities
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start). Fine Motor Skills – Test
+BIOME – Sample Collection
+Crew Departure Prep
+PPFS –  Experiment Ops
+HRF – Sample Insertion into MELFI
+OTKLIK. Hardware Monitoring / r/g 0030
+Cygnus – Final Egress and Closeout for Departure
+BIOME – Equipment Stowage
+BLR48 – Card Exchange
+UDOD. Experiment Ops with DYKNANIYE-1 and SPRUT-2 Sets
+Assembly of Separation Unit in MRM1. Filling hoses with water
+Water Recovery System (WRS)  Microbial Removal Filter (MRF) Purge [Aborted]
+Fine Motor Skills – Test
+Cygnus/Node 1 Vestibule Configuration for Demate
+Installation of CBM Controller Panel Assembly in Node 1
+Terminate transfer of water to water storage tank via MRF filter
+Cygnus/Node 1 Vestibule Configuration for Demate
+Disassemble the setup following Progress 431 (DC1) АСН-КП test as a part of ISS mated stack
+Fluid Shifts (FS) – Kit Reconfiguration
+Transition to nominal comm config in MRM1
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup
+COSMOCARD. Setup. Starting 24-hr ECG Recording
+HABIT – Launching the Application
+ECLSS: Recycle Tank Drain, Part 1
+HABIT – End Task
+EPO – Gathering items for EPO Scripts AstroPi and ARISS
+ECLSS: Recycle Tank Fill
+Hardware prepack for return and disposal on Soyuz 718
+Vestibule Outfitting Kit (VOK) hardware stowage
+СОЖ Maintenance
+EPO – Video Recording
+PCS Laptop Relocation
+PCS Laptop Relocation
+INTERACTION-2. Experiment Ops
+Hardware prepack for return or disposal on Soyuz 718
+EPO – Video Recording
+RWS – Hardware Setup
+Robotic Work Station (RWS) – Display and Control Panel (DCP) Checkout
+On-orbit Hearing Assessment using EARQ
+EPO Hardware Stow
+IMS Delta File Prep
+SAMS – Screen Cleaning
+Crew Departure Prep
+BIOME – Perspiration Collection Setup
+IMMUNO. Saliva Sample (Session 2) / r/g 1457
+БД-2 Exercise, Day 3
+XF305 – Camcorder Setup
+IMMUNO. Second stress test, questionnaire data entry
+ELF – Samples cartridge setup
+IMMUNO. Final Equipment Stowage
+URISYS Hardware Setup
+BIOME – Perspiration Sampling
+INTERACTION-2. Experiment Ops
+BIOME – Surface Sample Collection
+Water flow through Microbial Removal Filter
+HRF – Sample Insertion into MELFI
+BIOME – Equipment Stowage
+COGNITION – Experiment Ops and Filling Questionnaire
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+PROX/PLS Checkout
+
+ 

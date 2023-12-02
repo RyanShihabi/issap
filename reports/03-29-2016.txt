@@ -1,0 +1,87 @@
+
+Exposed Facility Unit (EFU) Adapter, Global Positioning System (GPS)/Wheel Demo Unit Installation: Peake opened the Japanese Experiment Module (JEM) Air Lock (AL) inner hatch and extended the Slide Table into the JEM Pressurized Module (JPM). Then, with assistance from Williams, he installed the EFU adapter to the Slide Table. The EFU adapter is a new type of facility platform that is used as an interface between JEM EFU and payloads. Up to 2 payloads can be attached to the EFU adapter by Inter-Vehicular Activity (IVA) in the JPM. Peake also installed the GPS/Wheel demo unit to the EFU adapter and retracted the Slide Table from the JPM back to the JEMAL.
+Gecko Gripper Setup and Operations: Williams completed Gecko Gripper Force Gauge setup and data point collection. Live HD Camcorder video was used during the experiment to document crew operations. Williams completed the pull testing for all 5 grippers (2 small, 2 medium, and one large).  Williams noted that the large gripper was very weak and sometimes pulled off the wall prior to any crew-induced force being applied to it.  The payload developer is looking into possible causes for that behavior.  The Gecko Gripper investigation tests a gecko-adhesive gripping device that can stick on command in the harsh environment of space. The technology promises to enable many new capabilities, including robotic crawlers that could walk along spacecraft exteriors; grippers that use a touch-to-stick method to catch and release objects; and sensor mounts that can work on any surface and be reused multiple times.
+Thermolab Instrumentation for Circadian Rhythms: Peake began the first of a three day European Space Agency (ESA) Circadian Rhythms experiment by performing instrumentation with the Thermolab Double sensors, mounting the Thermolab Unit in the belt, connecting and powering on the Thermolab Unit, before beginning a 36 hour continuous measurement. When the measurement was complete, Peake transferred the data and stowed the hardware. The objective of the experiment is to get a better understanding of alterations in circadian rhythms in humans during long-term space flights. Such knowledge will not only provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+Marrow: Williams took breath and ambient air samples after waking for the Canadian Space Agency (CSA) Marrow investigation.  The experiment investigates the effect of microgravity on human bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on the bone marrow and the blood cells that are produced in the marrow. The extent of this effect, and its recovery, are of interest to space research and healthcare providers on Earth.
+Dragon On-Board Training (OBT): In preparation for SpX-8 arrival currently planned for April 10, the USOS crew practiced capturing the vehicle. During the session, the crew practiced a 30 meter (30M) approach, two Capture Point hold runs and 2m runs. 
+Compound Specific Analyzer-Combustion Products (CPA-CP) Maintenance: Kopra completed this routine maintenance to replace the battery packs in all CSA-CPs and zero calibrate all units.
+Sound Level Meter (SLM) Operations: Kopra measured the acoustic environment in the habitable areas of the ISS including the JPM, Node 2, US Lab, Service Module and Functional Cargo Block (FGB), by taking sound level readings. The data was downlinked to the ground for analysis. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+MARROW – Ambient Air Samples
+Morning Inspection. SM ПСС (Caution & Warning Panel) Test
+Calf Volume Measurement / r/g 1787
+HRF Urine Sample Collection [Aborted]
+HRF – Sample Insertion into MELFI
+HRF – Blood Sample Collection (subject)
+HRF – Blood Sample Collection (operator)
+HRF – Centrifuge 1 Configuration
+Verification of anti-virus scan results on Auxiliary Computer System [ВКС] laptops –  Crew handover / r/g 8247
+PFS – File transfer preparation
+VIBROLAB. Monitoring hardware activation / r/g 1790
+HRF – Centrifuge 2 Configuration
+HRF – Sample Insertion into MELFI
+Maintenance of SM АСП-О Hatch Sealing Mechanism And Progress 429 (Aft) Hatch
+EFU Adapter Item Xfer
+OTKLIK. Hardware Monitoring / r/g 1588
+XF305 Camcorder Setup
+HRF – Blood Sample Collection Closeout Ops
+TORU OBT. Tagup with Instructor r/g 1786
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ) Detachable Screens 1, 2, 3
+HRF – Sample Insertion into MELFI
+ESA Weekly Crew Conference
+HRF Closeout Ops
+On-orbit Hearing Assessment using EARQ
+JEMAL – JEM Airlock Slide Table Extension to JPM Side
+Bolt Hole Cleaning on JEM AL Slide Table
+PFS – Conclude File Transfer
+Attaching Passive Capture Mechanism to AirLock Slide Table
+WRS – Recycle Tank Fill from EDV
+EFU – Adapter Installation
+EFU Adapter Installation Closeout
+GPS/Wheel Demo Unit Installation
+СОЖ Maintenance
+Study of veins in lower extremities / r/g 1788
+VIZIR. Running Experiment Ops aided with Photo Image Coordinate Reference System (СКПФ-У) r/g 1789
+JEM A/L Slide Table Active Mechanism Tether Loop Installation
+JEM Airlock Slide Table Retraction into JEM A/L from JPM
+Initiation of Battery Stowage Assembly (BSA) Operations
+PAO Hardware Setup
+HRF Urine Sample Collection
+PAO Event
+HRF – Sample Insertion into MELFI
+Onboard Training (OBT) – Dragon Rendezvous and Docking Conference
+Progress 429 (Aft) Activation, Air Duct Removal / Deactivation/Activation
+Sony HVR-Z7ECamcorder Setup in SM (for video of SM Aft – Progress interface)
+Onboard Training (OBT) – Dragon Rendezvous Procedures Review
+Handover. clamp removal, hatch closure, leak check
+Removal of Internal Transfer System (ССВП) Quick-Release Screw Clamps and Video Recording of SM Aft –Progress 429 Interface / Deactivation/Activation
+VIBROLAB. Copy and Downlink Data / r/g 1790
+SLM data transfer
+SM Aft – Progress Hatch Closure / Deactivation/Activation
+Cleaning ventilation screens on FGB interior panels (panels 201, 301, 401) / FGB System Operations
+On MCC Go ПрК-СУ and Progress- СУ hatch leak check / Deactivation/Activation
+OBT – Dragon Robotics Review
+GECKO – Gripper Setup and Data Collection
+IMS Delta File Prep
+MPEG2 Video Downlink of Docking Assembly [СтА] I/F from SM via Ku-band
+HRF – Equipment stowage after sample collection
+Crew time for ISS adaptation and orientation
+ISS HAM – RADIO Deactivation
+On-orbit Hearing Assessment using EARQ
+SLM data transfer
+Scheduled Maintenance of Compound Specific Analyzer- Combustion Products (CSA-CP)
+Crew time for ISS adaptation and orientation
+Search for PFS Face Mask Kit
+Thermolab – Instrumentation Ops for Circadian Rhythms
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Elektron activation
+

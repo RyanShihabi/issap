@@ -1,0 +1,82 @@
+
+50 Soyuz (50S) Launch/Dock: 50S launched from the Baikonur Cosmodrome today at 2:13AM CDT with Fyodor Yurchikhin and Jack Fischer aboard and docked in the automated mode to the Mini Research Module (MRM)-2 at 8:24AM CDT.  Following hatch opening at 10:05AM CDT, all crew members participated in a crew safety briefing to review emergency actions and roles and responsibilities in the event of a depressurization, fire or toxic release. With the arrival of these crewmembers the ISS is in 5-crew operations. 
+Electromagnetic Levitation (EML) Sample Coupling Electronic (SCE) Changeout: The crew swapped SCE Chambers in the Experiment Module of the EML today.  The SCE measures electrical resistivity of samples inside the EML which contains 4 inserts for Electromagnetic Levitation samples. The experiment samples are installed in a dedicated Sample Chamber that is attached to EML and will be replaced by new Sample Chambers for new experiment batches.
+Microgravity Experiment Research Locker / INcubator (MERLIN) 2 Health and Status Troubleshooting:  The crew performed troubleshooting steps to recover Health and Status data which terminated on March 30, 2017. The crew then attempted to reboot the computer but the unit failed to reboot and is no longer cooling. A replacement MERLIN will arrive on OA-7.
+Orbital 7 (OA-7) Arrival Preparations: In preparation for this Saturday’s OA-7 arrival, the crew deployed and performed a checkout of the Centerline Berthing Camera System (CBCS) on the Node 1 Nadir hatch. Video from the CBCS is used to aid Flight Controllers during Visiting Vehicle mating operations. 
+Urine Processing Assembly (UPA) Status: Overnight, the UPA experienced a fault due to apparent belt slippage in the DA. This signature has been seen on previous DAs, however it is the first occurrence since installing this ORU on April 13th. Ground teams are discussing the signature and forward plan for restarting the UPA.
+Solar Array Wing (SAW) 3B Hinge Tear: During a review of imagery taken during Tuesday’s routine solar array inspection, ground teams identified a ~6-7 inch “tear” on one of the hinges of the 3B solar array blanket. The damage was reviewed prior to 50S docking and it was determined that, given the extent of the damage, there was no concern of propagation of that damage based on the expected loading conditions for the event. Followup imagery will be requested to assess the level of damage incurred and determine whether any additional actions will be required.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Reminder 1 Fluid Shifts Dilution Measures
+Reminder ESA Nutritional Assessment
+IMS Delta file prep
+Centerline Berthing Camera System (CBCS) Installation and Checkout
+Gather Vestibule Outfitting Kit (VOK)
+Preparation of Reports for Roscosmos Web Site and Social Media
+URAGAN. Observation and photography
+EKON-M. Observations and photography
+Work per Soyuz735 documentation
+USOS Window Shutter Close
+Uninstallation of EML Sample Chamber
+Familiarization with procedure on video reporting Opening Transfer Hatches [ОПЛ] from МRМ2 and ISS-51 Arrival
+Installation of EML Sample Chamber
+Soyuz 733 gas analyzer activation
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Leak Check
+ESA Public Affairs Office (PAO) Event Preparation
+Close window covers #6,8,9,12,13,14
+Payload Stowage Consolidate
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+MPEG-2 via Ku-band loop test (TV-info and mpeg2 multicast streaming control ON/OFF)
+Comm. config prior to Soyuz735 docking to МRМ2. Comm. check with Soyuz 735 on RSA2-S/G2 loop
+Preparation to Soyuz 50S docking
+Crew Medical Officer (CMO) Proficiency Training
+Monitoring Soyuz 735 rendezvous with ISS (МRМ2)
+On MCC Go mpeg2 multicast recording activation
+Monitoring Soyuz 735 rendezvous with ISS (МRМ2)
+MERLIN 2 Health and Status Troubleshoot
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+RFID Power On
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace
+On MCC Go Switch DC-Soyuz IMV in МRМ2 to ELECTR CONTROL position
+Completion of application ops, mpeg2 multicast video stream recording downlink via ОСА
+On MCC Go Docking interface leak check. Start drying 1st suit
+Post-Soyuz 735 docking comm. config
+Fast Neutron Spectrometer Relocate from Node 1 to Node 2
+Hardware setup in SM for video reporting ISS-51 Arrival from SМ
+Hardware setup in МRМ2 for Opening Transfer Hatches [ОПЛ] from МRМ2
+VEG-03 Plant Photo
+Soyuz – МRМ2 transfer hatch opening, Video reporting ISS-51 Arrival
+Transfer spacesuit 2 to Soyuz 733 for drying
+Drying 2nd spacesuit in Soyuz 733 – start
+Post-Soyuz docking safety brief
+Handover of Increment 51 Crew
+Completion of application ops, Camcorder and video control deactivation
+Finish drying 1st suit
+High Definition Video Camera Assembly 1 Activation with Hand-Held Microphone Set-up
+Set up the 1st pair of gloves for drying
+Soyuz 735 deactivation (without ГА deactivation)
+Montreal PAO Event iPad Configuration
+Comm. reconfig to nominal
+Finish drying the 1st pair of gloves
+Soyuz 735 deactivation (without ГА deactivation)
+High Definition Video Camera Assembly 1 Deactivation with Hand-Held Microphone
+ISS HAM Radio Power Up
+Health Maintenance System (HMS) – ESA Nutritional Assessment
+Soyuz 735 transfer ops with IMS update
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+2nd spacesuit drying completion,  2nd pair of gloves drying starts in  Soyuz 733
+USOS Window Shutter Close
+
+Completed Task List Items
+
+Centerline Berthing Camera System (CBCS) Installation and Checkout
+Gather Vestibule Outfitting Kit (VOK) 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+ISS configuration commanding in support of 50S Rendezvous and Docking
+

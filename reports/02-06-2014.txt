@@ -1,0 +1,83 @@
+
+Medaka Osteoclast 2:  Flight Engineer (FE)-6 Wakata activated the Multi-Purpose Small Payload Rack (MSPR) Hub unit and installed the Medaka Chamber in the fluorescent microscope for observation of a Medaka sample over the next seven days.
+Preparation for Cube Satellite (CubeSat) Deploys:  Last Friday, January 31st, Wakata experienced an issue installing the NanoRacks CubeSat Deployer Electronics Box onto the Multi-Purpose Experiment Platform (MPEP).  The issue was a result of cross threaded bolts and possibly fasteners. Today, he successfully installed the electronics box in an alternate location on the MPEP.  NanoRacks CubeSats are delivered to the ISS already integrated within NanoRacks CubeSat Deployers (NRCSDs).  A crewmember will operate the JEM Remote Manipulating System (JRMS) to grapple and position the NRCSDs for deployment. The CubeSats are then deployed by commands received from JAXA ground controllers.
+Ocular Health (OH) Fundoscope Examination:  As part of Wakata’s Flight Day 90 OH session, he applied drops to his eyes to dilate them.  FE-3 Hopkins then conducted a Fundoscope eye examination of Wakata with remote guidance from ground experts.
+Food Warmer Current Limit Change: Ground controllers updated the over current trip limit for the Express Rack 8 power feed to Food Warmer (S/N 1001) from 10 Amps to 15 Amps.  The update was expected to help in preventing over current trips.  However, the Food Warmer tripped again this afternoon after the limit was modified.  Ground teams will continue to develop troubleshooting plans.  Meanwhile, the crew has been instructed to use an alternate degraded Food Warmer in the Lab.
+Node 3 Carbon Dioxide Removal Assembly (CDRA) Troubleshooting: Ground teams have identified an upward trend in the delta pressure across the Node 3 CDRA beds, since they were installed March, 2013.  Also, a cabin air leak into the CDRA is one of the likely causes of water in the Sabatier system.   Today, FE-3 Hopkins performed a troubleshooting activity on the Node 3 CDRA to address both issues. The leak test did not conclusively indicate a leak, but he replaced o-rings on two connectors and tightened two other connectors.  The activity isolated the CDRA bed flow obstruction to the rear adsorbent canister.  It is possible to clean a screen internal to the rear bed in order to clear the blockage. Teams are evaluating the best time for the cleaning activity. The Node 3 CDRA was subsequently reactivated.
+Today’s Planned Tasks
+
+HRF Saliva Sample Collection [Complete]
+REACTION – Self-reaction test [Complete]
+HRF – MELFI Sample Insertion  [Complete]
+N3 CDRA Repair  [Complete]
+Columbus Coolant Fluid Servicer (CCFS) Unit Installation on COL WPA2 and Commissioning [Complete]
+FSL  Tool Gathering [Complete]
+FASES. Pin Verification [Complete]
+ТКГ 422 and DC1 Interface Leak Check  [Complete]
+Node 1 Bacteria Filter Remove and Replace [Complete]
+Switching Elektron-VM to 32A mode [Complete]
+BRI Log Dump from RSS1  [Complete]
+СОЖ Maintenance [Complete]
+DC-СУ Transfer Hatch Opening  [Complete]
+ТКГ-СУ (DC1) Hatch Opening [Complete]  
+JEM Airlock Slide Table extension to JPM side Part 2 [Complete]
+NanoRacks Cubesat Deployer Electornics Box Installation on the MPEP  [Complete]
+ТКГ 422 (DC1) Air Sampling using АК-1М sampler  [Complete]
+FASES. Pin Verification [Complete]
+ТКГ 422 (DC1) deactivation, air duct installation  [Complete]
+Photo of a scuff mark left by the Active Docking Mechanism probe on the DC1 Passive Mechanism Receiving Cone  [Complete]
+File Prep and Downlink of photo imagery data of the Docking Cone internal surface  via ОСА  [Complete]
+Removal of ТКГ 422 docking mechanism and installation  of two handles on the front of the hatch door  [Complete]
+FASES. Pin Verification [Complete]
+HAM Radio Power Up [Complete]
+JEM Airlock Slide Table Retraction Part 2 [Complete]
+FASES. Pin Verification  [Complete]
+Medaka Osteoclast2  Multi purpose Small Payload Rack (MSPR) Component Activation  [Complete]
+Food Warmer Troubleshooting [Complete]
+Optical Coherence Tomography (OCT) – Test Setup  [Complete]
+WRM – Condensate Pumping Initiation  [Complete]
+OCT Exam [Complete]
+ТКГ 422 (DC1) Early Unstow, High Priority, and US Cargo Item Transfers and IMS Ops  [Complete]
+Bringing ODF up to date using ТКГ 422 delivered files  [Complete]
+WRM – Terminate Condensate Pumping  [Complete]
+Optical Coherence Tomography (OCT) – Equipment Stowage  [Complete]
+MERLIN Desiccant Kit Replace  [Complete]
+PAO Hardware Setup  [Complete]
+Fundoscope – Setup   [Complete]
+Crew Prep for PAO [Complete]
+AQUARIUM. Transfer from ТКГ  [Complete]  
+AQUARIUM. Kit Handover Photography  [Complete]
+PAO Event  [Complete]
+Handover of Early Unstow MEDAKA P/L delivered on ТГК 422  [Complete]
+BIORISK.  Biorisk-KM Transfer [Complete]
+Medaka Osteoclast2 prep for experiment ops  [Complete]
+REGENERATSIYA-1. Hardware Transfer  [Complete]
+CASKAD. Bioreactor Transfer from ТКГ  [Complete]
+BIORISK.  Transfer and Setup in SM  [Complete]
+REGENERATSIYA-1. Payload Setup and Photography at Deployment Location  [Complete]
+CASKAD. Bioreactor Setup in Thermostat at +4 deg C  [Complete]
+IMS Update  [Complete]
+Ocular Health (OH) – prep [Complete]
+ASEPTIC. Hardware Transfer from ТКГ to MRM1  [Complete]
+CASCADE Photography  [Complete]
+OH-FUNDOSCOPE – Troubleshooting  [Complete]
+Fundoscope – Ocular Health Exam  [Complete]
+FSL Prep for FSL Activation  [Complete]
+Ocular Health (OH) – Hardware Stowage  [Complete]
+REACTION – Self-reaction test  [Complete]
+
+Task List
+
+ARED Cylinder Evac
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+National Geographic B-roll part 4  [In Work]
+Story Time ISS Read
+Dragon Prepack 
+
+Ground
+
+Nominal Commanding  [Complete]
+

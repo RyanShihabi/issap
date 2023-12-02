@@ -1,0 +1,79 @@
+
+USOS Extravehicular Activity (EVA) #24: Flight Engineer (FE)-5 Mastracchio and FE-3 Hopkins successfully completed a 5 hour and 28 minute EVA.  The crew was able to remove the degraded pump module, install the PM jumper and stow the degraded PM on the Payload ORU Accommodation (POA).  FE-6 Wakata provided  Space Station Remote Manipulator System (SSRMS) support during the EVA. 
+Oxygen Generation Assembly (OGA) Status: Overnight, Flight Controllers performed OGA troubleshooting and were successful in restarting the system. Ground Teams will continue their investigation into the cause of Thursday nights fast shutdown. 
+Today’s Planned Tasks
+
+Camera checkout prior to EVA  [Complete]
+Emergency Equipment Stage [Complete]
+Powerdown the CUCU for US EVA [Complete]
+MiniCam Setup in Airlock [Complete]
+EVA In-Suit Light Exercise (ISLE) Preparation [Complete]
+Comm configuration for US EVA from Airlock  [Complete]
+Weekly Housekeeping  [Complete]
+SM Ventilation Subsystem Preventive Maintenance, Group E [Complete]
+FGB ЦВ2 Fan Cleaning  [Complete]
+Inspection of Air Conditioner  [Complete]
+Cleaning Auxiliary Computer System (ВКС) Laptops  [Complete]
+EMU Prep for EVA [Complete]
+Prebreathe in EMU  [Complete]
+Crew Lock Depress [Complete]
+Post Depress and A/L Egress [Complete]
+SSRMS Support for EVA Operations [Complete]
+Crew Lock Egress [Complete]
+Failed Pump Module Prep  [Complete]
+SSRMS Setup [Complete]
+QD Demate/PM Jumper Install [Complete]
+SSRMS Ingress [Complete]
+СОЖ Maintenance  [Complete]
+Prep Failed Pump Module for Removal [Complete]
+Spare Pump Module Prep [Deferred]
+Egress SSRMS [Complete]
+Crew Lock Ingress [Complete]
+USOS Window Shutter Close [Complete]
+EVA Glove Photo Setup [Complete]
+Crew Lock Pre-Repress [Complete]
+Crew Lock Repress [Complete]
+Post-EVA Activities [Complete]
+Photo TV Extra Vehicular Activity (EVA) Camera Turnaround [Complete]
+Return to nominal comm configuration after USOS EVA  [Complete]
+D2XS Battery Charge [Complete]
+Close application on SSCs used in LAB for additional EVA views [Complete] 
+
+Task List
+
+ARED Cylinder Evacuation
+IMS Update
+Removal of 2 Solid Fuel Oxygen Generators (SFOF) from panel 429  [Complete]
+Replace KTO
+ЕДВ-У R&R
+CWCI Degas
+Roscosmos Report
+SEINER. World Ocean Observation
+ECON-M. Observations and Photography
+Cosmo Shoot Troubleshoot
+Automated External Defibrillator (AED) Inspection
+Oxygen Generation System (OGS) Jumper Build and Routing
+ARED Bolt Tighten
+BCATC1
+COL D1 FD2 MSR
+DOS3D PDP Check
+IFM stowage Locate
+JAXA Report
+Journals Nominal Entry
+JEM WIS RSU B4 S/N 1001 Sensor  Replacement
+Kubik 6 Belt Search
+JPM1OF2 Lamp Housing Assembly (LHA) Replacement
+National Engr Week Message
+P/TV Trash
+PPS Wipe
+Pre-gather COL A/L
+Pre-gather Empty CTBs
+Recycle Tank Drain
+SM PCS HD Swap Imaging
+WINEARTH HISD Photos
+
+Ground
+
+Nominal Commanding
+SSRMS Ops  [Complete]
+

@@ -1,0 +1,74 @@
+
+Passive Thermal Testbed:  The crew removed the Electro-Wetting Drawer and replaced it with the Heat Pipe Drawer for the Passive Thermal Testbed investigation. The PTT demonstrates the in-space performance of three advanced thermal management technologies, an important step toward improving these technologies for use on future space exploration missions. The investigation leverages the fluid cooling capabilities of another ISS experiment, the Phase Change Heat eXchanger (PCHX).  It includes a suite of advanced heat pipe based technology devices: (1) a new hybrid wick, warm biased integrated reservoir, variable conductance heat pipe that can passively adjust to changing thermal conditions, allowing efficient energy transport in warm conditions and power conservation in cold conditions; (2) a high conductivity plate for heat acquisition and heat sharing; and (3) an early concept electro-wetting heat pipe that has the potential to increase heat transport by orders of magnitude over existing heat pipes. 
+Cardiac Stem Cells:  The crew set up Life Science hardware in the Microgravity Science Glovebox (MSG) to support Cardiac Stem Cell operations to be conducted after arrival of samples and media on the SpaceX-11 vehicle.  Cardiac Stem Cells investigates how microgravity affects stem cells and the factors that govern stem cell activity, including physical and molecular changes.  Spaceflight is known to affect cardiac function and structure, but the biological basis for this is not clearly understood. This investigation helps clarify the role of stem cells in cardiac biology and tissue regeneration. In addition, this research could support confirmation of the hypothesis that microgravity accelerates the aging process.
+NanoRacks Module-55:  Following completion of all sample runs for the investigation, the crew removed and stowed NanoRacks Module-55 hardware from the front of NanoRacks Platform-1 in the Japanese Experiment Module (JEM).  The NanoRacks Module-55 investigation supports research into why bacteria are more virulent in space and grow more rapidly there.  It focuses on the bacterial lag phase, the period prior to the beginning of exponential bacterial growth, which is much shorter in microgravity than it is on Earth.  The experiment uses a centrifuge to simulate gravity, allowing a comparison of microgravity and simulated-gravity Escherichia coli (E. coli) cultures to determine whether microgravity itself causes changes in bacterial growth. 
+Bigelow Expandable Activity Module (BEAM):  The crew ingressed the BEAM and installed a Radiation Environment Monitor (REM) shield onto a REM sensor.  This shield is a 3.3 mm thick component produced by the 3D printer on the ISS.  BEAM is an experimental expandable module attached to the ISS.  Expandable modules weigh less and take up less room on a rocket than a traditional module, while allowing additional space for living and working. They provide protection from solar and cosmic radiation, space debris, and other contaminants. Crews traveling to the moon, Mars, asteroids, or other destinations could possibly use them as habitable structures. 
+Fine Motor Skills: The crew completed a series of interactive tasks during a FMS session which studies how the fine motor skills are effected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of the investigation is to determine how fine motor performance in microgravity trends/varies over the duration of a six-month and year-long space mission; how fine motor performance on orbit compare with that of a closely matched participant on Earth; and how performance trends/varies before and after gravitational transitions, including periods of early flight adaptation and very early/near immediate post-flight periods. 
+Dose Tracker:  The crew completed a weekly medication tracking entry in the Dose Tracker application.  Dose Tracker documents the medication usage of crewmembers before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The investigation is expected to provide anecdotal evidence of medication effectiveness during flight and any unusual side effects experienced. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics or pharmacodynamics is occurring during missions.
+On-Board Training (OBT) Robotics On-Board Trainer (RoBOT): SpX-11 is scheduled to launch Thursday, June 1 and berth to the ISS on June 4.  In preparation for capture and berthing, the crew performed a session of this training during which they completed 3 capture point hold runs to practice free drift timing, malfunction response and nominal rate approaches. 
+Emergency Roles & Responsibilities Review: In preparation for departure of the 49S crew this Friday, the 50S crew reviewed individual duties during an emergency response. Topics covered included crew accountability, escape vehicle readiness, ISS Commander responsibilities and communication and coordination with the various Control Centers.
+Crew Quarters (CQ) Cleaning: In preparation for his departure from the ISS this Friday, FE-5 cleaned his CQ including intake and exhaust ducts, fans and airflow sensors. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Preparation of Personal Items for Return
+IMS Update
+ZBook Client Swap (SSC14 – NOD2 CQ)
+ZBook Client Swap (SSC20 – NOD2 CQ)
+Test Video Recording for RT Channel
+Preparation of Reports for Roscosmos Web Site and Social Media
+ECON-M. Observation and Photography
+HRF Generic Sample MELFI Retrieval Insertion Operations
+Functional Immune Saliva Collection Dry Book – Subject
+SSC 18 power off
+Fine Motor Skills Experiment Test – Subject
+Dose Tracker Data Entry Subject
+Soyuz 733 Stowage for Return
+Emergency Roles and Responsibilities Review
+Phase Change HX Circuit Breaker OFF
+Manufacturing Device Print Removal, Clean and Stow
+NanoRacks Module-55 Stow
+Meteor Hard Drive Swap out
+ISS HAM Service Module Pass
+Combustion Integrated Rack Alignment Guide Removal
+Photo/TV Camcorder Setup Verification
+Electro-Wetting Drawer Locker Remove
+Heat Pipe Drawer Install 1
+Cardiac Stem Cells MSG Life Science Hardware Setup
+Sanitary & Hygiene Status Monitoring
+In Flight Maintenance (IFM) Crew Quarters (CQ) Deck Cleaning
+Photo/TV N3/BEAM Camcorder Setup
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Unstow
+ARED Platform Partial Fold
+Bigelow Expandable Activity Module (BEAM) Ingress
+Environmental Health System (EHS) – Radiation Area Monitors (RAM) Retrieve
+Multi-purpose Small Payload Rack (MSPR) /Group Combustion Module (GCM) Component Deactivation
+Swap Station Support Computers (SSCs) 12 & 17 for ROBoT
+Environmental Health System (EHS) – Radiation Area Monitors (RAM) Retrieval
+MERLIN 3 Ice Brick Insert
+BEAM REM Shield 2 Install
+Electronic Nose. Experiment Session
+BEAM Cleanup and Egress
+CONTROL. Switching Indicator-ISS P/L Measuring Mode. Photography
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Heat Pipe Drawer Install 2
+ARED Platform Unfold Back to Nominal Position
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Bigelow Expandable Activity Module (BEAM) Node 3 Aft Stow
+ESA Active Dosimeter Deallocate and Final Stow
+Microbial Sample Collection
+On-board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT) Session 2
+Robotic Workstation (RWS) High Definition (HD) Monitor Deactivation
+
+Completed Task List Items
+
+Veggie 03 Pillow Watering and Photo
+In Flight Maintenance (IFM) External MDM Cover Swap
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Emergency Roles & Responsibilities Review
+RoBOT Training Support
+BEAM Ops Support
+

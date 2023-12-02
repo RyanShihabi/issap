@@ -1,0 +1,116 @@
+
+Airway Monitoring: The crew performed the Airway Monitoring US Airlock Session consisting of two different protocols, which are performed at both ambient, and reduced pressure (10.2 psi or 700 mbar) in the US airlock. These protocols are the low Nitric Oxide (NO) protocol which determines how much NO is exhaled with the respiration, and the high NO protocol which determines how much NO is diffused into the blood. Although some issues may have been experienced with the low NO measurement system, useful science objectives were still able to be obtained. The Airway Monitoring investigation aims to determine in detail the pulmonary nitric oxide turnover in weightlessness and in combined weightless, hypobaric and hypoxic environments.  It also determines the lung diffusion capacity for nitric oxide with dust particles present in the ISS atmosphere, and studies the occurrence and indicators of airway inflammation in crewmembers. This will help to identify health impacts and support maintenance of crewmember well-being on future human spaceflight missions, such as to the Moon and Mars, where crewmembers will have to be more self-sufficient in identifying and avoiding such conditions.
+Cerebral Autoregulation: Using the Cardiolab Portable Doppler and European Physiology Module Facility Continuous Blood Pressure Device, the crew performed the data measurements for the JAXA Cerebral Autoregulation experiment.  As the body’s most important organ, the brain needs a strong and reliable blood supply, so the brain is capable of self-regulating blood flow even when the heart and blood vessels cannot maintain an ideal blood pressure. The Cerebral Autoregulation investigation tests whether this self-regulation improves in the microgravity environment of space.
+Sally Ride Earth Knowledge Acquired by Middle Schools (EarthKAM) mission 66 lens change:  The crew exchanged the 50mm camera lens for an 85mm lens in support of the continuing EarthKAM experiment.  As of this report, a total of 218 schools representing 24,065 students from 30 countries have signed up to request images. 12,668 image requests have been submitted, and 1,968 images have been downlinked.  EarthKAM allows thousands of students to photograph and examine Earth from a space crew’s perspective. Using the Internet, the students control a special digital camera mounted on-board the ISS. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The EarthKAM team then posts these photographs on the Internet for viewing by the public and participating classrooms around the world.
+Mobile Servicing System (MSS) Operations: Yesterday afternoon, Robotics Ground Controllers powered up the MSS and then configured the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) to start the final stages of the 4A battery cleanup. The team removed the NiH2 battery from the External Pallet (EP) and transferred it to the 4A Integrated Electronics Assembly (IEA). They then inserted it into the slot freed up by US EVA 54.  Upon completion of installation, they moved back to the EP and transferred the NiH2 battery from the Enhanced ORU Temporary Platform (EOTP) to the empty slot on the EP. Once completed, the team began the Robotics Refueling Mission 3 (RRM3) procedures and stopped in a configuration that protects the MSS from today’s controlled methane discharge from RRM3.
+Robotics Refueling Mission (RMM)3: Following the repowering of RRM3 after the EVA on Monday, a trip of the 120V Ops power to RRM3 occurred while the source cryo cooler was operating. Troubleshooting confirmed and isolated the trip to the cryo cooler electronics. Without thermal control from the RRM-3 cryo coolers, venting of 19 kg of on-board methane is not preventable. Pressure and temperature trends were continually monitored throughout the week and the team prepared for a burst disc failure case. It was determined that a forced failure of the burst disc would be better controlled than allowing the system to reach thermal limits on its own. Early this morning the team activated the heaters on the cryo cooler to force the pressure to rise to a level that would cause the burst disc to burst and the venting of methane to occur. ISS systems were in an analyzed configuration to support the methane venting. Dynamic venting began at 7:42 AM CT and lasted approximately 20 seconds. Currently, RRM3 pressure and temperature sensors indicate remaining methane in the source dewar is in a solid state and actively sublimating. Ice buildup was noted on the outside of the payload and has since detached.  No additional ice accumulation is expected. Sublimation of remaining methane is expected to continue for several hours. ISS was returned to nominal configuration and there are no further concerns. 
+Completed Task List Activities:
+
+Spare toolbox drawer 2 reconfig
+N2 PCS hard drive changeout
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Airway Monitoring support
+SPDM stow
+
+Friday, 4/12: Crew holiday for Cosmonautics Day
+Payloads:
+
+
+Repository
+
+Systems:
+
+Housekeeping
+
+Saturday, 4/13: Crew off duty
+Sunday, 4/14: Crew off duty 
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic Urine Collection Male
+Biochemical Urine Test
+HRF Generic Sample MELFI Insertion Operations
+Biochemical Urine Test
+HRF Generic HRF Centrifuge Frozen Blood Collection 25 Minutes Subject
+HRF Generic HRF Centrifuge Frozen Blood Collection Operator
+URISYS Hardware Stowage
+SCENARIY. Observation and photography using Photo Equipment
+HRF Generic HRF Centrifuge Frozen Blood Collection Configuration
+AIRMON Power On
+Regenerative Environmental Control and Life Support System (ECLSS) Urine Processor Assembly (UPA) Brine Filter Changeout
+HRF Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+AIRMON preparation and First Low NO measurement
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Japan Aerospace eXploration Agency Sample MELFI Retrieval and Insertion
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+HRF Generic Sample MELFI Insertion
+ISS Experience Node 1 Setup
+Team Task Switching Experiment Survey
+VOZDUKH Atmosphere Revitalization Subsystem [СОА] Mode Change
+XF305 Camcorder Setup
+Cerebral Autoregulation Data Measurement
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Part 2
+AIRMON Calibrations, Low NO and High NO measurements
+Inventory Management System (IMS) conference
+BIOCARD. Operator Assistance During the Experiment and Photography
+BIOCARD. Experiment Session
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Team Task Switching Experiment Survey
+AIRMON High NO measurement
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+CONSTANTA-2. Cassette removal from ТБУ-В and setup on panel for 1-hour warmup
+Team Task Switching Experiment Survey
+Cerebral Autoregulation Closeout
+LIOH and PFA Setup
+ISS Experience Record Conclude
+EarthKAM Node 1 85MM Lens Change
+Inspection and Cleaning of Laptops RS2, RS1
+CONSTANTA-2. Preparation and Execution 2
+Tightening QD Screw Clamps on SM Aft-Progress 440 Interface
+Fluids Integrated Rack Rack Doors Open
+On MCC GO RS3 Laptop Inspection and Cleaning
+FIR LMM Big Picture Word Review
+LMM Biophysics-6 Configuration
+Preparations for and depressurization
+RIYASKA. Photography of plant cultivation chambers
+Fluids Integrated Rack Rack Doors Close
+ISS HAM Service Module Pass
+AIRMON Low NO measurement at low pressure
+Crew Waiting Time
+ISS Experience Recording Preparation
+ISS Experience Astronaut Log Recording
+Maintenance of a Separation System (УС)
+Combustion Integrated Rack (CIR) Rack Doors Opening
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+AIRMON Low & High measurements at reduced pressure
+Combustion Integrated Rack Manifold #2 Bottle Replacement
+HRF Generic Urine Collection Male
+ISS Experience Hardware Relocate
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+HRF Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+Combustion Integrated Rack (CIR) Manifold 4 Bottle Swap
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+AIRMON High NO measurement at reduced pressure
+HRF Generic Urine Collection Male
+Combustion Integrated Rack (CIR). GC Bottle Replacement
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+Airlock repressurization
+Combustion Integrated Rack (CIR) Rack Doors Closure
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+Verification of ИП-1 Flow Sensor Position
+HRF Generic Urine Collection Male
+HRF Generic Sample MELFI Retrieval And Insertion Operations
+Station Support Computer (SSC) System Vent Cleaning
+AIRMON Power Off
+Solidification Using Baffles in Sealed Ampoules Sample Exchange
+ABOUT GAGARIN FROM SPACE. Hardware Setup And Activation in SSTV Mode
+VOZDUKH Atmosphere Revitalization Subsystem [СОА] Mode Change
+ISS Experience Hardware Stow
+
+ 

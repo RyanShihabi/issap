@@ -1,0 +1,72 @@
+
+68P Launch and Dock Delay:  68P was planned for launch at 04:30 AM Central time, but the launch was aborted during final countdown.  Russian teams are looking into the cause of the abort.  The next launch opportunity is Saturday morning at 03:47 AM Central, with docking two days later on Monday morning.
+Multi-Omics Sample Collections: A 52S crewmember collected saliva samples and completed a questionnaire for the Japan Aerospace Exploration Agency (JAXA) Multi-Omics experiment. The samples were placed into the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI). The Multi-omics analysis of human microbial-metabolic cross-talk in the space ecosystem (Multi-Omics) investigation evaluates the impacts of space environment and prebiotics on astronauts’ immune function, by combining the data obtained from the measurements of changes in the gut microbiological composition, metabolites profiles, and the immune system.
+Combustion Integrated Rack (CIR) Maintenance: The crew performed maintenance activities in the CIR by replacing a window and the CIR Interface Resource Ring (IRR) vent filter inside the combustion chamber due to fuel and combustion by-product buildup. The CIR is used to perform combustion experiments in microgravity. The CIR can be reconfigured easily on orbit to accommodate a variety of combustion experiments. It consists of an optics bench, a combustion chamber, a fuel and oxidizer management system, environmental management systems, and interfaces for science diagnostics and experiment specific equipment.
+Combustion Integrated Rack (CIR) Configuration for Advanced Combustion via Microgravity Experiments (ACME): The crew continued to conduct ACME insertion configurations that began yesterday, by disconnecting water umbilicals at CIR Z-Panel to remove water pressure from the rack and then remove the Multi-user Droplet Combustion Apparatus (MDCA) Chamber Insert Assembly (CIA) from the CIR combustion chamber for the final time. The ACME chamber insert for the first set of test points was configured and connected into the CIR combustion chamber.  After the water umbilicals were reconnected to Z-Panel, the crew checked for leaks. The ACME investigation is a set of five independent studies of gaseous flames to be conducted in the CIR. ACME’s primary goal is to improve fuel efficiency and reduce pollutant production in practical combustion on Earth. Its secondary goal is to improve spacecraft fire prevention through innovative research focused on materials flammability. 
+Fine Motor Skills (FMS): A 51S crewmember conducted a Flight Day 75 FMS session executed on a touchscreen tablet, where the subject performed a series of interactive tasks. The investigation studies how fine motor skills are affected by long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. The goal of FMS is to answer how fine motor performance in microgravity trends/varies over the duration of a six-month and year-long space mission; how fine motor performance on orbit compares with that of a closely matched participant on Earth; and how performance trends/varies before and after gravitational transitions, including the periods of early flight adaptation, and very early/near immediate post-flight periods.
+Veg-03 Operations: The crew checked and photo documented the status of the plants in the Veggie facility, and evaluated the plant pillows to determine if additional watering was required. The Veg-03 investigation uses the Veggie plant growth facility to cultivate a type of cabbage, lettuce and mizuna which are harvested on-orbit with samples returned to Earth for testing.  Organisms grow differently in space, from single-celled bacteria to plants and humans. Future long-duration space missions will require crew members to grow their own food, so understanding how plants respond to microgravity is an important step toward that goal. Veg-03 uses the Veggie plant growth facility to cultivate a type of cabbage, lettuce and mizuna which are harvested on-orbit with samples returned to Earth for testing.
+USOS Extra-Vehicular Activity (EVA) #46 Preparations:  Today the crew reconfigured necessary EVA tools and resized an EVA Mobility Unit (EMU) in support of next week’s EVA.  The goals of this EVA include Removal and Replacement (R&R) of the degraded CP13 camera and lubrication of the Latching End Effector (LEE) B.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Multi Omics Saliva Operations
+Multi Omics Saliva sample MELFI Insertion
+Multi Omics Question
+KUBIK Temperature Logger Deinstallation
+KUBIK Temperature Adjustment to 38°C
+ISS Crew and ГОГУ (RSA Flight Control Team) Weekly Conference
+USOS Window Shutter Close
+ISS HAM Radio Power Down
+Extravehicular Activity (EVA) Tool Configuring
+Inventory Management System (IMS) conference
+Treadmill 2 (T2) Exercise Video Equipment Setup
+Fine Motor Skills Experiment Test – Subject
+Vacuum Cleaning ВД1 and ВД2 air ducts in MRM2
+Photography of the БД-2 treadmill belt edge and screen form of Belt tab
+Progress 436 [AO] Cargo Transfers and IMS Ops
+At Home In Space Culture Photo
+СОЖ Maintenance
+ACME Insertion Configuration
+CIR Window Replacement
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Pre-Treat Tank and Dose Pump Remove & Replace
+Monitoring shutter closure on windows 6, 8, 9, 12, 13, 14.
+EML Reprogramming Cable installation
+CIR Vent Filter Replacement
+MPEG2 Multicast Test via Ku-band (Activation/Deactivation of TV data and MPEG2 Multicast controls). Tagup with specialists
+Preparation for Progress 437 Docking
+Fluids Integrated Rack Hardware Gather
+Progress 437 Docking to DC1
+Activation of MPEG2 Multicast TV Monitoring Equipment. Tagup with specialists
+Combustion Integrated Rack Front End Cap Close
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+Activation of mpeg2 multicast video recording mode
+Combustion Integrated Rack Rack Doors Close
+VEG-03 Plant Photo
+Closing Applications and Downlink of MPEG2 Multicast Video via OCA
+Combustion Integrated Rack Hardware Return
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+CHeCS Rack stowage reconfiguration
+BIOPLENKA. Installation of Thermostat ТБУ-В No.05
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+EML Reprogramming Cable removal
+PRODUTSENT. ТБУ-В No.2 Incubator Setup
+Progress 436 [AO] Stowage for Disposal and IMS Ops
+BIOPLENKA. Installation of Cryogem-03
+Extravehicular Mobility Unit (EMU) Resize
+Water Recovery System Waste Water Tank Drain
+Emergency RS ISS VHF-1 Comm Checkout from USOS
+IMS Update
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Flight Director/ISS CREW CONFERENCE
+CONTENT. Experiment Ops 
+
+Completed Task List Activities
+
+VEG-03 Plant Pillow Water
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+68P docking support
+Nominal commanding
+

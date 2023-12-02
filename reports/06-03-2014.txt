@@ -1,0 +1,103 @@
+
+Ocular Health: Commander (CDR) Swanson continued his Flight Day (FD) 60 Ocular Health vision tests. Flight Engineer (FE)-6 Gerst and Swanson took turns using the Optical Coherence Tomography (OCT) to measure each other’s retinal thickness, volume, and retinal nerve fiber layer. Then they each used the fundoscope to obtain images of the retinal surfaces.  The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Binary Colloidal Alloy Test (BCAT)-Low Gravity Phase Kinetics Platform (KP) Sample Installation: FE-5 Wiseman verified the BCAT-KP setup in the JPM and homogenized the BCAT-KP sample before setting up the camera to take automated images. BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties. The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses.
+Extravehicular Mobility Unit (EMU) Potable Water Reservoir (PWR) Sample and Drain/PWR Fill: Wiseman obtained a one liter sample of water from a PWR that was filled with shuttle water and a sample that is needed for EMU 3015 sublimator failure investigation. He then transferred water from the Potable Water Bus to fill 4 PWRs.
+Payload 1 Multiplexer/Demultiplexer (MDM) Status: Early today there was a loss of Payload Health and Status data in the Ku band data stream. Ground controllers reset the Payload 1 MDM High Rate Data Link (HRDL) card several times but did not restore data flow.  They then transitioned the Payload 2 MDM to primary, which restored the Payload Health and Status data. Payload 1 MDM was left powered to allow for data collection. This afternoon, Payload 1 MDM was power cycled, and the MDM was recovered.
+Remote Power Control Module (RPCM) P6-4A RPC 4 Trip Troubleshooting: On May 26, RPCM P6-4A RPC 4 tripped with a true overcurrent.  This RPC powers the Early External Thermal Control System (EETCS) Loop A 4B Pump and Flow Control Subassembly (PFCS).  The 4B PFCS was not running at the time of the trip but was powered on to provide pressure and quantity sensor data for the Photovoltaic Module Thermal Control System (PVTCS) 2B system following the US EVA 20 Loop B reconfiguration in November 2012.  Today the RPC was re-closed but it tripped again immediately with a true overcurrent.  Engineering teams are reviewing data to determine the next troubleshooting actions.
+Today’s Planned Tasks
+
+RSS1,2 reboot / r/g 1009 [Complete]
+Laptop RS1(2) reboot [Complete]
+SM ПСС Test [Complete]
+HRF – sampling and stowage [Complete]
+HRF- sample insertion in MELFI [Complete]
+DPC (S-band) [Complete]
+Physical exercise specialist conference [Complete]
+OH – eye site check (prep) [Complete]
+Daily electrocardiography (end) / r/g 5744 [Complete]
+BCAT- experiment procedure review [Complete]
+BIOME – questionnaire [Complete]
+“Ecosphere” equipment check (МО-21). r/g 5781 [Complete]
+Crew time for adaptation and familiarization with ISS [Complete]
+Stow equipment for disposal on Progress 421(АО), IMS update/ r/g 5685, 5750 [Complete]
+Daily arterial pressure measurement (start)  r/g 5785 [Complete]
+OH – eye site check (subject) [Complete]
+OH – eye site check (CMO) [Complete]
+Diagnostics of КЦП2 second network interface electronic components. r/g 5776  [Complete]
+СОЖ maintenance  [Complete]
+EMU – water sampling and PWR flushing [Complete]
+JRNL- journal entry [Complete]
+Crew time for adaptation and familiarization with ISS [Complete]
+OH – eye site check (subject) [Complete]
+OH – eye site check (CMO) [Complete]
+MOTOKARD. Experiment ops. r/г 5774 [Complete]
+MOTOKARD. Experiment ops assist / r/g 5775 [Complete]
+REMOTE RS LAPTOP setup installation on USOS. r/g 5783 [Complete]
+WRS – PWR fill, part 1 [Complete]
+WRS – PWR fill, part 2 [Complete]
+BIOSIGNAL. Equipment removal from Cryogem-03, placement for stowage and photography.r/g 5778 [Complete]
+WRS – PWR fill, part 3 [Complete]
+WRS – PWR fill termination [Complete]
+BIOSIGNAL. Cryogem-03 freezer teardown / r/g 5779 [Complete]
+Crew time for adaptation and familiarization with ISS [Complete]
+WRS – used cartridge removal [Complete]
+АСП-О SМ  and АСА Progress 421 (АО) hatch cover seal device condition checks prior to Progress 421 undocking / r/g 5782 [Complete]
+BAR. Experiment ops / r/g 5780 [Complete]
+Transfers from Soyuz 713, IMS update / r/g 5735 [Complete]
+Transfers for disposal on Progress 421(АО), IMS update / r/g 5685, 5750 [Complete]
+OH – eye site check (stowage) [Complete]
+Handover [Complete]
+Transfers from Soyuz 713, IMS update / r/g 5685, 5750 [Complete]
+Transfers for disposal on Progress 421(АО), IMS update / r/g 5735  [Complete]
+POSSUM payload photography [Complete]
+Crew time for adaptation and familiarization with ISS [Complete]
+MERLIN payload SW removal [Complete]Fundoscope – eye site research (equipment installation) [Complete]
+Cygnus – PROX check script review [Complete]
+Fundoscope – eye site research (prep) [Complete]
+HRF- hardware installation [Complete]
+SHD-daily headache questionnaire  [Complete]
+Fundoscope – eye site research (subject) [Complete]
+URISIS equipment prep   [Complete]
+Fundoscope – eye site research (СМО) [Complete]
+JRNL- journal entry [Complete]
+SHD-daily headache questionnaire [Complete]
+BCAT- equipment and connectivity checks [Complete]
+Fundoscope –  eye site research (prep) [Complete]
+IMS ops  [Complete]
+Fundoscope – eye site research (СМО) [Complete]
+Fundoscope – eye site research (subject) [Complete]
+BCAT- hardware installation [Complete]
+Fundoscope – eye site research (equipment stow) [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC KTO replace
+WHC EDV-U R&R
+Roscosmos Report
+Uragan photo
+3DA1-Cam-Ops
+BASS ops overview
+BASS single TL ops parts 1,2,3
+BCATC1 sample 8 pre-mix
+CEVIS Isolator MOD
+Cygnus pre-gather
+HMS CDE CDR
+IFM RPCM TL/JMPR gather
+Crew handover
+CFE ICF5 ops parts 1,2,3
+EMU LLB Auto-Init
+EMU LLB SSC Relocate
+EMU LLB SSC Return
+EVA ORU Bag Inspection
+IFM MOOT restow
+NOD2O2 Cleanout [In Work]
+JPM HD assessment
+NOD3 PEPS assessment
+P/TV h/w questions
+RS EVA h/w gather
+
+Ground
+
+Nominal commanding
+

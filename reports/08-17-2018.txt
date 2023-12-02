@@ -1,0 +1,76 @@
+
+SUPVIS-JUSTIN: The crew set up and performed protocol operations for ESA’s SUPVIS-Justin investigation today. SUPVIS-Justin, part of the Meteron program, aims to demonstrate that an astronaut on an orbiting space station can command a robot via a tablet PC to perform complex tasks on a planetary surface. The SUPVIS-Justin experiment includes an extended supervised autonomy concept: the crew gives high-level commands to the robot, which then uses its local intelligence and decision-making capability to execute a task independently, according to pre-programmed algorithms. In this sense, the responsibility of decision-making is shared between the crew and the robot. 
+Manufacturing Device Granular Damping: The crew assembled the hardware for Manufacturing Device Granular Damping this morning. The Granular Damping experiment displays the damping mechanism of granular material, which can be made more effectively in microgravity than on ground. For this demonstration, three-dimensional printed granular shells were produced on-orbit. Small particles (granules) are packed inside a larger shell (damper) that is either spherical or cylindrical. The experiment demonstrates how the different amount of filling material affects the amount of dissipation upon collision, using shells of spherical and cylindrical forms filled with different amounts of granules.  
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) ReSwarm: The crew performed the inaugural run for the SPHERES ReSwarm investigation today. This run will be used to evaluate the six-degrees of freedom (dof) performance of a swarm control algorithm that distinguishes the tasks of formation keeping and governance; provide an initial evaluation of the integration and performance of a more advanced formation controller to adapt formation planning to model uncertainties; and evaluate the robustness of the algorithms for six-dof dynamics, being an evaluation of scalability to a large number of agents easily achievable in a ground setting. Swarms of small spacecraft are expected to become feasible in the near future, creating a new range of capabilities for Earth and space observation missions. The ReSwarm control algorithms are applicable to swarms of small to femto-spacecraft. They scale easily with the formation size and remain applicable to multiple mission scenarios. 
+Barrios Protein Crystal Growth (PCG): Today the crew used the NanoRacks microscope to take photographs of samples on a Barrios PCG microplate that they removed from the Space Automated Bioproduct Laboratory (SABL). The Barrios PCG investigation focuses on the successful transfer and mixing of different solutions into commercial off-the-shelf multiwell plates.   
+Binary Colloidal Alloy Test – Cohesive Sediment (BCAT-CS): The crew checked the camera alignment and focus by viewing the latest BCAT images on laptop and then re-set the intervalometer as needed. The BCAT-CS investigation studies the forces between particles that cluster together by using sediments of quartz and clay particles. Conducting the research in the microgravity environment of the ISS makes it possible to separate the forces acting on the particles over a short range (adhesive forces) versus those acting over a long range (cohesive forces). The quartz/clay system is commonly found in a wide variety of environmental settings (such as rivers, lakes, and oceans) and plays an important role in technological efforts related to deep-sea hydrocarbon drilling and carbon dioxide sequestration.
+Story Time From Space: A crewmember participated in the Story Time from Space project this morning by reading from “If I Were anAstronaut” while being videotaped and photographed. The recording will be downlinked and used for educational purposes. Story Time From Space combines science literacy outreach with simple demonstrations recorded onboard the ISS. Crewmembers read science, technology, engineering and mathematics-related children’s books on orbit, and complete simple science concept experiments. Video and data collected during the demonstrations are downlinked to the ground and posted in a video library with accompanying educational materials. 
+ExtraVehicular Activity (EVA) Battery Charging: The crew configured the lithium-ion battery charger to initiate an Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) charge Autocycle on two new EMU batteries. These batteries are needed to support the upcoming H-II Transfer Vehicle (HTV)-7 Battery R&R EVAs scheduled in September.
+Treadmill 2 (T2): T2 rack experienced a false fire alarm this morning during crew use.  Activity was stopped. Troubleshooting was attempted and resulted in an additional false fire alarm. T2 is currently NO GO for use. Team is investigating the cause.
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Control Box (S/N001) Checkout
+MWA Preparation for Manufacturing Device Operations
+Recycle Tank Drain
+Manufacturing Device Granular Damping Assemble
+Camcorder deinstallation in MRM2
+High Definition Video Camera Assembly 2 Activation in High Definition Mode
+Drying Orlan-MKS No.4 and No.5 Water Feed Line
+Supvis-Justin Setup for Operations
+Story Time Book If I Were an Astronaut Read
+Story Time Historical Photo Documentation
+Haptics Software Update
+Refill of water tank in Orlan-MKS No.4 and No.5
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate
+SUPVIS-JUSTIN Protocol Operation
+Photo/TV EVA GOPRO Card Transfer – RS CREW
+Photo/TV EVA GoPRO Stow
+Drying Orlan-MKS No.4 and No.5, start
+NanoRacks Barrios PCG Sample Removal from SABL
+Surface Tension Containment Data Transfer
+Post-EVA Orlan Debrief With Specialists
+NanoRacks Barrios Protein Crystal Growth Microscope Ops
+Post-EVA Glisser-M cameras Ops.
+Haptics Operations Conclude
+High Definition Video Camera Assembly 2 Switch to SD Mode
+Drying Orlan-MKS No.4 and No.5  (switchover to a backup fan)
+Binary Colloidal Alloy Test – Cohesive Sedimentation Camera Activities
+Wastewater Storage Tank Assembly (WSTA) Fill
+SPHERES Crew Conference
+Battery Charge Deactivation for MetabolicSpace
+Charging of Light Field Camera
+SPHERES Test Session Setup
+Removal of Portable Repress Tank in SM [РО] and stowage in MRM2 (БНП)
+Combustion Integrated Rack FOMA Calibration Valve Open
+SPHERES Reswarm Run
+СОЖ maintenance
+Preparation of HRM Bluetooth Transmitter for Spacetex-2 experiment
+Drying Orlan-MKS No.4, No.5 end
+Orlan No.4 and БСС storage mode operation
+Orlan No.5 Storage Mode Operation
+RESTOW 1.0 CTB and PWD Filter
+Ultrasound 2 HRF Rack 1 Setup And Power On Alternate
+US Extravehicular Activity (EVA) Tools Stow
+Orlan Equipment pre-pack for stowage and disposal after EVA
+Health Maintenance System (HMS) Ultrasound 2 Scan
+ПОВ СО1 outage
+MELFI3 2 Icebrick Insertion
+Ultrasound 2 HRF Rack 1 Stow Alternate
+INTERACTION-2. Experiment Ops
+Sextant Navigation Session 3 Operations [Deferred]
+ISS Food Intake Tracker (ISS FIT)
+SPHERES Test Session Shutdown
+Inventory Management System (IMS) Conference
+
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Routine commanding
+

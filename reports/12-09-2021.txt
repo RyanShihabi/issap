@@ -1,0 +1,36 @@
+
+Payloads:
+Bio-Monitor:  The Garment Data Unit was connected to the Bio-Monitor Controller to transfer the data for downlink. The garment and headband were then doffed and hung out to dry.  Bio-Monitor is a Canadian onboard instrument that serves as a platform for scientific experiments on the ISS. The instrument performs on-orbit monitoring of crew member physiological parameters, with wearable sensors that only minimally interfere with crew member daily activities.
+Flow Boiling Condensation Experiment (FBCE):  The crew configured the Fluids Integrated Rack (FIR) for the second part of FBCE setup operations.  FBCE seeks to validate a model for flow boiling Critical Heat Flux (CHF) and develop an integrated two-phase flow boiling and condensation facility for the ISS. Data from microgravity and the ground are compared to determine the influence of various forces and processes needed for gravity-independent flow boiling and condensation. Results could support development of boilers and heat exchangers that work in both microgravity and partial gravity.
+GLACIER (General Laboratory Active Cryogenic ISS Experiment Refrigerator):  GLACIER-5 was relocated from Basic EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Rack 9B to EXPRESS Rack 1, relabeled as GLACIER-1 and reconfigured for proper comm settings. The crew also swapped out the GLACIER-1 desiccants.  The GLACIER refrigerators are ultra-cold freezers that will store samples at temperatures as low as -160°C (-301°F).
+ISS Ham:  Notre Dame Jogakuin Junior and Senior High School, Kyoto, Japan was contacted by an ISS crewmember using the ISS Ham hardware.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents, and other members of the community in science, technology, engineering, and math by providing a means to communicate between astronauts and the ground HAM radio units.
+Manufacturing Device (MAND):  The fourth of six 0-degree panel prints for materials testing was successfully printed, removed, and stowed.  A crewmember also cleaned the extruder nozzle.  MAND enables the production of components on the ISS for both NASA and commercial objectives.  Parts, entire experiments, and tools can be created on demand utilizing the MAND printer that is installed into an Express Rack locker location.  MAND is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Plant Habitat:  Both Maintenance Work Areas (MWAs) were prepped for future payload use.  The Advanced Plant Habitat (Plant Habitat) is a fully automated facility that is used to conduct plant bioscience research on the ISS.  It occupies the lower half of the EXPRESS Rack and one powered International Subrack Interface Standard (ISIS) drawer, providing a large, enclosed, environmentally controlled chamber.
+Vascular Aging:  A crewmember doffed the Blood Pressure Mobil-O-Graph equipment and connects the unit to the COL Payload Laptop and EPM Virtual Machine in order to download recorded 13-hour Blood Pressure data.  Emerging data point towards linkages among cardiovascular health risk, carotid artery aging, bone metabolism and blood biomarkers, insulin resistance, and radiation. Data indicate that aging-like changes are accelerated in many ISS crew members, particularly with respect to their arteries. As part of the Space Environment Causes Acceleration of Vascular Aging: Roles of Hypogravity, Nutrition, and Radiation (Vascular Aging) investigation, ultrasounds of the arteries, blood samples, oral glucose tolerance, and wearable sensors from ISS crew members are analyzed.
+Systems: 
+Countermeasures System (CMS) Treadmill 2 (T2) 6-Month Maintenance: Today, the ISS crew completed the nominal 6-month maintenance and inspection of T2, which included performing activities such as removing and cleaning closeout panels, inspecting treadmill belt slats and screws, vacuuming inside the rack and around treadmill, cleaning the treadmill filter screen, reinstalling the close-out panels, and configuring for operations. The 6-month maintenance allows the T2 treadmill exercise device to keep operating nominally as well as making note of any wear and tear.
+In-Flight Maintenance (IFM) N21B4A_A Remote Power Controller Module (RPCM) Remove & Replace (R&R): The crew R&Red the failed RPCM in Node 2 Starboard Avionics Rack with nominal powerdowns and safing in place. The powerdowns affected Caution & Warning (C&W) function in the JEM, so the crew used alternative annunciation capabilities until power was restored. This RPCM directly powers other critical loads and was replaced by a pristine spare. After replacement, the crew successfully commanded the Remote Power Controllers (RPCs). With this RPCM powered back on, N2 Moderate Temperature Loop (MTL) Three Way Mix Valve (TWMV) has been powered back on. It has been offline since 2018.
+Roles and Responsibilities Review: The crew reviewed the Emergency Roles and Responsibilities, which detailed the priorities during emergency response including safety of the crew followed by achieving a safe configuration of the ISS. The crew then reviewed procedures, roles, and responsibilities for a Loss of Attitude Control (LoAC) scenario.
+IFM Waste and Hygiene Compartment (WHC) Pre-Treat Tank R&R: As part of nominal preventative maintenance, the crew replaced the WHC Pre-Treat tank. Each tank contains five liters of pre-treat solution, a mix of acid, chromium oxide, and water, and is used for toilet flushing. This is required for nominal WHC operation.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+N2 ITCS MTL Loop Shutdown
+Setting N2 MTL ITCS limits pre-N2-1 MDM recovery
+Node 2-1 MDM Reconfiguration
+JEM Pressurized Module (JPM) Channel A Reactivation
+JEM PDB WS and JEM ATU1 Activation
+Vacuum System Baseline Leak Check
+Mobile Transporter (MT) Pre-Translation Check Out and Survey
+Mobile Transporter (MT) Translation
+Secondary Power Systems Remote Power Controller Firmware Update
+Venting System Deactivation – VEDD closing
+Vacuum System Jumper Offgassing
+Payload Operations Integration Center (POIC) Ground Systems Transition
+Thermal Control System (TCS) Thermal Radiator Rotary Joint (TRRJ) Reposition
+MCC step-up for 6R-MLM FSW, GR4.0, and CUR(006) MCE-B/MSE-B (ISS 055 Mission Support Recon J FSW 17)
+

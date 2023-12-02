@@ -1,0 +1,76 @@
+
+SpX-3 Dragon Departure Preps:  Yesterday during during the crew day off, the SpX team performed a computer reboot to clear some error flags.  Today Swanson checked out the COTS UHF Communication Unit (CUCU) Crew Command Pane (CCP) that will be used for commanding the Dragon vehicle during unberth operations.  Dragon unberth and release is scheduled for Sunday morning.
+Resist Tubule: ISS CDR Swanson retrieved two resist tubule chambers from the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) and injected water into the tubule chambers. Afterwards the chambers were reinserted into MELFI.  Resist Tubule clarifies the mechanisms of gravity resistance. Gravity resistance is a principal gravity response in plants, and plays an important role in the transition of plant ancestors from an aquatic environment to a terrestrial environment (about 450 million years ago), and in the consequent establishment of land plants. This present study clarifies the mechanisms of gravity resistance, in particular the processes from signal transformation and transduction, to response.
+Veg-01:  Swanson conducted a daily check and took a weekly photo of the plants for the Veggie investigation. Swanson watered and thinned the plants as needed so there is only one plant per plant pillow. The Veg-01 hardware validation test investigation utilizes the Veggie facility on ISS. This investigation will assess on-orbit function and performance of the Veggie facility, and focus on the growth and development of ‘Outredgeous’ Lettuce (Lactuca sativa ) seedlings in the spaceflight environment and the effects of the spaceflight environment on composition of microbial flora on the Veggie-grown plants and the Veggie facility.
+Biotube-Magnetophoretically Induced Curvature in Roots (Biotube-MICRO) Remove:  Swanson removed Biotube from Express Rack (ER) 8 and stowed it in the Dragon vehicle for return. BioTube MICRO investigates the potential for magnetic fields to orient plant roots as they grow in microgravity. Plants are not directly sensitive to magnetic fields, but starch grains, called amyloplasts, in plant cells respond to external magnetic fields. Brassica rapa seedlings will be grown in microgravity in the presence of magnets with about 50 times the strength of refrigerator magnets to see whether the orientation of the amyloplasts or other factors induce curvature in roots as they form.
+Science Sample Transfer:  Swanson and FE-2 Artemyev transferred science samples for return on SpaceX-3 from MELFI into Glacier-4. Some of the samples didn’t fit due to packing volume.  A set of samples that have a longer shelf life will remain onboard and will return on a later flight. Swanson transferred the Micro-7 BioCell Habitats from Microgravity Experiment Research Locker Incubator II (MERLIN) into Commercial Generic Bioprocessing Apparatus (CGBA)-5 for return on SpaceX-3. Swanson also removed the APEX-02-2 petri plates from CGBA-6.  Four of the plates will be stowed in MELFI for return on SpaceX-3, while five plates will return ambient.
+Today’s Planned Tasks
+
+SM ПСС (Caution & Warning Panel) Test [Complete]
+Check БПП-4, БПП-7 Fuses in MRM1 [Complete]
+Laptop RS1(2) Reboot [Complete]
+RSS 1, 2 Reboot / r/g 1009[Complete]
+Check position of MRM2 manual Circuit Breakers [АЗС] on DC БВП and status of Fuses on Fuse Boxes БПП-30, БПП-36 [Complete]
+Daily Planning Conference (S-band) [Complete]
+RST – Kit Retrieval from MELFI [Complete]
+RST – Sample prep [Complete]
+URAGAN. [Complete]
+Re-connect Cables on КСК2 from PCE to БКИПН. [Complete]
+MATRYOSHKA-R. Monitoring Lulin-5 readings / r/g 4110 [Complete]
+RST – Tubule Insertion into MELFI [Complete]
+Installation of PCE Onboard Cabling. [Complete]
+SMPL – Sample Transfer Procedure Review [Complete]
+MELF/GLCR4 – Sample Transfer from MELFI [Complete]
+Installation of РСЕ Z0000 in ISS SM. [Complete]
+URAGAN. Test Activation of Photo Spectrum System (ФСС) / r/g 5650 [Complete]
+Connecting Cables to PCE Box. / r/g 5645 [Complete]
+ИП-1 Flow Sensor Position Check [Complete]
+Life On The Station Photo and Video / r/g 5136 [Complete]
+СОЖ Maintenance [Complete]
+Install and Connect ATV Control Panel in SM ISS. [Complete]
+VEG – Daily Plant Check[Complete]
+VEG – Weekly Plants Photo [Complete]
+VEG – Plant Thinning [Complete]
+VEG – Plant Water Refill [Complete]
+SHD – Weekly Questionnaire [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+Mating PCE T/L connectors to БИТС2-12 / r/g 5645 [Complete]
+Video Recording for Channel One / r/g 5649 [Complete]
+MICRO7 – Transfer from MELFI and pre-pack for return on Dragon3 [Complete]
+WRS Water Sample Analysis [Complete]
+CUCU Check [Complete]
+PAO Hardware Setup [Complete]
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+Pre-pack MDM cards for return on Dragon 3 [Complete]
+CGBA Sample Insert/Retrieve [Complete]
+APEX-02 Sample Insertion into MELFI [Complete]
+Biotube-Micro – P/L Retrieval for Transfer [Complete]
+IMS Update
+TOCA Data Recording [Complete]
+VZAIMODEISTVIYE. Experiment Ops / r/g 5391
+Daily Planning Conference (S-band) [Complete]
+
+Task List
+
+Water Processing Assembly (WPA) Packing Verification [Complete]
+ARED Cylinder Evac [Complete]
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Ekon Photo
+CTB 1048 Relocate
+Dragon Temp Logger Find [In work]
+MOOT restow
+No Skid Tap Audit
+NOD1OS2-LHA R&R
+NOD1PD2-LHA R&R
+KTO EDV Audit
+NOD3 PEPS assessment
+P/TV Hardware questions
+
+Ground
+
+Nominal commanding [Complete]
+SSRMS walkoff from PDGF4 to PDGF1[Complete]
+

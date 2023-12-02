@@ -1,0 +1,25 @@
+
+Boeing Orbital Flight Test 2 (Boe-OFT2) Ingress: Docking of the Boeing Crew Space Transportation (CST)-100 Starliner spacecraft was successfully completed yesterday evening, Friday, May 20th, at 7:28 p.m. CT. This morning, the crew opened the hatch at 11:04 a.m. CT. The crew performed initial vehicle leak checks, pressurized the vestibule from ISS, ingressed, and configured Starliner for quiescent operations. Starliner will remain docked to the ISS until Wednesday, May 25th at approximately 1:30 p.m. CT.
+Payloads:
+eXposed Root On-Orbit Test System (XROOTS): The crew performed a water fill and cleaning activity for the XROOTS plant growth hardware. XROOTS procedures were also reviewed. The plant growth phase of the experiment is currently scheduled to begin next week. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media. Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Systems:
+In Flight Maintenance (IFM) Oxygen Generation Assembly (OGA) Spare Pump ORU Flush: As part of preventive maintenance, the crew configured hardware for ground-commanded pre-flush followed by flush setup in preparation for Spare OGA Pump Orbital Replacement Unit (ORU) 10L flush. These activities are in preparation for a flush of the Spare OGA Pump ORU to be performed tomorrow. The OGA produces oxygen via electrolysis using iodinated water from the Waste Processor Assembly (WPA), and the Pump ORU circulates water through the OGA.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+CST-100 VV Processor (RT) Swap
+CST-100 C&W Reconfig
+OGA Spare Pump Sample and Flush
+Medium Temperature Heat Exchanger WOOV Cycling
+Node Forward IMV Deactivation
+IAS IDA Hardline Configuration
+CST-100 Config for Attached Ops
+Node 2 Fwd Stbd IMV Fan Activate
+Node 2 Headset Extension Cable Setup
+C2V2 Video Transmitter Turn On/Off
+Crew Dragon Wakeup for CST Voice Checks
+

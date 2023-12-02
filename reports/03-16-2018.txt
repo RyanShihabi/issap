@@ -1,0 +1,62 @@
+
+Veg-03:  Today the crew watered the Veg-03 plants and harvested leaves from each plant.  The leaves will then be preserved and inserted into cold stowage for later return to the Earth. The remainder of the plants will be left to grow and sprout new leaves. Veg-03 supports the proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long duration space missions will require a fresh food supply grown in space to supplement crew diets.
+Mouse Stress Defense:  Today the crew set up a Glove Box in preparation for transfer of mice for the Mouse Stress Defense investigation after their arrival on the SpaceX-14 Dragon vehicle. Space flight brings an extreme environment with unique stressors. Microgravity provokes cellular mechanical stresses and perturbs cellular signaling, leading to reduction of muscle and bone density. To overcome these stresses, one of the promising strategies is to activate Nrf2, a master regulator of antioxidant pathway. Mouse Stress Defense investigates how Nrf2 contributes to effective prevention of space-originated stresses.
+NanoRacks Rock Candy:  The crew continued the ongoing photo-documentation of each Rock Candy pouch, showing any visible sugar crystal growth in each. This investigation teaches students about the effects of microgravity on crystal formations using nearly identical flight kits flown and operated onboard the ISS. With access to crew member videos and data on the same experiment, students are able compare crystal formations in space to those in their classrooms. The investigation aims to promote science, technology, engineering, and math (STEM) fields to the next generation of students.
+Space Headaches:  The crew completed the weekly questionnaire for the ESA Space Headaches investigation today. This investigation collects information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission. 
+Lighting Effects: Upon waking, a 53S subject completed a daily sleep log entry to track his sleep patterns and wakefulness. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have major implications for people on Earth who use electric lights.
+Extravehicular Mobility Unit (EMU) Suit Maintenance: Following this week’s removal of EMU 3008 and installation of EMUs 3003 and 3010 on the Equipment Lock EMU Don/Doff Assembly, the crew performed routine maintenance on EMU 3003 and 3006 including a loop scrub and EMU water conductivity tests.  These tests are required to ensure proper function of the EMU water subsystem during this month’s US EVA.
+Node 3 Major Constituent Analyzer (MCA) Inspection:  On GMT 60, the Verification Gas Assembly (VGA) was replaced on the Node 3 MCA. After the R&R, partial pressure readings were not as expected and handheld Portable Oxygen Monitor (POM) and Carbon Dioxide Monitor (CDM) readings confirmed the MCA was not producing reliable partial pressure readings. In order to troubleshoot potential causes of the data irregularities, the crew performed an inspection of interfaces manipulated during the R&R. Following the crew inspection activities, the ground performed an MCA zero calibration and began a Quest airlock rapid sample activity so that ground teams can assess the MCA sample data.
+Remote Power Control Modules (RPCM) P14B-G and P13A-G Swap: Overnight, the ground robotic specialists, using the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM), completed the swap of RPCMs P14B-G and P13A-G. Both RPCMs are re-powered and the PTR MDM survival heaters are functional with the good RPC 11 in the P13A-G location.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Video Recording of Greetings
+Replacement of RJ45 connectors on network cables
+Preparation of Reports for Roscosmos Web Site and Social Media
+Progress 437 (DC1) Stowage and IMS Ops
+Life On The Station Photo and Video
+ECON-M. Observation and photography
+Lighting Effects Sleep Log Entry
+Cell Biology Experiment Facility (CBEF) Backup Power Setup
+N3 MCA connectors inspection with photo documenting throughout.
+Termination of 825М unit discharge and removal from discharge operation
+Demating of TLM connector from ЗУ-С.
+[ЗУ-С] charger teardown – closeout ops
+Glove Box Setup 1
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+FAZOPEREKHOD experiment
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference(S-band)
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+СОЖ maintenance
+Inventory Management System (IMS) conference
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub
+Progress 437 (DC1) Stowage and IMS Ops
+MPEG-2 TV Downlink Test via KU-band prior to Soyuz 738 Docking to the ISS.
+Vacuum cleaning vents on FGB interior panels
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+VEG-03 Dual Facility Watering for each Plant Pillow
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Extravehicular Mobility Unit (EMU) Conductivity Test
+Delta file prep
+NanoRacks Rock Candy Imagery
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+VEG-03E Science Harvest
+Portable air samples with CDM
+Metal Oxide (METOX) Regeneration
+VEG-03E MELFI Insertion #1
+
+Completed Task List Activities
+
+Glove Box Setup 1
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Airlock LTL Flow Initiation for EMU Loop Scrub
+MCA Zero Calibration
+Airlock MetOx Regen
+N3 ITCS mode transition to Single LT
+SPDM RMCT Stow
+

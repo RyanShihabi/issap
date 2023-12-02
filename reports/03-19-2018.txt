@@ -1,0 +1,66 @@
+
+Circadian Rhythms: Today, a crewmember began a three day European Space Agency (ESA) Circadian Rhythms experiment by donning the Thermolab Double sensors, which are to be worn for 36 hours.  The objective of the experiment is to get a better understanding of any alterations in circadian rhythms in humans during long-term space flights. Such knowledge will not only provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+Veg-03:  Today the crew watered the Veg-03 plants and harvested leaves from each plant. The leaves were then preserved and inserted into cold stowage for later return to the Earth. The remainder of the plants were left to grow and sprout new leaves. Veg-03 supports the proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long duration space missions will require a fresh food supply grown in space to supplement crew diets.
+Earth Imagery from ISS Target (EIISS): On Sunday, the crew captured images of the Aurora Borealis.  EIISS captures a series of videos showcasing targets around the world as seen from the ISS. These videos will be integrated into a product for later release. 
+Lighting Effects: Upon waking over the weekend and this morning, a 53S subject completed a daily sleep log entry to track his sleep patterns and wakefulness. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have major implications for people on Earth who use electric lights. 
+Columbus Condensate Water Separator Assembly (CWSA) Maintenance: This morning, the crew inspected and cleaned the Columbus CWSA unit.  After the inspection was completed the crew Removed and Replaced (R&R) the CWSA Desiccant Module.
+Temperature and Humidity Control (THC) Intermodule Ventilation (IMV) Flow Measurement:  As part of system health monitoring, the crew used a Velocicalc tool to measure the amount of airflow through selected ventilation inlets and outlets.  Today’s measurements were taken in the PMA1, Node1, Node 2, Node 3, and the Cupola. 
+EVA Tool Gather and Configuration: The crew gathered and configured tools and hardware for US Extravehicular Activity (EVA) 49: N3 Enhanced Wireless Communication (EWC) & Camera Port (CP) 8 and US EVA 50: Pump Flow and Control Subsystem (PFCS) Relocate. 
+Space Station Robotic Manipulator System (SSRMS) Operations:  Friday evening (GMT 075-076), the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered Special Purpose Dexterous Manipulator (SPDM) Arm1 to stow Robot Micro Conical Tool 1 (RMCT1) on SPDM Tool Holder Assembly 1 (THA1). Then SPDM was reconfigured to use Arm2 to stow RMCT2 on SPDM THA2. Finally SSRMS was maneuvered as required to stow SPDM on Mobile Base System (MBS) Power Data Grapple Fixture (PDGF) #2. SSRMS was maneuvered to park positon. MSS performance was nominal.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+SPLANKH. Setup and Initiate EGEG Recording
+Portable air samples with Portable O2 Monitor and CDM
+SSIPC Management Conference
+Columbus Video Camera Assembly 1 Adjustment
+Columbus Condensate Water Separator Assembly inspection and cleaning
+ISS HAM Service Module Pass
+Progress 437 (DC1) Stowage and IMS Ops
+CWSA Desiccant Module removal and replacement
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+SPLANKH. Termination EGEG Recording and Closeout Ops.
+Compound Specific Analyzer-Combustion Products (CSA-CP) Extended Maintenance
+Auxiliary Laptop Anti-Virus Update
+Potable Water Dispenser (PWD) Sample Collect
+Extravehicular Activity (EVA) Tool Gather [Completed GMT 76/77]
+Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Environmental Health System (EHS) Coliform Water Processing
+VEG-03 Dual Facility Watering for each Plant Pillow
+ISS Food Intake Tracker (ISS FIT)
+ISS O2 Repress from Progress 437 (DC1) СрПК Section 1 (start)
+Extravehicular Activity (EVA) Tool Configuring
+ISS O2 Repress from Progress 437 (DC1) СРПК Section 1 (terminate)
+СОЖ maintenance
+Changeout of СРВК-2М Water Conditioning Unit Purification Columns (БК БКВ)
+Intermodule Ventilation (IMV) Flow Measurement Survey
+Flush [СРВК-2М] Water Conditioning Unit Purification Columns [БК БКВ] (start)
+Checking БД-2 treadmill carriage position. Photograph position of БД-2 carriage relative to pullout roller by lifting БД-2 curtain.  Downlink photo via OCA.
+VEG-03E Plant Photo
+VEG-03F Science Harvest
+Exercise Data Downlink via OCA
+IMS Update
+VEG-03F MELFI Insertion #1
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Metal Oxide (METOX) Regeneration Termination
+Metal Oxide (METOX) Regeneration Initiation
+Circadian Rhythms Instrumentation
+Portable air samples with Portable O2 Monitor
+
+Completed Task List Activities
+
+Tether relocate [Completed GMT 76]
+Wanted Poster for Hefty Bags [Completed GMT 76]
+JAXA Report Part 4 [Completed GMT 76]
+69P USOS Unpack [Completed GMT 76]
+EVA SAFER Checkout [Completed GMT 77]
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+IMV Flow Measurement Support
+N3 ITCS Transition to Dual Ops
+Standard Commanding
+

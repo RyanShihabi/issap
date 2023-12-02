@@ -1,0 +1,66 @@
+
+Cygnus Re-entry: Cygnus re-entry burn was completed today at 7:45 AM CDT following unberth last Tuesday, June 14.
+
+The NRCSD-E deployment planned for yesterday succeeded in deploying four of five LEMUR satellites.  Several additional attempts were made to deploy the final satellite, but were not successful.  Orbital-ATK has confirmed via imagery that the deployer’s doors did not open. 
+Prior to unberth, the ReEntry Breakup Recorder- Wireless (REBR-W) was configured to activate upon sensing deorbit loads and transmit data automatically.  The REBR team has not received data as expectedas of the writing of this report.  REBR is a cost-effective system that rides a re-entering space vehicle, records data during the re-entry and breakup of the vehicle, and returns the data for analysis. Understanding how vehicles behave during atmospheric reentry gives future spacecraft developers unique information that can enhance design efficiencies and safety.
+
+Dose Tracker: The crew completed entries for medication tracking on an iPad today. This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+Habitability Human Factors Directed Observations: The crew recorded and submitted a walk-through video documenting observations of an area or activity providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the International Space Station. Observations can help spacecraft designers understand how much habitable volume is required and whether a mission’s duration impacts how much space crew members need.
+Extravehicular Mobility Unit (EMU) Maintenance: The crew spent most of his day performing the following activities to dump and fill EMU 3005, 3008 feedwater tanks to satisfy maintenance requirements for on-orbit stowage. Due to previous EMU off-nominal conditions, steps were included for trend tracking:
+
+Obtain a feedwater sample from EMU 3005 water tanks for future ground analysis.
+Initiate ionic and particulate filtration of the EMU and Airlock cooling water loops.
+Iodinate EMU Ion Filters and complete a 2-hour EMU iodination.
+Obtain a 250 mL sample of EMU cooling loop water to determine the effectiveness of the Ion Filter in scrubbing EMU and Airlock cooling water. 10 mL of the water sample will be used for a conductivity test. The remainder of the water will be returned to ground for chemical analysis.
+Determine a conductivity measurement for EMU water samples. Each sample will be measured once and two readings will be recorded from the Liquid Conductivity Meter display.
+Regenerate Metal Oxide (Metox) canisters by baking out CO2 in the Metox Regenerator oven.
+
+Station Support Computer (SSC) service pack installation:  Ground controllers installed a new service pack on the SSCs onboard ISS.
+Node 3 MCA anomaly:  This morning, Node 3 MCA experienced an ion pump current spike and shut down.  A system restart recovered the MCA functionality.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+SPLANH. Preparation and Initiate EGEG Recording r/g 2607
+JSL Password Update
+On MCC Go SM Rodnik H2O Tank 1 shell compression / r/g 2614
+DOSETRK Questionnaire Completion
+Closing window 6,8,9,12,13,14 shutters / r/g 6965
+Closing USOS Window Shutters
+Soyuz 720 Samsung Tablet Recharge, initiate
+HABIT Video of the Experiment
+SM, DC1, MRM2 [СОТР] КОБ1, КОБ2 loops Coolant Refill using refill set, Locating Equipment and R/G Review r/g 2615
+WRS Water Sample Analysis
+Extravehicular Mobility Unit (EMU) Full Water Tank Dump and Fill
+MATRYOSHKA-R. FGB Bag Inventory Audit, Photography r/g 2613
+EMU Feedwater Sample
+СОЖ Maintenance
+Soyuz 720 Samsung tablet charge, end
+EMU  Cooling Loop Maintenance, Initiate
+SPLANH. Termination of EGEG recording and Closeout Ops0 r/g 2607
+COSMOCARD. Closeout Ops / r/g 2600
+Initiate EMU Cooling Loop Scrub Part 1
+SPLANH. Preparation for Experiment / r/g 2608
+Start EMU cooling loop scrub
+Greetings Video Footage / r/g 2609, 2610
+EMU Conductivity Test
+Vacuum cleaning ventilation grille on FGB interior panels (201, 301, 401)
+On MCC Go Urine transfer from EDV-U to Progress 432 Rodnik H2O Tank 2 / r/g 2616
+TOCA Data Recording
+Countermeasures System (CMS) Sprint Exercise, Optional
+Manometer (ВК-316М) efficiency check and On MCC Go Progress 431 (DC1) H2O Tank 2 pressure monitoring /  r/g 2618
+EMU Cooling Loop Maintenance, Reconfiguration
+INTERACTION-2. Experiment Ops / r/g 2611
+Start EMU METOX Regeneration
+INTERACTION-2. Experiment Ops / r/g 2612
+Stow Syringes used in Н2О Conductivity Test
+
+Completed Task List Items
+
+iPAD cert update [Active] 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+EMU ops support
+Nominal ground commanding 
+

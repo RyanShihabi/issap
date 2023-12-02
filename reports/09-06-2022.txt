@@ -1,0 +1,20 @@
+
+Payloads:
+Fluid Dynamics in Space (FLUIDICS): FLUIDICS session 13, runs 2 and 3, were performed by a crewmember. The measurement of liquid displacement within a sphere in microgravity relates to a given kinematic representation of a spacecraft’s fuel tank. The FLUIDICS investigation evaluates the Center of Mass (CoM) position regarding a temperature gradient on a representation of a fuel tank. The observation of capillary wave turbulence on the surface of a fluid layer in a low-gravity environment can provide insights into measuring the existing volume in a sphere.
+Life Support Rack (LSR): The LSR was untied from NOD2D2, transferred, and partially configured into NOD3A5. LSR is a Technology Demonstrator for Closed Loop Air Revitalization. LSR captures carbon dioxide from cabin air and recovers 50% of its oxygen for use by the astronauts. LSR operates for a minimum of one year on the ISS to demonstrate the robustness of the technology for future Exploration missions.
+NanoRacks CubeSat Deployer Mission-23 (NRCSD-23): The crew recorded video and took still photos of the NRCSD-23 deployments. NRCSD-23 is an external deployer installed in the JEM Airlock and robotically placed in the deploy configuration using the JEM RMS. NRCSD-23 will be deploying five different satellites. The Capacitor Satellite 1 (CapSat1) will measure capacitance and the discharge rate of capacitors as a function of time to test the efficiency of using capacitors as an electrical power system in place of lithium-ion batteries. The Drag De-Orbit Device CubeSat (D3) tests a device with controllable drag surfaces that can be repeatedly deployed and retracted to adjust a satellite’s rate of orbital decay. The JAGSAT will provide spatially resolved measurements of plasma density irregularities in the ionosphere. The BeaverCube will measure cloud properties, ocean surface temperatures and ocean color to study Earth’s climate and weather systems. The CubeSat Laser Infrared Crosslink, Vehicle A (CLICK A) will demonstrate laser communications crosslinks between two LEO CubeSats.
+Systems:
+Oxygen Generation System (OGS) Rack Transfer: To transfer OGA from Node 3 to the US Lab, the crew thermally safed the OGS, removed OGS from NOD3A5, and structurally installed OGS at LAB1P1. The OGS is being moved to the Lab to support Advanced OGA upgrades and the Advanced OGA for exploration tech demonstration. The ground team will power OGA on overnight to validate proper functionality.
+Oxygen Generation System (OGS) Umbilical Install: After OGA was structurally in place in the US Lab, the crew installed umbilicals for OGA operation. The crew will install the Hydrogen Sensor Tech Demo (H2ST) to finish the OGA install tomorrow.
+Stall Removal: The crew removed the Starboard half of Stall to make room for OGS and LSR rack translations. The Stall is used to enclose the Waste and Hygiene Compartment (WHC) for crew privacy. After translating the LSR and OGA racks to their final locations, the Stall was reinstalled for crew use.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Repower rack, OGA and establish communication
+Regeneration System (OGS) Deactivation
+Command and Control Software (CCS) Pre-positioned Load (PPL)
+

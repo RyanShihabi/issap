@@ -1,0 +1,105 @@
+
+Human Research Program (HRP) Operations:  
+
+Ocular Health: Kelly perform the ultrasound portions of his Flight Day (FD) 150 Ocular Health activities.  With Lindgren’s assistance he executed a cardiac ultrasound, and with Padalka as the operator, he performed an ocular ultrasound. The ultrasound images will be used to identify changes in globe morphology, including flattening of the posterior globe, and document optic nerve sheath diameter, optic nerve sheath tortuosity, globe axial measurements, and choroidal engorgement. The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers.
+Biochemical Profile/Repository: Lindgren completed his 24 hour collections, and Yui initiated his 24 hour collections in support of Biochemical Profile, stowing the samples in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for return on a later flight. The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Fluid Shifts Setup: Kelly set up for the upcoming FD 150 Dilution Measurements.  Fluid Shifts is a joint NASA-Russian experiment that investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is utilized as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+NeuroMapping: Yui completed his FD 30 NeuroMapping Neurocognitive Test. After connecting a control pad to the HRF laptop, Virts launched the NeuroMapping application and completed the Mental Rotation I Test, the Sensorimotor Adaptation Test, the Dual Task Test while tethered, and the Mental Rotation II Test while free-floating. The Neuromapping experiment studies whether long-duration spaceflight causes any changes to the brain, including brain structure and function, motor control, and multi-tasking; as well as measuring how long it takes for the brain and body to recover from those possible changes.
+
+Combustion Integration Rack (CIR)/FLame Extinguishment Experiment (FLEX)-2J Fiber Replace: Lindgren replaced the FLEX-2J Fiber Arm.  He removed the Multi-user Droplet Combustion Apparatus (MDCA) CIA Chamber Insert Assembly (CIA) from the CIR Combustion Chamber and restrained it to the Maintenance Work Area (MWA) Work Surface Area. After replacing the Fiber Arm, Lindgren reinstalled the MDCA CIA back into the CIR Combustion Chamber.  Once these repairs are complete, teams will perform checkouts and begin the FLEX-2J experiment.  FLEX-2J studies the interactions of flames on the motion and ignition (or non-ignition) of millimeter-sized droplets. Results can provide fundamental insight into the physics of fuel burning, which improves computer models designed to reduce emissions and improve fuel consumption efficiency in space and on Earth.
+Fluid Physics Experiment Facility (FPEF) Setup: Yui connected a cable to the FPEF and ground controllers updated the software in support of Dynamic Surf-3, scheduled to begin in Increment 45.
+Internal Thermal Control System (ITCS) Sampling: Yui collected ITCS fluid samples from the Columbus module for Ortho-phthalaldehyde (OPA) biocide concentration testing and results were nominal. This completes ITCS sampling activities that were begun last week.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+SPLANH. REFLOTRON-4 Analyzer Setup, Biochemistry Study Ops, Start EGEG Recording
+HRF Urine Sample Collection
+HRF.  MELFI Urine Sample Insertion
+TV Conference with Roscosmos Management
+HRF. Operations with Samples
+HRF. Frozen Blood Samples Ops
+Close-out ops after TV conference
+HRF.  Centrifuge Configuration
+HRF. Conclusion of Centrifuge Spin
+CIR – Video Setup and Rack Doors Open
+HRF. MELFI Sample Insertion
+CIR – Combustion Chamber Front Rack Door Open
+GREAT START. Script Review. I r/g 9671
+MDCA – Equipment Transfer
+NMAP. Test Ops
+Fine Motor Skills – Experiment Ops
+KULONOVSKYI KRISTALL. Hardware Setup and Configuration. / r/g 9664
+OGS Hydrogen Sensor Operations
+PILOT-T.  Experiment Ops. / r/g 9659
+DAN. Experiment Ops. I r/g 9543
+DAN. Experiment Ops Operator / r/g 9543
+NOD3 UOP1 & UOP 4 Hardware Powerdown
+HABIT – Experiment Ops
+COL ITCS Sample Collection
+RPCM Maintenance
+SPLANH. Blood Biochemistry Analysis Repeat. I r/g 9663
+CIR – CIR Front End Cap Close
+ITCS – Sample Stowage
+SPLANH. Closeout Ops. I r/g 9663
+On-orbit Hearing Assessment using EARQ
+CIR – Rack Doors Close
+NOD3 UOP1 & UOP 4 Hardware Powerup
+OTKLIK. Hardware Monitoring / r/g 8408
+MRM2 comm config to support the P/L Ops
+KULONOVSKYI KRISTALL. Experiment Ops. I r/g 9664
+HMS – Food Frequency Questionnaire
+USND2 – activation of Ultrasound Hardware and Camcorder
+MRM2 Comm Reconfig for Nominal Ops
+HMS – Food Frequency Questionnaire
+CIR – Post-Experiment Hardware Stowage
+Ocular Health – Cardiac and Blood Pressure Operations (Subject)
+HRF Urine Sample Collection
+HMS Defibrillator Inspection
+OH-CARDIAC – Operator
+HRF. MELFI Urine Sample Insertion
+HRF. Sample Ops Conclusion
+Transfer of Urine from RS EDV-U and of Brine from USOS EDV to Progress 428 Rodnik Tank 2 and Flushing with Water from EDV / r/g 9669
+KULONOVSKYI KRISTALL. Data Transfer to Hard Drive / r/g 9664
+FPEF – FPEF connector insertion
+JRNL – Journal Entry
+FPEF – Cable Connection
+Fluid Shifts – Blood Collection Hardware Setup
+On-orbit Hearing Assessment using EARQ
+HRF Urine Sample Collection
+CONTUR-2. Hardware Installation on panel 418
+Ultrasound – Scan Prep
+HRF. MELFI Urine Sample Insertion
+Ultrasound2 – Scan by CMO
+Ultrasound 2 – Scan
+CONTUR-2. Experiment Session Ops. / r/g 9665
+ZERO G – Equipment Setup
+Ultrasound Data Export
+IMS Delta File Prep
+AWS Configuration
+Tropical Cyclone P/L Ops 
+HRF Urine Sample Collection
+OGS Activation
+HRF. MELFI Urine Sample Insertion
+CONTUR-2. Experiment Session Ops. I r/g 9665
+Ultrasound 2 – Scan
+HMS – Ultrasound2 – Scan by CMO
+Ultrasound Data Export
+Ultrasound Scanning
+Crew conference with Astronaut Office
+Flight Director / ISS Crew Tagup
+USND2 – Hardware Deactivation and Closeout Ops
+CONTUR-2. Hardware Disassembly from panel 418
+
+Completed Task List Items
+
+Deck CQ LHA R&R
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+CIR video
+Ocular Health Cardiac Ops
+HMS Ultrasound ops
+

@@ -1,0 +1,34 @@
+
+Payloads
+Three-dimensional Microbial Mapping of ISS Environment (3DMM): The crew performed surface collections in PMM and the Airlock.  Surfaces in the ISS contain microbes and associated biomolecules excreted by these microorganisms.  3DMM uses DNA sequencing and other analyses to construct a 3D map of bacteria and bacterial products throughout the Station.  The team also plans to characterize how these microbes respond at a molecular level to specific stress conditions, including altered gravity and atmospheric composition.
+Asian Herb in Space:  The crew set the plant chamber under the GLA lights and watered the seeds.  Microgravity affects the growth of plants and understanding the nature of these changes is important for future missions that will rely on plants for food.  Asian Herb in Space studies fast-growing plants used for traditional medicine and flavoring food, examining differences in their aroma that may result from microgravity-related cellular changes.  This investigation benefits future plant growth efforts in space, and provides new information on the formation of aroma compounds in common herbs.
+Astrobee:  The crew had a conference with the Payload Developer prior to the start of Soundsee operations.  Astrobee is made up of three free-flying, cube-shaped robots which are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores and give ground controllers additional eyes and ears on the space station.  The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, logistics management, and accommodate up to three investigations.
+Confined Combustion:  The crew installed the Confined Combustion hardware in the MSG then conducted a flame test on one sample.  Confined Combustion examines the behavior of flame as it spreads in differently-shaped confined spaces in microgravity.  Flame spread observations are translated into mathematical models for use in understanding the results and applying them to areas with different shapes.
+WetLab-2 One-Step Gene Sampling Tool:  The crew set up hardware for Wet Lab-2 One-Step Gene Sampler Operations then performed mRNA expression analysis on a radish harvested from Plant Habitat.  One-Step Gene Sampling Tool to Improve the ISS Bioanalytical Facility (One-Step Gene Sampling Tool) tests a technology that collects ribonucleic acid (RNA) directly from tissue.  It enables faster genetic analysis of multiple samples without the need to destroy the specimen, as traditional technology requires.  These brief and repeatable screening experiments can help researchers make more informed decisions regarding when to terminate plant or animal growth investigations and extract the full genetic library.
+SoundSee:  The crew installed SoundSee onto an Astrobee Free-Flyer, then performed checkout of SoundSee.  The crew was able to perform two out of the 4 recordings planned.  Investigation of Deep Audio Analytics on the International Space Station (SoundSee Mission) tests monitoring of the acoustic environment using an audio sensor on Astrobee, a mobile robotic platform aboard the space station.  Microphones collect acoustic information, and the Astrobee determines the sensor’s position.  The system can detect anomalies in the sound of components inside a machine, providing autonomous monitoring of the health of infrastructure such as life support and exercise equipment.
+Systems
+Cygnus Robotic on Board Trainer (RoBOT): FE-10 and FE-12 set up the RoBOT and completed a proficiency training session.
+Food Consolidation: The crew used Stow Track to consolidate food stowage. This will open up available space on the ISS.
+Urine Processing Assembly (UPA) Recycle Tank: The crew R&Rd the UPA recycle tank as part of nominal scheduled maintenance. The vent adapters were R&Rd as well.
+Centerline Berthing Camera System (CBCS): The crew deployed and checked out the CBCS at Node 1 Nadir to support future Common Berthing Mechanism (CBM) mating operations.
+Completed Task List Activities:
+
+ARED spreadsheet recording
+Astrobee OBT review
+Dragon Crew-1 debrief
+WHC urine hydraulic components R&R
+JAXA EPO audit
+JAXA UN video
+Vascular Echo ultrasound
+Wanted poster Hunch tape dispenser
+PWD circuit breaker reset
+WHC KTO replace
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Payloads ops support
+Cygnus OBT RoBOT support
+CBCS install/checkout support
+C2V2 activation
+

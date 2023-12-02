@@ -1,0 +1,23 @@
+
+Payloads:
+Genes in Space-10: Genes in Space 10 Freeze and Fly Run 1 was initiated using the mini Polymerase Chain Reaction (PCR) analyzer and Genes in Space Fluorescence Viewer to detect Deoxyribonucleic acid (DNA) lengths. Genes in Space-10 validates a method for measuring and analyzing DNA length aboard the ISS using fluorescent samples that may be analyzed by sight. The length of DNA fragments is important data for many applications and research fields, including medical diagnostics and understanding biological mechanisms such as the connection between telomere length and aging. No onboard assay currently exists to measure DNA length, and this investigation may fill that gap.
+Human Research Facility-1 (HRF-1): New HRF brackets were installed on HRF Rack drawer handles. HRF-1 provides an on-orbit laboratory that enables scientists conducting human life science research to evaluate the physiological, behavioral, and chemical changes induced by space flight. Research performed using HRF-1 provides data to help scientists understand how the human body adapts to long-duration spaceflight.
+JEM Internal Ball Camera 2: The JEM (Internal Ball) Camera Robot 2 was powered on and the cooling fan was checked out. The JEM Camera Robot 2 unit was then manually mounted to the docking station. JEM Internal Ball Camera 2 demonstrates technology for automating video and photos of research activities. Crew time is one of the most valuable resources on the ISS, and many simple, repetitive tasks could be automated. This frees up crew time for more important activities.
+Zero T2: Zero T2 Isometric Mid-Thigh Pull (IMTP) exercise operations were performed. Exploration-class missions including Artemis, Gateway, and beyond require an exercise device that is lightweight and has a small footprint. These devices provide a variety of full body resistance exercise options, and aerobic rowing and cycling, but no treadmill. Without a treadmill there is no means of ambulating, or reinforcing the motor pattern of walking and therefore the objective of this study is to quantify the effect of no treadmill usage during an entire spaceflight mission on bone, muscle, aerobic, and sensorimotor health, and performance, which is important data for determining the adequacy of exercise regimens for exploration missions.
+Systems:
+ISS Safety Video Survey: A video survey of the ISS was performed for ground analysis. The crew obtained video of the interior volume that allows the ground team to assess the current vehicle configuration and to identify any areas of concern related to ventilation blockage, flammability hazards, emergency egress paths, access to fire ports, and safety equipment. The Safety Video Survey is performed approximately every six months.
+Transfer Cygnus Trash Gather: Today, the crew pre-gathered some items for disposal on NG-19.  This vehicle will deliver science experiments, crew provisions, equipment, and other important items to the station.  Once unloaded, the crew will reload the vehicle with trash and other items for disposal.
+Crew Quarters (CQ) Blanket Inspection: Today, the crew inspected and documented photos of the conditions of the acoustic blankets and blanket covers in the Node 2 Deck and Node 2 Port CQs. This will help to prioritize the replacement of the acoustic blankets or blanket covers. The final CQ blanket inspection will be performed tomorrow.  
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Big Fix Patching
+EPS Solar Array VMP Test
+BDS Expansion
+CDH HCZ MDM Ops
+IDA Fwd Heater Test
+

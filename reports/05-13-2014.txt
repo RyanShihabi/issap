@@ -1,0 +1,97 @@
+
+37 Soyuz (37S) Undock and Landing:  Expedition 39 Commander (CDR) Wakata,  Flight Engineer (FE)-4 Tyurin and FE-5 Mastracchio closed the hatches to the 37S vehicle and undocked their spacecraft from the ISS today at 5:36 p.m. CDT, marking the start of Expedition 40.  The Soyuz landed outside of Dzhezkazgan, Kazakhstan at 8:58 p.m CDT. The crew’s return completes 187 days in space. CDR Swanson, FE-1 Skvortsov and FE-2 Artemyev will operate the ISS as a three-person crew until the arrival of three additional crew members on May 28.
+Salivary Markers Blood Collection: With the help of FE-5 Mastracchio, ISS CDR Swanson collected his midpoint blood collection for Salivary Markers. This sample will be returned ambient on 37 Soyuz. These samples will be used to measure markers of latent viral reactivation (a global indicator of immune impairment and infection risk) in conjunction with salivary antimicrobial proteins and immune cell functional assays. This research study will help identify if there are any risks of an adverse health event in crewmembers due to an impaired immune system. Maintaining a robust immune system during prolonged spaceflight missions (i.e., to other planets or asteroids) will be important to ensure mission success. If any impairment in immunity is found due to spaceflight, this will allow the development of appropriate countermeasures to help mitigate the risks.
+Protein Crystal Growth (PCG) Removal: FE-6 Wakata removed the PCG samples from the Protein Crystallization Research Facility (PCRF) and stowed them in a canister bag for return on 37S. These samples have been in the PCRF since they were delivered to ISS on 38 Soyuz in March. High quality protein crystals can be obtained in microgravity conditions, which can provide detailed information regarding crystal structure for designing new drugs for diseases and catalysts for ecological applications.
+Petri Plant Harvest: ISS CDR Swanson prepared the Maintenance Work Area (MWA) for Petri Plant harvest, and then removed the plant specimens from Petri Plates and inserted them into Kennedy Space Center (KSC) Fixation Tubes (KFTs) in preparation for return on SpaceX-3. The Petri Plants investigation focuses on the growth and development of Arabidopsis thaliana seedlings in the spaceflight environment, with a specific focus on how a root knows which direction to grow in when gravity is absent. Plants are grown in agar, a nutrient solution with a gelatin-like consistency, and exposed to light or dark conditions. Plants are harvested on-orbit, preserved with a chemical preservative, and returned to the ground for post-flight evaluation.
+Remote Power Controller Module (RPCM) Trips:  The RPC (N3A51B4A-A Remote Power Controller (RPC)- 17) powering the Sabatier compressor tripped this morning.  Initial data review shows it was an over current trip.  The specialists are reviewing the data to determine future actions.  Additionally, RPCM LA1B-G RPC 3, powering Rack Flow Control Assembly for CIR, tripped open as a FET Controller Hybrid issue.  After five unsuccessful attempts to reset, the RPCM was changed to close inhibited. 
+Today’s Planned Tasks
+
+SM ПСС (Caution & Warning Panel) Test [Complete]
+Laptop RS1(2) Reboot [Complete]
+RSS1,2 Reboot / r/g 1009 [Complete]
+HRF – Sample Collection and Prep for Stowage [Complete]
+HRF – MELFI Sample Insertion [Complete]
+ВКС Laptops Antivirus Scan Check and Status Report / r/g 5201 [Complete]
+Daily Planning Conference (S-band) [Complete]
+HRF Blood Draw [Complete]
+HRF – Blood collection assistance [Complete]
+37S Return Stowage / r/g 5266, 5463nu  [Complete]
+Setup of GoPro HERO3 cameras in 37S СА / r/g 5570 [Complete]
+SEISMOPROGNOZ. Complete formatting 32Gb Flash-card. / r/g 5629 [Complete]
+JAXA – PCG Removal [Complete]
+Disconnecting КЛ-153М TV camera from MRM1 TVS / r/g 5635 [Complete]
+Petri Plant OBT  [Complete]
+KRISTALLIZATOR. Joint Packing, Acceptance of PCG kits, Transfer to ТК for Return / r/g 5630  [Complete]
+KRISTALLIZATOR. Photo of PCG Kit Handover / r/g 5631 [Complete]
+PETRI – Preparation Ops [Complete]
+37S Return Stowage /r/g 5266, 5463nu  [Complete]
+Setup of GoPro HERO3 cameras in 37S СА / r/g 5570 [Complete]
+PETRI – Plant Harvest  [Complete]
+Filling (separation) of EDV (KOV) for Elektron from ТКГ 427 Tank 1. / r/g 5638 [Complete]
+CONYUGATSIYA. Removal of Recomb-K from Thermostat and Transfer to ТК / r/g 5632  [Complete]
+BIOEMULSIYA. Removal from thermostat (+4 С) and transfer to ТК / r/g 5633 [Complete]
+СОЖ Maintenance  [Complete]
+IMS Update  [Complete]
+PETRI – Work Light Disassembly [Complete]
+Journal Entry [Complete]
+VEG – Daily Plant Check [Complete]
+USOS Window Shutter Close [Complete]
+Photo of 37S СА and returning stowage / r/g 5463nu [Complete]
+Crew Departure Prep [Complete]
+37S loading completion report / / r/g 5266, 5463nu, 5526 [Complete]
+Closing window shutters No. 6,8,9,12,13,14 / r/g 5451 [Complete]
+Photography of the external surface of 37S СА hatch/manhole door / r/g 0284 [Complete]
+ISS HAM – Radio Activation [Complete]
+ТК СА External Surface Hatch/Manhole Door Photo Downlink / r/g 0284  [Complete]
+Comm Reconfig for 37S undocking and descent  [Complete]
+Soyuz 711 Activation. 37S Comm Check via S/G2 / r/g 5587 [Complete]
+Take to 37S / r/g 5614 [Complete]
+HRF – Hardware Stowage [Complete]
+37S Comm Check via S/G2  [Complete]
+CONYUGATSIYA. Thermostat Removal / r/g 5639 [Complete]
+Setup and Activation of Crew On-orbit Support System (КСПЭ) Equipment for Hatch Closure TV coverage from MRM1 and TV signal monitoring / r/g 5637 [Complete]
+TV coverage of ТК 711-MRM1 Hatch Closure / r/g 5637 [Complete]
+37S – MRM1 Hatch Closure. Hatch Closure MPEG2 TV coverage / r/g 5637 [Complete]
+ТК 711- MRM1 hatch leak check  [Complete]
+T2 Monthly Inspection [Complete]
+Deactivation of КСПЭ Equipment after Hatch Closure Coverage from MRM1 and closing applications on CP SSC /  r/g 5637 [Complete]
+37S ODF Ops; Undocking and Descent Ops [Complete]
+SALMARK – Data Entry [Complete]
+Photography of ТПК 711 Docking Assembly from DC1 EV2 window after Separation from ISS / r/g 5640
+JRNL – Journal entry [Complete]
+Reconfigure MRM1-ТК PEV to CLOSED position  [Complete]
+ISTOCHNIK-M Preparation For Measurements. / r/g 5634 [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 5186 [Complete]
+PETRI – MELFI Urine Sample Insertion [Complete]
+Daily Planning Conference (S-band) [Complete]
+ISTOCHNIK-M. Activation of 37S TLM Recording. / r/g 5634
+ISTOCHNIK-M Closeout Ops / r/g 5634
+Comm reconfig for nominal ops after 37S landing [Complete]
+ISS HAM – Radio Activation
+
+Task List
+
+37S US prepack [Complete]
+ARED Cylinder Evac
+Crew departure prep (CDR) [Complete]
+Data prep return (CDR) [Complete]
+Data prep return (FE-4)
+Data prep return (FE-5) [Complete]
+P/TV Hardware Questions
+WHC KTO Replace
+WHC EDV R&R
+Roscosmos Report
+Uragan Photo
+Ekon Photo
+MOOT restow
+No Skid Tap Audit
+CTB 1048 Relocate
+NOD1OS2-LHA R&R
+NOD1PD2-LHA R&R
+KTO EDV Audit
+NOD3 PEPS assessment
+
+Ground
+
+Nominal commanding
+

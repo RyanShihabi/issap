@@ -1,0 +1,103 @@
+
+NanoRack Cubesat Deployer (NRCSD) Operations:  Yesterday evening two Dove cubesats were launched successfully from Deployer #5.  However, an overnight attempt to launch an additional two cubesats from Deployer #6 was not successful.  Subsequently, two cubesats from Deployer #7 were launched this morning.  Ground teams are investigating the launch failure for Deployer #6 and working the forward plan.
+ 
+Integrated Resistance and Aerobic Training Study (SPRINT) Configuration:  Kelly configured the Portable Pulmonary Function System (PPFS) in advance of his Flight Day 195 Sprint Volume of Oxygen Utilized (VO2) Max session tomorrow.  The Sprint investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions.
+ 
+Large Format Motion Picture Camera (IMAX) Activities:  Kelly connect the IMAX Codex to a Station Support Computer (SSC) for downlink of recorded video files.  IMAX filmmakers intend to produce a three dimensional movie called A Perfect Planet, using ISS-based video and images to show how natural and human forces shape planet Earth. The film will also showcase NASA’s exploration efforts and highlight the ISS as a platform for scientific research and a stepping stone to deep space exploration.
+ 
+Sleep Log:  Kelly and Kornienko continued a week-long set of Sleep Log entries by making daily entries.  The Sleep ISS-12 experiment monitors ambient light exposure and crew member activity and collects subjective evaluations of sleep and alertness.  The investigation examines the effects of space flight and ambient light exposure on sleep during a year-long mission on the ISS.
+ 
+Extravehicular Activity (EVA) Preparation:  Yui has configured Extravehicular Mobility Unit (EMU) suits 3005 and 3011 for loop scrubbing.  Samples containing 250 mL of the water were obtained after the loop scrub activity to determine the effectiveness of the filtering.  10 mL of this water sample were used for a conductivity test and the remaining water will be sent to the ground for chemical analysis.  After the samples were taken, Yui then reconfigured Loop Scrub hardware for Iodination of Ion Filters on both suits.  Later in the afternoon, Lindgren unstowed items from the Airlock that will not be required for the upcoming EVAs.  Kelly and Lindgren also worked to resize EMU 3003 and 3010 which will be used during the EVAs.  EMU 3003 was resized for Kelly and EMU 3010 for Lindgren.
+ 
+Portable Emergency Provisions (PEPS) Inspection:  Lindgren conducted the regular inspection of the Portable Fire Extinguisher (PFE), Extension Hose Tee Kit (EHTK), Portable Breathing Apparatus (PBA), and Pre-Breathe Masks.  Pre-Breathe Masks are not emergency equipment, but have similar maintenance requirements and thus are included in this inspection.
+ 
+Robotics Refueling Mission (RRM) Operations:  Overnight, Robotics Ground Controllers maneuvered the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) into position to start the TB4 Science Operations.  Next SPDM Arm2, using use the Multifunction Tool (MFT), acquired, checked out and unstowed the Blindmate Connector Adaptor (BCA).  They then maneuvered the BCA into position and inserted it into and mated it to the Electrical Test Port Panel (TTP) on TB4.  Today, the Robotics Ground Controllers released the MFT from the BCA and maneuvered the SSRMS and SPDM into position to perform the MFT Vision Task which consisted of calibrating the MFT cameras using a checkerboard target on TB4. Finally they commanded SSRMS and SPDM to overnight park ready to resume tomorrow.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+ISS Crew / SSIPC FD Conference
+IMAX – Connecting to SSC
+Crew replaces batteries for SPHERES session
+Start EMU cooling loop scrub
+CUBESAT – Deployment Photo
+Life On The Station Photo and Video
+ODF Books Update on IPAD [Aborted]
+OTKLIK. Hardware Monitoring
+RS1 Laptop Activation
+Test  of КЦП1-ЦВМ-ТВМ Command & Data Path
+RS1 Laptop Deactivation
+Test of Laptop RS3-КЦП2-ЦВМ-ТВМ Command & Data Path
+Formaldehyde Monitoring Kit (FMK) Removal ops
+Replacement of E-K Pre-treat Container and Hose in АСУ System
+ODF Books Update on IPAD [Aborted]
+Saving personal data from RSK2 Laptop prior to installation of a new SW version
+Opening JEMAL Outer Hatch and extending slide table to JEF side [Aborted]
+Installation of SW Version 4.1 on station Laptop RSK2.
+IMAX – Terminate Battery Charge
+Inspection of Portable Breathing Apparatus (PBA) and Portable Fire Extinguisher (PFE)
+Cleaning fan screens on FGB interior panels 116, 316, 231, 431
+Node 1 – Cable Installation/Routing Ops
+Installing of closeout panels that require no hatch closure
+COSMOCARD. Closeout Ops
+EMU Cooling Loop Post Scrub Water Sample
+IMS Delta File Prep
+WRS – Recycle Tank Fill
+EMU – Cooling loop maintenance for iodination
+JEMRMS – Hardware Checkout [Aborted]
+SPRINT – Hardware Setup
+В3 Fan Screen Cleaning inDC1
+Initiate condensate tank offload to CWC
+Changing Batteries for SPHERES
+IMAX – Terminate Codex 512 GB Drive charge
+Swap CWCs to allow for complete tank offload
+JEMAL- Hardware Removal [Aborted]
+JEMRMS RLT Laptop Deactivation [Aborted]
+Termination of Condensate Tank Offload to CWC
+EMU – Cooling Loop Maintenance – EMU Reconfig
+Weekly conference with the Program Management
+In Flight Maintenance (IFM) – Waste and Hygiene Compartment (WHC) – Full Fill
+Video Footage of Greetings
+Private Medical Conference
+IMAX – Power Down
+EMU – Long Dryout
+EMU-H2O – Conductivity Test
+In Flight Maintenance (IFM) – Waste and Hygiene Compartment (WHC) – Full Fill
+MRM2 comm config to support the P/L Ops
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ) Detachable Screens 1, 2, 3
+Progress 429 (SM Aft) priority and US cargo transfers and IMS Ops
+Kulonovskiy Kristall Experiment Run
+EMU – Cooling Loop Scrub – Deconfiguration
+EMU Resizing
+Changing Batteries for SPHERES
+EMU Resizing
+MRM2 Comm Reconfig for Nominal Ops
+KULONOVSKIY KRISTALL. Copying data to removable hard drive
+СОЖ Maintenance
+EVA – Equipment transfer from Airlock
+VIZIR. Experiment Ops
+Ventilation grille cleaning on FGB interior panels (panels 201, 301, 401)
+EVA – Equipment transfer from Airlock
+CONTENT. Experiment Ops
+Terminate BSA Battery Stowage Assembly Maintenance Cycle
+EVA – Stow equipment used in conductivity test
+Psychological Evaluation Program (WinSCAT)
+PAO Event / See OPTIMIS Viewer for Procedure
+Preparation of reports for Roscosmos site
+ECON-M. Observations and Photography
+
+ 
+Completed Task List Items
+
+Food Consolidation [In Work]
+61P Unpack [In Work]
+Safety Video Followup [In Work]
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+JEMRMS Ops [On Hold]
+UHF Activation in support of EMU Loop Scrub
+
+ 

@@ -1,0 +1,139 @@
+
+Engineered Heart Tissue (EHT):  The crew performed steps to troubleshoot noise seen in the data for the EHT habitats.  Ground teams report if they can isolate the source of the noise, the can factor it out of the data.  A Human iPSC (induced Pluripotent Stem Cell)-based 3D Microphysiological System for Modeling Cardiac Dysfunction in Microgravity (Engineered Heart Tissues) assesses human cardiac function in microgravity. It uses 3D cultured cardiac muscle tissue that mimics the architecture and function of adult human cardiac muscle. A magnet-based sensor placed underneath the tissue culture chamber allows real-time, non-destructive analysis of the functional performance and maturation of the tissues in space, which is compared with those cultured on Earth.
+Fluid Shifts: The crew performed activities related to the Chibis (lower body negative pressure) portion of the investigation.  Some issues were encountered with the Ultrasound video, but the team was able to work around it.  Fluid Shifts is a NASA investigation, divided into Dilution Measurements, Baseline Imaging, and Imaging with Chibis. The Chibis hardware is used to perform the Lower Body Negative Pressure (LBNP) part of the experiment. The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronaut’s eyes.  Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a LBNP device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and prevention of eye damage.
+MVP2 (Multi-use Variable-g Platform) Cell-03 fixation: The crew removed the Emory Modules from MVP-2, took a 7ml sample, injected the sample into a fixation bag, and then inserted Emory Modules back into the MVP-2 facility to continue the Cell-03 investigation.  The term ‘fixation’ refers to preservation of a sample for later analysis.  There are several different fixation methods available, depending on the sample targets of interest.  MVP2 Cell-03 studies the generation of cardiomyocytes, specialized heart muscle cells, for use in research and clinical applications. Specifically, the team is studying the differentiation of these heart cells from induced pluripotent stem cells (iPSCs), adult cells that have been altered to reinstate characteristics of natural stem cells. Simulated microgravity studies have allowed the team to increase the yield, purity, and survival of cardiomyocytes derived from iPSCs, and true spaceflight conditions are expected to further enhance these effects. Understanding how microgravity improves cardiomyocyte differentiation will enable the team to create clinically relevant heart tissue for use in regenerative medicine, disease modeling, and drug discovery.
+Nanoracks Module-51: The crew performed the second status check on the sub-investigations contained within the Mod-51 experiment box.  These sub experiments are the Vitamin-C Flask with syringe, Waxworm flask, Adipic acid and Venom flex plates, Yeast and amylase mixture tubes, and Flask with Flatworms.  Inspections of the experiments went well and the hardware was stowed.  Nanoracks Mod-51 itself is an aluminum module with a Velcro lid that can accommodate various sub-experiments.
+Nanoracks Module-72A troubleshooting:  The crew performed steps to attempt recovery of communication with the Nanoracks Mod-72A.  The troubleshooting was successful and Module 72A was subsequently powered up and began the transfer of log files.  These issues have been on-going for about a week and could be due to a bad or loose USB connection.  Module-72A has a Raspberry Pi Zero board and several sensors. This is an educational payload that allows students to code their own software experiments and have them collect data on the ISS.
+OsteoOmics-2 fixation: The crew attempted to perform the fixation operations on the remaining two OsteoOmics-2 Biocells contained in habitat 3.  One of the biocells had a small area of cloudiness and fixation was performed on it.  The other Biocell had more cloudiness (contamination) and was bagged and frozen.  The ground team is assessing the possible source of the contamination, which has affected the majority of the 24 total BioCells in the 4 habitats.  Millions of Americans experience bone loss, which results from disease or the reduced effects of gravity that can occur in bed-ridden patients. OsteoOmics tests whether magnetic levitation accurately simulates the free-fall conditions of microgravity by comparing genetic expression osteoblastic cells, a type of bone cell, levitated in a high-field superconducting magnet with cells flown in low-Earth orbit. This information helps scientists determine the molecular and metabolic changes that take place in magnetic levitation and real microgravity. 
+Systems
+SpaceX 20 (SpX-20) Dragon Cargo Operations: The crew continued to perform Dragon cargo operations today. Ground teams estimate ~ 57 hours of cargo operations remain prior to Dragon departure planned for April 6, 2020.   
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Multi-use Variable-g Platform-02 Cell-03 Fixation
+SPDM MISSE Sample Carrier Transfer
+PRO LSG Facility Commanding
+CHeCS Commanding/Data Downlink
+SDMS Activation
+Fluid Shifts Ultrasound Service Module Scan Subject
+VDS Robotics Ground Deconfiguration
+
+Lookahead Plan
+Wednesday, 3/18 (GMT 078)
+Payloads:
+
+
+Fluid Shifts
+JWRS check 2
+MELFI icebrick insertions
+MVP2 Cell-03
+OsteoOmics fixation
+PAUL
+Probiotics
+
+Systems:
+
+THC Intermodule Ventilation IMV Survey
+
+Thursday, 3/19 (GMT 079)
+Payloads:
+
+
+Engineered Heart Tissue
+ISS Experience
+ISS HAM pass
+MUSES server vent clean
+MVP2 Cell-03
+MELFI icebrick insertions
+TangoLab2
+
+Systems:
+
+RGN Wastewater Storage Tank Assembly Fill
+74P transfer operations
+
+Friday, 3/20 (GMT 080)
+Payloads:
+
+
+Acoustic Diagnostics
+CGBA4 maintenance
+Food Acceptability
+Food Physiology
+ISS Experience
+MELFI icebrick insertions
+Nanoracks Adidas Shoes
+PL NAS vent clean
+Radi-N2 deploy
+
+Systems:
+
+EMU Hard Upper Torso Remove and Replace
+Node 3 MCA ORU 2 R&R
+RGN Regenerative ECLSS Recycle Tank Leak Check 
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+ECON-M. Observation and Photography
+SCENARY. Observation and photography of catastrophic events and their aftermath
+Reminder 2 Fluid Shifts Imaging Measures With Chibis Service Module
+МО-8. Configuration Setup
+Body Mass Measurement – BMMD
+МО-8. Closeout Ops
+Astrobee Battery Setup
+LSG Work Volume Deploy
+Multi-use Variable-g Platform-02 MWA Preparation
+Nanoracks Module-51 Status 2
+On MCC Go Regeneration Micropurification Unit (БМП) Ф1 Absorption  Cartridge, terminate
+On MCC Go Regeneration of Micropurification Unit (БМП) Ф2 Cartridge, initiate
+FLUID SHIFTS. Comm configuration for the experiment
+FLUID SHIFTS. Gathering and Connecting Equipment for TV conference.
+FLUID SHIFTS. Activation of РБС for Ultrasound Equipment
+Fluid Shifts Ultrasound Service Module Power On And Preparation
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+FLUID SHIFTS. Assistance with CHIBIS set and [KMA-01] Medical Hardware operations.
+FLUID SHIFTS. Don Chibis
+Astrobee Battery Swap
+Fluid Shifts Ultrasound Service Module Scan
+FLUID SHIFTS. Doff Chibis
+Multi-use Variable-g Platform-02 Cell-03 Fix
+FLUID SHIFTS. Disconnect РБС and Ultrasound (USND) P/L from РБС
+Fluid Shifts Ultrasound Service Module Stow
+Fluid Shifts SSC Cable Setup
+FLUID SHIFTS. Connecting SSC1 to Ethernet
+Multi-use Variable-g Platform-02 Historical Documentation Photography
+FLUID SHIFTS. Deactivation of КСПЭ Equipment and Closing Applications on  SSC1
+Probiotics Item Gathering
+Fluid Shifts HRF PC CCFP Service Module Setup
+FLUID SHIFTS. Restore nominal comm config
+Fluid Shifts Ultrasound Hardware Transfer
+Astrobee Battery Swap
+Cargo Transfer from and to Dragon
+Multi-Use Variable-G Platform-02 Sample MELFI Insertion 1
+EXPRESS Rack10B Payload MTL Flow Rate Adjust
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+On MCC Go Purging Elektron-VM Liquid Unit (БЖ) after Shutdown
+LSG Primary Crew Restraint Unfold
+OsteoOmics Fixation Operations
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Inventory Audit for DC1 Operations.
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+OsteoOmics Saline Kit Relocate
+Astrobee Battery Stow
+ISS Experience Solid State Drive Changeout
+Progress 443 (DC1) Cargo Transfers and IMS Ops
+Engineered Heart Tissue Data Test
+Nanoracks Module-72A Troubleshooting
+OsteoOmics-2 MELFI Sample Insertion
+MELFI 3 Ice Brick Insert 7
+Reminder 2 Fluid Shifts Imaging Measures With Chibis Service Module
+
+ 

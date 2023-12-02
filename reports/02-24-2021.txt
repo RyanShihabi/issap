@@ -1,0 +1,19 @@
+
+Payloads
+CIR (Combustion Integrated Rack) Fluids and Combustion Facility: The crew replaced the CIR FOMA Cal Unit. The CIR includes an optics bench, combustion chamber, fuel and oxidizer control, and five different cameras for performing combustion investigations in microgravity.
+Micro-16: The crew printed an on-board copy of the checklist for the Syringe Pump Sequence and Valve Position. Loss of muscle mass and strength present a major challenge for astronauts on future long space voyages. Determining Muscle Strength in Space-flown Caenorhabditis elegans (Micro-16) uses this tiny worm to test whether decreased expression of muscle proteins is associated with decreased strength. The research team developed a new device to measure muscle strength in multiple generations of space-reared C. elegans worms and compare that strength to postflight muscle gene expression analyses.
+HRF-1 (Human Resources Facility-1): The crew removed the Payload Ethernet Hub Bridge (PEHB) from the HRF-1 Rack and partially replaced it with an improved Payload Ethernet Hub Gateway (PEHG). There were some issues with the cable installations and ground teams are evaluating a troubleshooting plan to complete the rest of the installation. The rack was placed in a safe configuration. HRF-1 provides an on-orbit laboratory that enables scientists conducting human life science research to evaluate the physiological, behavioral, and chemical changes induced by space flight. Research performed using HRF-1 provides data to help scientists understand how the human body adapts to long-duration spaceflight.
+Systems
+Extravehicular Mobility Unit (EMU) On-orbit Fitcheck Verification (OFV): The crew performed a fitcheck of EMUs 3009 and 3015 in order to verify correct EMU sizing prior to the ISS Roll Out Solar Array (IROSA) Prep Extravehicular Activity (EVA). During the OFV, EMU 3015 failed an automated leak check. Initial troubleshooting of the EMU was unsuccessful. Eventually, the crew as able to isolate the Lower Torso Assembly (LTA) as the suspect component and swapped the component with another LTA from EMU 3006. EMU 3015 successfully passed the leak check and the OFV was completed for both EMU 3009 and 3015 and suits are in a nominal configuration.
+EVA Preparations: The crew completed several activities in preparation for the IROSA Prep EVA. The crew reviewed a detailed timeline, the tool configuration summary, the sharp edge briefing, notes, cautions and warnings, and Dynamic Onboard Ubiquitous Graphic (DOUG) animations. The crew also performed a Rechargeable EVA Battery Assembly (REBA) powered hardware checkout for glove heaters and EMU TV on EMU 3009.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+X2R19 Software Transition Commanding (Day 2 of 4)
+EMU OFV Support Commanding
+Crew-1 Dragon Checkout
+

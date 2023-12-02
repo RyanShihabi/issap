@@ -1,0 +1,78 @@
+
+Group Combustion Module (GCM) Installation: FE-5 continued with the third day of installation and preparation for the GCM experiment and was to perform two pressure decay leak checks. After the first check, a leak was detected in the Air/O2 line, thus aborting the second check until specialist can determine the cause and develop a solution. The Elucidation of Flame Spread and Group Combustion Excitation Mechanism of Randomly-distributed Droplet Clouds (Group Combustion) investigation by the Japan Aerospace Exploration Agency (JAXA) tests a theory that fuel sprays change from partial to group combustion as flames spread across a cloud of droplets. In the Multi-Purpose Small Payload Rack (MSPR) in the Kibo module, droplets of decane, a component of gasoline or kerosene, are arranged randomly on thin-fiber lattice points, and the flame and droplet positions and temperature distribution are measured as the flame spreads. Microgravity blocks convection, which on Earth would quickly disperse the droplets and combustion products before such measurements could be made. 
+Bigelow Expandable Activity Module (BEAM): FE-6 ingressed BEAM and temporarily installed the Internal Wireless Instrumentation System (IWIS) Remote Sensing Unit (RSU) in Node 3 and the Triaxial Accelerometer (TAA) in BEAM. Following the instrument installation, FE-6 performed a modal test by imparting loads onto BEAM and measuring the acceleration throughout the module. Expandable habitats, occasionally described as inflatable habitats, greatly decrease the amount of transport volume for future space missions. These “expandables” weigh less and take up less room on a rocket while allowing additional space for living and working. They also provide protection from solar and cosmic radiation, space debris, and other contaminants. Crews traveling to the moon, Mars, asteroids, or other destinations could potentially use them as habitable structures
+ENERGY (Astronaut’s Energy Requirement for Long-Term Space Flight: FE-5 began the first day of the 11 day ENERGY experiment. Intended to measure an Astronaut’s Energy Requirements, ENERGY will require FE-5 to consume standardized meals today and tomorrow, in addition to diet logging over the entire 11 day duration. Today FE-5 also setup the Armband Activity Monitor which will be worn through the duration of the experiment, took water samples, and setup the oxygen uptake measurements (XTP). Energy investigation measures an Astronaut’s Energy Requirements for Long-Term Space Flight, a crucial factor needed for sending the correct amount of the right types of food with space crews. Astronauts often lose body mass with extended stays in space for reasons that remain unclear, although increased exercise as a microgravity countermeasure may be a factor. Knowing details of astronaut metabolism and activity, combined with other conditions, will help ensure that crews are properly nourished on long missions. 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+Personal CO2 Monitor iPad Application Restart
+Soyuz 731 Descent Procedure Update
+Preparation of Reports for Roscosmos Web Site and Social Media
+URAGAN. Observation and photography
+RS Photo Cameras Sync Up to Station Time
+EKON-M. Observations and photography
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) Leak Check 1 [Cancelled]
+Fine Motor Skills Experiment Test – Subject
+Replacement ПУ-1 in АСУ
+Hard To Wet Sample Module Inspection
+Food Frequency Questionnaire (FFQ)
+Water Recovery System Waste Water Tank Drain Init
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Mating New Control Panel Telemetry Cable to БИТС2-12
+Group Combustion Module (GCM) Experiment Laptop Terminal 2 (ELT2)  Setup
+Replacement ПУ-1 Control Panel in [АСУ]
+Water Recovery System Waste Water Tank Drain Termination
+MRM2 comm config to support the P/L Ops
+Kulonovskiy Kristall Experiment Run
+MRM2 Comm Reconfig for Nominal Ops
+KULONOVSKIY KRISTALL
+Habitability Human Factors Questionnaires – Subject
+Habitability Human Factors Directed Observations – Subject
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Remove Items in Front of N3A for Hatch Access
+Photo/TV N3/BEAM Camcorder Setup
+ARED Platform Fold
+Food Frequency Questionnaire (FFQ)
+BEAM Ingress
+Air sampling in BEAM module using AK-1M sampler before air duct installation
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) Leak Check 2
+Replacement of CO2 Filter Unit ИК0501
+Personal CO2 Monitor Power Cycle
+TAA Install in BEAM
+СОЖ maintenance
+Tape Distributed Impact Detection System (DIDS) sensors
+Modal Test
+Armband Activity Monitor Setup
+Progress 432 [OA] Stowage Ops with IMS Support
+ENERGY Water Sample
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) pressure gauge check and Valve Operations.
+PAO Preparation
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Energy PFS Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Deconfigure IWIS
+DDS Data Download to BEAM SSC
+OTKLIK. Hardware Monitoring
+BEAM Cleanup and Egress
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+Return Items Back to N3A Location That Were Removed for BEAM Ingress
+ARED Platform Unfold Back to Nominal Position
+Ghost Camera Stow
+INTERACTION-2. Experiment Ops
+Inventory Management System (IMS) Conference
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) pressure gauge check and Valve Operations.
+CB/ISS CREW CONFERENCE
+Flight Director/ISS CREW CONFERENCE
+Crew Choice Event
+Personal CO2 Monitor Power Cycle
+Personal CO2 Monitor Doff and Charge
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+Lab MCA Zero Calibration [Delayed]
+

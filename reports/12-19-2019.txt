@@ -1,0 +1,156 @@
+
+Microgravity Crystals: The crew performed the procedure review, pipetted and mixed solutions of varying viscosities onto the crystallization plates. The crystals will be allowed to develop over a period of 10 days in temperature-controlled conditions.  The investigation crystallizes a membrane protein that is integral to tumor growth and cancer survival. Although crystallization of this protein has yielded unsatisfactory results on Earth, this investigation leverages extensive protein crystallization work on the space station, significantly increasing the likelihood of successful crystal growth. Results may support development of cancer treatments that target the protein more effectively and with fewer side effects.
+NREP-5 (Nanoracks External Platform mission-5) installation: In preparation for transfer and installation to the JEM Exposed Facility, the crew removed the Nanoracks External Platform (NREP) mission-4 hardware and installed the mission-5 sub payloads onto the NREP system.  NREP-5 contains the Craig-X and Astrileux sub payloads and is planned to be passed through the JEM airlock, robotically installed onto the Exposed Facility and activated at the end of this week.
+
+Craig-X is a Flight Test Platform (FTP) designed to promote electronics testing to raise Technology Readiness Levels (TRL) at a low cost and a reduced time frame.
+Astrileux evaluates the effects of space exposure on new materials that, for the first time, show optical performance in the extreme ultraviolet (EUV) wavelength range (10-20 nm).  These materials have potential for a new generation of space instrumentation that can capture EUV radiation for use in remote sensing, planet mapping, telescopes, semiconductor applications and other systems.
+
+PL NAS (Payloads Network Attached Storage) vent clean: Using the AC Vacuum Cleaner, the crew cleaned vents on the Front, Back, and Left Side of the Payload NAS located at LAB1O6 Aft Bulkhead.  This was performed as routine maintenance.  The Payload Network Attached Storage (NAS) is a file server with 5 hard drive bays that provides a total of 20 terabytes of raw disk space when used with 4 terabyte hard drives.  Among other capabilities, the PL NAS supports user file transfers from their machine via web browser, and allows onboard ISS systems to access a shared folder location on the NAS.
+Systems:
+Boeing OFT Preparations:  Today, the ISS prepared for the Boeing OFT mission arrival and performed pre-packing activities in support for future transfers. They also completed the Node 2 forward location clean out activity that moved all items from the Node 2 location and stowed them in the Airlock in preparation for the OFT vehicle arrival. Additionally, they performed a setup and checkout crew monitoring tools required for CST-100, including the CST-100 Docking Monitor application and Rendezvous and Proximity Operations Program (RPOP). Currently, Starliner is scheduled to launch on December 20 and dock with the ISS on December 21.
+Total Organic Carbon Analyzer (TOCA) Leak Troubleshooting:  On GMT 301, the crew attempted to perform a Total Organic Carbon Analyzer (TOCA) Functional Checkout on Spare TOCA unit.  This activity is performed every 2 years to ensure functionality of TOCA in case of failure of our prime unit. While starting the calibration check run, the crew reported hearing priming noises (loop priming was part of the procedure) and proceeded with the procedure.  On November 5, 2019, the TOCA team determined that data review strongly indicated that water is leaking in the sample loop. Therefore, today the ISS crew temporarily installed the spare Total Organic Carbon Analyzer (TOCA) in the lab and investigated the internal leak.
+61S Emergency Drill: Today the ISS crew participated in the 61S Emergency Drill which is designed to prepare the crew for multiple emergency situations on the Soyuz vehicle.
+Completed Task List Activities:
+
+No completed task list activities.
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+
+Thursday, 12/19 (GMT 353)
+Payloads:
+
+
+BFF
+Food Acceptability
+Food Physiology
+Kidney Cells Pump Install (SABL t/s)
+Microgravity Crystals
+JEMAL/NREP installation
+PLNAS vent clean
+Standard Measures
+
+Systems:
+
+61S Emergency Drill/61S OBT
+PCS Relocate
+CST Prepack
+CST Monitor S/U
+CST Node 2 Fwd Clean-out
+
+Friday, 12/20 (GMT 354) – Off-Duty Day (OFT Launch)
+Payloads:
+
+
+ISS HAM pass
+
+Systems:
+
+No Systems Activities
+
+Saturday, 12/21 (GMT 355) – OFT Docking Day
+Payloads:
+
+
+BFF media replacement
+Combined Combustion prep
+Fluid Shifts
+Food Acceptability
+FSL prep
+HERMES vacuum valve
+JWRS
+RR-19
+
+Systems:
+
+CST Monitoring
+RWS Setup
+Node 2 hatch closures
+CST Hatch Open and Ingress
+ACS Mode – Docking
+Node 2 Vestibule Pressurization
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+HRF Generic MELFI Sample Retrieval And Insertion Operations
+HRF Generic Saliva Collection Stow
+ISS Crew and ГОГУ (RSA Flight Control Team) Weekly Conference
+Environmental Health System (EHS) Acoustic Monitor Setup
+LSG Secondary Crew Restraint Fold
+JEM Airlock Press
+Cargo restow to connect ПН28-120 converter for Fluid Shifts
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) PFU3 Run Start
+NanoRacks External Platform Hardware Gather
+Acoustic Monitor Setup for Static Measurements
+JEM Airlock Leak Check
+CST-100 SSC Relocation
+NREP XF305 Video Setup
+NanoRacks External Platform Slide Table Remove
+PCS Laptop Relocate
+PROFILAKTIKA-2. Preparation for the Experiment.
+Air Heater Fan [БВН] Screen Cleaning in Soyuz 746
+CST-100 Corridor Monitoring Tools Setup (Lab)
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Analysis of SM Atmosphere for Freon (Background Measurement) Using Freon Leak Analyzer/Detector (ФИТ)
+NanoRacks External Platform Slide Table Remove Assist
+NanoRacks External Platform Slide Table Remove
+NanoRacks External Platform Hardware SWAP
+PROFILAKTIKA-2. MO-3 Test Assistance.
+Countermeasures System (CMS) Advanced Resistive Exercise Device (ARED) Exercise Session
+PROFILAKTIKA-2. Experiment session on БД-2 Treadmill (МО-3 Passive Mode Test).  Tagup with specialists
+Microgravity Crystals Payload Review
+PROFILAKTIKA-2. Closeout Ops.
+Microgravity Crystals Card Print
+Microgravity Crystals Maintenance Work Area Preparation
+NanoRacks External Platform Slide Table Assist Capture
+СОЖ maintenance. Verification of ИП-1 Flow Sensor Position
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) PFU 3 Leak Troubleshooting Run Start
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Microgravity Crystals MELFI Vial Retrieve
+Microgravity Crystals Screening Prod Load S/N 1A/2A
+JEM Airlock Depressurization
+Checking connection of Air Conditioner [СКВ1] Heat Exchanger (БТА) to Replaceable Condensate Removal Lines [СМОК].
+Node 2 Forward Hatch Cleanout
+PROFILAKTIKA-2. Hygiene Procedures
+HRF Rack 1 Supply Kit Inventory
+Replacement of RSS1 Laptop with Zbook and testing.
+CST Russian Laptop Setup
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) PFU 3 Leak Troubleshooting Run Start
+SODF update
+BioFabrication Facility Procedure Review
+Kidney Cells Pump Install
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) PFU 3 Leak Troubleshooting Run Start
+Inventory Management System (IMS) Conference
+CB/ISS CREW CONFERENCE
+Food Acceptability Survey
+Health Maintenance System (HMS) Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+JEM Airlock Vent
+CST-100 Cargo Prepack
+Payloads Network Attached Storage (NAS) Vent Cleaning
+Pressurization of Elektron-VM Liquid Unit before Activation
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+Private Psychological Conference (PPC)
+Prep. TV report
+Node 2 Forward Hatch Opening
+ISS Emergency OBT Drill (Soyuz 744 Descent).
+24-hour ECG Recording (start)
+24-hour Blood Pressure Recording (start)
+IMS Delta file prep
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) PFU3 Functional Check
+JEM Airlock Vent Confirmation
+Flight Director/ISS CREW CONFERENCE
+On MCC Go Deactivation of camcorder, TV system monitoring equipment, closing applications
+PROFILAKTIKA-2. Equipment setup
+Station Support Computer Hyper Visor 1 Battery Reseat
+Program Management/ISS Crew Conference
+Daily Planning Conference
+Reminder Rodent Research Thermal Consideration
+Flight Test Objective – CST-100 Mission Questionnaires
+Flight Test Objective (FTO) Tablet Evaluation
+
+ 

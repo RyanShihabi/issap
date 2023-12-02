@@ -1,0 +1,22 @@
+
+Payloads:
+Causal Analysis of Cardiorespiratory Coupling on the ISS (Cardiobreath): After donning the Bio-Monitor sensor garment and setting up the appropriate hardware, the crew performed a Cardiobreath exercise session. Astronauts experience changes in their cardiovascular, respiratory, and musculoskeletal systems during spaceflight, which can affect their capacity to exercise and to maintain blood pressure when standing after return to Earth. Cardiobreath studies the combined effects of cardiovascular and respiratory adaptations on blood pressure regulation during spaceflight. Results could provide a better understanding of the mechanisms of these adaptations on long-duration missions and support development of methods for assessing cardiovascular and respiratory effects on blood pressure before and after spaceflight.
+Cerebral Autoregulation: The crew performed a Cerebral Autoregulation science session. As the body’s most important organ, the brain needs a strong and reliable blood supply, so the brain is capable of self-regulating blood flow even when the heart and blood vessels cannot maintain an ideal blood pressure. The Cerebral Autoregulation investigation tests whether this self-regulation improves in the microgravity environment of space. Non-invasive tests measure blood flow in the brain before, during, and after a long-duration spaceflight, and provide new insights into how the brain safeguards its blood supply in a challenging environment.
+Fiber-optic Active Dosimeter (Lumina): The Lumina experiment hardware was power-cycled to prepare it to handle large file transfers, and an experiment data transfer was initiated. Lumina is an active fiber dosimeter that monitors, in real-time, the received radiation dose by exploiting the capacity of optical fibers to darken when exposed to radiation. The dosimeter provides reliable dose measurements in complex environments such as the ones associated with electrons, protons, gamma-ray or X-ray photons or neutrons.
+Materials Science Research Rack/Materials Science Laboratory (MSRR/MSL): The crew gained access to the MSL furnace area, and exchanged sample cartridge assemblies (SCAs). One of the SCAs in the processing plan is part of the Growth of Ternary Compound Semiconductor (GTCS) experiment. GTCS grows semiconductor crystals based on zinc selenide (ZnSe) compounds in microgravity. ZnSe-based crystals have been potential applications for high-power lasers operating in infrared wavelengths. The investigation compares structural quality of crystals grown on Earth and in microgravity to establish how gravity-driven fluid flows contribute to formation of various types of crystalline defects.
+Systems:
+Toilet Operations: Activities continued today in support of Toilet testing. The crew inspected the Toilet Pre-Treat Tank, Pretreat Hose, Water Hose, and Conductivity Monitor Manifold Hoses for connection, kinks, or damage that may cause decreased dosing. A manual dose check of the Toilet System was performed to verify nominal Dose Pump performance, and the Toilet EDV was inspected for pretreatment. The crew also completed the Toilet System daily questionnaire, inspected the mitts for signs of contamination, and built two new EDVs.
+Simplified Air for Extravehicular Activity (EVA) Rescue (SAFER) Activities: Today the crew installed the SAFER battery adapter and performed a checkout of the SAFERs in preparation for EVAs. Essentially a “life jacket” for spacewalks, SAFER is a self-contained maneuvering unit that is worn like a backpack. The system relies on small jet thrusters to let an astronaut move around in space.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain/Fill: The crew set up the recycle tank to drain via the Urine Processor Assembly (UPA) Fill Drain Valve into a Brine EDV using the Urine Transfer System (UTS). Following the setup, the ground performed the tank drain using the UTS. Once the ground specialists completed the transfer, the crew verified the recycle tank was empty, terminated the drain, repositioned the fill/drain valve to force fill the recycle tank using UTS, and configured for nominal processing operations.
+Completed Task List Activities:
+
+JAXA Video Taking Part 7
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SDMS Activation
+PTCS Node 3 Heaters Preheat
+C&DH Validity Check Inhibit for Transition to Proximity Operations Mode
+PPS SARJ Lock
+

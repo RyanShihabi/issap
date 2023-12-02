@@ -1,0 +1,95 @@
+
+Ocular Health (OH) Vision Test:  With assistance from ground medical support personnel, Flight Engineer (FE)-3 Hopkins completed a vision test today as part of his Flight Day 120 Ocular Health session that will be completed over multiple days.  This was the first use of the new Optical Coherence Tomography (OCT) laptop that arrived on Orb-1 and installed last Friday, January 17th. No issues were reported.  The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers.  Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post flight recovery will assist in the development of countermeasures, clinical monitoring strategies and clinical practice guidelines.
+NanoRacks Microscope Operation with Module-38:  FE-6 Wakata continued with microscopic analysis of the NanoRacks Module-38 Petri dishes.  These Module-38 experiments are designed by students as part of a competition sponsored by the International Space School Educational Trust (ISSET).  This particular experiment examines three-dimensional growth of slime mold in Petri dishes utilizing the NanoRacks Microscopes Facility.
+NanoRacks Platform-1 Hardware Upgrade:  Hopkins installed and activated NanoRacks Platform-1 with Module-39.  The Multi-Gas Monitor uses laser sensors to continuously measure oxygen, carbon dioxide, ammonia, and humidity in spacecraft cabin air in real time. The multiple low power, tunable lasers train an infrared laser beam on an air sample, and sensors tuned to specific wavelengths of light detect which gases are present. The instrument fits in a device the size of a shoebox and detects the presence of various gases in less than one second.
+ENERGY (Astronaut’s Energy Requirements for Long-Term Space Flight):  Today Hopkins set up and positioned an Armband monitor on his right triceps, where it will be worn for the next 10 days while he is executing the ENERGY diet protocol.   A loss in astronauts’ body mass is a common observation during space flight. ENERGY measures change in energy balance in crewmembers following long term space flight.  It also measures adaptations in the components of total energy expenditure of crewmembers, so that an equation to determine the energy requirements of crewmembers during space flight may be derived. Such knowledge is of great importance to ensure optimal crew health and performance, overall mission success, and to ensure adequate exercise load and cargo allotments for food are provided while the crew is on-orbit.
+Device for the study of Critical Liquids and Crystallization (DECLIC) Investigation:  Wakata removed the High Temperature Insert (HTI) from the DECLIC Experiment Locker (EXL) and then installed and activated the ALICE-LIKE Insert (ALI) in the EXL. A DECLIC ALI 18-day run.  The flow of heat during boiling events is different in microgravity than it is on Earth.  DECLIC ALI results will help scientists understand how heat flows in fluids at the verge of boiling will help scientists develop cooling systems for use in microgravity.
+JEM Thermal Control Assembly (TCA) Pump Package Troubleshooting:  Wakata performed the initial TCA Low Temperature Loop (LTL) Pump Package troubleshooting.  This troubleshooting included an inspection of the unit and connectors.  The crew reported a small amount of condensate water near the manual valve then wiped it dry. Photographs of the inspection were taken then downlinked for ground specialist to review.  The TCA LTL Pump Package failed on January 14th. There are no spares currently onboard.  The JEM is operating in a single loop mode in order to maintain cooling for all of its hardware.
+Express Rack 2 Active Rack Isolation System (ARIS) Hardware Removal and Rack Modification:  The activity for Express Rack 2 removal of ARIS hardware and rack modification with K-BARs (Kneebrace Bolt Action Replacement) and Pivot brackets did not take place as planned today. The activity deferral was due to the crew’s inability to locate one of the needed pivot brackets. Completion of the activity would have allowed the rack to be rotated down more easily.  Ground teams are working on finding out whether or not an alternate bracket can be used.
+Extravehicular Activity (EVA) Retractable Equipment Tether (RET) Inspection: Mastracchio gathered USOS EVA Tools and performed an inspection of retractable equipment tethers (RETs) that will be loaned to the Russians Segment (RS) for EVA 37A.  All of the standalone RETs passed the inspection; however the crew noted possible damage on the RET attached to the camera bracket and the D-ring extenders.  Ground teams will review photos and disposition the EVA Tools before the hardware handover is finalized.
+Today’s Planned Tasks
+
+Regeneration of БМП Ф1 Micro purification Cartridge (start)  [Complete]
+SPHERES – Battery Installation [Complete]
+Inspection of safety tether extension rings for RS EVA 37A [Complete]   
+TOCA Calibration [Complete]
+Preparation of 2 EVA kits from 1.0 СТВ serial #1159 in DC1 as preparation for transfer to USOS [Complete]
+On Board Training (OBT) ISS Crew Medical Officer (CMO) Computer Based Training (CBT) [Complete]
+NANO – Module-38 Operations [Complete]
+2 Kits transfer from RS to USOS for inspection of RET tethers  [Complete]
+Measure locations of joints on all RET including already secured RET which will be used for RS EVA 37А [Complete]
+Exercise data downlink  [Complete]
+Checking EVA support panel (ПОВ) in ПхО  [Complete]
+MSPR Microscope Deactivation [Complete]
+Aniso Tubule Closeout [Complete]
+Set-Up and Test TV D/L from SM using video camera Sony HVR-Z7E before RS EVA 37A.  [Complete]
+Microscope Configuration Change [Complete]
+DSC – Flash Disk Exchange [Complete]
+Testing PEV from DC1 ПОВ [Complete]
+ExPRESS-2 Rack Active Rack Isolation System (ARIS) Removal  [Deferred]
+Testing PEV from ПхО ПОВ (ПхО EVA Support Panel)  [Complete]
+EVA Support Panel Test in DC1  [Complete]
+ВКС hardware preparation for disposal on Progress #420 (DC1) [Complete]
+SPHERES – Installation of Charged Batteries [Complete]
+Combustion Integrated Rack Alignment Guide Removal [Complete]
+Reviewing EVA Translation Paths and Work Zones through ISS Windows   [Complete]
+NanoRacks Platform-1 Install and Activation [Complete]
+MS – Activation [Complete]
+Specific EVA Procedure Review   [Complete]
+Multipurpose Small Payload Rack (MSPR) Hub Deactivation [Complete]
+ECLSS. Recycling tank replacement [In Work]
+TOCA – Calibration Check [Complete]
+ExPRESS-2 Rack Active Rack Isolation System (ARIS) Removal  [Complete]
+G1 Camcorder installation  [Complete]
+JEM ECLSS/TCS RACK DOWN [Complete]
+Cleaning FGB ГЖТ Detachable Screens 1, 2, 3  [Complete]
+Gathering equipment and tools for EVA. Bundle Consolidation  [Complete]
+SPHERES – Installation of Charged Batteries [Complete]
+Armband Activity Monitor Setup [Complete]
+LTL pump trouble shooting, Part 1 [Complete]
+FGB panels dimension check out  [Complete]
+ENERGY Water Sample Collection [Complete]
+ENERGY – PFS Setup  [Complete]
+PMM GLA 4 troubleshooting (PMM1PF4) [Complete]
+ECLLS/TCS RACK1 rotation upward [Complete]
+JEM TCA L Gas Trap Bypass Manual Valve Close [Complete]
+DECLIC High Temperature Insert Removal [Complete]
+DECLIC ALI Setup and Activation [Complete]
+СОЖ Maintenance [Complete]
+TERMO-LADA. Visual Inspection of Hardware Operations [Complete]
+Terminate charge of the 1st Battery Pack 825М3 and start charging the 2nd Battery Pack No.1268861163 (00060663R, ФГБ1ПГО_2_221_1) [Complete]
+HMS – Vision check [Complete]
+MOTOCARD. Experiment Ops. [Complete]
+MOTOCARD. Assisting with the Experiment. [Complete]
+SPHERES – Installation of Charged Batteries [Complete]
+SPHERES. OBT [Complete]
+SPHERES SLOSH – documentation review [Complete]
+Preparation for МО-21. Cryogem-03M Setup  [Complete]
+Journal Entry [Complete]
+IMS Update  [Complete]
+БМП Ф1 Absorption Cartridge Regeneration (termination) [Complete]
+MO-21 prep. Ecosfera battery charge  [Complete]
+SPHERES Battery Stow [Complete]
+
+Task List
+
+ARED Cylinder Evac [Complete]
+National Geographic B Roll Part 4 [In Work]
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+URAGAN. Observation and photography
+EKON-M. Observations and photography
+CFE VG2 Ops
+SSC5 UBA Hard drive Swap [Complete]
+St Moon Read  [Deferred]
+BLB Laptop Photo  [Complete]
+POM Battery Remove  [Complete]
+JAXA Report
+JWIS RSU Label Install [In Work]
+LCVG Water Sample [Complete]
+OGS Rack Assessment [Complete]
+
+Ground
+
+Nominal Commanding 
+

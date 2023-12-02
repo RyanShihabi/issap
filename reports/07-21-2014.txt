@@ -1,0 +1,121 @@
+
+55 Progress (55P) Undock:  55P successfully undocked from the ISS at 4:44pm CDT. Progress will remain in orbit for the non-ISS-related “Radar-Progress” experiment. Final deorbit burn is planned for July 31 at 4:54pm CDT.
+Intravehicular Activity (IVA) Clothing Study: Over the weekend, Commander (CDR) Swanson, Flight Engineer (FE)-1 Skvortsov, and FE-2 Artemyev started their 15-day IVA Clothing study. The crew will wear commercially available lightweight clothes that have been designed to resist germs. Sufficient cotton clothes for a crew of six adds more than 900 pounds of freight to the ISS. Replacing crew uniforms with non-cotton apparel could reduce weight for cargo launches, trash removal and provide crewmembers with more comfortable, longer-lasting clothes.
+Ocular Health: Swanson conducted his Flight Day (FD) 120 and FE-6 Gerst conducted his FD 60 Ocular Health vision test using the tonometer to collect eye pressure measurements and they will also collect blood pressure measurements. Tomorrow, retinal images will be collected using the fundescope. The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Burning and Suppression of Solids (BASS)-II Operations: FE-5 Wiseman conducted flame tests for the BASS-II investigation. This investigation examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity. The experiment will guide strategies for materials flammability screening for use in spacecraft as well as provide valuable data on solid fuel burning behavior in microgravity. Results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Aquatic Habitat Preparation for Zebrafish: Gerst installed an Aquatic Habitat controller, lights and cameras into the work volume of the Multi-Purpose Small Payload Rack (MSPR). These updates are in preparation for Zebrafish which will be delivered to the ISS on 40 Soyuz.
+Biochemical Profiles: Swanson collected FD 120 blood and urine samples for the Biochemical Profiles investigation. This experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Combustion Integration Rack (CIR) Fuel Oxidizer Management Assembly (FOMA) Calibration Maintenance: Wiseman Removed and Replaced (R&Rd) the CIR FOMA calibration unit which is periodic maintenance for CIR recertification. On Wednesday, Swanson will R&R two CIR igniters which will allow ground teams to continue FLame Extinguishment Experiment (FLEX)-2 operations.
+Ultrasound Background Noise Test (UBNT): FE-2 Artemyev and Swanson set up a UBNT test session to run in conjunction with the Russian Ultrasound Analyzer. Artemyev collected acoustic measurements near US Lab module hatches.  This data collected from the UBNT hardware will be compared with the Russian Ultrasound Analyzer data. This investigation is a joint collaboration between the NASA and Russian science programs.
+Circadian Rhythms: On Sunday, Wiseman donned the Circadian Rhythms hardware to start a 36 hour data take. Tomorrow, Wiseman will terminate the data collection. The main objective of the experiment is to get a better basic understanding of any alterations in circadian rhythms in humans during long-term space flights. This data will provide important insights into the adaptations of the human autonomic nervous system in space over time, but also has significant practical implications by helping to improve physical exercise, rest- and work shifts as well as fostering adequate workplace illumination in the sense of occupational healthcare in future space missions.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+Calf Volume Measurement [Complete]
+HRF Urine Sample Collection [Complete]
+HRF – Urine Sample MELFI Insertion [Complete]
+HRF – Activation of Refrigerated Centrifuge [Complete]
+HRF – Blood collection assistance [Complete]
+HRF Refrigerated Centrifuge Configuration [Complete]
+TORU OBT. r/g 6153 [Complete]
+MSG – Visual inspection and activation [Complete]
+G1 – Camcorder Setup [Complete]
+HRF – Crew removes blood tubes and powers off the Refrigerated Centrifuge [Complete]
+ZEBRA_AQH. Hardware Setup Part 1 [Complete]
+HRF – MELFI Sample Insertion [Complete]
+BASS Operations Preparation [Complete]
+Ocular Health (OH) – Vision Test [Complete]
+OTKLIK. Hardware Monitoring / r/g 6040 [Complete]
+Auxiliary Laptop Anti-Virus Update / r/g 5705 [Complete]
+Vision Questionnaire [Complete]
+Ocular Health (OH) – Vision Test [Complete]
+OH – Tonometry Test Setup [Complete]
+AU-UBNT. Test Load [Complete]
+AU-UBNT. Test Load / USOS procedures [Complete]
+Vision Questionnaire [Complete]
+OH – Crew performs blood pressure measurement and records results [Complete]
+OH – Blood Pressure Operations Assistance [Complete]
+OH – Tonometry Test – CMO [Complete]
+Ocular Health (OH) Tonometry Ops – Test Subject [Complete]
+Ocular Health (OH) Blood Pressure Operations [Complete]
+OH – Blood Pressure Operations Assistance [Complete]
+OH – Tonometry Test – CMO [Complete]
+Ocular Health (OH) Tonometry Ops – Test Subject [Complete]
+Stow after Tonometry Test [Complete]
+IVA. Exercise Clothes Survey / USOS procedures [Complete]
+CIR – Preparation Ops [Complete]
+ZEBRA_AQH. Hardware Setup Part 2 [Complete]
+BAR. Running the Experiment on USOS with AU-UBNT r/g 6155 [Complete]
+CIR. Optics Bench Translation [Complete]
+TOCA Calibration [Complete]
+ISS HAM HAM Radio Deactivation  [Complete]
+CIR. Module Relocation [Complete]
+HRF – Closeout Ops and Stowage [Complete]
+CIR. Optics Bench Translation for Operation [Complete]
+·HRF – Stow Urine Collection Equipment [Complete]
+MSPR ELT  – Hardware Setup [Complete]
+IVA. Exercise Clothes Survey / USOS procedures [Complete]
+G1 Camcorder Closeout [Complete]
+CIR – Rack Doors Close [Complete]
+AU-UBNT. Test Shutdown [Complete]
+AU-UBNT. End of test  / USOS procedures [Complete]
+WRS Maintenance [Complete]
+AU-UBNT. Gathering Experiment Data [Complete]
+AU-UBNT. Experiment Data Downlink /  USOS procedures [Complete]
+Utilized water tank unload from WPA in CWC [Complete]
+PAO Hardware Setup [Complete]
+Video Footage of Greetings / r/g 6154 [Complete]
+Crew Prep for PAO [Complete]
+WinSCAT Test [Complete]
+PAO Event [Complete]
+Dried Clothes Stowage [Complete]
+Preparation for SM Window No. 1 Inspection and Photography  r/g 6150 [Complete]
+AU-UBNT. Downlink of raw data / USOS procedures [Complete]
+IVA – Photography of Clothes during Exercise [Complete]
+Closing covers of windows 6,8,9,12,13,14 / r/g 5451 [Complete]
+Terminate WPA Waste Water Tank Offload into CWC [Complete]
+Dried Clothes Stowage [Complete]
+Inspection and Photography of SM panes – windows 01, 12. r/g 6150 [Complete]
+GLACIER4 – Desiccant Pack Swap [Complete]
+BASS Closeout Ops [Complete]
+IVA. Exercise Clothes Survey [Complete]
+AU-UBNT. Downlink of raw data / USOS procedures [Complete]
+TOCA – Calibration, Checking Data Recording [Complete]
+СОЖ Maintenance [Complete]
+JRNL – Journal Entry [Complete]
+Exercise data downlink / r/g 5929 [Complete]
+TV downlink test via Ku-band in MPEG-2 standard before 56P docking to ISS. [Complete]
+AU-UBNT. Closeout Ops / USOS procedures [Complete]
+IMS Delta File Prep [Complete]
+Treadmill Т2 Monthly Inspection [Complete]
+IVA. Everyday Clothes Survey [Complete]
+Dried Clothes Stowage [Complete]
+Weekly conference with the Program Management [Complete]
+Daily Planning Conference (S-band) [Complete]
+IVA. Everyday Clothes Survey  [Complete]
+MSG – Glovebox Powerdown [Complete]
+USOS Window Shutter Close [Complete]
+
+Task List
+
+ARED Cylinder Evac
+WHC-ЕДВ-У R&R
+WHC KTO replace
+Roscosmos Report
+Uragan photo
+3DA1 cam ops
+ARED detent flip
+T2 HRM relocate
+CSA CP taping
+EVA A/L reconfig part D
+EVA A/L flr bin reconfig
+ARIS J47 UMB
+Cygnus transfer cargo ops
+
+Ground
+
+Nominal commanding 
+

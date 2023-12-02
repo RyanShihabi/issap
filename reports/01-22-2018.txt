@@ -1,0 +1,79 @@
+
+Light Microscopy Module (LMM) Petri Plants Plate Operations: Over the weekend, the crew used the light meter in the Japanese Experiment Module (JEM) to take light intensity measurements before transporting the plates to the Lab to photograph the plates with and without lids.  Plants cultivated in microgravity look mostly normal, but space-grown plants have a number of distinct features compared to plants grown in comparable habitats on Earth, most notably in the way their roots grow. The Characterizing Arabidopsis Root Attractions-2 (CARA-2) investigation studies the molecular signals that can cause these changes, including the genetic underpinnings of how a plant senses the direction of gravity. Results can improve efforts to grow plants in microgravity on future space missions, enabling crews to use plants for food and oxygen. 
+Circadian Rhythms: On Saturday, the 53S subject removed and stowed the double sensors and Thermolab Unit equipment that was used to complete a 36-hour Circadian Rhythms session that began on Thursday. Circadian Rhythms investigates the role of synchronized circadian rhythms, or the “biological clock,” and how it changes during long-duration spaceflight. Researchers hypothesize that a non-24-hour cycle of light and dark affects crewmembers’ circadian clocks. The investigation also addresses the effects of reduced physical activity, microgravity and an artificially controlled environment. Changes in body composition and body temperature, which also occur in microgravity, can affect crewmembers’ circadian rhythms as well. 
+NeuroMapping: Today a 53S crewmember set up the NeuroMapping hardware and performed his Flight Day 30 tests in “strapped in” and “free floating” body configurations. The NeuroMapping investigation studies whether long-duration spaceflight causes changes to brain structure and function, motor control, or multi-tasking abilities. It also measures how long it would take for the brain and body to recover from possible changes. Previous research and anecdotal evidence from astronauts suggests movement control and cognition can be affected in microgravity. The NeuroMapping investigation performs structural and functional magnetic resonance brain imaging (MRI and fMRI) to assess any changes that occur after spending months on the ISS.
+Rodent Research 6 (RR-6):  In support of the on-going RR-6 investigation, the crew removed the mice and restocked the two rodent habitats with new food bars in addition to cleaning the lids and interior cages of the habitats. The Rodent Research-6 (RR-6) mission uses mice flown aboard the International Space Station (ISS) and maintained on Earth to test drug delivery systems for combatting muscular breakdown in space or during disuse conditions. RR-6 includes several groups of mice selectively treated with a placebo or implanted with a nanochannel drug delivery chip that administers compounds meant to maintain muscle in low gravity/disuse conditions. 
+Plant Habitat Science Carrier Installation: The crew installed the science carrier into the Plant Habitat Facility and then powered down the science carrier microcontroller via the EXPRESS Rack 5 laptop computer. Plant Habitat is a fully automated facility that will be used to conduct plant bioscience research on the International Space Station (ISS). It occupies the lower half of the EXPRESS Rack and two International Sub-rack Interface Standard (ISIS) drawers, providing a large, enclosed, environmentally controlled chamber.
+Light Microscopy Module (LMM) Test Target Oil Dispensing: To prepare for upcoming ACE-T6 operations, today the crew placed lint free wipes inside of the LMM Auxiliary Fluids Container (AFC) and dispensed oil on the LMM Confocal test target. The Light Microscopy Module (LMM) is a modified commercial, highly flexible, state-of-the-art light imaging microscope facility that provides researchers with powerful diagnostic hardware and software onboard the International Space Station (ISS). The LMM enables novel research of microscopic phenomena in microgravity, with the capability of remotely acquiring and downloading digital images and videos across many levels of magnification. The way that matter is organized and moves on the microscopic level profoundly affects the macroscopic world and an understanding of such processes helps scientists and engineers build more efficient materials and machines both for both the earth and space environments.
+Portable Emergency Provisions (PEPS) Inspection: The crew completed this regularly scheduled maintenance to inspect Portable Fire Extinguishers (PFEs), Portable Breathing Apparatus (PBAs) and Extension Hose Tee Kits (EHTKs).
+EVA tool configuration and procedure reviews:  Today the crew updated cuff checklists, prepared the equipment lock, set up the RWS, audited tools, reviewed procedures, and held a conference with EVA teams on the ground to discuss tomorrow’s EVA.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Health Maintenance System (HMS) Periodic Health Status (PHS) Pre EVA Examination
+DC1 EVA Support Panel Test. DC1 EVA Support Panel Test
+Auxiliary Laptop Computer System Virus Definition File Update
+Drying Biolab Incubator Cold Spot Sponge
+EML Gas Valves Opening
+ПхО EVA Support Panel (ПОВ) Checkout. DC1 EVA Support Panel Test
+EML High Speed Camera Lens Switch
+Plant Habitat MWA Preparation #2
+NeuroMapping Experiment Neurocognitive Test Video – Subject
+Activation and Inspection of Orlan No. 4 & 6
+DC1 БСС checkout
+COSMOCARD. Preparation. 24-Hour EKG Recording (start)
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Checkout of БСС (Spacesuit Interface Unit) in ПхО
+Gathering and deployment of PILLE sensors prior to USOS EVA
+ISS HAM Service Module Pass
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+Joint separation of ORLAN No. 4 and БСС water systems into DC1
+Joint separation of ORLAN No. 6 and БСС water systems into DC1. Orlan-MKS No.6 and БСС gas/water separation in DC1
+Extravehicular Mobility Unit (EMU) Cuff Checklist Print
+Plant Habitat Science Carrier Installation
+Health Maintenance System (HMS) Profile of Mood States (POMS) Questionnaire
+Multi-purpose Small Payload Rack (MSPR) Two-Phase Flow Experiment Equipment Deactivation [Deferred]
+Fluids Integrated Rack Rack Doors Open
+LMM Test Target Oil Dispensing
+Fluids Integrated Rack Rack Doors Close
+Equipment Lock (E-LK) Preparation
+Rodent Research Node 2 Camcorder Video Setup
+Rodent Research Habitat 3 & 4 Restock
+Environmental Control and Life Support System (ECLSS) Portable Emergency Provisions (PEPS) Inspection
+Gathering gear for Orlan-MKS No.4 & 6
+Water systems treatment using [БОС] assembly in [ПхО]
+СОЖ maintenance
+MRM2 comm config to support the P/L Ops
+Activation of Orlan-MK suit No.4
+Water System Separation using БОС in MRM2
+Orlan-MKS No.4 gas/water separation in MRM2 without БСС
+Robotic Workstation (RWS) Setup
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Extravehicular Activity (EVA) Procedure Review
+MRM2 Comm Reconfig for Nominal Ops
+URISYS Hardware Setup
+Extravehicular Activity (EVA) Tool Audit.
+Extravehicular Activity (EVA) Tool Configuring
+Exercise Data Downlink via OCA
+PEV Activation Test from DC1 EVA Support Panel
+PEV activation test from ПхО EVA Support Panel
+Extravehicular Activity (EVA) Procedure Conference
+Preparation for Antivirus Scanning on [ВКС] Laptops
+
+Completed Task List Activities
+
+ARED-HARDWARE-WANTED
+Gather Common Communications for Visiting Vehicles (C2V2) Contingency Software Load Cable from Permanent Multipurpose Module (PMM)
+CMS-T2 SNUBBER PHOTO/GTHR PT1
+EVA Simplified Aid For EVA Rescue Practice
+Foot Locker Relocate
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Pre-Treat Tank Remove & Replace
+JAXA Video Taking Part 4
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Standard commanding
+

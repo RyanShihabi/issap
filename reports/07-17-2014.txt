@@ -1,0 +1,83 @@
+
+Orbital-2 (Orb-2) Ingress:  Following yesterday’s successful capture and berthing of Cygnus, the crew completed vestibule outfitting, ingressed the vehicle, and began transferring cargo to ISS.
+Robonaut Operations: Commander (CDR) Swanson removed the Robonaut panels and battery backpack to gain access to the Robonaut processor and board. Tomorrow, Swanson will continue Robonaut operations. The Robonaut upgrades are in preparation to install legs onto Robonaut for mobility operations.
+NanoRacks Operations: FE-6 Gerst activated two of three NanoRacks Module-9 Extended delivered on Orb-2. He mixed the mixture tubes within the modules and installed five more NanoRacks Modules into NanoRacks Platform 2 1. These modules carry a variety of science investigations including, but not limited to ant colony behavior, E-Coli antibiotic resistance, plant growth, radiation measurements, Penicillin growth, and battery life. The investigations have been put together by middle school and high school students.
+Force Shoes: Gerst conducted an Advanced Resistive Exercise Device (ARED) exercise session using the Force Shoes which were calibrated during Treadmill 2 (T2) exercise last week. The data from the ARED exercise session will be used to measure the loads experienced during ARED exercise.
+Japanese Experiment Module (JEM) Low Temperature Loop (LTL) Pump Package Remove & Replace (R&R): On January 14, 2014, the JEM LTL pump upstream Remote Power Controller (RPC) tripped due to over current detection downstream of the RPC. Troubleshooting was performed, resulting in a recommendation to R&R the pump. Today Gerst disengaged cabin ducts from the Environmental Control and Life Support System (ECLSS)/Thermal Control System (TCS)1 rack and rotated the rack. This activity is in preparation for tomorrow’s planned R&R using a spare pump delivered on Orb-2.
+Today’s Planned Tasks
+
+RSS1, 2, Reboot / r/g 1009 [Complete]
+Laptop RS1(2) Reboot [Complete]
+SM ПСС (Caution & Warning Panel) [Complete]
+Daily Planning Conference (S-band) [Complete]
+EarthKAM. Hardware Deactivation, camera battery changeout/hardware reactivation / USOS procedures [Complete]
+Daily Planning Conference (S-band) [Complete]
+ESA Weekly Crew Conference [Complete]
+CQ Laptop Power off [Complete]
+EKAM – Camera lens replacement [Complete]
+On MCC Go Urine Transfer from EDV-U to ТКГ 427  r/g 6139 [Complete]
+Inspection and photography of SM structural elements, cables, and pressurized shell / r/g 6129 [Complete]
+Photo/TV Setup for Cygnus Hatch Opening Coverage [Complete]
+Audit of RS Lights (SM, MRM1, MRM2, DC1) / r/g 6130 [Complete]
+Node 2 Nadir CBM Controller Panel Assembly (CPA) Installation [Complete]
+Cygnus – Configuration for Vestibule Ingress [Complete]
+Force Shoes Ops [Complete]
+Cygnus – Ingress [Complete]
+ТКГ427 (DC1) Packing and IMS Ops / r/g 5987, 6134 [Complete]
+Cygnus (Orb-2) Air Sampling using АК-1М sampler prior to Air Duct Installation r/g 6115 [Complete]
+Relaksatsiya P/L Battery Charge / r/g 6039 [Complete]
+Cygnus – Cargo Photo [Complete]
+RWS – Deactivation [Complete]
+Cygnus Cargo Operations [Complete]
+PAO Hardware Setup [Complete]
+Spare Lights Audit / r/g 6130
+Crew Prep for PAO [Complete]
+PAO Event [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+IMS and Stowage Conference [Complete]
+Robonaut Node 2 Camcorder SD Video Setup [Complete]
+ТКГ427 (DC1) Packing and IMS Ops / r/g 5987, 6134 [Complete]
+EarthKAM. Hardware Deactivation, camera battery changeout/hardware reactivation / USOS procedures [Complete]
+BRI Troubleshooting. r/g 6140 [Complete]
+Audit of RS lights [Complete]
+Spare lights audit [Complete]
+JEM – Cabin Duct Disengagement [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+Cygnus Cargo Operations [Complete]
+BRI Troubleshooting. r/g 6140
+R2 – Video Camera Setup [Complete]
+СОЖ Maintenance [Complete]
+SHD – Space Headaches Weekly Questionnaire [Complete]
+SSC Laptop Relocation [Complete]
+RELAKSATSIYA. Hardware Setup / r/g 6133 [Complete]
+Cygnus Cargo Transfer Tagup [Complete]
+Removal of two Handles from ТКГ 427 (DC1) Front Hatch Door  r/g 4329 [Complete]
+Installation of ТКГ 427 (DC1) Docking Mechanism / r/g 4329 [Complete]
+RELAKSATSIYA. Parameter Adjustment / r/g 6133 [Complete]
+Double Coldbag (DCB) – Upack [Complete]
+R2 – Cables and Memory Card Replacement [Complete]
+RELAKSATSIYA Observation / r/g 6133 [Complete]
+RGN REC-TNK – Remove depress hose for nominal operations [Complete]
+NANO – Experiment Ops [Complete]
+RELAKSATSIYA Closeout Ops / r/g 6133 [Complete]
+NANO – Sample Module Setup [Complete]
+R2 – Installation of new adapter [Deferred]
+VZAIMODEISTVIYE Experiment Ops / r/g 5895 [Complete]
+OBT Cygnus Emergency Procedure Review [Complete]
+Daily Planning Conference (S-band) [Complete]
+EarthKAM. Hardware Deactivation, camera battery changeout/hardware reactivation / USOS procedures 
+
+Task List
+
+ARED Cylinder Evac
+WHC-ЕДВ-У R&R
+Roscosmos Report
+Econ photo
+IMAK unpack
+3DA1 cam ops
+Cygnus transfer cargo ops
+
+Ground
+
+Nominal commanding
+

@@ -1,0 +1,109 @@
+
+63 Progress (63P) Docking: 63P docked successfully to the Service Module (SM) Aft docking port on Saturday. Capture occurred at 12:57 PM CDT with hook closure at 1:03 PM CDT.
+ 
+Japan Aerospace Exploration Agency (JAXA) Protein Crystal Growth (PCG) Installation: On Sunday, Peake installed 2 canisters containing 38 protein samples into the PCRF to obtain high quality protein crystals in the microgravity environment. Results obtained by JAXA will contribute to the development of drugs for the influenza virus, Alzheimer’s disease, muscular dystrophy and periodontitis. They will also aid in the development of a blood substitute and a new energy creating enzyme.
+ 
+Exposed Facility Unit (EFU) Adapter: Williams supported Japanese Experiment Module Remote Manipulator System (JEMRMS) EFU Adapter installation to EFU #5. He activated the JEMRMS Robotics Laptop 2 (RLT2) and RMS monitors before opening the outer hatch and extending the Slide Table (ST) with the EFU Adapter to the JEF side. The ST was then retracted and the outer hatch was closed. JAXA’s EFU Adapter is a new type of JEM exposed facility platform used as an interface between JEM Exposed Facility Unit and payloads. Up to 2 payloads can be attached to EFU Adapter by IVA (Inter-Vehicular Activity) in JPM.
+Muscle Atrophy Research and Exercise System (MARES): Peake deployed MARES from the stowed configuration to the on-orbit deployed configuration before installing the mechanisms specific to the ankle configuration. MARES is a European Space Agency (ESA) system that will be used for research on musculoskeletal, biomechanical, and neuromuscular human physiology to better understand the effects of microgravity on the muscular system. MARES is a Joint USOS Experiment (JUE) performed with both USOS and Russian crew members.
+ 
+Advanced Research Thermal Passive Exchange (ARTE): Kopra performed a visual inspection and activated the Microgravity Science Glovebox (MSG) facility prior to installing the Thermal Exchange hardware in the MSG work volume. Kopra then transferred data for downlink before removing and stowing the Thermal Exchange hardware from the MSG. The ARTE investigation is sponsored by the Italian Space Agency (ASI) and studies the performance of a new type of heat pipe, which is a passive, low-weight device used to increase a material’s heat transfer capability. The investigation researches a new technology, called Axially Grooved Heat Pipes, which could be integrated into existing spacecraft, as well as used for future missions.
+ 
+Biological Rhythms 48 Actiwatch Preparation: Williams configured Actiwatch and placed on his wrist when the measurement process automatically began. The JAXA Biological Rhythms experiment studies the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours. While the ISS keeps Houston time, it remains unknown whether a separate biological rhythm is imposed on long-term flight crews. To study this, astronauts wear an Actiwatch sleep monitor for 96 hours and a Holter electrocardiograph for 48 hours in the middle of that sequence.
+ 
+Urine Processing Assembly Pre-Treat: Engineering teams are investigating a discrepancy discovered last Friday in the numerical setting for the Pretreat Bad Quality Light (PTBQL) in the new electronics box procured specifically for alternate pretreat. The control unit is set to a higher value than required, which the PTBQL would illuminate even at proper pre-treat dosage levels. The Waste and Hygiene Compartment (WHC) pre-treat tank Remove & Replace (R&R) scheduled for Wednesday is being deferred until the issue can be addressed.
+ 
+Node 3 Major Constituents Analyzer (MCA) anomaly:  The Node 3 MCA experienced an unplanned shutdown today.  Ground teams failed to restart the system and placed the MCA in idle mode.  Secondary CO2 sensors are being used for now, and the forward plan is in work.
+ 
+Today’s Planned Activities:
+All activities were completed unless otherwise noted. 
+
+On MCC Go Regeneration of БМП Ф1 Micropurification Cartridge (start)
+Maintenance of SM АСП-О Hatch Sealing Mechanism And Progress 432 (SM Aft) Hatch
+JEMRMS RLT2 Activation
+Acoustic dosimeters installation – Day 1
+Microgravity Science Glovebox (MSG) – Activation of MSG glove box
+JEMAL – Slide Table extension
+Work area cleanup in support of MARES experiment
+Early unstow, priority, and US cargo transfers from Progress 432 (SM Aft) and IMS Ops / Progress 432 Transfer Ops + r/g 1812, 1831, 1832
+Tightening of QD Screw Clamps between DC1 and Progress 431 / IRS Activation/Deactivation
+PHS Hardware Setup
+Health Maintenance System (HMS) – Periodic Health Status (PHS) Evaluation – CMO
+Periodic Health Status Evaluation – Subject
+Dragon hardware preparation
+MARES. PL Deployment in operational configuration
+THRML. Hardware Replacement
+СОЖ Maintenance
+Biological Rhythms Actiwatch Preparation
+MARES Deployment from stowed configuration to on-orbit utilization configuration
+Dragon hardware preparation
+ARED Flywheel Cylinder Evacuation
+DAN. Experiment Ops. Tagup with specialists / r/g 0119
+DAN. Experiment Operator Assistance / r/g 0119
+PHS data entry and all hardware stowage
+AHIS – Questionnaire [Aborted]
+MARES. SW Update and Reboot
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 1589
+MARES. Battery Charging (start) / See OPTIMIS Viewer for Procedure
+Cleaning ПФ1, ПФ2 dust filters and В1, В2 Fan Grilles in DC1 / Thermal Mode Control System
+US EVA Tool Stow
+WRS Sample Collection
+JEM Airlock – Releasing Capture Mechanism
+Recording EPO Peake: Test video shooting for Planetarium [Deferred]
+FS1 file server SW upgrade to new version 1.1 r/g 1839
+TOCA Potable Water Dispenser (PWD) Sample Analysis
+Soyuz 719 “Kazbek” Fit Check
+CONTSTANTA-2. Cassette Retrieval from TBU-V and Setup on the Panel for a 1-hour warmup / r/g 1840
+MARES. Battery Charge – Second Run
+Dragon hardware preparation
+CONSTANTA-2. Preparing and Running Study Session 1 r/g 1840, steps 3-9
+Early unstow, priority, and US cargo transfers from Progress 432 (SM Aft) and IMS Ops / r/g 1812, 1831, 1832
+Preventive Maintenance of FS1 Laptop (Cleaning and rebooting) / r/g 1023
+MAR – Hardware Installation and Configuration
+Waste & Hygiene Compartment (WHC) EDV-U Remove and Replace
+BRI Monthly Maintenance. Tagup with specialists as necessary / r/g 1841
+CONSTANTA-2. Photography during Experiment / r/g 1844
+In Flight Maintenance (IFM) – Waste and Hygiene Compartment (WHC) – Full Fill
+CWQMK  Battery Removal
+Early unstow, priority, and US cargo transfers from Progress 432 (SM Aft) and IMS Ops / r/g 1812, 1831, 1832
+Water Processing using MCD
+Exercise Data Downlink via OCA
+In Flight Maintenance (IFM) – Waste and Hygiene Compartment (WHC) – Full Fill
+MAR  Fixing Adapter Nut
+TOCA Data Recording
+TOCA Waste Water Bag (WWB) Change out
+Bringing ODF up to date using  Progress 432 delivered files / r/g 1826
+THRML Equipment Stowage
+JEMAL – Slide Table Retraction
+JEMRMS – Equipment deactivation
+IMS Delta File Prep
+Onboard Training (OBT) – Dragon Rendezvous Procedures Review
+HRF2 – Supply Kit Inventory
+MARES. Battery Charge – Charge Status, Deactivation
+THRML Equipment Stowage
+MSG power off
+Photo/TV – Video camera set up
+CUCU Activation
+GLACIER1 Desiccant Replacement
+Air Heater Fan [БВН] Screen Cleaning in Soyuz 719
+GLACIER1  – Desiccant Replacement
+CUCU Check
+Emergency OBT Simulator Review
+Crew Command Panel (CCP) Stow for Crew Sleep
+On MCC Go БМП Ф1 Absorption Cartridge Regeneration (end)
+
+ 
+Completed Task List Items
+
+CCE-Space Symposium message
+CCE-National Space message
+Galley Table install
+Dragon pre-pack [Active]
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+JEMRMS EFU Adapter install
+Nominal ground commanding
+
+ 

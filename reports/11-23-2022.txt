@@ -1,0 +1,23 @@
+
+Payloads:
+ISS Ham Pass: The crew participated in an ISS Ham pass with Five Bridges Junior High School, Stillwater Lake, Nova Scotia, Canada. Some of the questions asked by the students included if the ISS crew works in different shifts, what will replace the ISS in low Earth orbit if it is retired in 2030, and how noisy it is in the ISS. Since the earliest space station expeditions, ISS Ham Radio has allowed groups of students in schools, camps, museums, and planetariums to hold a conversation with the people living in space. As the ISS passes overhead, students have about nine minutes to ask crew members 10 to 20 questions.
+NanoRacks Module-51: The crew retrieved the Root Pressure and Petri Plate experiments from Module-51 and took photos of them. The original experiments in Module-51 included plant growth, Haloarchea growth, and worm composting. NanoRacks Modules allow experimenters and students to perform extended on-orbit operations using space-proven hardware. Each individual module houses a unique experiment or set of experiments.  Anything approved for transport to ISS can be incorporated into a module that represents any field of science.
+Pore Formation and Mobility Investigation-Asymmetric Sawtooth and Cavity-Enhanced Nucleation-Driven Transport (PFMI-ASCENT): The crew reviewed the procedures and gathered the hardware for the upcoming PFMI-ASCENT experiment. PFMI-ASCENT demonstrates a passive cooling system for electronic devices in microgravity using a micro-structured surface. When fluids boil over flat heated surfaces in microgravity, vapor bubbles grow larger in size, causing poor heat transfer that can lead to damage of devices. Adding microscopic rachets on the surface may passively enable mobility of vapor bubbles and prevent this damage.
+Systems:
+In-Flight Maintenance (IFM) Node 3 Major Constituent Analyzer (MCA) Series Sample Pump Assembly (SSPA) Remove and Replace (R&R): Today, the crew R&R’d the Node 3 MCA SSPA after the previous assembly failed. The Trace Contaminant Control System (TCCS), which is positioned above the MCA, was extended to allow the crew to ingress the rack volume and access the MCA for the R&R. Following the R&R, ground teams are performing MCA activation. The MCA mass spectrometer separates the constituents of a sample and measures the percent concentrations of O2, N2, H2O, H2, CH4, and CO2.
+Extravehicular Activity (EVA) Preparations: Today, the crew configured tools for the upcoming 3A ISS Roll Out Solar Array (IROSA) Install EVA, verified the nitrogen quantity of the Simplified Aid for EVA Rescue (SAFER), and performed a powered hardware checkout of the Rechargeable EVA Battery Assembly (REBA) for Extravehicular Mobility Unit (EMU) 3013 to verify functionality of the Helmet Lights, EMU Glove Heaters, EMU TV, High Definition (HD) EMU Camera (HECA), and EMU Data Recorder (EDAR). A powered hardware checkout of the REBA for EMU 3004 will be performed after RS EVA #56. Additionally, the crew transferred EVA tools to the RS in preparation for RS EVA #56.
+Waste and Hygiene Compartment (WHC) Manual Fill Initiate & Terminate: As part of regularly scheduled maintenance, the crew initiated a manual fill of the WHC ЕДВ-СВ (Water Container) using a post-flight analysis bag to capture any pressure relief to protect the dose pump. The ЕДВ-СВ is intended for short-term storage and manual water transportation between facilities. After successfully filling the ЕДВ-СВ, the crew returned the WHC to nominal use.
+Venous Thromboembolism (VTE) Exam: Today, the crew used the ultrasound device to perform a VTE scan. This routine medical exam utilizes existing on-orbit eye exam ultrasound hardware for imaging of the neck, clavicle, shoulder, and behind the knee. VTE scans utilize a different frequency than the eye exams.
+Completed Task List Activities:
+
+IFM Hatch Tool Gather
+Node 2 Camera 1 Cable Swap
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+PRO POLAR Activation Commanding
+Node 3 MCA Safing
+HRF Rack 2 Power Up Commanding
+Node 3 MCA Activation [Active]
+

@@ -1,0 +1,57 @@
+
+Node 3 Major Constituent Analyzer (MCA) Calibration Failure: Yesterday, the crew successfully replaced the N3 MCA Verification Gas Assembly (VGA) as part of regularly scheduled maintenance. During calibration, however, data was off-nominal and the planned full calibration failed to complete.  Teams continue to work a forward plan to restore full N3 MCA functionality.
+SUPVIS-Justin:  The crew set up cameras and Haptics hardware for ESA’s SUPVIS-Justin investigation and then completed the investigation protocol operations.  SUPVIS-Justin, part of the Meteron program, aims to demonstrate that an astronaut on an orbiting space station can command a robot via a tablet PC to perform complex tasks on a planetary surface. The SUPVIS-Justin experiment includes an extended supervised autonomy concept: the crew gives high level commands to the robot, which then uses its local intelligence and decision-making capability to execute a task independently, according to pre-programmed algorithms. In this sense, the responsibility of decision-making is shared between the crew and the robot. 
+Veg-03:  The crew watered the plants growing for the VEG-03 investigation today.  Veg-03 supports the proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long duration space missions, including those to Mars, will require a fresh food supply grown in space to supplement crew diets.
+NanoRacks Rock Candy:  The crew photo-documented each Rock Candy pouch, showing any visible sugar crystal growth in each. This investigation teaches students about the effects of microgravity on crystal formations using nearly identical flight kits flown and operated onboard the ISS. With access to crew member videos and data on the same experiment, students are able compare crystal formations in space to those in their classrooms. The investigation aims to promote science, technology, engineering, and math (STEM) fields to the next generation of students.
+On-Board Training (OBT) Ammonia (NH3) Emergency Response Procedure Review: Today the crew reviewed changes to the NH3 emergency response procedures. Ammonia is a toxic chemical used in the ISS External Active Thermal Control Subsystem (EATCS) and leakage into the ISS cabin is one of the major emergency response scenarios the ISS crew review while on-orbit.
+Latching End Effectors B (LEE B) Survey: Overnight, ground controllers performed a Space Station Remote Manipulator System (SSRMS) walkoff from Mobile Base System (MBS) Power Data Grapple Fixture-4 (PDGF-4) to MBS PDGF-3.  They performed a video and imagery survey of the LEE-B snare cables using the P1 Lower Outboard (LOOB) External High Definition Camera (EHDC).  Once the survey was completed, the Robotics Ground Controllers maneuvered the SSRMS into position for operations to grapple and unstow the Special Purpose Dexterous Manipulator (SPDM) planned for March 7, 2018 (GMT 66).
+Channel 1A Lithium-Ion Battery Capacity Test: Today ground teams will conclude a capacity test on the power channel 1A Li-Ion batteries.  During this three-day capacity test, each of the three Li-Ion batteries will be discharged until the first cell is less than or equal to 3.0 V to acquire capacity data. This data provides insight into the actual battery amp hours available and is part of nominal maintenance.
+69Progress (69P) Trash Gather and Transfer: Today the crew gathered and transferred trash to the 69P vehicle for disposal later this month when 69P undocks on March 26, 2018.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+ECON-M Observation and Photography
+Inventory Management System (IMS) Conference
+European Modular Cultivation System Gas Valve Close
+Public Affairs Office (PAO) Educational  Imagery Recording
+VEG-03 Dual Facility Watering for each Plant Pillow
+Replacement of BRI configuration file from RSS1.
+ISS HAM Video Ops
+High Definition Video Camera Assemby 2 Activation in High Definition Mode
+Supvis-Justin Setup for Operations
+Preventive Maintenance of FS1 Laptop (Cleaning and rebooting)
+Monthly BRI Cleaning
+Haptics Software Update
+Scheduled monthly maintenance of Central Post Laptop. Laptop Log-File Downlink.
+SUPVIS-JUSTIN Protocol Operation
+Progress 437 (DC1) Stowage Ops with IMS Support
+Transfer 68P USOS Trash
+JSL Network Information for JSL Administration (NINJA) Print
+NanoRacks Rock Candy Imagery
+SM Atmosphere analysis using Freon Leak Analyzer/Detector (ФИТ)
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+High Definition Video Camera Assembly 2 Switch to SD Mode
+Crew Onboard Training (OBT), Ammonia (NH3) Leak Emergency Procedure Review
+СОЖ maintenance
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Environmental Health System (EHS) – Rad Detector Rotate
+Test activation of Vozdukh Atmosphere Purification System Emergency Vacuum Valves
+Payload Tether Identification
+Public Affairs Office (PAO) Social Media Event
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Space Headaches – Weekly Questionnaire
+Glacier Desiccant Swap
+
+Completed Task List Activities
+
+None
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+Channel 1A Battery Capacity Test
+Standard Commanding
+

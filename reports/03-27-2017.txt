@@ -1,0 +1,69 @@
+
+Pressurized Mating Adapter (PMA)3 Relocation:  Yesterday, Robotics Ground Controllers utilized the Space Station Remote Manipulator System (SSRMS) to grapple and relocate PMA3 from Node3 Port to Node2 Zenith. After the relocation, they ungrappled PMA3 and maneuvered the SSRMS in position ready to provide viewing support for EVA 41 (Enhanced Processor Integrated Communications (EPIC) External Multiplexer/Demultiplexer (MDM)  Shields), scheduled for March 30th. The PMA3 relocation was needed to configure Node2 Zenith as a future visiting vehicle docking port. 
+Fluid Shifts Chibis Measurements, Day 1: On March 9th, the 48S subject performed the first of two days of operations in the Russian Segment conducting the Return minus 45 day Fluid Shifts operations, however, due to communication issues with Tracking and Data Relay Satellite System (TDRSS)-275, insufficient data collection occurred.  Today, the crewmember repeated the session and donned the Lower Body Negative Pressure (LBNP/Chibis) device while the operator, with ground support in Moscow, assisted in the medical monitoring. Additionally, while the subject was in the LBNP and experiencing the negative pressure (pulling the fluid feetward), the Crew Medical Officer performed Cerebral and Cochlear Fluid Pressure (CCFP) and Ultrasound measurements. Fluid Shifts is a joint NASA-Russian experiment that investigates the causes of severe and lasting physical changes to astronauts’ eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Cool Flames Investigation (CFI) Science Runs: Last week ground teams successfully calibrated the CFI Intensified Camera, placing the CIR in a good configuration for operations.  This morning, the crew removed the Combustion Integration Rack (CIR) Alignment Guides to isolate the rack. Ground teams then initiated the science run. CFI provides new insight into the phenomenon where some types of fuels initially burn very hot, then appear to go out but continue burning at a much lower temperature with no visible flames (cool flames). Understanding cool flame combustion helps scientists develop new engines and fuels that are more efficient and less harmful to the environment.
+Ice Brick Conditioning: The crew ibegan conditioning of 18 of the -32° Celsius Ice Bricks, inserting them into the three Minus Eighty Degree Celsius Laboratory Freezers for ISS (MELFIs).  The bricks will be used as thermal mass in MELFI and for future sample return on SpaceX-11. 
+Extravehicular Mobility Unit (EMU) 3008 Discoloration: During last week’s EVA, EV1 reported yellow discoloration similar to a grass stain on his gloves and equipment. The source of the staining has been identified as coming from the Japanese Experiment Module (JEM) Exposed Facility (JEF) scuff plate.  JAXA provided information on the JEF scuff plates material.  Ground teams are investigating potential risk to crew and hardware and development of a method for removing the substance. On Sunday, the crew attempted to clean some of the affected hardware with tape and lint free wipes. Ground teams met today to discuss the result of this activity.
+U.S. Extravehicular Activity (EVA) #41 EPIC Shields Preparations: In preparation for this Thursday’s planned EVA, the crew performed a procedures review followed by a conference with ground teams. Topics covered included:
+
+Detailed timeline
+Briefing package
+Tool config summary
+Get-ahead plan
+
+Following the conference, the crew configured the required tools to be used during the EVA. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+МО-8. Concluding ops
+VECTOR-T. Experiment Ops
+Total Organic Carbon Analyzer (TOCA) Calibration Check
+SABL CO2 CLOSE
+Combustion Integrated Rack Alignment Guide Removal Integrated Rack Alignment Guide Removal
+Post sleep
+FLUID SHIFTS
+Charging EVA Camera D4 Battery
+Extravehicular Activity (EVA) Tool Configuring
+Inspect and reinstall EVA Eyepiece onto Shane’s EVA Camera.  If threads are damaged, additional crew time will be required prior to the EVA to configure a different camera.
+Body Measures Equipment Gather
+ISS Crew departure preparation
+Auxiliary Laptop Computer System Virus Definition File Update
+Water Recovery System Waste Water Tank Drain Termination
+Node 2 Zenith Centerline Berthing Camera System (CBCS) Remove
+Node 2 Zenith Hatch latch
+NOD2O2 Restow
+Cable reconfiguration between SM panels 228 and 229А
+СКПФ1, СКПФ2 Dust Collector and MRM1 ГЖТ Cleaning with Vacuum Cleaner.
+48S Mesh Bag Deploy
+On MCC Go Re-mating Vozdukh TLM-connectors
+Cable reconfiguration between SM panels 228 and 229А
+Maintenance Closures of Vozdukh Valves
+Extravehicular Activity (EVA) Procedure Review
+Audit of HDD in SM Central Post drawer
+CONTENT. Experiment Ops
+Extravehicular Activity (EVA) Procedure Conference
+Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Analysis T + 5
+Extravehicular Activity (EVA) Tool Configuring
+Fluid Shifts Ultrasound 2 HRF Rack 1 Setup Power On From Cargo Transfer Bag
+MELFI Ice Brick Insert
+Fluid Shifts Ultrasound 2 Data Export Alternate
+Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Analysis T + 5  
+
+Completed Task List Items
+
+Extravehicular Activity ExPRESS Carrier Avionics Procedure Review [Completed GMT 84]
+Preparations to connect the AstroPi Vis to the ISS Joint Station LAN [Completed GMT 85]
+Solid State Drive 1& 2 USB Stick Disconnect [Completed GMT 85]
+CubeSat Video Recording [Completed GMT 85]
+ESA Active Dosimeter Area Monitoring [Completed GMT 85]
+ESA PAO Message – TF1 Video Postcard [Completed GMT 85]
+Extravehicular Mobility Unit (EMU) Resize [Completed GMT 85]
+EVA Procedure review for EPIC Shields EVA [Completed GMT 85]
+Configure Tools and hardware for US EVA EPIC Shields [Completed GMT 85]
+Montreal’s 375th Birthday Video [Completed GMT 85]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Nominal System Commanding
+

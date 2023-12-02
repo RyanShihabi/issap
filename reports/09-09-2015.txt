@@ -1,0 +1,167 @@
+
+Human Research Program (HRP) Operations: 
+
+Microbiome: Kelly collected saliva samples in support of the Flight Day 180 (FD 180) Microbiome activities.  The Microbiome experiment investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time).
+
+ 
+
+Salivary Markers: Yui collected saliva samples in support of his FD 90 Salivary Markers and inserted them into MELFI.  Salivary Markers samples will be used to measure markers of latent viral reactivation (a global indicator of immune impairment and infection risk) in conjunction with salivary antimicrobial proteins and immune cell functional assays. This research study will help identify if there are any risks of an adverse health event in crewmembers due to an impaired immune system. Maintaining a robust immune system during prolonged spaceflight missions (i.e., to other planets or asteroids) will be important to ensure mission success. If any impairment in immunity is found due to spaceflight, this will allow the development of appropriate countermeasures to help mitigate the risks.
+
+ 
+
+Integrated Resistance and Aerobic Training Study (Sprint) Volume of Oxygen Utilized (VO2) Max: Yui performed his FD45 Sprint VO2 Max exercise session on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).  He donned Electrocardiogram (ECG) electrodes, Heart Rate Monitor (HRM) hardware, and performed Portable Pulmonary Function System (PPFS) calibrations then executed the VO2 protocol.  The Sprint investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions. Upon completion of this study, investigators expect to provide an integrated resistance and aerobic exercise training protocol capable of maintaining muscle, bone and cardiovascular health while reducing total exercise time over the course of a long-duration space flight. This will provide valuable information in support of investigator’s long term goal of protecting human fitness for even longer space exploration missions.
+
+ 
+JAXA-Small Satellite Orbital Deployer (SSOD) #4 Install: Kelly installed the J-SSOD#4 on the Slide Table with the Multi-Purpose Experiment Platform (MPEP) attached.  The J-SSOD #4 has two satellites that will be deployed next week.  The first satellite is designed to observe the Ultraviolet (UV) spectrum during the Orionid meteor shower in October.  The second satellite, sponsored by the University of Brasilia and the Brazilian government focuses on meteorological data collection.
+ 
+Robonaut: Lindgren continued troubleshooting Robonaut’s Compact Peripheral Component Interface.  He unstowed and removed the softgoods from Robonaut, then accessed the internal workings to measure resistances and the CPCI Power supply.  Preliminary results are pointing to an issue with the Power Supply, and not the “brain stem”.  Future troubleshooting will likely include reseating the Power Supply to exonerate a connection issue.  Robonaut is a two-armed humanoid robot torso designed with the versatility and dexterity to manipulate hardware, work in high risk environments, and respond safely to unexpected obstacles. Robonaut is currently mounted inside the International Space Station (ISS); in the future, it will perform tasks both inside and outside the ISS.
+ 
+Mobile Servicing System (MSS) Operations:  Last night, the Robotics Ground Controllers powered up the MSS and translated the Mobile Transporter (MT) from Worksite 7 (WS7) to WS5.  They then walked the Space Station Remote Manipulator System (SSRMS) off Mobile Base System (MBS) Power Data Grapple Fixture 4 (PDGF4) onto the Node 2 PDGF.  During the walkoff, the Robotics Ground Controllers performed Gear Box Limping (GBL) Commissioning Task 3 for Latching End Effector A (LEE-A).  Finally the Robotics Ground Controllers maneuvered the SSRMS to the H-II Transfer Vehicle 5 (HTV5) External Platform (EP) handoff position in preparation for next Tuesday’s EP installation into HTV5.
+ 
+HTV Cargo Transfer Status:  Yui completed 1.5 hours yesterday of HTV cargo operations. Cargo specialist estimate the crew will need approximately 20 hours to complete the HTV-5 cargo operations.
+ 
+ESA Short Duration Mission
+THOR: Cloud Turrets (CT’s) and Transient Luminous Events (TLE’s) targets have been refined for the upcoming hard‐scheduled session today.  Yesterday we focused on Cloud Turrets observation. The first hard‐scheduled session went well, and during the GMT251 ESA crew conference, Mogensen confirmed he acquired some CT’s targets. 160 Images are now under assessment by science team.  The THOR experiment will improve our understanding how lightning activity powers cloud turrets, gravity waves, and improve our understanding of the structure of Transient Luminous Events above thunderstorms. If confirmed technically feasible, the photography technique used will also add valuable scientific data to ESA’s future ASIM project mission. Improving our understanding of the processes occurring in Earth’s lower layers of the atmosphere can improve atmospheric models and our understanding of earth’s climate and weather.
+ 
+MARES: This morning Mogensen set up the rack and its ankle mechanism assembly. A small anomaly was encountered regarding a screw that was not touching the thread anymore. This was resolved realtime. The ESA Muscle Atrophy Research and Exercise System (MARES) is a physiological research facility that will be used to carry out research on musculoskeletal, biomechanical, and neuromuscular human physiology. The Commissioning Part#2 is the last step in this research rack check‐out activities. Its main goal is the performance of an integrated man‐in‐the‐loop technical protocol which characterizes all MARES sub‐systems and associated auxiliary measurement devices (ultrasound, electrical muscle stimulation and electromyogram).
+ 
+MELONDAU: yesterday DEMES tasting session#4 and DEMES hedonic questionnaire #2 were completed nominally.  Current status of MCA/AQM measurements:
+‐ MCA measurements have been received by BIOTESC for GMT248 to GMT250, GMT251 files are pending.
+‐ AQM: confirmed that we have no measurements for either GMT 248 or 249. For GMT250, some files were acquired with AQM in speed mode (rather than autorun mode). For GMT251, the same speed mode was used. All Files are pending from NASA still.
+Long‐distance and long‐term human space travel will only be possible with adequate life support systems in place, allowing extensive recycling of water and the in situ production of oxygen and food, with closed regenerative systems the most ideal way of reducing launch mass and costs. MELONDAU is a significant precursor flight experiment which will verify the recovery of biological processes of selected micro‐organisms, test a microfluid system essential for the overall monitoring and control of a closed regenerative life support system, and verify the acceptability of snacks composed of Micro‐Ecological Life Support System Alternative (MELiSSA) ingredients. This is a first step to enable the successful deployment of ESA’s MELiSSA system in space in the future.
+ 
+MOBI‐PV: Mogensen unstowed the MOBI-PV equipment, unfortunately he could not find a 2m USB cable adapter (A/B) which was launched on 44S. Potential locations have been identified. Without this cable the charging of the Google Glass is not possible, hence impacting Mobi‐PV prime set up on Friday. The current ISS laptop‐based crew information system has certain drawbacks with respect to operator mobility and user interface options. The mobiPV experiment will demonstrate new technologies and operations concepts for ISS crew procedure execution, both for on‐board crew, and ground teams, offering wireless operation, voice navigation and real time (over the shoulder) video streaming of workplace activities and synchronized in‐flight/on ground procedure execution. The mobiPV system could be deployed for future crew procedures and contingency operations with a potential to significantly shorten anomaly processing and resolution.
+ 
+INTERACT: Mogensen stowed the HAPTICS equipment, marking the completion of the activities during the IrISS mission.  INTERACT is a high‐tech technology demonstration experiment that is aimed at demonstrating the feasibility of intuitive robotic remote control over heavily delayed and variable delay communication channels using a robot that is specifically built to be capable of appropriately executing human‐like capabilities and to allow enhanced proprioceptive perception of operators in Space. Results from this experiment will help to define technologies and procedures which will maximize the success of future human/robotic missions to for example the Moon or Mars.
+ 
+ENDOTHELIAL CELLS: Per automated sequence, the Experimental Containers are automatically fixated in KUBIK FM5, and Yui changed the KUBIK FM5 temperature setpoint from +37°C to +6°C at the precise time point GMT14:55. All proceeding nominally.  Human subjects and experimental animal models returning from space have shown muscle‐skeletal and cardiovascular problems accredited to injury of the endothelium: the system of cells lining the inner surface of all blood vessels. This project aims at understanding the reaction of cultured endothelial cells to spaceflight through cellular and genetic analysis.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+HRF – Sample Collection and Prep for Stowage
+DEMES temporary constraints reminder
+HRF – Sample MELFI Insertion
+PARODONT-2. Activities with Microbial Control and Mouthwash sets
+HRF – Sample MELFI Insertion
+URAGAN. Observation and photography using Photo Equipment
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop
+SPHERES – Battery Replacement
+SSOD – SSOD Setup Procedure Review
+СОЖ maintenance
+THOR – Observation
+JEMAL – Slide Table extension
+Water Recovery System (WRS). WPA Waste Water Tank Offload into CWC
+XF305 – Camcorder Setup
+VC Photo/Video Ops
+SSOD – SSOD Installation, Part 1
+CONYUGATSIYA. Activate thermostat at +29 deg C setting
+ESA Weekly Crew Conference
+Crew Medical Officer (CMO) Proficiency Training
+DAN. Experiment Ops.
+MARES  Laptop Activation
+CBEF-IPU Cable Troubleshooting
+MARES. Battery Charge (start)
+MARES. Installation for Calf configuration
+Water Recovery System (WRS). Terminate WPA Waste Water Tank Offload into CWC
+WRS – Recycle Tank Fill
+CONYUGATSIYA. Removal of Recomb-K from incubator (+4 deg C) and Insert into incubator at +29 deg C.
+Preventive Maintenance of SM АСП-О Sealing Mechanism and ТПК 716 hatch cover
+SSOD – Cable connection
+SPRINT – Software Setup
+Preparation for diagnostics of power supply system (СЭС) and onboard complex control system (СУБК) units in FGB, review of crew procedures and radiograms.
+Crew Departure Prep
+BLR48 – starting measurement
+MARES.  Battery Charging
+Unstow and charge mobiPV
+Kulonovskiy Kristall Experiment Ops
+SPRINT – Hardware Activation and Warmup
+ТК 716 Prepack Ops
+CALCIUM. Experiment session 12
+CONYUGATSIYA. Process activation, setup in ТБУ-В at +29 deg C.
+ТК 718 Orbital Flight 13.5 p. 100
+SPHERES – Battery Replacement
+HABIT – Recording Walk-Through Video [Aborted] 
+HRF – Urine Collection Hardware Setup
+SSOD – Video Recording
+KULONOVSKIY KRISTALL. Copy and download data to hard drive for return
+METERON Experiment Ops. Control Test, Part 2
+PAO Hardware Setup
+SPRINT Experiment Ops
+Crew Prep for PAO
+PAO Event with A Year Long Mission crew
+COSMOCARD. Preparation Ops. Starting 24-hr ECG Recording
+SKINSUIT – Packing for Return
+SKINSUIT – Pack Microbial Samples for return
+KULONOVSKIY KRISTALL. Hardware Teardown
+Verification of ИП-1 Flow Sensor Position
+Danish Flag – Packing for Return
+SSOD – Disconnecting Cable
+USND2 –  Hardware Checkout
+CONYUGATSIYA. Photography of deactivation.
+CONYUGATSIYA. Complete activation process, set up in thermostat (+29 deg C).
+SPHERES – Battery Replacement
+ТК 716 Stowage Ops
+ТК 716 Prepack Ops
+MARES. Battery Charge Status Check
+RGN. Recycle Tank Fill
+MARES.  Acoustic Session and Mobility Check
+SSOD – SSOD Installation, Part 2
+MATRYOSHKA-R. Prep for Return of Tritel Passive Detectors Kit
+ПФ1-4 Dust Filter Cartridge Replacement in SM (ФГБ1ПГО_4_419_1, bag 428-31 (00067329R) or bag 428-25 (00067328R).  Discard the removed items. Reflect changes in IMS)
+SPRINT – Partial Stow
+ROBONAUT – Experiment Procedure Review and Video Viewing
+MARES. Acoustic Session and Mobility Check (assistance)
+BIOPOLIMER. Hardware Removal from Exposure Location and Transfer to Soyuz 716
+Setup camcorder in Node2 for Robonaut
+Setup camcorder in Lab for Robonaut
+JEMAL – Slide Table Retraction
+BAKTERIOFAG. Photography
+ENDO – KUBIK Temperature Setup at 6 deg C
+R2 – Hardware Setup and Video
+BAKTERIOFAG. Dismantle BIOECOLOGIA case and transfer to Soyuz 716
+CBEF – Hardware Removal
+IMS Delta File Prep
+ALGOMETRIA. Experiment Ops
+Microbial Air Sampling (Kit 1 Sample collection)
+CONYUGATSIYA. Retrieval from incubator (+29 deg С) and transfer to thermostat (+4 deg С).
+USND2 – Copy Data to Laptop
+MO-21 Prep. Ecosfera battery charge
+MARES. Laptop Power Off
+Removal of two КЛ-152М TV cameras (2) and light units from ТК 718 СА (TV cameras (2)
+MOBIPV – Device replacement
+DEMES – Light sweet snack tasting
+SPHERES – Battery Replacement
+FMK Deployment Ops
+METERON Experiment Ops. Control Test, Part 3
+Life On The Station Photo and Video
+GSC Sampling Operations
+Preventive maintenance of MRM2 АСП-О Hatch Sealing Mechanism and Soyuz 718 hatch
+BIOPLENKA. Removal of Cryogem-03 after Completion of the Experiment
+MARES. Ultrasound Hardware Power Down and Stowage
+CONYUGATSIYA. Thermostat Deactivation and Removal
+Space Headaches Daily Questionnaire
+Temp Stow Haptics1
+CONTENT. Experiment Ops
+MATRYOSHKA-R. Questionnaire
+PAO hardware setup
+Crew Prep for PAO
+R2 – Hardware Deactivation and Stowage
+INTERACTION-2. Experiment Ops
+TV greetings dedicated to 80th birthday of G.S. Titov
+SPRINT – Close-out Ops and Stowage [Deferred]
+SPHERES – Battery Replacement
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+MSS Operations
+1553 Network Bus Characterization
+
+ 

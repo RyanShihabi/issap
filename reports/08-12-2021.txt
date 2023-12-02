@@ -1,0 +1,20 @@
+
+Payloads
+ESA-Education Payload Operations (EPO) Microbes Video:  The crew recorded video, which will be used to educate children about Microbes on the ISS and will feature Paxi, ESA’s mascot for young children.  The activities related to EPO Generic Videos are intended to encourage and strengthen the teaching of science curriculum, and stimulate the curiosity of students to motivate them towards further study of Science, Technology, Engineering and Mathematics (STEM) subjects.
+Manufacturing Device (ManD):  The crew removed the printed objects, cleaned the extruder print nozzle, photographed, and stowed the pair of printed objects.  The Manufacturing Device enables the production of components on the ISS for both NASA and commercial objectives. Parts, entire experiments, and tools can be created on demand utilizing the ManD printer that is installed into an Express Rack locker location. ManD is capable of producing parts out of a wide variety of thermopolymers including engineered plastics.
+Mochii:  The crew continued troubleshooting efforts to recover the Mochii hardware using several different methods to boot from an external SD card containing the Operating Software. Mochii is a miniature scanning electron microscope (SEM) with spectroscopy to conduct real-time, on-site imaging and compositional measurements of particles on the International Space Station (ISS). Such particles can cause vehicle and equipment malfunctions and threaten crew health, but currently, samples must be returned to Earth for analysis, leaving crew and vehicle at risk.  Mochii also provides a powerful new analysis platform to support novel microgravity science and engineering.
+Systems
+Cygnus Capture/Berthing:  The NG-16 Cygnus cargo spacecraft was captured today at 05:09 CT (224/10:09 GMT).  The Cygnus spacecraft was then berthed to the Node1 Nadir Port and bolted into place.  The crew performed leak checks, outfitted the vestibule, and ingressed into the Cygnus vehicle.
+Extravehicluar Activity (EVA) Preparation:  In preparation for the iROSA 4A preparation EVA currently scheduled for August 24th, the crew performed a visual review of the EVA using the Dynamic Onboard Ubiquitous Graphic (DOUG) software.  This session allows the crew to view the step-by-step sequence of a specific EVA.  The crew also performed the initial configuration of tools required for the EVA.
+Airlock Intermodule Ventilation (IMV) Cleaning:  The crew completed the Airlock IMV cleaning today.  The purpose of this cleaning is to remove any foreign object or debris (FOD) from the IMV inlet flow straightener and silencers located in the Airlock.  Following the cleaning, the crew used the Velocicalc tool to measure the air flow through the IMV.
+Completed Task List Activities:
+
+SSC-UDON SP BPW-RVW
+OBT-CYG VEH OPS-CBT
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SSRMS Cygnus Install
+System Configurations for Cygnus Berthing and configuring back to nominal after berthing.
+

@@ -1,0 +1,26 @@
+
+Payloads:
+Electromagnetic Levitator (EML): The EML high speed camera was set to Standard (STD) measurement mode. The EML is a facility composed of four inserts installed into the European Drawer Rack (EDR) for the electromagnetic levitation of samples. The experiment samples are installed in a dedicated sample chamber that is attached to EML and can be replaced by new sample chambers for new experiment batches.
+Minus Eighty-Degree Laboratory Freezer for ISS (MELFI): The MELFI-3 Electronics Unit (EU) did not return to operational status after the Remote Power Controller Module (RPCM) replacement was completed. This was expected since the unit was suspect. The failed EU was removed and replaced with a spare unit. The MELFI is a cold storage unit capable of maintaining experiment samples at ultra-cold temperatures throughout a mission. The MELFI units use nitrogen as a working fluid and have standard set points of -95°C, -35°C and 2°C. 
+Plant Habitat-03B: Thinning of the Arabidopsis seedling plants (48 total) was performed, and photos were taken from the top of the entire science carrier and of each of four quadrants. Plants exposed to environmental stress, including spaceflight, undergo epigenetic changes that involve adding extra information to deoxyribonucleic acid (DNA) rather than changing existing information. Epigenetic Adaptation to the Spaceflight Environment – Accumulated Genomic Change Induced by Generations in Space (Plant Habitat-03) assesses whether epigenetic adaptations in one generation of plants grown in space can transfer to the next generation. This could help identify genetic elements that increase the adaptability of plants to spaceflight, a first step toward developing cultivars better suited to provide food and air and water purification in life support systems on future space missions.
+Surface Avatar: Surface Avatar hardware was uninstalled and stowed. The Surface Avatar: Multi-Avatar and Robots Collaborating with Intuitive Interface (Surface Avatar) investigation evaluates how effectively multiple robots can be commanded in scalable autonomy under conditions in space. Surface Avatar also seeks to provide information on how well the robot operator responds to haptic feedback, and crucially, what the challenges and sticking points are for a real orbit-to-ground setup to operate robots remotely.
+Systems:
+Emergency Simulation Onboard Training (OBT): The crew reviewed Emergency OBT Simulator Functionality to ensure systems are functional and their training is current in the event of an emergency on the space station. Tomorrow, the crew will perform emergency response drills.
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub and Hard Upper Torso (HUT) Scrub: The crew performed ionic and particulate filtration (scrubbing) and biocidal maintenance (iodination) of EMUs 3003 and 3009 as well as Airlock (A/L) cooling water loops. Conductivity readings and a water sample were taken from the cooling loop following the 70-minute scrub. During the scrub, the crew also performed an EMU Data Recorder (EDAR) software update on EMU 3003. Finally, crew terminated, deconfigured, and checked out the EMUs. EMU loop scrubs are required preventative maintenance needed to remove any chemical and biological contaminants from the EMU cooling loop. The EMU is an independent anthropomorphic system that provides environmental protection, mobility, life support, and communications for the crewmember to perform an EVA in Earth orbit.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Functional Check: As part of preventive maintenance, the crew activated the spare TOCA and cycled the Gas Mass Flow Controller to mitigate potential failure of the spare TOCA. TOCA primarily serves as a general indication of overall water quality of the Water Processor (potable water). This check used a trackball to navigate the TOCA menus in lieu of the touchscreen, which was reported as non-functional during previous checkout attempts.
+Private Astronaut Mission (PAM) Tablet Check: A basic status check of the PAM tablets was performed. Previously, crew had reported issues connecting to internet and performing basic browser and email tasks. The crew checked if the SSC and “PAMNet WiFi” networks were available and then connected the tablets to PAMNet using credentials given to Axiom-2 Crew.
+Waste Hygiene Compartment (WHC) ЕДВ-Y Remove and Replace (R&R): As part of regular maintenance, the crew replaced the ЕДВ-Y in the WHC. Nominally, fluid into the WHC is sent directly to the Urine Processor Assembly (UPA) Wastewater Storage Tank Assembly (WSTA). If for any reason, fluid cannot be sent to UPA, it is sent to ЕДВ-Y. ЕДВs have a lifetime limit of one year, and then an R&R must be performed.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+EMU Cooling Loop Maintenance Scrub
+EMU HUT Scrubber Installation/Deconfig
+Plant Habitat-03B Plant Thinning
+[Aborted] VDS Survey
+EPS Solar Array Voltage Maximum Power
+PRO MELFI-3 Alternate Activation Commanding
+

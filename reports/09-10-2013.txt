@@ -1,0 +1,93 @@
+
+34S Soyuz Undock & Landing: Soyuz 34S undocked from the ISS Mini-Research Module (MRM)-2 bringing Commander (CDR) Viogradov, Flight Engineer (FE-2) Misurkin, and FE-3 Cassidy back to earth.  Prior to undocking, the crew performed leak checks on the vestibule, suits, and hatch between the descent module and the habitation module.  The undock command, which initiated the opening of the Soyuz vehicle docking hooks, was issued at 6:34pm (CDT) with physical separation occurring a minute and a half later.  The Soyuz deorbit burn started at 9:05pm (CDT) and Search and Rescue (SAR) forces established voice communication with the crew and obtained visual acquisition of Soyuz on parachutes at 9:46pm (CDT).  Soyuz 34S landing occurred at 9:58pm (CDT) in the nominal region.
+Cygnus Orbital-Demonstration (Orb-D1) Pregather: FE-5 Parmitano and FE-6 Nyberg started gathering disposal items in preparation for Orb-D1 arrival on 22 September 2013.  The items were temporarily stowed at the Permanent Multipurpose Module (PMM) Endcone.
+Cupola Robotics Work Station (RWS) Loss of Communication (LOC):  Last evening the C&C Multiplexer/Demultiplexer (MDM) lost comm with the (backup) Cupola RWS.  The Cupola RWS is currently powered up and operating nominally. This signature has been seen before and is documented as a known software issue.  Ground teams continue to work to update this software on a future date. Launch Commit Criteria Flight Rules associated with Cygnus Orbital D-1 launch on 17 September require both Lab and Cupola RWSs.
+Urine Processing Assembly (UPA) Fluids Control Pump Assembly (FCPA) Removal and Replacement (R&R): Cassidy performed an R&R of the FCPA yesterday.  Ground teams successfully checked all valve transitions in the new FCPA overnight. Ground teams successfully initiated a process run today. The On-orbit Replacement Unit (ORU) failed last week due to a spike in high motor current. Yesterday’s R&R used the last available FCPA spare onboard ISS. However, an additional FCPA is currently manifested on SpaceX-3.
+Today’s Planned Tasks
+
+Reaction Self Test  [Complete]
+Gathering O2/CO2 Samples [Complete]
+Experiment Laptop Terminal (ELT) 2 Removal [Complete]
+Stowing Return Hardware in Soyuz 708. [Complete]
+Photography of Equipment in ТК 708 СА. [Complete]
+Setup of GoPro HERO3 cameras in ТПК 708A СА [Complete]
+Crew Departure Prep [Complete]
+ELT2 Setting [Complete]
+CIR – Hardware Setup [Complete]
+End discharging 825М pack [Complete]
+WRM – Condensate Pumping Initiation [Complete]
+ICEBOX. Data Transfer [Complete]
+СОЖ Maintenance
+RWS Powerdown in Cupola [Aborted]
+ICE CRYSTAL2. Ice cell removal [Complete]
+ICE CRYSTAL2. Cable Check [Complete]
+WRM – Terminate Condensate Pumping [Complete]
+Orlan-MK No. 5 Drying [Complete]
+ICE CRYSTAL2. Ice Cell Installation [Complete]
+CASKAD. Bioreactor Removal and Transfer to ТК 708 [Complete]
+Removal of Recomb-K from Thermostat and Transfer to ТК [Complete]
+BIOEMULSIYA. Removal from thermostat (+4 С) and transfer to ТК [Complete]
+ECCO – Pack Cartridges and Samples [Complete]
+BIF. Removal from thermostatic container and transfer to Soyuz [Complete]
+ECCO – Handover for Soyuz packing [Complete]
+ARIL. Case Removal from Thermostat (+4 deg C) and Transfer to ТК [Complete]
+ECCO. Kit Transfer for Return to the ground [Complete]
+Handover of ECCO thermal container to a Russian crew member [Complete]
+Stow Video Equipment to Record RWS Ops [Complete]
+Crew sets the D2Xs intervalometer [Complete]
+CYGNUS  Cargo Pre-gather  [Complete]
+Orlan-MK No. 5 Drying (switching to backup fan)  [Complete]
+ТПК 708 Return Stowage Complete Report [Complete]
+Photography of the external surface of ТК 708 СА hatch/manhole door [Complete]
+IMS Update [Complete]
+Comm config before ТК 708 undocking from MRM2 [Complete]
+Downlink photo of the external surface of ТК 708 СА-БО hatch-manhole and return cargo packing photo [Complete]
+ТК 708 Activation [Complete]
+Removal of ССД301 Light in ТК 708 БО for SM spares [Complete]
+Get r/g 3402 from ТК 708 [Complete]
+ISS- HAM-radio Deactivation [Complete]
+CYGNUS. Cargo Pre-gather [Complete]
+Potable Water Dispenser (PWD) Beverage Adapter Cleaning [Complete]
+Orlan-MK No. 5 Drying (closeout) [Complete]
+Setup and Activation of КСПЭ Equipment for Hatch Closure TV coverage from MRM2 [Complete]
+Internal Audio Subsystem (IAS) Crew Quarters Audio Cable Configuration [Complete]
+ТК-MRM2 Hatch Closure.  ”Hatch Closure” [Complete]
+ТПК-MRM2 Hatch Closure. [Complete]
+MPEG2 TV Coverage of Hatch Closure from MRM2 [Complete]
+ТК 708- MRM2 Hatch Leak Check [Complete]
+CYGNUS. Cargo Pre-gather [Complete]
+USOS Window Shutter Close [Complete]
+CASKAD. Thermostat Removal [Complete]
+CYGNUS. Cargo Pre-gather [Complete]
+Hatch Closure TV Downlink [Complete]
+Deactivation of КСПЭ Equipment after Hatch Closure Coverage from MRM2 [Complete]
+ТП 708 ODF Ops, Undocking and Descent Ops [Complete]
+SM Comm Config after ТПК 708 Undocking from ISS [Complete]
+Reset СО-ТК PEV to CLOSED position [Complete]
+Gathering O2/CO2 Samples [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop [Complete]
+ISTOCHNIK-M. Preparations for carrying out measurements. [Complete]
+ISTOCHNIK-M. Activation of ТК 708 TLM Recording. [Complete]
+ISTOCHNIK-M Closeout Ops [Complete]
+Restore Nominal Comm Configuration [Complete]
+Reaction Self Test [Complete]
+
+Task List
+
+34S US Prepack [Complete]
+CEO Ops [Complete]
+ARED Cylinder Evacuation   
+Data Prep for Return (CDR)
+Data Prep for Return (FE-2)
+КТО replace
+ЕДВ-У R&R
+Prepare reports for Roskosmos web-site
+Data Prep for Return (FE-3) [Complete]
+Crew Arrival Prep [Complete]
+UltraBay Adapter (UBA) Consolidate
+COL Tools split [Complete]
+
+Ground
+
+Ground Commanding in support of Soyuz Undock and Landing [Complete]
+

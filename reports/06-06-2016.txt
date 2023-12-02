@@ -1,0 +1,104 @@
+
+Multi-Omics: Over the weekend the crew checked the remaining Fructooligosaccharide (FOS) packages and stowed the Fructooligo Bag for the Japan Aerospace Exploration Agency (JAXA) Multi-Omics investigation. Today, the crew collected samples and inserted them into the Box Module in the Minus Eighty-degree Freezer for ISS (MELFI). The Multi-Omics analysis of human microbial-metabolic cross-talk in the space ecosystem evaluates the impacts of space environment and prebiotics on astronauts’ immune function by combining the data obtained from the measurements of changes in the gut microbiological composition, metabolites profiles, and the immune system.
+ 
+Auxin Transport Run #3-2: Following completion of Auxin Transport 3-1 experiment run last week, today the crew conducted the first day of the 3-2 Auxin Transport experiment run by retrieving the samples from MELFI before preparing and installing the samples into the Cell Biology Experiment Unit (CBEF) for incubation. The incubation process takes 3 days and will be followed by the fixation, sampling and closeout activities on day 4. The objective of this Japan Aerospace Exploration Agency (JAXA) investigation is to clarify the role of auxins in pea and maize (corn) seedlings grown in microgravity, leading to new insight into how gravity, or the lack of gravity, affects plant development. This study may contribute to increasing the efficiency of plant cultivation in plant factories. The data obtained from the second experiment run will provide evidence of spaceflight‐alterations in auxin polar transport and endogenous levels of auxin, resulting in automorphogenesis.
+ 
+Fine Motor Skills: A series of interactive tasks on a touchscreen tablet were completed for the Fine Motor Skills investigation. This is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity.
+ 
+Bigelow Expandable Aerospace Module (BEAM) Ingress:  Following last week’s successful BEAM vestibule outfitting, earlier this morning the crew ingressed BEAM for the first time and performed outfitting tasks including safing the Ascent Vent Valve and initiating Inter-Module Ventilation (IMV). Sensor installation is planned for tomorrow and Wednesday.
+ 
+Japanese Experiment Module (JEM) Remote Manipulator System (RMS) Ops: Following Friday’s ground operations to maneuver JEMRMS from the Small Satellite Deploy position to the stowed position, today the crew removed the NanoRacks CubeSat Deployer (NRCSD) hardware from the Multipurpose Experiment Module (MPEP) and the Handhold Experiment Platform Adapter was installed onto the MPEP.
+ 
+Remote Power Controller Module (RPCM) P12B-A Remove & Replace (R&R): Friday night, Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) Arm 2 to extract the P12B_A Remote Power Control Module (RPCM) on the P1 Truss Nadir.  After unbolting the RPCM, several attempts were made to extract this RPCM.  During the last attempt the RPCM was accidently pulled with a force exceeding the allowable limits of both the SPDM and the RPCM due to the SPDM Force Moment Accommodation (FMA) being off.  A Multilateral Anomaly Resolution Team (MART) was held where it was decided to stand down from trying to extract the RPCM and to rebolt the RPCM.  After several attempts pushing the bolt at increasing force levels, the RPCM was finally bolted down when it was wiggled in pitch by SPDM Arm2, then pushed at the maximum allowable insertion force of 190 N.  SPDM Arm 2 and the SSRMS were configured to a park position pending ISS program direction for continuation of operations.
+ 
+Starboard Crew Quarters (CQ) Cleaning: In preparation for 45S departure, the crew cleaned the CQ intake and exhaust ducts, fans and airflow sensors.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+БМП Ф1 absorption cartridge regeneration (start)
+KORREKTSIA. Register acceptance of food and liquids (medicaments) in on-board log  r/g 2448
+FMK deployment ops
+FINEMOTR- experiment run
+Prepare and install acoustic dosimeters
+Preventive maintenance of laptop FS1 (clean and reboot) / r/g 1023
+Fold ARED
+Read pressure measurements from analogous manometer in BEAM module
+VIBROLAB. Check equipment activation / r/g 2441
+JEMAL – JEM Airlock repress
+Take GSC samples
+BEAM – first ingress (remove hatch, take air samples, install AVV valve, setup IMV air duct)
+БРИ smart switch cleaning (monthly operation)   r/g 1841
+БВН grille cleaning in Soyuz ТК №719
+Install JEMRMS bus monitor cable
+Ham radio pass from Columbus
+Air sampling with АК-1М air sampler in BEAM r/g 2442
+Stowage operations before Soyuz ТК №719 undock / r/g 2374, 2446
+XF305 Video camera adjustment
+JEMAL – JEM Airlock leak check
+Gather ESA equipment to be returned on 45S
+VIZIR. Preparation and start of experiment run r/g 2447
+Extend JEM A/L table to JPM side
+NanoRacks CubeSat – remove the device for deployment from MPEP
+NAPOR-mini РСА. Clean БЗУ-М ventilation holes / r/g 1906
+LBNP simulations (PRELIMINARY) r/g 2449
+Egress from BEAM and start atmosphere purification through IMV
+Nitrogen/Oxygen recharge system (NORS) of atmosphere control system (ACS): terminate oxygen supply
+Inflight maintenance – clean starboard crew quarters
+ВЕАМ module – install IMV air duct and ventilation grille
+BEAM – connect SSC for collection of data from DDS sensors
+Stowage operations before Soyuz ТК №719 undock / r/g 2374, 2446
+SM atmosphere analysis for freon with the help of ФИТ analyzer r/g 1751
+Install adapter for manual platform connection
+VIZIR. Experiment run with СКПФУ equipment r/g 2445 [Deferred]
+ВЕЛО-4 exercise
+Retract JEM A/L extendable table from JPM side
+Open valves of air bottles in BEAM
+Closeout ops and egress from BEAM, close Node 3 Aft hatch
+Check connection of BEAM  IMV valve
+Put ARED into working position
+Preventive maintenance program (CMS) – T2 treadmill- exercise
+Inflight maintenance – WHC – Full Fill
+KORREKTSIA. Register acceptance of food and liquids (medicaments) in on-board log / r/g 2448
+Time to prepare for departure
+VIZIR. Closeout ops with СКПИ equipment,  tear down GLISSER-М and start copying r/g 2447
+Check  BIOS of EXPRESS laptop in EXPRESS Rack 8
+SM ventilation system prophylactics (Group В1)
+Retrieve, clean and stow the item produced in 3D-printer
+Inflight  maintenance – WHC – Full Fill
+SOZh maintenance
+AUT – preparation of equipment for stowage
+AUT – retrieve samples from MELFI
+Preventive maintenance program (CMS) – T2 treadmill- exercise
+Search for Actiwatch Spectrums equipment
+D/l via ОСА data on physical exercise
+Recording of video greetings / r/g 2443
+Multi Omics
+AUT – preparation of samples
+Multi Omics. Placement of samples into MELFI
+Multi Omics. Stow equipment according to Stowage Note
+VIBROLAB. Copy and d/l info to the ground / r/g 2441
+Multi Omics. Modules assembly
+AUT – connect MEU-B(2)
+VIZIR. Closeout ops with GLISSER-М video complex and start charging battery / r/g 2447
+AUT – connect MEU-B(3)
+INTERACTION-2. Experiment run / r/g 2440
+Imagery of Soyuz  №719 from DC1 and Cupola
+БМП Ф1 absorption cartridge regeneration (term)
+VIZIR. Terminate battery charge for GLISSER-М video complex
+KORREKTSIA. Register acceptance of food and liquids (medicaments) in on-board log / r/g 2448
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+BEAM ingress
+JEMAL ops
+Nominal ground commanding
+
+ 

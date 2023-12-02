@@ -1,0 +1,96 @@
+
+Cygnus Spacecraft Fire Experiment-I (Saffire-I) Operations: Yesterday, Saffire-1 successfully completed the first of two phases when a flame experiment was performed inside the Cygnus vehicle after departing the ISS.  Today began the second phase which consists of retrieving experiment data via downlink passes at various ground sites.  Because fire is extremely dangerous on a spacecraft, most controlled flame growth experiments have been limited to small sizes. Instruments measure flame growth and oxygen use, improving understanding of fire growth in microgravity and safeguarding future space missions.
+ 
+Dose Distribution Inside the ISS – 3D (DOSIS 3D): The European Space Agency’s (ESA’s) DOSIS 3D passive detectors were de-installed from the Columbus module. Data from the various active and passive radiation detectors installed in the ISS are used to measure radiation field parameters such as absorbed dose, particle influence and Linear Energy Transfer (LET) spectra as well as dose equivalent at different locations inside the ISS using passive and active measurement devices.
+ 
+Human Research Program (HRP) Collections: The crew collected saliva samples and stowed them in the Minus Eighty-degree Freezer for ISS (MELFI). These sample collections are used to support the following HRP investigations: Biochem Profile, Repository, and Cardio Ox.
+Microgravity Experiment Research Locker Incubator (MERLIN) Desiccant Kit Installation: Eight desiccant packs were installed inside the MERLIN which provides a single middeck locker-sized Expedite the Processing of Experiments to Space Station (EXPRESS) Rack compatible freezer/refrigerator or incubator that can be used for a variety of experiments.
+ 
+Fine Motor Skills: The crew completed a series of interactive tasks for the Fine Motor Skills investigation.  This investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity.
+ 
+Dose Tracker: The crew completed entries for medication tracking. This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+ 
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance: The crew completed ionic and particulate filtration (scrubbing) and biocidal maintenance (iodination) of EMUs 3003 and 3010 and Airlock cooling water loops. These activities are part of nominal 90-day maintenance requirements.
+ 
+Urine Processor Assembly (UPA) and Water Processor Assembly (WPA) Status: Overnight both UPA and WPA completed their process cycles and the Waste and Hygiene Compartment (WHC) was configured to UPA.  UPA conductivity was still elevated and oscillating during the first part of the run before it was able to stay in process consistently. Teams are reviewing data from the runs.
+ 
+45 Soyuz (45S) Undock Preparations: The 45S crew performed descent training in preparation for 45S undock and landing this Saturday.  45S performed a nominal thruster test in preparation for departure.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+HRF – sample collection and prep for stow
+Check  status of fuses in MRM1  on БПП-4, БПП-7 by LED indication
+HRF- Insertion of samples into MELFI
+Close shutters of windows № 6,8,9,12,13,14 in SM/ r/g 6965
+Search of NeST SSD memory device
+RADIOSKAF. Deactivation of «TOMSK- TPU 120” nano satellite from charging unit and stowage r/g 2530
+DOSETRK – questionnaire fill out
+Emergency Book Update
+Close USOS windows shutters
+PK4- Hard drive data copying
+Crew Departure Preparations for Return to Earth
+п On MCC GO Water transfer from Progress №432 tank БВ2  (on [АО] aggregate compartment) into ЕДВ r/g 2541
+EMU SS cooling loop scrubbing (start)
+Final configuration of  EWC WAP access point and stowage of WAP SM
+FINEMOTR- Experiment run
+PBRE – Water Purification
+[АСУ] toilet activation in Soyuz №719
+Replace urine receptacle МП #0950040and filter insert in АСУ
+[АСУ] activation after replacement
+Soyuz 719 СУДН test prior to undock r/g 2538
+Preparation of US equipment for stowage in Soyuz
+SOZh maintenance
+Install radiation monitors
+ARED – clean flywheel cylinder
+DOSIS. Transfer DOSIS 3D kit to be returned to the ground / r/g 2546
+Handover DOS3D dosimeters to RS to be placed into payload container and be returned  in Soyuz
+Downlink log-file ТВМ1-Н via RSS2 r/g 2550
+Crew Departure Preparations for Return to Earth
+MATRESHKA-R. Remove  СПД passive assemblies to be returned in Soyuz / r/g 2545
+РК4 – experiment run / See OPTIMIS Viewer for Procedure
+Water sampling after EMU SS cooling loop scrubbing
+EMU SS – connectivity test
+MATRESHKA-R. Remove napkins and towels from protection curtain in starboard cabin r/g 2545
+DOS3D – remove 3D passive sensors in Columbus
+LBNP assist / r/g 2532
+LBNP session (FINAL) r/g 2532
+Check positioning of ИП-1 sensors
+Camera installation in LAB for feeding to RWS monitor 3
+РК4 – Experiment Run
+Reconfigure equipment for cleaning EMU SS cooling loop scrubbing
+Stow personal medical kits
+Soyuz 719 descent simulation r/g 2539, 2544
+DUBRAVA. Observation and photography with [ВСС]  equipment / r/g 2548
+Progress 432 (on [АО]) cargo ops and IMS update / r/g 1812, 1832
+EMU reconfig
+IMS update
+PAO Hardware Preparation
+EMU SPACE SUIT – Long Drying
+DOSETRK- – questionnaire
+Video downlink – terminate
+RWS deactivation
+Pille dosimeters reading / r/g 2540
+Crew prep for PAO
+PAO
+Replace flash-card of Pille equipment r/g 2540
+Stow syringes used in H2O connectivity test
+Sprint Exercise- at crew’s discretion
+KONTENT. Experiment run / r/g 2537
+On MCC GO Closeout ops after Progress №432   RODNIK tank БВ2 compression (on [АО])
+Greetings video recording / r/g 2547
+MERLIN –  Desiccant Change out
+
+ 
+Completed Task List Items
+
+iPAD cert update [Active]
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+EMU operations
+Nominal ground commanding
+
+ 

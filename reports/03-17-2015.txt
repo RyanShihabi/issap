@@ -1,0 +1,44 @@
+
+Node 3 Carbon Dioxide Removal Assembly (CDRA):  Overnight the Flight Control Specialist’s attempt to repower Node 3 CDRA failed due to both CDRA bed heaters reporting as failed.  The ppCO2 levels remain low and preliminary assessment level will remain below limits with no CDRA for a couple days.  The team has been able to override the failed heater indication and are currently working on repowering the Node 3 CDRA. 
+Muscle Atrophy Research & Exercise System (MARES) Checkout: With assistance from Virts, Cristoforetti performed the first of two days of activation and deploy setup of the MARES facility. She deployed the MARES facility into its operational configuration. She then activated the European Physiology Module (EPM) laptop and charging the battery followed by verification of the integrity of the spare MARES hard drive.  Preliminary data shows the battery state of charge exceeded the minimum charge requirement of 60%, and was determined to be between 82-84%.  Tomorrow, Cristoforetti will perform a functional test of the MARES facility.  The MARES hardware is made up of an adjustable chair and human restraint system, a pantograph (an articulated arm supporting the chair, used to properly position the user), a direct drive motor, associated electronics and experiment programming software, a linear adapter that translates motor rotation into linear movements, and a vibration isolation frame. The MARES facility will be used for research on musculoskeletal, biomechanical, and neuromuscular human physiology to better understand the effects of microgravity on the muscular system.
+Coarsening in Solid Liquid Mixture (CSLM)-4 Stow: Virts removed CSLM-2 from the Microgravity Science Glovebox (MSG) in preparation for its return on SpaceX-6 (SpX-6). The next user of the MSG will be Rodent Research-2 which launches on SpX-6.
+Emergency Egress Drill On-Board Training (OBT):  All 3 crew members participated in this OBT to refresh and maintain crew skills should an emergency warrant the need to immediately depart the Station. The training is scheduled after a crew has been on board for 12-14 weeks, then every 2 ½ months thereafter. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Verification of anti-virus scan results on Auxiliary Computer System (ВКС) laptops
+WRS Water Sample Analysis
+ISS Emergency OBT Drill (Soyuz 715 Descent).
+TOCA Data Recording
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module
+MAR. Payload Deployment for Commissioning
+WRS – Recycle Tank Fill
+MAR. Laptop Activation
+MAR. Battery Charge Initiation
+MSG – Glovebox Powerup
+ПФ1-4 Dust Filter Cartridge Replacement in SM
+CWC Fill
+Crew Discretionary Conference
+MAR. Battery Charge Process
+СОЖ Maintenance
+CSLM2 – Equipment Stowage 
+MSG – Powerdown
+Screw Clamp Tightening on MRM1-FGB Interface
+URISYS Hardware Setup
+MAR. Battery charge status check
+MAR. Hard Drive Exchange and Test
+Installation of ТВМ-1Н SW.
+Thermolab – Instrumentation Ops for Circadian Rhythms
+WRS – Recycle Tank Fill
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+Solar Array Maximum Power Output Test
+

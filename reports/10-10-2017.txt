@@ -1,0 +1,74 @@
+
+USOS Extra Vehicular Activity (EVA) #45: Today Randy Bresnik (as EV1) and Mark Vande Hei (as EV2) successfully performed US EVA #45 with a Phased Elapsed Time (PET) of 6:26. The primary goal of today’s EVA was to Remove and Replace (R&R) the External Television Camera Group (ETVCG) located at Camera Port 9 (CP9) and to lubricate the newly installed Latching End Effector (LEE) A on the Space Station Robotic Manipulator System (SSRMS). The LEE A was installed onto the SSRMS last week during USOS EVA #44.  Additional tasks accomplished include: Airlock High Pressure Gas Tank (HPGT) handle tie back, rotation of the Pump/Flow Control Subassembly (PFCS), R&R of the Mobile Base System (MBS) mast Camera/Light/PTU Assembly (CLPA) lens cover, removal of a handrail from Node 3, and BDCU MLI Removal. 
+At Home in Space:  The crew took photographs today to document the current on-orbit ISS culture. This Canadian Space Agency investigation assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home in Space also uses questionnaires to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth.
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+External Wireless Instrumentation System Network Control Unit EVA Inhibit
+LAB Wireless Access Point Port Inhibit
+ISS HAM Radio and Video Power Down
+USOS Extravehicular Activity (EVA) Communication Configuration
+EVA COTS UHF Communication Unit (CUCU)  Verify off
+USOS Window Shutter Close
+Extravehicular Activity (EVA) In-Suit Light Exercise (ISLE) Preparation
+KUBIK Temperature Adjustment to 20°C
+Verify that SM Window Shutters #6, 8, 9, 12, 13, 14 are closed.
+CALCIUM. Session 7 of the Experiment
+Extravehicular Mobility Unit (EMU) Purge
+Monitoring of ИП-1 Sensors Installation
+Extravehicular Mobility Unit (EMU) In-Suit Light Exercise (ISLE) Prebreathe
+Video Recording of Greetings
+VIZIR. Preparation. Tagup with specialists if required
+PK-4 Flexhose connection to Cleaning gas bottle
+Crewlock Depress
+Crewlock Post Depress
+Crewlock Egress
+Airlock High Pressure Gas Tank (HPGT) Reconfig
+SSRMS Setup and Worksite Interface (WIF) Adapter Install
+SSRMS EVA Support
+Articulating Portable Foot Restraint (APFR) and Worksite Interface Extender (WIFEX) Setup
+[АСУ] Set R&R
+ Pump and Flow Control Subassembly (PFCS) Rotate
+СОЖ Maintenance
+CP9 External TV Camera Group (ETVCG) R&R
+Vacuum Cleaning of Ventilation Screens on FGB Interior Panels 201, 301, and 401
+VIZIR. Closeout Operations
+Mobile Base System (MBS) Mast Camera Light Pan-Tilt Assembly (CLPA) Lens Cover R&R
+SSRMS Cleanup
+Special Purpose Dexterous Manipulator (SPDM) Latching End Effector (LEE) Lube
+Worksite Interface (WIF) Adapter Remove
+Worksite Cleanup
+Node 3 Handrail Remove
+Articulating Portable Foot Restraint (APFR) Cleanup
+SPLANKH. Preparation for the Experiment
+Crewlock Ingress
+IMS Delta File Prep
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill [Deferred]
+At Home In Space Culture Photo
+PK-4 Flexhose disconnection from Cleaning bottle
+ACME Session Review
+EVA Glove Photo Setup
+Crewlock Pre Repress
+Crewlock Repress
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Post Extravehicular Activity (EVA) Communication Deconfiguration
+EVA Glove Photo Downlink
+Extravehicular Activity (EVA) Camera Image Downlink
+Photo/TV Extravehicular Activity (EVA) GoPro Downlink
+Metal Oxide (METOX) Regeneration Initiation
+External Wireless Instrumentation System (EWIS) Network Control Unit (NCU) Enable
+LAB Wireless Access Point Port Enable 
+
+Completed Task List Activities
+
+At Home In Space Questionnaire [GMT 283]
+Stowage audit of COL Endcone  [GMT 283]
+Total Organic Carbon Analyzer (TOCA) Protoflight Unit #3 (PFU3) Close Out and Stow [GMT 283]
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+Support for EVA
+Standard commanding
+

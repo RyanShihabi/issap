@@ -1,0 +1,95 @@
+
+New Status:
+Ku-Comm Unit #1 High-Rate Communications System (HRCS) COAX Connections: Commander (CDR) Hadfield and Flight Engineer (FE)-6 Marshburn connected Ku Comm Unit 1 to the Space to Ground Transmitter Receiver Controller (SGTRC) final configuration.  The Ground activated Ku-Comm Unit 1 and confirmed video, payload data and Orbiter Communication Adapter (OCA) were functioning nominally. This completes all Ku Comm Unit installation activities.
+ENERGY Experiment: Hadfield completed the final day of his 10-day ENERGY session. Afterwards he transferred the data to the European Physiology Module (EPM) laptop, for downlink to the Ground for analysis. The experiment includes eating a standardized meal, diet logging, specific water intake, measurements of Oxygen uptake, collection of urine samples, and wearing an armband activity monitor. A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+
+Countermeasures System (CMS) Periodic Fitness Evaluation (PFE): Marshburn performed his monthly physiological evaluation, with assistance from Cassidy.  PFEs monitor crewmembers’ overall fitness levels, to ensure that cardiovascular and musculoskeletal health and performance is satisfactory. The activity consists of performing a graded exercise test on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
+Capillary Flow Experiment (CFE):  Following yesterday’s crew procedures and setup review, Cassidy secured the CFE hardware on the Maintenance Work Area (MWA) and positioned the High Definition (HD) camcorder for today’s 3rd test session of this experiment.  CFE is a suite of fluid physics experiments that investigates how fluids translate across surfaces in microgravity. The results will be used to improve current computer models that are used by designers of low gravity fluid systems, and may improve fluid transfer systems for water on future spacecraft.
+Russian Segment (RS) Extravehicular Activity (EVA) #32 Timeline Review: Hadfield, Romanenko and Vinogradov reviewed the EVA timeline in preparation for tomorrow’s planned Russian EVA #32.
+Previous Status (04/17/13)
+Blood Pressure (BP) Regulation (Reg) Experiment: Hadfield set up the Human Research Facility (HRF) PFS (Pulmonary Function System) and the European Physiology Module (EPM) CDL (Cardiolab) LACS (Leg/Arm Cuff System) and conducted the first ever session of this experiment. Marshburn is scheduled to conduct the experiment Friday. The test will help to identify the astronauts who could benefit from countermeasures before returning to Earth. Thus, this method has great potential for astronaut health monitoring during future long-term space flights and it also has important implications for testing of individuals on Earth, especially the elderly, who are at risk for fainting. The research will also allow demonstrating the feasibility of obtaining a set of indicators of overall cardiovascular regulation from the non-invasive measurement of continuous blood pressure. 
+
+Countermeasures System (CMS) Periodic Fitness Evaluation (PFE):  With assistance from Marshburn, Cassidy performed his first monthly physiological evaluation since arriving on orbit. The purpose of this activity is to monitor crewmembers’ overall fitness levels to ensure that cardiovascular and musculoskeletal health and performance is satisfactory. The activity consists of performing a graded exercise test on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS).
+
+Mobile Servicing System (MSS) Space Station Remote Manipulator System (SSRMS) Walkoff to Power Data Grapple Fixture (PDGF)-1: Cassidy set up the Cupola Robotics Work Station (RWS) Display Control Panel (DCP) and conduct a Dynamic Onboard Ubiquitous Graphics (DOUG) review of planned Space Station Remote Manipulator System (SSRMS) trajectories. Following the review he maneuvered the SSRMS and performed a grapple and handoff to the Ground. Ground teams then performed a walkoff to Mobile Base System (MBS) PDGF-1. This is in preparation for MSS activities planned for the week of May 6.
+
+
+
+EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Laptop Computer (ELC) Software Updates: Marshburn loaded EXPRESS Software Version 9.0, Basic Input/Output System (BIOS), Serial Network Flow Monitor (SNFM) software and configure the EXPRESS Rack-6 Laptop Computer (ELC) for operations. He configured and loaded Microgravity Experiment Research Locker/Incubator (MERLIN) and General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) payload application software onto the ELC.
+Capillary Flow Experiment (CFE): In preparation for tomorrow’s planned session, Cassidy will review crew operations procedures and setup procedure.
+
+
+
+
+Total Organic Carbon Analyzer (TOCA) Water Sample: Hadfield retrieved a sample from the Water Processor Assembly (WPA) using the TOCA. He then recorded and transferred the data.
+
+Today’s Planned Tasks
+· RSS1, RSS2 Reboot / r/g 1009 step 1  [Complete] 
+· PROK. Urine РН Test  [Complete] 
+· SM ПСС (Caution & Warning Panel) Test  [Complete] 
+· Reboot Laptop RS2(1) / Onboard Computer System (БВС)  [Complete] 
+· REMINDER. Crew Reminder about the ENERGY Experiment  [Complete] 
+· PROK –  Urine Sample Collection  [Complete] 
+· HRF Urine Sample Collection  [Complete] 
+· BCAT Camera Battery Changeout  [Complete] 
+· HRF Urine Sample MELFI Insertion  [Complete] 
+· REMINDER-BP REG –  Reading Reminder  [Complete] 
+· HRF.  Sample Blood Collection  [Complete] 
+· HRF Blood Draw  [Complete] 
+· Acoustic dosimeters: hardware setup for static measurements (operation 4 of 5)  [Complete] 
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954  [Complete] 
+· ENERGY Diet Log of Breakfast  [Complete] 
+· HRF Centrifuge Configuration  [Complete] 
+· HRF Closeout Ops  [Complete] 
+· ISS Crew and ГОГУ (RSA Flight Control Team Management) Weekly Conference  [Complete] 
+· CFE Hardware Setup  [Complete] 
+· HRF – Sample Blood MELFI Insertion  [Complete] 
+· Cleaning ВД1 and ВД2 Air Ducts in DC-1   [Complete] 
+· CONSTANTA. Prep and Execution 6. r/g 2115  [Complete] 
+· В1, В2 Fan Screen Cleaning in DC1 / СОТР,  [Complete] 
+· Periodic Fitness Evaluation – Nom Ops (subject)  [Complete] 
+· EVA Timeline Update. Tagup with specialists (S-band) / r/g 2118, 2119  [Complete] 
+· Periodic Fitness Evaluation – Nom Ops (assistance)  [Complete] 
+· Condensate Removal Using Manual Pump. r/g 2071  [Complete] 
+· CFE.  Test Ops  [Complete] 
+· LCS. Copying data from RSE-LCS laptop and downlink / r/g 2114  (Complete] 
+· ENERGY – Urine Sample Collection  [Complete] 
+· Download Pille Dosimeter Readings / r/g 2104
+· D2XS Photo camera Battery Charge  [Complete] 
+· ENERGY – Water Sample Collection [Complete]
+· HRCS -COAX Connections [Complete]
+· Pille sensors prep for USOS EVA / r/g 2104 [Complete]
+· IMS Tagup (S-band) [Complete]
+· Orlan-MK Drink Bag Refill and Install [Complete]
+· CFE Teardown [Complete]
+· СОЖ Maintenance [Complete]
+· ON MCC GO Purging Elektron-VM Liquid Unit (БЖ) After Deactivation / r/g 1798 [Complete]
+· PROK. Diet Logfile and PH Logsheet Photos [Complete]
+· PROK. Diet Logging Day 2- Day 4 [Complete]
+· BCAT3. Camera Checkout [Complete]
+· SPHERES USB Stow [Complete]
+· JEM System Laptop Reboot [Complete]
+· IMS Update  [Complete]
+· D2XS Photo camera Battery Charge [Complete]
+· MELFI3. Ice Brick Insertion into MELF3 [Complete]
+· Sensewear Activity Monitor Data Saving [Complete]
+· BP. Registration Ops Overview [Complete]
+· VZAIMODEISTVIYE. Experiment Ops / r/g 2116 [Complete]
+· SSC Battery Gathering and Transfer to MRM2 prior to RS EVA
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954 [Complete]
+· P/TV – Battery Changeout
+Task List
+· CEO ops 
+· RGN WSTA fill
+· SSC data gather (FE-6)  
+· SSC data gather (CDR)  [Complete]  
+· WHC EDV R&R
+· Roscosmos report
+· Data Prep Return – CDR, FE-6 [In Work] 
+· ProK diet config  [In Work] 
+· Data downlink prep
+· JPM rack labels
+· Trash gather  [In Work] 
+
+Ground
+· Nominal Commanding

@@ -1,0 +1,144 @@
+
+Change of Command Ceremony:  The Change of Command Ceremony occurred at the end of the crew day today in preparation for return of the 38S Crew tomorrow.  ISS CDR Swanson, handed over to Expedition 41 CDR Suraev.  Undock tomorrow is scheduled at 6:01pm CDT with landing at 9:23pm CDT.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Slosh: Flight Engineer (FE)-5 Wiseman successfully conducted a SPHERES Slosh test session. The SPHERES-Slosh investigation uses small robotic satellites to examine how liquids move around inside containers in microgravity. A water bottle’s contents slosh around differently in space than on Earth, but the physics of liquid motion in microgravity are not well understood, which affects computer simulations of liquid rocket fuel behavior. Middle school and high school students control the SPHERES to study how liquids behave inside containers in space, which increases the safety and efficiency of future rockets.
+Cell Mechanosensing (CMS)-2 Microscope Set Up: FE-6 Gerst set up the fluorescence microscope on the Maintenance Work Area (MWA) in the JEM Pressurized Module (JPM) in preparation for CMS-2 that will be delivered on SpaceX-4. The microscope would typically be set up inside the Multi-Purpose Small Payload Rack (MSPR) Work Volume, but currently the Aquatic Habitat is setup inside the MSPR for zebra fish that will be delivered on 40 Soyuz.
+Combustion Integration Rack (CIR) Bottle Replace: CDR Swanson removed and replace a manifold bottle inside the CIR. Currently, the CIR is configured for the FLEX-2 investigation. FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Binary Colloidal Alloy Test (BCAT)-Low Gravity Phase Kinetics Platform (KP) Sample Initiation: Wiseman transferred images for the BCAT-KP investigation and set up another sample, homogenized it, and set up the camera intervalometer to initiate automated pictures. BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties. The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses.
+Dosimeter Removal: Gerst removed area Dosimeter #17 which was installed within the Japanese Experiment Logistics Module – Pressurized Section (JLP) Module. Dosimeters continuously monitor the radiation dose aboard the ISS. Radiation exposure can have significant biological effects on living organisms, and on the biological investigations being done on ISS.  Once removed, the Dosimeter will be packed and returned to earth by way of Soyuz 38S.
+MAGVECTOR: Ground teams saw an error with MAGVECTOR today and think the issue could be due to a faulty sensor. The hardware was deactivated and the ground teams are investigating the issue. MAGVECTOR qualitatively investigates the interaction between a moving magnetic field and an electrical conductor. The set up will provide initial insights regarding the principal feasibility on board the ISS, future improvements and phenomenological trends and dependencies. The expected changes in the magnetic field structure on the Ram and Wake side of the electrical conductor are of interest for technical applications as well as for astrophysical research.
+Crew Quarters (CQ) Audio Configuration: In preparation for his departure from ISS, Commander Swanson reconfigured Audio cables in Node 2 in order to have voice and tone annunciation capability inside the Deck CQ, which is assigned to Gerst. This activity is performed every time a change of USOS Lead is conducted.
+In Flight Maintenance (IFM) Port CQ Cleaning: Swanson cleaned his CQ’s intake and exhaust ducts, fans and air flow sensors. Due to the large amounts of dust observed during prior CQ cleanings, the procedure had him remove all applicable panels and clean behind them.
+Space Station Remote Manipulator System (SSRMS) Operations:  Ground controllers performed a checkout of the SSRMS Latching End Effector (LEE) B snare cables and rigidize mechanisms.  The checkout of both LEE strings is a Launch Commit Criteria for SpaceX4.  Imagery was taken of the LEE to ensure no snare cables are protruding in the Dragon’s capture envelope. There were no off nominal conditions detected.  In addition, the motion satisfies a portion of the Mobile Servicing System 8.1 software checkout.
+JEMRMS NanoRacks Cubesat Deployer (NRCSD) Maneuver:  Overnight, JAXA will maneuver the Japanese Experiment Module Remote Manipulator System (JEMRMS) to a position where inadvertent deployment of the remaining CubeSats are not a threat to 38S undock and return trajectory.
+Today’s Planned Tasks
+
+Morning Inspection. Laptop RS1(2) Reboot [Completed]
+Morning Inspection. Laptop RSS2 Reboot Morning Inspection [Completed]
+SM ПСС (Caution & Warning Panel) Test [Completed]
+Morning Inspection [Completed]
+IVA – Reading Exercise Clothes Reminder [Completed]
+HRF – Generic Sample Operations [Completed]
+IVA – Reading Routine Clothes Reminder [Completed]
+Morning Inspection [Completed]
+HRF – Generic Sample Operations [Completed]
+HRF – Urine Sample MELFI Insertion [Completed]
+On MCC GO Regeneration of БМП Ф2 Micropurification Cartridge (start) [Completed])
+ENERGY Diet Log of Breakfast [Completed]
+Video Camera Assembly (VCA1) Adjustment [Completed]
+Signing ISS RS Handover Protocol [Completed]
+SPHERES – Experiment Conference [Completed]
+Monitoring ТПК 712 АСА and MRM2 АСП hatch sealing mechanism prior to undocking [Completed]
+OTKLIK. Hardware Check [Completed]
+BCAT – Transfer of images from the camera [Completed]
+BCAT – Sample Installation [Completed]
+LBNP Exercise (FINAL). Tagup with specialists [Completed]
+Assisting with LBNP Exercise [Completed]
+CUBESAT – Hardware Photo [Completed]
+Private Medical Conference [Completed]
+3DA1 Camcorder Setup [Completed]
+SPHERES – Camera Setup and Video Recording [Completed]
+SPHERES – Cameras setup and Video Ops [Completed]
+T2 Exercise [Completed]
+LBNP Exercise (FINAL). Tagup with specialists [Completed]
+Assisting with LBNP Exercise  [Completed]
+Health Maintenance System (HMS) – Medical Kit Stowage [Completed]
+On MCC GO Removal of ЛКТ (ТА251М1Б) and ROM from ТК 712 БО. Stow in СМ1РО_3_314_1, bag 427-1 (00063501R). Reflect changes in IMS [Completed]
+In-Flight Maintenance (IFM) -Crew Quarters (CQ) Port Cleaning [Completed]
+IVA – Completing Questionnaire [Completed]
+HAM Radio Session [Completed]
+ARED Exercise [Completed]
+ТК 712 Return Stowage [Completed]
+BAKTERIOFAG. Dismantle and Transfer BIOECOLOGIA Container to ТК 712 [Completed]
+Collecting SM and FGB Air Samples Using АК-1М Sampler [Completed]
+ИПД Air Sampling for Ammonia in SM [Completed]
+Sanitary & Epidemiological Status Monitoring [Completed]
+BIOSIGNAL. Hardware Transfer to ТК 712 Tagup with specialists as necessary [Completed]
+SPHERES – Deactivation, Checkout, and Stowage [Completed]
+SPHERES – Data Download [Completed]
+DOSIMETER – Dosimeter removal and handover to FE-1 for pre-pack for return [Completed]
+MATRYOSHKA-R. Receiving and preparing of PADLE detectors for return [Completed]
+MATRYOSHKA-R. Photos of Handover [Completed]
+3DA1 Camcorder Removal, File Transfer and Downlink [Completed]
+Dried Clothes Stowage [Completed]
+ENERGY Diet Log (Lunch) [Completed]
+ТК 712 Transfers for Return [Completed]
+Microbial sample collection (Sampling for Kit 2) [Completed]
+Video Footage for Roscosmos TV Studio [Completed]
+Private Medical Conference for Descent  [Completed]
+CMS2 – MWA Relocate [Completed]
+Crew Departure Prep [Completed]
+CMS2 – Microscope Installation [Completed]
+СОЖ Maintenance [Completed]
+Crew Departure Prep [Completed]
+Private Medical Conference [Completed]
+БД-2 Exercise, Day 4 [Completed]
+T2 Exercise [Completed]
+CIR – Rack Doors Open [Completed]
+CIR – Hardware Teardown [Completed]
+Physical Exercise (T2) Day 4 [Completed]
+IVA – Completing Questionnaire [Completed]
+ТК 712 Transfer Operations Completion Report [Completed]
+CIR – Rack Doors Close [Completed]
+БД-2 Exercise, Day 1 [Completed]
+MATRYOSHKA-R BUBBLE-dosimeter gathering and readings. [Completed]
+RADIN – Detector Removal [Completed]
+MATRYOSHKA-R. Receiving BUBBLE-dosimeter detectors from USOS. Tagup with specialists as necessary  [Completed]
+RADIN – Handover of Dosimeters to FE-4 [Completed]
+MATRYOSHKA-R BUBBLE-dosimeter gathering and readings. [Completed]
+JRNL – Journal Entry [Completed]
+CASKAD. Connecting Anabioz Incubator to РБС and Power Up [Completed]
+HRF – Preparation for blood collection [Completed]
+Dried Clothes Stowage [Completed]
+CQ Speaker Checkout  [Completed]
+IVA – Survey Completion [Completed]
+Evening Work Prep [Completed]
+Change of Command Ceremony Video Config  [Completed]
+CASKAD. Starting Anabioz No. 2 Battery Charge  [Completed]
+ENERGY Diet Log (Dinner) [Completed]
+Daily Planning Conference (S-band) [Completed]
+Change of Command Ceremony (Ku-Band) [Completed]
+Check and maintain comm from ТК 712 via RGS (VHF2) [Completed]
+Cool down of ТПК 712 [СА] prior to undocking [Completed]
+КР1 ХСА БО  MIN [Completed]
+КР2 ХСА СА  MAX  [Completed]
+On MCC GO БМП Ф2 Absorption Cartridge Regeneration (termination) [Completed]
+IVA – Reading Routine Clothes Reminder [Completed]
+IVA – Reading Exercise Clothes Reminder [Completed]
+Preparation of reports for Roscosmos site  [Completed]
+ECON-M. Observations and Photography [Completed]
+IMS Delta File Prep  [Completed]
+
+Task List
+
+ARED Cylinder Evac
+Crew Departure Prep
+IMS Update
+WHC KTO replace
+WHC EDV-Y R&R
+Roscosmos Report
+Ekon Photo
+3DA1 cam ops
+ARED detent flip
+Condensate sample install
+Data prep return- CDR, FE1, & FE2
+EVA tape Audit
+Food Warmer Mod
+ACTEX R&R
+Audio Questionnaire
+R2 Cortex T/S Part 5
+ATV cargo transfer operations
+CTB 1226 unpack [In Work]
+Dragon4 Stowage prep
+EHS-EARPLUG AUDIT [Completed]
+EMU Resize
+ESA Velcro Gather
+EVA Tool Gather
+EVA WIF Adapter Prep
+IMAK Audit
+Rodent Habitat 1 Preparation [Completed]
+Dragon 4 Prepack List
+
+Ground
+
+MSS Activation/Deactivation 
+

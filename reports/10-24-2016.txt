@@ -1,0 +1,121 @@
+
+Bigelow Expandable Activity Module (BEAM) Ingress and Sampling: FE-6 stowed the Advanced Resistive Exercise Device (ARED) then opened Node3 Aft hatch to ingress the BEAM.  Once inside, the crew collected Microbial Air Sampler (MAS) and Surface Sample Kit (SSK) microbial and surface samples and deployed the Radiation Area Monitors (RAMs) delivered on 48Soyuz (48S).  The RAMs will remain in BEAM through the end of Increment 50, when they will return for analysis on 48S.  The SSK and MAS samples will return on 47S for ground analysis.  Following sample collection, FE-6 closed the hatch and returned ARED to its nominal configuration.  BEAM is an experimental expandable capsule that berths with the ISS. After docking, BEAM inflates to roughly 13 feet long and 10.5 feet in diameter to provide a habitable volume where a crew member can enter.
+Airway Monitoring: FE-5 changed out the Low and High Nitric Oxide (NO) Analyzer sensors, then proceeded with configuring the cameras and experiment hardware for the reduced pressure data collection session tomorrow.  The primary goal of the Airway Monitoring experiment is to determine how gravity and microgravity influence the turnover of Nitric Oxide (NO) in the lungs.  During future manned missions to the Moon and to Mars, airway inflammation due to toxic dust inhalation is a risk factor. Since dust may cause airway inflammation and since such inflammation can be monitored by exhaled NO (Nitric Oxide) analysis, the present study is highly relevant for astronaut health in future space programs.
+Radiation Area Monitor (RAM) Deploy:  The crew installed 17 Area Dosimeter throughout the ISS to measure space radiation. They took photographs of each Area Dosimeter for ground verification purposes.
+FLame EXtinguishment (FLEX)-2 Operations: FE-3 removed the Combustion Integration Rack (CIR) alignment guides to enable ground teams to initiate the FLEX-2 experiment.  Following the troubleshooting and checkout that occurred last week, ground teams plan to run the experiment using decane fuel for four weeks.     
+The Flame Extinguishment – 2 (FLEX-2) experiment is the second experiment to fly on the ISS which uses small droplets of fuel to study the special spherical characteristics of burning fuel droplets in space. The FLEX-2 experiment studies how quickly fuel burns, the conditions required for soot to form, and how mixtures of fuels evaporate before burning. Understanding these processes could lead to the production of a safer spacecraft as well as increased fuel efficiency for engines using liquid fuel on Earth. 
+Cygnus Ingress:  Cygnus ingress was scheduled to occur on Thursday, October 27th.  However, yesterday the crew was able to get ahead with the Cygnus activities and they removed the Controller Panel Assemblies (CPAs) and opened the Cygnus hatch.
+Urine Processor Assembly (UPA) Pressure Control and Pump Assembly (PCPA) High Pressure Anomaly: During a UPA process cycle yesterday, two pressure sensors inside the PCPA showed a rise in pressure values. Ground Controllers pre-emptively took the UPA to standby, and then to shutdown to avoid having the Fault Detection Isolation and Recovery (FDIR) take action. Currently the UPA is in a stable configuration. Initial review of data by the UPA specialist indicates that the PCPA may have failed. There are two spare PCPAs on orbit and a third launching on OA-7. The Waste and Hygiene Compartment (WHC) will be configured from supplying UPA to internal EDV. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+KONYUGATSIYA. Mode [ТБУ-в No.2] thermostat to +29°С
+Close SM window covers ##6,8,9,12,13,14 Refer to comment 6
+ISS CREW/SSIPC Management CONFERENCE
+USOS Window Shutter Close
+Water Recovery Management (WRM) Condensate Pumping Initiation
+KONYUGATSIYA. Retrieve REKOMB-K from thermostat (+4 deg C) and install into thermostat @+29 deg C. Specialist conference
+KORREKTSIYA. Logging the liquid and food (medicine) intake parameters
+Handover of Increment 49/50 Crew
+PRODUTSENT. Retrieve from [ТБУ-в №04] thermostat (+4 deg C) and install into [ТБУ-В №02] thermostat (+29 deg C).
+Soyuz 731 [АСУ] activation
+Fine Motor Skills Experiment Test – Subject
+PRODUTSENT. Take pictures of BIOEKOLOGIYA box location inside [ТБУ-в №02] thermostat
+Soyuz-731 pre-undock [СУДН] (motion control system) #2 test.
+Deinstall [СА1,2] TV cameras and [СГ2-14В] lights in Soyuz 732 [СА] (prepare deinstalled 4053702006 and 4053702007 TV cameras for return on Soyuz 731. [СГ2-14В] lights are to be returned on Soyuz 731. Update the IMS)
+KONYUGATSIYA. Process activation, insertion into ТБУ-В @+29 deg C.
+remove Items in Front of N3A for Hatch Access
+Photo/TV N3/BEAM Camcorder Setup
+XF305 Camcorder Setup
+Switch SM Kurs-P cables from MRM2 [АФУ] DC1 [АФУ] – handover
+Switch SM Kurs-P cables from MRM2 [АФУ] DC1 [АФУ]
+MATRYOSHKA-R. Transfer [СПД] passive assemblies from Soyuz 732
+ARED Platform Fold
+JAXA PCG Canister Bag CBEF Micro-G Installation
+BEAM Ingress
+MATRYOSHKA-R. Transfer [ФАНТОМ] set from Soyuz 732
+Fine Motor Skills Experiment Test – Subject
+LОДНТ training session (PRELIMINARY).
+[АК-1М] air sampling during BEAM entry
+Deploy PS-120 JUNCTION BOX into Air Lock to support Airway Monitoring activity.
+MATRYOSHKA-R. Outfit [ФАНТОМ] set with detectors, transfer and install in MRM1. Specialist conference when required
+Radiation Area Monitors (RAM) Deployment
+ОДНТ training sessions (PRELIMINARY) – assistance
+Photo TV Airway Monitor A/L Video Setup
+Sensor Changeout
+Microbial Air Sampler (MAS) Kit Sample Collection
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+VEG Series Experiment On-Board Training.
+XF305 Camcorder Setup
+Intracranial Pressure & Visual Impairment (IPVI) Face Photo-taking
+Surface Sample Kit (SSK) Collection/Incubation
+VEGGIE Software On-Board Training
+Airway Monitoring Setup
+MATRYOSHKA-R. Photography
+Prepare items for return on Soyuz 731
+Combustion Integrated Rack Alignment Guide Removal
+BEAM Cleanup and Egress
+KONYUGATSIYA. Activation completion, deployment in thermostat @29 deg C. Specialist conference
+KONYUGATSIYA. Photography during deactivation. Specialist conference
+Auxiliary Laptop Computer System Virus Definition File Update
+CARDIOVECTOR. Science ops run. Specialist conference
+ARED Platform Unfold Back to Nominal Position
+CARDIOVECTOR. Photography during the science operation
+Return Items Back to N3A Location That Were Removed for BEAM Ingress
+Gas analyzer deactivation in Soyuz 732
+Meteor GFCI Reset
+Equipment preparation for PAO
+Crew preparation for PAO
+Intracranial Pressure & Visual Impairment (IPVI) Face Photo-taking
+PAO with All-Russia Space Educational Month in Orlyonok camp (Ku+S-band)
+KONYUGATSIYA. Retrieve from thermostat (+29 deg C) and install into thermostat @+4 deg C.
+KORREKTSIYA. Logging the liquid and food (medicine) intake parameters
+FENIKS. Transfer [ФАНТОМ] sets from Soyuz 732
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+Intracranial Pressure & Visual Impairment (IPVI) Medical Conference
+Soyuz descent training
+Soyuz-731 descent OBT, return cargo content and stowage consultations 
+Cygnus Cargo Operations Review
+FENIKS. BIOEKOLOGIYA bags stowage Specialist conference
+Crew Departure Preparations for Return to Earth
+FENIKS. Stowage site photography
+Radiation Area Monitors (RAM) Deployment
+BIOPLENKA. Turn on KRIOGEM093 thermostat to +37°С
+СОЖ maintenance
+Intracranial Pressure & Visual Impairment (IPVI) Medical Conference
+IMS Delta File Prep
+ISS Crew Adaptation
+Centerline Berthing Camera System (CBCS) Stow
+Soyuz 731 IRIDIUM telephone charging – setup, charge init (ФГБ1ПГО_2_224_1, CTB №1017 (002857J), soft bag (00044322R))
+Soyuz 731 IRIDIUM telephone charging – charge monitoring
+Soyuz 731 IRIDIUM telephone charging – charge term
+Soyuz 732 IRIDIUM telephone charging – charge init
+KORREKTSIYA. NEYROIMMUNITET. Science ops setup
+ISS Crew Orientation
+Soyuz 732 IRIDIUM telephone charging – charge monitoring
+Soyuz 732 IRIDIUM telephone charging – charge term, deinstall
+AIRMON Power Off
+Advanced Resistive Exercise Device (ARED) Cylinder Flywheel Evacuation
+Airways Monitoring Briefing
+MELFI Overview OBT
+Exercise Data Downlink via OCA
+Space Headaches – Daily Questionnaire
+Increment 48 Plaque Hanging
+Airways Private Medical Conference (PMC)
+BIOPLENKA. Fix KONSKANTA No.4-1 tape cartridge and insert into [ТБУ-В №04]. Insert KONSTANTA into KRIOGEM-03 for incubation.
+BIOPLENKA. Photography of the samples in the thermostat
+NEYROIMMUNITET. Saliva sampling
+NEYROIMMUNITET. 24-Hour EKG Recording (start)
+Preparation for the Antivirus Scanning of [ВКС] Laptops
+KORREKTSIYA. Logging the liquid and food (medicine) intake parameters
+
+Completed Task List Items
+
+WHC KTO Replace 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+47S Thruster Test
+MSS Powerup, SSRMS Ungrapple Cygnus and Maneuver to Park Position 
+

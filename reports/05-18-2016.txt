@@ -1,0 +1,104 @@
+
+Japanese Experiment Module (JEM) Airlock (JEMAL) NanoRacks Cubesat Deployer #7 (NRCSD 7) Deployment: This morning, operations which began Monday were completed with the deployment of four Dove satellites and four LEMUR-2 satellites.  All satellites were deployed on time as commanded.  The empty deployer will be returned to the JEM Airlock.
+ 
+Rodent Research-3 (RR-3) Operations: Yesterday the crew completed operations on 5 rodents. They performed operations on 5 more rodents today and are scheduled for 5 each day for the remainder of the week.  The crew performed bone densitometry measurments and then transferred the rodents to the Microgravity Science Glovebox (MSG) for sample processing. This investigation studies the molecular and physical changes to the musculoskeletal system that occur in space. Results will expand scientists’ understanding of muscle atrophy and bone loss in space while testing an antibody that has been known to prevent muscle wasting in mice on Earth.
+ 
+Environmental Health System (EHS) Microbial Air and Surface Sampling: The crew took surface and air samples for microbial analysis using the Microbial Air Sampler (MAS) with Petri Dishes. The EHS monitors the atmosphere for gaseous contaminants from nonmetallic materials off-gassing, combustion products, and propellants, microbial contaminants from crewmembers and Station activities, water quality, acoustics, and radiation levels.
+ 
+Dose Tracker: The crew completed entries for medication tracking today. This investigation documents the medication usage of crew members before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+ 
+Habitability Human Factors Directed Observations: The crew recorded and submitted a walk-through video documenting observations of an area or activity providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the International Space Station. Observations during the 1-year mission, as well as 6-month missions, can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+LAB Forward (Fwd) Starboard (Stbd) Inter-Module Ventilation (IMV) Cleaning: During the IMV reconfig it was discovered that this fan is not performing as expected, most likely due to Foreign Object Debris (FOD). Today the crew inspected and cleaned the fan and silencer inlets. The crew subsequently used the Velocicalc tool to take flow measurements in the Pressurized Mating Adapter (PMA) 1, Airlock (AL), Node 1 (N1), Cupola, Oxygen Generation System (OGA) rack and Node 2 (N2) ventilation inlets and outlets as part of system health monitoring.
+ 
+Advanced Resistive Exercise Device (ARED): The crew reported a loud banging noise during ARED rope exercise.  They determined that the right cable arm rope was off its guides and the exercise rope did not retract as far as it should.  The ARED is go for bar exercises but no-go for rope exercises. Ground teams are assessing the problem.
+Urine Processing Assembly (UPA) fault:  The UPA experienced a fault, likely due to belt slippage inside the distillation assembly.  The Waste Hygiene Compartment (WHC) has been configured to use its internal EDV while ground teams assess recovery of the UPA.
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2283
+Psychological Evaluation Program (WinSCAT)
+COSMOCARD. Closeout Ops r/g 2262
+CubeSat Deployment Photos
+Combustion Integrated Rack (CIR) Equipment Removal
+DOSETRK Questionnaire Completion
+BIOCARD. Operator Assistance During the Experiment / r/g 1907
+BIOCARD. Experiment Ops r/g 1907
+Manufacturing Device Removal and stowage
+WRS Recycle Tank Fill from EDV
+Rodent Research (RR) Node 2 Camcorder Settings Adjustment
+DOSETRK Questionnaire Completion
+HABIT Data Recording to iPad
+Camcorder setup to capture T2 exercise
+Rodent Research Animal transfer to MSG and back
+Study of cardiovascular system under graded physical load on Cycle Ergometer
+Rodent Research Rodent Dissection and Bone Densitometer Ops
+Rodent Research Refrigerated Centrifuge Adjustment
+Rodent Research (RR) Bone Densitometer Scan
+Rodent Research MELFI Sample Insertion
+Stow Video Equipment to capture T2 Exercise
+Rodent Research (RR) Bone Densitometer Scan
+MOTOCARD. Experiment Ops r/g 2275
+Russian Joint Research (RJR) Collecting Surface Samples using SSK
+DOSETRK Crew Conference
+Rodent Research MELFI Sample Insertion
+In Flight Maintenance (IFM) LAB Forward Starboard Intermodule Ventilation (IMV) Fan Cleaning
+MOTOCARD. Operator Assistance with the Experiment / r/g 2274
+Rodent Research Refrigerated Centrifuge Configuration
+Rodent Research Rodent Dissection and Bone Densitometer Ops
+СОЖ Maintenance
+Rodent Research Closeout Ops
+Rodent Research MELFI Sample Insertion
+IMV Flow Measurement
+HABIT Video Recording
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2283
+WRS Recycle Tank Fill from EDV
+Laptop preparation and АСН-К Progress 432 (Aft) Test Configuration Setup
+On MCC Go: Changeout of Elektron purification column assembly (БКО) Install No.1507074 r/g 2234
+Russian Joint Research (RJR) ISS Microbial Air Samples
+HABIT Task Video End
+Rodent Research Animal transfer to MSG and back
+Rodent Research Rodent Dissection and Bone Densitometer Ops
+Rodent Research (RR) Bone Densitometer Scan
+Private Medical Conference
+Rodent Research MELFI Sample Insertion
+Wet Lab RNA SmartCycler Payload Teardown
+Rodent Research (RR) Bone Densitometer Scan
+Verification of ИП-1 Flow Sensor Position
+Rodent Research MELFI Sample Insertion
+Rodent Research (RR) Bone Densitometer Scan
+Rodent Research MELFI Sample Insertion
+Rodent Research Refrigerated Centrifuge Configuration
+Rodent Research Rodent Dissection and Bone Densitometer Ops
+CORRECTSIYA. NEUROIMMUNITET. Experiment setup / r/g 2284
+IMS Delta File Prep
+Rodent Research Animal transfer to MSG and back
+Surface Sample Kit (SSK) Collection/Incubation
+Rodent Research Closeout Ops
+Rodent Research MELFI Sample Insertion
+Private Medical Conference
+CONTENT. Experiment Ops / r/g 2277
+SPLANH. Preparation for Experiment / r/g 2273
+Microbial Air Sampler (MAS) Kit Sample Collection
+Environmental Control & Life Support System (ECLSS) Recycle Tank Fill Part 3
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 2283
+NEUROIMMUNITET. Saliva Collection / r/g 2283
+NEUROIMMUNITET. Starting 24-hr ECG Recording / r/g 2283
+Monitoring Progress 432 (Aft) АСН-К exchange from the Laptop during the test / r/g 2272
+Habitability P/L Reminder
+CORRECTSIYA. Logging Liquid and Food (Medication) Intake / r/g 2282
+
+ 
+Completed Task List Items
+
+CCE-Superbowl downlink msg [Active]
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+NRCSD deploy
+RR ops
+Nominal ground commanding
+
+ 

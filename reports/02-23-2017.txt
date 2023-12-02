@@ -1,0 +1,86 @@
+
+66 Progress (66P) Launch: All 66P systems are performing nominally. One rendezvous maneuver, DV3, was performed nominally earlier today. Checkouts of the Progress TORU system and the Progress TV system 9 have been completed with nominal results. Docking is scheduled for Friday, February 24th at 2:35 am CST.
+SpaceX (SpX)-10 Capture: After yesterday’s aborted rendezvous, a successful re-rendezvous and capture was performed this morning. The crew monitored the SpaceX-10 Dragon approach from the Cupola Robotic Workstation (RWS) Dragon vehicle was captured using the Space Station Remote Manipulator System (SSRMS) at 04:44 am CST today. Robotics Ground Controllers then used the SSRMS to maneuver the Dragon to and install it on the Node-2 Nadir Active Common Berthing Mechanism (CBM). This afternoon, the crew performed vestibule outfitting, CBM Control Panel Assembly (CPA) removal, and ingressed the vehicle. After ingress, the crew removed the Center Stack then retrieved and unpacked the Dragon Cargo Transfer Bag (CTB) and Double Coldbags. The Space Automated Bioproduct Laboratory (SABL) CO2 Incubator Installation and the Merlin Hardware Setup were done in preparation for Microgravity Extended Stem Cells (MESC) operations scheduled for early tomorrow. Installation of TangoLab Card Cube Replace, NanoRacks Mod9 Ops, Low Temperature (LT) Protein Crystal Growth (PCG) Sample Preparation and NanoRacks Module-71 were also performed.
+NanoRacks Module 9: The crew retrieved the NanoRacks Module-9 from SpX-10 and activated five tubes of Student Spaceflight Experiments Program (SSEP)/National Center for Earth and Space Science Education (NCESSE) experiments. Supporting various schools and student designed experiments studying a range of objectives, the SSEP lets students design experiments that address real challenges of living and working in space. The program also is a key initiative for U.S. science, technology, engineering and math (STEM) education, educating and inspiring the next generation of scientists and engineers to work on the space program. Additionally, findings from student experiments such as those on bacteria growth, cell biology, food production and preservation, water quality, and seed and plant studies contribute to future experiments to benefit the space program. The following experiments were activated today:
+
+The Effects of Microgravity on Muscle Tissue Regeneration (McNair Academic High School, Grade 12, Jersey City, NJ)
+Shewanella oneidensis and Iron Ions in Microgravity (Bullis School, Grade 10, Potomac, MD)
+The Effect of Microgravity on Preservation of Spam Using Lemon Juice (Lincoln Middle School, Grade 8, Santa Monica, CA)
+Kidney Stone Conundrum (The Academy at Nola Dunn, Grade 5, Burleson, TX)
+Microgravity’s Effects on the Turbidity of a Fluid Mixture of Cornstarch and Water (W.J. Keenan High School, Grade 9, Columbia, SC)
+
+JAXA Low Temperature Protein Crystal Growth (LT PCG): The crew removed the samples from the Freezer-Refrigerator Of STirling cycle (FROST) then initiated the crystal growth. The crew activated the three different crystal sample containers then returned them to the FROST to maintain the optimal growth temperature of 4 degrees Celsius. The goal of the JAXA LT PCG experiment is to make high quality protein crystals under microgravity environmental conditions. Once growth is completed, the LT PCG experiment will be returned on SpX-10 for ground team evaluation and analysis. 
+NanoRacks Module-71/Platform 1 Installation: The crew installed NanoRacks Module-71 into Platform 1.  Module-71 contains two plant growth experiments that will run onboard the ISS in the Platform-1 facility through the end of the SpX-10 mission.  Module-71 contains two plant growth experiments, NanoRacks-Valley Christian High School-BAM-FX– Enhanced Broccoli Seed Germination, Plant Growth and Zinc Biofortification on Orbit (NanoRacks-VCHS-BAM-FX) and NanoRacks-Edith Stein School-Vegetative Propagation of Plants in Orbit (V3PO), that aim to investigate the capability for production of large quantities of high quality vegetables on a space station. Results from the experiment will aid researchers in developing methods to provide astronauts a continuous supply of fresh vegetables on long missions. NanoRacks-VCHS-BAM-FX studies the growth of broccoli plants fortified with zinc, looking at seed germination and growth in microgravity, determining whether a bioavailable mineral nutrient formula will help plant growth.  The team responsible for V3PO is interested in vegetative plant propagation versus seeded propagation. In vegetative growth (cuttings) the desired characteristics are passed to subsequent generations of plants and ensures a uniform crop even when a few viable seeds are produced.  
+Payload Card-X: The crew retrieved the inserts from SpX-10 and installed them into the TangoLab facility. The inserts on Payload Card-X cover a wide spectrum of studies including:
+
+Flatworms2.0: Follow up study to original flatworm regeneration study on SpX-5. Will include video and feeding capability.  
+Smooth Muscle Cell Stimulus Response: Study of — cell line after cultured in microgravity for 4 days will be hit with reagent then acetone to video response.
+Tissue Mimetic: Looking at diffusion rates of different molecular compounds in tissue proxy. Precursor to advanced tissue cultures.  
+Methanogen Growth Characterization: Comparison of growth curves between Earth and microgravity of Methanogens.
+Arabidopsis Study (Education): Arabidopsis study will be networked with real time control units in classrooms in San Francisco area of California. Precursor to larger undertaking with more schools on SpX-11 mission. 
+Pharmaceutical Compound Generation:  Madagascar Periwinkle and Valeriana plants will be germinated on orbit to looking at mutation and generation of compounds used in synthesis of chemotherapies.
+
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted.
+
+Crew Command Panel (CCP) Cable Route and Checkout
+Closing Shutters on windows 6, 8, 12, 13, 14.
+Photo/TV Ghost Camera in Cuopla on SSC power recording
+Inventory Management System (IMS) conference
+Robotic Workstation (RWS) High Definition (HD) Monitor Downlink
+Robotics Workstation (RWS) Dragon Configuration
+CARDIOVECTOR. Experiment Ops
+Dragon R Bar Approach
+DUBRAVA. Video of VSS P/L screen
+CARDIOVECTOR. Experiment Ops.
+BIOPLENKA. Installation of Cryogem-03
+Space Station Remote Manipulator System (SSRMS) Dragon Capture
+BIOPLENKA. Removal of ТБУ-В No.04 Thermostat
+Remote Workstation Monitor HD Video Downlink Deactivation RWS.
+Ghost camera teardown in Cupola
+PRODUTSENT. ТБУ-В No.2 Incubator Setup
+Photo TV High Definition (HD) Cygnus Video Setup
+MICROVIR. Glovebox-S Setup
+Air Heater Fan (БВН) Screen Cleaning in Soyuz 732
+NanoRacks Module-9 OBT
+Vacuum Cleaning area behind panels 405, 406 and MRM1 Interior
+Video recording
+Crew Command Panel (CCP) Cable Deroute
+Water Recovery System (WRS) Waste Water (WW) Tank Drain Initiation
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate
+ESA Weekly crew conference
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Initiate
+Water Recovery System (WRS) Waste Water (WW) Tank Drain Termination
+Node 2 to Dragon Pressurization and Leak Check Equipment Pregather
+ISS HAM Radio Power Down
+Node 2 to Dragon Pressurization and Leak Check
+Dragon Vestibule Outfitting
+Crew Quarters (CQ) Door Closing
+Node 2 Nadir Common Berthing Mechanism (CBM) Controller Panel Assembly (CPA) Removal
+Dragon Ingress
+USOS Window Shutter Close
+Air sample collection using АК-1М adsorber in SpaceX
+Robotic Workstation (RWS) Teardown
+Dragon Arrival Photos
+Transfer Center Stack
+Cold Stowage Double Coldbag Unpack
+Dragon Cargo Transfer Bag Retrieve
+MERLIN Hardware Setup
+Space Automated Bioproduct Lab, CO2 Incubator Installation
+NanoRacks Platform-1 Module Install
+TANGOLAB CARD CUBE REPLACE
+Microgravity Expanded Stem Cell Ice Brick MERLIN Insertion
+NanoRacks Module 9 Ops Session 1
+XF305 Camcorder Setup
+JAXA LT PCG Sample Preparation
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities are on schedule unless otherwise noted.
+
+Configure for Dragon capture
+Return to nominal configuration
+

@@ -1,0 +1,100 @@
+
+SpaceX (SpX)-17 Launch: Today’s planned SpX-17 launch was scrubbed due to an issue with the recovery drone ship.  There will be another launch attempt tomorrow at 1:48 AM CT with a corresponding planned arrival to ISS on Monday, May 5 at 6:00 AM CT. 
+Rodent Research-12 (RR-12): The crew restocked Rodent Habitats 3 and 4 and completed Mass Measurement Injection activities. The crew also replaced food bars in Habitats 1 and 2. Rodent Research-12, Tetanus Antibody Response by B cells in Space (TARBIS), examines the effects of spaceflight on the function of antibody production and immune memory. Spaceflight has a dramatic influence on immune response, but there is little research on its effect following an actual challenge to the body’s immune system. Using a mouse model makes this possible, as the mouse immune system closely parallels that of humans.
+The ISS Experience: The crew performed the ISS Experience hardware setup in the US LAB to record on-orbit operations including an introduction prior to crew activities. The ISS Experience creates a virtual reality film documenting daily life aboard the ISS. The 8 to 10 minute videos created from footage taken during the six-month investigation cover different aspects of crew life, execution of science aboard the station, and the international partnerships involved. The ISS Experience uses a Z-CAM V1 Pro Cinematic Virtual Reality (VR) 360-degree camera with nine 190° fisheye lenses.
+Thermal Amine System (TAS): Thermal Amine and was scrubbing carbon dioxide (CO2) when it experienced a shutdown yesterday due to high pressure in one of the beds. The system attempted to go into safe mode, however, not all power was removed as expected so console teams commanded the hardware into safe mode. Teams believe the shutdown could be due to slow valve travel and pressure equalization between beds. Troubleshooting was initiated and is ongoing.
+Dragon Robotics On-Board Trainer (RoBOT) On-Board Training (OBT): In preparation for Dragon capture, scheduled on Monday, the crew performed the 2nd session of RoBOT training. During today’s session, they completed three Capture Point Hold runs allowing them to practice free drift timing, malfunction response and nominal rate approaches.
+Public Affairs Office (PAO) Event: Today Nick and Christina reordered downlink messages in support of the following upcoming PAO events:
+
+On Saturday, July 20, 2019, the John F. Kennedy Presidential Library and Museum in Boston, MA, will host a special commemoration of the 50th anniversary of the Apollo 11 mission and moon landing.  Approximately 450-500 people are expected to attend this free event where the recorded video message from the International Space Station will be aired.
+Today’s message will be used during this year’s Space Camp Hall of Fame Induction. The Space Camp Hall of Fame was established to honor the outstanding trainees, crew trainers, and other members of the Space Camp family who have distinguished themselves in their respective careers and made outstanding contributions to space exploration and STEM education.  
+
+Completed Task List Activities:
+
+Handover questionnaire [Completed GMT 122]
+WHC manual fill [Completed GMT 122]
+MSG troubleshooting [Completed GMT 122]
+Rodent Research hardware setup [Completed GMT 122]
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Rodent Research support
+MT translation from WS6 to WS3
+
+Look Ahead:
+Saturday, 05/04 (GMT 123):
+
+Payloads:
+
+BCM post-sleep Questionnaire (NASA)
+Standard Measures (NASA)
+
+Systems:
+
+Crew off duty; housekeeping
+
+Sunday, 05/05 (GMT 125):
+
+Schedule is in work due to SpX-17 launch delay.
+
+Monday, 05/06 (GMT 126):
+
+Schedule is in work due to SpX-17 launch delay.
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+LSG Work Volume Deploy
+ISS Experience Lab Setup
+Rodent Research Polar Sample Removal
+Rodent Research Mass Measurements and Intraperitoneal Injections-1
+Rodent Research Habitat 3 & 4 Restock
+Inventory Management System (IMS) conference
+Cleaning Nikon still camera Digital Image
+Replacement of urine receptacle and filter-insert in the toilet. Post-Replacement Activation
+Rodent Research Foodbar Changeout
+Inspection of СРВ-К2М Sediment Insert-Trap
+PROFILAKTIKA-2. MO-3 Protocol Locomotion Test in Passive Mode
+ISS Experience Recording Preparation
+ISS Experience Introduction Recording
+PROFILAKTIKA-2. MO-3 Test Assistance
+ISS Experience Microphone Don
+On-board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT) Session 2
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Calibration Check
+VEGGIE PONDS Modules Photo and Check
+PROFILAKTIKA-2. Closeout Ops
+Health Maintenance System (HMS) AED Inspection
+ISS Experience Microphone Doff
+ISS Experience Record Conclude
+PROFILAKTIKA-2. Hygiene Procedures
+Overlay Camera Calibration
+Food Acceptability Questionnaire
+ISS Experience Hardware Relocate
+Review of  Nano Antioxidants Big Picture Words
+Water Recovery Management (WRM) Condensate Pumping Initiation
+СТТС functional check
+Behavioral Core Measures Journals Entry
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Calibration Check Data Record
+Rodent Research Mass Measurements and Intraperitoneal Injections-2
+Rodent Research Polar Sample Removal
+Rodent Research Mass Measurements and Intraperitoneal Injections-1
+Rodent Research Foodbar Changeout
+NG-11 CES (Cargo Environment Sensor) Data Download
+LSG Work Volume Stow
+СТТС comm assets switchover to a reserve set
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Evening Preparation Work
+PAO Preparation
+ISS HAM Service Module Pass
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+ISS Experience Hardware Stow
+LSG Crew Restraint Removal (Primary)
+Reminder Rodent Research Thermal Consideration
+Standard Measures Pre-sleep Questionnaire
+Behavioral Core Measures Team Measures Questionnaire
+Behavioral Core Measures Profile of Mood States Questionnaire
+
+ 

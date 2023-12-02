@@ -1,0 +1,116 @@
+
+New Status:
+ENERGY Experiment: Commander (CDR) Hadfield completed the Day 2 of 10 of his ENERGY experiment session.  The experiment includes eating a standardized meal, diet logging, specific water intake, measurements of Oxygen uptake, collection of urine samples, and wearing an armband activity monitor.   A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+Multi-user Droplet Combustion Apparatus Fuel Reservoir Replacement: Flight Engineer (FE)-3 Cassidy removed and replaced one of the Fuel Reservoirs with the MDCA Chamber Insert Assembly (CIA) pulled partially out of the Combustion Chamber. The MDCA Fuel Reservoirs contain the liquid fuel used during droplet combustion experiments.   This reservoir change out was in support of the FLame Extinguishment (FLEX)-2 experiment, scheduled to be executed by ground controllers.  FLEX-2 is the second experiment on the ISS which uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Node 1 Isolation Jumper Install: FE-6 Marshburn installed the Node 1 Isolation Jumpers (W5210-1 and -2) on N1RS1 and N1RS2 Secondary Power Distribution Assembly (SPDAs). The installation of these jumpers, coupled with later EVA installation of the Z1 Y-jumpers (currently scheduled for July 2013), allows recovery of Power Bus Z13B or Z14B if there are Direct Current to Direct Current Converter Unit (DDCU) or other upstream power failures.
+Capillary Flow Experiments (CFE) Interior Corner Flow (ICF)-9 Operations: Marshburn reviewed procedures, set up the hardware, and conducted fluid test runs of this experiment. CFE is a suite of fluid physics experiments that investigates how fluids translate across surfaces in microgravity. The results aim to improve current computer models that are used by designers of low gravity fluid systems and may improve fluid transfer systems for water on future spacecraft.
+Station Support Computer (SSC) Printer Swap: Cassidy configured and moved the LAB printer to the Service Module (SM) to replace the failed SM printer. He then deployed a spare printer to replace the LAB printer.  This brings the ISS back to the nominal configuration of two deployed printers.
+Node 1 Starboard (Stbd) Aft Intermodule Ventilation (IMV) Fan Cleaning/Valve Inspection: Hadfield inspect for and removed foreign object or debris (FOD) from IMV fan inlet flow straighter and silencers in Node 1 Stbd Aft. He then inspected valves for proper installation. The valves have a circular disc that rotates open and closed by a motor-driven shaft. This disc is secured to the shaft with a set-screw that engages a hole in the shaft. Some IMV Valves were found to have improperly installed set-screws that were tightened to the side of the shaft rather than engaged in the hole, resulting in valves that do not seal properly. This procedure accesses the valve from the IVA side and inspects the set-screw for improper installation.
+Previous Status (04/09/13)
+ENERGY Experiment: Commander (CDR) Hadfield began the first day of his ENERGY experiment session, which spans 10 days total.  The experiment includes eating a standardized meal, diet logging, specific water intake, measurements of Oxygen uptake, collection of urine samples, and wearing an armband activity monitor.   A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+Burning and Suppression of Solids (BASS) Experiment: Flight Engineer-3 (FE-3) Cassidy completed a session of this experiment and is scheduled to perform another session this Friday. BASS examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity and will guide strategies for extinguishing fires in microgravity. BASS results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Nanoracks Data Collection: FE-6 Marshburn collected data from NanoRacks Modules-20, 21 & 22. Module-20 studies the effects of microgravity on: electroplating; remotely controlled robot control mechanisms and mechanical devices;  the effects of a variable magnetic field on Ferrofluids; growth of E. coli bacteria in microgravity and its resistance to the antibiotic Kanamycin. Module-21 studies the fluctuation levels of carbon dioxide on ISS; the potential impact of microgravity on the growth cycle of bacteria; microgravity impacts on the performance of current battery technology. Module-22 studies the possibility of producing alum crystals of higher purity in Space than on Earth; corrosion of iron in a microgravity environment; and coalescence of polymers at different glass transition temperatures in space. Modules are scheduled to be returned to the students on 33 Soyuz.
+Robonaut Teleops: Marshburn conducted the second of 2 planned sessions of the Tele-operation System today. The objective of the Robonaut Tele-operation System is to demonstrate the ability to effectively control Robonaut from the ISS, as all previous Robonaut commanding has been from the ground.   This configuration is also different from previous Robonaut operations in that Robonaut’s movements were a mimicry of the crewmember’s movements, as opposed to movements based on data commanding. This capability will need to be developed to support future operations of Robonaut in the EVA environment as well as certain Intravehicular Activity (IVA) situations.
+
+
+
+
+
+
+
+
+Water Processing Assembly (WPA) Software Upgrade: Marshburn successfully upgraded the WPA software  to Version 6.0.  Among other improvements, this upgrade provides:
+· Implementation of an Iodinated flush to mitigate biomass growth
+· Protection of the Mostly Liquid Separator (MLS) against over pressurization
+· Changes to Leak Test Algorithms, including new Product Water algorithm
+· Use of Accumulator volume to allow potable water to be offloaded from WPA to Contingency Water Containers (CWC)
+· Addition of WPA Pump/Motor electrical current raw data to downlink telemetry
+Space Station Computer (SSC) Spare Server Load: Cassidy set up SSC15 in the JEM Pressurized Module (JPM) as Load Image Server (LIS) and a T61p laptop as loading client, then loaded a spare ISS-Server1 laptop.  The spare laptop will be set up near SSC15 for loading via direct Ethernet connection for faster file transfer.
+Today’s Planned Tasks
+· Reboot Laptop RS2(1) / Onboard Computer System (БВС)  [Complete] 
+· Reload Laptop RSS1, RSS2 / r/g 1009 step 1  [Complete] 
+· SM ПСС (Caution & Warning Panel) Test / Manual Controls [РСУ],  [Complete] 
+· ENERGY Diet Log of Breakfast  [Complete] 
+· Stop charging the 1st  825М3 pack and start charging the 2nd pack  [Complete] 
+· CIR – Preparation Ops  [Complete] 
+· TV-MPEG2. Test Comm Session (Ku + S-band) / r/g 2020  [Complete] 
+· HDVCA Activation  [Complete] 
+· Checking and Closing of SM External Window Shutters before purge / r/g 2034  [Complete] 
+· NOD1 (UOP1) Power Off  [Complete] 
+· Treadmill Т2 Monthly Inspection  [Complete] 
+· DC1 EVA Support Panel (ПОВ) Test / EVA from DC1-Orlan-MK Orlan-MK,  [Complete] 
+· CIR – Equipment Setup  [Complete] 
+· ПхО EVA Support Panel (ПОВ) Test / EVA from DC1-Orlan-MK,
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954  [Complete] 
+· MDCA – Hardware Replacement
+· CMS Kit Audit / r/g 2019  [Complete] 
+· Activation and Inspection of Orlan suits 6 and 4  r/g 2031  [Complete] 
+· Jumper Cable Installation in Node 1  [Complete] 
+· DC1 БСС (Spacesuit Interface Unit) Checkout r/g 2031  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· ПхО БСС (Spacesuit Interface Unit) Checkout  r/g 2031  [Complete] 
+· USOS Window Shutter Close  [Complete] 
+· ESA Crew Conference  [Complete] 
+· Audio Conference with Retro FM Radio Station Hosts (S-band) / r/g 2032  [Complete] 
+· HDVCA Deactivation  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· Orlan Spacesuit and Orlan Interface Unit [БСС] Cooling Loop Separation in DC1  [Complete] 
+· CIR – Closeout Ops  [Complete] 
+· NOD1 UOP2 Power Off  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· TVIS Monthly Maintenance  [Complete] 
+· ПхО БСС cooling loop separation using Degassing Pump Unit (БОС)  [Complete] 
+· MATRYOSHKA-R BUBBLE-dosimeter gathering and readings. r/g 2029  [Complete] 
+· CIR – Hardware Teardown  [Complete] 
+· ENERGY – Hardware Remove and Stow  [Complete] 
+· Jumper Cable Installation in Node 1  [Complete] 
+· POC –  PRINTER Replacement  [Complete] 
+· ENERGY – Water Sample Collection  [Complete] 
+· ENERGY – Urine Sample Collection  [Complete] 
+· SM CO measurement using CMS unit / r/g 1955  [Complete] 
+· EHS MCD Water Processing  [Complete] 
+· Filling (separation) of EDV (KOV) for Elektron / SM СОГС, r/g 2044  [Complete] 
+· ENERGY – Diet Log of Lunch  [Complete] 
+· PEV Activation Test from DC1 ПОВ (EVA Support Panel).  [Complete] 
+· PEV activation test from ПхО EVA Support Panel.  [Complete] 
+· Equipment Setup / ORLAN-MK OPS, r/g 2031  [Complete] 
+· Power Supply Setup  [Complete] 
+· CFE Hardware Setup  [Complete] 
+· СОЖ Maintenance  [Complete] 
+· MPEG-2 Setup [Complete] 
+· Spacesuit Replaceable Elements Ops r/g 2031 [Complete] 
+· N1SA Fan Cleaning  [Complete] 
+· PAO Hardware Setup [Complete] 
+· Crew Prep for PAO / r/g 2033 [Complete] 
+· TV (ISS-MCC) Downlink of TV Greetings (Ku + S-band) / r/g 2033 [Complete] 
+· CFE Test Ops [Complete] 
+· Crew time for ISS adaptation and orientation [Complete] 
+· ТК 708 ИнПУ Command Test Tagup with specialists (as necessary) / r/g 2043 [Complete] 
+· Crew time for ISS adaptation and orientation [Complete] 
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954 [Complete] 
+· NOD1 UOP1 Activation [Complete] 
+· IFM Filter Inspection to Check if it is Properly Installed  [Complete] 
+· NOD1 UOP2 Activation [Complete] 
+· CFE Teardown [Complete] 
+· P/TV Playback Start [Complete] 
+· ISERV – Window Shutter Opening [Complete] 
+· ENERGY Diet Log of Dinner [Complete] 
+· P/TV Playback Stop [Complete] 
+· Test Comm Session (Ku + S-band)  r/g 2020 nu [Complete] 
+Task List
+· CEO ops [Complete] 
+· IMS update
+· SSC data gather (FE-6)  [Complete] 
+· SSC data gather (CDR)   [Complete] 
+· WHC KTO replace [Complete] 
+· Roscosmos report
+· Data downlink prep
+· WHC EDV build
+· WHC EDV R&R
+· Uragan photo
+· ECON photo
+· RGN WSTA fill
+· Crew handover [Complete] 
+
+Ground
+· Nominal Commanding

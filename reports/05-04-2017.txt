@@ -1,0 +1,81 @@
+
+OsteoOmics: The crew thawed BioCells and injected them into growth media inside the Microgravity Science Glovebox (MSG). After six BioCells were processed they were placed into BioCell Habitat 3, which was then placed in the Space Automated Bioproduct Lab (SABL).  Later in the day the crew removed a media kit from a Microgravity Experiment Research Locker / INcubator (MERLIN) and inserted it into a Cargo Transfer Bag at ambient temperature for the next day’s operations. This is the first of four weeks of OsteoOmics operations.  Crewmembers experience bone loss in orbit, stemming from the lack of gravity acting on their bones. OsteoOmics investigates the molecular mechanisms that dictate this bone loss by examining osteoblasts, which form bone, and osteoclasts, which dissolve bone.  Improved understanding of these mechanisms could lead to more effective countermeasures to prevent bone loss during space missions and in a wide range of disorders on Earth. This may lead to better preventative care or therapeutic treatments for people suffering bone loss as a result of bone diseases like osteopenia and osteoporosis, or for patients on prolonged bed rest.
+Genes in Space: The crew completed a session of the Genes in Space 2 Experiment. They retrieved a sample from a General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) and inserted it into the miniature Polymerase Chain Reaction (miniPCR) system for processing. The investigation is based on the winning student proposal from the second Genes in Space competition. It tests whether the polymerase chain reaction can be used to study deoxyribonucleic acid (DNA) alterations on board the ISS. Spaceflight causes many changes to the human body, including alterations in DNA and a weakened immune system. Understanding whether these two processes are linked is important for safeguarding crew health, but DNA technology that can track these changes is relatively untested in space. 
+At Home In Space Questionnaire: The crew completed an At Home in Space questionnaire this morning. This Canadian Space Agency (CSA) experiment assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home In Space uses a questionnaire to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth. 
+Main Bus Switching Unit (MBSU)2 Remove & Replace (R&R Preparations:
+
+Contingency Jumper Installation: In preparation for tomorrow’s planned activities the crew successfully installed the Lab Secondary Power Distribution Assembly (SPDA) Jumper to power the LA2B power bus and the Lab Truss Contingency Jumper (LTCJ) ) to power the power bus.  This is in preparation for the unpowering of the LA2B and S02B Direct Current to Direct Current Converter Units (DDCUs) during the R&R. LA2B power bus has been successfully powered through the SPDA jumper.  External Thermal Controls System (ETCS) Cooling Loop B was shut down for the installation of the LTCJ.  The S02B power bus has been successfully powered through the LTCJ and Loop B was successfully repowered.  All heat exchangers have been integrated and internal cooling is back to a nominal configuration.
+Mobile Servicing System (MSS) Operations:  Robotics Ground Controllers maneuvered the Special Purpose Dexterous Manipulator (SPDM) Body and Arm 2 as required to transfer the Main Bus Switching Unit (MBSU) Flight Releasable Attachment Mechanism (FRAM) on External Stowage Platform (ESP) 2 to the Enhanced ORU Temporary Platform (EOTP) side 2. Once complete, ROBO will break torque on the MBSU H1 and H2 bolts before standing down for the day.
+
+Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS) Experiencing Excessive Resistance: Today the crew reported that CEVIS loading was excessively high during use.  They reported that loads felt higher in the warmup mode, at settings above zero the load felt like 200, and when crew stopped spinning the petal continues to rotate inside box and felt off center like a side to side vibration. CEVIS is currently no-go for use while teams convene this afternoon to discuss a forward plan.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+IMS Delta file prep
+Memory cards audit
+EKON-M. Observations and photography
+LT Rack Rotate Down Preparation
+Meteor Shutter Open
+ALGOMETRIYA. Preparation and conducting measurements in the tenso- and thermo-algometry mode
+Plug-in-Plan Utility Outlet Panel Hardware Power Down
+Microbial Monitoring System On-Board Training Review
+Microbial Monitoring System MWA Preparation
+Scheduled monthly maintenance of Central Post Laptop. Laptop Log-File Downlink
+Long Duration Sorbent Testbed Inlet Filter Change.
+Mate the SPDA Jumper to the Payload Rack and Prepare to make SPDA connection
+Microbial Monitoring System Sample Setup
+Ultrasound 2 HRF Rack 1 Stow
+ISS HAM Video Power Down
+ISS Crew Orientation
+LA2B SPDA Jumper Installation
+Progress 435 (DC1) Stowage and IMS Ops
+Data Transmission Radio Link (RSPI) Clearing files from Onboard Memory Storage (БЗУ)
+LT Rack Rotate Up
+Microbial Monitoring System Sample
+Download of BRI log from RSS1
+CEVIS Portable PFS Set-Up
+Replacement of Gas analyzer CO ГЛ2106
+Emergency Cue Card Print
+BIOCARD. Experiment Ops
+Microbial Monitoring System Data Transfer
+Portable PFS Hardware Power On
+Columbus Video Camera Assembly 1 Adjustment
+ALGOMETRIYA. Strain Measurements Mode
+Prepare for MagVector Cleanup Run
+Manufacturing Device Filament Trim
+Portable PFS Hardware Power Off
+CASKAD. Manual Mixing in Bioreactor
+Genes in Space MWA Preparation
+VIBROLAB. Removal of SINUS-ACCORD P/L Electronics Unit
+S02B Lab Truss Contingency Jumper Preparation.
+Genes in Space MELFI Sample Retrieve
+Genes in Space Sample Operations
+Marrow Canister Locate
+OsteoOmics Experiment Ops
+ISSAC Stow Follow-up
+S02B Lab Truss Contingency Jumper Installation.
+OsteoOmics Thaw Bag Retrieval
+Radiation Monitoring System [СРК]. Removal of АИ Unit
+INTERACTION-2. Experiment Ops
+Verification of ИП-1 Flow Sensor Position
+Extravehicular Activity (EVA) Tool Configuring
+Genes in Space Sample End
+CALCIUM. Experiment Session 5
+Terminate MagVector Cleanup Run
+Plug-in-Plan Utility Outlet Panel Hardware Power Up
+Genes in Space Hardware Stow
+ISS HAM Video Power Up
+Genes in Space MELFI Insert
+
+Completed Task List Items
+
+Wanted poster for 2.0 CTB Beverages and Coffee
+Wanted Poster for CWC Sampling Adapter Technical S/N 1005
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+OsteoOmics support
+MSS power up for MBSU ops
+Controlled power downs and repower in support of SPDA and LTCJ Contingency Jumper Installation
+

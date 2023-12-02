@@ -1,0 +1,79 @@
+
+Circadian Rhythms:  A crewmember removed the Armband Monitor and the Thermolab Unit mounted to their belt, completing 36 hours of monitoring for the Circadian Rhythms investigation. Circadian Rhythms investigates the role of synchronized circadian rhythms, or the “biological clock,” and how it changes during long-duration spaceflight. Researchers hypothesize that a non-24-hour cycle of light and dark affects crew members’ circadian clocks. The investigation also addresses the effects of reduced physical activity, microgravity and an artificially controlled environment. Changes in body composition and body temperature, which also occur in microgravity, can affect crew members’ circadian rhythms as well. Understanding how these phenomena affect the biological clock will improve performance and health for future crew members.
+Utilization Preparations for SpaceX-12 Arrival:  In preparation for SpX-12 arrival scheduled for August 16th, crewmembers relocated all three Space Automated Bioproduct Lab (SABL) units and the Multi-Purpose Small Payload Rack (MSPR) Experiment Laptop Terminal. They also removed the Phase Change Heat eXchanger (PCHX) locker for return.
+Rodent Research-5 (RR-5) Systemic Therapy of NELL-1 for Osteoporosis:  The crew completed a final inventory audit for RR-5. They then stowed some items and trashed others.  
+Mobile Servicing System (MSS) Operations: Yesterday and overnight, Robotics Ground Controllers translated the Mobile Transporter (MT) from Worksite 7 (WS7) to WS3.  The team then powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) and the Special Purpose Dexterous Manipulator (SPDM) to use SPDM Arm2 to transfer the empty Main Bus Switching Unit (MBSU) Flight Releasable Attachment Mechanism (FRAM) from SPDM Enhanced Orbital Replacement Unit (ORU) Temporary Platform (EOTP) Side 2 to External Stowage Platform 2 (ESP2) Site 4.  Finally, controllers stowed the SPDM on Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2).
+Ku Band Contingency Command and Telemetry (CCT) Checkout: In response to the loss of S-Band redundancy due to the loss of power to the S-Band-2 transponder, ground teams completed a checkout of the Ku-Band CCT command and voice capability.  During the test all control centers, including Sp-X Mission Control, successfully sent test commands to ISS via Ku-Band.  Additionally, Ku-Band voice between ISS and MCC-Moscow was verified in the event this is needed during the upcoming Russian Extra-Vehicular Activity (EVA).    
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Video recording for KOROLYOV TV channel
+Greetings Video Recording
+Test video recording for RT channel
+Preparation of Reports for Roscosmos web site and social media
+URAGAN. Observation and Photography
+ECON-M. Observation and photography
+Health Maintenance System (HMS) OCT Setup
+Circadian Rhythms Deinstrumentation w. Armband
+JEM Airlock Press
+Space Automated Bioproduct Lab Unit Relocate
+Photography of the БД-2 treadmill belt edge and screen form of Belt tab
+Verification of ИП-1 Flow Sensor Position
+Phase Change HX Circuit Breaker OFF
+Measuring CO level in RS using US portable CSA-CP device
+Fine Motor Skills Experiment Test – Subject
+Fine Motor Skills Historical Documentation Photography
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ.
+JEM Airlock Leak Check
+EVA Medical Kit Configuration
+Health Maintenance System (HMS) – OCT Exam
+Preparing Orlan Comm and Telemetry Assets
+Checkout of BETA-08 Data Output Device (УСИ) using Gamma-1M Equipment
+Combustion Integrated Rack Alignment Guide Removal
+Orlan and БСС Telemetry Check. Orlan comm check and medical parameter test
+JEM TEPC Ethernet Cable Reconfiguration
+Environmental Health System (EHS) – Coliform Water Sample Analysis 44 +/- 4 hours post processing
+Node 2 Nadir Hatch Unlatch
+CMS Max CEVIS with PPFS Power Up
+Comm reconfig into initial after Orlan comm. check
+Kazbek–УМ Fit Check in Soyuz 735
+Robotics Work Station (RWS) Display and Control Panel (DCP) Powerup
+Health Maintenance System (HMS) – OCT Exam
+MSPR ELT Relocation
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+Atmosphere Control and Supply (ACS) Nitrogen Manual Valve Open/Close
+Handover of Increment 52 Crew
+Ku-band Contingency Command and Telemetry Checkout
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+Circadian Rhythms Armband Stow
+Health Maintenance System (HMS) – OCT Exam
+Symbolic Activity
+Environmental Health System (EHS) – Microbial Air Sampler (MAS) Kit Sample Collection
+Handover of Increment 52 Crew
+Phase Change HX Locker Remove
+Payload NAS Hard Drive Swap
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation
+Health Maintenance System (HMS) OCT Stow
+Environmental Health System (EHS) – Formaldehyde Monitoring Kit (FMK) Stow Operation
+Health Maintenance System (HMS) Fundoscope Setup
+Rodent Research MELFI Insert [ACTIVE]
+Space Automated Bioproduct Lab 3, Unit Relocation
+Inventory Management System (IMS) Conference
+Health Maintenance System (HMS) Fundoscope Prep
+ISS Crew Orientation
+Health Maintenance System (HMS) CMO – Fundoscope
+Health Maintenance System (HMS) Eye Exam – Fundoscope
+Max Cycle Ergometer w/ Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Set Up
+Health Maintenance System (HMS) Fundoscope Tear Down and Stow
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+50S EHDC Survey
+SSRMS walkoff to N2 [ACTIVE]
+Ku-Band Contingency Command and Telemetry Checkout
+

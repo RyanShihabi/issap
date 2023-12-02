@@ -1,0 +1,64 @@
+
+Exposed Experiment Handrail Attachment Mechanism (ExHAM) #1-2 Operations: Following the JEMAL depressurization, venting, and leak check yesterday, today ExHAM was installed on the JEMAL Slide Table and extended to the JEM Exposed Facility (JEF) side. ExHAM is a cuboid mechanism equipped with a grapple fixture on the upper surface for the Kibo’s robotic arm, Japanese Experiment Module Remote Manipulator System Small Fine Arm (JEMRMS SFA) for fixation to the handrail on the Kibo’s EF. There are 7 loadable experiments on the upper surface and 13 on the side surfaces. 
+Liberated particles:  After ExHAM installation had already been completed but while the external cameras were still configured, loose particles were observed crossing the field of view of one of the cameras in the JEM EF area.  The source of these particles is not known at this time.  Ground teams are investigating. 
+3D Printing in Zero-G Experiment Operations: Following yesterday’s activities to print the calibration and compression coupons in the Microgravity Science Glovebox (MSG), today the ground team remotely operated the 3D printer to produce two more 3D printed test coupons, after which the crew removed and stowed them. The 3D Printing In Zero-G experiment demonstrates that a 3D printer works normally in space. A 3D printer extrudes streams of heated plastic, metal or other material, building layer on top of layer to create 3 dimensional objects. Testing a 3D printer using relatively low-temperature plastic feedstock on the ISS is the first step toward establishing an on-demand machine shop in space, a critical enabling component for deep-space crewed missions and in-space manufacturing.
+Synchronized Position Hold Engage and Reorient Experimental Satellites (SPHERES) Work Area Setup: In preparation for SPHERES maintenance operations tomorrow, the crew participated in a training session and crew conference with the payload developer before completing setup activities. The crew then configured the work area to activate and check out the hardware and the EXPRESS Laptop Computer ELC before testing begins. Upon inspection, it was found that two of the five beacons as well as the spare beacon had corrosion in their battery compartments.  Ground teams are developing a cleaning procedure.
+Dose Tracker: The crew completed entries for medication tracking which documents the medication usage of crewmembers before and during their missions by capturing data regarding medication use during spaceflight, including side effect qualities, frequencies and severities. The data is expected to either support or counter anecdotal evidence of medication ineffectiveness during flight and unusual side effects experienced during flight. It is also expected that specific, near-real-time questioning about symptom relief and side effects will provide the data required to establish whether spaceflight-associated alterations in pharmacokinetics (PK) or pharmacodynamics (PD) is occurring during missions.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+JEMRMS Activate and Start Bus Monitor
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (start) r/g 2224
+JEMAL ST Extension to JEF Side
+DUBRAVA. Observation and Photography using VSS / r/g 2668
+SPHERES – Battery Charging
+3DP Printed Coupon Removal and Stowage
+Filling EDV (KVO) for Elektron r/g 2660nu
+Separation Assembly Ops r/g 2673
+Environmental Control & Life Support System (ECLSS) Tank Drain
+Verification of ИП-1 Flow Sensor Position / SM Pressure Control & Atmosphere Monitoring System
+TOCA Calibration
+PILOT-T. Preparation for the experiment r/g 2666
+Environmental Control & Life Support System (ECLSS) Recycle Tank Drain Part 2
+SPHERES Battery Replacement
+MELF2 Stowage
+PILOT-T. Experiment Ops r/g 2666
+JEMAL Slide Table Retraction
+WRS – Recycle Tank Fill from EDV
+3DP Printed Coupon Removal and Stowage
+WRS  Recycle Tank Fill from EDV
+DOSETRK Questionnaire Completion
+SPHERES Experiment OBT
+VELO Exercise, Day 3
+SPHERES Battery Replacement
+SEISMOPROGNOZ. Download data from Control and Data Acquisition Module (МКСД) HDD (end) and start backup r/g 2224
+SPHERES tagup with PD
+TOCA Calibration
+ARED Cylinder Flywheel Evacuation
+Stopping JEMRMS Arm Bus Monitoring
+Progress 432 [AO] Transfers and IMS Ops / r/g 1812, 1832
+Replacement of СРВК-2М Gas-Liquid Mixture Filter r/g 2671
+JEMRMS USB Memory Stick Virus Check
+JEMRMS Data Transfer
+SPHERES Battery Replacement
+USOS Window Shutter Close
+PILOT-T. Experiment Ops r/g 2667
+PILOT-T. Closeout Ops Tagup with specialists / r/g 2667
+SPHERES Battery Replacement
+Environmental Control & Life Support System (ECLSS) Recycle Tank Fill Part 3
+SPHERES. Maintenance Run
+IMS Delta File Prep
+Video Footage of Greetings / r/g 2670
+WRS Recycle Tank Fill from EDV
+SPHERES Battery Replacement 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+JEMAL/EXHAM ops
+Nominal ground commanding
+

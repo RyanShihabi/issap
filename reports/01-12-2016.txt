@@ -1,0 +1,72 @@
+
+Electrostatic Levitation Furnaces 1 and 2  (ELF 1 & 2) Setup:  Kelly and Peake  set up the Japan Aerospace Exploration Agency (JAXA) ELF equipment for installation in the Multi-purpose Small Payload Rack 2 (MSPR2) work volume in the Japanese Experiment Module (JEM).   The crew was unable to complete all of the installation activities today.  They will be completed at the earliest opportunity.  The ELF is an experimental facility designed to levitate, melt and solidify materials employing containerless processing techniques that use the electrostatic levitation method with charged samples and electrodes. With this facility, thermophysical properties of high temperature melts can be measured and solidification from deeply undercooled melts can be achieved.
+ 
+Fluid Shifts Before, During and After Prolonged Space Flight and Their Association with Intracranial Pressure and Visual Impairment (Fluid Shifts):   Kelly and Kornienko continued their Return minus 45 day (R-45) Fluid Shifts activities today in the Russian Segment with assistance from Volkov.   This third part of the Fluid Shifts experiment utilizes the Russian Chibis (Lower Body Negative Pressure – LBNP) suit during ultrasound measurements.  Fluid Shifts investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+ 
+Japanese Experiment Module (JEM) Airlock Pressurization and Leak Check:  In preparation for removal of the Robotics Refueling Mission (RRM) Task Board 4 and the Robotic Micro Conical Tool (RMCT)-1 from the JEM Airlock Slide Table later this month, Kelly has pressurized the JEM Airlock and performed a leak check today.
+ 
+Extravehicular Activity (EVA) Tool Preparation:  Kopra and Peake continued to prepare for Friday’s Sequential Shunt Unit (SSU) EVA.  Today, they re-familiarized themselves with the tools needed to perform the SSU change out, installed a long term tether onto the EPIC MDM Ethernet Cable bundle to allow for external stowage without being plugged in, if required.  In addition, they packed the Internal Docking Adapter (IDA) EVA bag with the required cabling.
+ 
+Intermodule Ventilation (IMV) Flow Measurements:  As part of system health monitoring, Kopra utilized a Velocicalc tool in order to obtain measurements of selected ventilation inlets and outlets within the USOS.  Today’s measurements took place within the Joint Airlock, Node1, Node 2, Node 3, Cupola, and the Lab.
+ 
+Mobile Servicing System (MSS) Operations:   This afternoon, ground controllers are performing a periodic survey of the Scan Testbed Experiment on ExPRESS Logistics Carrier (ELC)-3.  Once the survey is complete, they will command an Mobile Transporter (MT) translation from Worksite (WS)-7 to WS-2. The move is required in order to provide camera support during Friday’s Sequential Shunt Unit (SSU) 1B Extravehicular Activity (EVA) and to preposition the Space Station Remote Manipulator System (SSRMS) for next week’s Main Bus Switching Unit (MBSU) demonstation activity.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Morning Inspection. SM ПСС (Caution & Warning Panel) Test
+Laptop RS1(2) Reboot
+RSS 1, 2 Reboot
+Hematocrit Test
+MO – Experiment Ops
+Hematocrit  Hardware Stowage
+JEM Airlock Pressurization
+On MCC GO Regeneration of БМП Ф1 Micropurification Cartridge
+БСПН Log-File Dump
+RGN – Initiate drain into EDV
+FLUID SHIFTS
+ISS Crew Handover
+JEM Airlock Leak Check
+Fine Motor Skills – Examination
+RGN – Terminate water drain into EDV
+MELFI 3 TDR – Battery Swap
+Collect SM and FGB Air Samples Using АК-1М Sampler
+WRS – Recycle Tank Fill
+ELF S/U- Procedure Review
+SM Air Sampling for FREON Using АК-1М Sampler
+XF305 Camcorder Settings Adjustment
+VEG-01 – Plant Photo
+MSPR2 – Software Setup
+СОЖ Maintenance
+MSPR2 – Configuration Setup
+MSPR2 – Software Setup
+KULONOVSKIY KRISTALL. Experiment Ops
+EVA Tool Config
+ALGOMETRIA. Experiment Ops
+IMS Delta File Prep
+SM Ventilation System Preventive Maintenance. Group В1
+Evening Work Prep
+EXPOSE-R. Copy and Downlink Data
+WRS – Recycle Tank Fill
+INTERACTION-2. Experiment Ops
+IMV Flow Measurement
+USND2 – Hardware installation and activation
+URYSIS Setup for Operation
+On MCC GO БМП Ф1 Absorption Cartridge Regeneration
+Preparation of Reports for Roscosmos Web Site and Social Media
+Video Recording for All-Russia State Television and Radio Broadcasting Company (ВГТРК)
+ECON-M. Observation and Photography
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Scan Test Bed Survey with MSS
+MT translation from WS-7 to WS-2
+
+ 

@@ -1,0 +1,80 @@
+
+New Status: 
+ improved Payload Ethernet Hub Gateway (iPEHG)-1 and -2 Installation: Commander (CDR) Hadfield upgraded PEHG-2 Wednesday and PEHG-1 today by removing the legacy PEHGs and installing two new iPEHGs. The new iPEHGs have enhanced configuration capabilities over the legacy PEHG, improved Gateway modes of operation and improved network protocols to support integration into Joint Station Joint Station LAN (JSL), faster medium rate and high rate data link, and additional accessible channels.  The activation and checkout of both iPEHGs were successful.
+Integrated Cardiovascular (ICV) Ambulatory Monitoring:  With assistance from Hadfield, Marshburn initiated his 5th and final ICV data take session.  He donned the Human Research Facility (HRF) Holter Monitor 2 (HM2) to record Electrocardiogram (ECG) data, 2 Actiwatch Spectrums (waist & ankle) to record activity levels, and the Cardiopres equipment to continuously monitor blood pressure. This session had dedicated data takes for both resting and exercising periods. Integrated Cardiovascular quantifies the extent, time course and clinical significance of cardiac atrophy (decrease in the size of the heart muscle) associated with long-duration space flight,  to identify the mechanisms of this atrophy and the functional consequences for crewmembers who spend extended periods of time in space.
+On Board Training (OBT) ISS Crew Health Care System (CHeCS) Drill: Cassidy, Vinogradov and Misurkin participated in this on-board training/drill which gives crewmembers the opportunity to work as a team in resolving a simulated medical emergency onboard ISS. The training refreshes their memory of the on-orbit stowage and deployment locations, equipment use, and procedures.
+Light Microscopy Module (LMM) Microscope Troubleshooting: After powering up the Fluids Integration Rack (FIR) and LMM for science ops on April 15, it was discovered that the microscope’s stage could not be moved up to properly position it for science operations. Cassidy inspected the LMM for potential obstruction that prevented the LMM X-Y Stage from moving up and down, and cleaned the ACE (Advanced Colloids Experiment) sample and objective lens.  He also checked for obstruction or damage while removing all hardware inside the LMM Auxiliary Fluids Container (AFC).  After the LMM was reassembled ground operators were able to move the microscope’s stage.  
+
+Mobile Servicing System (MSS) and Robotics Refueling Mission (RRM) Operations: Today the Safety Cap Tool SCT was used to retrieve the Torque Set Adapter (TSA), which  was used to unfasten one caged screw and then unfasten one uncaged screw. Afterwards the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) were maneuvered to a park position, ready for Day 3 of the RRM Tertiary Tasks Ops beginning Monday. MSS System performance was nominal.
+Previous Status (05/02/13)
+Burning and Suppression of Solids (BASS) Experiment (BASS): Cassidy conducted the 7th of 13 sessions planned for this experiment. BASS examines the burning and extinction characteristics of a wide variety of fuel samples in microgravity and will guide strategies for extinguishing fires in microgravity. BASS results contribute to the combustion computational models used in the design of fire detection and suppression systems in microgravity and on Earth.
+Binary Colloidal Alloy Test (BCAT)-3: On April 24, Sample 5 had a bubble that broke up into multiple small bubbles during homogenization which is undesirable since bubbles interfere with the phase separation process. This morning Hadfield remixed the sample and performed another run of Sample 5. The BCAT-C1 experiment studies nano-scale particles dispersed in liquid, known as a colloidal suspension, commonly found in such commercial commodities as paint, electronic polishing compounds and food products. These suspensions will have the unique property that the particles will phase separate (like oil and water) and the particles will self-assemble into crystals that interact strongly with light (like opal). Photographing these samples in microgravity allow the measurement of these processes while avoiding the effects of particle sinking due to gravity. This study will allow the development of new insights into this important material process.
+Integrated Cardiovascular (ICV) Echo Ultrasound Scan: Marshburn set up the Ultrasound 2 hardware and configured it for ground viewing.  He then attached electrodes and the Electrocardiogram (ECG) cable to perform his final resting echo scan, with Cassidy as an operator and remote guidance from ground teams.  ICV aims to quantify the extent, time course and clinical significance of cardiac atrophy (decrease in the size of the heart muscle) associated with long-duration space flight, identify the mechanisms of this atrophy, and identify the functional consequences for crewmembers who spend extended periods of time in space.
+Mobile Servicing System (MSS) and Robotics Refueling Mission (RRM) Operations:  Today the Robotics Ground Controllers repowered the MSS video system and began Day 2 of the Robotic Refueling Mission (RRM) Tertiary Task Ops. The Special Purpose Dexterous Manipulator System (SPDM) was maneuvered in front of the RRM Forward face to perform the Sub Miniature Version A Adapter (SMA-A) and the Torque Set Adapter (TSA) tasks. The SMA-A attached to the Safety Cap Tool (SCT) and is currently positioned over SMA cap 5. This cap will be removed, followed by the removal of SMA cap 1. Once both caps have been removed, they and the SMA-A will be stowed into the Safety Cap Receptacle (SCR). The SCT will then be used to retrieve the Torque Set Adapter (TSA), which will be used to unfasten one caged screw and unfasten and refasten one uncaged screw. MSS System performance has been nominal.
+Today’s Planned Tasks
+· Laptop RS2(1) Reboot
+· SM ПСС (Caution & Warning Panel) Test  [Complete] 
+· BCAT. Camera Battery Changeout [Complete] 
+· RSS1, RSS2 Reboot / r/g 1009  [Complete] 
+· Medical Emergency OBT Drill [Complete] 
+· KENTAVR fit check  [Complete] 
+· IMS Tagup (S-band) / r/g 2273 [Complete] 
+· Audit of TVIS Elements / r/g 2267 [Complete] 
+· SHD – Weekly Questionnaire [Complete] 
+· Crew Departure Prep x 3 [Complete] 
+· FIR – Hardware Gather [Complete] 
+· FIR Door Opening [Complete] 
+· WSTA Fill  [Deferred] 
+· ICV – Hardware Setup, Operator Assisstence, History Documentation photo [Complete] 
+· ТКГ 419 Aft Transfers and IMS Ops / ТКГ 419 Cargo Transfers r/g 2199, 2179, 2239 [Complete] 
+· MELFI – Replacement of Old Batteries [Complete] 
+· Handover / Handover Recommendations (РПС)  [Complete] 
+· BCAT3– camera checkout [Complete] 
+· In-Flight Maintenance (IFM) – (PEHG) Installation [Complete] 
+· FIR Rack Doors Open [Complete] 
+· Light Microscopy Module (LMM) Microscope Troubleshooting  [Complete]  
+· Crew Medical Officer (CMO) Proficiency Training [Complete] 
+· ICV Battery Replacement [Complete] 
+· EXPRS4 – Laptop SW Load  [Complete] 
+· Photography of Removable Cassette Container [СКК] No. 9 / r/g 2272  [Complete] 
+· Pre-pack cargo items for return or disposal on ТК 704А / r/g 2152, 2165  [Complete] 
+· EXPR4 – Software Load on SNFM  [Complete] 
+· ICV Battery Replacement [Complete] 
+· ICV – 10-Minute Rest Event [Complete] 
+· PAO Hardware Setup, Crew prep, and TV Greetings r/g 2260 [Complete]
+· Filling (separation) of EDV (KOV) for Elektron [Complete]
+· AQM Operations  [Deferred] 
+· АОК ГАНК-4М data readout / SM СКДС [Complete]
+· СОЖ Maintenance [Complete]
+· IMS Update [Complete]
+· FIR Rack Door Close [Complete]
+· FIR – Equipment Stowage [Complete]
+· SHD – Weekly Questionnaire [Complete]
+· NANORACK – Copy Data to Laptop [Complete]
+· Flight Director/ISS Crew Tagup [Complete]
+· ISS – HAM Radio Session [Complete]
+· BCAT. Camera Battery Changeout  [Aborted] 
+· ICV Battery Replacement  [Complete] 
+Task List
+· CEO ops  [Complete] 
+· SSC19 UBA Fix P1  [Complete] 
+· SSC data gather (FE-6)  [Complete] 
+· SSC data gather (CDR)  [Complete] 
+· WHC KTO replace  [Complete] 
+· WHC EDV R&R
+· Roscosmos Report
+· 33S US prepack  [In Work] 
+· HMS FFQ-FE6
+· HMS FFQ-FE3 [Complete] 
+· HMS FFQ-CDR [Complete] 
+· Payload laptop label
+· Data prep return-CDR [In Work] 
+· Data prep return-FE4
+· Data prep return-FE6 [In Work] 
+· HMS stow – FE6  [Complete] 
+· HMS stow – CDR  [In Work] 
+· Lab rack labels  [Complete] 
+· SSC11 Reload  [Complete] 
+
+Ground
+· Nominal Commanding  [In Work] 

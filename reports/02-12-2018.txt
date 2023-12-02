@@ -1,0 +1,71 @@
+
+69 Progress (69P) Launch Abort:  Over the weekend, the planned launch of 69P did not occur.  The vehicle issued an abort command shortly before launch and successfully shut down the launch sequence.  The root cause is under investigation, and the forward plan is in work.  The next available launch opportunity is tomorrow morning, Tuesday, February 13th at 2:13am CST. 
+Rodent Research 6 (RR-6):  Following four consecutive days of RR-6 operations last week, over the weekend the crew completed the final set of fixative swaps and cleaned the access units. The RR-6 hardware was removed from Microgravity Sciences Glovebox (MSG) this morning, and MSG is now ready for re-installation of Transparent Alloys so that payload can continue its science runs begun prior to RR-6 operations.  The RR-6 mission uses mice flown aboard the International Space Station (ISS) and maintained on Earth to test drug delivery systems for combatting muscular breakdown in space or during disuse conditions. RR-6 includes several groups of mice selectively treated with a placebo or implanted with a nanochannel drug delivery chip that administers compounds meant to maintain muscle in low gravity/disuse conditions. 
+NanoRacks DreamUp Xtronaut Crystal Growth (DreamXCG): To track the progression of the DreamXCG formation that was initiated two weeks ago, the crew took photo and video images of each pouch to show any visible sugar crystal growth over the weekend. This investigation teaches students about the effects of microgravity on crystal formations using near-identical flight kits flown and operated aboard the International Space Station (ISS). With access to crew member videos and data on the same experiment, students are able compare crystal formations in space to those in their classrooms. The investigation aims to promote science, technology, engineering, and math (STEM) fields to the next generation of students.
+Earth Imagery from ISS Target (EIISS): Over the weekend, the crew took images of the Caribbean and the Iberian Peninsula. Today the RED camera was used to take images of Central America to the Caribbean, New Zealand, the Amazon, and the southern tip of Baja. EIISS is used to support creation of a series of videos showcasing Earth views taken from space. The videos are taken with cameras on the ISS in 6K hi-resolution and are integrated into videos for screensavers for public enjoyment, exploration, and engagement. 
+Veg-03 Initiation: Following the initiation of the 5th and 6th Veg-03 experiment runs last week, today the crew opened the wicks of each Veg-03 plant pillow. The overall goal of Veg-03 is to further demonstrate proof-of concept for the Veggie plant growth chamber and the planting pillows. Future long-duration missions into the solar system, finally culminating on Mars, will require a fresh food supply to supplement crew diets, which means growing crops in space. Previous investigations focused on improving productivity in controlled environments, but the limited quarters of the space shuttle and International Space Station made it difficult to conduct large-scale crop production tests. Veg-03 expands on previous validation tests of the new Veggie hardware, which crew members will soon use to grow cabbage, lettuce and other fresh vegetables in space.
+Extravehicular Activity (EVA) Preparations:  This morning, the crew completed a review of the robotics procedures for the upcoming USOS EVA and then completed a training session using the Robotics On-Board Trainer (ROBoT).  They also performed a review of the EVA activities using the Dynamic Onboard Ubiquitous Graphics (DOUG) software.  This afternoon, they performed tool configuration, camera battery charging, GoPro camera charging, and a conference with the EVA ground controllers.  EVA #48 is currently scheduled for February 15th.
+Soyuz 52S Packing:  The crew started packing USOS cargo for return on 52 Soyuz (52S).  Some of the USOS cargo will be retrieved at the landing site for immediate return to the US.  This cargo is packed with special labelling for ease of retrieval.  There will be additional packing as items become available.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+SPLANH. SPLANHOGRAF Setup, Initiate EGEG Recording
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Power Up
+Transfer from CWC-I into EDV #1246 (init)
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Subject
+Preparation of Items for Return and Disposal with Soyuz 734
+On-board Training (OBT) EVA Robotics Onboard Trainer (ROBoT) Session
+MATRYOSHKA-R. Tritel Hardware Monitoring
+Transfer from CWC-I into EDV (term)
+Audit of ISS RS Lighting Fixtures in FGB
+SPLANH. ECG data recording end. Closeout Ops
+Actiwatch Spectrum HRF1 Setup
+Actiwatch Spectrum HRF1 Stow
+Rodent Research Lab Camcorder Video Setup
+DAN Experiment Ops
+Rodent Research Microgravity Science Glovebox Stow
+Manufacturing Device ABS Print Removal, Clean and Stow
+Transfer Operations – Prepack of US items to be loaded into Soyuz
+Filling (separation) of ЕДВ (КОВ) for Elektron or ЕДВ-СВ
+RED Camera Setup.
+EIISS Crew Preference RED Camera Target Operations
+VEG-03F Wick Open
+Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Partial Stow
+СОЖ maintenance
+On MCC Go ISS repress with air from section 2 of СрПК Progress #437 (DC1) (init)
+Extravehicular Activity (EVA) Tool Configuring
+Plant Gravity Perception/European Modular Cultivation System Experiment Container Replace
+ISS repress with air from Progress 437 (DC1) СрПК Section 2 (terminate)
+Vacuuming [ГЖТ4]’s [ВТ-7] screen behind FGB panel 108
+Charging EVA Camera D4 Battery
+Photo TV EVA Go Pro Battery Charging
+MELFI 2 Ice Brick Insert 5
+SM ventilation systems maintenance. В1 group
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review
+Laptop vent grills maintenance
+Extravehicular Activity (EVA) Procedure Review
+Inspection and Cleaning of RS2 and RS3 Laptops
+Extravehicular Activity (EVA) Procedure Conference
+VZAIMODEISTVIE-2. Experiment Ops
+Health Maintenance System (HMS) Profile of Mood States (POMS) Questionnaire
+Countermeasures System (CMS) Max Cycle Ergometer w/Vibration Isolation & Stabilization (CEVIS) Portable PFS Conclude
+Crew Departure Preparations for Return to Earth
+ТБУ- В No.5 Current Temperature Check
+Exercise Data Downlink via OCA
+RED Camera Deactivation. 
+
+Completed Task List Activities
+
+Transfer ECOM Adapter
+Extravehicular Activity Mobility Unit (EMU) Enhanced Caution and Warning System (ECWS) On-Board Training
+Robonaut Hardware Stow
+KTO Replace 
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+EVA ROBOT Support
+Standard Commanding
+

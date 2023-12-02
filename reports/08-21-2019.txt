@@ -1,0 +1,121 @@
+
+International Docking Adapter (IDA)3 Extravehicular Activity (EVA): Crewmembers Nick Hague and Andrew Morgan successfully executed USOS EVA #55 within 6 hours and 31 minutes in order to accomplish the following tasks:
+
+IDA3 cable routing and connections
+IDA3 installation
+IDA3 Multi-Layer Insulation (MLI) removal
+IDA3 outfitting.
+
+Install Hemispherical (HEMI) reflectors (2)
+Install H-Fixture MLI
+Install PMA3 planar reflector cover
+
+
+Connect second Truss Jumper and address ungrounded connector
+EWC Ethernet Cable (W4300) routing
+PMA3 Articulating Portable Foot Restraint (APFR) to Starboard CETA cart relocation
+Port CETA APFR Ingress Aid (AIA) wire tie installation
+
+Micro-15: The crew performed the Micro-15 fixation on the sample culture bags. The goal of this investigation is to better understand the effects of gravity on the differentiation of mammalian cells using 3-D cultures of induced pluripotent stem (iPS) cells. Past flight experiments and ground-based simulations have demonstrated that microgravity influences gene expression, cell proliferation, and differentiation in stem cells but the mechanism behind these observations is not clearly understood. This study investigates how exposure to microgravity fundamentally alters cell regulation and how these changes can affect the timing, progression, and outcomes of cell differentiation. 
+Remote Power Control Module (RPCM) Remote Power Controller (RPC) Trip:  RPCM N32A2BE1 RPC-3, which powers the Node 3 Forward Port Intra-Module Ventilation (IMV) fan tripped open overnight. Ground teams are assessing telemetry and formulating a troubleshooting plan.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+EVA support
+Payload ops support
+
+Look Ahead:
+
+Thursday, 8/22 (GMT 234)
+Payloads:
+
+
+Vascular Aging Blood Pressure (CSA)
+NUTRISS Setup and Measurement (ESA)
+MSPR2 cable attachment (JAXA)
+RR-17 Habitat Restock and Access Unit Clean (NASA)
+NanoRacks MOD-9 Ops 4 (NASA)
+LSG Front Glove Swap (NASA)
+Goodyear Sample Termination (NASA)
+Micro-15 Drug Injection session D (NASA)
+HRF Repository Frozen blood setup (NASA)
+Food Acceptability (NASA)
+
+Systems:
+
+EVA debrief
+EMU water ops
+
+Friday, 8/23 (GMT 235)
+Payloads:
+
+
+Vascular Aging Blood Pressure data download (CSA)
+Space Moss Sample fixation (JAXA)
+ISS Experience  in JEM (Space Moss) (NASA)
+BioFabrication Facility Media Replace (NASA)
+HRF Repository Urine and Blood Collect (NASA)
+Standard Measures Saliva Collect (NASA)
+RR habitat Water refill and Transporter setup(NASA)
+ADSEP Photo (NASA)
+Micro-15 Sample Fixation (NASA)
+Food Acceptability (NASA)
+
+Systems:
+
+Dragon Release OBT
+Dragon Cargo Operations
+CUCU Crew Command Panel (CCP) Checkout
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+ISS HAM Radio Power Down in Columbus
+ISS HAM Radio Power Down in Service Module
+Extravehicular Activity (EVA) In-Suit Light Exercise (ISLE) Preparation
+Extravehicular Mobility Unit (EMU) Purge
+CARDIOVECTOR. Photography of the Experiment Session
+Extravehicular Mobility Unit (EMU) In-Suit Light Exercise (ISLE) Prebreathe
+IMS Audit of SM-FOTO-HDD-USB
+Crewlock Depress
+24-hour ECG Recording (start)
+Crewlock Post Depress
+Crewlock Egress
+24-hour Blood Pressure Recording (start)
+IV IDA3 intall Support
+IDA 3 Aft Cable Routing
+Configuring [СКВ1] Valves ВН1 and ВН2
+IDA 3 Forward Cable Routing
+IV Drive IDA Hooks
+IV IDA3 intall Support
+IDA 3 Forward Cable Routing
+IV IDA3 intall Support
+IDA 3 Aft Cable Routing
+Preventive Maintenance of SM Ventilation Subsystem. Group C
+IV IDA3 intall Support
+IDA-3 EVA Cleanup
+S0 Insulating Sleeve Installation
+S0 Red Truss Jumper Install
+EVA Glove Photo Setup
+Spider Cable Route
+IV IDA3 intall Support
+EVA Get Ahead tasks
+EVA Cleanup and Ingress Crewlock
+FOTOBIOREACTOR. Visual inspection with photography
+Crewlock Repress
+Extravehicular Activity (EVA) Crewlock Repress EVA PET end
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Return to nominal comm configuration after USOS EVA
+Extra Vehicular Activity (EVA) Post-EVA Glove Photos
+EVA Glove Photo Downlink
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+Robotic Workstation (RWS) Teardown
+Replace Cargo in Node 2 Forward after IDA3 Install
+
+ 

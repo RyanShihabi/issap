@@ -1,0 +1,25 @@
+
+Payloads
+Materials Science Research Rack-1 (MSRR-1): The crew installed the protective cover, closed the MSRR left faceplate and stowed the MSRR/MSL hardware. The MSRR-1 is used for basic materials research in the microgravity environment of the ISS. MSRR-1 can accommodate and support diverse Experiment Modules (EMs). Many material types, such as metals, alloys, polymers, semiconductors, ceramics, crystals, and glasses, can be studied to discover new applications for existing materials and new or improved materials.
+Plasma Krystall-4 (PK-4): A crewmember performed Run#1 for the PK-4 study. PK-4 is a scientific collaboration between the European Space Agency (ESA) and the Russian Federal Space Agency (Roscosmos), performing research in the field of “Complex Plasmas”:  low temperature gaseous mixtures composed of ionized gas, neutral gas, and micron-sized particles. The micro-particles become highly charged in the plasma and interact strongly with each other, which can lead to a self-organized structure of the micro-particles:  so-called plasma crystals. Experiments in the facility aim to study Transport Properties, Thermodynamics, Kinetics and Statistical Physics, and Non-linear waves and Instabilities in the plasmas.
+Repository: Crewmembers performed urine and frozen blood collections in support of the Repository study which supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions.
+Ribosome Profiling: The crew performed Medium Exchange operations 1 and 2 for the Ribosome Profiling study. Since life on Earth emerged about 4 billion years ago, living species have evolutionally adjusted to Earth’s gravity. However, how cells utilize gravity for their gene expression has remained largely unknown. The Genome-wide Survey of Translational Control in Microgravity (Ribosome Profiling) investigation aims to provide insight into how gravity impacts gene expression, with a special focus on translation regulation utilizing a state-of-art technique called “ribosome profiling”.
+The ISS Experience: The crew swapped out the SSD cards from the ISS Experience Z-camera. The The ISS Experience is a cinematic Virtual Reality (VR) series documenting life and research aboard the space station. Filmed over multiple months, the immersive VR series documents different crew activities – from science conducted aboard the station to preparation for a spacewalk.
+Systems
+Catalytic Reactor Remove & Replace (R&R): Following a number of represses on Sunday, the team saw a ~1-pound decrease in the wastewater tank quantity. Based on this decrease, it is believed there is ~1-pound/day leak within the Cat Reactor. Today the crew gathered hardware and tools required to perform a Catalytic Reactor R&R in the Water Recovery System 1 rack.
+Oxygen Generation System (OGS) Avionics Air Assembly Muffler Filter Repair: Last Thursday, March 18, the crew reported visible damage to the OGS AAA Muffler Filter Block screen. There are no filter block spares on-orbit or on the ground. OGS has continued operating with ground teams monitoring telemetry for indication of gross blockage. Today the crew repaired the filter block screen using aluminum tape as well as replacing the aluminum tape from a previous repair.
+Joint Station Lan (JSL) Gigabit Ethernet Cabling Installation: The crew completed a big picture review to install a series of cables in 5 USOS modules and across 5 vestibules to upgrade the JSL system. They then completed Part 1 of the activity when they routed new Gigabit Ethernet cables for the JSL in the LAB from the forward area of the LAB to the aft endcone.  The crew will continue routing cables in Node 1 tomorrow. Cable connection will be scheduled in the future to allow for checkout of other systems due to replacement of vestibule jumpers which carry other signals to other modules in addition to Ethernet.
+Oxygen Generation Assembly (OGA) Pump Orbital Replacement Unit (ORU) R&R: In 2010, OGA pump ORU delta pressure sensor failed low. SN 1 ORU was replaced with SN 2 ORU, but SN 2 ORU failed upon restart due to cementing of the gear and the wear plate. SN 1 was reinstalled with software modification and operational constraints.  Today the crew R&R’d the old ORU with a newer designed ORU which incorporates changes to address lock-up gears after a period of time if the pump is not completely water solid.
+Mobile Servicing System (MSS) Operations: Yesterday, Robotics Ground Controllers powered up the MSS and performed Rate testing on Elbow pitch Joint #4. They then performed Direct Drive tests on the wrist cluster Joints 1 to 4. This is part of the regular testing for trending.
+Completed Task List Activities:
+
+SABL 2/3 sample change
+UTS backup EDV swap
+ARED spreadsheet recording
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SSRMS walkoff from WS5 to WS2.
+SSRMS Lee B high def survey
+

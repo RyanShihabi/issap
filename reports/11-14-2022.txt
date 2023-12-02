@@ -1,0 +1,24 @@
+
+Payloads:
+Cellbox-3: Two Cellbox-3 Spheroid Aggregation and Viability in Space (SHAPE) experiment containers (ECs) were removed from the Space Technology and Advanced Research Systems-1 (STaARS-1) experiment facility and placed into Minus Eighty-Degree Laboratory Freezer for ISS (MELFI) +4° C cold stowage. Cellbox-3 contains two experiments that investigate cell behavior in microgravity, forming 3D structures that more closely resemble the growth and behavior of cells inside the body. SHAPE seeks to determine how cellular spheroids from human bone marrow form in microgravity and their viability. Nerve-Muscle Co-culture (NEMUCO) seeks to determine whether the neuromuscular junction structure develops properly in microgravity, which could provide an experimental model for investigating nerve and muscle cell-to-cell interaction and communication in space and on the ground.
+NanoRacks-OvoSpace: OvoSpace experiment hardware was removed from the NanoRacks Mainframe Alpha (MFA) facility and photographed in the Cupola. How microgravity influences ovarian cell (Theca and Granulosa) maturation and development is an open question, and a scarcely investigated issue. The Modulation of Granulosa and Theca Cells Activity in Microgravity: Consequences for Human Health and Reproduction (OVOSPACE) investigation studies how the microgravity environment can impair ovary function and the physiological development of living beings. Given the objectives of human colonization of the Moon (as such recognized by the Artemis program), this task assumes a critical importance in planning future programs of human settlement in space.
+Antioxidant Protection: In a continuation of the experiment, the crew removed twelve Antioxidant Protection ECs from Kubik and transferred them to Cold Stowage. The PROtection MEdiated by antioxidant nanoTEchnOlogy against neuronal damage in space (PROMETEO) (Antioxidant Protection) investigation proposes the use of biocompatible and biodegradable polydopamine-based nanoparticles to provide antioxidant protection to neurons undergoing exposure to altered gravity and cosmic radiation.
+Systems:
+S-Band Antenna Sub-Assembly (SASA) String-2 Recovery: Last Friday, the ground teams reported SASA String-2 has recovered and is transmitting again. The SASA is the antenna assembly that provides S-Band communication.
+Extravehicular Activity (EVA) Preparation Activities: Last Friday, the crew assembled the ISS Roll Out Solar Array (IROSA) Mod kit left and right lower struts, installed the center mast cannister pad on the right upper strut, familiarized themselves with Mod kit components and mechanisms, and prepared the ISS Power Augmentation (IPA) Mod kit strut bag for the 1B IROSA Prep EVA tomorrow, November 15th. On Saturday, the crew unpacked required hardware from Cygnus NG-18, configured the 1B and 3A IROSA cables, and participated in an EVA procedure conference. Today, the crew unstowed hardware from the Airlock to prepare for EVA operations and reviewed EVA procedures. After reviewing detailed procedures, tools, and additional references for the 1B IROSA Prep EVA, they participated in a conference with ground teams. During this EVA, the EV crew will route cables on both the 3A and 1B Mod kits and install the 1B Mod kit on the 1B Solar Array Wing (SAW) Mast Cannister.
+Robotic Operations: Due to an issue last Thursday, the ground teams deferred the scheduled Remote Power Controller Module (RPCM) remove and replace (R&R). On Saturday, the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) were maneuvered to the Express Logistics Carrier-3 (ELC-3), where the SPDM grasped and unstowed the spare SASA Flight Releasable Attachment Mechanism (FRAM). The SSRMS and SPDM were then maneuvered early Sunday morning to remove the degraded SASA FRAM and replace it with the spare one. After the degraded SASA FRAM was stowed, the Mobile Transporter (MT) was translated from Worksite 7 (WS7) to WS5 where the SSRMS then stowed the SPDM on LAB PDGF 2. The MT was translated from WS5 to WS2, and the SSRMS was maneuvered to the viewing position for the 1B IROSA Prep EVA.
+Regenerative Environmental Control and Life Support System (ECLSS) Urine Processor Assembly (UPA) Brine Filter Changeout: As part of regular maintenance, the crew removed and replaced the UPA Brine Filter from the UPA Fill Drain Valve enclosure. Brine filters are replaced every 60 days.
+Completed Task List Activities:
+
+WHC KTO R&R
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+ARS LAB MCA Commanded to Full Calibration [Aborted]
+CCS SMCC Data Dump [Active]
+SPDM RMCT Checkout
+MSS Powerup
+EVA Procedure Conference
+ACS OPM [Planned]
+

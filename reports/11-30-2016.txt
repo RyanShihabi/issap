@@ -1,0 +1,69 @@
+
+Robotic External Leak Locator (RELL) Operations: Yesterday, Ground Controllers used the SPDM to remove the RELL from the JEMAL Slide Table. A checkout was performed by pointing RELL towards deep space in order to scan a clean environment as a baseline. Today, RELL performed background scans along the Port 1 (P1) truss segment in order to establish a baseline for the ISS environment. Overnight, RELL will be pointed near truss radiators to characterize the ISS environment near structure. RELL is an instrumentation package that is maneuvered externally by the SSRMS/SPDM to detect local pressure variations to help in locating a leak. For this demonstration, a predetermined scan/survey procedure will be executed that characterized the ISS environment and scans various ISS elements containing ammonia lines and systems. Planned operations later this week will also attempt to identify the source of the “white flakes” that have been noticed on downlink video. 
+Marangoni Setup: The crew performed the third day of Marangoni setup for the Marangoni Ultrasonic Velocity Profilers (UVP2) experiment.  Today’s operations included a Strobolamp exchange within the Ryutai Rack’s Fluid Physics Experiment Facility (FPEF) followed by configuration of the 2-Dimensional (2-D) and 3-D cameras within the FPEF.  Spatio-temporal Flow Structure in Marangoni Convection (Marangoni-UVP) investigates the fundamental physics of surface tension where liquid and gas meet. Specifically, it investigates a phenomenon known as Marangoni convection, a type of flow that is driven by temperature differences at the liquid and gas interface. The FPEF enables observations of liquid and gas flow in three dimensions, and the microgravity environment on the ISS provides an ideal setting to study convection. Improved understanding of liquid flow physics could lead to more efficient industrial processes, semiconductors, optical materials and biological materials for use in space and on Earth.
+Selectable Optical Diagnostics Instrument Experiment Diffusion Coefficient Mixture (SODI DCMix)-3 Stow: Following the successful completion of the SODI DCMix-3 experiment the crew removed the experiment from the Microgravity Science Glovebox (MSG) and returned the MSG to its nominal configuration. Tomorrow the crew will install the Packed Bed Reactor Experiment (PBRE) in the MSG. The SODI DCMix-3 investigation measures the diffusion coefficients of selected ternary mixtures taking advantage of the reduced gravity environment available on board the ISS. A combination of different and complementary techniques are used to characterize flight candidate samples among water-based and hydrocarbon mixtures. Experimental results from space experiments, performed in the Selectable Optical Diagnostic Instrument, are used to test thermodiffusion theories and develop physical and mathematical models for the estimation of thermo-diffusion coefficients.
+Sarcolab-3: The second operational day for the Sarcolab-3 experiment began with converting the Muscle Atrophy Research & Exercise System (MARES) from the ankle measurement configuration to the knee measurement configuration.  Once the setup was completed the subject donned the Percutaneus Electrical Muscle Stimulator (PEMS) and Electromyography (EMG) electrodes, to stimulate and measure calf muscle and tendon response at the back of the knee (calf muscle origin). During the knee joint evaluation, the subject sat on the MARES dynamometer with the chair and pantograph set to obtain knee flexion and extension from 90 degree knee angle to full extension with the knee torque adapter securely fixed to the shin. The inflight data will be compared to preflight and postflight measurements to measure the impact of a hypothesized microgravity induced muscle loss.  Myotendinous and Neuromuscular Adaptation to Long-term Spaceflight (Sarcolab) investigates the adaptation and deterioration of the soleus, or calf muscle, where it joins the Achilles tendon, which links it to the heel and carries loads from the entire body. Muscle fiber samples are taken from crew members before and after flight, and analyzed for changes in structural and chemical properties. MRI and ultrasound tests and electrode stimulation are conducted to help assess muscle and tendon changes caused by microgravity exposure.
+Crew Health Care System (CHeCS) Emergency Health Maintenance System Contingency Drill Training:  During this onboard training session the crew reviewed procedures, hardware and communication methods necessary to manage a medical emergency onboard ISS. Emergency medical equipment was deployed during the training session for the crew to practice Cardiopulmonary Resuscitation (CPR) positioning to ensure familiarity with procedure execution should a medical emergency occur.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+SPLANKH. SPLANKHOGRAPH Setup. EGEG Recording (start).
+Body Measures Experiment Operations – Subject
+ESA ACTIVE DOSIMETER MOBILE UNIT SWAP
+XF305 Camcorder Setup
+Fluid Physics Experiment Facility (FPEF) Lamp Exchange
+MARES Knee Shaving Preparation
+Body Measures Experiment Operations – Operator
+Samsung Tablets Charging in Soyuz 732 (start)
+SARCOLAB (MARES). MARES Hardware Installation (Knee)
+Marangoni Inside (MI) Fluid Physics Experiment Facility (FPEF) Setup
+СОЖ maintenance
+SPLANKH. EGEG Recording (end). Closeout Operations.
+SODI Big Picture Word Review
+SODI Hardware Stow Alternate
+EMG electrodes installation and Sarcolab knee protocol execution
+SARCOLAB (MARES). Assistance during Electrodes Installation and Signal Test (Knee)
+Photo/TV. Camcorder Settings Verification
+Samsung Tablets Charging in Soyuz 732 (end)
+Monitoring of ИП-1 Sensors Installation
+Photo/TV Camcorder Setup Verification
+FGB СУБК 11М156М Devices Diagnostics.
+Marangoni Inside (MI) Fluid Physics Experiment Facility (FPEF) Cable Connection
+SSC18 (FGB). Wireless Connection Switch Off
+SARCOLAB (MARES). MARES Hardware and Laptop Deactivation
+Diagnostics of Filter Unit БФ-2 Device and Main Bus Assembly БСШ-2 of the FGB Power Supply System.
+OTKLIK. Hardware Monitoring
+Preparation of АФОТ А-2 for Removal
+Dose Tracker Data Entry Subject
+USOS IVA Hatch Window Cover Audit
+VZAIMODEISTVIYE-2. Experiment Operations
+Fluid Physics Experiment Facility (FPEF) Load Connector Removal
+Public Affairs Office (PAO) High Definition (HD) Config Columbus Setup
+PAO Preparation
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+CHeCS Emergency Health Maintenance System Contingency Drill Training
+Public Affairs Office (PAO) Event in High Definition (HD) in Columbus
+Photo/TV Camcorder Setup Verification
+ISS Crew Orientation
+SSC18 (FBG). Connect to WiFi
+ECG Recording (end)
+24-Hour ECG Recording (start)
+Crew Medical Officer (CMO) On Board Training (OBT)
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+БД-2 Tension Measurement System Test.
+Onboard Training (OBT) Robotics On-board Trainer (ROBoT) Setup
+SPLANKH. Experiment Prep
+Aerosol Samplers Cartridge Removal 
+
+Completed Task List Items
+
+Galley UOP Gather
+VEG03 Pillow Water
+Photo/TV Camcorder Deploy
+USOS IVA Hatch Window Cover Audit
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+RELL Operations
+

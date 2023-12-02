@@ -1,0 +1,27 @@
+
+Payloads:
+Ring Sheared Drop:  Ring Sheared Drop hardware was removed and stowed.  The Ring Sheared Drop investigation examines the formation and flow of amyloids without the complications associated with the solid walls of a container, because in microgravity, surface tension provides containment of the liquid.  Amyloids – fibrous, extracellular protein deposits found in organs and tissues – are associated with neurodegenerative diseases such as Alzheimer’s.  Results could contribute to better understanding of these diseases as well as to development of advanced materials.
+Thermal Amine System:  A crewmember performed sampling of CO2 effluent from the Thermal Amine System.  Thermal Amine System tests a method to remove carbon dioxide (CO2) from air aboard the ISS, using actively heated and cooled amine beds. Controlling CO2 levels on the station reduces the likelihood of crew members experiencing symptoms of CO2 buildup, which include fatigue, headache, breathing difficulties, strained eyes, and itchy skin. The system includes elements that reduce loss of water vapor, and recover CO2 for use in electrolysis to produce oxygen.
+Systems: 
+Environmental Health System (EHS) Operations: As part of regular maintenance, the crew performed periodic EHS water sampling by collecting water samples from the Potable Water Dispenser (PWD) for in-flight and post-flight analysis. In-flight samples were used to perform a Total Organic Carbon Analyzer (TOCA) analysis that measures the amount of organic constituents in the potable water. The crew also tested the water samples for the presence of Coliform bacteria utilizing a Coliform test bag, and then changed out the Waste Water Bag (WWB). These tests are used to determine if the drinking water is still safe for crew consumption.
+In Flight Maintenance (IFM) Activities: Additional maintenance activities were performed by the crew including cleaning of the ducting and area behind the Node 1 Intermodule Ventilation (IMV) Linear Diffusers. Crew also performed a manual Waste and Hygiene Compartment (WHC) flush tank fill. By using a post-flight analysis bag to capture any pressure relief, also known as the burp, they depressurized the flush water tank and water valve block to protect the dose pump. This pump is critical as it injects the pre-treat required to properly recycle waste urine.
+Internal Thermal Control System (ITCS) Sample Gathering: The ISS crew completed several regular ITCS sampling activities. The first sample was collected using the Columbus Coolant Fluid Servicer (CCFS) installed on the Columbus Water Pump Assembly #2 (WPA2). The next samples were collected from the Node 2 Moderate Temperature Loop (MTL) and Low Temperature Loop (LTL) ITCS Sampling Adapters. These samples were then stowed and will be returned to ground for analysis. 
+Extravehicular Activity (EVA) Mobility Unit (EMU) Activities: Crew continued working several EMU activities today starting with a training activity to prepare for the upcoming EMU rotation using the Short EMU (SEMU) Launch Enclosure (SLE). The SLE rotation then took place to unpack the EMU from the SpX-24 Launch Enclosure and to install the return EMU currently on ISS into the Launch Enclosure, which also included a swap of the EMUs on the EMU Don/Doff Assembly. The EMU that arrived on SpX-24 was then configured for on-orbit operations, including installation of the EMU Data Recorder (EDAR) Box, Antenna, and Antenna Cable on the EMU.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SPDM MSC Transfer
+Adjusting Node 2 ITCS Limits
+Crew Dragon System Checkout
+MSS Hover Maneuver
+MT Pre-Translation Check Out and Survey
+MT Translation
+JEM Airlock and ACDU-RC Activation
+MSS JOTI ORU Install
+JEM Airlock Slide Table Extension to JEF side
+JEM Airlock Capture Mechanism Capturing
+

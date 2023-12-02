@@ -1,0 +1,86 @@
+
+Robotic Refueling Mission 3 (RRM3): Today crewmembers installed the RRM3 hardware on the JEM Airlock slide table. Robotic Refueling Mission 3 (RRM3) demonstrates the first transfer and long term storage of liquid methane, a cryogenic fluid, in microgravity. The ability to replenish and store cryogenic fluids, which can function as a fuel or coolant, can help enable long duration journeys to destinations like the Moon and Mars.
+JAXA Mouse Mission: Today a crewmember attached Odor filters into the Mouse habitat Cell Biology Experiment Facility (CBEF) unit in preparation for upcoming SpaceX-17 mission. The purpose of this mission is to analyze any alterations of the gene expression patterns in several organs and the effects on the germ-cell development of mice exposed to a long-term space environment.
+Space Automated Bioproduct Laboratory (SABL): Today a crewmember replaced CO2 Incubator Controllers into SABL1 and SABL2. CO2 levels inside the SABLs were then measured. The Space Automated Bioproduct Laboratory (SABL) supports a wide variety of experiments in the life, physical and material sciences with a focus on supporting research of biological systems and processes. It has over 23 liters of temperature controlled volume with LED lighting for scientific hardware and experiments. It can be fitted to provide 5% CO2 for cell cultures and has two USB 2.0 ports and two Ethernet LAN connections. It also has switchable 28vdc and 5vdc power supplies for experiment use.
+CSA Comm and Outreach (CSA Video): Today a crewmember recorded two Educational outreach video events. Prime objective is to document and support communications and outreach activities related to the Canadian space program and the ISS utilization in particular.
+Alpha Magnetic Spectrometer (AMS)-02: Today a crewmember replaced the Ultrabay hard drive on the AMS dedicated Laptop. AMS-02 is a state-of-the-art particle physics detector that uses the unique environment of space to advance knowledge of the universe and lead to the understanding of the universe’s origin by searching for antimatter, dark matter and measuring cosmic rays.
+Advanced Combustion via Microgravity Experiments (ACME): Today the crew removed ACME hardware items from storage and consolidated them with other ACME hardware. The ACME experiment series being performed in the CIR includes five independent studies of gaseous flames. The primary goals of ACME are to improve fuel efficiency and reduce pollutant production in routine fuel combustion activities on Earth.  Its secondary goal is to improve spacecraft fire prevention through innovative research focused on materials flammability.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SSRMS Walkoff to MBS 1 and SPDM Unstow
+
+Look Ahead:  
+Wednesday, 02/20 (GMT 051):
+Payloads:
+
+
+ELF Cartridge Clean and Install (JAXA)
+EarthKam Lens Change (NASA)
+
+Systems:
+
+EMU 3006 Return to Service
+EMU 3006 EDAR Install
+JEM ACDU Remote Controller Power Cable Check
+
+Thursday, 02/21 (GMT 052):
+Payloads:
+
+
+MSRR T/S steps (NASA)
+LTE Meter Read (NASA)
+ISS Experience SSD C/O and N3 session (NASA)
+CBEF Pre Configuration (JAXA)
+
+Systems:
+
+EMU Loops Scrub
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Check and Report the Results of Antivirus Scanning on Auxiliary Computer System [BKC] Laptops
+Space Automated Bioproduct Lab, CO2 Incubator Swap
+Fill In (Degas) EDV (KOV) for Elektron or EDV-SV through Gas Liquid Mixture (ГЖС)
+Space Automated Bioproduct Lab, CO2 Incubator Swap
+СОЖ maintenance
+SM Ventilation System Routine Maintenance (Group С)
+AMS Hard Drive Change
+Robotic Refueling Mission (RRM3) Installation Review
+Robotic Refueling Mission (RRM3) JEM Video Setup
+JEM Airlock Slide Table (ST) Extension to JPM Side
+Struc and Mech A/L Adapter Plate and Robotic Refueling Mission (RRM3) I/F Plate Installation
+Robotic Refueling Mission (RRM3) Install
+JEM Airlock Slide Table (ST) Retraction from JPM Side
+Space Automated Bioproduct Lab, CO2 Meter Setup
+MATRESHKA-R. BUBBLE Dosimeters Activation and Setup
+Cell Biology Experiment Facility (CBEF) Vent Fan Cap Open
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRESHKA-R. BUBBLE Dosimeters Transfer to USOS
+Cell Biology Experiment Facility (CBEF) Filter Attachment
+Radiation Dosimetry Inside ISS-Neutrons
+MATRESHKA-R. BUBBLE Dosimeters Activation and Deployment
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Leak Check
+Space Automated Bioproduct Lab, CO2 Meter Location Swap
+Record video of 1 orbit of Earth for CSA outreach
+CIR MDCA Cleanup
+Monitor ИП-1 Air Flow Sensors Installation
+Weekly Checkout of ISS RS Video System
+Set Up Camcorder for BD-2 Exercise Video Recording
+BD-2 Test (Day 3 Exercises)
+Acrobatics in Space
+CIR ACME Hardware Consolidate
+Tear Down Camcorder Used for BD-2 Video Recording and Downlink the Video File
+Space Automated Bioproduct Lab, CO2 Meter Teardown and Stow
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Set up RS3 Laptop for FGB MDM1 Memory Upgrade
+
+ 

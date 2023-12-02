@@ -1,0 +1,143 @@
+
+Veg-04B: The crew performed a routine plant check.  This includes the assessment of individual plant pillows, the addition of water as necessary, and photography of the Mizuna plants.  With earlier versions of the Veggie experiments, the root mat is typically filled when the experiment is initiated.  The research of Veg-04B focuses on the impact of light quality and fertilizer on leafy crop growth for a 56-day grow-out, microbial food safety, nutritional value, taste acceptability by the crew, and the overall behavioral health benefits of having plants and fresh food in space.  A healthy, nutritious diet is essential for long-duration exploration missions, which means that the typical pre-packaged astronaut diet needs to be supplemented by fresh foods during flight; the Veggie Vegetable Production System (Veggie) has begun testing aboard the space station to help meet this need, and validation tests have demonstrated that leafy greens can be grown in spaceflight.
+Systems:
+US Extravehicular Activity (EVA) Battery Charging Discharging Unit (BCDU) 2B2 Replacement (USOS EVA#58): Over the past weekend, when activating the new Li-Ion 2B2 battery BCDU, the converter close command failed. Ground teams have determined that performing an EVA to replace the failed BCDU with a new spare will restore full functionality to the Channel 2B.
+Therefore, today’s USOS EVA#58 has the primary goal to remove the failed Channel 2B BDCU and replace it with a new spare that is currently stored on the Express Logistics Carrier (ELC) #1.  EV1 (Koch) and EV2 (Meir) egressed the Airlock around 6:38 CT for total EVA duration of 07 hours and 17 minutes. The CDR (Parmitano) and FE-9 (Morgan) provided intravehicular (IV) support controlling the Space Station Remote Manipulator System (SSRMS) to assist EV1 to remove the spare BCDU from the ELC#1 location. Overall, EV1 and EV2 completed the following EVA tasks:
+
+Replace Failed 2B2 BCDU with the spare BCDU
+TSOP installation
+CP13 Ethernet Cable Routing (partial)
+EXT MDM Ethernet Cable disconnect
+BCDU MLI removal/tie back
+P6 2B Clean-Up/4B Setup
+
+Furthermore, during the EVA, EV1 (Koch) and EV2 (Meir) spoke with the President of the United States Donald Trump who congratulated them on the first historic all-female EVA.
+Completed Task List Activities:
+
+No Task List Activities completed
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Support Operations
+Mobile Support System EVA support
+
+Look Ahead:
+Saturday, 10/19 (GMT 292)
+Payloads:
+
+
+ESA EPO
+Food Acceptability
+HERMES
+ISS HAM pass
+Standard Measures
+Veg-04B check
+
+Systems:
+
+EVA Debriefs
+EVA EMU Water Recharging 
+
+Sunday, 10/20 (GMT 293)
+Payloads:
+
+
+ESA EPO
+Probiotics
+Veg-04B
+
+Systems:
+
+No planned activities
+
+Monday, 10/21 (GMT 293)
+Payloads:
+
+
+HRP PC ops
+ISS Experience
+MSL hardware relocate
+Veg-04B
+Wetlab hardware consolidate
+
+Systems:
+
+EVA Tool Stow,
+HTV Cargo Ops,
+ACS NORS O2 Terminate
+ACS NORS O2 Transfer
+PMM RSR Transfer
+WHC Partial Fill
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+USOS EVA Comm Config.
+ISS HAM Radio Power Down in Columbus
+ISS HAM Radio Power Down in Service Module
+EVA COTS UHF Communication Unit (CUCU)  Verify off
+Extravehicular Activity (EVA) In-Suit Light Exercise (ISLE) Preparation
+ISS Crew Weekly Conference with Main Real-Time Operations Management Group (ГОГУ) Lead (S-band, S/G2)
+COSMOCARD. Closeout Ops.
+Inventory Management System (IMS) conference
+PAO hardware setup. Video/audio check
+Checking cover closure on SM windows 6, 8, 9, 12, 13, 14
+Crew Prep for PAO
+TV conference with the participants of the International Space Olympiad
+Extravehicular Mobility Unit (EMU) Purge
+Extravehicular Mobility Unit (EMU) In-Suit Light Exercise (ISLE) Prebreathe
+GREAT START. Video Script Review.
+SEPARATION. Activation of [СРВ-У-РС] system.  Starting distillation cycles. Extra-Vehicular Mobility Unit (EMU) In-Suit Light Exercise Prebreathe
+BIOCARD. Operator Assistance During the Experiment and Photography
+BIOCARD. Experiment Session.
+Crewlock Depress
+Crewlock Post Depress
+Crewlock Egress
+P6 2B WORKSITE SETUP
+SSRMS SETUP
+SSRMS EVA Support
+BCDU MLI REMOVAL
+EXTERNAL MDM DISCONNECT
+REMOVE SPARE BCDU
+ASSIST SPARE BCDU REMOVAL
+DECONFIGURE SSRMS
+Filling ЕДВ from Progress 442 (DC1) Rodnik H2O Tank 2
+Change-out of adjustable length hoses in the Condensate Water Processing System [СРВ-К2М].
+REMOVE FAILED BCDU
+ASSIST FAILED REMOVAL/HOLD SPARE BCDU
+Regenerative Environmental Control and Life Support System (ECLSS) Urine Processor Assembly (UPA) Brine Filter Change-out
+INSTALL SPARE BCDU
+ASSIST INSTALL SPARE BCDU
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain
+RETURN FAILED BCDU TO A/L
+VEG-04B Plant Check/Watering for each Plant Pillow
+SEPARATION. Deactivation of [СРВ-У-РС] system. Log-file downlink.
+BCDU SKIRT TIE-DOWN
+P6 2B CLEANUP/4B SETUP
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain Pt 2
+СОЖ maintenance
+Regenerative Environmental Control and Life Support System EDV Drain Initiation
+TSOP INSTALL
+CP13 CABLE ROUTE
+Vacuum cleaning ventilation grille on FGB interior panels (201, 301, 401)
+Regenerative Environmental Control and Life Support System EDV Drain Termination
+EVA Crew Lock Ingress
+Crewlock Pre Repress
+Crewlock Repress
+Extra Vehicular Activity (EVA) Post-EVA Activities
+Temperature and Humidity Control (THC) Intermodule Ventilation (IMV) Flow Measurement Survey
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Private Medical Conference (PMC)
+Photo/TV Extravehicular Activity (EVA) Camera Disassembly
+EVA Glove Photo Setup
+Photo/TV Extravehicular Activity (EVA) GoPro Downlink
+Extra Vehicular Activity (EVA) Post-EVA Activities
+EVA Glove Photo Downlink
+Private Medical Conference (PMC)
+IAS-EVA-COMM DCNFG
+
+ 

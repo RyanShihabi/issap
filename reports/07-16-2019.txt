@@ -1,0 +1,100 @@
+
+Multi-purpose Small Payload Rack (MSPR): The crew performed the Florescence Microscope setup and inserted a test sample in preparation for upcoming Space Moss activities following SpX-18 arrival. The MSPR is a multipurpose payload rack system used in the JEM. It has two workspaces and a worktable that can be used for wide fields of space environment utilization including science and educational missions.
+Muscle Tone in Space (Myotones): The crew completed skin markings measurements to support the Myotones experiment. Myotones investigation observes the biochemical properties of muscles during long-term exposure to the spaceflight environment. Results from this investigation are expected to provide insight into principles of human resting muscle tone, which could lead to the development of new strategies for alternative treatments for rehabilitation both on Earth and for future space missions.
+Rodent Research-17 (RR-17): The crew stowed Rodent Habitats 2, 3, and 4. RR-17 uses younger and older mice as model organisms to evaluate the physiological, cellular and molecular effects of the spaceflight environment. Some responses to spaceflight in humans and model organisms such as mice resemble accelerated aging. This investigation provides a better understanding of aging-related immune, bone, and muscle disease processes, which may lead to new therapies for use in space and on Earth.
+Veg-04A: Veggie facilities 1 and 2 were relocated from Express Rack (ER) 3 to ER 9B. Veg-04A, Veg-04B, and Veg-05 investigation is a phased research project to address the need for a continuous fresh-food production system in space. A healthy, nutritious diet is essential for long-duration exploration missions, which means that the typical pre-packaged astronaut diet needs to be supplemented by fresh foods during flight. Veggie has begun testing onboard the ISS to help meet this need, and validation tests have demonstrated that leafy greens can be grown in spaceflight. The research of Veg-04A focuses on the impact of light quality and fertilizer on leafy crop growth for a 28-day grow-out, microbial food safety, nutritional value, taste acceptability by the crew, and the overall behavioral health benefits of having plants and fresh food in space. 
+Joint Station Local Area Network (JSL LAN) Version 12.0 Deployment: This afternoon, ground teams will load JSL Version 12.0 onboard ISS. This version of JSL will update IT security, incorporate manual changes since JSL 11.1, update new infrastructure to accommodate the subnet for External High Definition Cameras (EHDC) and High Definition EVA Camera Assemblies (HECA). Tomorrow Office 365 will be loaded onto the Station Support Computers (SSCs) in preparation for the Soyuz 59 crew arrival. The remaining ISS SSCs will be loaded with Office 365 next week.
+Completed Task List Activities:
+
+PMA1 screen clean
+PWC charging
+Thermal Amine power setup
+MELFI 1, 2, 3 pressure check
+Node 2 deck 2 cleanup
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+High Beta ops
+Rodent Research habitat stow
+JSL v12.0, Moxa firmware, O365 deploy
+
+Look Ahead:
+Wednesday, 7/17 (GMT 198)
+Payloads:
+
+
+CIR/ACME Igniter Replace (NASA)
+Clean Bench relief Valve checks (yearly) (JAXA)
+Express Rack 1 power switch photo (NASA)
+ISS Experience LAB intro recording (NASA)
+Standard Measures (NASA)
+HERMES Facility install and Cassette insert and checkout (NASA)
+Express Rack 4 Z-book setup and s/w load (NASA)
+MELFI N2 pressure checks (NASA)
+AMS Laptop Relocate to Columbus module (NASA)
+PBR Power troubleshoot (NASA)
+
+Systems:
+
+ER1 rack power switch inspection
+AMS laptop relocate
+
+Thursday, 7/18 (GMT 199)
+Payloads:
+
+
+KUBIK  (5,6) connect to portable power sply (ESA)
+Florescence Microscope reconfiguration (JAXA)
+Standard Measures (NASA)
+ISS Experience Stow (NASA)
+MSL ops review and Motor Valve R&R and water loop chk (NASA)
+HERMES Vacuum vlv to open (NASA)
+
+Systems:
+
+Dragon OBT Offset Grapple
+MSL motor valve R&R
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Myotones Device Setup with EPM Laptop
+Myotones Measurements
+Setting up and connecting Crew Onboard Support Kit (КСПЭ) Equipment for MPEG2 TV coverage from SM
+Russian Public Affairs Office (PAO) Event via Mpeg2
+Myotones Device Data Transfer
+Transfer of Sony PMW-200 camcorder to SM for Wide Band Comm System (ШСС) MDM2 current measuring MPEG2 video area
+EveryWear App Configuration
+Measuring Wide Band Comm System (ШСС) MDM2 current consumption
+ER9B BSSPCM Config
+Robotic Workstation (RWS) Setup
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Turning off camcorder, TV System control equipment
+Multimeter setup. Installation, connection, and activation of ТБУ No.05 at +4 C mode
+ТБУ No.05 housing temperature check
+LAB RWS Video Checkout
+Microscope Item Gathering
+Microscope (MS) Familiarization
+Rodent Research Habitat Stow
+Microscope Setup in Multi purpose Small Payload Rack (MSPR) Work Volume (WV)
+Rodent Research Habitat Stow
+ТБУ No.05 chamber left side wall temperature check. Securing the thermocouple on the right side wall inside ТБУ-В No.05 chamber
+Changeout of ПФ1 & ПФ2 Dust Filters
+Rodent Research Habitat Stow
+VEGGIE1 Facility Relocation into EXPRESS Rack
+Changeout of ПФ1 & ПФ2 Dust Filters
+VEGGIE Facility Relocation into EXPRESS Rack
+ТБУ No.05 chamber right side wall temperature check. Deactivation and Disassembly of ТБУ-В No.05 Thermostat
+Microscope (MS) Test Sample Install
+Verification of ИП-1 Flow Sensor Position
+Telescience Resource Kit Laptop Troubleshooting.
+USOS Airlock Depress Pump Test Init
+USOS Airlock Depress Pump Test Term
+ABOUT GAGARIN FROM SPACE. HAM Radio Session with the participants of U.N. Sultanov Aerospace School
+
+ 
+ 

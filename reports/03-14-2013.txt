@@ -1,0 +1,115 @@
+
+New Status:
+32 Soyuz (S) Undock Preparation: The Soyuz Landing Commission postponed the 32S landing by one day due to weather conditions at the landing site near Arkalyk, Kazakhstan.  Specialists are continuing to monitor the weather conditions at the landing site, and ground teams are re-working the landing plan for tomorrow.
+Spinal Ultrasound: Marshburn completed his second of three planned Spinal Ultrasound scans with Ford as the operator and with remote guidance from the ground team. The Crew Medical Restraint System (CMRS) was used for subject positioning.  Spinal Ultrasound aims to use ground and space-based studies to characterize spinal changes during and after spaceflight.  Ground based pre- and post-flight Magnetic Resonance Imaging (MRI) and high fidelity ultrasound, combined with in-flight ultrasound will be used to characterize and assign a mission health risk to microgravity-associated spinal alterations for back pain and potential injury. This research will determine the accuracy of MRI and musculoskeletal ultrasound in characterizing the anatomy of the vertebral unit and develop novel imaging and training methodologies.
+Coarsening in Solid-Liquid Mixture (CSLM): Hadfield is scheduled to terminate processing of sample run #3 and will install the 4th sample to prepare for vacuum protocols planned for tomorrow morning.  CSLM-3 is a materials science investigation that studies the growth and solidification processes (i.e., coarsening) in lead-tin solid-liquid mixtures that contain a small amount of tin branch-like (dendrite) structures, some of which possess many arms. During sample heating, the growth at the tip of each dendrite continues over time, whereas side branches, behind the tip, develop during constant temperature conditions. By understanding how temperature and time control the growth of such dendrites, researchers hope to develop more efficient and economical means of producing higher quality products derived from the casting of molten metals.
+Capillary Flow Experiment (CFE): Marshburn completed the third of three CFE-2 Interior Corner Flow (ICF)-9 test vessel sessions.  Following these sessions he tore down and stowed the hardware and video tapes. The findings of these sessions will lead to the definition of future ICF-9 objectives.  CFE is the study of passive capillary driven redistribution of liquid in a container in microgravity resulting from specific fluid properties, 3-D geometry of the container, and spontaneous phase separation characteristics when bubbles are introduced into the liquid. CFE is a suite of fluid physics experiments that investigate capillary flows and flows of fluids in containers with complex geometries. Results will improve current computer models that are used by designers of low gravity fluid systems and may improve fluid transfer systems on future spacecraft.
+Cell Bio Tech Demo (CBTD): Marshburn removed a ziplock bag containing 3 sample bags and photographed the contents following the incubation period. Samples were stored in the Minus Eighty Laboratory Freezer for ISS (MELFI). The focus of Cell Bio Tech Demo is to demonstrate the performance of candidate fluid flow path components and sample handling devices in the space flight environment for design and development of the new ISS life science incubator, Bioculture System.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES):  Hadfield downloaded data from both the Smartphones used during the SPHERES Smartphone IVA Survey completed on December 13, 2012.
+Previous Status (3/13/13)
+Change of Command:  Off-going Commander (CDR) Ford will hand over ISS command responsibilities to CDR Hadfield at approximately 4:10 pm CDT.  The change of command is more than ceremonial, as it defines the point when the 33Soyuz (33S) crew becomes the prime crew in the event of an ISS emergency.  The 33S crew consisting of Hadfield, FE-4 Romanenko, and FE-6 Marshburn will remain onboard the ISS until their return, currently planned for May 14, 2013.
+
+Coarsening in Solid Liquid Mixture 3 (CSLM-3) Experiment:  Hadfield terminated vacuum venting begun yesterday and started the processing of the 3rd of 6 planned runs of the experiment. These samples will be returned to the ground on SpX-2.  CSLM-3 is a materials science investigation that studies the growth and solidification processes (i.e., coarsening) in lead-tin solid-liquid mixtures that contain a small amount of tin branch-like (dendrite) structures, some of which possess many arms. During sample heating, the growth at the tip of each dendrite continues over time, whereas side branches, behind the tip, develop during constant temperature conditions. By understanding how temperature and time control the growth of such dendrites, researchers hope to develop more efficient and economical means of producing higher quality products derived from the casting of molten metals.
+Capillary Flow Experiment  (CFE):  Marshburn completed the first of 2 runs of this experiment, scheduled for today and tomorrow. Today Marshburn used a CFE-2 vessel to perform several Interior Corner Flow tests. These tests show the passive capillary driven redistribution of liquid in a container in low-g due to the specific fluid properties and 3-D geometry of the container and the spontaneous phase separation characteristics of such flows when bubbles are introduced into the liquid. CFE is a suite of fluid physics experiments that investigate capillary flows and flows of fluids in containers with complex geometries. Results will improve current computer models that are used by designers of low gravity fluid systems and may improve fluid transfer systems on future spacecraft.
+Cell Bio Tech Demo (CBTD): Marshburn extracted a yeast sample from a container and injected the sample into a media storage bag filled with growth medium. After transferring the sample, Marshburn sealed the media bag by cutting and crimping the tube. This process was repeated for two more identical trays. Finished bags were temporarily stowed in a Cargo Transfer Bag (CTB) for 28 hours incubation. Photos will be taken and samples will be stored in the Minus Eighty Laboratory Freezer for ISS (MELFI). The focus of Cell Bio Tech Demo is to demonstrate the performance of candidate fluid flow path components and sample handling devices in the space flight environment for design and development of the new ISS life science incubator, Bioculture System.
+Window Observational Research Facility (WORF) Software Load: Hadfield loaded the Rack Interface Controller (RIC) 8 software onto the WORF using the EXpedite PRocessing of Experiments to Space Station (EXPRESS) 6 Laptop Computer (ELC) and WORF Laptop Computer (WLC).  The new software allows future software loads to the RIC to be performed from the ground with no crew interaction required.
+Minus Eighty-Degree Laboratory Freezer for ISS (MELFI) 1 Coldbox Inspection:  Based on small amounts of corrosion found on the EU connector that was recently returned, the crew inspected the on-orbit MELFI-1 to better understand the root cause and if the problem still exists.  The crew collected a water and debris sample using a cotton swab, which will return on SpX-2 for ground analysis.
+32 Soyuz (32S) Preparations for Return:  Today crewmembers (Ford, Novitskiy, Tarelkin) performed final packing of 32S, except for cold samples to be loaded just before hatch closure tomorrow.  Ford removed the DOSIS 3D Passive Detectors from the Columbus module (COL) and handed them over to Novitskiy for loading into 32S.  DOSIS-3D determines the radiation field parameters absorbed dose and dose equivalent inside the ISS with various active and passive radiation detector devices, aiming for a concise three dimensional dose distribution (3D) map of all the segments of the ISS.
+Today’s Planned Tasks
+· Reaction Self Test  [Complete] 
+· SM ПСС (Caution & Warning Panel) Test  [Complete] 
+· Reboot Laptop RS2(1)  [Complete] 
+· Reload Laptop RSS1, RSS2 / r/g 1009  [Complete] 
+· Reaction Self Test  [Complete] 
+· ТК 707 Stowage Ops / r/g 1593  [Complete] 
+· EPM – Laptop Activation  [Complete] 
+· CIR Alignment Guide Installation  [Complete] 
+· USND2. Hardware Activation  [Complete] 
+· SPINAL. Scanning Ops  [Complete] 
+· РСПИ (Data Transmission Radio Link). РСПИ Service Data Dump from БСПН (Payload Server) via RSS1 / r/g 1814 [Complete] 
+· MOST. Samples Retrieval from MELFI  [Complete] 
+· AQUARIUM. Kit Acceptance and Transfer from USOS to ТК  r/g 1805  [Complete] 
+· AQUARIUM. Kit Handover Photography / r/g 1806  [Complete] 
+· MOST – USOS crew hands over Kit to Russian crew for return on ТК 707  [Complete] 
+· SPINAL. Scanning Assistance  [Complete] 
+· ТК 707 Stowage Ops / r/g 1593  [Complete] 
+· Removal of Air Quality Monitor (DTO) In prep for deploying new GFE Air Quality Monitors [Complete] 
+· CFE Test Ops [Complete] 
+· AQM – Activation and Checkout [Complete] 
+· JRNL – Journal Entry [Complete] 
+· Food Frequency Questionnaire [Complete] 
+· ТК 707 Transfer Status Report (S-band) / r/g 1593 [Complete] 
+· SHD – Weekly Questionnaire Data Entry [Complete] 
+· Ultrasound 2 – Deactivation and Stowage [Complete] 
+· Photography of the external surface of ТК 707 СА hatch cover  r/g 0284 [Complete] 
+· Set up video equipment to record ARED exercise [Complete] 
+· ARED Flywheel Cylinder Evacuation [Complete] 
+· Downlink photo of the external surface of СА ТК hatch/manhole door via OCA [Complete] 
+· USOS Window Shutter Closure [Complete] 
+· Stow Video Equipment Used for ARED Exercise Video [Complete] 
+· ARED Lubrication [Complete] 
+· Comm Check and Ops from ТК 707 via RGS / Ascent and Descent,  [Complete] 
+· CFE Teardown [Complete] 
+· Activation of ТК 707,  Removal of ССД301 Light in ТК БО for SM Spares and Comm Check r/g 1818 [Complete] 
+· Pack ССД301 to 0.5 СТВ 1177 (006626J,СМ1РО_4_АСУ) or bag 410-9 (00054220R, МИМ1_ПT_304_1, Reflect changes in IMS  [Complete] 
+· Comm config for ТК 707 Undocking and Descent / Communications System [РТК], 8 [Complete] 
+· P/L Playback Start [Complete] 
+· CBTD – Photography [Complete] 
+· SBTD – Sample Insertion into MELFI [Complete] 
+· Equipment config for TV Coverage / r/g 1816  [Complete] 
+· Columbus Front Deck Rack Front Restow [Complete] 
+· Removal and  of Quick-Release Screw Clamps on MRM2 side, Inspection after Removal [Complete] ,
+· Ham Radio Deactivation [Complete] 
+· ТК-MRM2 Hatch Closure.   [Deferred] 
+· Hatch Close TV Coverage (Recording) / Ascent and Descent, r/g 1816 [Deferred] 
+· ТК-MRM2 Hatch Closure. [Deferred] 
+· Hatch Closure TV Coverage [Deferred] 
+· TV downlink of Hatch Closure (Ku-band) / r/g 1816 [Deferred] 
+· ТК 707- MRM2 hatch leak check / Ascent and Descent, 9,  [Deferred] 
+· Downlink MRM2-ТК Interface Video (Ku-band) [Deferred] 
+· TV System Deactivation. Deactivation of КСПЭ Equipment after Hatch Closure Coverage from MRM2 / r/g 1816 [Deferred] 
+· HRF2 Photography [Complete] 
+· СОЖ Maintenance.  [Complete] 
+· SPHERES – Smartphone Data Retrieval [Complete] 
+· IMS Update  [Complete] 
+· NASA MPEG2 Viewer Activation on SSC ЦП, Monitoring MPEG2 multicast  [Complete] 
+· CWC Audit
+· Life On The Station Photo and Video / r/g 0974 [Complete] 
+· Comm Reconfig after ТК 707 Undocking / Communications System [РТК],  [Complete] 
+· CSLM2 – Start data transfer [Complete] 
+· ON MCC GO Reconfigure MRM2-ТК PEV to CLOSED position
+· Close NASA MPEG2 Viewer Application on CP SSC Laptop / r/g 1817
+· Downlink ТК 707 Undocking TV Data / r/g 1817  [Deferred] 
+· CSLM2 – SPU Replacement [Complete] 
+· P/L Closeout Ops [Complete] 
+· ISTOCHNIK-M. Preparations for carrying out measurement r/g 1815 [Complete] 
+· ISTOCHNIK-M. Activation of TLM Recording Mode from ТК. r/g 1815 [Complete] 
+· ISTOCHNIK-M Closeout Ops / r/g 1815 [Complete] 
+· Nominal Comm Reconfig after ТК 707 Landing / Communications System [РТК],  [Complete] 
+· PFE Reminder
+· Reaction Self Test
+Task List
+· CEO Ops 
+· IMS Edit
+· SSC data gather (FE-6)
+· SSC data gather (FE-5)
+· SSC data gather (CDR)
+· WHC EDV R&R
+· WHC KTO Replace
+· Roscosmos Report
+· Uragan photo
+· ECON photo
+· Elektron VM search
+· SSC HDD stow
+· CSA Video Scripts 5
+· EPO Dual Field Demo
+· IFM N1 Aft hatch clean
+· PPFS poster print
+· Tool kit poster print
+· CMS HRM watch ops
+· Tritel C/O
+· ISS Ham Headset Move
+· Lab QD mitten repair
+
+Ground
+· Nominal Commanding

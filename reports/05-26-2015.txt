@@ -1,0 +1,77 @@
+
+Fine Motor Skills (FMS): Kelly and Kornienko performed their Flight Day 60 FMS sessions this morning.  In the Fine Motor Skills experiment, crew members perform a series of interactive tasks on a touchscreen tablet. Fine motor skills are crucial for successfully interacting with touch-based technologies, repairing sensitive equipment, and a variety of other tasks. In Fine Motor Skills, crew members perform a series of interactive tasks on a touchscreen tablet. The investigation is the first fine motor skills study to measure long-term microgravity exposure, different phases of microgravity adaptation, and sensorimotor recovery after returning to Earth gravity. 
+Handhold Experiment Platform (HXP) Installation: Today, the JEM Airlock outer hatch was opened and slide table extended for the Small Fine Arm (SFA) to grapple the HXP and install on one of the handrails of the JEM Exposed Facility (JEF).  The HXP is composed of several exposure experiments which will remain attached to the JEF for approximately one year, collecting data on material interactions to long duration space exposure.
+Permanent Multipurpose Module (PMM) Relocation Preparation:  In support of tomorrow’s PMM relocation, the crew installed the Centerline Berthing Camera System (CBCS) on Node 3 Forward hatch this morning.  Later, they configured PMM for egress by deactivating lights, closed Node 1 Remotely Actuated Motorized Valve (RAMV), removed Inter-module Ventilation (IMV) and remaining power and data jumpers, then closed the PMM hatch.  Once the PMM hatch was closed, the crew performed Node 1 Nadir CBM Control Panel Assembly (CPA) installation, connected Node 1 bulkhead feedthrough power cable, installed the Center Disk Cover, closed Node 1 Nadir Hatch, and depressurized the vestibule. PMM relocation from Node 1 Nadir to Node 3 Forward is planned for tomorrow morning starting at approximately 4:30 am CDT.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+Virus Definition File Update On Auxiliary Computer System Laptops
+CORRECTION. Logging Liquid and Food (Medication) Intake
+WRS – Recycle Tank Fill
+JEMRMS laptop activation
+JEM airlock table deployment towards JEF
+PHS equipment setup
+Spacer installation to facilitate opening SM interior panel locks (pnl 434) (kit with structural elements (004890R, ФГБ1ПГО_4_427_1, CTB No.1112 (004106J))
+CONTROL. “Indicator-ISS” payload measurement mode switch
+CBCS setup
+JEMRMS – start BUS monitoring
+Periodic Health Status (PHS) Evaluation
+Fine Motor Skills – Experiment Ops
+MORZE. Psychophysiological Evaluation: Cattell Test
+Central berthing camera setup and checkout on Node3
+CALCIUM Experiment. 8th Run.
+БРИ (Smart Switch Router) Reconfig.
+PHS data log and equipment stow
+Periodic Fitness Evaluation (PFE)
+ISS RS Air Analysis using ГАНК-4М
+MOTOCARD. Experiment Ops.
+FINEMOTR – Experiment Ops
+MOTOCARD. Experiment Assistance
+Checking ВП-2 (Pilot’s Sight) Functioning and Comm Interfaces.
+[В3] Fan Grille Scrubbing in DC1
+Reorganize the Stow in Node1
+PMM Deactivation and Hatch Closure prior to Relocation
+MORZE. Psychophysiological Evaluation: Strelau Test
+PMM Vestibule Configuration, Part 1
+ИП-1 Positioning Check
+MORZE. Closeout Ops
+JEM Airlock Slide Table Retraction and Outer Hatch Closure
+HXP- photography – part 1
+PMM Vestibule Configuration, Part 1
+WHC – fill (start)
+CORRECTION. Logging Liquid and Food (Medication) Intake
+Monitoring Condition of RS Structural Surfaces Using МВП-2К Device – Preparation.
+OBSTANOVKA. Obstanovka Data Downlink from БСПН to RSS1 Laptop (start)
+PROBOY. RSЕ1 Laptop Ops.
+PROBOY. Penetration Simulator Ops
+WHC – fill (end)
+Node1 CPA docking mechanism installation
+JEMRMS Arm monitoring – end
+WRS – fill for processing from EDV
+PMM Vestibule Configuration, Part 1
+PROBOY. Data Copy and Downlink
+JEMRMS USB Memory Virus Check
+JEMRMS – Data Transfer to SSC, Deactivation and Power Cable Disconnection
+JEMRMS Bus Monitor Cable Teardown
+Node 1/PMM Vestibule Depressurization and Leak Check, Part 1
+СОЖ Maintenance
+Spacer installation to facilitate opening SM interior panel locks (pnl 435) (kit with structural elements (004890R, ФГБ1ПГО_4_427_1, CTB №1112 (004106J))
+Private Special Conference (PSC)
+OBSTANOVKA. Obstanovka Data Downlink from БСПН to RSS1 Laptop (termination)
+CONTENT. Experiment Ops
+CORRECTION. Logging Liquid and Food (Medication) Intake
+
+Completed Task List Items
+
+None 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+CBCS Checkout
+PMM Deactivation
+CBM Checkout
+Node 1/PMM Vestibule Depressurization and Leak Check
+

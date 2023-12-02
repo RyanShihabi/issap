@@ -1,0 +1,115 @@
+
+Combustion Integration Rack (CIR) / FLame Extinguishment Experiment (FLEX)-2J Fiber Arm Replacement:  Kelly replaced the FLEX-2J Fiber Arm today as part of routine maintenance operations for the CIR.  He removed the Multi-user Droplet Combustion Apparatus (MDCA) Chamber Insert Assembly (CIA) from the CIR Combustion Chamber, and restrained it on the Maintenance Work Area (MWA) work surface. After replacing the Fiber Arm, he reinstalled the MDCA CIA back into the CIR Combustion Chamber.  FLEX-2J studies the interactions of flames on the motion and ignition of millimeter-sized droplets. Results can provide fundamental insight into the physics of fuel burning, which improves computer models designed to reduce emissions and improve fuel consumption efficiency in space and on Earth.
+ 
+Journals:  Kelly completed a Journal activity today. The Journals investigation obtains information on behavioral and human issues that are relevant to the design of equipment and procedures used during astronauts during extended-duration missions. Study results provide information used in preparation for future missions to low-Earth orbit and beyond.
+ 
+Ras Labs-CASIS-ISS Project for Synthetic Muscle: Resistance to Radiation (Synthetic Muscle):   Lindgren obtained a set of historical photos of the synthetic muscle samples.  He then transfered the photos to a Station Support Computer (SSC) for downlink. The purpose of this investigation is to measure the effects of radiation on proprietary synthetic muscle materials in space and earth environments. Robots made of these materials could provide assistance to humans in space, enhance survivability of robots during deep space travel, and provide support in extreme radiation environments on Earth.
+ 
+MAGVECTOR Experiment Run Completion:  The fifth run of European Space Agency’s (ESA’s) MAGVECTOR investigation was completed and Lindgren transfered data from the run to a SSC for downlink. MAGVECTOR qualitatively investigates the interaction between a moving magnetic field and an electrical conductor. The expected changes in the magnetic field structure on the Ram and Wake side of the electrical conductor are of interest for technical applications as well as for astrophysical research.
+ 
+Node 1 Nadir Berthing Port Preparation:   As part of USOS Reconfiguration, Lindgren and Yui routed two power cables from the Lab Aft Starboard Endcone into the Overhead Starboard Standoff.  Today’s activity required the crew to rotate the LAB1O6 rack.  Although the power cables were not connected today, these cables will eventually provide power from Node 2 to the Node 1 Nadir Berthing Port and the Node 1 Galley Rack.  Additional Lab cable routing is scheduled to occur tomorrow, September 30th.
+ 
+Mobile Servicing System (MSS) Ops:   Overnight, Robotics Flight Controllers activated the MSS and performed a Space Station Remote Manipulator (SSRMS) walk off from Node 2 to Mobile Base System (MBS) Power Data Grapple Fixture (PDGF)-1.  Once the walk off was complete, they maneuvered the SSRMS in preparation for a Latching End Effector (LEE) A survey by the crew.  Kelly then performed a regularly scheduled snare cable inspection and an inspection of the latches as a follow up from the LEE-A lubrication performed during an Extravehicular Activity (EVA) in February 2015.  Once the inspections were complete, Robotic Flight Controllers maneuvered the SSRMS in preparation for a Mobile Transporter (MT) translation from Worksite 5 to Worksite 2.  The translation is currently in work.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+ 
+
+IMMUNO. Saliva Sample (Session 1)
+Laptop RS1(2) Reboot
+IMMUNO. First stress test, questionnaire data entry
+Calf Volume Measurement
+IMMUNO. Test-Tube Blood Collection (finger)
+IMMUNO. Blood Sample Processing
+IMMUNO. Equipment Stowage
+ВКС Laptops Antivirus Scan Check and Status Report
+EVA – Inspection of EVA Equipment Tethers
+CORRECTSIA. Logging Liquid and Food (Medicine) Intake
+Optical Coherence Tomography (OCT) Setup
+VCA1 Camera Adjustment
+COSMOCARD. Closeout Ops
+WRS Water Sample Analysis
+Life On The Station Photo and Video
+Study of veins in lower extremities
+Lab Forward and Power Cables Routing – Big Picture Words
+PTV-LEE – Camera Setup for Inspection
+PTV – SSRMS LEE Inspection Part One
+OCT Eye Examination
+LAB Power Cable Gathering
+SPHERES – Battery Replacement
+PILOT-T. Experiment Ops
+PGS2 – Sample Retrieval
+LAB Power Cable Routing
+PGS2 – Setup Ops
+Replacement of ГА СО filter unit, CO sensors, fan in ГЛ 2106 ГА СО
+PGS2 – Sample Insertion
+OCT Hardware Stowage
+LAB Power Cable Routing – Assistance
+DAN. Experiment Ops
+PTV – SSRMS LEE Inspection Part Two
+PGS2 – Hardware Ops
+SPHERES – Battery Replacement
+Switching ГЛ 2106 to Operation mode
+RELAKSATSIYA.  Charging battery for Relaksatstiya experiment
+JRNL – Journal Entry
+ГЛ 2106 Operation Monitoring via Laptop
+HAM radio session from Columbus
+Post-Exercise Hygiene Procedure
+SPHERES – Battery Replacement
+CIR – Rack Doors Open
+CIR – Combustion Chamber Front Rack Door Open
+АСН-К Tests Closeout Ops
+CORRECTSIA. Logging Liquid and Food (Medicine) Intake
+MORZE. NEIROIMMUNITET. CORRECTSIA. Experiment setup
+Search for SM PCE Feeder Test Equipment
+PTV – SSRMS LEE Inspection Part Three
+TOCA Data Recording
+TOCA Waste Water Bag (WWB) Changeout
+СОЖ maintenance
+Clearing Stowage from LAB Racks
+MDCA – Hardware Replacement
+Plant Gravity Sensing (PGS2)  Operations
+UBNT – Equipment Setup
+IMS Delta File Prep
+Performing SCU and EMU DCM Inspection
+SYN_MUSCL – Photography
+WRS – Recycle Tank Fill
+On-orbit hearing assessment using EARQ
+MAGVEC – USB Transfer
+RELAKSATSIYA. Mounting hardware on CQ window No.1
+CIR – Combustion Integrated Rack Chamber Closure
+Fundoscope – Dilation Drops
+CIR – Rack Doors Closure
+Fundoscope – Dilation Drops
+PTV – SSRMS LEE Inspection Part Four
+Fundoscope – OCT Eye Examination
+RELAKSATSIYA. Parameter Settings
+Post-Exercise Hygiene Procedure
+RELAKSATSIYA. Observation
+Fundoscope Removal and Stowage
+IMMUNO. Saliva Sample (Session 2)
+PGS2 – Hardware Ops
+IMMUNO. Second stress test, questionnaire data entry
+IMMUNO. Final Equipment Stowage
+SPHERES – Battery Stowage
+CIR – Viewing Introduction Video
+RELAKSATSIYA. Closeout Ops
+NEIROIMMUNITET. Saliva Sample
+CORRECTSIA. Logging Liquid and Food (Medication) Intake
+Preparation of reports for Roscosmos site
+ECON-M. Observations and Photography
+
+ 
+Completed Task List Items
+
+Inc. 44 Safety Video Follow-Up [In Work]
+PMM Rack Front Cleanup [In Work] 
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Robotic ops for SSRMS LEE Survey
+MT Translation from Worksite 5 to Worksite 2 [In Work]
+
+ 

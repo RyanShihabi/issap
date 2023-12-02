@@ -1,0 +1,93 @@
+
+X2R12.1 Software Transition:  Today the ground team completed the X2R12.1 software update that was started on Saturday.  All activities were successfully performed and the system is back in nominal configuration.  The X2R12.1 software update provides enhancements to the following Multiplexer/Demultiplexer (MDM)s: External (EXT), Internal (INT), Payload (PL), Lab (LA)-3, Starboard Thermal Radiator (STR), Port Thermal Radiator (PTR), Starboard (S)1, Port (P)1.  It also updates the Portable Computer System (PCS) software to version 15.1.
+Salivary Markers: Flight Engineer (FE)-3 Swanson set up the saliva and blood collection hardware over the weekend and collected his Flight Day 10 samples this morning. Swanson will continue to collect saliva samples throughout the week. These samples will be used to measure markers of latent viral reactivation (a global indicator of immune impairment and infection risk) in conjunction with salivary antimicrobial proteins and immune cell functional assays. This research study will help identify if there are any risks of an adverse health event in crewmembers due to an impaired immune system. Maintaining a robust immune system during prolonged spaceflight missions (i.e., to other planets or asteroids) will be important to ensure mission success. If any impairment in immunity is found due to spaceflight, this will allow the development of appropriate countermeasures to help mitigate the risks.
+FLame Extinguishment Experiment (FLEX-2) Operations: ISS CDR Wakata removed the Combustion Integration Rack (CIR) alignment guides which isolate the rack.  This allows ground teams to start another FLEX-2 test point via ground commanding.  FLEX-2 uses small droplets of fuel to study the special burning characteristics of fire in space. The FLEX-2 experiment studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning. The results from these experiments will give scientists a better understanding how fires behave in space and will provide important information that will be useful in increasing the fuel efficiency of engines using liquid fuels.
+Binary Colloidal Alloy Test (BCAT)-Low Gravity Phase Kinetics Platform (KP) Sample Installation: FE-5 Mastracchio verified the BCAT-KP set up in the JPM and then homogenized the BCAT-KP sample before setting up the camera to take automated images. BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties. The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses.
+Fundamental and Applied Studies of Emulsion Stability (FASES) Troubleshooting: On Monday, March 10th the ground attempted another FASES experiment run but was not able to control the temperature. Mastracchio conducted continuity tests on the Experiment Container (EC) pigtail connector as a part of the continued effort to troubleshoot the FASES hardware. Ground teams will review the data from the continuity test to develop a forward plan.
+Emergency Mask Training and Emergency Hardware Familiarization:  Today, the newly arrived crewmembers FE-1 Skvortsov, FE-2 Artemyev and FE-3 Swanson practiced donning the emergency mask.  During this task, they also confirmed the ability of the crew to communicate with the ground from the Soyuz while wearing an emergency mask.  The crew also completed a review of equipment locations and positions of valves used in emergencies.  The familiarization was led by CDR Wakata with participation from the new crewmembers.  While conducting the review, the crew translated along the emergency egress path to the Soyuz vehicles and confirmed there are no obstructions.
+Today’s Planned Tasks
+
+Laptop RS1(2) Reboot [Complete]
+Inspection of СМ-У Connector on [МНР-НС]  separator pump behind ACY panel 139 [Complete]
+SM ПСС (Caution and Warning Panel) Test / Manual Controls [РСУ] [Complete]
+RSS1,2 Reboot/ R/G 1009 [Complete]
+Calf Volume Measurment [Complete]
+HRF – Sample Collection in preparation for cold storage insertion [Complete]
+МО-8. Setup [Complete]
+Body Mass Measurement [Complete]
+HRF- Sample MELFI Insertion [Complete]
+HRF-Crew powers on Refrigerated Centrifuge and preparation for blood collection [Complete]
+HRF- Blood Collection Assistance [Complete]
+Body Mass Measurement [Complete]
+МО-8. Cleanup [Complete]
+HRF-Refrigerated Centrifuge Configuration  [Complete]
+Daily Planning Conference (S-band) [Complete]
+MERLIN3 – Kits Transfer [Complete]
+VCA1 Camera – Focusing on FSL EC Panel [Complete]
+FSL Laboratory FASES Power Cable – EC Pigtail J101 Connector Measurement Tests [Complete]
+HRF –  Crew removes blood tubes and powers off the Refrigerated Centrifuge [Complete]
+WRS Sample Collection [Complete]
+HRF- MELFI Sample Insertion [Complete]
+HRF- Closeout Ops with the Centrifuge [Complete]
+ISS Crew Orientation[Complete]
+Tightening up of QD screw clamps across the СтА АО SM – Progress 421 interface [Complete]
+Auxiliary Laptop Anti-Virus Update/ R/G 5201 [Complete]
+CONSTANTA. Prep and Execution Run1. Tagup with specialists/ R/G 5194 [Complete]
+CWQMK – Samples Analysis [Complete]
+ISS RS Atmosphere Analysis Using ФЩК ГАНК-4М [Complete]
+VIRTUAL. Setup, Experiment and Closeout Ops Tagup with specialists / R/G 5196 [Complete]
+CONSTANTA. Experiment Photos / R/G 5195 [Complete]
+ПФ1, ПФ2 Dust Filters Replacement and Scrubbing of Grills of В1, В2 Fans in DC1 (FGB1ПГО_4_419_1, Container of Zone 28Б) [Complete]
+FMK Monitor Deployment Ops [Complete]
+Grab Sample Container (GSC) Sampling Operations [Complete]
+Air Ducts ВД1 and ВД2 Cleaning in DC1 [Complete]
+ISS Crew Orientation [Complete]
+ECG Daily registration (initiation) / R/G 5197 [Complete]
+СОЖ Maintenance [Complete]
+Emergency Mask Review OBT [Complete]
+Exercise Data Downlink / R/G 2639
+ISS Crew Orientation [Complete]
+Water Analysis Using MCD [Complete]
+SHD – Daily Questionnaire [Complete]
+TOCA – Potable Water Dispenser (PWD) Sample Analysis [Complete]
+ICS – Comm Checkout from JEM [Complete]
+ISS Emergency Hardware Familiarization Drill [Complete]
+54P Stowage Ops with IMS Update / R/G 5106, 5203
+Journals Entry [Complete]
+Photography of Batavia Lettuce Sample / R/G 5178 [Complete]
+ISS Crew Orientation
+BCAT –  H/W Setup Check [Complete]
+Preparation for Signal-VM ДС-7А smoke sensor replacement. Tagup with the specialists/ R/G 5202 [Complete]
+BCAT – start of sample collection [Complete]
+54P Stowage Ops with IMS Update / R/G 5106, 5203
+TOCA – Data Recording [Complete]
+IMS Update
+Daily Planning Conference (S-band) [Complete]
+
+Task List
+
+ARED Cylinder Evac
+Dragon ROBOT Self Study [In work]
+CMO Proficiency Training [Complete]
+WHC EDV R&R
+Roscosmos report
+TK-712 Transfer
+Econ photo
+EHS CSACP Battery Build [Complete]
+Printer Swap – SM [In Work]
+IFM Failed GLA report [Complete]
+T2 Cue Card print [Complete]
+ARED cylinder flywheel reconfig
+Cygnus pregather [In Work]
+Emergency Cue Card check [Complete]
+Food Warmer Setup
+Glenn Harness Inspection [Complete]
+HMS Med Kit Photos
+IFM LHA R&R
+NORS Prep A/L Reconfig [In work]
+WHC Piping Retrieval
+
+Ground
+
+X2R12.1 Software transition [Complete]
+

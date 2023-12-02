@@ -1,0 +1,105 @@
+
+BioFabrication Facility (BFF): The crew removed the test Cartridge from the BFF facility. The BFF is dedicated to manufacturing human organs and tissues in space, primarily for use by patients on Earth. Besides printing tissue, the BFF also can help maintain the health of deep space exploration crews by producing food and personalized pharmaceuticals on demand.
+Transparent Alloys-SEBA: The crew installed the Transparent Alloy hardware into the MSG Work Volume and took documentation photos. The aim of the Transparent Alloys-SEBA (Solidification along an Eutectic Path in Binary Alloys) experiment is to study the morphological instabilities of directional solidified, transparent binary eutectic alloys under purely diffusive conditions. This experiment provides a real-time observation of the dynamics of eutectic front structures with a micron-scale resolution, over a large (centimetric) space scale, and over long (several 10 hours) periods of time. These observations are strongly sensitive to convective motions in liquid, which, in ordinary conditions on earth, entail a detrimental redistribution of the solute on a scale comparable to the container size. Such convective motions are suppressed in microgravity.
+OsteoOmics: The crew was performing the BioCell Media Changeout for BioCell Habitat S/N 1 but the activity was aborted when the crew reported visible contamination in each of the six cells. The Cells were double bagged and placed into cold stowage for return. Two of the media syringes were bagged and placed into cold stowage for return. Millions of Americans experience bone loss, which results from disease or the reduced effects of gravity that can occur in bed-ridden patients. OsteoOmics tests whether magnetic levitation accurately simulates the free-fall conditions of microgravity by comparing genetic expression osteoblastic cells, a type of bone cell, levitated in a high-field superconducting magnet with cells flown in low-Earth orbit. This information helps scientists determine the molecular and metabolic changes that take place in magnetic levitation and real microgravity.
+Systems
+SpaceX (SpX)-20 Arrival Preparations: In preparation for SpX-20 Dragon capture, currently planned for March 9th, the crew completed an offset grapple OBT training session where they took turns flying the Space Station Remote Manipulator System (SSRMS) into the grapple envelope of the Permanent Multipurpose Module (PMM) Flight Releasable Grapple Fixture (FRGF). This training is designed to maintain the crew’s robotics training proficiency.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+ACLS from Standby to CCA SA Operations
+EPS Solar Array Voltage Maximum Power
+OsteoOmics-2 Media Change Support
+PRO LSG Facility Commanding
+MSS Reconfiguration for SpX-20 Capture
+Transparent Alloys Hardware Setup Support
+SIGI Rate Data Dump [aborted]
+BFF Cassette Swap Support
+
+Friday, 3/6 (GMT 066)
+Payloads:
+
+
+Fluid Science Lab- MultiScale Boiling Exp Container removal and stow (ESA)
+FSL Soft Matter Dynamics H/W install (ESA)
+CBEF Disinfection Condition chk for Space Moss (JAXA)
+JEM Water Recovery (JWRS) cable connection t/s (JAXA)
+Food Physiology Briefing (NASA)
+MELFI Icebrick installs (NASA)
+Transparent Alloy Cartridge Install  (17 day run) (NASA)
+Food Acceptability (NASA)
+OsteoOmics Media Changeout S/N 2 (NASA)
+
+Systems:
+
+Dragon Rendezvous Operations Review
+RWS Camera Overlay Calibration
+Dragon Robotics Onboard Trainer OBT Session 2
+
+Saturday, 3/7 (GMT 067)
+Payloads:
+
+
+No crew activities
+
+Systems:
+
+Crew off duty
+
+Sunday, 3/8 (GMT 068)
+Payloads:
+
+
+HRF Saliva Collect Setup (NASA)
+
+Systems:
+
+Crew off duty
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Reminder HRF Generic Frozen Blood Collection
+Reminder Portable O2 Monitor (POM) Reading
+HRF Generic HRF Centrifuge Frozen Blood Collection 25 Minutes Subject
+HRF Generic HRF Centrifuge Frozen Blood Collection Operator
+HRF Generic HRF Centrifuge Frozen Blood Collection Configuration
+HRF Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+HRF Generic MELFI Sample Insertion
+HRF Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+Actiwatch Plus HRF Rack 2 Setup Alternate
+SEPARATION. Preparing a bootable flash drive.
+TIMER. Preparation, marker setup and measuring.
+Red Eye Stowage Preparation
+Transparent Alloys Hardware Setup
+TIMER. Specialized Movements.
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+BioFabrication Facility Test Cassette Removal
+Actiwatch Plus HRF Rack 2 Stow Alternate
+TIMER. Closeout Ops
+Node 3 PCS Power on Cobalt Brick
+FSL-SMD-RUBI-SWAP activity Big Picture Words read
+On-board Training (OBT) Dragon Offset Grapple
+PAO Preparation
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+TV Conference with the participants of the contest “Planet Duty Officer”
+Installation of warning labels on DC1 panel.
+OsteoOmics-2 Media Relocate
+Dragon Cargo Operations Conference
+Rerouting cables for БД-2 treadmill strain gauge – gathering tools, r/g review.
+LSG Primary Crew Restraint Unfold
+OsteoOmics-2 Media Change
+On MCC Go: Vacuum Cleaning of ПН28-120 Voltage Converter for SM printer (behind panel 231А)
+Replacing E-K pre-treat container and [E-K] hose in [АСУ] system
+LSG Primary Crew Restraint Fold
+CONTENT. Experiment Ops
+OsteoOmics-2 MELFI Sample Removal
+Reminder Portable O2 Monitor (POM) Reading
+
+ 

@@ -1,0 +1,25 @@
+
+Payloads
+Confined Combustion: The crew prepare Confined Combustion samples for flame test operations and conducted tests with ground assistance from the Principle Investigator (PI). Confined Combustion examines the behavior of flame as it spreads in differently shaped confined spaces in microgravity. Flame spread observations are translated into mathematical models for use in understanding the results and applying them to areas with different shapes.
+Plant Water Management: The crew primed the Plat Water Management experiment and set the intervalometer on Digital Camera to start a 48 hr Plant Water Management-Soil Experiment. The Plant Water Management investigation demonstrates passive measures for controlling fluid delivery and uptake in plant growth systems. Reduced gravity creates challenges in providing adequate fluid and nutrition for plant growth. This investigation examines using other physical properties such as surface tension, wetting and system geometry to replace the role of gravity.
+SERFE (Spacesuit Evaporation Rejection Flight Experiment): The crew extracted water from the SERFE Hardware for post-flight analysis and stowed the used Contingency Water Container (CWC).
+SERFE demonstrates a new technology to remove heat from spacesuits and maintain appropriate temperatures for crew members and equipment during space walks. The technology uses evaporation of water for cooling. The investigation determines whether microgravity affects performance and evaluates the technology’s effect on contamination and corrosion of spacesuit material.
+Vascular Echo was not performed today. Ops were deferred and are being planned for a later date. 
+WetLab-2 One-Step Gene Sampling Tool: The crew completed cleanup and stowage of the WetLab-2 Hardware. One-Step Gene Sampling Tool to Improve the ISS Bioanalytical Facility (One-Step Gene Sampling Tool) tests a technology that collects ribonucleic acid (RNA) directly from tissue. It enables faster genetic analysis of multiple samples without the need to destroy the specimen, as traditional technology requires. These brief and repeatable screening experiments can help researchers make more informed decisions regarding when to terminate plant or animal growth investigations and extract the full genetic library.
+Systems
+Lithium Rechargeable Extravehicular Activity (EVA) Battery Assembly (LREBA) Operations: The crew initiated battery maintenance (autocycle) operations for LREBAs 1004 and 1005 using both channels of the Extravehicular Mobility Unit (EMU) Lithium-Ion battery charger and the 28-volt Power Supply Assembly (PSA) Utility Power Outlet (UPO). The EMU Lithium-Ion battery charger is powered on 28-volt only in order to limit the maximum charging current delivered to the LREBAs. 
+EVA High Definition EMU Camera Assembly (HECA) Configuration: The crew configured the HECA with its antennas and then connected the HECA to a Rechargeable EVA Battery Assembly (REBA). Once configured, the ground performed an activation and checkout. The crew deconfigured the HECA from the antennas and REBA after the checkout.
+Cygnus Robotic on Board Trainer (RoBOT): FE-10 and FE-12 set up the RoBOT and completed an offset grapples proficiency training session.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+MSS Hover Maneuver
+Crew Dragon System Checkout
+MCA Zero Calibration
+NORS Troubleshooting Support Commanding
+Lab CDRA Activation
+

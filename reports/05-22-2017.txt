@@ -1,0 +1,98 @@
+
+External (EXT) Multiplexer/Demultiplexer (MDM)-1 Failure: On Saturday EXT MDM-1 experienced an anomaly. Attempts to recover the MDM remotely were unsuccessful.  Ground Teams configured EXT MDM-2 as primary and set up systems for the next worse failure per established Flight Rules. An IMMT was held Sunday and directed Team 4 to assess the feasibility of performing an Extravehicular Activity (EVA) to remove and replace (R&R) the failed unit. Team 4 recommended an EVA tomorrow, May 23rd.  Today, the crew prepared for the EVA by configuring and auditing EVA Tools, reviewing procedures, performing an Extravehicular Mobility Unit (EMU) Water Recharge, and configuring the Airlock. 
+Mobile Servicing System (MSS) Operations: Yesterday Robotics Ground Controllers powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) to perform a video and imagery survey of the Latching End Effector B (LEE-B) snare cables using the P1 Upper Outboard (UPOB) External High Definition Camera (EHDC).  Once the survey was completed the Ground Controllers maneuvered the SSRMS to a park position.  The plan was to walk the SSRMS off Mobile Base System (MBS) Power Data Grapple Fixture 4 (PDGF4) onto the Node 2 PDGF but it was decided to delay this until after the External Multiplexer/Demultiplexer 1 (EXT-MDM 1) EVA. 
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N): After retrieving the eight Space Bubble Detectors from the Russian crew, the USOS crew deployed the detectors in Node 3 for the Radi-N2 experiment. The Canadian Space Agency’s RaDI-N investigation uses the bubble detectors to measure neutron radiation levels in the ISS.
+Grip Commissioning:  The crew deployed Grip hardware in the Columbus module central aisle.  With support from a second crew member, they attached a chair on a seat track and the first crewmember performed commissioning tasks in the seated configuration. The Grip investigation tests how the nervous system takes into account the forces due to gravity and inertia when manipulating objects. Results may provide insight into potential hazards for astronauts as they manipulate objects in different gravitational environments, support design and control of haptic interfaces to be used in challenging environments such as space, and provide information about motor control that will be useful for the evaluation and rehabilitation of impaired upper limb control in patients with neurological diseases.  
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Personal Data Prep for Return
+MAG3D Extra Crew time
+Transfer of Thermal Protection Jackets [ТЗК] from Soyuz 733
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+MORZE. SPRUT-2 examination. Specialist conference
+Inspect [МНР-НС] [СМ-У] connection behind ASU panel 139, [РУ2], [РУ4], [РУ5] behind [ДКиВ] panel 454 and the transparent 5182-03 hose running from [ДКиВ] to [МНР]
+SPLANH. Photography during the science operation
+MORZE. Psychophysical examination. adjustment, SENSOR
+On MCC Go БМП Ф1 absorption cartridge cycling (start)
+Ultrasound 2 HRF Rack 1 Power On
+Extravehicular Activity (EVA) Tool Configuring
+Fluid Shifts Ultrasound 2 Data Export Alternate
+MATRYOSHKA-R. Memory card prep for return and BUBBLE dosimeter initialization
+KORREKTSIYA. Liquid and food (medicine) intake parameter logging
+Radiation Dosimetry Inside ISS-Neutrons Hardware Handover
+MATRYOSHKA-R. BUBBLE dosimeter handover to USOS
+Radiation Dosimetry Inside ISS-Neutrons
+MATRYOSHKA-R. BUBBLE dosimeter initialization and deployment for exposure
+Fluid Shifts Ultrasound 2 Data Export Alternate
+Extravehicular Activity (EVA) Procedure Review
+Pille Sensor prep for USOS EVA
+SPLANH. [ЭГЭГ] recording term and closeout Specialist conference
+MORZE. Psychophysical examination. adjustment, SENSOR
+КАВ sampling from СРВ-К2М down to ФГС using ROS samplers – init
+ISS Crew departure preparation
+Metal Oxide (METOX) Regeneration Termination
+Extravehicular Activity (EVA) Tool Audit.
+JPM Window Shutter Close
+Adjusting Кентавр protective suit
+ISS HAM Service Module Pass
+Conference of ГПСК specialists with returning crew
+Robotic Workstation (RWS) Lab Setup
+KORREKTSIYA. Liquid and food (medicine) intake parameter logging
+Photo TV GoPro Setup
+FAGEN. MSK #6 sample fixing and deployment in SM, photography
+[ОСП] niche and payload container stow under 49S central seat. Refer to comment 7
+Extravehicular Mobility Unit (EMU) Water Recharge
+Extravehicular Activity (EVA) Procedure Conference
+Extravehicular Activity (EVA) iPad Contingency Procedures preparation
+FGB interior panel grids vacuuming (panels 201, 301, 401)
+Delta file prep
+CSA Generic Frozen Blood Collection Setup
+Crew Departure Preparations for Return to Earth
+Equipment Lock (E-LK) Preparation
+Evening Preparation Work
+LAB BelAir Wireless Access Point (WAP) Verification
+ISS HAM Radio Power Down
+On MCC Go БМП Ф1 absorption cartridge cycling (end)
+Reminder 1 Fine Motor Skills
+KORREKTSIYA. Liquid and food (medicine) intake parameter logging
+
+Completed Task List Items
+
+Extravehicular Mobility Unit (EMU) Swap [Completed GMT 140]
+PAO EduTECH recorded downlink message [Completed GMT 140]
+Veggie 03 Pillow Watering and Photo [Completed GMT 140]
+Cygnus Saffire and Cargo Photo take [Completed GMT 141]
+EESA PAO items pregather for OA-7 disposal [Completed GMT 141]
+ESA Active Dosimeter Area Monitoring Mobile Unit Stow [Completed GMT 141]
+Battery Stowage Assembly (BSA) Operation Termination [Completed GMT 141]
+Extravehicular Activity (EVA) Airlock Unstow [Completed GMT 141]
+Battery Stowage Assembly (BSA) Operation Termination [Completed GMT 141]
+Extravehicular Mobility Unit (EMU) Cuff Checklist Print [Completed GMT 141]
+Portable Onboard Computers (POC) Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review [Completed GMT 141]
+US EVA EXT MDM Procedure Review [Completed GMT 141]
+EVA IDA Cable Stow [Completed GMT 141]
+EMU Long Life Battery (LLB)/Metal Oxide (METOX) Installation [Completed GMT 141]
+Extravehicular Mobility Unit (EMU) Long Life Battery (LLB) Terminate [Completed GMT 141]
+Metal Oxide (METOX) Regeneration Initiation [Completed GMT 141]
+Rechargeable EVA Battery Assembly (REBA) Powered Hardware Checkout [Completed GMT 141]
+EVA RET Inspection [Completed GMT 141]
+Simplified Aid for EVA Rescue GN2 Check [Completed GMT 141]
+Extravehicular Activity (EVA) Tool Configuring [Completed GMT 141]
+Google Street View Cupola Photo Operations [Completed GMT 141]
+HRF Ultrasound 2 Battery install [Completed GMT 141]
+HRF Ultrasound 2 Remove Swap [Completed GMT 141]
+JEM Stowage Consolidation Follow-up [Completed GMT 141]
+USB Jumpdrive Restow at MagVector Front Panel [Completed GMT 141]
+Optional Microscopy Session [Completed GMT 141]
+OA-7 Trash Gather [Completed GMT 141]
+Charging EVA Camera D4 Battery [Completed GMT 141]
+Photo/TV EVA Camera Configuration [Completed GMT 141]
+Veggie 03 Pillow Watering and Photo [Completed GMT 141]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+EVA preparation support
+49S TPS survey
+

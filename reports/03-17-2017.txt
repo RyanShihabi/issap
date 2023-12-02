@@ -1,0 +1,77 @@
+
+Tracking and Data Relay Satellite (TDRS) 275 Failure: On Wednesday evening, White Sands Facility reported a timeout of the 275 satellite. This resulted in a loss of both S-band and Ku-band communications. The ISS team worked to fill comm gaps where possible.  As of Friday, Network Specialists are still troubleshooting the issue with TDRS 275.  Currently TDRS 275 is expected to return to operations on Monday.  There have been no significant impacts to operations.
+Dragon Departure Preparations:  The crew completed a computer based training session to review the Dragon departure documentation and a Robotic Onboard Trainer (ROBoT) session which included two simulated Dragon release runs.  The crew have also successfully transferred Polar-1, Polar-2, Polar-3, and General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER)-5 to Dragon.  All units are providing good data and are actively cooling.
+SpX-10 Sample Return Preparations: In support of this weekend’s SpX-10 departure, the crew stowed NanoRacks Module 9, NanoRacks Platform 1, and Simple Solar Neutron Detector.  This morning, the crew moved the temporarily stowed APEX-04 Kennedy Space Center (KSC) Fixation Tube (KFT) to Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for conditioning prior tomorrow’s Double Cold Bag packing.
+At Home In Space Questionnaire: The crew attempted to answer the second of two At Home in Space questionnaires, however due to issues with the app the crew was unable to complete the questionnaire. Ground teams are looking into the issue. The Canadian Space Agency (CSA) experiment, At Home in Space, assesses culture, values, and psychosocial adaptation of astronauts to a space environment shared by multinational crews on long-duration missions. It is hypothesized that astronauts develop a shared space culture that is an adaptive strategy for handling cultural differences and they deal with the isolated confined environment of the spacecraft by creating a home in space. At Home In Space uses a questionnaire to investigate individual and culturally related differences, family functioning, values, coping with stress, and post-experience growth.
+Japanese Experiment Module (JEM) Remote Manipulator System (RMS):  Overnight, Ground Robotics Controllers activated the JEMRMS and stowed the Small Fine Arm (SFA) on the SFA Storage Equipment (SSE).  They then deactivated the JEMRMS.  Next Tuesday, the JEMRMS will grapple the JEM Exposed Facility (EF).  The crew removed the Launch Lock and Mount, performed a sharp edge inspection and performed a fit check of the Wrist Vision Equipment (WVE) camera. These tasks are in preparation for changeout of the JEMRMS WVE camera planned during the Extravehicular Activity (EVA) on March 24, 2017. 
+Advanced Resistive Exercise Device (ARED) Flywheel Set Screw Tightening: There are 4 Flywheels in ARED that provide inertial smoothing of an exercise cycle, avoiding a jerky exercise cycle. Each flywheel has 2 set screws that are torqued annually. The two left flywheels for the left ARED cylinder each have had 1 of 2 set screws whose torque could not be verified because the torque wrench would not fit. A redesigned tool was flown on HTV6 and used yesterday to successfully torque all 8 set screws.
+Robotic Work Stations (RWS) Remote Power Controller Module (RPCM) Failure: Today, during checkout of the Lab and Cupola RWS, RPCM LAS52A3B-A RPC-4 would not close.  This RPC powers Common Video Interface Unit (CVIU)-4 for the Cupola RWS.   Investigation of the signature indicates it is an FET Controller Hybrid (FCH) failure and must be Removed and Replaced (R&R’d). During the investigation, ground teams uncovered that RPC 1 may have a similar failure, and the Video Tape Recorder (VTR)-2 load on this RPC was previously declared failed. R&R of this RPCM has minimal powerdown impacts and is easily accessed.
+The result of this failure is only 2 of 3 Cupola RWS monitors are available. Only 2 RWS monitors are required for Visiting Vehicles capture and release. Additionally, a PCS (Portable Computer System) can be deployed in the Cupola for a third monitor if desired. There is no impact to the upcoming Extravehicular (EVAs) since these robotic operations are ground controlled. Ground teams are evaluating R&R of RPCM LAS52A3B-A next week. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+IMS Tagup
+Payload Stowage Reconfiguration
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Setup
+APEX-04 MELFI Sample Insertion
+PILOT-T. Preparation for the experiment.
+Nikon still camera sync with station time
+Polar Express Rack Uninstall, Transfer, Handover and Dragon install
+Polar Express Rack Uninstall, Transfer and Handover
+PILOT-T. Experiment Ops.
+At Home In Space Questionnaire [Aborted]
+Vacuum cleaning ventilation grille on FGB interior panels (201, 301, 401)
+On-board Training (OBT) Dragon Departure Review
+MRM1-FGB Screw Clamp Tightening
+RELAKSATSIYA Hardware Setup.
+Glacier #5 Dragon Transfer
+On-board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT) Release
+RELAKSATSIYA.  Parameter Settings Adjustment
+Polar Express Rack Uninstall, Transfer, and Dragon Install
+RELAKSATSIYA. Observation
+RELAKSATSIYA. Closeout Ops and Hardware Removal
+Rodent Research. Cleaning Rodent access module
+PAO Preparation
+Strata Status Check
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+PAO Preparation
+Public Affairs Office (PAO) Event in High Definition (HD) – JEM
+Recharging Soyuz 732 Samsung PC Battery (if charge level is below 80%)
+Photo/TV Photo/TV, Checking Camcorder Settings
+Double Coldbag Pack Review
+Long Duration Sorbent Testbed Status Check.
+Robotics Work Station (RWS) Display and Control Panel (DCP) Checkout
+NanoRacks Platform-1 Modules Removal
+Rodent Research. Stowage of Habitat Module
+MELFI Sample Insertion into a Box Module
+NanoRacks Module 9 Ops Session 5
+Simple Solar Neutron Detector Hardware Stow
+Dragon Vestibule Outfitting Kit (VOK) Gather
+Double Coldbag Pack Review
+JEM Remote Manipulator System Wrist Vision Equipment (WVE) Z-93 Precautionary Unpack
+Space Headaches – Weekly Questionnaire
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+JEMRMS Wrist Vision Equipment (WVE) Preparation for EVA.
+СОЖ Maintenance
+В3 Fan Screen Cleaning in MRM2
+JEM Remote Manipulator System Wrist Vision Equipment EVA Tool Configuration
+Rodent Research. Stowage of Habitat Module
+JEM Remote Manipulator System Wrist Vision Equipment (WVE) Z-93 Stow
+PCG-5 Hardware Deactivation and Stow
+PCG-5 Hardware Photography
+Pressurized Mating Adapter 3 (PMA 3) Leak Check Term
+IMS Update
+Terminate Soyuz 732 Samsung PC Battery Recharge (if necessary)
+Rodent Research Habitat Stow          
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+JEMRMS SFA Stow
+Dragon ROBoT support
+Dragon O2 Transfer
+

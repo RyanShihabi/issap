@@ -1,0 +1,53 @@
+
+Asia Try Zero-G: The crew performed the ASIA TRY ZERO-G experiment.  The crew performed science experiments on themes proposed by six different countries throughout Asia.  The downlinked video will be used to promote the understanding of space activity for Asian countries.
+Electrostatic Levitation Furnace (ELF) Troubleshooting: The crew is troubleshooting the ELF facility.  The crew removed hardware from the Multi-Purpose Small Payload Rack (MSPR)-2 and connected the laptop via USB to provide the ground the ability to load software to the ELF subunits.  Troubleshooting is scheduled to continue through Friday, September 16th.  The Electrostatic Levitation Furnace (ELF) is an experimental facility designed to levitate/melt/solidify materials by containerless processing techniques using the Electrostatic Levitation method. With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved. The ELF is located in the JEM Multipurpose Small Payload Rack (MSPR) in Kibo.
+Phase Change Heat Exchanger (PCHx): The crew began the installation of the PCHx into EXpedite PRocessing of Experiments to Space Station (EXPRESS) Rack (ER)-8.  The crew was initially unable to mate the Low Temperature Loop (LTL) Quick Disconnect (QD) to complete the PCHx installation.  After further troubleshooting, the crew was able to mate the LTL supply line, and continued with PCHx Installation.  The crew will check for any leaks and ground teams will continue with verification.  The primary objective of the PCHx Project is to create a unique test platform utilizing the EXPRESS Rack on the ISS to advance the technology readiness level of phase change heat exchangers for infusion into future exploration vehicles. Phase change material heat exchangers are a useful technology that helps certain space missions in regulating the thermal conditions on their particular spacecraft. They serve as a supplemental heat rejection device during time-varying heat loads and/or transient environments. It does so by storing waste energy by melting a phase change material during peak loads. It can then reject this energy through a radiator when conditions allow, causing the phase change material to freeze. 
+NanoRack Cubesat Deployer (NRCSD) #9 Deployment: Ground controllers deployed the first of four pairs of Planet Lab DoveSats from the NRCSD #9.  One solar array on the first cubesat and both solar arrays on the second cubesat deployed early, which was an expected possibility and there are no impacts.  The remaining three pairs of cubesats will be deployed through tonight’s crew sleep period.  This deployment titled “Flock 2” is a fleet of nanosatellites designed, built and operated by Planet Labs Inc., and will enable imagery of the changing planet to be taken on a frequent basis, with humanitarian and environmental applications ranging from monitoring deforestation and the ice caps to disaster relief and improving agriculture yields in developing nations. 
+Nitrogen/Oxygen Recharge System (NORS) Setup and Oxygen Transfer: The crew demated and stowed a depleted O2 recharge tank and then installed a new O2 recharge tank and configured NORS to transfer O2 to the US Airlock High Pressure Gas Tanks (HPGTs).
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Electrostatic Levitation Furnace (ELF) Item Gathering
+DOSETRK Data Input
+Monthly Inspection of T2 Treadmill System
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop
+ASIAN Experiment Ops
+CARDIOVECTOR. Experiment
+Phase Change HX (PCHX) Hardware Setup
+Preparation and Configuration Setup for Remote RS Laptop on USOS
+Testing RS Remote Laptop with КЦП1 and КЦП2
+Tear Down of Remote RS Laptop Setup
+JEMAL Experiment Ops
+Vacuum Cleaning of ВД1 and ВД2 air ducts in DC1
+XF305 Camcorder Settings Adjustment
+MSPR2 Hardware Removal
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) Hard Drive
+O2 Transfer Termination
+MSPR2 Hardware Removal
+JEMAL Hardware Setup
+JEMAL Closeout Ops
+ELF Hardware Reconfiguration
+OTKLIK. Equipment Check
+Measuring Partial CO Pressure in RS using US portable CSA-CP device
+INTERACTION-2. Experiment Ops
+PCHX Hardware Setup
+Multi Omics (MO) Kits Setup 
+IMS Delta File Prep
+CUBESAT Hardware Photography
+Atmosphere Control System (ACS) Nitrogen and Oxygen Recharge System (NORS) Start Oxygen Transfer 
+HMS Defibrillator Inspection
+EMU Metox Regeneration
+ELF Electrostatic Levitation Furnace Cable Change 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+JEMRMS retrieval of NRCSD from JEMAL
+NRCSD deploy (4)
+Phase Change Heat Exchanger activation
+Battery 4B1 reconditioning
+

@@ -1,0 +1,82 @@
+
+HII Transfer Vehicle (HTV)6 Launch:  HTV6 launched from Tanegashima Space Center, Japan at 7:26 am CST today. Capture is scheduled for next Tuesday, December 13 at 5:00 am CST. 
+Group Combustion: The crew performed additional troubleshooting on JAXA’s Multi-Purpose Small Payload Rack (MSPR) contained Group Combustion experiment.  After removing the Combustion Chamber and installing it on the Work Bench, the crew verified that the air supply line joints of the Group Combustion Module were fully mated and tightened appropriately.  The Group Combustion investigation tests a theory that fuel sprays change from partial to group combustion as flames spread across a cloud of droplets. In the Multi-purpose Small Payload Rack in the Kibo module, droplets of decane, a component of gasoline or kerosene, are arranged randomly on thin-fiber lattice points, and the flame and droplet positions and temperature distribution are measured as the flame spreads. Microgravity blocks convection, which on Earth would quickly disperse the droplets and combustion products before such measurements could be made. 
+Vascular Echo: Today the crew performed a portable Doppler leg ultrasound measurement in support of the Vascular Echo experiment.  Twice, the crew exercised for one minute, then collected data, with a remote guider providing assistance from the ground. This Canadian Space Agency (CSA) investigation examines changes in blood vessels, and the heart, while the crew members are in space, and then follow their recovery on return to Earth. The results could provide insight into potential countermeasures to help maintain crew member health, and quality of life for everyone.
+Veg-03 Harvest:  The crew performed their second of four harvests of Outredgeous Red Romaine Lettuce from the Veggie facility. This harvest will be stowed in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for return on a future flight. The four harvests will occur over a 60-day growth period. The overall goal of Veg-03 is to further demonstrate proof-of concept for the Veggie plant growth chamber and the planting pillows using ‘Outredgeous’ Red Romaine lettuce. Future long-duration missions into the solar system, will require a fresh food supply to supplement crew diets, which means growing crops in space. Previous investigations focused on improving productivity in controlled environments, but the limited quarters of the space shuttle and ISS made it difficult to conduct large-scale crop production tests. Veg-03 expands on previous validation tests of the new Veggie hardware, which crew members will soon use to grow cabbage, lettuce and other fresh vegetables in space. Tests determine which types of microorganisms are present in space-grown cabbage, providing baseline data for future crop-growing efforts. Behavioral health surveys assess the impact of growing plants on crew morale and mood.
+Cool Flames Investigation (CFI) Inspection: In preparation for the future installation of the Cool Flames Investigation into the Combustion Integration Rack (CIR), the crew performed an inspection of the three cameras and associated lenses, looking for shatterable/frangible material.  The crew configured the Maintenance Work Area (MWA) and containment system with the vacuum attached, then inspected the Hi Bit-depth Multi-Spectral (HiBMS), Low Light Level Ultraviolet (LLL-UV), and Illumination Package cameras and lenses.  Upon completion, the Imaging Packages were returned to their stowage location. CFI provides new insight into the phenomenon where some types of fuels initially burn very hot, then appear to go out — but they continue burning at a much lower temperature, with no visible flames (cool flames). Understanding cool flame combustion helps scientists develop new engines and fuels that are more efficient and less harmful to the environment.
+HTV6 Preparations:  The crew gathered the Centerline Berthing Camera System (CBCS) and vestibule outfitting equipment.  They installed the CBCS in the Node 2 Nadir hatch window and the ground performed a checkout.
+Node 3 (N3) Carbon Dioxide Removal Assembly (CDRA): Overnight there was a true overcurrent trip to the N3 CDRA Valves (Remote Power Controller Module (RPCM) N31A41B4A_A). This is a first for the N3 CDRA.   The ground team commanded the N3 CDRA to standby and activated the Lab CDRA.  The ground team commanded the N3 CDRA to standby and activated the Lab CDRA. During the day, the N3 CDRA RPC was successfully reclosed and N3 CDRA is operating.  Lab CDRA will be commanded to standby after good N3 CDRA performance is verified.
+Internal Thermal Control System (ITCS) Fluid System Servicer (FSS) Lab Refill: Yesterday, the crew used the FSS to add ITCS coolant to the Lab Low Temperature Loop (LTL) accumulators, Columbus Water Pump Assembly (WPA) accumulator, Japanese Experiment Module (JEM) ITCS Moderate Temperature Loop (MTL), and Node 1/Node 3 line.  Today, the crew drained and stowed the FSS and associated jumpers.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+HRF Generic Urine Collection
+HRF Generic Sample MELFI Insertion Operations
+HRF Generic Frozen Blood Collection
+HRF Generic Refrigerated Centrifuge Configuration
+ALGOMETRIYA. Pressure and Thermal Mode Algometry preparation for and measurement session
+Fine Motor Skills Experiment Test – Subject
+Inventory Management System (IMS) conference
+Fluid System Servicer (FSS) Teardown and Stow
+XF305 Camcorder Setup
+BIOCARD. Operator Assistance During the Experiment
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) Retrieval.
+Comm config for conference from SM via S/G 2 for UDOD experiment
+UDOD. Assistance with DYKNANIYE-1 and SPRUT-2 Sets during the Experiment
+Group Combustion Module (GCM) Air supply Line Retighten.
+СОЖ maintenance
+Regenerative Environmental Control and Life Support System (RGN) WSTA Fill
+HRF Generic Frozen Blood Collection Conclude Stow
+Fluid System Servicer (FSS) Internal Thermal Control System (ITCS) Potable Water Reservoir (PWR) Stowage
+EML Gas Valves Closing
+Installation of valve 6969 as the second regulated bypass on separation assembly [УС].
+Combustion Chamber Top Plate Attachment.
+Multi-purpose Small Payload Rack (MSPR) Combustion Chamber (CC) Installation
+HRF Generic Sample MELFI Retrieval Insertion Operations
+Environmental Health System (EHS) Acoustic Dosimeters – Data Transfer and Stow
+VEG-03 Science Harvest
+Advanced Resistive Exercise Device (ARED) Rope Tensioning
+SM Comm Reconfig for Nominal Ops
+VEG-03 MELFI Insertion #2
+Strata Status Check
+Vascular Echo Exercise PDOP Measurement – Subject
+Centerline Berthing Camera System (CBCS) and Vestibule Outfitting Equipment Gather
+Combustion Integrated Rack Inspection Hardware Gather
+ALGOMETRIYA. Pressure Algometry Measurement Ops
+Delta file prep
+Storage Battery Current Converter ПТАБ-1М Temperature Check (pos. А307).
+Combustion Integrated Rack MWA Prep
+Inventory Management System (IMS) Conference
+ПТАБ-1М Temperature Check (pos. А307), assistance
+Combustion Integrated Rack MWA Containment System Setup
+Centerline Berthing Camera System (CBCS) Installation and Checkout
+PILOT-T. Preparation for the experiment.
+Combustion Integrated Rack Lens Inspection
+TV conference for Special Report program
+PILOT-T. Experiment Ops.
+Combustion Integrated Rack Inspection Hardware Return
+ПТАБ-1М Temperature Check (pos. А307).
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+PILOT-T. Closeout Ops.
+Aerosol Samplers Cartridge Removal
+CONTENT. Experiment Ops
+Space Headaches – Weekly Questionnaire
+ALGOMETRIYA. Pressure and Thermal Algometry Measurement Session. Closeout Ops
+
+Completed Task List Items
+
+Veggie 03 Pillow Watering
+HTV5 Trash Staging
+EVA Medium ORU Bag Cam Buckle Inspection
+EVA IDA Reflectory Bag Location
+At Home In Space Addendum Questionnaire
+Manufacturing Device Feedstock Trim
+EVA Damaged Retractable Equipment Tether (RET) Stow
+EVA Procedure Review
+EPO Expo Message
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+CBCS Checkout
+

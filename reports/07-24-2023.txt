@@ -1,0 +1,33 @@
+
+Payloads:
+Astrobee: The perching arm was removed from the Astrobee flyer. Astrobee is made up of three free-flying, cube-shaped robots. These robots are designed to help scientists and engineers develop and test technologies for use in microgravity to assist astronauts with routine chores and give ground controllers additional eyes and ears on the space station. The autonomous robots, powered by fans and vision-based navigation, perform crew monitoring, sampling, and logistics management, and can accommodate up to three investigations.
+Genes in Space-10: Genes in Space-10 Run 3 was performed in order to demonstrate the use of the mini-Polymerase Chain Reaction (miniPCR) and the Fluorescence Viewer to detect Deoxyribonucleic acid (DNA) lengths. Genes in Space-10 validates a method for measuring and analyzing  DNA length aboard the ISS using fluorescent samples that may be analyzed by sight. The length of DNA fragments is important data for many applications and research fields, including medical diagnostics and understanding biological mechanisms such as the connection between telomere length and aging. No onboard assay currently exists to measure DNA length, and this investigation may fill that gap.
+Glovebox Freezer: Glovebox Freezer was setup in the Life Science Glovebox (LSG), and leak checks were performed as part of troubleshooting efforts. The Glovebox Freezer integrates into the LSG and Microgravity Science Glovebox (MSG) to provide rapid freeze capability in support of biological sciences.
+Surface Avatar: The Surface Avatar Remote Control Terminal (RCT) was checked out, and session protocols were performed. Surface Avatar: Multi-Avatar and Robots Collaborating with Intuitive Interface (Surface Avatar) investigation evaluates how effectively multiple robots can be commanded in scalable autonomy under conditions in space. Surface Avatar also seeks to provide information on how well the robot operator responds to haptic feedback, and – crucially – what the challenges and sticking points are for a real orbit-to-ground setup to operate robots remotely.
+Systems:
+In-Flight Maintenance (IFM) Remote Power Control Module (RPCM) LA1B_B Remove and Replace (R&R): After rotating the Minus Eighty Laboratory Freezer for ISS 3 (MELFI-3) rack down to access the Lab RPCMs, the crew performed an R&R of the failed LA1B_B, LA1B_F, and LA1B_C RPCMs. RPCMs are part of the station’s secondary power distribution system and contain solid-state, or electromechanical switches, called Remote Power Controllers (RPCs). RPCs can be remotely commanded to control the flow of power through the distribution network and to the users.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Functional Check: As part of preventive maintenance, the crew performed steps to activate the spare TOCA and cycle the Gas Mass Flow Controller to mitigate potential failure of the spare TOCA. TOCA primarily serves as a general indication of overall water quality of the Water Processor (potable water). A trackball was used to navigate the TOCA menus in lieu of the touchscreen, which was reported as being non-functional during a previous checkout attempt.
+JPM Gigabit Ethernet Cable (W1101) Installation and Joint-Station LAN (JSL) Configuration: The crew connected the new upgraded gigabit (Cat-6) ethernet cables for JSL between Node 2 and JPM.  The previous Cat-5 cable to JPM was disconnected, and the new Cat-6 cable was connected to the 20-port network switch. Cable end-to-end functionality was also tested using Ethernet Tester.  As part of this activity, JPM suffered a brief JSL outage.
+Waste and Hygiene Compartment (WHC) Manual Fill Initiation and Termination: Today, the crew initiated a manual fill of the WHC EДВ-СВ (Water Container) using a Post-Flight Analysis Bag to capture any pressure relief to protect the dose pump. The fill was then terminated, and the Post-Flight Analysis Bag was analyzed after the pressure relief burp. The ЕДВ-CB is intended for short-term storage and manual water transportation between facilities. After successfully filling the EДВ-СВ, the crew returned the WHC to nominal use.
+Regenerative Environmental Control and Life Support System (ECLSS) Oxygen Generation System (OGS) Hydrogen Sensor On-Orbit Replaceable Unit (ORU) Purge Adapter (HOPA) Operations: The crew purged the OGS Hydrogen Sensor with dry oxygen to prevent the possibility of condensation on the sensor when OGS is unpowered.  Under normal operations, the Hydrogen Sensor ORU provides redundant detection of a hydrogen leak in the oxygen outlet.  This activity was required for electrical safing prior to the RPCM R&R activity.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+SPS Safing/Safing Removal
+ETHOS LA-1 MDM Transition Pre-configuration
+JEM 1553 Checkout/Safing
+Temperature and Humidity Control P6 Common Cabin Air Assembly Deactivation
+CDH MDM
+OGS Activation after LA-1 MDM Activation.
+Four Bed CO2 Scrubber Activation/Deactivation
+IATCS Transition to Single Low Temperature Loop after LA-1 MDM Transition
+ECLSS/ITCS/PTCS Reconfiguration for LA-1 MDM Transition
+PRO MELFI 3 Timeliner Activation/Deactivation Commanding [In-work]
+CDH GNC MDM Swap [Planned]
+LAB Interface Heat Exchanger RPC Close Test [Planned]
+C2V2 and Backup HCZ Power ON/Deactivation [In-work]
+

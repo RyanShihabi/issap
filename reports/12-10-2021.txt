@@ -1,0 +1,28 @@
+
+Payloads:
+Bio-Analyzer:  A blood sample was analyzed using the Bio-Analyzer and processed using the Cellular Labeling instrument. The sample was then remixed to introduce bubbles in order to test the bubble mitigation procedures.  Bio-Analyzer is a Canadian Space Agency (CSA) onboard instrument that serves as a platform for scientific experiments on the ISS.  The instrument performs on-orbit quantification of biological molecules and cellular composition in samples collected and prepared aboard the ISS.
+Bio-Monitor:  Bio-Monitor hardware was stowed.  Bio-Monitor is a CSA onboard instrument that serves as a platform for scientific experiments on the ISS.  The instrument performs on-orbit monitoring of crew member physiological parameters, with wearable sensors that only minimally interfere with crew member daily activities.
+InSPACE-4 (Investigating the Structure of Paramagnetic Aggregates from Colloidal Ellipsoids):   A repeat of InSPACE-4 operations run #83 was initiated.  InSPACE-4 studies the assembly of tiny structures from colloids using magnetic fields. These structures change the properties of the assembled material, such as its mechanical response to or interaction with light and heat. Microgravity allows observation of these assembly processes free of confining sample walls and sedimentation and during timescales not possible using simulated microgravity. Results could provide insight into how to harness nanoparticles to fabricate and manufacture new materials. 
+ISS Ham:  ISS Ham contacts were made with Savannah River Academy in Grovetown, Georgia and DLR School Lab in Braunschweig, Germany.  ISS Ham Radio provides opportunities to engage and educate students, teachers, parents, and other members of the community in science, technology, engineering and math by providing a means to communicate between astronauts and the ground HAM radio units.
+Plant Habitat:  The Plant Habitat CO2 Pump Filter and Environmental Control system were removed and replaced.  The Advanced Plant Habitat (Plant Habitat) is a fully automated facility that is used to conduct plant bioscience research on the ISS.  It occupies the lower half of the EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Rack and one powered International Subrack Interface Standard (ISIS) drawer, providing a large, enclosed, environmentally controlled chamber.
+Polar:  Desiccant swaps were performed on Polars 1 and 5.  Polar is a Cold Stowage managed facility that provides transport and storage of science samples at cryogenic temperatures (-80 ˚C) to and from the ISS.  Polar operates on 75 W supplied power and uses air cooling as its heat rejection method.  Polar can accommodate up to 12.75 liters of sample volume and 20 lbm including sample support equipment.
+Retinal Diagnostics:  The DLR-EAC Retinal Diagnostics Study measurements were conducted on two subjects.  Retinal Diagnostics utilizes a commercially available ophthalmology lens, approved for routine clinical use with mobile devices, to capture images of the human retina in space.  The videos/images are downlinked to test and train models to detect retinal pathologies common among astronauts.
+Systems: 
+Waste & Hygiene Compartment (WHC) Water Container (ЕДВ-CB) Remove and Replace (R&R): Today the crew built a new ЕДВ-CB and R&Red the existing ЕДВ-CB in the WHC. The ЕДВ-CB is intended for short-term storage and manual water transportation between facilities. The flush tank was filled using a Post-Flight Analysis Bag to capture any pressure relief to protect the dose pump, after which the WHC was reactivated.
+Wireless Instrumentation System (WIS) Activities: Two WIS activities were completed today. The first was the JEM WIS Remote Sensor Unit (RSU) B4 sensor correction. The objective was to correct JEM WIS Air Flow Sensor 600mm and 380mm for two B4 sensors in the JPM. The second was a swap of two Internal WIS (IWIS) RSUs in Node 1 and MLM. The WIS sensors are deployed across the interior and exterior of the ISS to measure structural loads and dynamics. WIS operates on ISS power and uses Radio Frequency (RF) communication between its major components.
+Completed Task List Activities:
+
+Brine Processor Odor Feedback
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Vacuum System Jumper Offgassing
+Comm Configuration During an EMER OBT
+MT Pre-Translation Check Out and Survey
+MT Translation
+MSS Maneuver
+MSS Hover Maneuver
+Vacuum System Jumper Leak Check
+PPS HIGH BETA OPERATIONS
+

@@ -1,0 +1,40 @@
+
+Plant Gravity Sensing-2 (PGS-2) Photon Counting Unit (PCU) Checkout: Kelly attached PCUs to the CBEF Incubator Unit (IU) 1-Gravity (1-G) centrifuge.  Japan Aerospace Exploration Agency (JAXA) ground controllers downlinked data from the Plant Experiment Unit (PEU) through the Image Processing Unit (IPU) and reviewed data from the installed PCU.  The first run of PGS-2 is planned for July 8.  Plants growing on Earth can detect gravity, which enables them to grow their stalks in the opposite direction as their roots. But scientists do not yet understand the chemical process controlling plants response to gravity. Concentrations of calcium in plant cells change in response to various factors, including temperature and touch, and changes in the direction of gravity when plants grown under 1g condition on the earth, but scientists are not sure whether gravity also affects calcium levels in plants grown in microgravity conditions. Utilization of the micro gravity condition to examine the cellular process of formation of the gravity sensor and the molecular mechanism of gravity sensing (Plant Gravity Sensing) studies whether plants grown in microgravity conditions can sense the changes in the gravitational acceleration, and the concentrations of calcium in plant cells changes.
+Binary Colloidal Alloy Test – Low Gravity Phase Kinetics Platform (BCAT-KP) Sample Initiation: Kelly set up the sample image, homogenized a sample, took manual photos using EarthKam software, and initiated automated photography utilizing the camera intervalometer. This sample is the tenth and final sample for BCAT-KP. BCAT-KP provides a platform for material and industrial scientists to investigate colloid phase changes, providing results that may be used to develop new colloidal materials and formulations with unique properties. The results may support new applications, from new liquid crystals to consumer goods having longer shelf life and uses.
+Rodent Research (RR) Inventory and Audit: Kelly audited remaining RR equipment and supplies and consolidated equipment. The number of remaining supplies will provide information for manifesting for future RR experiments. 
+Human Research Facility Personal Computer-2 (HRF PC-2) Troubleshooting: In late April, HRF PC2 failed to respond to ground commands.  The power supply brick was changed following several instances of circuit breaker trips. Commanding capability was recovered for one activation, however, subsequent activations were not successful via ground commanding.  Today Kelly performed troubleshooting to address the “no Ethernet cable connected” notification.  Troubleshooting steps were successful and the HRF PC2 was returned to working order.
+Today’s Planned Activities  
+
+All activities were completed unless otherwise noted.
+Plant Gravity Sensing 2 (PGS2) Experiment Photon Counting Unit Check Out Preparation
+JEM Terminal Computer Reboot
+Inspecting RS Structural Elements Shell Surfaces using МВП-2К device.
+Counter Measure System (CMS) Harmful Contaminant Measurements in SM
+Audio Dosimeter Preparation
+ISS RS Atmosphere Analysis Using АОК ГАНК-4М [Aborted]
+OBT ISS Crew Medical Officer (CMO) Computer Based Training (CBT)
+Plant Gravity Sensing-2 Experiment Photon Counting Unit Check Out
+Rodent Research Inventory Audit and Disposal of Some Items
+FGB 800А (А71) Unit Replacement
+Starting Photography of Binary Colloidal Alloy Test Sample (BCAT)
+TORU OBT. Tagup with Instructor
+PGS2 Closeout Ops
+WRS – Recycle Tank Fill from EDV
+HRF2 PC2 Troubleshooting
+Rodent Research Inventory Audit and Disposal of Some Items
+OTKLIK. Hardware Check
+СОЖ Maintenance
+IMS Delta File Prep
+COSMOCARD. Closeout Ops. 
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+METERON laptop command
+POIC weekly system maintenance
+

@@ -1,0 +1,26 @@
+
+Payloads:
+Cryo Chiller: An ambient Sample Cartridge was installed into the Cryo Chiller volume. Cryo Chiller is a single Expedite the Processing of Experiments to Space Station (EXPRESS) locker replacement unit which provides rapid freezing capability in support of biological sciences, as well as temperature-controlled transfer to/from the ISS on visiting vehicles.
+Electromagnetic Levitator (EML): The EML Experiment Module (EXM) was opened, and the defective gas circulation pump was replaced. EML is a facility composed of four inserts installed into the European Drawer Rack (EDR) for the electromagnetic levitation of samples. The experiment samples are installed in a dedicated Sample Chamber that is attached to EML, and can be replaced by new Sample Chambers for new experiment batches.
+Rodent Research-18 (RR-18): Rodent Operations were conducted, the access unit was cleaned, the habitat was restocked, and the upcoming ops procedures were reviewed by the crew. Astronauts returning from space can experience eye problems, along with headaches and blurred vision. Scientists suspect environmental conditions during spaceflight lead to oxidative stress that adversely affects the eye structure and function. Space Flight Environment Induces Remodeling of Vascular Network and Glia-vascular Communication in Mouse Retina (Rodent Research-18) investigates how spaceflight affects visual function, examining changes in the vascular system of the retina, tissue remodeling and cell-cell interactions in mice.
+Standard Measures: A crewmember performed the cognition test and set up the fecal collection hardware. The aim of the investigation is to ensure consistent capture of an optimized, minimal set of measures from crewmembers until the end of the ISS Program in order to characterize the adaptive responses to and risks of living in space. Among other things, the ground teams perform analyses for metabolic and chemistry panels, immune function, microbiome, etc. These measures populate a data repository to enable high-level monitoring of countermeasure effectiveness and meaningful interpretation of health and performance outcomes, and support future research on planetary missions. 
+Systems:
+Extravehicular Activity (EVA) Preparation Activities: In preparation for the IROSA Prep 3A EVA currently scheduled for March 15th, the crew assembled the IROSA Mod Kit Left Lower Strut and Right Lower Strut, and the Center Mast Canister Pad onto Right Upper Strut. The IPA Mod Kit Strut Bag was also configured and stowed. This strut assembly will be installed during the IROSA Prep 3A EVA in order to facilitate installation of additional IROSA hardware later this year.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+MSS Maneuver to Park and Powerdown
+VxWorks Update
+HTV PROX HTV MODE
+Battery Charge/Discharge Unit (BCDU) 4A2 Preemptive Refresh
+HTV PROX GPS MODE
+JEMRMS ACTIVATION/SFA Joint Zeroing
+JEM Airlock and ACDU-RC Activation
+JEM Airlock Slide Table Extension to/Retraction from JEF Side
+JEM Airlock Capture Mechanism Release EFU Adapter
+EFU Adapter berthing to EFU 11
+

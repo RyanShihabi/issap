@@ -1,0 +1,66 @@
+
+NanoRack Cubesat Deployer (NRCSD) #9 Deployment: Overnight, ground controllers deployed the remaining three of four pairs of Planet Lab DoveSats from the NRCSD #9.  This deployment titled “Flock 2” is a fleet of nanosatellites designed, built and operated by Planet Labs Inc., and will enable imagery of the changing planet to be taken on a frequent basis, with humanitarian and environmental applications ranging from monitoring deforestation and the ice caps to disaster relief and improving agriculture yields in developing nations. 
+Electrostatic Levitation Furnace (ELF) Troubleshooting:  Following the software load yesterday, FE-5 reassembled the ELF and installed the assembled ELF into the Multi-Purpose Small Payload Rack (MSPR)-2 Work Volume. Ground controllers will be performing checkout activities on the new loaded software.  The Electrostatic Levitation Furnace (ELF) is an experimental facility designed to levitate/melt/solidify materials by containerless processing techniques using the Electrostatic Levitation method. With this facility, thermophysical properties of high temperature melts can be measured, and solidification from deeply undercooled melts can be achieved. The ELF is located in the JEM Multipurpose Small Payload Rack (MSPR) in Kibo.
+Combustion Integration Rack (CIR) Igniter Replacement:  FE-6 replaced two Multi-user Droplet Combustion Apparatus (MDCA) Igniter Tips.  The crew removed the MDCA Chamber Insert Assembly (CIA), replaced the igniters and reinstalled the chamber.  As the crew was reconnecting the CIR Moderate Temperature Loop (MTL) lines, an Internal Thermal Control Systems (ITCS) fluid leak was identified.  In coordination with ground controllers, preliminary indications are the MDCA Water Return line will need to be replaced.  The crew was provided with steps to close the rack and further troubleshooting steps will be scheduled. The next experiment to utilize CIR will be the FLame EXtinguishment (FLEX)-2 investigation will be resumed, with Data Set 1 using decane fuel.  FLEX-2 is the second experiment to fly on the ISS which uses small droplets of fuel to study the special spherical characteristics of burning fuel droplets in space. The FLEX-2 experiment studies how quickly fuel burns, the conditions required for soot to form, and how mixtures of fuels evaporate before burning. Understanding these processes could lead to the production of a safer spacecraft as well as increased fuel efficiency for engines using liquid fuel on Earth.
+Biomolecule Sequencer (BMS) Sample Stop: FE-6 completed the 48-hour sample session.  The crew completed the analysis, captured a screenshot of the Surface Pro 3, and downlinked the screenshot image to the ground for the BMS team to evaluate.  The goals of the BMS experiment are to provide a proof-of-concept for the functionality and evaluate crew operability of a DNA sequencer in a space/microgravity environment.  The capability for sequencing of DNA in space could provide for a better ability to identify microbes in real-time, instead of requiring sample return and ground based analysis. 
+Manufacturing Device (MD): The crew attempted to remove the printed calibration objects from the Manufacturing Device.  Two of three pieces of a print were successfully removed and stowed.  The crew was unable to remove the third print from the MD volume.  Ground specialists are looking into further steps to remove the print.  Manufacturing Device consists of the Additive Manufacturing Facility (AMF), a permanent manufacturing facility on the ISS, providing hardware manufacturing services. The ability to manufacture on the ISS enables on-demand repair and production capability, as well as essential research for manufacturing on long-term missions. AMF allows for immediate repair of essential components, upgrades of existing hardware, installation of new hardware that is manufactured, and the manufacturing capability to support commercial interests on the ISS.
+Japanese Experiment Module (JEM) Window Inspection:  The crew inspected JEM Windows for contamination and damage. This inspection documents any contamination or damage there may be on any of the window pane surfaces. The crew stated that no major defects were identified.  This is nominal periodic maintenance.
+Health Maintenance System (HMS) Crew Medical Officer (CMO) Training: FE-6 completed a refresher course on some of the equipment and procedures taught in the CMO classes covering crew illness and/or injury. Lessons include text, pictures and video detailing previously learned medical procedures and hardware. 
+Nitrogen/Oxygen Recharge System (NORS) Setup and Oxygen Transfer: The crew terminated the NORS transfer O2 to the US Airlock High Pressure Gas Tanks (HPGTs) and reconfigured for transfer to the Low Pressure Gas Tanks (LPGTs).  At the end of the day, they terminated the transfer to the LPGT. 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Nitrogen Oxygen Recharge System (NORS) Oxygen Transfer to Low Pressure O2 Tank
+Total Organic Carbon Analyzer (TOCA) Water Recovery System (WRS) Sample Analysis
+ISS HAM Columbus Pass
+Scheduled maintenance of Central Post Laptop
+АБ№7,8 СЭП СМ photographing
+JEM Window Inspection P/TV Setup
+Multi-user Droplet Combustion Apparatus Session Review
+JPM Window Inspection Procedure Review
+Combustion Integrated Rack Hardware Gather
+TM750 Camcorder Setup
+Electrostatic Levitation Furnace (ELF) Reassemble
+Changeout of Dust Filter ПФ1-4 Cartridges in SM
+Electrostatic Levitation Furnace (ELF) Reassemble Sub
+Electrostatic Levitation Furnace (ELF) Ground Attaching
+Total Organic Carbon Analyzer (TOCA) Sample Data Record
+ALGOMETRIA. Experiment Ops
+MSPR2 Electrostatic Levitation Furnace (ELF) Install to Work Volume
+Multi purpose Small Payload Rack 2(MSPR2) Electrostatic Levitation Furnace (ELF) Install Sub
+Systems Operations Data File (SODF) Deploy
+Multi-user Droplet Combustion Apparatus MWA Prep
+RGN Waste Storage Tank Assembly (WSTA) Fill
+JPM Window Inspection Part 1
+Combustion Integrated Rack Rack Doors Open
+Combustion Integrated Rack Front End Cap Open
+MSPR2 Electrostatic Levitation Furnace (ELF) Cable Connection
+CALCIUM. Experiment Session 9
+Multi-user Droplet Combustion Apparatus Hardware Replacement
+TM750 Camcorder Deactivation
+Advanced Resistive Exercise Device (ARED) 6-Month Maintenance
+Combustion Integrated Rack Front End Cap Close
+Combustion Integrated Rack Rack Doors Close
+Combustion Integrated Rack Hardware Return
+Plant RNA Regulation/European Modular Cultivation System Maintenance Work Area Prep and Config
+Crew Handover Conference
+Phase Change HX Locker Install 2
+RGN Waste Storage Tank Assembly (WSTA) Fill
+СОЖ Maintenance
+Manufacturing Device Print Removal, Clean and Stow
+JPM Window Inspection Part 2
+NORS Oxygen Transfer Termination
+Biomolecule Sequencer Sample Stop
+JPM Window Inspection Image Downlink
+
+Completed Task List Items
+
+EVA Tool Stow Part 3
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Battery 4B1 reconditioning
+N2 Distribution system leak check
+PCHx Activation
+

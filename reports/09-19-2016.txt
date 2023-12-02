@@ -1,0 +1,65 @@
+
+Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI)-2 Auto-Stop Transition: On Sunday, ground teams received notification that MELFI-2 in the Japanese Experiment Module (JEM) transitioned to Auto-stop.  The Brayton Motor powered off, and the rack maintained power and good Low Temperature Loop (LTL) flow.  The Cold Stowage team noted that the way the MELFI monitoring software is coded that the software may pick up on an Auto-Stop condition and take action before it’s reported in telemetry that is broadcast to the ground. Based on the state of the rack prior to the Auto-Stop, Cold Stowage is confident that is what happened.  Due to all other rack parameters being in a good state, the Brayton Motor was repowered and the total time for the Brayton Motor to be off was 1 hour 16 minutes 5 seconds.
+Body Measures: FE-6, with the assistance of FE-5 as the operator, conducted a Body Measures data collection session. The crew configured still cameras and video, then collected the Neutral Body Posture video and stow the equipment. NASA is collecting in-flight anthropometric data (body measurements) to assess the impact of physical body shape and size changes on suit sizing. Still and video imagery is captured and a tape measure is used to measure segmental length, height, depth, and circumference data for all body segments (chest, waist, hip, arms, legs, etc.) from astronauts before, during and after their flight missions.
+Fine Motor Skills (FMS): Both FE-5 and FE-6 performed their weekly FMS sessions. The crew each performed a series of interactive tasks on a touchscreen tablet were completed for the Fine Motor Skills investigation. This investigation is critical during long-duration space missions, particularly those skills needed to interact with technologies required in next-generation space vehicles, spacesuits, and habitats. The crewmember’s fine motor skills are also necessary for performing tasks in transit or on a planetary surface, such as information access, just-in-time training, subsystem maintenance, and medical treatment.
+Microgravity Science Laboratory (MSL) Sample Cartridge Assembly (SCA) Exchange:  The crew changed out the SCA in the Solidification Quenching Furnace (SQF), removing the calibration cartridge and inserting the first test sample.  Ground teams will initiate the runs next week. The Batch-2b of the Materials Science Laboratory Sample Cartridge Assemblies serves two projects investigating how different phases organize in a structure when metallic alloys are solidified. The project Metastable Solidification of Composites (METCOMP) studies the phase formed by the reaction of the remaining liquid phase with an already formed solid, to form a second solid phase on cooling. For this purpose, Bronze (Copper-Tin Alloys) of different compositions will be processed. The other project, Solidification along a Eutectic path in Ternary Alloys (SETA), looks at how two phases that form together organize into lamellar, or fibre, structures when cooling Aluminum (Copper-Silver Alloys). Both projects will provide benchmark samples that will enable to test numerical models that aim to predict these structures.
+Eli Lily Hard to Wet Surfaces: FE-6 charged batteries in support of the Hard to Wet Surfaces experiment.  After the battery charging, the crew verified the setup of the camera and flash that will be used in the experiment run starting tomorrow.  In chemistry, wetting refers to spreading of a liquid over a solid material’s surface, and is a key aspect of the material’s ability to dissolve. The Hard to Wet Surfaces (Eli Lilly-Hard to Wet Surfaces) investigation studies how certain materials used in the pharmaceutical industry dissolve in water while in microgravity. Results from this investigation could help improve the design of tablets that dissolve in the body to deliver drugs, thereby improving drug design for medicines used in space and on Earth.
+Hatch Seal Inspection:  FE-5 cleaned and inspected the COL, N2 port, N2 Stbd, A/L, N2 Stbd, JLP, JPM Stbd, JPM Zenith and PMM hatch seals, hatch plate sealing surface and hatch handle mechanism for FOD or damage.  This is standard preventative maintenance performed every 180 day. 
+Space Station Remote Manipulator System (SSRMS) Latching End Effector (LEE) Survey:  The SSRMS was powered up and maneuvered to allow for an inspection of the LEE B using the new High Definition cameras. 
+Today’s Planned Activities
+All activities completed unless otherwise noted.
+
+Fine Motor Skills Experiment Test
+Electrostatic Levitation Furnace (ELF) Ground Connection
+Auxiliary Laptop Computer System (ВКС) Virus Definition File Update
+Hard To Wet Surfaces D2Xs Battery Charge
+CO Partial Pressure Measurement on ISS RS (SM Central Post) using USOS Portable Gas Analyzer CSA-CP (located on the SM Central Post, Panel 208). Battery replacement (as necessary)
+Body Measures Equipment Gather
+COSMOCARD. Setup. 24-Hour EKG Recording (start)
+Body Measures Experiment Operations
+EML Reprogramming Cable installation
+Transfer of Brine and Urine from EDV-U into DC1 Progress 433 Rodnik БВ2 Water Tank
+Hatch Seal Inspection
+Habitability Narrated Task Video Setup – Subject
+Potable Water Dispenser (PWD) Sample Collect
+Quick Disconnect Screw Clamps Tightening on DC1-Progress 433 Interface
+Habitability Narrated Task Video End – Subject
+Soyuz 731 Samsung Tablet Charging (start)
+Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Material Science Laboratory SCA ExchangeA2 #5
+СОЖ maintenance
+Environmental Health System (EHS) Coliform Water Processing
+Soyuz 731 Samsung Tablet Charging (term)
+IMS Delta File Prep
+Metal Oxide (METOX) Regeneration Termination
+EML Reprogramming Cable removal
+Hard To Wet Surfaces Hardware Gather
+Profile of Mood States (POMS) Questionnaire
+TV Downlink Test via Ku-band in MPEG-2 Prior to Soyuz 732 Docking to the ISS (Ku+S-band).
+Hard To Wet Surfaces Set Up Check
+Exercise Data Downlink via OCA
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+
+Completed Task List Items
+
+JAXA Try Zero G Experiment (Completed Saturday)
+Personal CO2 Monitor Payload On Board Training (Completed Saturday)
+Personal CO2 Monitor iPad Application Install (Completed Saturday)
+Personal CO2 Monitor Sensor Calibration (Completed Saturday)
+Remove and replace the Solid Waste Container [KTO]. (Completed Saturday)
+Remove and Replace Waste Hygiene Compartment (WHC) ЕДВ-Y (Completed Saturday)
+A/L Equipment Procedure Print (Completed Sunday)
+JAXA Video Taking Part 5 (Completed Sunday)
+Plug-in Plan USB Charger Deploy to NOD2 UOP1 and NOD3 UOP1 (Completed Sunday)
+Personal CO2 Monitor Sensor Charge (Completed Sunday)
+ARED Cable Arm Rope Measurement
+Columbus SSD USB Connect
+Velcro Attachment to Manufacturing Device 
+
+Ground Activities
+All activities completed unless otherwise noted.
+
+MCA Full Calibration
+SSRMS LEE B Survey
+Battery 4B1 Reconditioning
+

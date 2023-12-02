@@ -1,0 +1,88 @@
+
+Light Emitting Rectifying Antenna (LEctenna): The crew assembled the rectifier and LED components and set up the LEctenna experiment hardware.  LEctenna demonstrates wireless power transmission via microwave signals using a rectifying antenna, which converts electromagnetic waves into direct electric current. For the investigation, a LEctenna device converts microwaves into electricity and powers an LED bulb. Similar technology could be used to transmit energy from a space-based solar panel array in the form of microwaves harvested on the ground by a rectifying antenna.
+Microgravity Crystals (MGC) Hardware Trash:  In order to free up space, the crew gathered items that are no longer needed for the already-completed MGC experiment, and staged them for trash.  These included yellow pipet tips, the MGC contingency kit, reagent box and label kit.  The investigation crystallized a membrane protein that is integral to tumor growth and cancer survival. Although crystallization of this protein has yielded unsatisfactory results on Earth, this investigation leverages extensive protein crystallization work on the space station, significantly increasing the likelihood of successful crystal growth. Results may support development of cancer treatments that target the protein more effectively and with fewer side effects.
+Mouse Mission-5 Preparation:  As a continuation of the preparation for the upcoming JAXA Mouse Mission-5, the crew set up the glovebox on the front of the Kobairo rack.  Stress caused by partial G may alter gene expression in cells of the body. The investigation analyzes any such alterations and their possible effects on development of germ cells, which carry genetic information and expression to subsequent generations.
+Nanoracks Module 72A Transfer:  In order to recover from communication issues first experienced July 2019, the crew relocated Module 72A from the failed Frame 1 to Frame 1A.  Module-72A has a Raspberry Pi Zero board and several sensors. This is an educational payload that allows students to code their own software experiments and have them collect data on the ISS.
+Radio Frequency Identification (RFID) Ground-Fault Circuit Interrupter (GFCI) Cable Replace:  The crew replaced a failed GFCI cable in order to recover functionality and allow a software update for the RFID system.  This cable was found to be failed in December of 2019 when the software update was previously attempted.  The RFID team has reported that during their 3 years of ops, they have run the data obtained from ISS through complex event processing on the ground and made continuous refinement.  RFID Logistics aims to utilize RFID enabled tags on hardware throughout the ISS to assist in the tracking of the hardware as it is moved around the ISS.
+Systems:
+Installation of Anhydrous Ammonia (NH3) Filter Cartridges into Emergency Masks: Today, the crew performed an activity to configure four emergency masks with NH3 filter cartridges. The four masks with pre-installed NH3 cartridges were stowed in each of the two emergency mask stowage bags. This activity was performed to improve the overall ISS emergency response posture; specifically for an unexpected release of NH3 into the ISS pressurized volume. The crew also updated their emergency procedures to reflect the updated NH3 mask configuration inside the emergency mask stowage bags.
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Attitude Control System (ACS) SIGI Rate Data Dump
+Regen Oxygen Generator Assembly Cell Stack Discharge
+Secondary Power System (SPS) Power Down
+Attitude Control System (ACS) Guidance Navigation and Control System (GNC) Pre-positioned Load (PPL) Update
+
+Thursday, 2/13 (GMT 043)
+Payloads/Systems:
+
+
+Crew Off Duty Day
+
+Friday, 2/14 (GMT 044)
+Payloads/Systems:
+
+
+Crew Off Duty Day
+
+Saturday, 2/15 (GMT 045)
+Payloads:
+
+
+OsteoOmics prep, MSG core facility maintenance, LSR config
+
+Systems:
+
+Cygnus Cargo Operations Review
+Camera Overlay and RWS Configuration for Cygnus Capture
+Cygnus Capture Review
+On-board Training (OBT) Cygnus Robotics Onboard Trainer (ROBoT) Session 2
+Battery Stowage Assembly (BSA) Operations
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Urine Processor Assembly (UPA) Configuration
+SODF Housekeeping Procedure Print
+Environmental Health System (EHS) Acoustic Monitor Setup
+Combined Orlan-MK No.6 and БСС water loop degassing in ПхО.
+Glove Box Setup
+Acoustic Monitor Setup for Static Measurements
+Micro Gravity Crystals Hardware Trash
+20-micron Filter Removal
+LSR Pre-Filter Removal
+On MCC Go Progress 433 (DC1) Rodnik H2O Tank 1 Shell Compression
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Systems Operations Data File (SODF) Update
+Nanoracks Module-72A Transfer
+Actiwatch Plus HRF Rack 1 Setup Evaluation
+RR Inventory Audit Part 1
+Battery Stowage Assembly (BSA) Operation Initiation
+Network Attached Storage (NAS) Hard Drive Swap
+On MCC Go Progress 4443 H2O tank 1 bladder compression, closeout
+Orlan and БСС leak check and Orlan-MK No.6 valve tests.
+Environmental Health System (EHS) – Formaldehyde Monitoring Kit (FMK) Deployment Operations
+Waste and Hygiene Compartment (WHC) Manual Fill Initiation
+Environmental Health System (EHS) Grab Sample Container (GSC) Sampling Operations
+Environmental Health System (EHS) – Rad Detector Rotate
+MELFI Probiotics Transfer
+LEctenna Operations
+Actiwatch Plus HRF Rack 1 Stow Evaluation
+Waste and Hygiene Compartment (WHC) Manual Fill Termination
+Radio Frequency Identification Logistics GFCI Cable Replace
+Space Automated Bioproduct Lab, CO2 Incubator Removal
+Cold Stowage Double Cold Bag Locate
+PROFILAKTIKA-2. Equipment setup
+MELFI -78 Ice Brick Gather
+MELFI -32 Degrees Ice Brick Gather
+Wireless Instrumentation System (WIS) Station Support Computer (SSC) Relocate Part 1
+On-Orbit Hearing Assessment (O-OHA) with EarQ Software Setup and Test
+
+ 

@@ -1,0 +1,92 @@
+
+SpaceX (SpX)-9 Release: Following the unberth of Dragon yesterday afternoon, the crew used the Space Station Remote Manipulator System (SSRMS) to release Dragon at 5:11 AM Central Time for its return to Earth.  The Dragon capsule executed a de-orbit burn shortly after 10 AM Central Time, and splashed down in the Pacific Ocean approximately 45 minutes later.  SpaceX-9 returned cargo and science samples which were processed onboard the ISS for analysis on the ground.
+Biological Rhythms 48 Holter and Actiwatch Removal and Data Save: Following two consecutive days of Biological Rhythms recording sessions, the crew removed the Digital Walk Holter Electrocardiogram (ECG) and the Actiwatch Spectrum and saved the collected data to the medical laptop. This concluded the Biological Rhythms experiment where two separate 24-hour Actiwatch measurements were performed to study the effects of long-term microgravity exposure on heart functions by analyzing an astronaut’s electrocardiogram for 48 hours.
+Biomolecule Sequencer Hardware Setup and Sample Initialization: The crew retrieved the Flow Cell and the Media Syringe Tube from Minus Eighty-degree Freezer for ISS (MELFI) before using the syringe to inject the sample into the Biomolecule Sequencer, which began the deoxyribonucleic acid (DNA) sequencing process. The Biomolecule Sequencer investigation seeks to demonstrate for the first time that DNA sequencing is feasible in an orbiting spacecraft. A space-based DNA sequencer could identify microbes, diagnose diseases and understand crew member health, and potentially help detect DNA-based life elsewhere in the solar system. 
+Combustion Integrated Rack (CIR) Manifold Bottle Replacement: The crew R&Rd a CIR manifold bottle on one of the four CIR Manifolds in support of upcoming Flex 2 payload investigation activities.
+Fine Motor Skills: A series of interactive tasks on a touchscreen tablet were completed for the Fine Motor Skills investigation. This investigation is critical during long-duration space missions, particularly those skills needed to interact with technologies required in next-generation space vehicles, spacesuits, and habitats. The crewmembers’ fine motor skills are also necessary for performing tasks in transit or on a planetary surface, such as information access, just-in-time training, subsystem maintenance, and medical treatment.
+Space Headaches: The crew completed the European Space Agency (ESA) Space Headaches questionnaire which provides information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space.
+LS-1 Server Issues: Following the recent issues with the LS-1 server, the crew performed a laptop shell swap (motherboard, processor, memory) and retained only the hard drives. The LS-1 came back online without any issues.
+LAB RWS Monitor Display Issue: Prior to Dragon release, the SSRMS Lab Robotic Work Station (RWS) Monitor 1 was observed to be very dim, with the image shifted, and it seemed to be a negative image.  The crew tried the brightness adjustment and checked the cables with no success.  The video feed was moved from the degraded display Monitor 1 to a Monitor 3 which was operating nominally.  The release and departure monitoring were completed nominally and on time. The LAB RWS Monitor 1 was later recovered by power cycling the Control Electronic Unit (CEU).  The root cause is still under investigation.  
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+MORZE. Evaluation using SPRUT-2
+Crew Command Panel (CCP) Cable Route and Checkout
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 3208
+ISS crew and ГОГУ (RSA Flight Control Management Team) r/g 3173
+On-orbit Hearing Assessment using EARQ
+BLR48 Saving Experiment Data
+On-orbit Hearing Assessment using EARQ
+JEM Stopping Gas Supply
+Pre-pack cargo items for return or disposal on Soyuz 720 / r/g 3099, 3098
+MORZE. Psycho-physiological Evaluation: Tsentrovka, SENSOR Tests
+Fine Motor Skills (FINEMOTR) Experiment Ops
+Fine Motor Skills (FINEMOTR) Experiment Ops
+BLR48 Data Saving
+Dragon/Node 2 Vestibule Closeout Ops
+BMS Equipment Gathering
+ЦВМ1 (R-107) Firmware Upgrade using re-programming hardware r/g 3200
+Camcorder Setup to View LAB RWS Monitor 3
+Configure Robotic Workstation (RWS) for Dragon Release
+SSRMS Dragon Release from Node 2 Nadir
+SSRMS Dragon Release and Departure Monitoring
+CARDIOVECTOR. Experiment / r/g 3210
+СОЖ Maintenance
+Gas Analyzer ИК 0501 Adjustment for O2 channel
+Crew Departure Prep
+LBNP Exercise (PRELIMINARY) r/g 3206
+CIR Upper Rack Doors Open
+CIR Payload Partial Removal
+BMS Hardware Setup
+CIR Rack Doors Close
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 3208
+Crew Departure Prep
+MORZE. Psycho-physiological Evaluation: Cattell’s Test
+SHD Weekly Questionnaire
+Food Frequency Questionnaire
+Pre-pack cargo items for return or disposal on Soyuz 720 / r/g 3099, 3098
+Food Frequency Questionnaire
+MORZE. Psycho-physiological Evaluation: Strelau Test
+Crew Command Panel (CCP) Cable De-route
+RWS Power Down
+Countermeasures System (CMS), Sprint Exercise, Optional
+BMS Retrieval from MELFI
+IMS Delta File Prep
+BMS Retrieval from MELFI
+Verification of ИП-1 Flow Sensor Position / SM Pressure Control & Atmosphere Monitoring System
+MORZE. Closeout Ops
+BMS Initiate activities with samples
+LBNP Exercise (PRELIMINARY) r/g 3206
+Food Frequency Questionnaire
+Vestibule Reconfig post-Dragon departure
+CUCU Deactivation
+Video Downlink End
+OBT, Crew Medical Officer (CMO), Computer based training
+EVA-SAFER Checkout
+HMS. Psychological Evaluation Program (WinSCAT)
+IMS Conference
+PAO Hardware Setup
+Crew Prep for PAO
+PAO Event
+Fundoscope Setup for exam
+Fundoscope Exam Setup
+OBT, Crew Medical Officer (CMO), Computer based training
+Columbus module Standard Utility Panel (SUP) Loads Power Up
+SHD Weekly Questionnaire
+Fundoscope, Eye Exam (Subject)
+Fundoscope, Eye Exam (CMO)
+Crew conference with Astronaut Office
+Flight Director / ISS Crew Tagup
+Equipment stowage after Fundoscope Eye Imaging
+CORRECTSIYA. Logging Liquid and Food (Medicine) Intake / r/g 3208
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Dragon release
+Nominal ground commanding
+

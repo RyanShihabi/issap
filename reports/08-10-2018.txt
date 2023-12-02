@@ -1,0 +1,64 @@
+
+Japanese Small Satellite Orbital Deployer 9 (J-SSOD#9): Robotics Controllers in Tsukuba, Japan maneuvered the Japanese Experiment Module (JEM) Remote Manipulator System (JEMRMS) to the Small Satellite Deploy Position and deployed the Japanese Small Satellite Orbital Demonstration (JSSOD)-9 satellites. These satellites are 1U CubeSats and were developed by Bhutan, the Philippines, and Malaysia. The crew supported the activity as observers, taking photographs of the various small satellites as they were deployed from both JSSOD launchers. Following the deployment, the JSSOD was re-installed on the JEM Airlock Slide Table.
+Synchronized Position Hold, Engage, Reorient, Experimental Satellites (SPHERES) Zero Robotics: The crew set up the SPHERES Zero Robotics hardware and cameras before executing today’s experiment run. The SPHERES-Zero-Robotics investigation establishes an opportunity for high school students to design research for the ISS. As part of a competition, students write algorithms for the SPHERES satellites to accomplish tasks relevant to future space missions. The algorithms are tested by the SPHERES team and the best designs are selected for the competition to operate the SPHERES satellites on board the ISS.
+Rodent Research-7 (RR-7): Today the crew cleaned the cameras in the two rodent habitat modules. The RR-7 investigation examines how the space environment affects the community of microorganisms in the gastrointestinal tract of mice (also known as the microbiota). It also looks at microgravity’s effects on multiple physiological systems known to be affected by the microbiota, including the gastrointestinal, immune, metabolic, circadian, and sleep systems. These studies should help explain mechanisms underlying interactions between these systems and the role of the microbiota in these interactions. 
+Advanced Combustion via Microgravity Experiments (ACME): The crew opened the Combustion Integration Rack (CIR) today and replaced one of the ACME controllers. The ACME experiment series being performed in the CIR includes five independent studies of gaseous flames. The primary goals of ACME are to improve fuel efficiency and reduce pollutant production in routine fuel combustion activities on Earth.  Its secondary goal is to improve spacecraft fire prevention through innovative research focused on materials flammability. 
+Barrios Protein Crystal Growth (PCG):  Today the crew used a microscope to take photos of the Barrios PCG plate.  Barrios PCG focuses on the successful transfer and mixing of different solutions into commercial off-the-shelf multiwell plates. Video of the growth of the protein crystals in the multiwell plates will be downlinked for evaluation. 
+Meteor: The crew attempted to replace and re-image the Meteor system disk and the application software to configure the diffraction grating and to power up Meteor. The attempt was not successful. Ground teams will determine further troubleshooting activities to be planned. The Meteor payload is a visible spectroscopy instrument used to observe meteors in Earth orbit. Meteor uses image analysis to provide information on the physical and chemical properties of the meteoroid dust, such as size, density, and chemical composition. Since the parent comets or asteroids for most of the meteor showers are identified, the study of the meteoroid dust on orbit provides information about the parent comets and asteroids.
+H-II Transfer Vehicle (HTV)-7 Rack Relocation Prep: After yesterday’s successful transfer of five racks within the United States On-orbit Segment (USOS), the crew reconfigured stowage that was temporarily relocated for the rack moves. They also re-labelled the racks as appropriate to indicate their new position within the USOS. Successful completion of this week’s activities were required to prepare ISS for the installation of new rack hardware manifested on HTV-7.
+Japanese Experiment Module (JEM) Moderate Temperature Loop (MTL) Leak Update: As part of the ongoing effort to isolate the JEM MTL small leak, this morning the crew removed the Station Acceleration Measurement System (SAMS) drawer from Expedite the Processing of Experiments to Space Station (EXPRESS) Rack 5 (ER5) in order to examine the Subsystem Valve for indications of a leak. Several points of interest were identified and experts are evaluating and developing further steps for the crew.  Since ER5 was isolated from the MTL on Tuesday, experts at the Space Station Integration and Promotion Center (SSIPC) have seen no further fluid loss from the MTL.
+Hatch Seal Inspection: The crew completed the second day of scheduled maintenance to clean and inspect the United States On-orbit Segment (USOS) hatch seals in Columbus, the Airlock, N3, JLP, JPM, and the PMM. They inspected the sealing surface and hatch handle mechanism for Foreign Object Debris (FOD) or damage and ensured yesterday’s rack relocations did not cause damage to any seals.  
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+MTL Leak Visual Inspection at JPM1F7 and JPM1A7
+СОЖ maintenance
+Preparing comm assets for Orlan EVA Training
+Air duct disassembly in DC1 prior to EVA training
+Biomolecule Extraction and Sequencing Technology (BEST) Swabbing Operations
+Glacier 3 Desiccant Swap
+Biomolecule Extraction and Sequencing Technology (BEST) MELFI Sample Insertion into a Box Module
+SPHERES Rechargeable Battery Charge
+Health Maintenance System (HMS) ISS Food Intake Tracker (ISS FIT)
+JEMRMS Small Satellite Deployment Observation
+Orlan Systems и БСС Checkout
+Stowage Rack Relabeling
+Entry into Orlan No.4, No.5, and sealing off backpacks
+Orlan Suit and Orlan Interface Unit (БСС) Controls Check
+Orlan Suit fit and Leak Check.
+SPHERES Zero Robotics Setup and Checkout
+LAB1P1 Stowage Replace
+Orlan Translation Exercise
+SPHERES Rechargeable Battery Charge and Stow
+Rack Front Stowage Replace
+Assembly of air ducts in DC1 after the Orlan EVA training
+Post Orlan EVA Training Closeout Activities
+Station Support Computer (SSC) System Vent Cleaning
+Payloads Network Attached Storage (NAS) Vent Cleaning
+Post-training Orlan Closeout Activities
+SPHERES Crew Conference
+SPHERES  Zero Robotics Run
+ACME Controller Replace 1
+Rodent Research 7 Camera Cleaning
+Installation of Orlan-MKS No.4 and No.5 ORU for EVA.
+БК-3М oxygen tank replacement.
+METEOR Laptop Recovery [Not successful]
+NanoRacks Barrios PCG Sample Removal from SABL
+SPHERES Zero Robotics Shutdown
+NanoRacks Barrios Protein Crystal Growth Microscope Ops
+Hatch Seal Inspection
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Full Fill
+ISS Repress Using Air from Progress 438 [AO] СрПК
+
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+JEMAL Deploy (JSSOD#9)
+MSS Operations: MT translation
+

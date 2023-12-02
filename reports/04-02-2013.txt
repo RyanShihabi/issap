@@ -1,0 +1,91 @@
+
+New Status:
+High-Rate Communications System (HRCS) Ku-band Communications Unit (Ku Comm Unit) Installation/Checkout: The Ku-band is a frequency used primarily for satellite communications, and specifically for ISS communications.  Some of the ISS original Ku-band system subcomponents are being replaced to increase data processing volume and speed.  Over the next two weeks the crew will replace the current High Rate Frame Multiplexer (HRFM) and Video Baseband Signal Processor (VBSP) located in Avionics (AVN) Rack 3 with two new Ku-Comm units.  Activities have been broken out on multiple days over the next 2 weeks.
+Today Commander (CDR) Chris Hadfield and Flight Engineer (FE)-6 Tom Marshburn removed the VBSP and replaced it with a new Ku Comm Unit (unit 2) and its associated 1553 data and Ethernet cabling.  During installation the crew was not able to fully install all of the pressure bolts due to high running torque, but the unit is installed and successfully integrated into the ethernet system.  The bolts are needed to provide sufficient contact force between the Ku comm unit and the coldplate to provide adequate cooling.  The temperature data will be monitored overnight for assessment.  After Ku Comm Unit-2 is successfully checked out, Ku Comm Unit-1 will also be installed.
+The HRCS Ku Comm Unit upgrades will:
+· increase Ku-band downlink bandwidth from 150 Mbps to 300 Mbps;
+· increase Ku-band uplink bandwidth from 3 Mbps to 25 Mbps;
+· add Space to Ground (S/G) 3 and S/G 4 voice channels;
+· increase downlink standard definition video channels from 4 to 6;
+· replace the Video Tape Recorders (VTRs) with solid state video recording for standard definition;
+· replace Orbital Communications Adapter (OCA);
+· add the ability to command US core systems through Ku-band if S-band fails.
+General Laboratory Active Cryogenic ISS Experiment Refrigerator (GLACIER) Hardware Install: Cassidy installed a GLACIER in EXPRESS Rack 2 and powered up the unit for checkout.  This unit will serve as a back-up for the GLACIER already in use.
+
+EXpedite the PRocessing of Experiments to Space Station (EXPRESS)-1 (ER1) Laptop Computer (ELC) Software Load: Cassidy loaded software version 9.0 on this laptop and configured and loaded the Basic Input/Output System (BIOS).  After the basic setup was complete, he also configured the Microgravity Experiment Research Locker Incubator II (MERLIN) and Serial Network Flow Monitor (SNFM) applications. This task is a result of Hadfield’s troubleshooting activities and replacement of the hard drive and T61p shell swap last Wednesday.
+ENERGY Experiment: Marshburn completed day 7 of this 10-day session.  A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+Urine Processing Assembly (UPA) Fluids Control and Pump Assembly (FCPA) Status: Engineering teams met today and reviewed the data from the valve motor/valve characterization test. All the currents stayed well below 1amp and valve movements were under 3 seconds. It was also discovered that the Depress Assembly (DA) is not pumping down. Review of the pump down data from all the parts of the system reveals that the purge motor appears to be functioning properly, but the DA appears to be isolated. This can be caused by either a Quick Disconnect (QD) being disconnected or a hose that is kinked. They recommend continued use of the FCPA with the current performance and the current Fault Detection, Isolation and Recovery (FDIR) overrides in place. The team will continue to monitor the data in hopes of returning to nominal FDIR limits as the system permits.
+Previous Status (04/01/13)
+Fluids Control and Pump Assembly (FCPA) Remove and Replace (R&R):  Friday night, the Urine Processing Assembly (UPA) experienced a failure and was shut down. An error message was generated because the FCPA pump speed sensor did not match the FCPA pump motor speed sensor. Ground teams reviewed the data and recommended removing and replacing the FCPA.  Flight Engineer (FE)-6 Tom Marshburn completed the R&R this morning but when the UPA was commanded to standby, there was a high current fault on the V4 valve cluster. Engineering teams reviewed the data and recommended attempting another standby command.  The V4 valve cluster operated but there was another high current. Specialists researched the history of the spare unit and discovered that this particular spare FCPA had not been cycled for over a year, and that the valves were “packed” tighter during assembly than previous valve blocks to help prevent leakage.  The UPA FCPA valves will be checked tomorrow in their 4 possible configuration positions to characterize the performance of the valve block and valve motor.
+
+ENERGY Experiment: Saturday and Sunday Marshburn completed days 4 and 5 of metabolic measurements and completed day 6 today.  A loss in astronauts’ body mass is a systematic observation during space flight. The aim of ENERGY is to measure changes in energy balance during long term space flight; measure adaptations in the components of the Total Energy Expenditure (consumption); and to derive an equation for the energy requirements of astronauts.
+Protein Crystal Growth (PCG) Experiment: Saturday, Marshburn installed a canister in the Protein Crystallization Research Facility (PCRF) and set up the cables in preparation for the high quality Protein Crystal Growth experiment which was subsequently started. The aim of this experiment is the growth of crystals of biological macromolecules by the counter-diffusion technique. The main objective of the JAXA PCG experiment is to produce the fine quality protein crystals under microgravity environment. These space-grown crystals will be applied to structural biology and pharmaceutical activity.
+Crew Handover: Commander (CDR) Hadfield performed a handover to newly arrived crewmember FE-3 Chris Cassidy. Topics covered were recommendations for suggested on-orbit practices and lessons learned related to ISS systems and payloads. Recent deltas to the configuration of ISS systems were also reviewed as it may have been a month or more since the oncoming crew was briefed on ISS system status.
+Emergency Roles and Responsibilities Review: All 6 crewmembers participated in this review to bring the 3 newly arrived crewmembers up to speed on their roles and responsibilities in the event of an ISS emergency. Top priority during an emergency is safety of crew followed by safe configuration of the Station. Various subjects were covered to meet these priorities including crew accountability, escape vehicle access, maintenance of Soyuz configuration, ISS Commander responsibility, and communication and coordination.
+Countermeasures System (CMS) Advanced Resistive Exercise Device ARED Exercise Rope R&R: Hadfield and Cassidy completed this routinely scheduled maintenance activity today.
+Today’s Planned Tasks
+· Reaction Self Test  [Complete] 
+· SM ПСС (Caution & Warning Panel) Test / Manual Controls   [Complete] 
+· Reload Laptop RSS1, RSS2 / r/g 1009  [Complete] 
+· Reaction Self Test  [Complete] 
+· Reboot Laptop RS2(1) / Onboard Computer System (БВС)  [Complete] 
+· Calf Volume Measurement  [Complete] 
+· MO-8. Cleanup  [Complete] 
+· Verification of antivirus scan results on ВКС laptops and Status Report / r/g 1930  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· ENERGY Diet Log of Breakfast  [Complete] 
+· Position the MPC camcorder to provide an overall view of Ku Comm Unit Installation activities  [Complete] 
+· Glacier – Hardware Setup on EXPRESS rack  [Complete] 
+· HRCS – Ku-band Comm Unit No. 2 Installation activities  [In Work] 
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954  [Complete] 
+· CASKAD. Glovebox-S Removal / r/g 1953  [Complete] 
+· R&R БУПТ-1М (А406) device in Module АБ No.6, Removal of 800А АБ No. 4 from module, and Installation of БУПТ-1М (А406) Dismantled on 03/19/13. r/g 1941  [Complete] 
+· Bringing ODF up to date using ТК 708 delivered files / r/g 1951  [Complete] 
+· Replacement of ПФ1, ПФ2 Dust Filters and Cleaning В1, В2 Fan Grills in DC1  [Complete] 
+· WRM Condensate Pumping Start  [Complete] 
+· On MCC Go R&R БУПТ-1 (A406) device in Module АБ No.6 – Mate telemetry connectors / SM IVA IFM,  r/g 1941 [Complete] 
+· PROK Kit Prep  [Complete] 
+· R&R БУПТ-1М(А406) device in Module АБ No.6 – Install unit 800А in Module АБ No.4 (А104) r/g 1941  [Complete] 
+· Cleaning ВД1 and ВД2 Air Ducts in DC-1  [Complete] 
+· ИК0501 Gas Analyzer Adjustment Using Analyzer Status Indicator ИГ3.  [Complete] 
+· Counter Measure System (CMS) Harmful Contaminant Measurements in SM / r/g 1955  [Complete] 
+· СОЖ Maintenance
+· MATRYOSHKA-R. Monitoring Lulin-5 readings / r/g 1854
+· ENERGY Diet Log of Lunch  [Complete] 
+· HRCS – Ku-band Comm Unit No. 2 Installation activities   [Complete] 
+· EVA procedures and preliminary timeline review, watching DVD’s r/g 1957, 1958,1959, 1960 + MBM.avi
+· Crew time for ISS adaptation and orientation  [Complete] 
+· WRS Maintenance  [Complete] 
+· EXPRS1-ELC Laptop Software Load  [Complete] 
+· WRM Condensate Pumping Terminate   [Complete] 
+· MERLIN – Software Load  [Complete] 
+· IMS Update  [Complete] 
+· SNFM Software Load  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· CASKAD. Manual Mixing in Bioreactor / r/g 1954  [Complete] 
+· P/TV Playback Start
+· Reaction Self Test
+· ENERGY Diet Log of Dinner
+· Reaction Self Test
+· P/TV Playback Stop
+Task List
+· Daily CEO ops  [Complete] 
+· SSC data gather (FE-6)
+· SSC data gather (CDR)
+· WHC KTO Replace
+· WHC EDV R&R
+· Roscosmos report
+· Uragan Photo
+· EKON Photo
+· CTB 1260 cleanup
+· ISS ext survey – MRM
+· Crew handover
+· HTV4 Stowage Relocate 1  [Complete] 
+· HTV4 Stowage Relocate 2  [Complete] 
+· JLP US Rack Labels  [In Work] 
+· P/TV contacts clean
+· WHC SWR R&R
+
+Ground
+· Nominal Commanding
+· Ku-Comm Unit 2 commanding  [In Work] 

@@ -1,0 +1,27 @@
+
+Payloads
+Confocal Space Microscopy: The crew removed optical lenses from the Confocal Space Microscope hardware. The Payload Control Box Hard Drive was also reconfigured for the Confocal Space Microscope. The Confocal Space Microscope (Confocal Microscope) is a JAXA facility that provides fluorescence images of biological samples aboard the International Space Station. Confocal microscopy uses spatial filtering techniques to eliminate out-of-focus light or glare in specimens whose thickness exceeds the immediate plane of focus. With the Confocal Microscope, data can be obtained on the fundamental nature of cellular and tissue structure and functions in real-time.
+STP-H5-Innovative Coatings Experiment (ICE): On GMT 251, the crew took photographic images of the STP-H5 ICE experiment through the JEM window as part of a quarterly imagery requirement. The harsh radiation and extreme temperatures of space can corrode the paint and coatings that protect spacecraft exteriors, potentially damaging a spacecraft’s hull. Optical coatings are also important for robotic and human navigators, who would rely on specialized markings to capture or repair spacecraft. The Space Test Program-H5-Innovative Coatings Experiment (STP-H5 ICE) studies new coatings for use on spacecraft in low-Earth orbit, determining their stability after two years in space.
+Genes in Space-6: The crew performed the setup of the Biomolecule Sequencer with a new Flow Cell sample and initiated a sequencing run. Deoxyribonucleic acid (DNA) damage caused by increased exposure to radiation can affect the long-term health of astronauts. Genes in Space-6 determines the optimal DNA repair mechanisms that cells use in the spaceflight environment. The investigation evaluates the entire process in space for the first time by inducing DNA damage in cells and assessing mutation and repair at the molecular level using the miniPCR and the Biomolecule Sequencer tools aboard the space station.
+Systems
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Drain/Fill: Today, the crew set up the recycle tank to drain to a ЕДВ-У. Following the setup the ground performed the tank drain using the Urine Transfer System (UTS). Once the ground specialists completed the transfer, the crew verified the recycle tank was empty, terminated the drain, and repositioned the fill/drain valve to fill.
+Completed Task List Activities:
+
+Rodent Research Habitat Stow
+In-Flight Maintenance (IFM) Jumper Quick Disconnect (QD) Maintenance
+FGB NASA Audit
+Photo/TV Flash Fix
+Node 2 Diffuser Label
+Extravehicular Activity Repair Cargo Transfer Bag Cleanup
+JEM Payload Control Box (S/N 002) Power Cable Replace
+JEM Payload Control Box (S/N 002) Power Cable Replace
+Temperature and Humidity Control Keep-Out-Zone Clear
+Refabricator Cartridge Swap
+Wanted CEVIS Ergometer
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+PMA3 Shell Heater Test
+PCU Deact
+

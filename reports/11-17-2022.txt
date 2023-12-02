@@ -1,0 +1,30 @@
+
+RS Extravehicular Activity (EVA) #55: During today’s EVA, FE-4 Sergey Prokopyev (EV1) and FE-5 Dmitry Petelin (EV2) performed a multitude of tasks including preparation of a radiator and an airlock for installation on the Nauka multipurpose laboratory module (MLM). The MRM2 hatch opened at 8:41 AM CT. The following tasks were completed:
+
+Installation of STRELA adapter on A/L FRGF on MRM1
+Removal of 6 (six) radiator restraints
+Venting nitrogen from radiator hydraulic loops
+Installation of retainer on STRELA2
+Installation of Large Object Attachment System ([СККО]) on MLM
+
+The Phase Elapsed Time (PET) of this EVA was 6 hours and 25 minutes.
+Payloads:
+Combustion Integrated Rack/Solid Fuel Ignition and Extinction (CIR/SOFIE): The crew gained access to the CIR and performed the steps necessary to remove a faulty duct flow sensor and replaced it. This is one of the component replacements needed to get the CIR/SOFIE system ready to support science operations. The CIR facility includes an optics bench, combustion chamber, fuel and oxidizer control, and five different cameras for performing combustion investigations in microgravity. SOFIE is a hardware insert for the CIR that enables a wide range of solid-material combustion and fire suppression studies.
+Systems:
+Compound Specific Analyzer-Combustion (CSA-CP) Checkout: Today the crew installed new Battery Packs into newly resupplied CSA-CPs, reset the internal clock and data logger for each monitor, and allowed all units to off-gas in an open environment. The CSA-CPs are used for continuous monitoring of carbon monoxide levels in the ISS. The CSA-CPs can also provide real-time readings following a combustion event and subsequent cleanup efforts. 
+Columbus Centralized Cabin Filter (CCF) R&R: The crew replaced the high-efficiency particulate absorbing (HEPA) CCF in the Columbus Cabin Heat Exchanger (CHX). The CCF is a HEPA filter that scrubs all air entering the CHX. To control reproduction of accumulated microbes, the filter has an on-orbit life of one year.
+Cygnus Cargo Transfer Operations and Cargo Dragon Prepack: The crew continued offloading science experiments, crew provisions, and hardware from the Cygnus NG-18 cargo vehicle. The crew is close to the end of unpacking Cygnus, which will eventually lead to crew activities for repacking the vehicle with trash and unwanted items from the ISS. The crew concurrently also prepacked and prepared items for return in anticipation for the upcoming Cargo Dragon vehicle. 
+SpX-26 Dragon Rendezvous Review Computer Based Training (CBT): Today the crew reviewed Rendezvous and Proximity Operations as well as videos of nominal and off-nominal Dragon approaches. The crew also used Dynamic Onboard Ubiquitous Graphics (DOUG) to review docking target assessment. The CBT review activities are completed as part of training and preparation for the arrival of SpX-26.
+Completed Task List Activities:
+
+PCSDAS-CABLE-WANTED
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+CCS SMCC Data Dump
+WIS-Ops RFID-Off
+SOFIE-Sensor Replace
+ARS N3 TCCS Activation
+Restricted Exercise Video D/L
+

@@ -1,0 +1,93 @@
+
+Ocular Health (OH) Optical Coherence Tomography (OCT):   Flight Engineer (FE)-6 Nyberg and FE-3 Hopkins set up associated Extravehicular Activity (EVA) Infrared (IR) hardware and took turns as Crew Medical Officer (CMO) and subject, performing the eye examination portion of OCT Functional Checkout with the ground experts providing remote guidance.  The OCT testing will be used to determine whether the unmodified, commercially available device can operate effectively in the ISS.
+Blood Pressure Regulation (BP Reg) Experiment:  FE-5 Parmitano reviewed a session overview and related procedures, and then set up hardware to support the leg cuff and rebreathing protocol for the Canadian Space Agency BP Reg experiment.  BP Reg tests the efficacy of an in-flight manipulation of arterial blood pressure as an indicator of post-flight response to a brief stand test. Space flight negatively impacts the regulation of BP on return to an upright posture on earth.  This experiment has potential application for the general population, where dizziness and fainting (syncope) are major health problems accounting for 1-3% of visits to hospital emergency rooms. These problems become especially important for elderly, where falling is a major contributor to bone fracture. A better understanding of the mechanisms responsible for fainting could reduce risk of injury.
+Reconfiguration of Combustion Integrated Rack (CIR) Imaging for Observation of Cool Flame Phenomena: Hopkins reconfigured the CIR Imaging capabilities by changing a filter in the CIR Optics Bench.  This change will allow viewing of the cool flame phenomenon during combustion of alkane fuel droplets in the upcoming Multi-user Droplet Combustion Apparatus (MDCA) Flame Extinguishment (FLEX) experiment.  There are potential applications from this investigation to advanced low temperature combustion engines, fuel reforming and new burner technologies, and improvements in fire safety in space vehicles.
+Sound Level Meter (SLM) Operations:  Parmitano took measurements of the acoustic environment in the habitable areas of the ISS. The data was then transferred to a Station Support Computer (SSC) for downlink to the ground.
+Today’s Planned Tasks
+
+Blood Collection for Refrigerated Centrifuge [Complete] 
+Vascular Refrigerated Centrifuge Configure [Complete] 
+Purging Elektron-VM Liquid Unit (БЖ) after Shutdown  [Complete] 
+Stimul Battery Charge – Close-out Ops [Complete] 
+CASKAD. Manual Mixing in Bioreactor  [Complete] 
+Vascular Refrigerated Centrifuge (RC) Spin Conclude [Complete] 
+Vascular Sample MELFI Insertion [Complete] 
+Optical Coherence Tomography (OCT) – Setup for Functional Checkout  [Complete] 
+MATRYOSHKA-R. Monitoring Lulin-5 readings  [Complete] 
+Recycle Tank Quick Disconnect (QD) Reconfig [Complete] 
+Electron Lines Leak Check  – configuration setup  [Complete] 
+Infrared Camera Setup for Optical Coherence Tomography (OCT) Ops [Complete] 
+БК-10 Inventory  [Complete] 
+РТ-50-1М No. 212 R&R – Preparation.  [Complete] 
+ОСТ – Functional Check [Complete] 
+Replacement of urine receptacle (МП) and filter-insert (Ф-В).  Install МП S/N 0630007 (00061469R, CМ1РО_1_138_1) and ФВ S/N 1301253 (CМ1РО_1_138_1, bag 362-21). Discard the removed items. Reflect changes in IMS  [Complete] 
+MRM1 Fan Screen Cleaning (group B)  [Complete] 
+Demate РТ-50-1М No. 212 TLM Connectors from Cable Network  [Complete] 
+ESA Weekly Crew Conference [Complete] 
+РТ-50-1М No. 212 R&R.  [Complete] 
+High Definition Video Camera Assembly 1 Activation with Hand-Held Microphone Set-up [Complete] 
+Medical Kit Audit   [Complete] 
+Blood Pressure (BP) – Procedure Review [Complete] 
+Vascular Blood Collection Stow [Complete] 
+Compound Specific Analyzer-Combustion (CSA-CP) Checkout part 2 [Complete] 
+Fluid Physics Experiment Facility (FPEF) Connector Recheck  [Complete] 
+Crew Prep For PAO [Complete] 
+PAO Event [Complete] 
+Demate РТ-50-1М No. 212 TLM Connectors from Cable Network [Complete]
+Optical Coherence Tomography (OCT) Functional Checkout [Complete]
+РТ-50-1М No. 212 R&R. [Complete]
+ПФ1, ПФ2 Dust Filter Cartridge Replacement and fan В1, В2 screen cleaning in DC1 [Complete]    (ФГБ1ПГО_2_224_1, bag 419-17 (00060609R)). Reflect changes in IMS [Complete]
+Prep for ISS RS SM fan replacement with low-noise units [Complete] 
+URAGAN. Observation and Photography using Photo Spectral System (ФСС) [Complete] 
+В1 Fan replacement in MRM2 with low-noise units [Complete]
+OCT Stow & Imagery Download [Complete]
+Integrated Rack (CIR) – Video Setup and Rack Doors Open [Complete]
+Combustion Integrated Rack Optics Bench Translation Out [Complete]
+On-orbit Hearing Assessment using EARQ [Complete]
+Elektron lines leak check  – dismantle the setup [Complete] 
+Combustion Integrated Rack Imaging Package Reconfiguration [Complete]
+Blood Pressure Regulation (BP Reg) Hardware Setup [Complete]
+Start SPHERES STELLA Application [Complete] 
+В2 Fan replacement in MRM2 with low-noise units [Complete].
+СОЖ Maintenance [Complete] 
+Mate РТ-50-1М No. 203 TLM Connectors to БКС [Complete]
+РТ-50-1М No. 212 R&R [Complete] 
+IMS Update [Complete] 
+Sound Level Meter (SLM) Setup and Operations [Complete]
+Recording Video Footage of Greetings [Complete] 
+CIR – Translation of Optics Bench and Video Recording [Complete]
+CIR – Rack Doors Close [Complete]
+SM Air Sampling for FREON Using АК-1М Sampler [Complete] 
+SM Air Sampling for CO using ИПД Samplers [Complete] 
+Collecting SM and FGB Air Samples Using АК-1М Sampler [Complete] 
+Sound Level Meter (SLM) Data Transfer [Complete]
+Crew is preparing worksite for the upcoming ‘Biolab Cassette Check and contingency Removal’ [Complete]
+CASKAD. Manual Mixing in Bioreactor [Complete] 
+Mate РТ-50-1М No. 212 TLM Connectors to БКС [Complete] 
+Replacement of РТ-50-1М of No. 212- system – Closeout Ops [Complete].
+
+Task List
+
+ARED Cylinder Evacuation
+KTO Replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+Recording video for Roskosmos Press Service
+Cygnus Prepack
+ECON-M. Observations and Photography
+URAGAN. Observations and Photography
+ESA Recorded Video Message
+SM Printer Troubleshooting
+ATV Cargo Transfer
+35S Prepack [In Work] 
+CFE ICF3 Ops
+Crew Discretion PAO [In Work] 
+EMU FPS R&R Study
+EMU FPS Tool Gather [In Work] 
+CDRA ASV Clean
+
+Ground
+
+Nominal Commanding
+Battery Reconditioning for set 1B1 [In Work] 
+

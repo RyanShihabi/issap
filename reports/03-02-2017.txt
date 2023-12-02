@@ -1,0 +1,80 @@
+
+Lab Carbon Dioxide Removal Assembly (CDRA) Maintenance:  Yesterday the crew installed the newer generation beds, like those in Node 3 CDRA, into Lab CDRA. Today, the crew repaired the CDRA Valve Power Cable W9P12 by splicing in two new wire segments and performing a 120V power check of the connector prior to installing CDRA into the LAB AR Rack.  Initial CDRA power and data checkout was nominal.  The full Lab CDRA checkout is in work.
+Pressurized Mating Adaptor (PMA) 3 Ingress Prep:  The crew is scheduled to ingress the PMA3 tomorrow morning.  Today the crew reviewed the PMA3 ingress procedure and gathered required hardware for tomorrow’s activities.  
+Energy Requirements for Long-Term Space Flight (Energy): Today is Day 1 for the Energy investigation; yesterday the subject began the 11 day diet and today began the urine collection for both the subject and control subject.  This morning, the subject configured the Pulmonary Function System (PFS) and performed a series of Oxygen Uptake Measurements (OUMs) after prescribed meals and scheduled fluid collections.  The Energy investigation measures adaptations in the components of total energy expenditure of crewmembers, so that an equation to determine the energy requirements of crewmembers during space flight may be derived. Such knowledge of energy requirements is of a great importance to ensure health, good performance and the overall success of a mission, and also contributes to ensure adequate exercise load and cargo allotments for food during space flight.
+Advanced Plant Experiments (APEX)-04 Photo: The crew retrieved one of the APEX-04 petri plates and photographed it on the Advanced Biology Research Facility (ABRS) photogrid. The picture will be downlinked for ground teams to evaluate the growth status. The APEX-04 (Epigenetic change in Arabidopsis thaliana in response to spaceflight – differential cytosine DNA methylation of plants on the ISS) experiment investigates how spaceflight can affect an organism on a molecular level without altering its outward appearance. Previous research has demonstrated that large numbers of plant genes are expressed differently in space compared to plants on Earth, which can alter how plants grow. This investigation studies the entire genome of thale cress plants grown in space, creating maps of spaceflight-specific changes in certain groups of genes. Results give new insight into plants’ molecular responses to spaceflight, which benefits efforts to grow plants in space for food and oxygen.
+Microgravity Expanded Stem Cells (MESC) Microscope Operations: The crew removed a BioCell from the Space Automated Bioproduct Laboratory-2 (SABL2) and placed it on the microscope stage configured outside the Microgravity Science Glovebox (MSG). The crew worked with ground specialist to image areas of the BioCell plate.  Following the focused imaging, the crew reinserted the BioCell back into the SABL. MESC will aid researches determine the efficiency of using a microgravity environment to accelerate expansion (replication) of stem cells for use in terrestrial clinical trials for treatment of disease. 
+ISS Reboost:  Last night the ISS performed a nominal reboost using the SM main engines, TIG 061/03:10 GMT burn duration 43 seconds.  The reboost set up the planned conditions for the upcoming landing of 48S on 10-April and launch of 50S on 20-April 20.  The 50S launch will utilize the 4-orbit rendezvous. 
+Mobile Servicing System (MSS) Operations:  Robotics operations for Stratospheric Aerosol and Gas Experiment (SAGE) Instrument Panel (IP) extraction from the SpX-10 Dragon Trunk have begun.  
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Energy PFS Powerup
+Energy Urine Sample Collection
+Regeneration of БМП Ф1 Micropurification Cartridge (start)
+Energy PFS Instrument Check
+ENERGY Double Labeled Water Intake
+In Flight Maintenance Carbon Dioxide Removal Assembly (CDRA) Preparation.
+Energy Oxygen Uptake – Part 1
+Pressurized Mating Adapter 3 Big Picture Word Review
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop
+Electrostatic Levitation Furnace(ELF) sample holder packing for SpX-10 early destow
+Water Recovery System Waste Water Tank Drain Termination
+In Flight Maintenance Carbon Dioxide Removal Assembly (CDRA) Preparation.
+Standardized Breakfast
+Replacement of БД-2 Treadmill Belt.
+Energy Oxygen Uptake – Part 2
+In-flight Maintenance (IFM) Carbon Dioxide Removal Assembly (CDRA) Chassis Installation
+Empty bladder for ENERGY
+Energy Oxygen Uptake – Part 3
+Start transfer from CWC-I No.2379 (NODE1; 20.4 L) to EDV No.1234 (00068255R, ФГБ1ПГО1_109)
+СОЖ maintenance
+Terminate water transfer from CWC-I to ЕДВ
+Progress 435 (DC1) Cargo Transfers and IMS Ops
+Energy Urine Sample Collection
+Energy Oxygen Uptake – Part 4
+BIOPLENKA. Removal of Samples from the Thermostat, fixation of Constanta cassette No.1-6 biofilm.
+Energy Urine Sample Collection
+Lab Carbon Dioxide Removal Assembly (CDRA) Bed  Equipment Stow
+Energy Urine Sample Collection
+BIOPLENKA. Removal of Cryogem-03 after Completion of the Experiment
+APEX-04 Petri Plate Photo
+Meteor Shutter Open
+Rodent Research Access Unit Clean
+Energy PFS Conclude
+Progress 435 (DC1) Cargo Transfers and IMS Ops
+Pressurized Mating Adapter 3 (PMA 3) Hardware Gather
+ENERGY Diet Log of Lunch
+Columbus Video Camera Assembly 1 Adjustment
+Preparing For Upcoming MagVector Science Run
+ESA Weekly crew conference
+RS remote laptop testing after BRI cleaning.
+Regenerative Environmental Control and Life Support System (RGN) Wastewater Storage Tank Assembly (WSTA) Fill
+Inventory Management System (IMS) Conference
+Public Affairs Office (PAO) High Definition (HD) Config LAB Setup
+Microscope Hardware Unstow
+PAO Preparation
+Delta file prep
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+Dose Tracker Data Entry Subject
+Micrgravity Expanded Stem Cells Microscope Ops
+Activation/Deactivation of MPEG2 Multicast TV Data Monitoring a (Ku-band)
+Cleaning dust filter cartridges ПФ1-4 in SM
+Fluid Shifts Dilution Measures Setup
+Download of BRI log from RSS1
+CONTENT. Experiment Ops
+JEM System Laptop Terminal Reboot
+Flight Director/ISS CREW CONFERENCE
+Microscope Hardware Temporary Stowage
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Lab AR Rack Activation
+Lab CDRA Checkout
+SAGE IP Extract
+

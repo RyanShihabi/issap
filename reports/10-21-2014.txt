@@ -1,0 +1,47 @@
+
+Ocular Health: Gerst conducted his return minus 30 day Ocular Health vision test and completed a questionnaire. With Wilmore as the Crew Medical Officer (CMO) operator, the tonometer was used to collect eye pressure measurements on Gerst as well as blood pressure measurements utilizing a blood pressure cuff.  The Ocular Health protocol calls for a systematic gathering of physiological data to characterize the risk of microgravity-induced visual impairment/intracranial pressure in ISS crewmembers. Researchers believe that the measurement of visual, vascular and central nervous system changes over the course of this experiment and during the subsequent post-flight recovery will assist in the development of countermeasures, clinical monitoring strategies, and clinical practice guidelines.
+Zebra Fish Muscle: In response to a crew comment to improve access for equipment used on the Zebra Fish muscle experiment, ground teams developed a more efficient stowage plan.  Gerst consolidate items for Zebra Fish Muscle from behind the stowage rack to the rack front for easier access by the crew.  He also replaced waste filters in the Aquatic Habitat Aquarium with fresh filters.  The Zebra Fish Muscle experiment asks if the atrophy of muscles under the condition of microgravity also occurs in Zebra Fish and why their atrophy occurs in the microgravity.
+Extravehicular Mobility Unit (EMU) Loop Scrub:  Following last week’s successful Extravehicular Activity, today Wiseman and Wilmore configured EMU Suits 3003 and 3010 for loop scrubbing. Once the suits were configured, they performed ionic and particulate filtration (scrubbing) and conducted biocidal maintenance (iodination) on both the suits and Airlock cooling water loops.  Samples containing 250 mL of the water were obtained before and after the loop scrub activity to determine the effectiveness of the filtering.  10 mL of this water sample will be used for a conductivity test and the remaining water will be sent to the ground for chemical analysis.
+Waste Hygiene Compartment (WHC) Purge:  The WHC System was purged this morning in an attempt to investigate small black flakes that were recently observed in the pressure relief bag (EDV), which is used during flush tank fills. Once today’s activity was complete, the crew discovered that the flakes were still being produced by the system. The flakes are estimated to measure ~1 mm in size. Samples of these flakes will be acquired tomorrow and prepared for return to the ground for analysis via SpaceX-4 Dragon.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Visual Control in DC1 of Circuit Breaker Position on DC Power-on Unit [БВП СО] and of Fuses on [БПП-30, 36] Fuse Box Panels using LED Indication
+БМП F2 Cartridge Regeneration (init)
+Review Updated EVA Timeline. Tagup.
+PILLE. Download & Placement before EVA
+Drink Bag Fill and Install in Orlan-MK (if required)
+Vacuum Pressure Equalization Valve and Pressure Relieve Valve [КСД] valve grille before EVA-40
+МRМ2 Prep and Soyuz #714 Activation prior to EVA
+ПНСТ protection gear prep
+Fill (separation) EDV (КОВ) #9 fill (separation) from EDV #1104 (b/c00063568R, FGB1ПГО_1_109) for ELECTRON
+Prep for ATV hatch closing
+ELECTRON-VM purge after deactivation
+VZAIMODEISTVIE. Experiment ops
+Turn on HDV Sony HVR-Z7E Camcorder and run NASA MPEG-2 Viewer app (for Propulsion compartment [АО]-ATV-5 interface video recording).
+OTKLIK. Hardware Monitoring. Tagup
+Removal of QD Clamps from Propulsion Compartment [АО] Side
+Preparation of Cables for SSC Connect in MRM2 for the duration of RS EVA
+ATV-СУ Transfer Hatch Closure / ЭС ATV item 3.3 page 3-3
+Turn off HDV Sony HVR-Z7E Camcorder and close NASA MPEG-2 Viewer app
+Hatch Closure Leak Check. / ЭС ATV item 3.5 page 3-4 (34)
+БМП Ф2 Cartridge Regeneration (term)
+EMU loop scrub
+WHC Purge
+ZebraFish Muscle filter replacement
+FE-3 HRF urine and blood sample collections
+FE-6 vision testing and blood pressure checks
+FE-3 Bone/Muscle Check
+EHS TOCA recording
+
+Completed Task List Items
+
+Data prep for return- FE5
+EMU helmet cleaning
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+UHF Activation in support of EMU Loop Scrub
+S-Band String 1 activation and configured for hot backup in support of  RS EVA 40 
+

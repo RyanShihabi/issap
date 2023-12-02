@@ -1,0 +1,106 @@
+
+Cell Mechanosensing 3 (CMS-3) Operations: Following yesterday’s successful observation obtained by repositioning the thermal sample container to allow enough lighting through the microscope for imaging, the crew completed another microscope observation setting for CMS-3. CMS-3 is a JAXA investigation that identifies gravity sensors in skeletal muscle cells to develop countermeasures to muscle atrophy. Scientists believe that the lack of mechanical stress from gravity causes tension fluctuations in the plasma membrane of skeletal muscle cells which changes the expression of key proteins and genes and allows muscles to atrophy.
+ 
+Ocular Health Cardiac Echo and Ultrasound 2 Exams: Crewmembers performed Ocular Health activities by configuring the Ultrasound 2 hardware used to conduct the echocardiogram and the Ultrasound eye exams. Operator assistance with remote guidance from the Ocular Health ground teams. The investigation gathers data on crew members’ visual health during and after long-duration space station missions. Tests monitor microgravity-induced visual impairment as well as changes believed to arise from elevated intracranial pressure to characterize how living in microgravity can affect the visual, vascular and central nervous systems. The investigation also measures how long it takes for crew members to return to normal after return to Earth.
+ 
+Multi-Omics Operations:  The crew supported the Japan Aerospace Exploration Agency (JAXA) Multi-Omics investigation by collecting saliva samples and inserting them into a Box Module in the Minus Eight-degree Freezer for ISS (MELFI). The investigation evaluates the impacts of space environment and prebiotics on astronauts’ immune function by combining the data obtained from the measurements of changes in the microbiological composition, metabolites profiles, and the immune system.
+ 
+Cognition Test Battery Operations: The crew powered on the HRF PC 3, launch the Cognition application and completed the Cognition test battery including pre-test questions and cognitive tests with performance feedback.  Cognition measures how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. Cognition includes ten brief computerized tests that cover a wide range of cognitive functions and provides immediate feedback on current and past test results. The software allows for real-time measurement of cognitive performance while in space.
+ 
+Habitability Human Factors Directed Observations: The crew recorded and submitted a walk-through video documenting observations of an area or activity providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the International Space Station. Observations can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+Wet Lab RNA SmartCycler Preparation: The crew completed hardware and software installations to support Wet Lab RNA SmartCycler operations by configuring the pantry T61p Laptop and SmartCycler hardware and loading the SmartCycler software onto the laptop. Wetlab RNA SmartCycler is a research platform for conducting real-time quantitative gene expression analysis aboard the ISS. The system enables spaceflight genomic studies involving a wide variety of biospecimen types in the unique microgravity environment of space.
+ 
+Bigelow Expandable Activity Module (BEAM) Transfer: Tonight Robotics Ground Controllers will transfer BEAM from the SpX-8 Dragon trunk to the Node 3 Aft Port.  Activities will include a Common Berthing Mechanism (CBM) Prep for Mate and inspection, BEAM extraction, maneuver to install position, CBM capture, and BEAM release. BEAM inflation is currently planned for late May.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+EarthKAM. Camera Battery Swap
+Multi Omics (MO) Sample Collection
+Check position of MRM2 manual Circuit Breakers [АЗС] on DC БВП panel and Fuse LED indication status
+Checking fuse LED indication on БПП-4, БПП-7 Fuse Boxes in MRM1 / Power Supply System
+Multi Omics (MO) MELFI Sample Insertion
+Multi Omics (MO) Equipment Stowage
+Multi Omics (MO) Survey Questionnaire Completion
+HRF – Activation of Refrigerated Centrifuge
+HRF Blood collection, Operator assistance
+HRF Refrigerated Centrifuge Configuration
+HRF  Blood sample removal in preparation for cold stowage insertion
+HRF  MELFI Sample Insertion
+ISS crew and ГОГУ r/g 1932
+Environmental Control & Life Support System (ECLSS) Recycle Tank Fill Part 3
+IMS Tagup (S-band) / r/g 1962
+HRF Closeout Ops
+Rodent Research (RR) Video Setup
+Rodent Research Checking water container and lights in rodents modules
+Soyuz 719 IRIDIUM phone charge, setup, start charge
+Soyuz 719 IRIDIUM phone charge, battery status check
+Soyuz 719 IRIDIUM phone charge, terminate charge
+RSS1 laptop BRI data download r/g 1961
+Replacement of urine receptacle No.0750008 and АСУ filter-insert No.1409279
+[АСУ] Activation after replacement
+BIOCARD. Experiment Ops.  r/g 1907
+BIOCARD. Operator Assistance During the Experiment / r/g 1907
+HABIT Survey Questionnaire Completion
+Psychological Evaluation Program (WinSCAT)
+SODF Deploy
+IDENTIFICATION. Copy ИМУ-Ц micro-accelerometer data to laptop / r/g 1589
+USND2 Hardware Activation
+Ultrasound  Scanning Prep
+FROST Ice Pack Questionnaire
+Ocular Health Experiment, Ultrasound 2 Scan
+Ocular Health Experiment, Ultrasound Scan
+SEISMOPROGNOZ. Download Data from Control and Data Acquisition Module (МКСД) HDD (Start) r/g 1595
+Ultrasound Data Export
+СОЖ Maintenance
+Ocular Health Experiment, Ultrasound 2 Scan
+Ocular Health Experiment,  Ultrasound 2 Scan
+Ultrasound Data Export
+Soyuz 720 IRIDIUM phone charge, initiate charge
+CMS3- Setting MICROSCOPE
+Ultrasound Scan
+Soyuz 720 IRIDIUM phone charge, battery status check
+Soyuz 720 IRIDIUM phone charge, terminate charge, setup teardown, closeout ops
+Psychological Evaluation Program (WinSCAT)
+Photography of Soyuz landing sites / r/g 1959
+Food Frequency Questionnaire
+SEISMOPROGNOZ. Downlink data from Control and Data Acquisition Module (МКСД) HDD (end) and start file compression r/g 1595
+INTER-MAI-75. Ham Radio Setup and Activation r/g 1955
+SmartCycler (SCYC) Hardware Setup
+INTER-MAI-75. Hardware status check / r/g 1955
+Ocular Health (OH) CARDIAC device operations
+EarthKAM. Camera Battery Swap
+БД-2 Maintenance r/g 1954
+Urine Transfer from EDV-U to Progress 431 (DC1) Rodnik H2O Tank 2  r/g 1963
+Ocular Health (OH) Vision Test Operator Assistance
+Double Coldbag (DCB)  Ice Brick Stow
+Ocular Health (OH) CARDIAC device operations
+Ocular Health (OH) Vision Test Operator Assistance
+Double Coldbag Pack stowage
+Waste and Hygiene Compartment (WHC) Urine Receptacle and Insert Filter Changeout
+INTER-MAI-75. Hardware status check / r/g 1955
+IMS Delta File Prep
+SmartCycler (SCYC) Hardware Checkout
+USND2 Hardware Deactivation
+HRF – Hardware Setup
+SHD – Weekly Questionnaire
+USOS Window Shutter Closure
+INTER-MAI-75. Equipment deactivation and cleanup / r/g 1955
+COGNITION. Battery Test Ops and Performance Feedback
+COGNITION. Battery Installation, hardware activation, performance feedback
+EarthKAM. Camera Battery Swap
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+BEAM ops [To be completed tonight]
+Nominal ground commanding
+
+ 

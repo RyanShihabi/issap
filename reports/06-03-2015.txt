@@ -1,0 +1,64 @@
+
+Fluid Shifts:  Fluid Shifts operations continued today in the Russian Service Module (SM).  Kelly donned the Lower Body Negative Pressure (LBNP/Chibis) device while Kornienko, with ground support in Moscow, assisted with medical monitoring.  While Kelly was subjected to the negative pressure (pulling the fluid toward the feet), Padalka, with remote guidance in Houston, performed measurements with Distortion Product Otoacoustic Emissions (DPOAE), Optical Coherence Tomography (OCT), and Tonometry measurements. Fluid Shifts is a joint NASA-Russian experiment that investigates the causes for severe and lasting physical changes to astronaut’s eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage.
+Haptics-2: Virts completed an On-Board Training (OBT) session and loaded the Haptics-2 software updates from Haptics-1 to Haptics-2.  He then executed protocol one of two protocols. Haptics-2 is a technology demonstration experiment to validate for the first time a bilateral control interaction to take place between space and ground. Haptics-2 will compare the performance achievable through two different communication links: an IP forward link through Tracking and Data Relay Satellite System (TDRSS) with substantial amount of time-delay and high bandwidth and, (B) a direct S-band link through the KONTUR-2 system which has a short time-delay and reduced bandwidth. Haptics-2 consists of 2 independent experiment protocols aimed at quantifying the performance characteristics of the two different communication channels between space and ground (pre-test) and aimed at demonstrating for the first time real bilateral teleoperation with force-feedback to take place between space and ground through both communication links.
+Wearable Monitoring: Prior to sleep, Cristoforetti set up hardware and donned the Wearable Monitoring Vest for data acquisition during sleep. This is the final of six planned sessions. The experiment validates a new cloth vest that monitors astronaut heart rates and breathing patterns during sleep. It also collects data to investigate whether changes in heart activity are related to astronauts’ poor sleep quality. Current technology cannot check astronauts’ heart activity while they sleep because the test wakes them. The Wearable Monitor is a lightweight vest with silver wires and sensors embedded into the fabric, making it more comfortable to wear.
+Extravehicular Mobility Unit (EMU) 3010 Fan Pump Separator (FPS) Remove & Replace (R&R): Virts and Cristoforetti completed Part 1 of 2 to R&R the failed FPS in EMU 3010. They set up the Airlock, retrieved and assembled the necessary equipment and prepared the EMU for the removal tomorrow. On Friday, the crew will pack the removed FPS for return on 41 Soyuz (41S). 
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+FLUID SHIFTS. Comm configuration for the experiment
+HRF Generic Refrigerated Centrifuge Configure
+FLUID SHIFTS. Gathering and Connecting Equipment for TV coverage
+HAPTICS-2 ops in rack mounted config
+HRF Generic Refrigerated Centrifuge Configure
+Replace battery pack in CDM, activate and don CDM for CDM Crew Worn session
+HRF Generic Refrigerated Centrifuge Spin Conclude
+Fluid Shifts OCT Service Module Setup
+FLUID SHIFTS. RS HRF connection to ППС-26 (instead of RSE-Med)
+HRF Generic Sample MELFI Insertion
+EDV (SV) Filling (Separation)
+Fluid Shifts CCFP Service Module Configuration
+EMU FPS R&R Part 1
+FLUID SHIFTS. Assistance with Chibis and Gamma-1
+Fluid Shifts Experiment Service Module Data Collection Subject
+Life On The Station Photo and Video
+Fluid Shifts Tonometry Service Module Stow
+Fluid Shifts OCT Service Module Power Off
+HRF Generic Frozen Blood Collection Conclude And Stow
+HRF Generic Urine Collection Stow
+Replacement of Vozdukh Atmosphere Purification System [СОА] Assemblies
+On MCC Go Mating Vozdukh TLM-connectors
+Verification of ИП-1 Flow Sensor Position
+Cleaning FGB ЦВ1 Circulation Fan Screens
+European Modular Cultivation System (EMCS) Pressure Relief Valve Check
+LBNP Exercise (PRELIMINARY)
+WPA Waste Water Tank Offload into CWC initiate
+PAO HD config
+PAO prep
+PAO event
+MELFI 2 Ice Brick Insert 2
+Troubleshooting FGB Power Supply System and СУБК devices
+Rodent Research CASIS Dissection Gather
+HAPTICS-2 1B and 2B protocols OBT
+PK-4 Experiment Run
+Hematocrit  Hardware Setup
+Configure ER5 laptop to point to the PEHG 2 Gateway to allow Remote Desktop access through Ku Forward
+RGN Recycle Tank Fill
+CB valve checkout
+HAPTICS photo documentation
+Crew departure prep
+HAPTICS-2 protocol 1B ops [Aborted]
+HAPTICS-2 ops conclude
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+FPS R&R ops
+Fluid Shifts ops
+

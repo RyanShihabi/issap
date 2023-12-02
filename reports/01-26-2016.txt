@@ -1,0 +1,70 @@
+
+Burning and Suppression of Solids – Milliken (BASS-M) Preparation:  In preparation for BASS-M operations this week, Kopra reconfigured the Microgravity Science Glovebox (MSG) Facility and installed Smoke Point In Co-flow Experiment (SPICE) hardware into the MSG work volume.  He will perform the BASS-M ignitor test tomorrow, prior to BASS-M sample testing.  The BASS-M investigation tests flame-retardant cotton fabrics to determine how well they resist burning in microgravity.  Results benefit research on flame-retardant textiles that can be used on Earth and in space.
+ 
+Sprint Ultrasound:  Kelly performed his Flight Day 300 thigh and calf ultrasound scans today with assistance from Kopra and guidance from the Sprint ground team.  Ultrasound scans are used to evaluate spaceflight-induced changes in the muscle volume.  The Sprint investigation evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in ISS crewmembers during long-duration missions.  Upon completion of this study, investigators expect to provide an integrated resistance and aerobic exercise training protocol capable of maintaining muscle, bone and cardiovascular health while reducing total exercise time over the course of a long-duration space flight.  This will provide valuable information in support of the long term goal of protecting human fitness for even longer space exploration missions.
+ 
+Payload Data Handling (PDH) Removal and Replacement:  Peake removed the Payload Data Handling (PDH) unit in the JEM and replaced it with PDH2.  The PDH unit being replaced is an engineering model flown up on ATV5 to replace a failed PDH.  PDH2 provides added capability for support of a hot-standby backup and automatic switchover for contingencies.  The PDH units handle commanding to JAXA payloads, downlink channels and High-Rate payload data downlink.
+ 
+Observation Analysis of Smectic Islands in Space (OASIS) Removal:  Kelly completed OASIS removal from the Microgravity Science Glovebox (MSG), an activity begun last week.  Kopra then inserted the Burning and Suppression of Solids-Milliken (BASS-M) experiment into the MSG.
+ 
+Orbital ATK (OA)-4 Cargo Operations:  Peake and Kopra continued transferring Cygnus cargo to ISS today.  Approximately 22 hours of transfer operations remain to be completed.  Cygnus is scheduled to unberth from ISS on February 19th.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+OTKLIK. Hardware Monitoring
+USND2 – Hardware Activation
+Cygnus Cargo Operations
+ER4 – Insertion of USB drive to allow starting of the SW load
+Fine Motor Skills –  Examination
+OASIS – Observation and Analysis
+Glisser-M Video Hardware Battery Charge
+JPM – Payload Data Handling (PDH) Unit R&R
+BIOCARD. Experiment Ops
+VIZIR Experiment
+SPRINT – Scanning Ops
+Orlan suit No.4 Height Sizing
+SPRINT – Operator Assistance with the Experiment
+Orlan 4 Backup Bladder Leak Check
+Orlan No.4 and БСС (Orlan Interface Unit) leak checks and valve tests
+ER4 – Insertion of DVD drive to allow starting of the SW load
+Orlan 6 Backup Bladder Leak Check
+SAMS – Sensor Removal
+Orlan No.6 and БСС (Orlan Interface Unit) leak checks and valve tests
+Bag consolidation in Columbus
+USND2 – Hardware Deactivation
+Photo/TV – LAB coder power cycle
+SAMS Installation in Columbus
+24-hour ECG Monitoring (termination)
+Glisser-M Video Hardware Battery Charge  (terminate)
+Preparation of Glisser-M Video Hardware used during USOS EVA
+Terminate EMU LLB Battery Autocycle
+Columbus Bag Restow
+24-hour BP monitoring (terminate)
+IMS Delta File Prep
+МИРТ-3 Micro-integrator Changeout (А507, А607, А707). Install Nos.10395332, 10343135, 10343136. Dismantled МИРТ-3 10368557, 10368558, 10368560
+Cygnus Cargo Operations
+BASS – Crew Conference
+INTERACTION-2. Experiment Ops
+Cleaning FGB Gas-Liquid Heat Exchanger (ГЖТ) Detachable Screens 1, 2, 3
+Cygnus – Cargo Operations Tagup
+BASS Equipment Setup
+СОЖ Maintenance
+Air Heater Fan [БВН] Screen Cleaning in ТК 719
+ER4 – DVD Removal and Stowage
+BASSM – Payload Ops Overview
+IFM – Waste and Hygiene Compartment (WHC) – Full Fill
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+PDH2 Checkout
+
+ 

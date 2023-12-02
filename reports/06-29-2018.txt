@@ -1,0 +1,74 @@
+
+SpaceX-15 Launch: SpX-15 launched nominally today at 4:42 AM CDT from Launch Pad LC-40 at Kennedy Space Center, Florida. In preparation for vehicle arrival, the crew scheduled to capture Dragon completed their second Robotics Onboard Trainer (ROBoT) session this afternoon. In addition, all USOS crew participated in a conference with ground cargo transfer specialists to discuss the SpX-15 cargo unloading and loading plan. Capture and berthing is scheduled for Monday, July 2, at approximately 6:00 AM CDT.
+Umbilical Interface Assembly (UIA) Remove and Replace (R&R): After yesterday’ successful O2 Supply Line troubleshooting, including an overnight gross O2leak check, this morning the crew completed installation of the Service and Cooling Umbilicals (SCUs) and successfully completed the UIA checkout activities. This afternoon the crew performed the final closeout activities and stowed the tools used during the R&R. Nominal Extravehicular Activity (EVA) operations have been restored.
+Airway Monitoring:  In support of the European Space Agency’s Airway Monitoring investigation, today the crew completed calibration of the hardware in the US Laboratory and then completed the low Nitric Oxide (NO) protocol, which determines how much NO is exhaled with respiration, and the high NO protocol, which determines how much NO is diffused into the blood.  The ISS provides a unique environment, allowing these measurements to be taken in weightless, hypobaric and hypoxic conditions. With dust particles present in the ISS atmosphere, this investigation studies indicators of airway inflammation in crewmembers, using ultra-sensitive gas analyzers to analyze NO in exhaled air. This will help to identify potential health impacts and support maintenance of crewmember health during future human spaceflight missions, where crewmembers will have to be more self-sufficient in identifying and avoiding conditions that may result in airway inflammation.
+DEvice for the study of Critical LIquids and Crystallization (DECLIC):  Today the crew replaced the DECLIC ALICE-Like Insert (ALI) in the DECLIC Experiment Locker with the DECLIC Directional Solidification Insert (DSI).  DECLIC is a multi-user facility utilized to study transparent media and their phase transitions in microgravity onboard the ISS. 
+Microgravity Measurement Apparatus (MMA):  As part of troubleshooting for an issue that occurred on October 31, 2017 with the MMA, that supports operations of the Ryutai rack in the JEM, the crew replaced the MMA Parallel Adapter Card with a T61p Express Card to Parallel Adapter.
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Calibrations, Low NO and High NO measurements
+Inventory Management System (IMS) conference
+Regeneration of Micropurification Unit (БМП) Ф2 Cartridge (start)
+COSMOCARD. Closeout Ops
+Umbilical Interface Assembly (UIA) Checkout Part 2
+FAZOPEREKHOD. Preparation steps and starting the experiment.
+ABOUT GAGARIN FROM SPACE. Hardware Setup and Activation
+Microgravity Measurement Apparatus (MMA) Parallel Adapter Card Replacement.
+СОЖ maintenance
+Service and Cooling Umbilical (SCU) Installation
+THE GREAT BEGINNING. GREAT BEGINNING Educational Session and Video Recording of ICARUS Science Hardware prior to EVA
+HRF2 Supply Kit Resupply
+Umbilical Interface Assembly (UIA) Checkout Part 3
+STaARS Cryotube Kit MELFI Insertion #3
+SPHERES Rechargeable Battery Install
+SLS Relocate
+AngieX Cancer Therapy SABL CO2 Meter Setup
+Dragon Vestibule Outfitting Kit (VOK) Gather
+BIOCARD. Assistance During the Experiment and Photography
+BIOCARD. Experiment Session
+Food Acceptability Questionnaire Subject
+AIRMON Power off and Stow
+FAZOPEREKHOD. Closeout Ops
+SPHERES Rechargeable Battery Charge and Stow
+GREAT BEGINNING. ICARUS P/L Stowage in Progress 438
+Airway Monitoring Video Stow
+CAL Fiber Troubleshoot
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Fill Part 3
+GREAT BEGINNING. Copying Camcorder data
+Extravehicular Mobility Unit (EMU) Servicing and Cooling Umbilical (SCU) Checkout Part 4
+Installation of БД-2 Treadmill and Testing СНТ-50МП Units After Replacement
+AngieX Cancer Therapy SABL CO2 Meter Teardown and Stow
+MICRO-11 Microscope Operations Overview
+Tropical Cyclone Operations Review
+Tropical Cyclone Untended Operations [Deferred]
+MICRO-11 MSG Operations Overview
+Umbilical Interface Assembly (UIA) Restow
+DECLIC ALICE-Like Insert Removal
+DECLIC Directional Solidification Insert Installation
+GREAT START. Copying Camcorder Data
+DECLIC Removable Hard Disk Drive Exchange
+On-board Training (OBT) Dragon Attached Phase Operations Review
+SPHERES Rechargeable Battery Charge and Stow
+On-board Training (OBT) Dragon Robotics Onboard Trainer (ROBoT) Session 2
+Extravehicular Activity (EVA) Airlock Restow
+ISS Food Intake Tracker (ISS FIT)
+Dragon Cargo Operations Review
+Inventory Management System (IMS) Conference
+Dragon Cargo Operations Conference
+GREAT BEGINNING. Terminate Camcorder Data Copy
+Regeneration of Micropurification unit (БМП) Ф2 cartridge (finish)
+
+Completed Task List Activities:
+
+None
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+UPA PCPA Pumpdown
+Dragon Cargo Conference
+JEMRMS File Transfer and Checkout
+

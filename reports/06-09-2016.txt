@@ -1,0 +1,113 @@
+
+Marrow Breath and Ambient Air Sample Collection: Upon waking this morning, the crew took breath and ambient air samples for the Canadian Space Agency (CSA) Marrow experiment which investigates the effect of microgravity on human bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on bone marrow and the blood cells that are produced in the marrow. The extent of this effect and its recovery are of interest to space research and healthcare providers on Earth.
+ 
+Cardio Ox Ultrasound Operations: With remote guidance from the Cardio Ox ground teams, the crew conducted an ultrasound scan after configuring the VOX, attaching the ECG Electrodes, and marking the arteries followed by blood pressure measurements using the Cardiolab Holter Arterial Blood Pressure Unit. The goal of this investigation is to determine whether biological markers of oxidative and inflammatory stress are elevated during and after space flight and whether this results in an increased, long-term risk of atherosclerosis risk in astronauts.
+ 
+Human Research Program (HRP) Generic Urine and Frozen Blood Collection Double Spin: The crew continued HRP operations that began yesterday by setting up the hardware used to perform blood draws and urine samples collections. The crew collected urine samples for a 24-hour period, configure the Refrigerated Centrifuge for sample load operations, and processed a set of blood samples for double spin operations using the Refrigerated Centrifuge. The samples will be stowed in the Minus Eighty-degree Freezer for ISS (MELFI).
+Reentry Breakup Recorder (REBR) Payload: In preparation for REBR operations on OA-6, the crew replaced some hardware and reviewed the REBR procedure video. REBR is a cost-effective system that rides a re-entering space vehicle, records data during the re-entry and breakup of the vehicle, and returns the data for analysis. Understanding how vehicles behave during atmospheric reentry gives future spacecraft developers unique information that can enhance design efficiencies and safety.
+ 
+Improved Payload Ethernet Hub Gateway (iPEHG) Installation Review: In preparation for tomorrow’s iPEHG installation, the crew reviewed reference material and procedures for installing the iPEHG into the EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Rack 5. The new iPEHG design corrects performance limitations often experienced by the older PEHG.
+ 
+Node 1 Vacuum Access Port (VAP) Fine Leak Test: The Node 1 VAP Mod Kit was installed on June 3 and provides vacuum capability for visiting vehicles berthed to Node 1 Nadir. Following installation of the hardware, gross and fine leak checks are performed. The VAP passed the gross leak check on June 7, however, during the fine leak check yesterday, the measured leak rate of air into the newly installed VAP exceeded the allowable limit permitted. Another leak check was performed this morning which also failed. This is a cabin air leak into the VAP setup, not a leak overboard and the ISS is in a stable configuration.  Teams are discussing a forward plan. The Node 1 VAP is next needed during OA-6 unberth.  If the fine leak check is not passed prior to this activity, a drag through duct can be implemented to depressurize the vestibule instead.
+ 
+Cygnus Departure Prep:  Robotics Ground Controllers are in the process of commanding the Space Station Remote Manipulator System (SSRMS) to grapple Cygnus in preparation for release and departure next Tuesday.
+ 
+Japanese Experiment Module (JEM) Cargo Relocation: The crew relocated cargo to the newly installed JEM stowage frame. The frame increased JEM stowage capability by 12 Cargo Transfer Bag Equivalents (CTBE).
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+MARROW. Air Samples Collection
+HRF. Centrifuge Activation and Assistance during Blood Collection
+KORREKTSIYA. Blood Samples Collection r/g 2485
+HRF. Blood Samples Collection (Operator)
+HRF. Centrifuge Configuration 1
+KORREKTSIYA. Venous Blood Processing in Plasma-03 Centrifuge / r/g 2485
+KORREKTSIYA. Samples Handover to the USOS for MELFI Installation / r/g 2485
+RUEXP. Blood Samples Insertion into MELFI
+HRF. Centrifuge Configuration 2
+HRF. Insertion of Samples into MELFI
+JAXA. Stowage Frames Consolidation
+HRF. Blood Samples Retrieval and their Preparation for Refrigeration
+On MCC Go Replacement of Unit 800А of SM Battery Module А107.
+Replacement of Unit 800А of SM Battery Module А107 (Assistance)
+HRF. Insertion of Samples into MELFI
+USND2. Hardware Activation
+KORREKTSIYA. Questionnaire Photography / r/g 2485
+HRF. Closeout Operations
+CARDOX. Preparation
+KORREKTSIYA. Closeout Operations / r/g 2485
+HRF. Urine Samples Collection
+CARDOX Scanning
+HRF. Insertion of Samples into MELFI
+Replacement of Unit 800А of SM Battery Module А107 (Assistance)
+CARDOX Scanning (Assistance)
+Preparation of Equipment to be Returned or Disposed of on Soyuz 719 / r/g 2374, 2446
+SEISMOPROGNOZ. Transfer of Information from МКСД Hard Drive (start) r/g 2224
+IDENTIFIKATSIYA. Transfer of ИМУ-Ц Measurements to a Laptop / r/g 1589
+CARDOX. Battery Installation
+CARDOX Measurements
+CARDOX. Blood Pressure Measurement
+Crew Departure Preparations for Return to Earth
+Insertion of Ice Brickes into MELFI 3
+On MCC Go Humidity Condensate [КАВ] Samples Collection from [СРВ-К2М] Prior To ФГС into Drinking Bags (end) / r/g 2477
+CARDOX. Experiment Operations (subject)
+DAN. Experiment Operations r/g 0119
+DAN. Assistance during Experiment Operations / r/g 0119
+CARDOX. Ultrasound Operations (Assistance)
+Stowage Consolication in JEM
+Crew Departure Preparations for Return to Earth
+JPM-ACDU. Remote Controller Installation
+CARDOX. Measurements
+CARDOX. Post-Measurement Operations
+Humidity Condensate [КАВ] Samples Collection Prior To Purification Columb Unit БКО of [СРВК-2М]. Setup, Sampler Installation / r/g 2477
+СОЖ Maintenance
+Acoustic Dosimeters Stow
+SEISMOPROGNOZ. Transfer of Information from МКСД Hard Drive (end) and Archiving (start) r/g 2224
+Humidity Condensate [КАВ] Samples Collection Prior To Purification Columb Unit БКО of [СРВК-2М]. Sampler Replacement / r/g 2477
+USND2. Hardware Deactivation
+Hardware Setup for a PAO Event
+Crew Preparation for a PAO Event
+PAO Event
+Transfer of Equipment to Progress 431 (DC1) for Disposal. IMS Update / r/g 2435
+BAR. Experiment Ops / r/g 2483
+HRF. Hardware Restow after Samples Collection
+INTER-MAI-75. Hardware Preparation and РЛС Hardware Activation. See Note 6 r/g 2486
+REBR. Payload Clamp Replacement
+HRF. Preparation for Blood Samples Collection
+ESA Weekly Crew Conference
+HRF. Hardware Installation
+Fan Screen Cleaning in MRM2 / Ventilation Subsystem and Air Conditioning System [СВКВ]
+ASTROPI. Preparations to connect the AstroPi Vis to the ISS Joint Station LAN.
+HRF. Hardware Installation
+Cargo Transfer from Cygnus
+Crew Departure Preparations for Return to Earth
+ARED Exercise
+VIZIR. Experiment Ops with СКПФУ Hardware r/g 2487
+MELF2. Ice Bricks Installation into MELFI
+Crew Departure Preparations for Return to Earth
+VZAIMODEISTVIYE-2. Experiment Operations / r/g 2484
+ER5. Installation Review
+Conference on the Installation of PEHG Hardware on EXPRESS 5 Rack
+REBR. Procedure Video Review
+Cargo Transfer into Cygnus
+IMS Conference
+J-NEST. Locating and Stowing SSD
+IMS Delta File Prep
+Humidity Condensate [КАВ] Samples Collection Prior To Purification Columb Unit БКО of [СРВК-2М]. Sampler Removal, Teardown  r/g 2477
+INTER-MAI-75. Hardware Deactivation and Closeout Operations / r/g 2486
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+BCC checkout
+MSS operations
+Nominal ground commanding
+
+ 

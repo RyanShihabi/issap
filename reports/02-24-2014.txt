@@ -1,0 +1,150 @@
+
+Growth of Homogeneous SiGe Crystals in Microgravity by the TLZ Method (Hicari)  Experiment:  Flight Engineer (FE)-6 Wakata removed the Sample Cartridge Serial Number 004 from Sample Cartridge Automatic Exchange Mechanism (SCAM) holder #4. The materials science investigation Growth of Homogeneous Silicon-Germanium (SiGe) Crystals in Microgravity by the TLZ Method (Hicari) aims to verify the crystal-growth by Travelling Liquidous Zone method, and to produce high-quality crystals of SiGe semiconductor using the Japanese Experiment Module-Gradient Heating Furnace (JEM-GHF). Once this method is established, it is expected to be applied for developing much efficient solar cells and semiconductor-based electronics.
+Fluids Integrated Rack (FIR) Facility Reconfiguration for Advanced Colloids Experiment (ACE)-M-1 Operations:  FE-3 Hopkins reconfigured FIR hardware for the upcoming FIR ACE-M-1 operations. ACE-M-1 is the first in a series of microscopic imaging investigations of materials which contain small colloidal particles which remain evenly dispersed and distributed within the material. Colloidal gels define the microstructure of materials, including many consumer products.  When the structures created in commercial colloidal gel products can no longer support the gravitational stresses (e.g. buoyancy) on the structures, they collapse.  This often determines the shelf life of the product. This investigation takes advantage of the unique environment onboard the ISS to separate the effects induced by Earth’s gravity to examine flow characteristics and the evolution and ordering effects within these colloidal materials.
+NanoRacks Module 9 Investigation:  Hopkins activated deactivate, and shook different designated mixing tubes for the fourth of six NanoRacks Module 9 sessions.  For this investigation student teams from across the United States designed their own experiments using flight approved fluids and materials. This investigation is part of the Student Spaceflight Experiments Program (SSEP), which is sponsored by the commercial Science Technology, Engineering and Math (STEM) education program that is overseen by the National Center for Earth and Space Science Education (NCESSE).  The tubes activated today are for investigations “Geotropism in Microgravity,”  “The Effect of Microgravity on Bacterial Growth and its Resistance to Antibiotics,”  “Does microgravity affect the growth of a Glycine max seed?,” “Mammalian Milk in Microgravity,” “The Effect of Microgravity on the Oxidation of Metal Exposed to a Salt Water Solution.”
+Lab Robotic Workstation (RWS) Jumper Removal: Today the crew removed the pin kit jumpers that were installed to power the Lab RWS from an alternate Remote Power Controller (RPC).  The jumpers were installed when the primary RPC, LAP51A4A_A RPC2, tripped and would not stay closed for sufficient periods of time to allow robotics operations.  The RPC was later successfully re-closed and has remained closed for over 60 days.  It is considered self-healed and the jumper is being removed to return the system to its nominal power configuration.
+Today’s Planned Tasks
+
+Morning Inspection. Laptop RS1(2) Reboot / Onboard Computer System [Complete]
+PROK – Urine Sample Collection [Complete]
+Morning Inspection. RSS1,2 Reboot [Complete]
+Calf Volume Measurement / МО, [Complete]
+МО-8. Setup / MO Book 2, [Complete]
+Body Mass Measurement /MO [Complete]
+MO-8. Cleanup [Complete]
+Daily Planning Conference (S-band) [Complete]
+MSL-GAS.  Gas Supply Drawer Exchange [Complete]
+Makita drill battery capacity check – equipment prep / r/g 4926 [Complete]
+Install Makita drill battery for discharge / r/g 4926 [Complete]
+Monitor Makita drill battery discharge / r/g 4926 [Complete]
+ANISO –  Rack Hub Deactivation. [Complete]
+VIRTUAL. Setup, Conduct Experiment and Closeout Ops / r/g 4922 [Complete]
+ANISO – Closeout Ops [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 4787 Complete]
+End Makita Battery discharge, Remove battery from the drill / r/g 4926 [Complete]
+G1 – Camcorder Setup [Complete]
+Removal and pre-packing of СУБА cables for disposal from RS. r/g 4907, 4915 [Complete]
+HICARI – Cartridge Removal [Complete]
+HICARI – Cartridge Installation [Complete]
+LBNP Exercise (PRELIMINARY) r/g 4914 [Complete]
+Install Makita drill battery for charging / r/g 4926 [Complete]
+Monitor Makita drill battery charge / r/g 4926 [Complete]
+G1 – Closeout Ops [Complete]
+ZSR rack bags audit [Complete]
+Monitor Makita drill battery charge / r/g 4926 [Complete]
+Monitor Makita drill battery charge / r/g 4926 [Complete]
+End Makita drill battery charge, r/g 4926 [Complete]
+RWS-LAB – Jumper Cable Reconfig [Complete]
+Makita drill battery capacity monitoring.  Closeout Ops / r/g 4926 [Complete]
+Microbial analysis T + 5 [In work] [Complete]
+Conference of Search and Rescue (ГПСК) specialists with returning crew  [Complete] 
+GREAT START. Script Review. r/g  4927, 4928 [Complete]
+СОЖ Maintenance  [Complete]
+WRS Sample Collection [Complete]
+Exercise data downlink / r/g 2639  [Complete]
+PROK Diet Logging (Day 1) [Complete]
+TOCA Potable Water Dispenser (PWD) Sample Analysis [Complete]
+On MCC Go Elektron-VM Purge After Activation  r/g 4907, 4915 [Complete]
+CIR – Hardware Teardown [Complete]
+FIR – Hardware Checkout, Rack Doors Open. Video Recording [Complete]
+MSL-GAS. Gas Supply Drawer Exchange [Complete]
+IFM. Crew Quaters (CQ) Overhead Cleaning [Deferred]
+Potable Water Collection in SM for In-Flight Chemical and Microbial Analysis [Complete]
+LMM – Module Rotation To Service Position and Video Recording [Complete]
+Petri config from CVB [Complete]
+IMS Update  [Complete]
+SPLANH. Experiment Setup / r/g 4920 [Complete]
+Video Footage for Gagarin-80 documentary  r/g 4925 [Complete]
+CASKAD. Manual Mixing in Bioreactor / r/g 4787 [Complete]
+ARED Exercise [Complete]
+LMM – Module Rotation to Operation Position.  Video Recording [Complete]
+WMK In-Flight Water Processing [Complete]
+FIR Rack Door Close [Complete]
+NanoRacks Ops [Complete]
+TOCA 2 Data Recording [Complete]
+
+Task List
+
+JAXA video taking_P8 [Completed Sat.]
+ARED Cylinder Evac
+KTO Replace [Completed Sat.]
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+IFM Food Warmer #1007 repair
+JSL Lab UIP Photo
+36S Pre-pack
+54P US Trash Gather  [Complete]
+ACY Insert Reconfig
+Crew Departure Prep
+Data prep return-CDR, FE-2, FE-3
+GHF HU Insul Measure [Complete]
+IFM Lab1OS3 LHA R&R [Complete]
+IFM NOD3OA4 LHA R&R
+Laptop Cleanup 4 [Complete]
+POC Pen & Ink update [Complete]
+Regen Kit Relabel
+
+Ground
+
+Nominal Commanding [Complete]
+
+QUICK ISS Status – Environmental Control Group:
+
+
+
+                              Component
+Status
+
+
+Elektron
+Off
+
+
+Vozdukh
+Manual
+
+
+[СКВ] 1 – SM Air Conditioner System (“SKV1”)
+On
+
+
+[СКВ] 2 – SM Air Conditioner System (“SKV2”)
+Off
+
+
+Carbon Dioxide Removal Assembly (CDRA) Lab
+Operate
+
+
+Carbon Dioxide Removal Assembly (CDRA) Node 3
+Standby
+
+
+Major Constituent Analyzer (MCA) Lab
+Off
+
+
+Major Constituent Analyzer (MCA) Node 3
+Operate
+
+
+Oxygen Generation Assembly (OGA)
+Process
+
+
+Urine Processing Assembly (UPA)
+Standby
+
+
+Trace Contaminant Control System (TCCS) Lab
+Off
+
+
+Trace Contaminant Control System (TCCS) Node 3
+Full up
+
+
+
+ 
+ 

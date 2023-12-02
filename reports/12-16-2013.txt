@@ -1,0 +1,66 @@
+
+External Thermal Control System (ETCS) Loop A Status:  ETCS Loop A is still operating without full temperature control.  All Loop A Interface Heat Exchangers (IFHX) remains bypassed and isolated, preventing internal heat rejection on loop A.  ETCS Loop B continues to operate nominally.  MCC-H continues to perform tests on ETCS Loop A to determine if they can regain enough temperature control to allow IFHX reintegration.  Due to the loss of heat rejection for the Node 2 Moderate Temperature Loop (MTL), half of the loads in the Node 2, JEM and Columbus modules remain powered off.
+ Extravehicular Activity (EVA) Materials Review:  FE-3 Hopkins, FE-5 Mastracchio, and FE6 Wakata reviewed EVA materials associated with replacing the ETCS Loop A Pump Module.  Included in the package was an overview of each of the three potential EVAs, summary timelines, procedures, translations paths, pump module diagrams and photographs.    
+Equipment Lock Preparation: In support of the potential EVA, Hopkins and Mastracchio prepared drink bags, BIO Medical equipment, prebreathe equipment, and verified required hardware was located in the Airlock.
+EVA Mobility Unit (EMU) On-Orbit Fit Check:  Hopkins and Mastracchio donned their EMUs to verify correct EMU sizing prior to possibly performing an EVA to replace the ETCS Loop A Pump Module.  During this test the EMU comm and data signals were also checked out successfully. 
+EMU Helmet Absorption Pad (HAP) Familiarization: Hopkins and Mastracchio familiarized themselves with the absorption properties of the HAP.  They then reported saturation results and downlinked video to the ground.
+Today’s Planned Tasks
+
+Combustion Integrated Rack Alignment Guide Removal [Complete]
+EMU Long Life Battery (LLB) Charge Terminate [Complete]
+Replacement of Urine Receptacle (МП) and Filter-Insert (Ф-В) in АСУ Install  [Complete]
+Locating EVA hardware and tools.  [Complete]
+Extravehicular Activity (EVA) Procedure Review [Complete]
+Hand ergometry.  [Complete]
+Dynamic Onboard Ubiquitous Graphics (DOUG) Software Review     [Complete]
+СОЖ Maintenance  [Complete]
+MOTOCARD. Experiment Ops [Complete]
+IDENTIFIKATSIYA. Copy ИМУ-Ц micro-accelerometer data to laptop  [Complete]
+Comm assets configuration for conversations from Soyuz #710 [Complete]
+Troubleshooting Noise on ТПК 710 ИнПУ2 in Display+TV mode [Complete]  
+Crew sets up an HD view from the Lab AVN 443 Encoder[Complete]
+Microbial Removal Filter Flow [Complete]
+Equipment Lock (E-LK) Preparation [Complete]
+Recharging КОБ2 Loop with Coolant from DC1 Hydraulic Loop Accumulator [Complete]  
+EMU On-orbit Fitcheck Verification [Complete]
+Robotics Extravehicular Activity (EVA) Procedure Conference [Complete]
+EMU Wet Helmet Absorption Pad (HAP) Familiarization [Complete]
+Anti-virus base upgrade on laptops ВКС [Complete]
+Comm back to nominal [Complete]  
+СТТС comm system switchover to the primary set [Complete]  
+Locating EVA hardware and tools [Complete]
+IMS Update[Complete]
+ISS repress using air from section 1 of ТКГ 420 СрПК [Complete]
+ISS repress using air from ТКГ 420 СрПК Section 1 [Complete]
+
+Task List
+
+ARED Cylinder Evacuation
+OGA Hydrogen ORU Purge Adapter (HOPA) Operations [Complete]
+ТКГ 421 Transfers and IMS Updates /Transfer Ops
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+URAGAN. Observations and Photography
+ECON-M. Observations and Photography
+OGA Hydrogen ORU Purge Adapter (HOPA) Operations, Hydrogen (H2) Sensor ORU R&R, and Air Avionics Assembly (AAA) Cleaning
+National Geographic B-Role
+EVA Camera Configuration
+PAO Event
+COL D1 FD2 MSR
+Cygnus Power Jumper Build
+DOS3D PDP Check
+IFM stowage Locate
+Kubik 6 Belt Search
+National Engr Week Message
+P/TV Trash
+PPS Wipe
+Pre-gather COL A/L
+Pre-gather Empty CTBs
+SM PCS HD Swap Imaging
+WINEARTH HISD Photos
+
+Ground
+
+Nominal Commanding [Complete]
+EXT MDM Swap  [Complete]
+

@@ -1,0 +1,77 @@
+
+Cygnus unberth:  This morning, the crew egressed Cygnus.  They then configured the vestibule and prepared to depressurize the vestibule.  Ground teams identified EMI as the cause of the pressure probe anomaly and successfully depressurized the vestibule.  Later, the Cygnus vehicle was unberthed and positioned it for the GPS shadowing (“photobomb”) Developmental Test Objective (DTO).  Cygnus will be held in that position overnight and then repositioned for release tomorrow.  Cygnus arrived at the ISS on the 14th of November carrying supplies, and is now departing with hardware and trash for disposal.
+Earth Imagery from ISS Target Operations: Today the crew captured images of the Iberian peninsula. The Earth Imagery from ISS investigation creates a series of videos, showcasing Earth from space. These videos will be taken with cameras on the International Space Station in 6K hi-resolution, then integrated into videos for screensavers for public enjoyment, exploration, and engagement. 
+Microgravity Science Glovebox (MSG) Configuration for Cell Science Validation: The crew set up the Life Science Ancillary Hardware (LSAH) in the MSG today to prepare for the Cell Science Validation activities.  They installed the Decontamination System, Rear Standoff and Life Science filters. This flight of the Bioculture System is to validate the hardware by testing and checking out its engineering and operational capability to maintain cell cultures for a long duration in the space flight environment on the ISS. The new enabling capabilities and procedures to manually conduct experiments with the specimens cultured in the Bioculture System will also be demonstrated.  The validation of the Bioculture System performance in the space flight environment is a critical step to insure the success of future space bioscience experiments that will be conducted on ISS using this facility. 
+51S Descent Drill:  51S crewmembers participated in onboard training to rehearse their upcoming descent and landing, planned for December 14th. 
+EHS SSK MAS analysis:  Today the crew analyzed microbial samples which were taken on GMT day 334 (November 30) and incubated until today.  This information gives medical personnel a gauge of microbial growth in the air and on surfaces of the ISS.
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+ARED Self-Monitoring Reminder
+MORZE. Log Entry of Liquid and Food (Medicine) Intake
+Cygnus Cargo Closeout
+Cygnus-Node1 Vestibule Depressurization: Part1
+JEM Cobalt Brick power Off and On
+Actiwatch Spectrum HRF1 Setup
+KENTAVR fit check
+Cygnus Hatch Thermal Blanket Final Stow
+СОЖ maintenance
+Cygnus Egress
+Liquid condensate sampling up to ФГС – end
+Prep for Central Post Computer 2 (КЦП2) Test (r/g review, equipment gathering).
+CBM Controller Panel Assembly Rotation and Closeout
+Central Post Computer 2 (КЦП2) testing with MSG cartriges swapping.
+Sampling condensate water [КАВ] upstream of СРВ-К2М БКО (Water Purification Column Unit) – configuration set up, installing sampler
+Cygnus/Node 1 Vestibule Configuration for Demate – Part 1
+Pre-pack cargo items for return or disposal on Soyuz 736
+Photo/TV (P/TV) Station Support Computer (SSC) Video Viewer Activation
+Exercise ARED Self-Monitoring Day 2
+Collecting condensate water samples [КАВ] to [СРВ-К2М] БКО, sampler replacement
+Cygnus/Node 1 Vestibule Configuration for Demate – Part 2
+ICrew Departure Prep
+Cygnus-Node1 Vestibule Depressurization: Part 2
+Lyophilization Sample Tray and Chamber Stow
+LBNP Exercise (PRELIMINARY)
+Actiwatch Spectrum HRF1 Stow
+Columbus HD-VCA2 R&R
+Deactivate VCA2
+Cygnus-Node1 Vestibule Depressurization: Part 3
+Earth Imagery from ISS Nikon Target Operations
+ISS HAM Video Power Down
+Cygnus-Node1 Vestibule Depressurization: Part4
+Transfer Operations – Prepack of US items to be loaded into Soyuz
+Soyuz 736 Descent OBT. Tagup with specialists
+MORZE. Psycho-physiological Evaluation: Cattell’s Test
+Cell Science Validation MSG LSAH Setup
+Glacier Desiccant Swap
+MORZE. Psycho-physiological Evaluation: Strelau Test
+Station Support Computer (SSC) ARED Conclude
+Photo T/V (P/TV) Advanced Resistive Exercise Device (ARED) Exercise Video Stow
+EIISS Crew Preference RED Camera Target Operations
+Progress 436 [AO] Stowage for Disposal and IMS Ops
+Cygnus-Node1 Vestibule Depressurization: Part 5
+PCS Laptop Relocate
+Sampling condensate water [КАВ] upstream of СРВК-2М БКО, removing sampler, equipment disassembly
+Dragon Cargo Prep
+IMS Update
+Ghost camera setup in Cupola
+MORZE. Experiment setup
+Crew Departure Preparations for Return to Earth
+Environmental Health System (EHS) – Surface Sampler Kit (SSK) and Microbial Air Sampler (MAS) Analysis T + 5
+Restow Vestibule Outfitting Kit (VOK)
+Cygnus/Node 1 Vestibule Depress Teardown
+Telescience Resource Kit Laptop Setup 
+
+Completed Task List Activities
+
+Take contingency GSC and CDM reading
+Payload Hardware Relocate
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+OA-8 demate and translate to DTO position.
+Standard commanding.
+

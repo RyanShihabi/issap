@@ -1,0 +1,87 @@
+
+Lighting Effects: Upon wakeup, a 53S subject provided a daily sleep log entry to track his sleep patterns and wakefulness. The Lighting Effects experiment hopes to better quantify and qualify how lighting can effect habitability of spacecraft. The light bulbs on the ISS are being replaced with a new system designed for improved crew health and wellness. The Lighting Effects investigation studies the impact of the change from fluorescent light bulbs to solid-state light-emitting diodes (LEDs) with adjustable intensity and color and aims to determine if the new lights can improve crew circadian rhythms, sleep, and cognitive performance. Results from this investigation also have major implications for people on Earth who use electric lights.
+Human Research Program (HRP) Collections (Biochemical Profile and Repository): A 53S crewmember completed his Flight Day 60 (FD 60) blood and urine sample collections to support the Biochemical Profile and Repository experiments. The samples were placed in the Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).
+
+The Biochemical Profile experiment tests blood and urine samples obtained from astronauts before, during, and after spaceflight. Specific proteins and chemicals in the samples are used as biomarkers, or indicators of health. Post-flight analysis yields a database of samples and test results, which scientists can use to study the effects of spaceflight on the body.
+Repository is a storage bank used to maintain biological specimens over extended periods of time and under well-controlled conditions. This repository supports scientific discovery that contributes to our fundamental knowledge in the area of human physiological changes and adaptation to a microgravity environment and provides unique opportunities to study longitudinal changes in human physiology spanning many missions. 
+
+Mouse Stress Defense Checkout Operations: To prepare the CBEF facility for the Mouse Stress Defense investigation arriving on SpaceX-14, today the crew conducted checkout activities on the mouse habitat unit. This investigation will send genetically modified loss-of-Nrf2-function and gain-of-Nrf2-function mice to space and examine how Nrf2 contributes to effective prevention against the space-originated stresses. The CBEF is used in various life science experiments and consists of an incubator and control equipment for control and communications.
+Cerebral Autoregulation Equipment Setup: To test the configuration and connection of the experiment equipment, today the crew performed checkout activities for the Cerebral Autoregulation investigation. The Cerebral Autoregulation investigation tests whether this self-regulation improves in the microgravity environment of space. Non-invasive tests measure blood flow in the brain before, during, and after a long-duration spaceflight, and provide new insights into how the brain safeguards its blood supply in a challenging environment.
+Earth Imagery from ISS Target (EIISS): Using the RED camera, the crew captured images of the snow over Kazakhstan, the Philippine islands, and the southern tip of India. EIISS is used to support creation of a series of videos showcasing Earth views taken from space. The videos are taken with cameras on the ISS in 6K hi-resolution and are integrated into videos for screensavers for public enjoyment, exploration, and engagement.
+Sally Ride Earth Knowledge Acquired by Middle School Students (EarthKAM) Node 2 Lens Change: The crew performed a lens change out for the Sally Ride EarthKam equipment in Node 2, and reactivated the equipment. EarthKam allows thousands of students to photograph and examine Earth from a space crew’s perspective. Using the internet, the students control a special digital camera mounted on-board the International Space Station. This enables them to photograph the Earth’s coastlines, mountain ranges and other geographic items of interest from the unique vantage point of space. The team at Sally Ride EarthKAM then posts these photographs on the Internet for the public and participating classrooms around the world to view.
+Crew Quarters Cleaning and Fastener R&R:  Today the crew cleaned the starboard crew quarters location, and replaced the access panel fasteners with Velcro for ease of access during future activities. 
+Extravehicular Mobility Unit (EMU) loop scrub and conductivity test:  As part of the deconfiguration from last week’s Extravehicular Activity (EVA), the crew performed EMU cooling loop maintenance, including loop scrubs, sampling, and iodinization.  These activities are required for long term health monitoring and maintenance of the EMUs. 
+Carbon Dioxide Removal Assembly (CDRA) Blower Testing:  Ground teams continued their testing of CDRA blower speed capabilities in order to maximize carbon dioxide removal from the ISS atmosphere.
+52 Soyuz (52S) Survey: Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and walked the Space Station Remote Manipulator System (SSRMS) off the Lab Power Data Grapple Fixture (PDGF) onto the Functional Cargo Block (FGB) PDGF. The SSRMS was then maneuvered into position to perform a survey of the 52S Soyuz. Additionally, some external Russian payload hardware was surveyed. The SSRMS was then walked back onto the Lab and maneuvered to park. 
+Today’s Planned Activities
+All activities are complete unless otherwise noted.
+
+
+Lighting Effects Sleep Log Entry – Subject
+HRF Generic Urine Collection
+HRF Generic Sample MELFI Insertion Operations
+HRF Generic Frozen Blood Collection
+REGUL-PACKET reconfiguration to REGUL-OS String 2
+HRF Generic Refrigerated Centrifuge Configuration
+SSIPC Management Conference
+Extravehicular Activity (EVA) Air Lock Deconfiguration
+HRF Generic Refrigerated Centrifuge Spin Conclude
+RED Camera Setup.
+HRF Generic Sample MELFI Insertion
+Mouse Stress Defense Item Gathering
+Installation of control software on ТВМ-1Н for Ikarus P/L.
+HRF Generic Frozen Blood Collection Conclude Stow
+Earth Imagery from ISS RED Target Operations
+COSMOCARD. Setup. Starting 24-hr ECG Recording. 
+Crew Departure Preparations for Return to Earth
+LBNP Training (PRELIMINARY)
+Mouse Habitat Unit Function Checkout part 1.
+ISS HAM Service Module Pass
+European Modular Cultivation System Gas Valve Close
+VEG-03 Dual Facility Watering for each Plant Pillow
+REGUL-PACKET reconfiguration to REGUL-OS String 1
+Preventive maintenance of MRM2 АСП Hatch Sealing Mechanism and Soyuz 734 hatch
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Scrub Initiation
+HRF Generic Sample MELFI Retrieval Insertion Operations
+Transfer of emergency equipment (ИПК-1M, БНП) from Soyuz 734 БО to MRM2
+Environmental Health System (EHS) Potable Water Dispenser (PWD) Sample Collect
+Soyuz 734 Transfer Ops
+Control valve and the [СКВ1] heating valve [ВН1] position adjustment.
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Potable Water Dispenser (PWD) Sample Analysis
+Extravehicular Mobility Unit (EMU) Post Scrub Cooling Loop Water (H2O) Sample
+Extravehicular Mobility Unit (EMU) Cooling Loop Maintenance Iodination
+Crew Departure Prep
+Cerebral Autoregulation Equipment Setup
+EarthKAM. Lens changeout in Node2
+Starboard Crew Quarters (CQ) Cleaning and Velcro Fastener Installation
+Manufacturing Device ABS Print Removal, Clean and Stow
+Station Support Computer 15 Hard Drive Reseat
+Environmental Health System (EHS) Coliform Water Processing
+EVA Extravehicular Mobility Unit (EMU) Cooling Loop Scrub Deconfiguration
+Replacement of Hotlink (HT2) cell in RSPI Onboard Memory Storage (БЗУ).
+HRF Generic Frozen Blood Collection Setup
+Transfer Operations – Prepack of US items to be loaded into Soyuz
+Public Affairs Office (PAO) Event in High Definition (HD) – Lab
+СОЖ maintenance
+Verification of ИП-1 Flow Sensor Position
+IFM LEE (Latching End Effector) Stowage Preparation
+CONTENT. Experiment Ops
+Soyuz 734 Transfers Completion Report
+Cerebral Autoregulation Software Checkout and Closeout
+Environmental Health System (EHS) Total Organic Carbon Analyzer (TOCA) Sample Data Record
+RED Camera Deactivation.
+Evening work prep, Current Temperature Check in ТБУ- В No.5
+Increment 53 Plaque Hanging
+Microbial Tracking-2 Reminder for Saliva Collection 
+
+Completed Task List Activities
+
+BEAM Hardware Gather
+
+Ground Activities
+All activities are complete unless otherwise noted.
+
+
+CDRA Blower Test Support
+Standard Commanding
+

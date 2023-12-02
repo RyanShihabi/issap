@@ -1,0 +1,93 @@
+
+Fluid Shifts Operations In the Service Module: With ground team assistance, crewmembers continued supporting Fluid Shifts Imaging exams that began yesterday by configuring the Optical Coherence Tomography (OCT) and the Distortion Product Otoacoustic Emission (DPOAE) hardware before completing a DPOAE test, OCT exam, and a Tonometry exam. The purpose of this investigation is to characterize the space flight-induced fluid shift, including intra- and extravascular shifts, intra- and extracellular shifts, changes in total body water and lower vs. upper body shifts. Noninvasive techniques are used to assess arterial and venous dimensions and flow parameters, ocular pressure and structure, and changes in intracranial pressure. Lower body negative pressure is being investigated for its ability to mitigate some of the effects of the space flight-induced fluid shift. Results from this investigation are expected to help define the causes of the ocular structure and vision changes associated with long duration space flight, and assist in the development of countermeasures.
+NanoRacks External Platform (NREP) and Gumstix Installation: The NREP was prepared for installation on the Japanese Experiment Module (JEM) Airlock (JEMAL) Slide Table.  During the NREP assembly, the NanoRacks-Gumstix experiment was installed onto the NREP.  Two crewmembers installed NREP on JEMAL Slide Table. One crewmember held NREP in place to keep the capture cones aligned with the NREP receptacles and the other operated the capture mechanism.  The Slide Table was then retracted from the JEM Pressurized Module (JPM) side into the JEMAL and the inner hatch was closed. The NanoRacks External Platform represents the first external commercial research capability for the testing of scientific investigations, sensors, and electronic components in space.  The NanoRacks External Platform will be installed on a payload required basis on the outside of the ISS on the JEM External Facility (JEM-EF).  The NanoRacks-Evaluation of Gumstix Performance in Low-Earth Orbit (NanoRacks-Gumstix) investigation tests small computers called Gumstix modules, which are based on open-source software, as an alternative off-the-shelf option for use in space. The investigation studies whether the Gumstix microprocessors can withstand the radiation environment on board the ISS.  The NREP will be deployed from the JEMAL and installed on the JEM-EF tomorrow. 
+Multi-Omics Operations:  The crew supported the Japan Aerospace Exploration Agency (JAXA) Multi-Omics investigation by collecting saliva samples and inserting them into a Box Module in the Minus Eighty-degree Freezer for ISS (MELFI). The investigation evaluates the impacts of space environment and prebiotics on astronauts’ immune function by combining the data obtained from the measurements of changes in the microbiological composition, metabolites profiles, and the immune system.
+Space Headaches: The crew completed the European Space Agency (ESA) Space Headaches questionnaire to provide information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space. Headaches during space flight can negatively affect mental and physical capacities of crew members which can influence performance during a space mission.
+Habitability Human Factors Directed Observations: The crew recorded and submitted a walk-through video documenting observations of life onboard ISS, providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the ISS. Observations can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+Extravehicular Activity (EVA) Tool Configuration: In preparation for the EVA currently planned for August 19, the crew gathered and configured required tools.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Multi Omics (MO) Saliva Sample Collection
+Multi Omics (MO) MELFI Sample Insertion
+Multi Omics (MO) Equipment Stowage
+Multi Omics (MO) Questionnaire Completion
+Window Shutter Close
+FLUID SHIFTS. Comm configuration for the experiment / r/g 9995
+CASKAD. Manual Mixing in Bioreactor / r/g 2888
+Acoustic Dosimeter Setup Day 3
+FLUID SHIFTS. Gathering and Connecting Equipment for TV coverage
+OTKLIK. Equipment Check / r/g 1588
+FLUID SHIFTS. Big Picture Words Review
+Verification of ИП-1 Flow Sensor Position
+BRI log download from RSS1
+VIBROLAB. Monitoring hardware activation / r/g 2981
+FLUID SHIFTS. Connecting OCT Laptop to RS BRI and HRF PC to ППС-26 (instead of RSE-Med) r/g 2983
+FLUID SHIFTS. OCT Power up in SM
+FLUID SHIFTS. CCFP Activation and Settings Adjustments in RS
+СОЖ Maintenance
+US EVA Tool Preparation
+FLUID SHIFTS. DPOAE Setup in SM
+NREP. NANORACKS External Platform Assembly
+FLUID SHIFTS. TONO Hardware setup in SM
+FLUID SHIFTS. Chibis Setup / r/g 2982
+FLUID SHIFTS. Operator Assistance with Chibis and Gamma-1 r/g 2982
+FLUID SHIFTS. Gathering Data in SM
+EVA Tool Config
+Vacuum cleaning of ВТ7 screens on ГЖТ4 behind FGB panel 108
+FLUID SHIFTS. Copying Data from CCFP/DPOAE devices and their deactivation in RS
+FLUID SHIFTS. Chibis Closeout Ops / r/g 2982
+FLUID SHIFTS. Crew Onboard Support System (КСПЭ) Hardware Deactivation and Closing Application
+FLUID SHIFTS. TONO SM Stowage
+FLUID SHIFTS. OCT Power off in SM
+FLUID SHIFTS. Restore nominal comm config
+FLUID SHIFTS. Disconnecting of Laptop OCT, HRF and connecting RSE-Med r/g 2984
+FLUID SHIFTS. Disconnecting US converter from СУБА / r/g 2984
+Measuring SM interior panel elements / r/g 2991
+JEMAL Slide Table (ST) Extension to JPM Side
+NREP. Mounting Slide Table
+NREP. Assistance in Mounting Slide Table
+JEMAL JEM Airlock Slide Table Retraction from JPM
+JEMAL Depress and Vent
+PAO Hardware Setup
+Crew Prep for PAO
+PAO Event
+Progress 433 (DC1) Transfers and IMS Ops / Progress 433 Transfers + r/g 2834, 2835, 2929, 2961
+FLUID SHIFTS. OCT Hardware Stowage
+EHS CFM In-flight Microbiology Water Analysis
+FLUID SHIFTS. CCFP/PC Stowage
+VIBROLAB  Copy and Downlink Data / r/g 2981
+DRAGON. Transfers
+Re-Packing fasteners into fasteners and tool kit delivered on Progress 433 / r/g 2990
+FLUID SHIFTS. Hardware Gathering before Transfer to USOS
+FLUID SHIFTS Hardware setup to work with Dilution Measures Setup
+FLUID SHIFTS. Hardware Transfer to USOS
+FLUID SHIFTS. Cable removal
+BLB Rotor Inspection
+FLUID SHIFTS. OCT and Laptop Setup
+Removal/Installation of Signal Converter Unit (БПС) devices in TORU work station r/g 2992
+Dragon Cargo Operations Conference
+FLUID SHIFTS. Ultrasound 2 Setup and Activation
+Demate telemetry connector for БПС replacement / r/g 2992
+Removal/Installation of Signal Converter Unit (БПС) devices in TORU work station r/g 2992
+JEMAL Verifying depressurization complete
+FLUID SHIFTS Ultrasound 2 Data Export
+FLUID SHIFTS. Hardware stowage
+JEM Airlock Depressurization and Vent Confirmation
+IMS Delta File Prep
+Mate telemetry connector for БПС replacement / r/g 2992
+Removal/Installation of Signal Converter Unit (БПС) devices in TORU work station r/g 2992
+CASKAD. Manual Mixing in Bioreactor / r/g 2888
+FLUID SHIFTS. Chibis measurements in SM Reminder 1
+
+Completed Task List Items
+
+None
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+Fluid Shifts ops
+JEMAL ops
+Nominal ground commanding.
+

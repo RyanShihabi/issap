@@ -1,0 +1,104 @@
+
+Extravehicular Activity (EVA) #33:  Kelly and Lindgren egressed the Airlock at 5:22am CST in order to perform P6 Return To Original Configuration (RTOC) EVA #33.  The Phased Elapsed Time (PET) for today’s EVA was 7 hours and 48 minutes.  The objectives for the EVA that were completed are as follows:
+ 
+
+Open Photo Voltaic Radiator (PVR) 2B Flight Quick Disconnect Coupling (FQDC)
+P3/P4 Ammonia Jumper Install
+Reconfigure Ammonia Tank Assembly (ATA) Vent Panel for Ammonia Fill
+Early External Thermal Control System (EETCS)/Photovoltaic Thermal Control System (PVTCS) Fill
+Reconfigure P5/P6 Jumpers for Ammonia Fill
+Trailing Thermal Control Radiator (TTCR) Retract
+P1/P5 Ammonia Fill Line Vent
+P3/P4 Jumper Stow
+Starboard Crew Equipment Translation Aid (CETA) Cart Reconfig
+Alpha Joint Interface Structure (AJIS) Strut Bolt Torque and MLI Reconfiguration
+
+ 
+The TTCR cinch and shroud task was deferred because the EVA was running long.  Instead, the TTCR was re-deployed so that it would be in a stable long term configuration.  In addition, only one of the two AJIS strut bolt torques was completed.  Following the EVA, ISS is in a stable configuration.
+ 
+Reaction Self Test:  Kelly will complete a Reaction Self Test session prior to his sleep period tonight.  This session and the sessions completed yesterday were scheduled to provide data in close time proximity to today’s extravehicular activity (EVA).  Reaction Self Test helps crewmembers objectively identify when their performance capability is degraded by various fatigue-related conditions that can occur as a result of ISS operations and time in space (e.g., acute and chronic sleep restriction, slam shifts, EVA, and residual sedation from sleep medications).
+ 
+Soret Facet:  A run was completed last night for JAXA’s Soret Facet investigation.  The Soret effect in fluids is a thermodynamic phenomenon in which different particles respond in different ways to varying temperatures. The effect has been difficult to examine in detail on Earth because of convection effects in gravity conditions.  This is the first investigation to verify Soret conditions in steady and changing conditions that supports a comparison of the Soret effects in microgravity to effects observed on the ground.
+ 
+Today’s Planned Activities
+All activities are on schedule unless otherwise noted. 
+
+Extravehicular Activity (EVA) Reminder for EVA In-Suit Light Exercise (ISLE) Preparation
+Robotic Workstation (RWS) Display and Control Panel (DCP) Powerup
+Powerdown the CUCU for US EVA
+Closing USOS Window Shutters
+PBA – Relocation for upcoming US EVA
+ISS HAM RADIO Power Down
+Photo/TV US EVA Camera Test
+EMU Preparation for US EVA
+USOS EVA Comm Config
+OTKLIK. Hardware Monitoring
+Soyuz 717 Samsung Tablet Charge – start
+Repairs of SM Interior Panel 317 by Installing Overlay Panels – Day 2.
+NAPOR-miniRSA. Cleaning БЗУ-М vents
+URAGAN. Earth photo/video ops
+EMU – purge
+MOTOCARD. Experiment Ops
+EMU Prebreathe
+COSMOCARD. Closeout Ops
+VIZIR. Installation of СКПИ Hardware
+Crew Lock Depress
+BRI Log Dump from RSS1
+Soyuz 718 Samsung Tablet Charge – start
+Post Depress and A/L Egress
+Crew Lock Egress
+Replacement of CO2 Filter Unit ИК0501.
+Changeout of СРВ-К2М purification column assembly (БКО)
+Open PVR Fluid Quick Disconnect Coupling (FQDC), fluid loop 2В
+RTOC – Camera Setup
+Install P3/P4 NH3 Jumper
+Close EAS Jumper QDS M1 & M2
+NH3 Vent Tool Setup
+PROBOY. RSЕ1 Laptop Ops
+ALGOMETRIA. Experiment Ops
+PROBOY. Penetration Simulator Ops
+PBA – Relocation to stowage
+Reconfigure ATA Vent Panel for fill
+EAS Jumper Reconfig & P5/P6 Jumper Open to Fill NH3
+Starboard CETA Cart Reconfig
+Manual Trailing Thermal Control Radiator (TTCR) Retract
+EAS Jumper Close & Stow
+Verification of ИП-1 Flow Sensor Position
+TTCR – Return to stowage location
+Lab and Cupola Window Shutter Close
+P1-P5 Vent
+СОЖ Maintenance
+Alpha Joint Interface Structure (AJIS) Strut #3 Drive Bolt and Secure MLI [Deferred]
+P3/P4 Jumper Stow.
+Vent Tool Cleanup
+PROBOY. Copy and Downlink Data
+IMS Delta File Prep
+Soyuz 717 Samsung tablet charging – end
+BAR. Experiment Ops
+Install TTCR Cinches and Shroud [Deferred]
+Crew Lock Ingress
+Configure P1 ATA Vent Panel for Vent
+Robotic Workstation (RWS) Teardown
+Closing USOS Window Shutters
+EVA Glove Photo Setup
+Crew Lock Repress
+US Post-EVA Cleanup
+Return to nominal comm configuration after US EVA
+Photo/TV EVA Camera Disassembly
+EVA Glove Photo Downlink
+US Post-EVA Private Medical Conference
+Reaction Self-Test
+
+ 
+Completed Task List Items
+
+None
+
+ 
+ 
+Ground Activities
+All activities are on schedule unless otherwise noted. 
+
+System commanding in support of P6 RTOC EVA
+
+ 

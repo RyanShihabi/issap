@@ -1,0 +1,24 @@
+
+Payloads
+Radiation Dosimetry Inside ISS-Neutrons (RADI-N2): The crew deployed eight dosimeters in the NOD3F3 Rack location. The objective of this Canadian Space Agency investigation is to better characterize the ISS neutron environment, define the risk posed to the crew members’ health, and provide the data necessary to develop advanced protective measures for future spaceflight.  It’s been recognized that neutrons make up a significant fraction (10-30%) of the biologically effective radiation exposure in low-Earth orbit.  The bubble detectors used in the investigation are designed to detect neutrons and ignore all other radiation.
+JEM Water Recovery System (JWRS): The crew disassembled the JEM Water Recovery System (JWRS) from the Multi-Purpose Small Payload Rack (MSPR) as part of final closeout procedures. The demonstration of JEM Water Recovery System (JWRS) generates potable water from urine. In the past on manned spacecraft, urine and waste water were collected and stored, or vented overboard. For long-term space missions, however, water supply could become a limiting factor. Demonstrating the function of this water recovery system on orbit contributes to updating the Environmental Control and Life Support System (ECLSS) to support astronauts on the space station and future exploration missions.
+Systems
+H-II Transfer Vehicle (HTV)9 Cargo Operations: In preparation for HTV9 unberth, scheduled for August 18th, the ISS crew spent the week focusing on cargo transfer. The final remaining cargo transfers were completed today in preparation for HTV9 close out and departure early next week.
+H-II Transfer Vehicle (HTV) On-Board Training (OBT) Departure Computer Based Training (CBT): Today, the crew performed proficiency training covering the HTV departure profile, departure procedures, and the crew interfaces for monitoring and commanding HTV. The lesson walks through the steps in the departure procedures and provides representative Robotics Work Station (RWS) and Portable Computer System (PCS) screenshots for each step.  HTV unberth is scheduled for Tuesday, August 18, 2020.
+Advanced Resistive Exercise Device (ARED) Quarterly Maintenance:  Today, the ISS crew completed regularly scheduled maintenance which included inspection of the X-rotation dashpots, cycling of the main arm through full range of motion, and applying grease to the ARED rails and rollers. This quarterly maintenance allows the ARED exercise device to keep operating nominally as well as verifying if any wear and tear exists on the hardware.
+Completed Task List Activities:
+
+WHC KTO Replace
+HTV Cargo Transfers
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SSRMS Maneuver to HTV Pre-grapple Position
+Video Support for Robotics Ops
+
+
+Thermal Amine Weekly Purge
+SDS Valve Isolation in prep for N2 Leak Module Isolation Plan
+

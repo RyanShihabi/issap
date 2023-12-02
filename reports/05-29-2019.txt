@@ -1,0 +1,146 @@
+
+Russian Segment (RS) Extravehicular Activity (EVA) #46: Today CDR Oleg Kononenko and FE-4 Aleksey Ovchinin exited the Docking Compartment (DC)-1 airlock and completed the following tasks during today’s successful 06 hour 01 minute EVA:
+
+Installation of MRM2-FGB Handrail
+Removal of sensor mock-ups from MRM HR6005
+Removal of TEST exposure units #15 & #16 installed on MRM2
+Cleaning of the MRM2 EV Hatch 2 Window Pane
+Removal of VINOSLIVOST panels #1 and #2 installed on MRM2
+Redirection of БКДО on MRM2
+Taking samples near SM [CMB]-15 and [CMB]-39 valves
+Dismantling and jettison of OBSTANOVKA SE (PVK-1 and PVK-2) measurement units
+
+Bio-Monitor: A crewmember doffed and stowed the BioMonitor hardware. Although the ISS is equipped with health and life sciences research tools, the existing instrumentation for continuous and simultaneous recording of several physiological parameters is lacking. To tackle this issue, the Bio-Monitor Commissioning activity tests the Bio-Monitor facility; a wearable garment capable of monitoring relevant physiological parameters for up to 48 hours in a non-invasive and non-interfering way. The physiological parameters which can be monitored consist of heart rate, respiration rate, Electrocardiogram, skin temperature, peripheral blood oxygen saturation, etc.
+Multi-use Variable-g Platform (MVP): The crew used the Portable Glovebox to remove the chamber and tube coil from the six experiment modules and prepped them for return on SpX-17. The commercially developed, owned and operated Techshot Multi-use Variable-g Platform (MVP) includes 2 internal carousels that simultaneously can produce up to 2 g of artificial gravity. MVP is used to conduct research in space with a wide variety of sample types, such as fruit flies, flatworms, plants, fish, cells, protein crystals and many others.
+Furphy: The crew performed Rigid to Flexible Tank transfers and spin tests for varying volumes of water. Furphy tests the feasibility of transferring fluids in microgravity from a rigid tank to a flexible tank that launches collapsed and deploys as it is filled. By making it possible to fuel small satellites in orbit instead of prior to launch, potentially saving launch mass and volume, this capability supports future space exploration. This first microgravity test is performed aboard the ISS to verify tank dynamics including slosh and retention of angular momentum.
+Water Storage System (WSS) Assembly: After Monday and Tuesday’s successful power cable routing activities, the crew continued with WSS assembly today and installed shelf panels, ground straps, and rack internal power/data cables after rotating the Zero-G Stowage Rack (ZSR) shell at the LAB1D4 location. Since this activity took longer than expected, several tasks were deferred and will be completed at a later date. Once assembly is complete, WSS will add new capabilities to the existing Environmental Control and Life Support System (ECLSS) Water Recovery and Management System (WRM) by providing additional iodinated water storage, approximately 75 liters, and new methods of transporting water in the potable water bus.
+Robotics On-board Trainer (RoBOT): Today the crew completed nominally scheduled proficiency training needed to maintain Space Station Remote Manipulator System (SSRMS) qualifications. ROBoT is an on-orbit version of the ground-based Dynamics Skills Trainer (DST) that simulates robotics operations with using SSRMS hand controllers with graphical feedback.
+Waste and Hygiene Compartment (WHC) Pretreat Dose Pump Remove and Replace (R&R): The currently installed Dose Pump has been installed on ISS for roughly one and a half years; since the expected operational life is only six months, the crew pre-emptively R&Rd this pump this afternoon with an on-orbit spare. This pump is critical part of the WHC as it injects the pre-treat required to properly recycle waste urine.
+Completed Task List Activities:
+
+Transfer MED-2 Data [Completed GMT 148]
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payloads support
+Prep for JEMRMS operations.
+
+Look Ahead:
+Thursday, 05/30 (GMT 150): Off duty and late wakeup
+Payloads:
+
+
+BioMonitor Stow and Conference (CSA)
+Veggie 4A Profile of Mood States (POMS) Questionnaire (NASA)
+MicroAlgae Bag Redistribution (NASA)
+Life Science Glovebox Deploy (NASA)
+ISS HAM (NASA)
+
+Systems:
+
+Max CEVIS Sessions
+EVA Tool Transfer 
+
+Friday, 05/31 (GMT 151)
+Payloads:
+
+
+SpacePup retrieve and stow for return (JAXA)
+MVP carousel replace (NASA)
+MicroAlgae photography (NASA)
+Fluid Shifts Fundoscope Eye Imaging ops (NASA)
+FURPHY Water transfer
+Nanoparticle Formulation Camera ops (NASA)
+RR-12 Final LSG Cleanup filter adapter install (NASA)
+CIR ACME controller replace and Manifold-2 bottle replace (NASA)
+
+Systems:
+
+US EVA tool stow
+EMU helmet light inspection
+Dragon LiOH filter bag install
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+Biochemical Urine Test before EVA
+Vascular Echo Historical Video
+CSA Generic HRF Centrifuge Frozen Blood Collection 25 Minutes Subject
+CSA Generic HRF Centrifuge Frozen Blood Collection Operator
+CSA Generic HRF Centrifuge Frozen Blood Collection Configuration
+CSA Generic HRF Centrifuge Frozen Blood Collection Spin Conclude
+MRM2 Preparation and Soyuz 741 Activation before EVA
+CSA Generic Sample MELFI Insertion
+Removal of Air Duct [РО]-ПрК Hatch protective ring, Closure of [РО]-ПрК Hatch
+Preparation of ПхО and DC1 for EVA
+Powerdown the CUCU for RS EVA 46
+Water Storage System (WSS) Big Picture Review
+Furphy Hardware Setup
+Orlan Systems Check
+Condensate transfer from Lab Condensate tank to WPA Waste Water Tank
+Checkout of БСС (Spacesuit Interface Unit) in ПхО
+Checkout of БСС (Spacesuit Interface Unit) in DC1
+ISS HAM Radio Power Down in Columbus
+Condensate direct transfer from Lab condensate tank to WPA waste water tank.
+ISS Onboard System Configuration before EVA (part 1)
+ISS HAM Radio Power Down in Service Module
+DC1 БК-3М Check
+Comm config before EVA, reconfiguring C&W indication from ПСС [Caution & Warning Panel] to ПОВ [EVA Support Panel]
+Multi-use Variable-g Platform Procedure Review2
+Medical monitoring and comm check
+JAXA Mouse Mission Item Gathering
+Multi-use Variable-g Platform MWA Preparation
+CSA Generic HRF Centrifuge Frozen Blood Collection Conclude And Stow
+Multi-use Variable-g Platform Cell-01 Remove
+In-Flight Maintenance (IFM) Water Storage System (WSS) Gather
+XF305 Camcorder Setup
+JAXA Mouse Mission Transportation Cage Unit Spare Cage Installation
+Final Inspection of Orlan and БСС
+On MCC Go: ISS Onboard System Configuration before EVA (part 2)
+Air duct disassembly in DC1 (without removal of B3 fan)
+Donning Gear
+JAXA Mouse Mission Preparation for Watering
+JAXA Mouse Mission Cage Watering for Micro-G
+Pre-EVA Airlock operations
+JAXA Mouse Mission Cage Watering for 1G
+Multi-use Variable-g Platform Historical Documentation Photography 2 [Aborted]
+Pre-EVA Airlock operations, assistance
+JAXA Mouse Mission Watering Closeout.
+Station Support Computer (SSC) 15 Hard Disk Drive (HDD) Swap
+SODI Flash Disk Wrap
+Multi-Use Variable-G Platform Sample Polar Insertion
+On Board Training (OBT) ROBoT T&C Self Study
+Environmental Health System (EHS) – Rad Detector Rotate
+MICRO ALGAE Redistribution Ops
+On Board Training (OBT) ROBoT T&C Self Study
+Lighting Effects Visual Performance Tests Light Setting
+Nanoparticle Formulation Camera Activities
+Environmental Health System (EHS) – Surface Sample Kit (SSK) Collection/Incubation
+Waste and Hygiene Compartment (WHC) Pretreat Dose Pump (ДКИВ) R&R
+Furphy Hardware Setup
+Video Setup for Water Storage System operations.
+Water Storage System (WSS) Assembly
+Environmental Health System (EHS) – Microbial Air Sampler (MAS) Kit Sample Collection
+Bio-Monitor Wearables Data Transfer And Removal
+Water Storage System (WSS) Assembly Assist
+On MCC Go [РО]-ПхО, ПГО-СУ (SM) Hatch Closure
+Air duct disassembly in MRM2. Report to MCC
+On MCC Go MRM2-СУ (SM) Hatch Closure.
+Soyuz 741 Crew Isolation in MRM2 for EVA
+Post-EVA airlock operations
+ISS HAM Radio Power Up
+On MCC Go MRM2- СУ (SM) Hatch Opening
+Assemble air ducts in DC1 after EVA
+Switching comm system to initial configuration, reconfiguring C&W indication from ПОВ [EVA Support Panel] in DC1 and ПхО
+RS ISS Reconfiguration to initial state ([АСУ] Activation)
+Biochemical Urine Test after EVA
+Post-Eva Orlan Suit Maintenance
+Extravehicular Activity (EVA) COTS UHF Communication Unit (CUCU) Reactivation
+Post-EVA MRM2 reconfiguration for nominal operations and Soyuz 741 Deactivation
+On MCC Go [РО]-ПрК hatch opening, installation of protective ring on [РО]-ПрК hatch
+RS ISS reconfiguration for nominal ops
+
+ 

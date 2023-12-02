@@ -1,0 +1,73 @@
+
+Plasma Krystall-4 (PK-4): Today a crewmember initiated three runs for the group 2 of the PK-4 experiment and performed a hard drive change out for data downlink. PK-4 is a scientific collaboration between the ESA and the Roscosmos, performing research in the field of “Complex Plasmas”: low temperature gaseous mixtures composed of ionized gas, neutral gas, and micron-sized particles.
+Selectable Optical Diagnostics Instrument – Diffusion and Soret Coefficient (SODI-DSC): Today a crewmember stowed the Alternate Diffusion and Soret Coefficient (DSC) sample. The SODI-DSC experiment will study diffusion in six different liquids over time in the absence of convection induced by the gravity field.
+57 Soyuz (57S) Emergency Egress Drill: All three 57S crewmembers participated in a training session today where they reviewed and practiced procedures that would be performed in the event of an emergency that required the crew to egress ISS and execute an emergency descent. This training is scheduled after the crew has been onboard for 12 to 14 weeks and every 2.5 months thereafter. 
+Major Constituent Analyzer (MCA) Replacement: Following yesterday’s removal of the MCA Orbital Replacement Unit (ORU)-2, the crew successfully installed a new unit within the LAB1D6 location this morning. The failed unit experienced an ion pump short and failed in December 2018 and will be returned to the ground for refurbishment via SpaceX-17, currently planned for April of this year. The MCA is a mass spectrometer based system that measures the major atmospheric constituents on the ISS.
+Completed Task List Activities:
+
+Miniature Exercise Device (MED-2) Hardware Gather
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+SpX Crew Dragon Data (1553 and Ethernet) Checkout
+C2V2 RF Link Checkout with Crew Dragon
+
+Look Ahead:  
+Thursday, 03/07 (GMT 066):
+Payloads:
+
+
+Standard Measures Questionnaires (NASA)
+BCM Questionnaires (NASA)
+SUBSA H/W Setup (NASA)
+MELFI Ice-Brick xfer (NASA)
+Microscope H/W teardown (NASA)
+ISS Experience Lab setup (NASA)
+PK4 data xchng  and chamber gas xchng (NEON) and Runs 3/1-3 (RUS)
+
+Systems:
+
+Crew Dragon Cargo Operations
+Crew Dragon Egress and Hatch Closure
+
+Friday, 03/08 (GMT 067):
+Payloads:
+
+
+Standard Measures Questionnaires (NASA)
+BCM Questionnaires (NASA)
+LSG Power cable inspect (placeholder) (NASA)
+PK-4 group 4 runs (RUS)
+
+Systems:
+
+Dragon Undock and Splashdown
+EMU 3008 On Orbit Fit Verification (OFV)
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+
+SODI Hardware Stow Alternate
+PK-4 data hard drives exchange
+Disposal of ACCURO Drager Manual Pumps
+Verification of ИП-1 Flow Sensor Position
+PK-4 Experiment Run
+In Flight Maintenance (IFM) Mass Constituents Analyzer (MCA) Orbital Replacement Unit (ORU) 2 Replace
+In Flight Maintenance (IFM) LAB1D6 Ultrasonic Background Noise Test (UBNT) Removal
+In Flight Maintenance (IFM) Mass Constituent Analyzer (MCA) Closeout
+Dragon MegaHEPA Seals Install
+On-Board Training (OBT) SpX-DEMO1 OBT Departure Conference
+СОЖ Maintenance
+Solidification Using Baffles in Sealed Ampoules Hardware Gather
+Glacier Desiccant Swap
+Power on the Adlink Mini PC
+Preparing and connecting КСПЭ camcorder in SM for MPEG2 broadcast of station simulator OBT “ISS Emergency Descent Drill”
+ISS Emergency Descent OBT
+SpX-Demo1 Departure CBT review
+Deactivation of camcorder, TV system monitoring equipment, closing applications
+On-Board Training (OBT) SpX-DEMO1 OBT Conference after Departure review
+
+ 

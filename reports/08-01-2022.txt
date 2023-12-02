@@ -1,0 +1,22 @@
+
+Payloads:
+Airborne Particulate Monitor (APM): Experiment data was transferred from the APM for subsequent downlink to the ground. Following this, the APM hardware was relocated from Node 3 to the US Lab. Air quality in crewed spacecraft is important for keeping astronauts healthy and comfortable. Although requirements exist for maximum allowable concentrations of particulate matter, currently no measurement capability verifies whether these requirements are met. The APM demonstrates an instrument for measuring and quantifying the concentration of both small and large particles in spacecraft air. The data can be used to create a map of air quality in terms of particles and shed light on the sources of such particles.
+Analyzing Interferometer for Ambient Air-2 (ANITA-2): Two non-local air samples were gathered for analysis in the ANITA-2 system. ANITA-2 is a compact gas analyzer which can analyze and quantify 33 trace contaminants in the atmosphere aboard the ISS automatically. ANITA-2 can also detect the presence of unknown substances which can be evaluated later on the ground. ANITA-2 serves as a technology demonstration supporting the preparation for human exploration missions beyond low-Earth orbit.
+Plant Habitat Facility: The crew removed the growth chamber, and then replaced both the camera, located in the back of the growth chamber, and the Environmental Control System (ECS). The Advanced Plant Habitat (Plant Habitat) is a fully automated facility used to conduct plant bioscience research on the ISS. It occupies the lower half of the EXPRESS Rack and one powered International Subrack Interface Standard (ISIS) drawer, providing a large, enclosed, environmentally controlled chamber.
+Rodent Research-22 (RR-22): The crew performed rodent habitat restocks and access unit cleaning for the ongoing RR-22 investigation. Effects of Spaceflight on Tissue Regeneration (RR-22) investigates the effects of spaceflight on systemic and local responses of skin healing using mice as a model organism. Researchers use multiple genetic and biological assessments to define the underlying biological changes and identify those that affect tissue regeneration, which could provide therapeutic targets for improved treatments.
+Space Fibers-3 (SF-3): The SF-3 science hardware was removed from the Microgravity Science Glovebox (MSG) and installed in EXPRESS rack 10B. The ground teams are discussing how to work around the alignment issues previously seen. Removal of SF-3 from the MSG will allow the Ring Sheared Drop science hardware to be installed in MSG in the near future.  Manufacturing Fiber Optic Cable in Microgravity (Space Fibers) evaluates a method for producing fiber optic cable from a blend of zirconium, barium, lanthanum, sodium and aluminum, called ZBLAN, in space.  ZBLAN produces glass one hundred times more transparent than silica-based glass, which is exceptional for fiber optics. Microgravity suppresses mechanisms that commonly degrade fiber, and previous studies showed improved properties in fiber drawn in microgravity compared to that fabricated on the ground.
+Systems:
+Health Maintenance System (HMS) Vision Test: The crew completed eye exams to test visual acuity, visual field, and contrast sensitivity using an SSC Client. This is the first set of three different types of eye exams the crew performs regularly on-board in order to monitor crewmembers eye health. Eyesight is one of the many aspects of the human body that is affected by long-duration stays in microgravity environment.
+Dragon Cargo Operations and Crew Resupply Cargo Photo: The crew continued cargo operations by packing cargo into Cargo Dragon in preparation for SpX-25 undock on Thursday, August 18. The crew also took photos of supply cargo in the Cupola to be used for future outreach events. 
+Environmental Health System (EHS) On-Orbit Sampling: To ensure cabin air quality and crew health, the crew deployed two Formaldehyde Monitoring Kits (FMKs) in designated sample locations to gather on-orbit formaldehyde levels. The crew also collected instantaneous air samples in the center of the Lab and Columbus using a Grab Sample Container (GSC). Sampling is performed every 45 days for post-flight analysis.
+Completed Task List Activities:
+
+None
+
+Today’s Ground Activities:
+All activities are complete unless otherwise noted.
+
+Special Purpose Dexterous Manipulator (SPDM) Materials on ISS Experiment (MISSE) Sample Carrier (MSC) Transfer
+Battery Charge/Discharge Unit (BCDU) Firmware Load
+PRO 1553 Bus Swap Commanding
+

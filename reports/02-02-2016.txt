@@ -1,0 +1,83 @@
+
+Portable 3D Printer Operations:  Kelly set up the Portable 3D Printer in the Lab and initiated a fabrication process that completed successfully.  The unit, with the fabricated item, was then stowed for return to the Earth.  The Agenzia Spaziale Italiana (ASI) Portable 3D printer may be used to manufacture small plastic pieces to be used for a variety of tasks. Results from this experiment may pave the way for the installation of a full-sized 3-D printer on board the ISS in the future.
+ 
+Combustion Integrated Rack (CIR) Maintenance:  Kelly completed the first of three planned days of Multi-user Droplet Combustion Apparatus (MDCA) reconfiguration in the CIR.  He removed the MDCA Chamber Insert Assembly and placed it on the Maintenance Work Area.  During the multi-day reconfiguration he will replace the needles, fuel reservoirs, igniter tips and the fiber arm. The CIR reconfiguration activities performed this week are to prepare it for runs of the FLEX-2 experiment next week.  The CIR is used to perform combustion experiments in microgravity.  FLEX-2 studies the rate and manner in which fuel is burned, the conditions that are necessary for soot to form, and the way in which a mixture of fuels evaporate before burning.  The results from these experiments are expected to give scientists a better understanding of how fires behave in space and will provide information that will be useful in increasing the fuel efficiency of engines that use liquid fuels.
+ 
+Education Payloads Operations (EPO) – AstroPi:  Peake set up the European Space Agency (ESA) AstroPI Vis in the Columbus starboard cone and the payload will then autonomously run a pre-defined sequence of program files.  AstroPi is composed of RaspberryPi B+, Sense HAT (Hardware Attached on Top) and a camera module, contained within a protective aluminum case.  Raspberry Pi is a credit-card sized computer that enables students to explore computing and learn how to program. Two AstroPi are on board: AstroPi Vis, with visible light camera, and AstroPi IR, with an infrared camera.  Both AstroPi will run programs written by the winners of a student competition and collect data from sensors (i.e., inertial movement, barometric pressure, relative humidity and temperature). The data will be shared with schools.
+ 
+Story Time from Space:  Scott Kelly read from the book Mousetronaut, written by his twin brother Mark Kelly, and discussed the subject on camera.  The video recording will be downlinked to the ground and used for educational purposes.
+ 
+Orbital ATK (OA)-4 Cargo Operations:  Kopra transferred trash from ISS into Cygnus today.  An estimated 6.0 hours remain to complete the trash loading.  Cygnus is scheduled to unberth from ISS on February 19th.
+ 
+Water Sampling:  Peake collected samples from the USOS Potable Water Dispenser (PWD) and the Service Module Water Dispensers then performed microbial testing using a MIcrobial Capture Device (MCD) and coliform detection bags.  The samples will be returning to the ground by way of Soyuz 44 next month.
+ 
+Extravehicular Activities (EVA) Pistol Grip Tool (PGT) Torque Analyzer Kit (TAK) Data Gather:  Kopra  installed the TAK onto each of the PGTs and recorded their torque output for ground analysis.  This activity is part of a 6-month requirement for all on-orbit PGTs.
+ 
+Food Warmer Inspection:  Kopra performed an annual food warmer inspection for the unit located in Node 1.  As part of the inspection, he reported no abnormal wear on the unit and performed a successful powered functional test.
+ 
+Oxygen Generation Assembly (OGA) Status:  OGA experienced a fault associated with its H2 sensor yesterday afternoon.  Ground Teams have since analyzed the data and have scheduled a change out of the H2 sensor to occur tomorrow morning. Oxygen levels remain within limits and the Russian Segment Elektron System is operating nominally.  There are currently two spare sensors on-orbit.
+ 
+Lab Carbon Dioxide Removal Assembly (CDRA) Fault:  This afternoon the Lab CDRA faulted due to the Air Selector Valve (ASV)-4 valve not reaching the correct position.  Flight Controllers are working to recover.  Amine Swingbed is being activated to help manage carbon dioxide levels. The Node 3 CDRA experienced a fault with its Fan Motor Controller on January 19th and is currently deactivated.  The Russian Vozdukh will be deactivated tomorrow for the Russian EVA.
+ 
+Today’s Planned Activities
+All activities were completed unless otherwise noted. 
+
+Review of [ВКС] Laptops Antivirus Scanning Results and Report
+On MCC Go Ф2 БМП Absorption Cartridge Regeneration
+Taking PILLE Dosimeters Readings
+Log out of SSC12 prior to Ground Operations with Radiation Sensors
+Water Samples Collection for an On-orbit Chemical/Microbial Analysis
+ST – Photography
+Fine Motor Skills – Experiment (Subject)
+Filling (separation) of EDV (КОВ) for Elektron or EDV-SV. If required, separate EDV KOV No. 1106
+PILLE Dosimeters Preparation and Installation prior to the EVA
+P/TV – XF305 Camcorder Setup
+СОЖ Maintenance
+Vacuum Cleaning of КВД and КСД Valves Grilles prior to the EVA
+Water Samples Collection from the Potable Water Dispenser (PWD)
+ИП-1 Sensors Installation Monitoring
+Filling and Installation of a Drinking Bag in SS ORLAN-MK (if required)
+TOCA – PWD Sample Analysis
+On MCC Go Post-deactivation Elektron Purge. Tagup with specialists to close [ВН2] of the Interface Unit БС of Elektron
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test
+POP3D – 3D Printer Ops
+EPO – Procedures Review
+Crew Handover Conference
+Cygnus Cargo Transfer
+EPO – Hardware Setup
+POP3D – Hardware Stowage
+Cygnus Cargo Operations Conference
+Review of an Updated EVA Timeline
+IDENTIFIKATSIYA. Downloading of ИМУ-Ц Measurement Results to the Laptop
+STFS – Photography
+ST – Procedure Review
+PGT Torque Analyzer Kit Data Collection
+Recording Data from TOCA PWD Analysis
+Microbial Capture Devices (MCD) Water Processing
+Т2 Monthly Inspection
+JRNL – Journal Entry
+CIR – Rack Doors Opening
+CONTENT. Experiment Operations
+CIR – Combustion Chamber Opening
+MDCA – Hardware Transfer (Part 1)
+VZAIMODEISTVIYE-2. Experiment Operations
+Food Warmer Inspection and Maintenance
+Logging out of SSC12 prior to Radiation Dosimeters Operations from the Ground
+Evening Work Prep
+ISS HAM – ISS HAM Radio Deactivation
+On MCC Go Ф2 БМП Absorption Cartridge Regeneration
+Reminder – Habitability Walk-Through Video
+
+ 
+Completed Task List Items
+
+None
+
+ 
+Ground Activities
+All activities were completed unless otherwise noted. 
+
+Nominal System Commanding
+JEM RMS Operations Small Fine Arm (SFA) installation to SFA Stowage Equipment (SSE)
+
+ 

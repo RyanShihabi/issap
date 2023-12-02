@@ -1,0 +1,80 @@
+
+OsteoOmics: The crew changed BioCell media in BioCell Habitat 3. The media in all four of the habitats will be changed in this second of four weeks of OsteoOmics operations.  Crewmembers experience bone loss in orbit, stemming from the lack of gravity acting on their bones. OsteoOmics investigates the molecular mechanisms that dictate this bone loss by examining osteoblasts, which form bone, and osteoclasts, which dissolve bone.  Improved understanding of these mechanisms could lead to more effective countermeasures to prevent bone loss during space missions and in a wide range of disorders on Earth. This may lead to better preventative care or therapeutic treatments for people suffering bone loss as a result of bone diseases like osteopenia and osteoporosis, or for patients on prolonged bed rest.
+Myotendinous and Neuromuscular Adaptation to Long-term Spaceflight (Sarcolab)-3: Today’s second operational day for the Sarcolab-3 experiment began with converting the Muscle Atrophy Research & Exercise System (MARES) from the ankle measurement configuration to the knee measurement configuration. Subject donned the Percutaneous Electrical Muscle Stimulator (PEMS) and Electromyography (EMG) electrodes to stimulate and measure calf muscle and tendon response at the back of the knee (calf muscle origin).  During the knee joint evaluation, the subject sat on the MARES dynamometer with the chair and pantograph set to obtain knee flexion and extension from a 90 degree knee angle to full extension with the knee torque adapter securely fixed to the shin. The inflight data will be compared to preflight and post flight measurements to measure the impact of a hypothesized microgravity induced muscle loss. Sarcolab investigates the adaptation and deterioration of the soleus, or calf muscle, where it joins the Achilles tendon which links it to the heel and carries loads from the entire body. Muscle fiber samples are taken from crew members before and after flight, and analyzed for changes in structural and chemical properties. MRI and ultrasound tests and electrode stimulation are conducted to help assess muscle and tendon changes caused by microgravity exposure.
+Phase Change Heat Exchanger (PCHx):  The crew removed the Wax Tray from the PCHx and stowed it for return on SpaceX 11. The objective of the PCHx Project is to create a unique test platform to advance the technology readiness level of phase change heat exchangers for infusion into future exploration vehicles. Phase change material heat exchangers are a useful technology that helps certain space missions in regulating the thermal conditions on their particular spacecraft. They serve as a supplemental heat rejection device during time-varying heat loads and/or transient environments. It does so by storing waste energy by melting a phase change material during peak loads. It can then reject this energy through a radiator when conditions allow, causing the phase change material to freeze. 
+European Space Agency (ESA) Active Dosimeter Swap:  The crew retrieved dosimeters worn by crewmembers and deployed them in the Columbus module, Node 3 and the Service Module. The European Crew Personal Active Dosimeter is worn by European ISS crewmembers on orbit to measure radiation exposure. This device, coupled with other dosimeters in the Columbus Laboratory, provides radiation dosage information that can be used to support risk assessment and dose management. The goal is to enable the verification of radiation monitoring systems for future medical monitoring of crewmembers in space.
+Extravehicular Activity (EVA) Preparations: The crew completed the following in preparation for Friday’s planned EXPRESS Pallet Controller Assembly (ExPCA) EVA.
+
+Detailed timeline and procedures review
+Briefing package review
+Tool configuration summary review
+Added EVA specific pages to the cuff checklist
+
+On-Board Training (OBT) Emergency Response: All crew members participated in a rapid depress emergency scenario and completed the following objectives:
+
+Practiced ISS emergency response with crew and ground roles based on information provided by simulator displays.
+Physically translated through the ISS to appropriate response locations to visualize use of ISS equipment and interfaces.
+Practiced procedure execution and associated decision making based on cues provided by the simulator.
+Practiced communication and coordination with Mission Control Center (MCC)-Houston and MCC-Moscow as required for a given emergency scenario.
+
+Mobile Servicing System (MSS) Operations: Yesterday afternoon, Robotics Ground Controllers powered up the MSS, configured and stowed the Special Purpose Dexterous Manipulator (SPDM) on Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2) using the Space Station Robotic Manipulator System (SSRMS).  After stowing the SPDM, Controllers translated the Mobile Transporter from Worksite 3 (WS3) to WS4 and maneuvered the SSRMS into config for Friday’s ExPCA EVA.  
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+Personal Data Prep for Return
+IMS Delta file prep
+EKON-M. Observations and photography
+Environmental Health System (EHS) Acoustic Dosimeter Operations – Setup Dosimeter for Static Measurement
+EVA Procedure Review
+OsteoOmics Media Relocate
+Water Transfer from Progress 435 (DC1) H2O Tank 2 to ЕДВ and H2O Tank 2 Bladder Compression
+Recharging Soyuz 735 Samsung PC Battery (if charge level is below 80%)
+Phase Change HX Circuit Breaker OFF
+SARCOLAB. MARES knee configuration installation
+MARES Knee Shaving Preparation
+Wax Tray Remove
+CONSTANTA-2. Cassette removal from ТБУ-В and setup on panel for 1-hour warmup
+EMG electrodes installation and Sarcolab knee protocol execution
+SARCOLAB MARES subject electrodes equipment assistance
+RGN Wastewater Storage Tank Assembly (WSTA) Fill
+OsteoOmics Media Change
+CONSTANTA-2. Preparation and Execution 5
+Electro-Wetting Drawer Install 1
+Google Photo Transfer [Failed]
+VIZIR. Preparation Steps
+Combustion Integrated Rack Alignment Guide Removal
+Habitability Narrated Task Video Setup – Subject
+Training for Emergency Response On-board ISS
+Extravehicular Mobility Unit (EMU) Cuff Checklist Print
+Habitability Narrated Task Video End – Subject
+Private Psychological Conference (PPC)
+VIZIR. Closeout Ops
+Electro-Wetting Drawer Install 2
+Initiate water transfer from CWC-I to ЕДВ
+Glacier Sample Remove
+EVA Pen and Ink Update
+ECCO MELFI insert [Deferred]
+NanoRacks Module-55 Gear-Sample Swap
+CASKAD. Manual Mixing in Bioreactor
+Verification of ИП-1 Flow Sensor Position
+For Mini ESA Thermal Container
+NanoRacks Keyboard Troubleshooting
+Terminate Soyuz 735 Samsung PC Battery Charge (as necessary)
+On-board Training (OBT) ISS Emergency Drill Conference
+Terminate water transfer from CWC-I to ЕДВ
+Environmental Health System (EHS) – Formaldehyde Monitoring Kit (FMK) Stow Operation
+VIZIR. Download Data from GoPro camcorders (terminate)
+SARCOLAB. MARES and Laptop Power OFF
+ПФ1, ПФ2 Dust Filter Replacement and В1, В2 Fan Grille Cleaning in DC1
+Inventory Management System (IMS) Conference
+
+Completed Task List Items
+
+Veggie 03 Pillow Watering and Photo 
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+EVA preparation support
+Emergency OBT support
+

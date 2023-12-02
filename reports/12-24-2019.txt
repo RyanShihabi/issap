@@ -1,0 +1,138 @@
+
+CIR/ACME (Combustion Integration Rack/Advanced Combustion via Microgravity Experiments): In support of the continuing s-Flame investigation, the crew exchanged the ACME Bypass Controller and the ACME Fuel Controller.  These controllers allow different flow regimes to be used for the experiment.  The purpose of s-Flame is to advance our ability to predict the structure and dynamics, including extinction and instabilities, of both soot-free and sooty flames. The results may contribute to the development of lean-burn engines for improved efficiency and reduced pollutant emissions here on Earth.  S-Flame is one of five experiments hosted by CIR/ACME which is designed to study gaseous flames.
+Confined Combustion: The crew and ground teams worked together to perform test burns on 2 samples.  There was some initial difficulty obtaining the desired airflow, but this was corrected by the crew.  Confined Combustion examines the behavior of flame as it spreads in differently-shaped confined spaces in microgravity.  Flame spread observations are translated into mathematical models for use in understanding the results and applying them to areas with different shapes.  In a recent NASA project (Saffire), a large-scale flame spread investigation shows that flames spread more slowly in a large confined space than in a smaller space even if all other environmental conditions are the same (oxygen, pressure, flow speed, etc). The faster flame spread in smaller chambers is suspected to be due to a combination of thermal expansion during combustion and tunnel flow acceleration. Radiation heat feedback from chamber walls may also be a factor.
+Fluid Shifts: Day 2 of the Chibis ops was performed, closing out the science activities for this Fluid Shifts session.  The ground team did experience a recurrence of the OCT (Optical Coherence Tomography) system disconnecting from the software, but this occurred after data collection was complete and there were no impacts.  Fluid Shifts is a NASA investigation, divided into Dilution Measurements, Baseline Imaging, and Imaging with Chibis. The Chibis hardware is used to perform the Lower Body Negative Pressure (LBNP) part of the experiment. The Fluid Shifts experiment investigates the causes for severe and lasting physical changes to astronaut’s eyes.  Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a LBNP device is being evaluated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and prevention of eye damage.
+Systems:
+T2 Monthly Inspection: As part of regular maintenance to ensure that the T2 exercise device is in good operational condition, the crew inspected all four Snubber Arms for any sign of free play as well as make any necessary adjustments to reduce the free play.
+Common Cabin Air Assembly (CCAA) Preparation: Today, the crew made an adjustment to the Supply Damper Valve to configure cabin airflow for dual CCAA operations.
+Completed Task List Activities:
+
+WHC-KTO-Replace
+
+Ground Activities:
+All activities are complete unless otherwise noted.
+
+
+Payload Operations Support
+
+Tuesday, 12/24 (GMT 358)
+Payloads:
+
+
+CIR/ACME MFC replacement
+Combined Combustion
+ER6 laptop CMOS battery
+Fluid Shifts
+Food Acceptability
+Standard Measures
+
+Systems:
+
+CMS T2 Monthly Inspection
+MDLT HDD R&R
+
+Wednesday, 12/25 (GMT 359) Off- Duty (Christmas Holiday)
+Payloads:
+
+
+No planned utilization activities
+
+Systems:
+
+No planned systems activities
+
+Thursday, 12/26 (GMT 360)
+Payloads:
+
+
+Advanced Nanostep
+BEST MELFI retrieve/insert
+Confined Combustion
+Food Acceptability
+Genes In Space-6
+ISS Experience message review
+
+Systems:
+
+Dragon Transfer and Cargo Ops
+ARED Cylinder Flywheel/Valve Foam
+CCAA Maintenance Review
+MBSU/BCDU Gather, Pack and Stow
+Stanchion Tear Down
+Regen – EDV Drain Initialize, Swap, Drain Term
+OBT Emergency Mask Review
+BEAM Ingress, H/W Stow and associated activities
+
+Today’s Planned Activities:
+All activities are complete unless otherwise noted.
+
+Preparation of reports for Roscosmos website and social media
+SCENARIY. Observation and photography of catastrophic events and their aftermath.  Monitoring of fires in the south of Australia
+ECON-M. Observation and Photography
+Standard Measures Post-sleep Questionnaire
+KORREKTSIYA. Starting Accelerometry
+Biochemical Urine Test
+URISYS Hardware Stowage
+Checkout of Virus Definition File Update on Auxiliary Computer System (ВКС) Laptops and Report
+Fluid Shifts- Comm configuration for the experiment
+JEM Airlock Press
+On MCC GO Regeneration of Micropurification Unit (БМП) Ф2 Cartridge, initiate
+Fluid Shifts. Gathering and Connecting Equipment for TV conference.
+Lab Dual CCAA Operations Configuration
+XF305 Camcorder Setup
+CBEF-L Configuration Change
+Confined Combustion Operations
+Fluid Shifts OCT2 Service Module Setup
+Fluid Shifts. Opening RS SM panel 231А
+KORREKTSIYA. Recording fluids and food (medicine) intake
+Fluid Shifts. Connecting HRF PC laptop (in lieu of RSE1)
+Vozdukh Atmosphere Purification System [СОА] Switchover to Mode 2 (Valve Group БВК1, БВК2, БВК3).  [СОА] Cycle =30 min, Vacuum Pump [ВН] = 1 min; Air Flow = 100%
+Fluid Shifts Tonometry Service Module Setup
+SEPARATION. Mixing in the [СРВ-У-РС] urine circulation loop.
+Fluid Shifts DPOAE Service Module Setup
+JEM Airlock Leak Check
+Fluid Shifts. Chibis Setup
+Fluid Shifts. Assistance with CHIBIS set and [KMA-01] Medical Hardware operations.
+Fluid Shifts CCFP Service Module Configuration
+Fluid Shifts Experiment Service Module Data Collection Operator
+Fluid Shifts Experiment Service Module Data Collection Subject
+Countermeasures System (CMS) Treadmill 2 System (T2) Monthly Inspection
+Countermeasures System (CMS) Treadmill 2 (T2) Exercise Session
+Fluid Shifts – Chibis Closeout Ops
+Fluid Shifts CCFP DPOAE Service Module End
+Equipment transfer to kit 17КС.300Ю 9274А-0
+Fluid Shifts OCT2 Service Module Power Off
+EXPRESS Rack 6 (LAB1O4) Laptop Computer CMOS battery changeout
+Fluid Shifts. Closure of RS SM panel 231А
+Fluid Shifts. Connecting Laptop RSE1  (in lieu of HRF PC3)
+Fluid Shifts Tonometry Service Module Stow
+Fluid Shifts OCT2 Service Module Stow
+Fluid Shifts. Disconnecting SSC1 from Ethernet
+Fluid Shifts. Deactivation of КСПЭ Equipment and Closing Applications on Central Post SSC
+Fluid Shifts CCFP HRF PC Service Module Stow
+Fluid Shifts. Restore nominal comm config
+Fluid Shifts Hardware Final Gather
+Fluid Shifts Hardware USOS Transfer
+Fluid Shifts HRF PC Reconnect
+Fluid Shifts Ultrasound 2 HRF Rack 2 Setup And Power On From Cargo Transfer Bag
+KORREKTSIYA. Recording fluids and food (medicine) intake
+Filling (separation) of ЕДВ [КОВ] for Elektron or ЕДВ-СВ
+Food Acceptability Survey
+Health Maintenance System (HMS) ISS Medical Accessories Kit (IMAK) Unpack from SpX-19
+Fluid Shifts Hardware Stow
+Public Affairs Office (PAO) High Definition (HD) Config JEM Setup
+Combustion Integrated Rack Doors Open
+TV conference dedicated to Oleg Skripochka’s birthday
+Combustion Integrated Rack Front End Cap Open
+СОЖ maintenance
+COSMOCARD. Closeout Ops.
+ACME Controller Replace 2
+Pille dosimeter readings download
+Checkout of POTOK-150 Air Purification System.
+Combustion Integrated Rack Front End Cap Close
+Delta file prep
+Combustion Integrated Rack Doors Close
+Equipment transfer to kit
+Crew Discretionary Event
+
+ 

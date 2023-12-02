@@ -1,0 +1,77 @@
+
+New Status:
+Capillary Flow Experiment (CFE) Vane Gap-1: Flight Engineer (FE)-6 Nyberg completed the 8th of 11 planned test sessions. With ground direction, Nyberg used the CFE-2 vessel to observe fluid interface and critical wetting behavior in a cylindrical chamber with elliptic cross-section and an adjustable central perforated vane. CFE uses the low-gravity environment provided by the International Space Station to understand the special dynamics of capillary flow and will aid in the design of fluid transport systems on future spacecraft.
+Biological Rhythms 48-hour Operations:  Nyberg attached electrodes and donned a Digital Walk Holter Electrocardiogram (ECG) earlier today and will wear them for 48 hours as part of the Biological Rhythms experiment. The investigation examines the circadian variations in the cardiac autonomic function during space flight. Results will be used to improve crew health technology on long-duration space flights.
+Binary Colloidal Alloy Test (BCAT) 4:  FE-5 Parmitano initiated Sample 3 run.  BCAT-4 samples contain microscopic spheres of different diameters suspended in a liquid.  Parmitano photographed the samples over time to document the way the particles crystallize in microgravity.
+ISS as Testbed for Analog Research (ISTAR):  Nyberg performed the second of three ISTAR sessions inspecting Countermeasures System (CMS) Treadmill 2 (T2). ISTAR Crew Autonomous Procedures explore delayed voice communication and modified flight and ground operational procedures in preparation for the future human exploration of deep space.
+Microgravity Science Glovebox (MSG) Fan Cleaning: FE-3 Cassidy rotated the MSG rack downward in order to clean Avionics Air Assembly (AAA) Fan Filter and took photographs. After photos were taken, the rack was rotated back to its nominal position.
+ATV Rendezvous & Docking Simulation On-Board Training (OBT): FE-2 Misurkin and Parmitano conducted proficiency training on the ATV Rendezvous and Docking Simulator. Both practiced Crew interaction during ATV’s Rendezvous and Docking. In addition, the crew reviewed their responses towards various malfunction scenarios.
+Space Station Remote Manipulator System (SSRMS) Operations – Overnight, Robotics Ground Controllers powered down the Mobile Servicing System (MSS) and translated the Mobile Transporter (MT) from Worksite (WS) #6 to WS5. Controllers then repowered MSS and  maneuvered the SSRMS into position, grappled the Special Purpose Dexterous Manipulator System (SPDM) and released it from Mobile Base System (MBS) Power Data Grapple Fixture (PDGF) 2. The Robotics Ground Controllers then maneuvered the SSRMS and SPDM to the start position for the Cargo Transportation Container (CTC) #5 and #3 transfer Operations that will be performed later tonight and Friday
+Today’s Planned Tasks
+· PLAZMENNIY KRISTALL. Pressure Check  [Complete] 
+· Acoustic dosimeters: Setup for Static Measurement [Complete] 
+· ATV Rendezvous and Docking Simulator Proficiency 2. [Complete] 
+· Capillary Channel Flow (CCF) Onboard Training Review [Complete] 
+· Filling (separation) of ЕДВ (КОВ) for Elektron / SM СОГС [Complete] 
+· CIR – Hardware Setup [Complete] 
+· ИП-1 Flow Sensor Position Check / SM СКДС  [Complete] 
+· ISTAR – Procedure Review [Complete] 
+· Comm config to support voice comm from MRM2 during the experiment  [Complete] 
+· PLAZMENNIY KRISTALL Hardware Activation and Experiment Start.  [Complete] 
+· CFE Procedure Review  [Complete] 
+· СОЖ Maintenance / SM СОЖ,  [Complete] 
+· CCF – Hardware Setup  [Complete] 
+· TV-ISS-MCC. PLAZMENNIY KRISTALL. Check TV signal on ВКУ Monitor  [Complete] 
+· TV-ISS-MCC. PLAZMENNIY KRISTALL. Start and Monitor the Experiment Tagup with specialists  [Complete] 
+· TV-MPEG2 (Ku-band).  Start NASA MPEG2 Viewer on SSC ЦП, Monitor MPEG2 Multicast  [Complete] 
+· MATRYOSHKA-R. Monitoring Lulin-5 readings  [Complete] 
+· CWC Audit  [Complete]  
+· Hand Ergometry. Tagup with specialists  [Complete] 
+· Download Pille Dosimeter Readings  [Complete] 
+· Crew time for ISS adaptation and orientation [Complete] 
+· Holter start [Complete] 
+· CFE. Test Ops [Complete] 
+· PLAZMENNIY KRISTALL. Experiment End. Tagup with specialists  [Complete] 
+· Hand Ergometry. Tagup with specialists (S-band) МО Book  [Complete] 
+· PLAZMENNIY KRISTALL data copy from the hard drive [Complete] 
+· LCS. Activate RSE-LCS laptop to start data recording.  [Complete] 
+· ATV Rendezvous and Docking OBT Conference  [Complete] 
+· Stow Video Equipment Used for ARED Exercise Video [Complete] 
+· CFE – Video File Download to SSC for Downlink [Complete] 
+· CONTROL. БВП Setup for EVA Tagup with specialists [Complete] 
+· SM Ventilation System Preventive Maintenance. Group В1 / СОТР  [Complete] 
+· BCAT – Sample Image Setup and Photography  [Complete] 
+· Gather EVA Equipment and Tools. Photography, Photo Downlink  [Complete] 
+· MSG-AAA – Fan Filter Cleaning  [Complete] 
+· T2 Monthly Inspection  [Complete] 
+· ISS as Testbed for Analog Research (ISTAR) Crew Survey of modified Treadmill 2 System (T2)  [Complete] 
+· HRF – Resupply  [Complete] 
+· IMS Update / IMS  [Complete] 
+· HRF – Battery Kits transfer to a new location  [Complete] 
+· VZAIMODEISTVIYE Experiment Ops  [Complete] 
+· Crew time for ISS adaptation and orientation  [Complete] 
+· VZAIMODEISTVIYE. Experiment Ops  [Complete] 
+· Collecting SM and FGB Air Samples Using АК-1М Sampler / СКДС  [Complete] 
+· Handover of US Tools for RS EVA from US Crew to RS Crew  [Complete] 
+· SM Air Sampling for CO using ИПД Samplers  [Complete] 
+· BCAT Reminder  [Complete] 
+· Reaction Self Test  [Complete] 
+· PLAZMENNIY KRISTALL. Pressure Check [Complete] 
+· BCAT Reminder  [Complete] 
+· ECON-M. Observations and Photography  [Complete] 
+· Preparation of reports for Roskosmos site  [Complete] 
+· URAGAN Observations and Photography  [Complete] 
+
+Task List
+· CEO Ops   [Complete] 
+· ISS Crew Handover  [In Work] 
+· WHC KTO replace
+· WHC EDV R&R
+· Preparation of reports for Roskosmos site
+· ECON-M. Observations and Photography
+· URAGAN Observations and Photography
+· CIR Bottle Reorganization
+· EVA Connector Insulating Sleeve Wanted Poster  [In Work] 
+· Hearing Equipment Audit
+Ground
+· Nominal Commanding

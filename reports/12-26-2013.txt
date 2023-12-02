@@ -1,0 +1,99 @@
+
+Post-EVA Operations: Flight Engineer (FE)-5 Mastracchio and FE-3 Hopkins performed nominal post-EVA maintenance on the Extravehicular Mobility Unit (EMU) suits.  In addition, samples from the Liquid Cooling and Ventilation Garments (LCVG) were transferred into bags to be returned to the ground for analysis.  These samples will support the EMU 3011 water in the vent loop root cause investigation.  The EMU water tanks were refilled and the cooling loops were scrubbed for EMUs 3005, 3011, 3010 and 3015.
+External Thermal Control System (ETCS) Loop A Re-integration Status:  All of the Interface Heat Exchangers (IFHXs) were reintegrated onto Loop A yesterday and heat rejection capability has been restored.
+RS EVA 37 Preparations: Preparations continue nominally for the RS EVA.  Today, the crew closed the hatches to 53P.  The hatches to 52P were closed last Sunday.  All of the US EVA equipment that will be used during the RS EVA 37 were transferred to the Russian crew yesterday and today.  RS EVA 37 is scheduled for tomorrow, December 27th.
+Mobile Servicing System (MSS) Operations: The Robotics Ground Controllers restored the MSS to a nominal power configuration after restoration of ETCS Loop A.  They also reduced the rigidization load in the Payload/ORU Accommodation (POA) carriage.  This load reduction will mitigate long-term wear on the POA snare cables while it’s holding the failed Pump Module (PM).
+Today’s Planned Tasks
+
+REACTION – reaction self-test  [Complete]
+RSS1,2 Reboot [Complete]
+Laptop RS1(2) Reboot [Complete]
+Post-EVA crew health eval – preparation [Complete]
+EVA ops review [Complete]
+ISS crew and ГОГУ (RSA Flight Control Management Team) weekly conference [Complete]
+Post-EVA crew health eval – CMO [Complete]
+Post-EVA crew health eval – subject [Complete]
+BIOME – Data Entry [Complete]
+Post-EVA crew health eval – CMO [Complete]
+Post-EVA crew health eval – subject [Complete]
+Combine drinking water dispenser PWR 1022 and 1023 into PWR 1021 [Complete]
+Post-EVA crew health eval – stowing [Complete]
+Preparation of Cables for SSC Connection in MRM2 for RS EVA [Complete]
+PWR 1021 degassing for EMU water filling at a later time [Complete]
+SSIPC Management Conference [Complete]
+Removal of two hatch tools from the front of ТГК 421 (AO) hatch and installation of ТКГ 421 docking mechanism [Complete]
+LCVG Water Sampling [Complete]
+Conference with SSIPC Management [Complete]
+EMU-LVCG Water Charge [Complete]
+ТКГ 421 (AO) Activation, Air Duct Removal [Complete]
+EMU Water Refill [Complete]
+Quick Release Screw Clamps removal and inspection from SM Aft side.  Video of the interface [Complete]
+MLT2 – activation [Complete]
+EMU Cooling Loop Maintenance, part 1 [Complete]
+RGN REC-TNK – pressure release hose removal for nom. ops. [Complete]
+SM AO – ТКГ 421 Hatch Closure (ТКГ-СУ and ПрК-СУ) [Complete]
+Preparation of Incomplete Fuel Combustion Product [ПНСТ] Protection Kit [Complete]
+URAGAN. Photo Spectrum System Battery Charge (start) [Complete]
+On MCC Go ТКГ-СУ and ПрК-СУ hatch leak check  [Complete]
+PILLE dosimeter preparation for RS EVA 37 [Complete]
+Orlan-MK Drink Bag Refill and Install [Aborted]
+EMU Cooling Loop Maintenance, Part 2  [Complete]
+Review of Updated EVA Timeline, Translation Paths and Work Zones using DOUG Application [Complete]
+Journal entry [Complete]
+VDS – Reconfiguration [Complete]
+WRS – water sample analysis [Complete]
+Check USOS EMU lights and video camera installation on Orlan-MK No. 6 Space Suit [Complete]
+EMU Cooling Loop Maintenance, Part 3 [Complete]
+WHC – urine receptacle and insert R&R [Complete]
+EMU replacement during preparation for part 2 of loop cleaning [Complete]
+EMU Cooling Loop Maintenance, Part 3 [Complete]
+Preparation of NASA equipment for EVA-37 and assembling a common kit  [Complete]
+Crew Report on EVA [Aborted]
+URAGAN. Observation and Photography using Photo Spectrum System  [Complete]
+NAPOR-mini PCA. Mating cable 17КС.49Ю 8249А-50 to ППС УРМ. [Complete]
+BIOME – prep for sample collection [Complete]
+EMU Cooling Loop Maintenance, Part 2 [Complete]
+VZAIMODEISTVIYE. Experiment ops [Complete]
+SEISMOPROGNOZ. Mating cable 17КС.600Ю8260А51-40 connector [Complete]
+Soyuz ТК 710 pre-EVA 37 prep. [Complete]
+TOCA Data Recording [Complete]
+СОЖ Maintenance [Complete]
+TOCA Waste Water Bag (WWB) Changeout [Complete]
+NAPOR-mini PCA. COT pre-EVA prep. [Complete]
+EMU Cooling Loop Maintenance, part 3 [Complete]
+TV downlink showing. SM-ТКГ 421 AO Interface before Hatch Closure (Ku-band)  [Complete]
+Handover of US cameras to RS prior to EVA-37 [Complete]
+Reconfiguring Oxygen Supply System into initial state [Complete]
+Flight Director / ISS Crew Tag-up (S-band)  [Complete]
+REACTION – Self-reaction test
+
+Task List
+
+ARED Cylinder Evacuation
+Automated External Defibrillator (AED) Inspection
+IMS Edit
+KTO replace
+ЕДВ-У R&R
+Preparation of reports for Roskosmos site
+EKON-M. Observations and photography
+JAXA Report
+Journals Nominal Entry [Complete]
+SM PCS HD Swap
+WinEarth HISD Photos
+ARED Bolt Tighten
+BCATC1
+COL D1 FD2 MSR
+DOS3D PDP Check
+JEM WIS RSU B4 S/N 1001 Sensor  Replacement
+Kubik 6 Belt Search
+JPM1OF2 Lamp Housing Assembly (LHA) Replacement
+National Engr Week Message
+P/TV Trash
+PPS Wipe
+Pre-gather COL A/L
+Pre-gather Empty CTBs
+
+Ground
+
+Nominal Commanding
+

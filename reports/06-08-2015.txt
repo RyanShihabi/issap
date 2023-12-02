@@ -1,0 +1,64 @@
+
+Predetermined Debris Avoidance Maneuver (PDAM): The ISS performed a PDAM, using 58 Progress (58P) thrusters, due to a repeating conjunction. The PDAM executed nominally and the close approach with the object is no longer a concern. 
+Rodent Research-2 Center for the Advancement of Science in Space (RR-2 CASIS): Kelly performed a fixative flush and swap on the samples collected during yesterday’s final RR-2 operations.  Following the swap, the samples were inserted into Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI).  The primary objective of this research is to monitor the effects of the space environment on the musculoskeletal and neurological systems of mice as model organisms of human health and disease. Living in microgravity results in significant and rapid effects on the physiology of mice that mimic the process of aging and some diseases in humans on Earth, including muscle atrophy and the loss of bone mineral density. This project will help scientists to discover new molecular targets that can facilitate the development of novel therapeutics for the treatment of muscle and bone-related diseases. Long-duration exposure to microgravity will also induce changes in gene expression, protein synthesis, metabolism, and eye structure/morphology that will be identifiable as a series of assessable biomarkers for tracking the onset and progression of disease.
+Human Research Program (HRP) Collections: Kelly and Cristoforetti continued their week of saliva sample collections today in support of Microbiome and Twins Study.  Samples were collected and placed in MELFI for storage.
+Skin-B:  Cristoforetti repeated the Skin-B activity performed earlier this week (Flight Day 150 session), having found a missing cable. She performed Corneometer (measuring the hydration level of the stratus coreum, or outer layer of the skin), Tewameter (skin barrier function measurement), and Visioscan (skin surface topography) measurements recording the data on a laptop running the Skin-B application. The Skin-B investigation aims to improve the understanding of skin aging which is slow on Earth but greatly accelerated in space. This will also provide insights into the aging process in other (similar) bodily tissues in general. This could help in determining impact on astronauts on future missions to the Moon and Mars where environmental conditions are more challenging.
+FLame Extinguishment Experiment-2 JAXA (FLEX-2J) Fiber Failure: During ground commanded calibration procedures, the FLEX-2J fuel support fiber broke.  Specialists are investigating the cause of the fiber failure.  A spare fiber is onboard and teams are working on scheduling a Remove and Replace (R&R).  While the crew changes out the fiber, it is expected that the bent igniter tip will be R&R’ed at the same time, due to the similar access requirements.  FLEX-2J studies the interactions of flames on the ignition (or non-ignition) and motion of millimeter-sized droplets.  The experiment operates in the Combustion Integrated Rack (CIR) and consists of a linear array of droplets, several of which are fixed, while the others are free to move along the support fiber.  The fixed droplets are ignited and the resulting flame spread and motion of the droplets observed with the CIR diagnostic cameras. 
+41 Soyuz (41S) Departure Preparations: The 41S crew completed an On Board Training (OBT) nominal Soyuz descent drill. The 42S crew conducted an Emergency Roles and Responsibilities review for 3-crew operations. This included crew accountability, escape vehicle access, ISS Commander responsibilities and communication and coordination.
+Today’s Planned Activities
+All activities were completed unless otherwise noted.
+
+
+TWIN- saliva sampling
+Morning inspection, Laptop RS1(2) Reboot
+HRF- sampling and prep insertion
+HRF – sample insertion into MELFI
+PAO prep
+Lubricating ARED cables
+Activating АСУ in ТК 715
+PAO – crew prep/ r/g 9018
+TV – broadcast with winners of “Eastern Cosmodrome” conference; the future of Russian space program r/g 9018
+SKNB – performing steps and data downlink
+SEISMOPROGNOZ. Transferring data from МКСД hard drive r/g 9013
+Time for prep for return to Earth
+ВКС laptops – AV database update / r/g 8247
+LBNP OBT (FINAL) – assistance / r/g 9024
+LBNP OBT (FINAL). Tagup / r/g 9024
+Cleaning of ПФ1, ПФ2 dust filters and В1, B2 fan grills in MRM2 using vacuum cleaner r/g 8393
+USOS window shutter closing
+RR- replacing locks
+PROBOI – working with onboard laptop RSЕ1. Tagup / r/g 9023
+PROBOI. Working with breakthrough simulator Tagup / r/g 9023
+Time for prep for return to Earth
+Return hw kit for ТК 715 / r/g 8970
+HRF – hw install
+СУД of ТК 715 test prior to undock r/g 9017
+RR- transfering samples to MELFI
+ALGOMETRIA. Experiment run / r/g 9014
+MSG – unpower
+ТК 715 – descent OBT.r/g 9019,9020
+PROBOI. Copying data and downlink / r/g 9023
+БЖ (liquid unit) in “Электрон-ВМ” repress – prior to turn on
+Emergency roles and responcibilities procedure review
+RR- animal cage cleaning
+Monitoring microecological environment / r/g 9016
+SEISMOPROGNOZ. Copy МКСД hard drive data  (end) and start compression r/g 9013
+Preparation for МО-21. Ecosfera power supply unit charging r/g 9016
+Exercise data downlink / r/g 6797
+Prep for AV scan on ВКС laptops / r/g 8247
+
+Completed Task List Items
+
+CEVIS CP c/o parts 1, 2
+Data prep return (CDR)
+IMAX Soyuz scene
+41S pre-pack [In work]
+Capillary Beverage demo [In work]
+
+Ground Activities
+All activities were completed unless otherwise noted.
+
+
+PDAM
+41S Thruster Test
+
