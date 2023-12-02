@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+114,0.014982876712328766,"frozenset({'CBEF-L', 'CBEF'})",2,35
+112,0.0136986301369863,"frozenset({'CBEF', 'CB'})",2,32
+113,0.009845890410958904,"frozenset({'CBEF-L', 'CB'})",2,23
+111,0.0025684931506849314,"frozenset({'Actiwatch', 'Actiwatch Spectrum'})",2,6

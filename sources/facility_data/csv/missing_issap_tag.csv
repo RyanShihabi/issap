@@ -1,0 +1,156 @@
+,FacilityName_Full,Category
+1,Advanced Resistive Exercise Device,Exercise
+2,Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS) System,Exercise
+3,Combined Operational Load Bearing External Resistance Treadmill,Exercise
+4,Holter Monitor 2,Crew health
+5,Portable Pulmonary Function System,Crew health
+6,Treadmill with Vibration Isolation and Stabilization System,Exercise
+7,Cold Atom Lab,Physics
+8,EXpedite the PRocessing of Experiments&nbsp;to Space Station Rack,Generic
+9,Advanced Plant Habitat,Plant
+10,Mass Measurement Device,Crew health
+11,Human Research Facility Ultrasound on the International Space Station 2 ,Crew health
+12,Double Coldbag,Refrigerator
+13,Additive Manufacturing Facility,3D printing
+14,Aquatic Habitat,Biology
+15,Actiwatch Spectrum System,Crew health
+16,Gradient Heating Furnace,Materials
+17,Wet Lab RNA SmartCycler,Biology
+18,BioFabrication Facility,3D printing
+19,Bone Densitometer,Crew health
+20,New JEM exposed facility platform for payloads of IVA supply experiments,DELETE - outside ISS
+21,Confocal Space Microscope,Biology
+22,NanoRacks External Platform,DELETE - outside ISS
+23,Life Sciences Glovebox,Biology
+24,Solidification Using a Baffle in Sealed Ampoules (SUBSA),Materials
+25,NanoRacks CubeSat Deployer,DELETE - outside ISS
+26,Fruit Fly Lab,Biology
+27,Rodent Research Facility,Biology
+28,Made In Space Fiber Optics,Materials
+29,Exposed Experiment Handrail Attachment Mechanism,DELETE - outside ISS
+30,International Commercial Experiment Cubes Facility,General science
+31,JAXA Mouse Habitat Unit,Biology
+32,Mobile SpaceLab,Biology
+33,Glovebox Freezer,Refrigerator
+34,NanoRacks Platforms,DELETE - outside ISS
+35,NanoRacks Plate Reader,General science
+36,Interim Resistive Exercise Device,Exercise
+37,Nanoracks Bishop Airlock,DELETE - outside ISS
+38,Cryo Chiller,Refrigerator
+39,Space Communications and Navigation Testbed,Communications
+40,Bioculture System,Biology
+41,Faraday Research Facility,Physics
+42,Freezer/Refrigerator/Incubator Device for Galley and Experimentation (FRIDGE),Refrigerator
+43,Hermes Facility,Materials
+44,NanoRacks Microscopes,General science
+45,KOBAIRO Rack,Generic
+46,NanoRacks Kaber Microsat Deployer,Satellite deployer
+47,BIOKON,Biology
+48,Wet Lab Kit,Biology
+49,BioServe Microscope,Biology
+50,Demonstration of a Programmable Isolation Mount to Precisely Control and Manipulate the Acceleration Environment for Microgravity Research,Vibration isolation
+51,Biotube,Biology
+52,Space Technology and Advanced Research Systems Inc.-1 Experiment Facility,General science
+53,Fluid Processing Cassette,Biology
+54,Mini Coldbag,Refrigerator
+55,Light Ions Detector for ALTEA Facility,Physics
+56,NanoRacks External Cygnus CubeSat Deployer,Satellite deployer
+57,ISS SERVIR Environmental Research and Visualization System,Earth observation
+58,MELFI,Refrigerator
+59,Solar,Astronomy
+60,CIR,Furnace
+61,Ultrasound,Crew health
+62,Actiwatch,Crew health
+63,MSG,Glovebox
+64,EPM,Crew health
+65,Holter,Crew health
+66,CBEF,Centrifuge
+67,GLACIER,Refrigerator
+68,Polar,Refrigerator
+69,Veggie,Plant
+70,HRF-1,Crew health
+71,MWA,Maintenance
+72,BioLab,Biology
+73,FSL,Fluids
+74,MSL,Furnace
+75,Astrobee,Robotics
+76,MERLIN,Refrigerator
+77,SLAMMD,General science
+78,PFS,Crew health
+79,FPEF,Fluids
+80,Kubik,Incubator
+81,EMCS,Plant
+82,EDR,General science
+83,MSPR,Generic
+84,FIR,Fluids
+85,Saibo,Biology
+86,Spectrum,Biology
+87,ELF,Furnace
+88,RC,Centrifuge
+89,PCRF,Biology
+90,CB,Glovebox
+91,LMM,Microscope
+92,SCOF,Microscope
+93,WORF,Earth observation
+94,Ryutai,Fluids
+95,EML,Levitation
+96,SABL,Incubator
+97,MARES,Crew health
+98,DECLIC,Fluids
+99,PCBA,Crew health
+100,IPU,Image processing
+101,CBEF-L,Centrifuge
+102,LSR,Life support
+103,MVP,Centrifuge
+104,Bio-Monitor,Crew health
+105,UMS,Crew health
+106,TEPC,Crew health
+107,TangoLab-2,General science
+108,ELC,External payloads
+109,J-SSOD,Satellite deployer
+110,Iceberg,Stowage
+111,CGBA,Biology
+112,GN2,General science
+113,EuTEF,External payloads
+114,RAM,Crew health
+115,ABRS,Plant
+116,FROST,Refrigerator
+117,CCE,Combustion
+118,MAMS,Physics
+119,Mochii,Microscope
+120,HRF-2,Crew health
+121,MSRR-1,Materials
+122,MVIS,Vibration isolation
+123,TangoLab-1,General science
+124,Cyclops,Satellite deployer
+125,MUSES,Earth observation
+126,MISSE-FF,Materials
+127,FRIDGE,Refrigerator
+128,SlingShot,Satellite deployer
+129,SoFIE,Combustion
+130,BRIC,Biology
+131,BXF,Combustion
+132,ADSEP,Biology
+133,KERMIT,Microscope
+134,SAMS-II,Physics
+135,JEM-EF,External payloads
+136,IPU2,Image processing
+137,CBPD,Crew health
+138,AMF,3D printing
+139,ETC,Stowage
+140,KFT,Glovebox
+141,Bartolomeo,External payloads
+142,TELLAS,Biology
+143,Bio-Analyzer,Crew health
+144,ABS,Biology
+145,SALI,Incubator
+146,CellCult,Biology
+147,HSRC,External payloads
+148,PGB,Glovebox
+149,MSPR-2,General science
+150,ARCTIC,Refrigerator
+151,SPySE,General science
+152,AEM,Biology
+153,ADSEP-2,Biology
+154,BSTC,Biology
+155,GASMAP,Crew health
