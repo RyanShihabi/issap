@@ -24,7 +24,11 @@ from apriori_utils import (apriori_from_df,
 
 # apriori_from_df("./analysis/csv/facility_mentions.csv")
 
-with open("./analysis/json/paragraph_mentions.json", "r") as f:
+# with open("./analysis/json/paragraph_mentions.json", "r") as f:
+#     paragraph_list = json.load(f)
+# f.close()
+
+with open("./analysis/json/jaxa_paragraph_mentions.json", "r") as f:
     paragraph_list = json.load(f)
 f.close()
 

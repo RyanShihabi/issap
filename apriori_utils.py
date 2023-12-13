@@ -57,7 +57,7 @@ def apriori_from_list(mention_list):
     te_ary = te.fit(mention_list).transform(mention_list)
     df = pd.DataFrame(te_ary, columns=te.columns_)
 
-    support = 0.001
+    support = 1e-5
 
     itemsets_df = apriori(df, min_support=support, use_colnames=True)
 

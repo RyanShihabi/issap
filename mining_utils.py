@@ -445,7 +445,6 @@ def generate_facility_names(facility_report_file):
 			"agency_facilities": agency_facilities,
             }
 
-
 def export_data(obj, dir):
     if type(obj) == dict or type(obj) == list:  
         with open(dir, 'w') as f:

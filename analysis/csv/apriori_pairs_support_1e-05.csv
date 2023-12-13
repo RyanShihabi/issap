@@ -1,0 +1,8 @@
+,support,itemsets,length,frequency
+26,0.089058524173028,"frozenset({'CBEF', 'CBEF-L'})",2,35
+23,0.08142493638676845,"frozenset({'CBEF', 'CB'})",2,32
+24,0.058524173027989825,"frozenset({'CBEF-L', 'CB'})",2,23
+27,0.005089058524173028,"frozenset({'CBEF', 'IPU'})",2,2
+25,0.002544529262086514,"frozenset({'Saibo', 'CB'})",2,1
+28,0.002544529262086514,"frozenset({'MSPR', 'ELF'})",2,1
+29,0.002544529262086514,"frozenset({'IPU', 'IPU2'})",2,1
