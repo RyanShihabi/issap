@@ -67,10 +67,10 @@ def apriori_from_list(mention_list):
 
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
 
-    itemsets_without_resistance = filter_facilities_in_pairs(itemsets_pair, ["ARED", "CEVIS", "TVIS"])
+    # itemsets_without_resistance = filter_facilities_in_pairs(itemsets_pair, ["ARED", "CEVIS", "TVIS"])
     
-    print(itemsets_without_resistance.head(7))
+    # print(itemsets_without_resistance.head(7))
     # itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
 
-    export_data(itemsets_without_resistance, f"./analysis/csv/apriori_pairs_support_{support}.csv")
-    # print(itemsets_pair)
+    export_data(itemsets_pair, f"./analysis/csv/apriori_pairs.csv")
+    print(itemsets_pair)

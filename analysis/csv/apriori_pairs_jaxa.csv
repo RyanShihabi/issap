@@ -1,0 +1,18 @@
+,support,itemsets,length,frequency
+91,0.003612281757977122,"frozenset({'Actiwatch', 'Actiwatch Spectrum'})",2,6
+100,0.0012040939193257074,"frozenset({'Ultrasound', 'COLBERT'})",2,2
+111,0.0012040939193257074,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,2
+102,0.0006020469596628537,"frozenset({'TangoLab-1', 'EXPRESS Rack'})",2,1
+109,0.0006020469596628537,"frozenset({'SLAMMD', 'PCBA'})",2,1
+108,0.0006020469596628537,"frozenset({'MSG', 'SAMS-II'})",2,1
+107,0.0006020469596628537,"frozenset({'MELFI', 'RC'})",2,1
+106,0.0006020469596628537,"frozenset({'MELFI', 'Polar'})",2,1
+105,0.0006020469596628537,"frozenset({'MELFI', 'Plant Habitat'})",2,1
+104,0.0006020469596628537,"frozenset({'MELFI', 'LMM'})",2,1
+103,0.0006020469596628537,"frozenset({'Holter', 'Holter Monitor 2'})",2,1
+101,0.0006020469596628537,"frozenset({'ELC', 'MISSE-FF'})",2,1
+92,0.0006020469596628537,"frozenset({'Actiwatch', 'HRF-1'})",2,1
+98,0.0006020469596628537,"frozenset({'SoFIE', 'CIR'})",2,1
+95,0.0006020469596628537,"frozenset({'Spectrum', 'Actiwatch Spectrum'})",2,1
+94,0.0006020469596628537,"frozenset({'Spectrum', 'Actiwatch'})",2,1
+93,0.0006020469596628537,"frozenset({'Holter', 'Actiwatch'})",2,1
