@@ -11,7 +11,6 @@ import numpy as np
 import savepagenow
 
 def archive_paragraph_split(report_text):
-	# return report_text.split("    ")
 	return report_text.split("\n")
 
 def new_paragraph_split(report_text):
@@ -290,16 +289,45 @@ def send_internet_archive_request():
 	f.close()
 
 
+def grab_sequential_mentions(report_dir: str, facility_data: dict):
+	# Store the name and index location of the facility found in the report
+	# Sort the items by the index
+	
+	sequential_data = {}
+
+	for file in tqdm(os.listdir(report_dir)):
+		day_mentions = []
+
+		file_path = os.path.join(report_dir, file)
+		with open(file_path, 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
+
+		text = text.lower()
+
+		for name, abbr in facility_data["facility_name_abbr"].items():
+			name_indices, abbr_indices = find_name_indices(name.lower(), text), find_name_indices(abbr.lower(), text)
+
+			if len(name_indices) != 0:
+				day_mentions.append((abbr, np.min(name_indices)))
+			elif len(abbr_indices) != 0:
+				day_mentions.append((abbr, np.min(abbr_indices)))
+
+		sequential_day_mentions = [facility[0] for facility in sorted(day_mentions)]
+		
+		sequential_data[file.split(".")[0]] = sequential_day_mentions
+	
+	return sequential_data
+
+
 def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_window=-1):
 	facility_mentions = {}
 
 	for file in tqdm(os.listdir(report_dir)):
 		file_path = os.path.join(report_dir, file)
-		with open(f"{file_path}", 'r') as f:
+		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
-
-		# print(file.split(".")[0])
 
 		if filter:
 			filter_index = text.find(filter)
@@ -314,7 +342,7 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 		if kernel_window > 0:
 			words = text.split(" ")
 		
-			for name, abbr in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
+			for name, abbr in facility_names["facility_name_abbr"].items():
 				for group in range(len(words)-kernel_window):
 					day_mentions[abbr] = 0
 					text_window = " ".join(words[group:group+kernel_window])
@@ -322,7 +350,7 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 						day_mentions[abbr] = 1
 						break
 		else:
-			for name, abbr in zip(facility_names["facility_name_abbr"].keys(), facility_names["facility_name_abbr"].values()):
+			for name, abbr in facility_names["facility_name_abbr"].items():
 				day_mentions[abbr] = 0
 				if len(find_name_indices(name.lower(), text)) != 0 or len(find_name_indices(abbr.lower(), text)) != 0:
 					day_mentions[abbr] = 1
