@@ -48,6 +48,5 @@ if __name__ == "__main__":
                     with driver.session() as session:
                         result = session.execute_write(execute_write, name1, name2, frequency, facility_agency[names[0]], facility_agency[names[1]])
                         print(result)
-                # app.create_friendship(name1, name2, frequency, facility_agency[names[0]], facility_agency[names[1]])
 
     f.close()

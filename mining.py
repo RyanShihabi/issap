@@ -30,7 +30,6 @@ facility_data = generate_facility_names("./sources/facility_data/csv/all_facilit
 # facility_name_abbr_jaxa = {key: val for key, val in facility_data["facility_name_abbr"].items() if (val in facility_data_jaxa) or (key in facility_data_jaxa)}
 # facility_name_abbr_nasa = {key: val for key, val in facility_data["facility_name_abbr"].items() if (val in facility_data_nasa) or (key in facility_data_nasa)}
 
-
 # comparative_facility_names = ["MELFI"]
 
 # facility_name_abbr_jaxa[facility_data["facility_abbr_name"]["MELFI"]] = "MELFI"
@@ -41,6 +40,8 @@ facility_data = generate_facility_names("./sources/facility_data/csv/all_facilit
 # export_data(facility_data["category_facilities"], "./sources/facility_data/json/category_facilities.json")
 
 # print(generate_paragraph_apriori(facility_name_abbr_jaxa, "./reports-oct"))
+
+print(facility_data["facility_name_abbr"])
 
 export_data(generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct"), "./analysis/json/paragraph_mentions.json")
 
