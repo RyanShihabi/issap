@@ -24,7 +24,7 @@ if __name__ == "__main__":
             'f1_agency': f1_agency,
             'f2_agency': f2_agency,
             'f1_category': f1_category,
-            'f2_category': f2_category
+            'f2_category': f2_category,
         })
         return result.single()
     
