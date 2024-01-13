@@ -52,7 +52,7 @@ facility_data = generate_facility_names("./sources/facility_data/csv/all_facilit
 
 facility_sequential = grab_sequential_mentions("./rao_reports", facility_data)
 
-print(facility_sequential)
+export_data(facility_sequential, "./analysis/json/sequential_facility_mentions.json")
 
 # df = pd.DataFrame.from_dict(facility_mentions).T
 # df.index = pd.to_datetime(df.index)
