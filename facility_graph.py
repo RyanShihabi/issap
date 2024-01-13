@@ -4,7 +4,6 @@ import json
 import re
 
 if __name__ == "__main__":
-    # Aura queries use an encrypted connection using the "neo4j+s" URI scheme
     uri = "neo4j+s://1d36cf92.databases.neo4j.io"
     user = "neo4j"
     password = "H5pDGYNun_YP3T0oKPwtysR7adZApXElQ3_8DL4ZDDE"
@@ -31,9 +30,13 @@ if __name__ == "__main__":
     
     with open("./sources/facility_data/json/facility_agency.json", "r") as f:
         facility_agency = json.load(f)
+    
+    f.close()
 
     with open("./sources/facility_data/json/facility_category.json", "r") as f:
         facility_category = json.load(f)
+
+    f.close()
 
     with open("./analysis/csv/apriori_pairs.csv", "r") as f:
         reader = csv.reader(f)
