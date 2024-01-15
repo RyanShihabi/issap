@@ -16,16 +16,10 @@ def calc_facility_proportions(df):
     delta = d1 - d0
 
     # Calculate the amount of days facility is used over the total days
-    df_days_used = df.agg(['sum']) / delta.days
-
-    # Rename calculation to Occurrences
-    df_days_used = df_days_used.rename(index={"sum": "Occurrences"})
+    df_days_used = df.sum(numeric_only=True) / delta.days
 
     # Sort occurrences in descending order
-    df_days_used = df_days_used.sort_values(by="Occurrences", axis=1, ascending=False)
-
-    # Transpose results
-    df_days_used = df_days_used.T
+    df_days_used = df_days_used.sort_values(ascending=False)
 
     export_data(df_days_used, "./analysis/csv/facility_mention_proportion.csv")
 
