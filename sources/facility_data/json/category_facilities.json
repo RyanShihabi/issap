@@ -170,6 +170,13 @@
         "TELLAS",
         "Wet Lab Kit"
     ],
+    "None": [
+        "AMF",
+        "CCE",
+        "FRIDGE",
+        "GASMAP",
+        "GHF"
+    ],
     "Physical Science": [
         "BXF",
         "CIR",

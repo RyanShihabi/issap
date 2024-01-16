@@ -158,6 +158,10 @@
         "Portable Pulmonary Function System",
         "Solar"
     ],
+    "None": [
+        "AMF",
+        "FRIDGE"
+    ],
     "JAXA": [
         "Aquatic Habitat",
         "CB",

@@ -411,6 +411,9 @@ def generate_facility_names(facility_report_file):
 			facility_abbr_name[row[0]] = row[1]
 
 			if row[2] != '':
+				if row[2] not in category_facilities:
+					category_facilities[row[2]] = []
+				
 				category_facilities[row[2]].append(row[0])
 
 				facility_category[row[0]] = row[2]

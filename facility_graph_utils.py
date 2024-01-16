@@ -14,26 +14,30 @@ user = "neo4j"
 date_password = "H5pDGYNun_YP3T0oKPwtysR7adZApXElQ3_8DL4ZDDE"
 
 query = (
-    "MERGE (p1:Facility { name: $f1_name }) "
-    "MERGE (p2:Facility { name: $f2_name }) "
+    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category }) "
+    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category }) "
     "CREATE (p1)-[k:WEIGHT]->(p2), (p2)-[j:WEIGHT]->(p1) "
     "SET k.weight = $weight, j.weight = $weight "
     "RETURN p1, p2"
 )
 
 date_query = (
-    "MERGE (p1:Facility { name: $f1_name }) "
-    "MERGE (p2:Facility { name: $f2_name }) "
+    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category }) "
+    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category }) "
     "CREATE (p1)-[k:DATE { date: $date }]->(p2) "
     "SET k.weight = $weight "
     "RETURN p1, p2"
 )
 
-def execute_write(tx, facility1_name, facility2_name, frequency):
+def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agency, facility2_agency, facility1_category, facility2_category):
     result = tx.run(query, {
         'f1_name': facility1_name,
         'f2_name': facility2_name,
         'weight': frequency,
+        'f1_agency': facility1_agency,
+        'f2_agency': facility2_agency,
+        'f1_category': facility1_category,
+        'f2_category': facility2_category,
     })
     return result.single()
 
@@ -60,7 +64,7 @@ def upload_facility_itemsets():
 
         next(reader)
 
-        for row in tqdm(reader):
+        for row in tqdm(reader, total=584.0):
             names = re.findall(r"'([^']*)'", row[2])
             support = float(row[1])
             frequency = int(row[4])
@@ -74,7 +78,11 @@ def upload_facility_itemsets():
                         session.execute_write(execute_write, 
                                                         name1, 
                                                         name2, 
-                                                        frequency
+                                                        frequency,
+                                                        facility_agency[names[0]],
+                                                        facility_agency[names[1]],
+                                                        facility_category[names[0]],
+                                                        facility_category[names[1]]
                                                     )
 
     f.close()
