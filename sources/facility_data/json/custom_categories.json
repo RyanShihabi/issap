@@ -35,7 +35,7 @@
     ],
     "3D printing": [
         "Manufacturing Device",
-        "BioFabrication Facility (BFF)",
+        "BFF",
         "AMF"
     ],
     "Crew health": [
@@ -88,15 +88,15 @@
         "MVIS"
     ],
     "Earth observation": [
-        "ISERV (Facility)",
+        "ISERV",
         "WORF",
         "MUSES"
     ],
     "Communications": [
-        "SCAN Testbed (Facility)"
+        "SCAN Testbed"
     ],
     "General science": [
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "NanoRacks Plate Reader",
         "NanoRacks Microscopes",
         "STaARS-1 EF",
@@ -110,8 +110,8 @@
     ],
     "Physics": [
         "Cold Atom Lab",
-        "Faraday Research Facility",
-        "LIDAL Facility",
+        "Faraday Research",
+        "LIDAL",
         "MAMS",
         "SAMS-II"
     ],
@@ -154,7 +154,7 @@
         "GHF",
         "SUBSA",
         "MIS Fiber",
-        "Hermes Facility",
+        "Hermes",
         "MSRR-1",
         "MISSE-FF"
     ],
@@ -167,7 +167,7 @@
         "EFU Adapter",
         "NanoRacks External Platform",
         "NanoRacks CubeSat Deployer",
-        "EXHAM Facility",
+        "EXHAM",
         "NanoRacks Platforms",
         "Nanoracks Airlock"
     ],
@@ -182,12 +182,12 @@
         "Aquatic Habitat",
         "Wet Lab RNA SmartCycler",
         "Confocal Microscope",
-        "Life Science Glovebox (LSG)",
+        "LSG",
         "Fruit Fly Lab",
-        "Rodent Research Facility",
+        "Rodent Research",
         "JAXA Mouse Habitat Unit",
         "Mobile SpaceLab",
-        "Bioculture System Facility",
+        "Bioculture System",
         "BIOKON",
         "Wet Lab Kit",
         "BioServe Microscope",

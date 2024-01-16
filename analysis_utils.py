@@ -3,7 +3,7 @@ import numpy as np
 from datetime import date
 from mining_utils import export_data
 
-def calc_facility_proportions(df):
+def calc_facility_proportions(df: pd.DataFrame):
     # Total amount of days between first and last report
     first = str(df.iloc[0]["Report Date"])[:10].split("-")
     last = str(df.iloc[-1]["Report Date"])[:10].split("-")
@@ -35,7 +35,7 @@ def calc_facility_freq_month(df: pd.DataFrame):
 
     export_data(df_month, "./analysis/csv/facility_monthly_frequency.csv")
 
-def calc_total_category_mentions(facility_category, df_range):
+def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame):
     category_mentions = {"Total": {}}
 
     for category in facility_category:

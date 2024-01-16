@@ -52,7 +52,7 @@ def apriori_from_df(obj):
 
     return itemsets_pair
 
-def apriori_from_list(mention_list):
+def apriori_from_list(mention_list: list):
     te = TransactionEncoder()
     te_ary = te.fit(mention_list).transform(mention_list)
     df = pd.DataFrame(te_ary, columns=te.columns_)

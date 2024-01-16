@@ -22,7 +22,7 @@ def compare_mentions(mentions_df: pd.DataFrame, mentions_df2: pd.DataFrame) -> p
     
     return df_counts
 
-def compare_apriori(mentions_df, mentions_df2):
+def compare_apriori(mentions_df: pd.DataFrame, mentions_df2: pd.DataFrame):
     # Find the differences in rows
     # Ensure both dfs are filtered to intersection
     
@@ -60,7 +60,7 @@ def compare_apriori(mentions_df, mentions_df2):
 
     export_data(support_diff, "./analysis/csv/list_apriori_support_diff.csv")
 
-def compare_filters(mentions_df, mentions_df2):
+def compare_filters(mentions_df: pd.DataFrame, mentions_df2: pd.DataFrame):
     print(compare_mentions(mentions_df, mentions_df2))
 
     print(compare_apriori(mentions_df, mentions_df2))

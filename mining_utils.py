@@ -10,50 +10,34 @@ import pandas as pd
 import numpy as np
 import savepagenow
 
-def archive_paragraph_split(report_text):
+def archive_paragraph_split(report_text: str):
 	return report_text.split("\n")
 
-def new_paragraph_split(report_text):
+def new_paragraph_split(report_text: str):
 	return report_text.split("\n")
 
-def sentence_split(report_text):
+def sentence_split(report_text: str):
 	return report_text.split(".")
 
 # TODO: Make sure this gets words only and no whitespace
-def kernel_split(report_text, window=5):
+def kernel_split(report_text: str, window: int=5):
 	return [report_text[i: i+window] for i in range(len(report_text.split(" ")-window+1))]
 
-def custom_search(facility_names, report_dir):
+def custom_search(facility_names, report_dir: str):
 	day_mentions = {name: [] for name in facility_names}
 	
 	for file in tqdm(os.listdir(report_dir)):
 		file_path = os.path.join(report_dir, file)
 		with open(f"{file_path}", 'r') as f:
-			text = "\n".join(f.readlines())
+			text = "\n".join(f.readlines()).lower()
 		f.close()
 
 		date = file.split(".")[0]
 
 		for name in facility_names:
-			for name_index in [word.start() for word in re.finditer(name, text)]:
-				if name_index == 0 and text[name_index+1] in [" ", "-"]:
-					day_mentions[name].append(date)
-					break
-				elif name_index == (len(text) - len(name)) and text[name_index-1] == " ":
-					day_mentions[name].append(date)
-					break
-				elif text[name_index-1] == " " and text[name_index+(len(name))] == " ":
-					day_mentions[name].append(date)
-					break
-				elif name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
-					day_mentions[name].append(date)
-					break
-				elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-					day_mentions[name].append(date)
-					break
-				elif text[name_index-1] in [" ", "(", "\n"] and text[name_index+(len(name))] in [" ", ")", "\n"]:
-					day_mentions[name].append(date)
-					break
+			if len(find_name_indices(name, text)) > 0:
+				day_mentions[name].append(date)
+				break
 
 	date_lists = [day_mentions[facility] for facility in day_mentions]
 
@@ -109,7 +93,7 @@ def find_name_indices(name: str, text: str) -> list:
 # Track the mentions not the frequency
 # Implement multithreading for the kernels
 
-def generate_kernel_apriori(facility_name_abbr, report_dir, window=50):
+def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: int =50):
 	dataset = []
 
 	facility_names = []
@@ -127,7 +111,7 @@ def generate_kernel_apriori(facility_name_abbr, report_dir, window=50):
 		report_mentions = set()
 		file_path = os.path.join(report_dir, report)
 		with open(f"{file_path}", 'r') as f:
-			text = "\n".join(f.readlines())
+			text = ("\n".join(f.readlines())).lower()
 		f.close()
 
 		words = text.split(" ")
@@ -143,7 +127,7 @@ def generate_kernel_apriori(facility_name_abbr, report_dir, window=50):
 	return dataset
 
 
-def generate_paragraph_apriori(facility_name_abbr, report_dir):
+def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 	dataset = []
 
 	facility_names = []
@@ -164,16 +148,8 @@ def generate_paragraph_apriori(facility_name_abbr, report_dir):
 		for paragraph in archive_paragraph_split(text):
 			facilities_mentioned = []
 			for name in facility_names:
-				for name_index in [word.start() for word in re.finditer(name, paragraph)]:
-					if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
-						facilities_mentioned.append(name)
-						break
-					elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-						facilities_mentioned.append(name)
-						break
-					elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
-						facilities_mentioned.append(name)
-						break
+				if len(find_name_indices(name, paragraph)) > 0:
+					facilities_mentioned.append(name)
 			
 			if len(facilities_mentioned) != 0:
 				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
@@ -188,16 +164,8 @@ def generate_paragraph_apriori(facility_name_abbr, report_dir):
 		for paragraph in new_paragraph_split(text):
 			facilities_mentioned = []
 			for name in facility_names:
-				for name_index in [word.start() for word in re.finditer(name, paragraph)]:
-					if name_index == 0 and text[name_index+1] in [" ", ")", "\n"]:
-						facilities_mentioned.append(name)
-						break
-					elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-						facilities_mentioned.append(name)
-						break
-					elif text[name_index-1] in [" ", "("] and text[name_index+(len(name))] in [" ", ")", "\n"]:
-						facilities_mentioned.append(name)
-						break
+				if len(find_name_indices(name, paragraph)) > 0:
+					facilities_mentioned.append(name)
 			
 			if len(facilities_mentioned) != 0:
 				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
@@ -300,10 +268,8 @@ def grab_sequential_mentions(report_dir: str, facility_data: dict):
 
 		file_path = os.path.join(report_dir, file)
 		with open(file_path, 'r') as f:
-			text = "\n".join(f.readlines())
+			text = ("\n".join(f.readlines())).lower()
 		f.close()
-
-		text = text.lower()
 
 		for name, abbr in facility_data["facility_name_abbr"].items():
 			name_indices, abbr_indices = find_name_indices(name.lower(), text), find_name_indices(abbr.lower(), text)
@@ -463,6 +429,13 @@ def generate_facility_names(facility_report_file):
 
     # Reverse key-value pairs for reference full to abbreviated name
 	facility_name_abbr = {value: key for key, value in zip(facility_abbr_name.keys(), facility_abbr_name.values())}
+
+	export_data(facility_name_abbr, "./sources/facility_data/json/facility_name_abbr.json")
+	export_data(facility_abbr_name, "./sources/facility_data/json/facility_abbr_name.json")
+	export_data(category_facilities, "./sources/facility_data/json/category_facilities.json")
+	export_data(facility_category, "./sources/facility_data/json/facility_category.json")
+	export_data(facility_agency, "./sources/facility_data/json/facility_agency.json")
+	export_data(agency_facilities, "./sources/facility_data/json/agency_facilities.json")
 
 	return {
             "facility_name_abbr": facility_name_abbr,
