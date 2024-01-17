@@ -41,12 +41,16 @@ def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agenc
     })
     return result.single()
 
-def execute_date_write(tx, facility1_name, facility2_name, frequency, date):
+def execute_date_write(tx, facility1_name, facility2_name, frequency, date, facility1_agency, facility2_agency, facility1_category, facility2_category):
     result = tx.run(date_query, {
         'f1_name': facility1_name,
         'f2_name': facility2_name,
         'weight': frequency,
-        'date': date
+        'date': date,
+        'f1_agency': facility1_agency,
+        'f2_agency': facility2_agency,
+        'f1_category': facility1_category,
+        'f2_category': facility2_category,
     })
     return result.single()
 
@@ -88,6 +92,14 @@ def upload_facility_itemsets():
     f.close()
 
 def upload_sequential_mentions():
+    with open("./sources/facility_data/json/facility_agency.json", "r") as f:
+        facility_agency = json.load(f)
+    f.close()
+
+    with open("./sources/facility_data/json/facility_category.json", "r") as f:
+        facility_category = json.load(f)
+    f.close()
+    
     with open("./analysis/json/sequential_facility_mentions.json", "r") as f:
         sequential_data = json.load(f)
     f.close()
@@ -112,7 +124,11 @@ def upload_sequential_mentions():
                                                     name1,
                                                     name2,
                                                     frequency,
-                                                    date
+                                                    date,
+                                                    facility_agency[seq_list[i]],
+                                                    facility_agency[seq_list[i+1]],
+                                                    facility_category[seq_list[i]],
+                                                    facility_category[seq_list[i+1]]
                                                 )
             
             completed_date_uploads.append(date)
