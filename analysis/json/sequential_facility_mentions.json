@@ -799,7 +799,7 @@
         "LSG",
         "MSL",
         "MSPR",
-        "Rodent Research Facility",
+        "Rodent Research",
         "SALI",
         "Veggie"
     ],
@@ -2208,7 +2208,7 @@
     "09-02-2021": [
         "ELF",
         "EXPRESS Rack",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MELFI",
         "MSG",
         "SALI",
@@ -3222,7 +3222,7 @@
     ],
     "11-13-2015": [
         "ARED",
-        "EXHAM Facility",
+        "EXHAM",
         "PFS",
         "Portable Pulmonary Function System"
     ],
@@ -3254,7 +3254,7 @@
         "Solar"
     ],
     "12-15-2017": [
-        "Bioculture System Facility",
+        "Bioculture System",
         "MELFI",
         "MSG"
     ],
@@ -3476,7 +3476,7 @@
         "BioLab",
         "ELF",
         "EPM",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MWA",
         "Plant Habitat"
     ],
@@ -3821,7 +3821,7 @@
         "Polar"
     ],
     "11-29-2022": [
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "Iceberg",
         "MELFI",
         "Polar"
@@ -4149,7 +4149,7 @@
         "Ultrasound"
     ],
     "06-23-2016": [
-        "EXHAM Facility",
+        "EXHAM",
         "GLACIER",
         "LMM"
     ],
@@ -4758,7 +4758,7 @@
         "MWA"
     ],
     "08-01-2019": [
-        "EXHAM Facility",
+        "EXHAM",
         "MELFI"
     ],
     "01-05-2010": [
@@ -5003,7 +5003,7 @@
         "ELF",
         "FPEF",
         "GLACIER",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "Kubik",
         "MELFI",
         "MERLIN",
@@ -8802,7 +8802,7 @@
         "HRF-1",
         "Holter",
         "JEM-EF",
-        "MDS Facility",
+        "MDS",
         "MELFI",
         "MSG",
         "PCRF",
@@ -9219,7 +9219,7 @@
     ],
     "08-06-2019": [
         "BFF",
-        "EXHAM Facility",
+        "EXHAM",
         "FSL",
         "SlingShot"
     ],
@@ -9243,7 +9243,7 @@
     ],
     "08-07-2019": [
         "BFF",
-        "EXHAM Facility",
+        "EXHAM",
         "SPHERES"
     ],
     "02-04-2012": [
@@ -10064,7 +10064,7 @@
         "Holter",
         "Holter Monitor 2",
         "LMM",
-        "MDS Facility",
+        "MDS",
         "MELFI",
         "MSG",
         "Mass Measurement Device",
@@ -10527,7 +10527,7 @@
     ],
     "08-10-2022": [
         "FSL",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "J-SSOD",
         "MELFI",
         "SABL"
@@ -10843,7 +10843,7 @@
     "07-28-2019": [
         "ADSEP",
         "BFF",
-        "Bioculture System Facility",
+        "Bioculture System",
         "TangoLab-1",
         "TangoLab-2"
     ],
@@ -11145,7 +11145,7 @@
     ],
     "07-17-2018": [
         "ELF",
-        "EXHAM Facility",
+        "EXHAM",
         "FSL",
         "GLACIER",
         "MELFI",
@@ -11351,7 +11351,7 @@
     "01-07-2019": [
         "BioLab",
         "EXPRESS Rack",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MELFI",
         "MISSE-FF",
         "Solar"
@@ -11849,7 +11849,7 @@
     ],
     "03-15-2021": [
         "Bio-Monitor",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MSG"
     ],
     "02-04-2010": [
@@ -11911,7 +11911,7 @@
     ],
     "04-24-2019": [
         "ARED",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "Kubik",
         "LSR",
         "MELFI",
@@ -12062,7 +12062,7 @@
         "CBEF",
         "CIR",
         "EXPRESS Rack",
-        "Hermes Facility",
+        "Hermes",
         "Saibo"
     ],
     "03-25-2015": [
@@ -12376,7 +12376,7 @@
     ],
     "12-05-2017": [
         "ARED",
-        "Bioculture System Facility",
+        "Bioculture System",
         "ELF",
         "MSG",
         "RAM",
@@ -12504,7 +12504,7 @@
     ],
     "06-09-2021": [
         "ARED",
-        "Bioculture System Facility",
+        "Bioculture System",
         "GLACIER",
         "LSG",
         "MELFI",
@@ -12982,7 +12982,7 @@
     ],
     "09-30-2020": [
         "CEVIS",
-        "EXHAM Facility"
+        "EXHAM"
     ],
     "01-25-2018": [
         "BioLab",
@@ -13401,7 +13401,7 @@
     ],
     "11-20-2015": [
         "Actiwatch",
-        "EXHAM Facility",
+        "EXHAM",
         "EXPRESS Rack",
         "Holter",
         "Ultrasound"
@@ -13446,7 +13446,7 @@
     ],
     "12-26-2017": [
         "BRIC",
-        "Bioculture System Facility",
+        "Bioculture System",
         "CIR",
         "GLACIER",
         "MELFI",
@@ -13590,7 +13590,7 @@
         "CEVIS",
         "Double Coldbag",
         "EXPRESS Rack",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MERLIN",
         "MWA"
     ],
@@ -14059,7 +14059,7 @@
         "Actiwatch",
         "MELFI",
         "MWA",
-        "Rodent Research Facility",
+        "Rodent Research",
         "SABL",
         "SUBSA",
         "Spectrum"
@@ -14270,7 +14270,7 @@
     ],
     "12-18-2017": [
         "BRIC",
-        "Bioculture System Facility",
+        "Bioculture System",
         "CBEF",
         "Double Coldbag",
         "EXPRESS Rack",
@@ -14714,7 +14714,7 @@
     "03-02-2022": [
         "ELF",
         "EML",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MELFI",
         "MSG"
     ],
@@ -15714,7 +15714,7 @@
         "SPHERES"
     ],
     "08-06-2020": [
-        "EXHAM Facility"
+        "EXHAM"
     ],
     "07-27-2016": [
         "Actiwatch",
@@ -15807,7 +15807,7 @@
     "05-31-2019": [
         "CEVIS",
         "CIR",
-        "EXHAM Facility",
+        "EXHAM",
         "FROST",
         "LSG",
         "MELFI",
@@ -15835,7 +15835,7 @@
     "12-23-2022": [
         "ARED",
         "CEVIS",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "Solar",
         "Veggie"
     ],
@@ -16401,10 +16401,10 @@
         "Ultrasound"
     ],
     "07-23-2021": [
-        "ALTEA Facility",
+        "ALTEA",
         "CBEF",
         "CBEF-L",
-        "LIDAL Facility",
+        "LIDAL",
         "Ultrasound",
         "Ultrasound 2"
     ],
@@ -16560,7 +16560,7 @@
         "Ultrasound"
     ],
     "10-27-2020": [
-        "EXHAM Facility",
+        "EXHAM",
         "EXPRESS Rack",
         "GLACIER",
         "Iceberg",
@@ -16588,7 +16588,7 @@
         "Ultrasound"
     ],
     "10-26-2020": [
-        "EXHAM Facility",
+        "EXHAM",
         "LMM"
     ],
     "12-19-2014": [
@@ -16770,7 +16770,7 @@
         "EDR",
         "ELF",
         "EML",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MELFI",
         "MSG",
         "MSPR",
@@ -18356,7 +18356,7 @@
         "Ultrasound 2"
     ],
     "01-02-2018": [
-        "Bioculture System Facility",
+        "Bioculture System",
         "CBEF",
         "ELC",
         "LMM",
@@ -18620,7 +18620,7 @@
     ],
     "11-15-2019": [
         "ELC",
-        "Hermes Facility"
+        "Hermes"
     ],
     "11-14-2019": [
         "BFF",
@@ -19267,7 +19267,7 @@
     ],
     "01-14-2022": [
         "CEVIS",
-        "EXHAM Facility",
+        "EXHAM",
         "MERLIN",
         "Mochii",
         "Polar",
@@ -20886,7 +20886,7 @@
     ],
     "12-13-2018": [
         "CEVIS",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "Kubik",
         "LMM",
         "MELFI",
@@ -20909,7 +20909,7 @@
     ],
     "06-07-2021": [
         "ADSEP-2",
-        "Bioculture System Facility",
+        "Bioculture System",
         "CIR",
         "Double Coldbag",
         "EXPRESS Rack",
@@ -21722,7 +21722,7 @@
         "CBEF",
         "Double Coldbag",
         "GLACIER",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MELFI"
     ],
     "11-07-2012": [
@@ -22093,7 +22093,7 @@
         "Ultrasound"
     ],
     "11-15-2022": [
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "J-SSOD",
         "MELFI",
         "Solar"
@@ -22244,7 +22244,7 @@
     ],
     "07-27-2020": [
         "Astrobee",
-        "EXHAM Facility",
+        "EXHAM",
         "FROST",
         "NanoRacks CubeSat Deployer",
         "Plant Habitat"
@@ -22465,7 +22465,7 @@
     ],
     "12-17-2017": [
         "BRIC",
-        "Bioculture System Facility",
+        "Bioculture System",
         "RAM"
     ],
     "11-10-2015": [
@@ -22871,7 +22871,7 @@
         "HRF-1",
         "Holter",
         "LMM",
-        "MDS Facility",
+        "MDS",
         "MELFI",
         "MSG",
         "MSL",
@@ -23856,7 +23856,7 @@
     "08-14-2019": [
         "ARED",
         "Bio-Monitor",
-        "Bioculture System Facility",
+        "Bioculture System",
         "GLACIER"
     ],
     "09-26-2010": [
@@ -24191,7 +24191,7 @@
     ],
     "12-22-2017": [
         "ABRS",
-        "Bioculture System Facility",
+        "Bioculture System",
         "FIR",
         "LMM",
         "MELFI",
@@ -24482,7 +24482,7 @@
         "PFS"
     ],
     "10-28-2020": [
-        "EXHAM Facility"
+        "EXHAM"
     ],
     "04-14-2022": [
         "CEVIS",
@@ -25113,7 +25113,7 @@
     ],
     "06-10-2021": [
         "ARED",
-        "Bioculture System Facility",
+        "Bioculture System",
         "EXPRESS Rack",
         "GLACIER",
         "MELFI",
@@ -25436,7 +25436,7 @@
         "ARED",
         "CIR",
         "ELF",
-        "EXHAM Facility",
+        "EXHAM",
         "Polar",
         "SPHERES",
         "Solar",
@@ -25859,7 +25859,7 @@
         "GLACIER",
         "Holter",
         "KFT",
-        "MDS Facility",
+        "MDS",
         "MSG",
         "MSL",
         "MVIS",
@@ -26946,7 +26946,7 @@
         "Ultrasound"
     ],
     "11-16-2015": [
-        "EXHAM Facility",
+        "EXHAM",
         "EXPRESS Rack",
         "MELFI",
         "Solar",
@@ -27243,7 +27243,7 @@
         "WORF"
     ],
     "07-20-2021": [
-        "Bioculture System Facility",
+        "Bioculture System",
         "CEVIS",
         "HRF-2",
         "MELFI",
@@ -27400,7 +27400,7 @@
         "SABL"
     ],
     "01-12-2018": [
-        "Bioculture System Facility",
+        "Bioculture System",
         "Double Coldbag",
         "EXPRESS Rack",
         "LMM",
@@ -27570,7 +27570,7 @@
         "Astrobee",
         "EXPRESS Rack",
         "MELFI",
-        "Rodent Research Facility",
+        "Rodent Research",
         "SABL",
         "Spectrum",
         "Ultrasound"
@@ -28203,7 +28203,7 @@
     ],
     "06-13-2016": [
         "CBEF",
-        "EXHAM Facility",
+        "EXHAM",
         "MELFI",
         "RAM",
         "Saibo"
@@ -28696,7 +28696,7 @@
     "08-31-2021": [
         "Double Coldbag",
         "EXPRESS Rack",
-        "Faraday Research Facility",
+        "Faraday Research",
         "Kubik",
         "MSL",
         "Plant Habitat",
@@ -29063,7 +29063,7 @@
         "CBEF-L",
         "EXPRESS Rack",
         "MSPR",
-        "PFMI Facility",
+        "PFMI",
         "PFS",
         "Polar",
         "SABL",
@@ -29100,7 +29100,7 @@
         "MELFI",
         "MSG",
         "MSPR",
-        "PFMI Facility",
+        "PFMI",
         "PFS",
         "Solar"
     ],
@@ -29489,7 +29489,7 @@
         "MELFI",
         "NanoRacks CubeSat Deployer",
         "Plant Habitat",
-        "Rodent Research Facility",
+        "Rodent Research",
         "Veggie"
     ],
     "12-07-2012": [
@@ -30151,7 +30151,7 @@
     "05-24-2019": [
         "ARED",
         "Bio-Analyzer",
-        "EXHAM Facility",
+        "EXHAM",
         "GLACIER",
         "MELFI",
         "MSG",
@@ -30719,7 +30719,7 @@
         "EXPRESS Rack",
         "Iceberg",
         "Kubik",
-        "LIDAL Facility",
+        "LIDAL",
         "Manufacturing Device",
         "Plant Habitat",
         "Veggie"
@@ -30890,7 +30890,7 @@
         "CBEF",
         "MELFI",
         "Polar",
-        "Rodent Research Facility",
+        "Rodent Research",
         "Saibo"
     ],
     "08-30-2018": [
@@ -30913,7 +30913,7 @@
         "CBEF",
         "MELFI",
         "Polar",
-        "Rodent Research Facility",
+        "Rodent Research",
         "Saibo"
     ],
     "05-07-2009": [
@@ -31629,7 +31629,7 @@
         "Astrobee"
     ],
     "01-04-2018": [
-        "Bioculture System Facility",
+        "Bioculture System",
         "GLACIER",
         "MSG",
         "MSPR"
@@ -33167,7 +33167,7 @@
         "Double Coldbag",
         "EXPRESS Rack",
         "GLACIER",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "Kubik",
         "MELFI",
         "MERLIN",
@@ -33257,7 +33257,7 @@
     ],
     "11-27-2019": [
         "GN2",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MELFI",
         "MWA",
         "Solar"
@@ -33718,7 +33718,7 @@
         "ARED",
         "Double Coldbag",
         "EXPRESS Rack",
-        "ICE Cubes Facility",
+        "ICE Cubes",
         "MELFI",
         "Polar"
     ],

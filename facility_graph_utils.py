@@ -3,6 +3,7 @@ import csv
 import json
 import re
 import os
+from datetime import datetime
 from tqdm import tqdm
 
 facility_uri = "neo4j+s://07c212aa.databases.neo4j.io"
@@ -88,6 +89,8 @@ def upload_facility_itemsets():
                                                         facility_category[names[0]],
                                                         facility_category[names[1]]
                                                     )
+                    session.close()
+                driver.close()
 
     f.close()
 
@@ -111,6 +114,9 @@ def upload_sequential_mentions():
     else:
         completed_date_uploads = []
 
+    # All similar date connections should be combined into one weighted relationship
+    # Grab newest and oldest mention of all mentions
+    
     frequency = 1
     for date, seq_list in tqdm(sequential_data.items()):
         if date not in completed_date_uploads:
@@ -119,17 +125,19 @@ def upload_sequential_mentions():
                 name2 = seq_list[i+1].replace("-", "_").replace(" ", "_")
 
                 with GraphDatabase.driver(date_uri, auth=(user, date_password)) as driver:
-                        with driver.session() as session:
-                            session.execute_write(execute_date_write, 
-                                                    name1,
-                                                    name2,
-                                                    frequency,
-                                                    date,
-                                                    facility_agency[seq_list[i]],
-                                                    facility_agency[seq_list[i+1]],
-                                                    facility_category[seq_list[i]],
-                                                    facility_category[seq_list[i+1]]
-                                                )
+                    with driver.session() as session:
+                        session.execute_write(execute_date_write, 
+                                                name1,
+                                                name2,
+                                                frequency,
+                                                date,
+                                                facility_agency[seq_list[i]],
+                                                facility_agency[seq_list[i+1]],
+                                                facility_category[seq_list[i]],
+                                                facility_category[seq_list[i+1]]
+                                            )
+                    session.close()
+                driver.close()
             
             completed_date_uploads.append(date)
 
@@ -137,3 +145,25 @@ def upload_sequential_mentions():
                 json.dump(completed_date_uploads, f, indent=4)
             f.close()
 
+
+def query(f1, f2, attr):
+    agency_query = (
+        "MATCH path = (n1)-[r:DATE]->(n2) "
+        f"WHERE n1.{attr} = '{f1}' AND n2.{attr} = '{f2}' "
+        "return PROPERTIES(r);"
+    )
+
+    with GraphDatabase.driver(date_uri, auth=(user, date_password)) as driver:
+        records, _, _ = driver.execute_query(agency_query)
+    driver.close()
+
+    dates = []
+
+    for record in records:
+        m, d, y = record[0]['date'].split("-")
+    
+        dates.append(datetime(int(y), int(m), int(d)))
+
+    dates = sorted(dates)
+
+    print(f"{f1}->{f2}\nEarliest: {dates[0]}\nMost Recent: {dates[-1]}\nTotal: {len(dates)}")
