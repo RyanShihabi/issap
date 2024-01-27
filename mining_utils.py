@@ -153,7 +153,8 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 			
 			if len(facilities_mentioned) != 0:
 				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
-				dataset.append(sorted(facilities_mentioned))
+				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
+				dataset.append(sorted(facilities_mentioned_filtered))
 
 	for report in tqdm(new_reports):
 		file_path = os.path.join(report_dir, report)
@@ -169,7 +170,8 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 			
 			if len(facilities_mentioned) != 0:
 				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
-				dataset.append(sorted(facilities_mentioned))
+				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
+				dataset.append(sorted(facilities_mentioned_filtered))
 	
 	return dataset
 
@@ -271,7 +273,7 @@ def grab_sequential_mentions(report_dir: str, facility_data: dict):
 			text = ("\n".join(f.readlines())).lower()
 		f.close()
 
-		for name, abbr in facility_data["facility_name_abbr"].items():
+		for abbr, name in facility_data["facility_abbr_name"].items():
 			name_indices, abbr_indices = find_name_indices(name.lower(), text), find_name_indices(abbr.lower(), text)
 
 			if len(name_indices) != 0:
@@ -280,8 +282,10 @@ def grab_sequential_mentions(report_dir: str, facility_data: dict):
 				day_mentions.append((abbr, np.min(abbr_indices)))
 
 		sequential_day_mentions = [facility[0] for facility in sorted(day_mentions)]
+
+		sequential_day_mentions_filtered = [facility for facility in sequential_day_mentions if not any(other_facility != facility and other_facility in facility for other_facility in sequential_day_mentions)]
 		
-		sequential_data[file.split(".")[0]] = sequential_day_mentions
+		sequential_data[file.split(".")[0]] = sequential_day_mentions_filtered
 	
 	return sequential_data
 
@@ -308,7 +312,7 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 		if kernel_window > 0:
 			words = text.split(" ")
 		
-			for name, abbr in facility_names["facility_name_abbr"].items():
+			for abbr, name in facility_names["facility_abbr_name"].items():
 				for group in range(len(words)-kernel_window):
 					day_mentions[abbr] = 0
 					text_window = " ".join(words[group:group+kernel_window])
@@ -316,7 +320,7 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 						day_mentions[abbr] = 1
 						break
 		else:
-			for name, abbr in facility_names["facility_name_abbr"].items():
+			for abbr, name in facility_names["facility_abbr_name"].items():
 				day_mentions[abbr] = 0
 				if len(find_name_indices(name.lower(), text)) != 0 or len(find_name_indices(abbr.lower(), text)) != 0:
 					day_mentions[abbr] = 1
@@ -431,7 +435,7 @@ def generate_facility_names(facility_report_file):
 	f.close()
 
     # Reverse key-value pairs for reference full to abbreviated name
-	facility_name_abbr = {value: key for key, value in zip(facility_abbr_name.keys(), facility_abbr_name.values())}
+	facility_name_abbr = {value: key for key, value in facility_abbr_name.items()}
 
 	export_data(facility_name_abbr, "./sources/facility_data/json/facility_name_abbr.json")
 	export_data(facility_abbr_name, "./sources/facility_data/json/facility_abbr_name.json")

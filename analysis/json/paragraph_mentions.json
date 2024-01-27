@@ -9,8 +9,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -55,8 +54,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EMCS",
@@ -189,8 +187,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -256,9 +253,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MWA",
@@ -366,13 +361,11 @@
         "HRF-1"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -397,8 +390,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CGBA"
@@ -474,15 +466,12 @@
     ],
     [
         "EPM",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "PFS"
@@ -732,8 +721,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED"
@@ -862,8 +850,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -895,9 +882,7 @@
         "Actiwatch",
         "HRF-1",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM"
@@ -1115,8 +1100,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CB"
@@ -1188,8 +1172,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -1357,8 +1340,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CGBA"
@@ -1436,8 +1418,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EXPRESS Rack"
@@ -1452,8 +1433,7 @@
         "TVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS",
@@ -1504,8 +1484,7 @@
         "MSG"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "FPEF"
@@ -1523,8 +1502,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MDS"
@@ -1618,9 +1596,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI",
@@ -1636,7 +1612,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -1693,8 +1668,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MDS",
@@ -1808,8 +1782,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -2106,8 +2079,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "WORF"
@@ -2139,8 +2111,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -2241,8 +2212,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MERLIN"
@@ -2353,8 +2323,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EXPRESS Rack",
@@ -2425,8 +2394,7 @@
         "Ryutai"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EXPRESS Rack"
@@ -2490,8 +2458,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -2533,9 +2500,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI",
@@ -2599,8 +2564,7 @@
         "MELFI"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Holter"
@@ -2627,8 +2591,7 @@
     ],
     [
         "CBPD",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -2646,8 +2609,7 @@
         "RC"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Holter"
@@ -2728,8 +2690,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Holter"
@@ -2751,7 +2712,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "MELFI",
         "Saibo"
     ],
@@ -3190,8 +3150,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "FPEF"
@@ -3211,8 +3170,7 @@
         "TVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "FSL",
@@ -3531,9 +3489,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "TVIS"
@@ -3586,8 +3542,7 @@
     [
         "Actiwatch",
         "CBPD",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -3671,8 +3626,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -3813,8 +3767,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "WORF"
@@ -3855,7 +3808,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -4372,8 +4324,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -4384,8 +4335,7 @@
         "Actiwatch",
         "CBPD",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -4411,8 +4361,7 @@
         "CEVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MELFI"
@@ -4441,8 +4390,7 @@
         "WORF"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CIR"
@@ -4586,8 +4534,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -4747,8 +4694,7 @@
         "ARED"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -5012,8 +4958,7 @@
         "MELFI"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CGBA"
@@ -5255,8 +5200,7 @@
     ],
     [
         "ARED",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Mass Measurement Device",
@@ -5292,7 +5236,6 @@
         "Mass Measurement Device",
         "SLAMMD",
         "Ultrasound",
-        "Ultrasound 2",
         "WORF"
     ],
     [
@@ -5638,8 +5581,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Ultrasound"
@@ -5649,7 +5591,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -5698,7 +5639,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -5788,8 +5728,7 @@
     ],
     [
         "HRF-1",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "TVIS"
@@ -5852,8 +5791,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -5959,8 +5897,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -6064,8 +6001,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ALTEA"
@@ -6098,8 +6034,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CIR"
@@ -6164,8 +6099,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED"
@@ -6262,8 +6196,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Holter",
@@ -6384,8 +6317,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -6537,8 +6469,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "COLBERT"
@@ -6794,8 +6725,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -7153,8 +7083,7 @@
     ],
     [
         "HRF-1",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED",
@@ -7522,8 +7451,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED"
@@ -7549,8 +7477,7 @@
         "CB"
     ],
     [
-        "CB",
-        "CBEF"
+        "CB"
     ],
     [
         "CEVIS",
@@ -7680,8 +7607,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Actiwatch",
@@ -7859,8 +7785,7 @@
         "CEVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -7892,8 +7817,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -7933,8 +7857,7 @@
         "Ultrasound"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -8211,8 +8134,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -8478,7 +8400,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -8960,8 +8881,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EPM"
@@ -9158,8 +9078,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -9195,8 +9114,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CIR"
@@ -9322,8 +9240,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -9331,8 +9248,7 @@
         "TVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MELFI",
@@ -9363,14 +9279,11 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CIR"
@@ -9484,8 +9397,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EDR"
@@ -9496,8 +9408,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -9560,8 +9471,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -9579,8 +9489,7 @@
         "SLAMMD"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MELFI"
@@ -9625,8 +9534,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -9685,8 +9593,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -9835,15 +9742,12 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MSG"
@@ -9865,8 +9769,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EDR"
@@ -9884,8 +9787,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CGBA",
@@ -9936,8 +9838,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MELFI",
@@ -9961,8 +9862,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -10077,13 +9977,11 @@
         "RC"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -10096,7 +9994,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -10131,14 +10028,11 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CEVIS"
@@ -10268,8 +10162,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CB",
@@ -10310,8 +10203,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS",
@@ -10473,8 +10365,7 @@
     [
         "Actiwatch",
         "CBPD",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS",
@@ -10638,8 +10529,7 @@
         "MSPR"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED",
@@ -10650,9 +10540,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI",
@@ -10966,8 +10854,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -11051,8 +10938,7 @@
     [
         "Actiwatch",
         "CBPD",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EPM"
@@ -11421,8 +11307,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "WORF"
@@ -11441,8 +11326,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSL"
@@ -11506,7 +11390,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -11594,8 +11477,7 @@
         "ETC"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED"
@@ -11730,8 +11612,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CGBA"
@@ -11843,8 +11724,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -12181,8 +12061,7 @@
         "Ultrasound"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -12249,8 +12128,7 @@
         "EXPRESS Rack"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED",
@@ -12539,8 +12417,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -12603,8 +12480,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED"
@@ -12655,9 +12531,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CEVIS",
@@ -12781,8 +12655,7 @@
     [
         "HRF-1",
         "HRF-2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CEVIS",
@@ -13045,8 +12918,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS",
@@ -13082,8 +12954,7 @@
         "HRF-1"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -13134,7 +13005,6 @@
         "CEVIS",
         "EPM",
         "Holter",
-        "Holter Monitor 2",
         "TVIS"
     ],
     [
@@ -13203,8 +13073,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EPM",
@@ -13263,8 +13132,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Aquatic Habitat"
@@ -13289,7 +13157,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "EPM",
         "Spectrum"
     ],
@@ -13311,9 +13178,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MWA"
@@ -13338,9 +13203,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED",
@@ -13387,8 +13250,7 @@
         "TVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -13414,8 +13276,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -13426,10 +13287,8 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "EPM",
         "Holter",
-        "Holter Monitor 2",
         "Spectrum"
     ],
     [
@@ -13443,8 +13302,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED"
@@ -13464,9 +13322,7 @@
         "Actiwatch",
         "HRF-1",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM"
@@ -13474,8 +13330,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -13980,9 +13835,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED",
@@ -14128,8 +13981,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EXPRESS Rack"
@@ -14179,9 +14031,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM"
@@ -14594,8 +14444,7 @@
         "HRF-1"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -14723,7 +14572,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -14880,9 +14728,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM"
@@ -15310,8 +15156,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -15351,8 +15196,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Holter"
@@ -15380,8 +15224,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -15419,8 +15262,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "WORF"
@@ -15704,8 +15546,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CBPD",
@@ -15760,8 +15601,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TEPC"
@@ -15879,7 +15719,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -15917,7 +15756,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -16313,8 +16151,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS",
@@ -16370,8 +16207,7 @@
         "PFS"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Ultrasound"
@@ -16411,8 +16247,7 @@
     [
         "Actiwatch",
         "CBPD",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CBEF",
@@ -16537,8 +16372,7 @@
     ],
     [
         "CEVIS",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -16627,8 +16461,7 @@
         "RC"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -16770,8 +16603,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "IPU"
@@ -16797,8 +16629,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EXPRESS Rack"
@@ -17108,8 +16939,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -17254,8 +17084,7 @@
         "CGBA"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CEVIS",
@@ -17280,8 +17109,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -17470,8 +17298,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CIR"
@@ -17533,8 +17360,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -17884,8 +17710,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MWA"
@@ -18088,8 +17913,7 @@
         "MVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Solar"
@@ -18388,8 +18212,7 @@
         "MSG"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MELFI"
@@ -18510,8 +18333,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MELFI"
@@ -18556,8 +18378,7 @@
         "CGBA"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -18597,12 +18418,10 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -18905,8 +18724,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EPM",
@@ -18985,8 +18803,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Holter"
@@ -19244,9 +19061,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EMCS",
@@ -19295,8 +19110,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "PCRF",
@@ -19433,7 +19247,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "MELFI",
         "Saibo"
     ],
@@ -19458,9 +19271,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Actiwatch",
@@ -19540,8 +19351,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -19793,8 +19603,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MELFI",
@@ -19813,8 +19622,7 @@
     [
         "ARED",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "PFS",
@@ -19836,8 +19644,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -19993,8 +19800,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CIR"
@@ -20289,8 +20095,7 @@
         "WORF"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "PCBA"
@@ -20499,9 +20304,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MWA"
@@ -20537,8 +20340,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -20658,8 +20460,7 @@
         "MELFI"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EXPRESS Rack"
@@ -20720,8 +20521,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EMCS"
@@ -20746,8 +20546,7 @@
         "TVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CBEF"
@@ -20825,8 +20624,7 @@
     ],
     [
         "CBPD",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -20957,8 +20755,7 @@
     [
         "HRF-1",
         "HRF-2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Holter"
@@ -21060,8 +20857,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -21314,9 +21110,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED",
@@ -21489,8 +21283,7 @@
         "MSG"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TEPC"
@@ -21682,7 +21475,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "MELFI",
         "Saibo"
     ],
@@ -21717,8 +21509,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "FSL"
@@ -21737,8 +21528,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "Ultrasound"
@@ -21939,8 +21729,7 @@
         "PCBA"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ALTEA"
@@ -22369,8 +22158,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -22404,8 +22192,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -22440,8 +22227,7 @@
     [
         "Actiwatch",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSPR"
@@ -22545,8 +22331,7 @@
         "TVIS"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED",
@@ -22566,8 +22351,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "FPEF"
@@ -22738,8 +22522,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CIR"
@@ -22799,8 +22582,7 @@
         "EPM"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "CEVIS"
@@ -23297,8 +23079,7 @@
         "CIR"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "TVIS"
@@ -23545,8 +23326,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ABRS"
@@ -23603,9 +23383,7 @@
         "CEVIS",
         "EXPRESS Rack",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM"
@@ -23624,8 +23402,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "SPHERES"
@@ -23673,13 +23450,10 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MERLIN"
@@ -23766,8 +23540,7 @@
         "CB"
     ],
     [
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MSG"
@@ -23834,8 +23607,7 @@
         "CIR"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "FPEF"
@@ -23973,8 +23745,7 @@
     [
         "CEVIS",
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "PFS"
@@ -24019,8 +23790,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "EPM",
@@ -24063,8 +23833,7 @@
     ],
     [
         "CBPD",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "MDS",
@@ -24113,8 +23882,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "COLBERT"
@@ -24191,14 +23959,11 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "TVIS"
@@ -24219,9 +23984,7 @@
     [
         "Actiwatch",
         "Holter",
-        "Holter Monitor 2",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EPM"
@@ -24411,8 +24174,7 @@
     ],
     [
         "EPM",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "ARED"
@@ -24681,8 +24443,7 @@
         "LMM"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MSG"
@@ -24694,8 +24455,7 @@
         "MSPR"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MSG"
@@ -24738,8 +24498,7 @@
         "ELF"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Veggie"
@@ -24858,8 +24617,7 @@
         "ELF"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ELF"
@@ -25039,8 +24797,7 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "FIR",
@@ -25150,8 +24907,7 @@
         "MSG"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MWA"
@@ -25274,8 +25030,7 @@
         "NanoRacks External Platform"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "SUBSA"
@@ -25311,7 +25066,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -25662,8 +25416,7 @@
         "CBEF"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "FIR"
@@ -25687,8 +25440,7 @@
         "MELFI"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MSL"
@@ -25822,8 +25574,7 @@
     ],
     [
         "Holter",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI",
@@ -26058,8 +25809,7 @@
         "FROST"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED"
@@ -26285,8 +26035,7 @@
         "Astrobee"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "WORF"
@@ -26374,8 +26123,7 @@
         "SoFIE"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Veggie"
@@ -26469,7 +26217,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -26605,7 +26352,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -27067,8 +26813,7 @@
         "MELFI"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MSL"
@@ -27084,7 +26829,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -27176,7 +26920,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -27569,7 +27312,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -27577,8 +27319,7 @@
         "MSPR"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "SPHERES"
@@ -27597,8 +27338,7 @@
         "SABL"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI"
@@ -27707,8 +27447,7 @@
     ],
     [
         "Bone Densitometer",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MUSES"
@@ -27731,7 +27470,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -27806,12 +27544,10 @@
         "MWA"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CB"
@@ -28066,8 +27802,7 @@
         "LSG"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "LSG"
@@ -28311,7 +28046,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -28319,7 +28053,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -28423,8 +28156,7 @@
         "Spectrum"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "Kubik"
@@ -28994,7 +28726,6 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
         "Saibo"
     ],
     [
@@ -29083,8 +28814,7 @@
         "EPM"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CIR"
@@ -29118,7 +28848,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -29200,8 +28929,7 @@
         "ELC"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Astrobee"
@@ -29222,8 +28950,7 @@
         "Solar"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI"
@@ -29494,8 +29221,7 @@
         "ARED"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "MSG"
@@ -29613,7 +29339,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -29640,8 +29365,7 @@
         "MELFI"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CIR",
@@ -29687,8 +29411,7 @@
         "NanoRacks Platforms"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "COLBERT"
@@ -29905,8 +29628,7 @@
         "MARES"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Actiwatch"
@@ -29989,8 +29711,7 @@
         "Veggie"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI",
@@ -30093,8 +29814,7 @@
         "Plant Habitat"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ELC"
@@ -30116,8 +29836,7 @@
         "ARED"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "HRF-2"
@@ -30231,8 +29950,7 @@
         "Veggie"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI"
@@ -30380,8 +30098,7 @@
         "ARED"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "Holter",
@@ -30417,8 +30134,7 @@
         "MSL"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CBEF"
@@ -30548,7 +30264,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -30651,8 +30366,7 @@
         "MELFI"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MISSE-FF"
@@ -30701,8 +30415,7 @@
     ],
     [
         "CBEF",
-        "IPU",
-        "IPU2"
+        "IPU"
     ],
     [
         "FSL"
@@ -30804,8 +30517,7 @@
         "CBEF"
     ],
     [
-        "MSPR",
-        "MSPR-2"
+        "MSPR"
     ],
     [
         "ELC"
@@ -31004,7 +30716,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -31029,8 +30740,7 @@
         "MELFI"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "SAMS-II"
@@ -31039,8 +30749,7 @@
         "EXPRESS Rack"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI"
@@ -31116,7 +30825,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -31181,7 +30889,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -31212,8 +30919,7 @@
         "CEVIS"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Bone Densitometer"
@@ -31234,8 +30940,7 @@
         "CIR"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI"
@@ -31257,7 +30962,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -31406,8 +31110,7 @@
         "WORF"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CEVIS"
@@ -31443,8 +31146,7 @@
         "Solar"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "ALTEA",
@@ -31543,8 +31245,7 @@
         "MELFI"
     ],
     [
-        "CB",
-        "CBEF"
+        "CB"
     ],
     [
         "MSL"
@@ -31570,8 +31271,7 @@
         "Solar"
     ],
     [
-        "CB",
-        "CBEF"
+        "CB"
     ],
     [
         "PFS",
@@ -31657,8 +31357,7 @@
         "Ultrasound"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "ELF",
@@ -31722,7 +31421,6 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
         "Saibo"
     ],
     [
@@ -31733,9 +31431,7 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
-        "IPU",
-        "IPU2"
+        "IPU"
     ],
     [
         "WORF"
@@ -31973,8 +31669,7 @@
     ],
     [
         "PFS",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CBEF",
@@ -32008,8 +31703,7 @@
         "LSR"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "WORF"
@@ -32051,8 +31745,7 @@
         "Veggie"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "MSG"
@@ -32065,12 +31758,10 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -32085,7 +31776,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -32253,7 +31943,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -32305,8 +31994,7 @@
     ],
     [
         "Bone Densitometer",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "BioLab"
@@ -32382,8 +32070,7 @@
         "WORF"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI"
@@ -32398,15 +32085,13 @@
         "Manufacturing Device"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CB"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MSG"
@@ -32740,8 +32425,7 @@
         "BFF"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "WORF"
@@ -32917,8 +32601,7 @@
     ],
     [
         "Holter",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Bio-Monitor"
@@ -32938,7 +32621,6 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
         "IPU"
     ],
     [
@@ -32988,7 +32670,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -33012,15 +32693,13 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
         "Saibo"
     ],
     [
         "J-SSOD"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED"
@@ -33580,8 +33259,7 @@
         "EPM"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CIR"
@@ -33600,7 +33278,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "MELFI"
     ],
     [
@@ -33614,13 +33291,11 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CBEF-L"
@@ -33643,7 +33318,6 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
         "Saibo"
     ],
     [
@@ -33683,8 +33357,7 @@
         "SPHERES"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "GLACIER"
@@ -33750,8 +33423,7 @@
         "ICE Cubes"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CBEF-L"
@@ -33773,15 +33445,13 @@
         "CIR"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CBEF-L"
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -33871,8 +33541,7 @@
         "Plant Habitat"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "FSL"
@@ -34060,8 +33729,7 @@
         "SUBSA"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "Astrobee"
@@ -34310,8 +33978,7 @@
         "SPHERES"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "SUBSA"
@@ -34348,8 +34015,7 @@
         "Bone Densitometer"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "SLAMMD"
@@ -34598,8 +34264,7 @@
         "MELFI"
     ],
     [
-        "CB",
-        "CBEF"
+        "CB"
     ],
     [
         "ARED"
@@ -34750,7 +34415,6 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
         "IPU",
         "Saibo"
     ],
@@ -34809,8 +34473,7 @@
         "CIR"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "SoFIE"
@@ -34864,8 +34527,7 @@
         "JEM-EF"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "LMM"
@@ -34915,8 +34577,7 @@
         "Ultrasound"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "BioLab"
@@ -34925,8 +34586,7 @@
         "MELFI"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CBEF"
@@ -34951,8 +34611,7 @@
         "Bone Densitometer"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CEVIS"
@@ -35162,8 +34821,7 @@
         "Bio-Monitor"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "SABL"
@@ -35236,8 +34894,7 @@
         "MSG"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ARED"
@@ -35317,8 +34974,7 @@
         "MSG"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "ELF",
@@ -35368,8 +35024,7 @@
         "MELFI"
     ],
     [
-        "MSPR",
-        "MSPR-2"
+        "MSPR"
     ],
     [
         "CBEF"
@@ -35685,8 +35340,7 @@
         "Veggie"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CIR",
@@ -35731,8 +35385,7 @@
         "Solar"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "Veggie"
@@ -35754,7 +35407,6 @@
     ],
     [
         "CBEF",
-        "CBEF-L",
         "Saibo"
     ],
     [
@@ -35983,7 +35635,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -36127,8 +35778,7 @@
         "Cold Atom Lab"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CBEF"
@@ -36143,15 +35793,13 @@
         "ELC"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "COLBERT"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "GHF"
@@ -36287,8 +35935,7 @@
         "MELFI"
     ],
     [
-        "CB",
-        "CBEF"
+        "CB"
     ],
     [
         "Ultrasound"
@@ -36306,8 +35953,7 @@
         "CBEF"
     ],
     [
-        "CB",
-        "CBEF"
+        "CB"
     ],
     [
         "Ultrasound"
@@ -36425,8 +36071,7 @@
         "MSL"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CIR"
@@ -36500,8 +36145,7 @@
         "Astrobee"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MSPR"
@@ -36692,8 +36336,7 @@
         "Astrobee"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EMCS"
@@ -36724,8 +36367,7 @@
         "EXHAM"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CIR"
@@ -36839,8 +36481,7 @@
         "BRIC"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "J-SSOD"
@@ -36882,8 +36523,7 @@
         "Actiwatch"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "MSL"
@@ -37094,8 +36734,7 @@
         "MSPR"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "EXPRESS Rack"
@@ -37186,8 +36825,7 @@
         "Manufacturing Device"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Mass Measurement Device",
@@ -37211,16 +36849,14 @@
     ],
     [
         "Actiwatch",
-        "Holter",
-        "Holter Monitor 2"
+        "Holter"
     ],
     [
         "FIR",
         "LMM"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CEVIS",
@@ -37234,7 +36870,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -37317,8 +36952,7 @@
         "CEVIS",
         "PFS",
         "Portable Pulmonary Function System",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EXPRESS Rack"
@@ -37373,8 +37007,7 @@
         "CEVIS",
         "PFS",
         "Portable Pulmonary Function System",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "EFU Adapter"
@@ -37453,8 +37086,7 @@
         "Acoustic Diagnostics"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "MSG"
@@ -37493,8 +37125,7 @@
         "MVP"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "SUBSA"
@@ -37542,7 +37173,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -37555,8 +37185,7 @@
     ],
     [
         "PFS",
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "Bone Densitometer"
@@ -37608,8 +37237,7 @@
         "MSG"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "MSL"
@@ -37654,8 +37282,7 @@
         "BRIC"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "MELFI"
@@ -37704,8 +37331,7 @@
         "MELFI"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "CBEF"
@@ -37893,8 +37519,7 @@
         "Veggie"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CIR"
@@ -37950,8 +37575,7 @@
         "SABL"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "WORF"
@@ -37969,7 +37593,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -37990,7 +37613,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -38252,8 +37874,7 @@
         "MSG"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "MELFI"
@@ -38335,7 +37956,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -38375,7 +37995,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -38383,7 +38002,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Spectrum"
     ],
     [
@@ -38620,7 +38238,6 @@
         "Actiwatch",
         "CEVIS",
         "Holter",
-        "Holter Monitor 2",
         "PFS",
         "Portable Pulmonary Function System",
         "TVIS",
@@ -38730,7 +38347,6 @@
     ],
     [
         "Actiwatch",
-        "Actiwatch Spectrum",
         "Holter",
         "Spectrum"
     ],
@@ -38770,8 +38386,7 @@
         "Veggie"
     ],
     [
-        "CBEF",
-        "CBEF-L"
+        "CBEF"
     ],
     [
         "CIR"
@@ -39307,7 +38922,6 @@
     ],
     [
         "CB",
-        "CBEF",
         "Saibo"
     ],
     [
@@ -39446,8 +39060,7 @@
         "MWA"
     ],
     [
-        "Ultrasound",
-        "Ultrasound 2"
+        "Ultrasound"
     ],
     [
         "WORF"
