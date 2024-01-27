@@ -23,17 +23,29 @@ def calc_facility_proportions(df: pd.DataFrame):
 
     export_data(df_days_used, "./analysis/csv/facility_mention_proportion.csv")
 
+    return df_days_used
+
 def calc_facility_freq_year(df: pd.DataFrame):
     df_year = df.resample("Y", on="Report Date").sum()
     print(df_year)
 
+    archive_sum = df_year.iloc[:4, :].sum().sort_values(ascending=False)
+
+    blog_sum = df_year.iloc[4:, :].sum().sort_values(ascending=False)
+
     export_data(df_year, "./analysis/csv/facility_yearly_frequency.csv")
+    export_data(archive_sum, "./analysis/csv/facility_archive_frequency.csv")
+    export_data(blog_sum, "./analysis/csv/facility_blog_frequency.csv")
+
+    return df_year
 
 def calc_facility_freq_month(df: pd.DataFrame):
     df_month = df.resample("M", on="Report Date").sum()
     print(df_month)
 
     export_data(df_month, "./analysis/csv/facility_monthly_frequency.csv")
+
+    return df_month
 
 def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame):
     category_mentions = {"Total": {}}
@@ -52,6 +64,8 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
 
     export_data(df_category_mentions, "./analysis/csv/Total_Category_Mentions.csv")
     export_data(df_category_mention_prop, "./analysis/csv/Total_Category_Mentions_Prop.csv")
+
+    return df_category_mentions
 
 def calc_report_date_frequency(df_range: pd.DataFrame):
     report_day_count = {"Total": {}}
@@ -72,3 +86,5 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
     
     print(report_day_df)
+
+    return report_day_df

@@ -127,12 +127,12 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 	return dataset
 
 
-def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
+def generate_paragraph_apriori(facility_abbr_name: dict, report_dir: str):
 	dataset = []
 
 	facility_names = []
 
-	for name, abbr in facility_name_abbr.items():
+	for abbr, name in facility_abbr_name.items():
 		facility_names.append(name)
 		facility_names.append(abbr)
 
@@ -152,7 +152,7 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 					facilities_mentioned.append(name)
 			
 			if len(facilities_mentioned) != 0:
-				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
+				facilities_mentioned = list(set(map(lambda x: facility_abbr_name[x] if x in facility_abbr_name else x, facilities_mentioned)))
 				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 				dataset.append(sorted(facilities_mentioned_filtered))
 
@@ -169,7 +169,7 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 					facilities_mentioned.append(name)
 			
 			if len(facilities_mentioned) != 0:
-				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
+				facilities_mentioned = list(set(map(lambda x: facility_abbr_name[x] if x in facility_abbr_name else x, facilities_mentioned)))
 				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 				dataset.append(sorted(facilities_mentioned_filtered))
 	
