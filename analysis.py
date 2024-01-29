@@ -15,8 +15,9 @@ df_range = df[df["Report Date"] < "2023-01-01"]
 
 # calc_facility_proportions(df_range)
 
-print(df_range.sum().sort_values(ascending=False))
-export_data(df_range.sum(numeric_only=True).sort_values(ascending=False), "./analysis/csv/facility_total_mentions.csv")
+# print(df_range.sum().sort_values(ascending=False))
+
+# export_data(df_range.sum(numeric_only=True).sort_values(ascending=False), "./analysis/csv/facility_total_mentions.csv")
 
 # calc_facility_freq_year(df_range)
 

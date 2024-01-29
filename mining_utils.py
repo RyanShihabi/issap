@@ -412,7 +412,9 @@ def generate_facility_names(facility_report_file):
 		reader = csv.reader(f)
 		next(reader, None)
 		for row in reader:
-			facility_abbr_name[row[0]] = row[1]
+			# Multiple recorded full names
+			if "#" in row[1]:
+				facility_abbr_name[row[0]] = row[1].split("#")
 
 			if row[2] != '':
 				if row[2] not in category_facilities:
@@ -435,7 +437,16 @@ def generate_facility_names(facility_report_file):
 	f.close()
 
     # Reverse key-value pairs for reference full to abbreviated name
-	facility_name_abbr = {value: key for key, value in facility_abbr_name.items()}
+	facility_name_abbr = {}
+
+	for key, value in facility_abbr_name.items():
+		if type(value) == list:
+			for val in value:
+				facility_name_abbr[val] = key
+		else:
+			facility_name_abbr[value] = key
+	
+	# facility_name_abbr = {value: key for key, value in facility_abbr_name.items()}
 
 	export_data(facility_name_abbr, "./sources/facility_data/json/facility_name_abbr.json")
 	export_data(facility_abbr_name, "./sources/facility_data/json/facility_abbr_name.json")

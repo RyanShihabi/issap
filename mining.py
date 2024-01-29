@@ -21,6 +21,8 @@ from mining_utils import (collect_reports,
 # Get the list of facility names from Rao's csv
 facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 
+# print(facility_data)
+
 # export_data(generate_paragraph_apriori(facility_data["facility_abbr_name"], "./reports-oct"), "./analysis/json/paragraph_mentions.json")
 
 # Get a boolean value for whether a facility was mentioned on that day
