@@ -438,6 +438,8 @@ def generate_facility_names(facility_report_file):
 
 	f.close()
 
+	id_abbr = dict((i, abbr) for i, abbr in enumerate(facility_abbr_name.keys()))
+
     # Reverse key-value pairs for reference full to abbreviated name
 	facility_name_abbr = {}
 
@@ -456,6 +458,7 @@ def generate_facility_names(facility_report_file):
 	export_data(facility_category, "./sources/facility_data/json/facility_category.json")
 	export_data(facility_agency, "./sources/facility_data/json/facility_agency.json")
 	export_data(agency_facilities, "./sources/facility_data/json/agency_facilities.json")
+	export_data(id_abbr, "./sources/facility_data/json/id_abbr.json")
 
 	return {
             "facility_name_abbr": facility_name_abbr,
@@ -464,6 +467,7 @@ def generate_facility_names(facility_report_file):
 			"facility_category": facility_category,
 			"facility_agency": facility_agency,
 			"agency_facilities": agency_facilities,
+			"id_abbr": id_abbr
             }
 
 def export_data(obj, dir):
