@@ -273,7 +273,7 @@ def grab_sequential_mentions(report_dir: str, facility_data: dict):
 			text = ("\n".join(f.readlines())).lower()
 		f.close()
 
-		for abbr, name in facility_data["facility_abbr_name"].items():
+		for name, abbr in facility_data["facility_name_abbr"].items():
 			name_indices, abbr_indices = find_name_indices(name.lower(), text), find_name_indices(abbr.lower(), text)
 
 			if len(name_indices) != 0:
@@ -312,7 +312,7 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 		if kernel_window > 0:
 			words = text.split(" ")
 		
-			for abbr, name in facility_names["facility_abbr_name"].items():
+			for name, abbr in facility_names["facility_name_abbr"].items():
 				for group in range(len(words)-kernel_window):
 					day_mentions[abbr] = 0
 					text_window = " ".join(words[group:group+kernel_window])
@@ -320,7 +320,7 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 						day_mentions[abbr] = 1
 						break
 		else:
-			for abbr, name in facility_names["facility_abbr_name"].items():
+			for name, abbr in facility_names["facility_name_abbr"].items():
 				day_mentions[abbr] = 0
 				if len(find_name_indices(name.lower(), text)) != 0 or len(find_name_indices(abbr.lower(), text)) != 0:
 					day_mentions[abbr] = 1
@@ -415,6 +415,8 @@ def generate_facility_names(facility_report_file):
 			# Multiple recorded full names
 			if "#" in row[1]:
 				facility_abbr_name[row[0]] = row[1].split("#")
+			else:
+				facility_abbr_name[row[0]] = row[1]
 
 			if row[2] != '':
 				if row[2] not in category_facilities:

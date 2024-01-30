@@ -26,14 +26,14 @@ facility_data = generate_facility_names("./sources/facility_data/csv/all_facilit
 # export_data(generate_paragraph_apriori(facility_data["facility_abbr_name"], "./reports-oct"), "./analysis/json/paragraph_mentions.json")
 
 # Get a boolean value for whether a facility was mentioned on that day
-# facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
+facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
 
 # facility_sequential = grab_sequential_mentions("./rao_reports", facility_data)
 
 # export_data(facility_sequential, "./analysis/json/sequential_facility_mentions.json")
 
-# df = pd.DataFrame.from_dict(facility_mentions).T
-# df.index = pd.to_datetime(df.index)
-# df = df.sort_index(ascending=True)
+df = pd.DataFrame.from_dict(facility_mentions).T
+df.index = pd.to_datetime(df.index)
+df = df.sort_index(ascending=True)
 
-# export_data(df, "./analysis/csv/facility_mentions.csv")
+export_data(df, "./analysis/csv/facility_mentions.csv")

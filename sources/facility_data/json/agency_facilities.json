@@ -46,7 +46,7 @@
         "FIR",
         "FPC",
         "Fruit Fly Lab",
-        "Galley Refrigerator-Freezer",
+        "FRIDGE",
         "GASMAP",
         "GAP-FPA",
         "GLACIER",
@@ -70,7 +70,7 @@
         "LSG",
         "LMM",
         "MAMS",
-        "Manufacturing Device",
+        "AMF",
         "Mass Measurement Device",
         "MDS",
         "MELFI",
@@ -157,10 +157,6 @@
         "PGB",
         "Portable Pulmonary Function System",
         "Solar"
-    ],
-    "None": [
-        "AMF",
-        "FRIDGE"
     ],
     "JAXA": [
         "Aquatic Habitat",

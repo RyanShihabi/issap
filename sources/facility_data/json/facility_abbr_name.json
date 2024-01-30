@@ -9,7 +9,6 @@
     "ADSEP-2": "ADvanced Space Experiment Processor-2",
     "AEM": "Animal Enclosure Module",
     "ALTEA": "Anomalous Long Term Effects in Astronauts' Central Nervous System Facility",
-    "AMF": "Additive Manufacturing Facility",
     "APCF": "Advanced Protein Crystallization Facility",
     "Aquatic Habitat": "Aquatic Habitat",
     "ARCTIC": "ARCTIC Refrigerator and Freezer",
@@ -71,11 +70,13 @@
     "FIR": "Fluids Integrated Rack - Fluids and Combustion Facility",
     "FPC": "Fluid Processing Cassette",
     "FPEF": "Fluid Physics Experiment Facility",
-    "FRIDGE": "Freezer/Refrigerator/Incubator Device for Galley and Experimentation",
     "FROST": "Freezer-Refrigerator Of STirling cycle",
     "Fruit Fly Lab": "Fruit Fly Lab",
     "FSL": "Fluid Science Laboratory",
-    "Galley Refrigerator-Freezer": "Freezer/Refrigerator/Incubator Device for Galley and Experimentation",
+    "FRIDGE": [
+        "Freezer/Refrigerator/Incubator Device for Galley and Experimentation",
+        "Galley Refrigerator-Freezer"
+    ],
     "GASMAP": "Gas Analyzer System for Metabolic Analysis Physiology",
     "GAP-FPA": "Group Activation Pack-Fluid Processing Apparatus",
     "GCF": "Granada Crystallization Facility",
@@ -111,7 +112,10 @@
     "LMM": "Light Microscopy Module",
     "LSR": "Life Support Rack",
     "MAMS": "Microgravity Acceleration Measurement System",
-    "Manufacturing Device": "Additive Manufacturing Facility",
+    "AMF": [
+        "Additive Manufacturing Facility",
+        "Manufacturing Device"
+    ],
     "MARES": "Muscle Atrophy Research and Exercise System",
     "Mass Measurement Device": "Mass Measurement Device",
     "MDS": "Mice Drawer System Facility",
