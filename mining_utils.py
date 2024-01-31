@@ -127,12 +127,12 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 	return dataset
 
 
-def generate_paragraph_apriori(facility_abbr_name: dict, report_dir: str):
+def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 	dataset = []
 
 	facility_names = []
 
-	for abbr, name in facility_abbr_name.items():
+	for name, abbr in facility_name_abbr.items():
 		facility_names.append(name)
 		facility_names.append(abbr)
 
@@ -141,10 +141,10 @@ def generate_paragraph_apriori(facility_abbr_name: dict, report_dir: str):
 
 	for report in tqdm(archive_reports):
 		file_path = os.path.join(report_dir, report)
-		with open(f"{file_path}", 'r') as f:
+		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
-		
+
 		for paragraph in archive_paragraph_split(text):
 			facilities_mentioned = []
 			for name in facility_names:
@@ -152,13 +152,13 @@ def generate_paragraph_apriori(facility_abbr_name: dict, report_dir: str):
 					facilities_mentioned.append(name)
 			
 			if len(facilities_mentioned) != 0:
-				facilities_mentioned = list(set(map(lambda x: facility_abbr_name[x] if x in facility_abbr_name else x, facilities_mentioned)))
+				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
 				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 				dataset.append(sorted(facilities_mentioned_filtered))
 
 	for report in tqdm(new_reports):
 		file_path = os.path.join(report_dir, report)
-		with open(f"{file_path}", 'r') as f:
+		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
 		f.close()
 		
@@ -169,7 +169,7 @@ def generate_paragraph_apriori(facility_abbr_name: dict, report_dir: str):
 					facilities_mentioned.append(name)
 			
 			if len(facilities_mentioned) != 0:
-				facilities_mentioned = list(set(map(lambda x: facility_abbr_name[x] if x in facility_abbr_name else x, facilities_mentioned)))
+				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
 				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 				dataset.append(sorted(facilities_mentioned_filtered))
 	
@@ -363,8 +363,6 @@ def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 	print(df)
 
 	export_data(df, "./analysis/csv/agency_category_mentions.csv")
-	
-	# print(agency_category_mentions)
 
 
 def generate_custom_category(custom_facilities, facility_name_abbr):		

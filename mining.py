@@ -23,7 +23,17 @@ facility_data = generate_facility_names("./sources/facility_data/csv/all_facilit
 
 # print(facility_data)
 
-# export_data(generate_paragraph_apriori(facility_data["facility_abbr_name"], "./reports-oct"), "./analysis/json/paragraph_mentions.json")
+# export_data(generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct"), "./analysis/json/paragraph_mentions.json")
+
+# Agency Apriori
+agencies = ["NASA", "JAXA"]
+facility_data_agency = {key: val for key, val in facility_data["facility_name_abbr"].items() if facility_data["facility_agency"][val] in agencies}
+export_data(generate_paragraph_apriori(facility_data_agency, "./reports-oct"), f"./analysis/json/{'-'.join(agencies)}_paragraph_mentions.json")
+
+# Category Apriori
+categories = ["Human Research", "Multipurpose"]
+facility_data_category = {key: val for key, val in facility_data["facility_name_abbr"].items() if facility_data["facility_category"][val] in categories}
+export_data(generate_paragraph_apriori(facility_data_category, "./reports-oct"), f"./analysis/json/{'-'.join(categories)}_paragraph_mentions.json")
 
 # Get a boolean value for whether a facility was mentioned on that day
 # facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
