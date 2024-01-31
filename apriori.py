@@ -24,14 +24,18 @@ from apriori_utils import (apriori_from_df,
 
 # apriori_from_df("./analysis/csv/facility_mentions.csv")
 
-# with open("./analysis/json/paragraph_mentions.json", "r") as f:
-#     paragraph_list = json.load(f)
-# f.close()
-
 with open("./analysis/json/paragraph_mentions.json", "r") as f:
     paragraph_list = json.load(f)
 f.close()
 
 print(len(paragraph_list))
 
-apriori_from_list(paragraph_list)
+apriori_from_list(paragraph_list, "apriori_pairs")
+
+# with open("./analysis/json/NASA-JAXA_paragraph_mentions.json", "r") as f:
+#     paragraph_list = json.load(f)
+# f.close()
+
+# with open("./analysis/json/Human Research-Multipurpose_paragraph_mentions.json", "r") as f:
+#     paragraph_list = json.load(f)
+# f.close()

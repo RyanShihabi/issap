@@ -52,7 +52,7 @@ def apriori_from_df(obj):
 
     return itemsets_pair
 
-def apriori_from_list(mention_list: list):
+def apriori_from_list(mention_list: list, file_name: str):
     te = TransactionEncoder()
     te_ary = te.fit(mention_list).transform(mention_list)
     df = pd.DataFrame(te_ary, columns=te.columns_)
@@ -72,5 +72,5 @@ def apriori_from_list(mention_list: list):
     # print(itemsets_without_resistance.head(7))
     # itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
 
-    export_data(itemsets_pair, f"./analysis/csv/apriori_pairs.csv")
+    export_data(itemsets_pair, f"./analysis/csv/{file_name}.csv")
     print(itemsets_pair)
