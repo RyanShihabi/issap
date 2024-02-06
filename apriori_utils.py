@@ -3,7 +3,7 @@ from mlxtend.frequent_patterns import apriori
 from mlxtend.preprocessing import TransactionEncoder
 from mining_utils import export_data
 
-
+# Take out any pairs that have a certain facility in it
 def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list = None, remove=True) -> pd.DataFrame:
     rows = []
 
@@ -18,7 +18,7 @@ def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list = None
     else:
         return apriori_df.loc[rows, :]
 
-
+# Run apriori calculations from a dataframe
 def apriori_from_df(obj):
     if type(obj) == str:
         mentions_df = pd.read_csv(obj)
@@ -30,7 +30,7 @@ def apriori_from_df(obj):
     for col in mentions_df.columns:
         mentions_df[col] = mentions_df[col].astype(bool)
 
-    support = 0.03
+    support = 1e-5
 
     itemsets_df = apriori(mentions_df, min_support=support, use_colnames=True)
 
@@ -38,20 +38,9 @@ def apriori_from_df(obj):
 
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
 
-    # export_data(itemsets_pair, f"./analysis/apriori_pairs_support_{support}.csv")
-    # print(itemsets_pair)
-
-    # import json
-    
-    # with open("./custom_categories.json", "r") as f:
-    #     custom_categories_list = json.load(f)
-    # f.close()
-
-    # print(filter_facilities_in_pairs(itemsets_pair, custom_categories_list["Refrigerator"], remove=False))
-    # print(filter_facilities_in_pairs(itemsets_pair, remove=False))
-
     return itemsets_pair
 
+# Run apriori calculations from a list
 def apriori_from_list(mention_list: list, file_name: str):
     te = TransactionEncoder()
     te_ary = te.fit(mention_list).transform(mention_list)
@@ -66,11 +55,6 @@ def apriori_from_list(mention_list: list, file_name: str):
     itemsets_df["frequency"] = itemsets_df["support"].apply(lambda x: int(x * len(mention_list)))
 
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
-
-    # itemsets_without_resistance = filter_facilities_in_pairs(itemsets_pair, ["ARED", "CEVIS", "TVIS"])
-    
-    # print(itemsets_without_resistance.head(7))
-    # itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
 
     export_data(itemsets_pair, f"./analysis/csv/{file_name}.csv")
     print(itemsets_pair)

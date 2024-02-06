@@ -19,11 +19,11 @@ def new_paragraph_split(report_text: str):
 def sentence_split(report_text: str):
 	return report_text.split(".")
 
-# TODO: Make sure this gets words only and no whitespace
 def kernel_split(report_text: str, window: int=5):
 	return [report_text[i: i+window] for i in range(len(report_text.split(" ")-window+1))]
 
-def custom_search(facility_names, report_dir: str):
+# Do a search for a custom set of facility names
+def custom_search(facility_names: list, report_dir: str):
 	day_mentions = {name: [] for name in facility_names}
 	
 	for file in tqdm(os.listdir(report_dir)):
@@ -64,13 +64,13 @@ def custom_search(facility_names, report_dir: str):
 	df.index = pd.to_datetime(df.index)
 	df = df.sort_index(ascending=True)
 
-	export_data(df, "./analysis/json/BEAM_Mentions.csv")
+	export_data(df, "./analysis/json/Custom_Search_Mentions.csv")
 	
 	print(df)
 
 	return day_mentions
 
-
+# Locate the index where the facility was first mentioned
 def find_name_indices(name: str, text: str) -> list:
 	name_indices = []
 
@@ -87,12 +87,8 @@ def find_name_indices(name: str, text: str) -> list:
 
 	return name_indices
 
-
-# Window value should resemble the longest named facility
-# Have the kernel represent that window size then shift over by one
-# Track the mentions not the frequency
-# Implement multithreading for the kernels
-
+# Sliding window of mentions
+# Intended as check for the main mention method
 def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: int =50):
 	dataset = []
 
@@ -126,7 +122,7 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 
 	return dataset
 
-
+# Apriori support values for paragraph facility mentions
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 	dataset = []
 
@@ -175,7 +171,7 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 	
 	return dataset
 
-
+# Deprecated due to NASA removing archive links
 def collect_reports():
 	missing = []
 	archive_links = grab_archive_links()
@@ -202,7 +198,8 @@ def collect_reports():
         
 	return missing
 
-
+# Deprecated due to NASA removing archive links
+# Takes report links and adds them to the internet archive
 def send_internet_archive_request():
 	archive_links = grab_archive_links()
     
@@ -258,11 +255,8 @@ def send_internet_archive_request():
 			f.write(f"{saved_link}\n")
 	f.close()
 
-
+# Lists facilities in sequential mention order
 def grab_sequential_mentions(report_dir: str, facility_data: dict):
-	# Store the name and index location of the facility found in the report
-	# Sort the items by the index
-	
 	sequential_data = {}
 
 	for file in tqdm(os.listdir(report_dir)):
@@ -289,7 +283,8 @@ def grab_sequential_mentions(report_dir: str, facility_data: dict):
 	
 	return sequential_data
 
-
+# Main method for finding mentions of facilities
+# Will return a boolean dataframe with a 1: mentioned that day, 0: not mentioned that day
 def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_window=-1):
 	facility_mentions = {}
 
@@ -332,7 +327,7 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 	
 	return facility_mentions
 
-
+# Aggregates facilities mentions based on the agency the facility belongs to
 def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 	agency_category_mentions = {}
 
@@ -364,7 +359,7 @@ def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 
 	export_data(df, "./analysis/csv/agency_category_mentions.csv")
 
-
+# Create groupings for custom categories
 def generate_custom_category(custom_facilities, facility_name_abbr):		
 	all_categories = {}
 	with open(custom_facilities, "r") as f:
@@ -388,8 +383,8 @@ def generate_custom_category(custom_facilities, facility_name_abbr):
 
 	export_data(categories_filtered, "./sources/facility_data/json/custom_categories.json")
 
-
-def generate_facility_names(facility_report_file):
+# Loads facility data from NASA's facility spreadsheet
+def generate_facility_names(facility_report_file: str):
 	categories = np.unique([category for category in pd.read_csv(facility_report_file)["Category"] if category != "nan"])[:-1]
 	
 	# Dictionary for referencing full name to abbreviation
@@ -468,6 +463,7 @@ def generate_facility_names(facility_report_file):
 			"id_abbr": id_abbr
             }
 
+# Helper function for handling exports of different types
 def export_data(obj, dir):
     if type(obj) == dict or type(obj) == list:  
         with open(dir, 'w') as f:
@@ -478,13 +474,13 @@ def export_data(obj, dir):
     else:
         print("Unsupported file type")
 
-
+# Exporting text report files
 def export_report(obj):
 	with open(f"./reports/{obj['date']}.txt", 'w') as f:
 		f.write(obj["text"])
 	f.close()
-   
 
+# Experiment function for custom keyword-based categories
 def get_custom_facility_groupings(facility_name_abbr):
   # Cold stowage: https://www.nasa.gov/sites/default/files/atoms/files/fact_sheet_ec7_cold_stowage.pdf
     cold_stowage = ["Double Coldbag", "Mini Coldbag", "Iceberg", "MELFI", "MERLIN", "GLACIER", "Polar"]
@@ -512,8 +508,8 @@ def get_custom_facility_groupings(facility_name_abbr):
     return facility_grouping
 
 
+# Collects new blog links from NASA sitemap
 def grab_new_links():
-    # Collecting new blog links from NASA sitemap
     # Use the nav-links class to traverse
 	print("Grabbing reports from NASA blog site")
 	new_reports = []
@@ -528,14 +524,12 @@ def grab_new_links():
 	for i in tqdm(range(1, max_page+1)):
 		page = f"https://blogs.nasa.gov/stationreport/page/{i}"
 		new_reports.append(page)
-
-	    # check for duplicates
 	
 	print(f"{len(new_reports)} unique reports found")
 
 	return new_reports
 
-
+# Deprecated: Old links and their reports no longer exist
 def grab_archive_links():
     print("Grabbing reports from NASA archive")
     
@@ -569,7 +563,7 @@ def grab_archive_links():
 
     return archive_reports
 
-
+# Deprecated: Old links and their reports no longer exist
 def get_archived_report(link):
 	page = requests.get(link)
 

@@ -3,16 +3,19 @@ import csv
 import json
 import re
 import os
+from dotenv import load_dotenv
 from datetime import datetime
 from tqdm import tqdm
 
-facility_uri = "neo4j+s://07c212aa.databases.neo4j.io"
-user = "neo4j"
-facility_password = "jUn-fyaKww5NyjYsA_-zkYqPvvRY7pq5-9Dc4bXjVv8"
+load_dotenv()
 
-date_uri = "neo4j+s://1d36cf92.databases.neo4j.io"
-user = "neo4j"
-date_password = "H5pDGYNun_YP3T0oKPwtysR7adZApXElQ3_8DL4ZDDE"
+facility_uri = os.getenv("FACILITY_CONN")
+user = os.getenv("FACILITY_USER")
+facility_password = os.getenv("FACILITY_SECRET")
+
+date_uri = os.getenv("DATE_CONN")
+user = os.getenv("DATE_USER")
+date_password = os.getenv("DATE_SECRET")
 
 query = (
     "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category }) "
@@ -30,6 +33,7 @@ date_query = (
     "RETURN p1, p2"
 )
 
+# All attributes in a facility node
 def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agency, facility2_agency, facility1_category, facility2_category):
     result = tx.run(query, {
         'f1_name': facility1_name,
@@ -42,6 +46,7 @@ def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agenc
     })
     return result.single()
 
+# All attributes in a date facility node
 def execute_date_write(tx, facility1_name, facility2_name, frequency, date, facility1_agency, facility2_agency, facility1_category, facility2_category):
     result = tx.run(date_query, {
         'f1_name': facility1_name,
@@ -55,6 +60,7 @@ def execute_date_write(tx, facility1_name, facility2_name, frequency, date, faci
     })
     return result.single()
 
+# Get all of the source data into the graph network
 def upload_facility_itemsets():
     with open("./sources/facility_data/json/facility_agency.json", "r") as f:
         facility_agency = json.load(f)
@@ -94,6 +100,7 @@ def upload_facility_itemsets():
 
     f.close()
 
+# Get all date based facility mentions into the network
 def upload_sequential_mentions():
     with open("./sources/facility_data/json/facility_agency.json", "r") as f:
         facility_agency = json.load(f)
@@ -113,9 +120,6 @@ def upload_sequential_mentions():
         f.close()
     else:
         completed_date_uploads = []
-
-    # All similar date connections should be combined into one weighted relationship
-    # Grab newest and oldest mention of all mentions
     
     frequency = 1
     for date, seq_list in tqdm(sequential_data.items()):

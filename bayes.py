@@ -14,8 +14,6 @@ with open("./analysis/json/paragraph_mentions.json", "r") as f:
     paragraph_mentions = json.load(f)
 f.close()
 
-# given = "ARED"
-
 given = "ARED"
 
 facility_conditional_probs = {given: {}}

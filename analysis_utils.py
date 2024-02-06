@@ -3,6 +3,7 @@ import numpy as np
 from datetime import date
 from mining_utils import export_data
 
+# Facility mentions over total days
 def calc_facility_proportions(df: pd.DataFrame):
     # Total amount of days between first and last report
     first = str(df.iloc[0]["Report Date"])[:10].split("-")
@@ -25,6 +26,7 @@ def calc_facility_proportions(df: pd.DataFrame):
 
     return df_days_used
 
+# Total facility mentions in a given year
 def calc_facility_freq_year(df: pd.DataFrame):
     df_year = df.resample("Y", on="Report Date").sum()
     print(df_year)
@@ -39,6 +41,7 @@ def calc_facility_freq_year(df: pd.DataFrame):
 
     return df_year
 
+# Total facility mentions in a given year
 def calc_facility_freq_month(df: pd.DataFrame):
     df_month = df.resample("M", on="Report Date").sum()
     print(df_month)
@@ -47,6 +50,7 @@ def calc_facility_freq_month(df: pd.DataFrame):
 
     return df_month
 
+# Total facility mentions grouped by category
 def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame):
     category_mentions = {"Total": {}}
 
@@ -67,6 +71,7 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
 
     return df_category_mentions
 
+# Which reports fall on what day of the week
 def calc_report_date_frequency(df_range: pd.DataFrame):
     report_day_count = {"Total": {}}
 
