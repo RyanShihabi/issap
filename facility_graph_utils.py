@@ -18,23 +18,23 @@ user = os.getenv("DATE_USER")
 date_password = os.getenv("DATE_SECRET")
 
 query = (
-    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category }) "
-    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category }) "
+    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, x: $f1_x, y: $f1_y }) "
+    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, x: $f2_x, y: $f2_y }) "
     "CREATE (p1)-[k:WEIGHT]->(p2), (p2)-[j:WEIGHT]->(p1) "
     "SET k.weight = $weight, j.weight = $weight "
     "RETURN p1, p2"
 )
 
 date_query = (
-    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category }) "
-    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category }) "
+    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, x: $f1_x, y: $f1_y }) "
+    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, x: $f2_x, y: $f2_y }) "
     "CREATE (p1)-[k:DATE { date: $date }]->(p2) "
     "SET k.weight = $weight "
     "RETURN p1, p2"
 )
 
 # All attributes in a facility node
-def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agency, facility2_agency, facility1_category, facility2_category):
+def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agency, facility2_agency, facility1_category, facility2_category, facility1_x, facility1_y, facility2_x, facility2_y):
     result = tx.run(query, {
         'f1_name': facility1_name,
         'f2_name': facility2_name,
@@ -43,11 +43,15 @@ def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agenc
         'f2_agency': facility2_agency,
         'f1_category': facility1_category,
         'f2_category': facility2_category,
+        'f1_x': facility1_x,
+        'f1_y': facility1_y,
+        'f2_x': facility2_x,
+        'f2_y': facility2_y,
     })
     return result.single()
 
 # All attributes in a date facility node
-def execute_date_write(tx, facility1_name, facility2_name, frequency, date, facility1_agency, facility2_agency, facility1_category, facility2_category):
+def execute_date_write(tx, facility1_name, facility2_name, frequency, date, facility1_agency, facility2_agency, facility1_category, facility2_category, facility1_x, facility1_y, facility2_x, facility2_y):
     result = tx.run(date_query, {
         'f1_name': facility1_name,
         'f2_name': facility2_name,
@@ -57,7 +61,12 @@ def execute_date_write(tx, facility1_name, facility2_name, frequency, date, faci
         'f2_agency': facility2_agency,
         'f1_category': facility1_category,
         'f2_category': facility2_category,
+        'f1_x': facility1_x,
+        'f1_y': facility1_y,
+        'f2_x': facility2_x,
+        'f2_y': facility2_y,
     })
+    
     return result.single()
 
 # Get all of the source data into the graph network
