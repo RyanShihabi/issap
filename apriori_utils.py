@@ -56,5 +56,5 @@ def apriori_from_list(mention_list: list, file_name: str):
 
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
 
-    export_data(itemsets_pair, f"./analysis/csv/{file_name}.csv")
+    export_data(itemsets_pair, f"./analysis/csv/apriori_pairs/{file_name}.csv")
     print(itemsets_pair)

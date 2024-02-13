@@ -1,0 +1,9 @@
+,support,itemsets,length,frequency
+14,0.010044642857142858,"frozenset({'SPHERES', 'ELC'})",2,9
+17,0.005580357142857143,"frozenset({'ISERV', 'WORF'})",2,5
+16,0.0033482142857142855,"frozenset({'WORF', 'ELC'})",2,3
+15,0.002232142857142857,"frozenset({'Solar', 'ELC'})",2,2
+12,0.0011160714285714285,"frozenset({'SPHERES', 'Astrobee'})",2,1
+13,0.0011160714285714285,"frozenset({'SCAN Testbed', 'ELC'})",2,1
+18,0.0011160714285714285,"frozenset({'JEM-EF', 'MISSE-FF'})",2,1
+19,0.0011160714285714285,"frozenset({'WORF', 'Solar'})",2,1

@@ -399,6 +399,17 @@ def generate_facility_names(facility_report_file: str):
 	facility_agency = {}
 
 	agency_facilities = {}
+
+	module_loc = {
+		"US Lab": (6, 2),
+		"Columbus": (7, 0),
+		"Crew": (8, 1),
+		"JEM": (9, 2),
+		"ISS Truss": (4, 5),
+		"Node 1": (5, 3),
+		"Node 2": (8, 1),
+		"Node 3": (6, 4)
+	}
 	
 	# Reading the Facility Report generated from the NASA site
 	with open(facility_report_file, 'r') as f:

@@ -1,0 +1,11 @@
+,support,itemsets,length,frequency
+26,0.014274385408406027,"frozenset({'MSL', 'MSRR-1'})",2,18
+20,0.011895321173671689,"frozenset({'SoFIE', 'CIR'})",2,15
+18,0.006344171292624901,"frozenset({'CIR', 'FIR'})",2,8
+19,0.0015860428231562252,"frozenset({'CIR', 'FPEF'})",2,2
+17,0.0007930214115781126,"frozenset({'Cold Atom Lab', 'CIR'})",2,1
+21,0.0007930214115781126,"frozenset({'DECLIC', 'MSL'})",2,1
+22,0.0007930214115781126,"frozenset({'ELF', 'EML'})",2,1
+23,0.0007930214115781126,"frozenset({'FIR', 'FPEF'})",2,1
+24,0.0007930214115781126,"frozenset({'FSL', 'FIR'})",2,1
+25,0.0007930214115781126,"frozenset({'FSL', 'FPEF'})",2,1

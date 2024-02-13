@@ -1,0 +1,127 @@
+,support,itemsets,length,frequency
+88,0.17582582582582582,"frozenset({'TVIS', 'ARED'})",2,1171
+79,0.14264264264264265,"frozenset({'CEVIS', 'ARED'})",2,950
+124,0.13033033033033034,"frozenset({'CEVIS', 'TVIS'})",2,868
+182,0.02987987987987988,"frozenset({'TVIS', 'Ultrasound'})",2,199
+89,0.02942942942942943,"frozenset({'ARED', 'Ultrasound'})",2,196
+125,0.023723723723723725,"frozenset({'CEVIS', 'Ultrasound'})",2,158
+171,0.022372372372372374,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,149
+140,0.017417417417417418,"frozenset({'Holter', 'EPM'})",2,116
+119,0.016516516516516516,"frozenset({'CEVIS', 'PFS'})",2,110
+94,0.016366366366366368,"frozenset({'Holter', 'Actiwatch'})",2,109
+120,0.016066066066066066,"frozenset({'CEVIS', 'Portable Pulmonary Function System'})",2,107
+167,0.009309309309309309,"frozenset({'SLAMMD', 'PCBA'})",2,62
+154,0.005855855855855856,"frozenset({'Holter', 'Ultrasound'})",2,39
+93,0.005855855855855856,"frozenset({'Actiwatch', 'EPM'})",2,39
+149,0.0037537537537537537,"frozenset({'Holter', 'PFS'})",2,25
+98,0.0037537537537537537,"frozenset({'Actiwatch', 'Ultrasound'})",2,25
+117,0.0034534534534534536,"frozenset({'Holter', 'CEVIS'})",2,23
+143,0.003153153153153153,"frozenset({'EPM', 'PFS'})",2,21
+116,0.003003003003003003,"frozenset({'CEVIS', 'EPM'})",2,20
+71,0.0018018018018018018,"frozenset({'ALTEA', 'LIDAL'})",2,12
+115,0.0016516516516516516,"frozenset({'CEVIS', 'CGBA'})",2,11
+141,0.0015015015015015015,"frozenset({'EPM', 'MARES'})",2,10
+113,0.0015015015015015015,"frozenset({'CBPD', 'Holter'})",2,10
+112,0.0013513513513513514,"frozenset({'CBPD', 'EPM'})",2,9
+151,0.0013513513513513514,"frozenset({'Holter', 'RC'})",2,9
+172,0.0013513513513513514,"frozenset({'RC', 'PFS'})",2,9
+147,0.0012012012012012011,"frozenset({'Ultrasound', 'EPM'})",2,8
+162,0.0009009009009009009,"frozenset({'MERLIN', 'SABL'})",2,6
+63,0.0009009009009009009,"frozenset({'Veggie', 'ABRS'})",2,6
+131,0.0009009009009009009,"frozenset({'CGBA', 'Plant Habitat'})",2,6
+107,0.0009009009009009009,"frozenset({'KFT', 'CBEF'})",2,6
+152,0.0009009009009009009,"frozenset({'SLAMMD', 'Holter'})",2,6
+66,0.0009009009009009009,"frozenset({'CellCult', 'ADSEP'})",2,6
+166,0.0007507507507507507,"frozenset({'RC', 'PCBA'})",2,5
+170,0.0007507507507507507,"frozenset({'SCOF', 'PCRF'})",2,5
+109,0.0007507507507507507,"frozenset({'PCRF', 'CBEF'})",2,5
+174,0.0007507507507507507,"frozenset({'Ultrasound', 'PFS'})",2,5
+91,0.0007507507507507507,"frozenset({'CBPD', 'Actiwatch'})",2,5
+99,0.0006006006006006006,"frozenset({'Aquatic Habitat', 'CBEF'})",2,4
+150,0.0006006006006006006,"frozenset({'Holter', 'Portable Pulmonary Function System'})",2,4
+128,0.0006006006006006006,"frozenset({'MERLIN', 'CGBA'})",2,4
+142,0.0006006006006006006,"frozenset({'EPM', 'PCBA'})",2,4
+64,0.0006006006006006006,"frozenset({'BFF', 'ADSEP'})",2,4
+179,0.00045045045045045046,"frozenset({'SLAMMD', 'RC'})",2,3
+145,0.00045045045045045046,"frozenset({'RC', 'EPM'})",2,3
+175,0.00045045045045045046,"frozenset({'SABL', 'Plant Habitat'})",2,3
+178,0.00045045045045045046,"frozenset({'Portable Pulmonary Function System', 'Ultrasound'})",2,3
+90,0.00045045045045045046,"frozenset({'iRED', 'ARED'})",2,3
+134,0.00045045045045045046,"frozenset({'SLAMMD', 'CGBA'})",2,3
+133,0.00045045045045045046,"frozenset({'SABL', 'CGBA'})",2,3
+83,0.00045045045045045046,"frozenset({'ARED', 'MERLIN'})",2,3
+159,0.0003003003003003003,"frozenset({'MERLIN', 'PCBA'})",2,2
+132,0.0003003003003003003,"frozenset({'Portable Pulmonary Function System', 'CGBA'})",2,2
+127,0.0003003003003003003,"frozenset({'Holter', 'CGBA'})",2,2
+129,0.0003003003003003003,"frozenset({'CGBA', 'PCBA'})",2,2
+160,0.0003003003003003003,"frozenset({'MERLIN', 'PFS'})",2,2
+130,0.0003003003003003003,"frozenset({'CGBA', 'PFS'})",2,2
+92,0.0003003003003003003,"frozenset({'CEVIS', 'Actiwatch'})",2,2
+157,0.0003003003003003003,"frozenset({'SLAMMD', 'MARES'})",2,2
+155,0.0003003003003003003,"frozenset({'KFT', 'Veggie'})",2,2
+123,0.0003003003003003003,"frozenset({'TEPC', 'CEVIS'})",2,2
+153,0.0003003003003003003,"frozenset({'Holter', 'TVIS'})",2,2
+144,0.0003003003003003003,"frozenset({'Portable Pulmonary Function System', 'EPM'})",2,2
+70,0.0003003003003003003,"frozenset({'CEVIS', 'ALTEA'})",2,2
+138,0.0003003003003003003,"frozenset({'CellCult', 'SABL'})",2,2
+161,0.0003003003003003003,"frozenset({'Portable Pulmonary Function System', 'MERLIN'})",2,2
+122,0.0003003003003003003,"frozenset({'SLAMMD', 'CEVIS'})",2,2
+84,0.0003003003003003003,"frozenset({'ARED', 'PCBA'})",2,2
+102,0.0003003003003003003,"frozenset({'CEVIS', 'Bio-Monitor'})",2,2
+105,0.0003003003003003003,"frozenset({'Ultrasound', 'Bone Densitometer'})",2,2
+85,0.0003003003003003003,"frozenset({'ARED', 'PFS'})",2,2
+108,0.0003003003003003003,"frozenset({'MERLIN', 'CBEF'})",2,2
+58,0.0003003003003003003,"frozenset({'KFT', 'ABRS'})",2,2
+110,0.0003003003003003003,"frozenset({'SABL', 'CBEF'})",2,2
+68,0.0003003003003003003,"frozenset({'ALTEA', 'ARED'})",2,2
+82,0.0003003003003003003,"frozenset({'Holter', 'ARED'})",2,2
+81,0.0003003003003003003,"frozenset({'ARED', 'EPM'})",2,2
+80,0.0003003003003003003,"frozenset({'ARED', 'CGBA'})",2,2
+67,0.0003003003003003003,"frozenset({'ADSEP', 'SABL'})",2,2
+78,0.0003003003003003003,"frozenset({'Actiwatch', 'ARED'})",2,2
+163,0.00015015015015015014,"frozenset({'STaARS-1 EF', 'MERLIN'})",2,1
+169,0.00015015015015015014,"frozenset({'Ultrasound', 'PCBA'})",2,1
+59,0.00015015015015015014,"frozenset({'MDS', 'ABRS'})",2,1
+181,0.00015015015015015014,"frozenset({'SLAMMD', 'Ultrasound'})",2,1
+180,0.00015015015015015014,"frozenset({'SLAMMD', 'TVIS'})",2,1
+173,0.00015015015015015014,"frozenset({'TVIS', 'PFS'})",2,1
+158,0.00015015015015015014,"frozenset({'Ultrasound', 'MARES'})",2,1
+168,0.00015015015015015014,"frozenset({'TEPC', 'PCBA'})",2,1
+176,0.00015015015015015014,"frozenset({'Portable Pulmonary Function System', 'RC'})",2,1
+165,0.00015015015015015014,"frozenset({'RAM', 'PCBA'})",2,1
+177,0.00015015015015015014,"frozenset({'Portable Pulmonary Function System', 'TVIS'})",2,1
+164,0.00015015015015015014,"frozenset({'TEPC', 'MERLIN'})",2,1
+156,0.00015015015015015014,"frozenset({'MERLIN', 'MARES'})",2,1
+61,0.00015015015015015014,"frozenset({'SLAMMD', 'ABRS'})",2,1
+148,0.00015015015015015014,"frozenset({'Rodent Research', 'Fruit Fly Lab'})",2,1
+146,0.00015015015015015014,"frozenset({'TVIS', 'EPM'})",2,1
+72,0.00015015015015015014,"frozenset({'ALTEA', 'MERLIN'})",2,1
+73,0.00015015015015015014,"frozenset({'ALTEA', 'PCBA'})",2,1
+74,0.00015015015015015014,"frozenset({'ALTEA', 'PFS'})",2,1
+75,0.00015015015015015014,"frozenset({'Portable Pulmonary Function System', 'ALTEA'})",2,1
+76,0.00015015015015015014,"frozenset({'TEPC', 'ALTEA'})",2,1
+77,0.00015015015015015014,"frozenset({'TVIS', 'ALTEA'})",2,1
+86,0.00015015015015015014,"frozenset({'Portable Pulmonary Function System', 'ARED'})",2,1
+87,0.00015015015015015014,"frozenset({'TEPC', 'ARED'})",2,1
+65,0.00015015015015015014,"frozenset({'ADSEP', 'Bioculture System'})",2,1
+95,0.00015015015015015014,"frozenset({'Actiwatch', 'PFS'})",2,1
+96,0.00015015015015015014,"frozenset({'Portable Pulmonary Function System', 'Actiwatch'})",2,1
+97,0.00015015015015015014,"frozenset({'TVIS', 'Actiwatch'})",2,1
+100,0.00015015015015015014,"frozenset({'BFF', 'MERLIN'})",2,1
+101,0.00015015015015015014,"frozenset({'Bio-Monitor', 'Bio-Analyzer'})",2,1
+103,0.00015015015015015014,"frozenset({'CGBA', 'Biotube'})",2,1
+104,0.00015015015015015014,"frozenset({'Rodent Research', 'Bone Densitometer'})",2,1
+106,0.00015015015015015014,"frozenset({'Holter', 'CBEF'})",2,1
+111,0.00015015015015015014,"frozenset({'TVIS', 'CBEF'})",2,1
+114,0.00015015015015015014,"frozenset({'CBPD', 'PFS'})",2,1
+118,0.00015015015015015014,"frozenset({'CEVIS', 'PCBA'})",2,1
+121,0.00015015015015015014,"frozenset({'CEVIS', 'RAM'})",2,1
+62,0.00015015015015015014,"frozenset({'TVIS', 'ABRS'})",2,1
+69,0.00015015015015015014,"frozenset({'ALTEA', 'CBEF'})",2,1
+126,0.00015015015015015014,"frozenset({'CGBA', 'EPM'})",2,1
+135,0.00015015015015015014,"frozenset({'TEPC', 'CGBA'})",2,1
+136,0.00015015015015015014,"frozenset({'TVIS', 'CGBA'})",2,1
+137,0.00015015015015015014,"frozenset({'Ultrasound', 'CGBA'})",2,1
+139,0.00015015015015015014,"frozenset({'Veggie', 'EMCS'})",2,1
+60,0.00015015015015015014,"frozenset({'MERLIN', 'ABRS'})",2,1
+57,0.00015015015015015014,"frozenset({'CGBA', 'ABRS'})",2,1

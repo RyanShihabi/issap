@@ -1,0 +1,38 @@
+,support,itemsets,length,frequency
+47,0.03608247422680412,"frozenset({'IPU', 'FPEF'})",2,41
+40,0.03006872852233677,"frozenset({'Saibo', 'CBEF'})",2,35
+34,0.02491408934707904,"frozenset({'Saibo', 'CB'})",2,29
+50,0.01718213058419244,"frozenset({'Ryutai', 'FPEF'})",2,20
+46,0.015463917525773196,"frozenset({'ELF', 'MSPR'})",2,18
+51,0.013745704467353952,"frozenset({'SCOF', 'FPEF'})",2,16
+57,0.01288659793814433,"frozenset({'Ryutai', 'IPU'})",2,15
+37,0.012027491408934709,"frozenset({'CBEF', 'IPU'})",2,14
+58,0.011168384879725086,"frozenset({'SCOF', 'IPU'})",2,13
+38,0.010309278350515464,"frozenset({'MSPR', 'CBEF'})",2,12
+64,0.010309278350515464,"frozenset({'SCOF', 'Ryutai'})",2,12
+31,0.010309278350515464,"frozenset({'Aquatic Habitat', 'MSPR'})",2,12
+62,0.009450171821305841,"frozenset({'PCRF', 'Ryutai'})",2,11
+39,0.00429553264604811,"frozenset({'PCRF', 'CBEF'})",2,5
+63,0.00429553264604811,"frozenset({'SCOF', 'PCRF'})",2,5
+56,0.00429553264604811,"frozenset({'PCRF', 'IPU'})",2,5
+49,0.00429553264604811,"frozenset({'PCRF', 'FPEF'})",2,5
+29,0.003436426116838488,"frozenset({'Aquatic Habitat', 'CBEF'})",2,4
+59,0.002577319587628866,"frozenset({'Saibo', 'IPU'})",2,3
+55,0.002577319587628866,"frozenset({'MSPR', 'IPU'})",2,3
+65,0.001718213058419244,"frozenset({'Saibo', 'Ryutai'})",2,2
+35,0.001718213058419244,"frozenset({'Confocal Microscope', 'CBEF'})",2,2
+60,0.001718213058419244,"frozenset({'MSPR', 'Ryutai'})",2,2
+41,0.000859106529209622,"frozenset({'Confocal Microscope', 'CBEF-L'})",2,1
+32,0.000859106529209622,"frozenset({'Bio-Monitor', 'Bio-Analyzer'})",2,1
+33,0.000859106529209622,"frozenset({'CB', 'IPU'})",2,1
+61,0.000859106529209622,"frozenset({'MSPR', 'TELLAS'})",2,1
+36,0.000859106529209622,"frozenset({'CBEF', 'FROST'})",2,1
+30,0.000859106529209622,"frozenset({'Aquatic Habitat', 'IPU'})",2,1
+48,0.000859106529209622,"frozenset({'MSPR', 'FPEF'})",2,1
+54,0.000859106529209622,"frozenset({'KOBAIRO Rack', 'GHF'})",2,1
+53,0.000859106529209622,"frozenset({'MSPR', 'FROST'})",2,1
+52,0.000859106529209622,"frozenset({'HSRC', 'FROST'})",2,1
+43,0.000859106529209622,"frozenset({'CCE', 'MSPR'})",2,1
+44,0.000859106529209622,"frozenset({'MSPR', 'Confocal Microscope'})",2,1
+45,0.000859106529209622,"frozenset({'ELF', 'HSRC'})",2,1
+42,0.000859106529209622,"frozenset({'Saibo', 'CBEF-L'})",2,1

@@ -66,7 +66,7 @@ def execute_date_write(tx, facility1_name, facility2_name, frequency, date, faci
         'f2_x': facility2_x,
         'f2_y': facility2_y,
     })
-    
+
     return result.single()
 
 # Get all of the source data into the graph network
@@ -77,6 +77,10 @@ def upload_facility_itemsets():
 
     with open("./sources/facility_data/json/facility_category.json", "r") as f:
         facility_category = json.load(f)
+    f.close()
+
+    with open("./sources/facility_data/json/facility_module_location.json", "r") as f:
+        facility_loc = json.load(f)
     f.close()
     
     with open("./analysis/csv/apriori_pairs.csv", "r") as f:
