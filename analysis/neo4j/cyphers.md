@@ -10,6 +10,12 @@ MATCH path = (n1)-[:WEIGHT]->(n2)
 WHERE n1.agency IN ['NASA', 'ESA'] AND n2.agency IN ['NASA', 'ESA']
 RETURN path;
 
+# Module Filter
+
+MATCH path = (n1)-[:WEIGHT]->(n2)
+WHERE n1.module = 'Columbus' AND n2.module = 'US Lab'
+RETURN path;
+
 ## Category Filter
 
 MATCH path = (n1)-[:WEIGHT]->(n2)

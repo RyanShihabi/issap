@@ -2,6 +2,7 @@ from neo4j import GraphDatabase
 import csv
 import json
 import re
+import pandas as pd
 import os
 from dotenv import load_dotenv
 from tqdm import tqdm
@@ -46,12 +47,14 @@ def upload_facility_itemsets():
         facility_module = json.load(f)
     f.close()
     
+    rows = pd.read_csv("./analysis/csv/apriori_pairs.csv").shape[0]
+    
     with open("./analysis/csv/apriori_pairs.csv", "r") as f:
         reader = csv.reader(f)
 
         next(reader)
 
-        for row in tqdm(reader, total=584):
+        for row in tqdm(reader, total=rows):
             names = re.findall(r"'([^']*)'", row[2])
             support = float(row[1])
             frequency = int(row[4])
@@ -89,7 +92,6 @@ def upload_sequential_mentions():
     with open("./sources/facility_data/json/facility_module.json", "r") as f:
         facility_module = json.load(f)
     f.close()
-
     
     with open("./analysis/json/sequential_facility_mentions.json", "r") as f:
         sequential_data = json.load(f)
