@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 from datetime import datetime
 from tqdm import tqdm
 
-load_dotenv()
+load_dotenv(dotenv_path="secret.env")
 
 facility_uri = os.getenv("FACILITY_CONN")
 user = os.getenv("FACILITY_USER")
@@ -18,23 +18,23 @@ user = os.getenv("DATE_USER")
 date_password = os.getenv("DATE_SECRET")
 
 query = (
-    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, x: $f1_x, y: $f1_y }) "
-    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, x: $f2_x, y: $f2_y }) "
+    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, module: $f1_module }) "
+    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, module: $f2_module }) "
     "CREATE (p1)-[k:WEIGHT]->(p2), (p2)-[j:WEIGHT]->(p1) "
     "SET k.weight = $weight, j.weight = $weight "
     "RETURN p1, p2"
 )
 
 date_query = (
-    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, x: $f1_x, y: $f1_y }) "
-    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, x: $f2_x, y: $f2_y }) "
+    "MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, module: $f1_module }) "
+    "MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, module: $f2_module }) "
     "CREATE (p1)-[k:DATE { date: $date }]->(p2) "
     "SET k.weight = $weight "
     "RETURN p1, p2"
 )
 
 # All attributes in a facility node
-def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agency, facility2_agency, facility1_category, facility2_category, facility1_x, facility1_y, facility2_x, facility2_y):
+def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agency, facility2_agency, facility1_category, facility2_category, facility1_module, facility2_module):
     result = tx.run(query, {
         'f1_name': facility1_name,
         'f2_name': facility2_name,
@@ -43,15 +43,13 @@ def execute_write(tx, facility1_name, facility2_name, frequency, facility1_agenc
         'f2_agency': facility2_agency,
         'f1_category': facility1_category,
         'f2_category': facility2_category,
-        'f1_x': facility1_x,
-        'f1_y': facility1_y,
-        'f2_x': facility2_x,
-        'f2_y': facility2_y,
+        'f1_module': facility1_module,
+        'f2_module': facility2_module,
     })
     return result.single()
 
 # All attributes in a date facility node
-def execute_date_write(tx, facility1_name, facility2_name, frequency, date, facility1_agency, facility2_agency, facility1_category, facility2_category, facility1_x, facility1_y, facility2_x, facility2_y):
+def execute_date_write(tx, facility1_name, facility2_name, frequency, date, facility1_agency, facility2_agency, facility1_category, facility2_category, facility1_module, facility2_module):
     result = tx.run(date_query, {
         'f1_name': facility1_name,
         'f2_name': facility2_name,
@@ -61,10 +59,8 @@ def execute_date_write(tx, facility1_name, facility2_name, frequency, date, faci
         'f2_agency': facility2_agency,
         'f1_category': facility1_category,
         'f2_category': facility2_category,
-        'f1_x': facility1_x,
-        'f1_y': facility1_y,
-        'f2_x': facility2_x,
-        'f2_y': facility2_y,
+        'f1_module': facility1_module,
+        'f2_module': facility2_module,
     })
 
     return result.single()
@@ -79,8 +75,8 @@ def upload_facility_itemsets():
         facility_category = json.load(f)
     f.close()
 
-    with open("./sources/facility_data/json/facility_module_location.json", "r") as f:
-        facility_loc = json.load(f)
+    with open("./sources/facility_data/json/facility_module.json", "r") as f:
+        facility_module = json.load(f)
     f.close()
     
     with open("./analysis/csv/apriori_pairs.csv", "r") as f:
@@ -106,7 +102,9 @@ def upload_facility_itemsets():
                                                         facility_agency[names[0]],
                                                         facility_agency[names[1]],
                                                         facility_category[names[0]],
-                                                        facility_category[names[1]]
+                                                        facility_category[names[1]],
+                                                        facility_module.get(names[0], "Unknown"),
+                                                        facility_module.get(names[1], "Unknown")
                                                     )
                     session.close()
                 driver.close()
@@ -122,6 +120,11 @@ def upload_sequential_mentions():
     with open("./sources/facility_data/json/facility_category.json", "r") as f:
         facility_category = json.load(f)
     f.close()
+
+    with open("./sources/facility_data/json/facility_module.json", "r") as f:
+        facility_module = json.load(f)
+    f.close()
+
     
     with open("./analysis/json/sequential_facility_mentions.json", "r") as f:
         sequential_data = json.load(f)
@@ -151,7 +154,9 @@ def upload_sequential_mentions():
                                                 facility_agency[seq_list[i]],
                                                 facility_agency[seq_list[i+1]],
                                                 facility_category[seq_list[i]],
-                                                facility_category[seq_list[i+1]]
+                                                facility_category[seq_list[i+1]],
+                                                facility_module.get(seq_list[i], "Unknown"),
+                                                facility_module.get(seq_list[i+1], "Unknown")
                                             )
                     session.close()
                 driver.close()
@@ -170,7 +175,7 @@ def query(f1, f2, attr):
         "return PROPERTIES(r);"
     )
 
-    with GraphDatabase.driver(date_uri, auth=(user, date_password)) as driver:
+    with GraphDatabase.driver(facility_uri, auth=(user, facility_password)) as driver:
         records, _, _ = driver.execute_query(agency_query)
     driver.close()
 

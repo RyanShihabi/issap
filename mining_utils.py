@@ -410,6 +410,8 @@ def generate_facility_names(facility_report_file: str):
 		"Node 2": (8, 1),
 		"Node 3": (6, 4)
 	}
+
+	facility_module = {}
 	
 	# Reading the Facility Report generated from the NASA site
 	with open(facility_report_file, 'r') as f:
@@ -440,6 +442,9 @@ def generate_facility_names(facility_report_file: str):
 				else:
 					agency_facilities[agency_abbr].append(row[0])
 
+			if row[4] != '':
+				facility_module[row[0]] = row[4]
+
 	f.close()
 
 	id_abbr = dict((i, abbr) for i, abbr in enumerate(facility_abbr_name.keys()))
@@ -458,6 +463,7 @@ def generate_facility_names(facility_report_file: str):
 
 	export_data(facility_name_abbr, "./sources/facility_data/json/facility_name_abbr.json")
 	export_data(facility_abbr_name, "./sources/facility_data/json/facility_abbr_name.json")
+	export_data(facility_module, "./sources/facility_data/json/facility_module.json")
 	export_data(category_facilities, "./sources/facility_data/json/category_facilities.json")
 	export_data(facility_category, "./sources/facility_data/json/facility_category.json")
 	export_data(facility_agency, "./sources/facility_data/json/facility_agency.json")
