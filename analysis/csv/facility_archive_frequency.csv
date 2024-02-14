@@ -15,10 +15,10 @@ HRF-1,354
 Mass Measurement Device,305
 CBEF,283
 EXPRESS Rack,276
-SLAMMD,266
 FPEF,266
-BioLab,255
+SLAMMD,266
 EDR,255
+BioLab,255
 SPHERES,254
 FSL,250
 PFS,239
@@ -54,16 +54,16 @@ EuTEF,54
 TEPC,52
 Spectrum,51
 KOBAIRO Rack,43
-Ultrasound 2,42
 FRIDGE,42
-MAMS,40
+Ultrasound 2,42
 Polar,40
+MAMS,40
 MVIS,36
 ABRS,34
 ELC,28
 Aquatic Habitat,26
-GN2,25
 HRF-2,25
+GN2,25
 MSRR-1,24
 ARISS,21
 COLBERT,18
@@ -71,8 +71,8 @@ SCAN Testbed,18
 CBPD,17
 KFT,15
 iRED,14
-JEM-EF,13
 Actiwatch Spectrum,13
+JEM-EF,13
 Double Coldbag,12
 Confocal Microscope,11
 RAM,10
@@ -85,94 +85,91 @@ CCE,5
 FROST,4
 NanoRacks Platforms,4
 MVP,2
-GASMAP,1
-ICE Cubes,1
 Iceberg,1
+ICE Cubes,1
 BSTC,1
+GASMAP,1
 SlingShot,1
-DDVS,0
-PERSEO,0
-Veggie,0
+Bio-Analyzer,0
+BioChip SpaceLab,0
 Programmable Isolation Mount,0
-ARCTIC,0
-EFU Adapter2,0
-Wearable Monitoring,0
-Astro Garden,0
+BFF,0
+Bioculture System,0
 PFMI,0
+PERSEO,0
+Bioimpedance Analyzer,0
 PCG-STES,0
-Astrobee,0
-EFU Adapter,0
-Bartolomeo,0
+BIOKON,0
 NanoRacks-GoPro Fusion,0
 NanoRacks-extCygnus-NRCSD,0
-Wet Lab Kit,0
-Wet Lab RNA SmartCycler,0
 Nanoracks Nanode,0
 NanoRacks Microscopes,0
 NanoRacks Microsat Deployer,0
-Cryo Chiller,0
-Cyclops,0
 Rodent Research,0
-SUBSA,0
+EML,0
+Bartolomeo,0
+SABL,0
+Wet Lab RNA SmartCycler,0
+Wet Lab Kit,0
+Wearable Monitoring,0
+Veggie,0
+Acoustic Diagnostics,0
+ADF,0
+ADSEP,0
+ADSEP-2,0
 TELLAS,0
 TangoLab-2,0
-Acoustic Diagnostics,0
 TangoLab-1,0
 STaARS-1 EF,0
 SPySE,0
-ADF,0
-Cold Atom Lab,0
-SPACE DREAMS,0
-ADSEP,0
-Columbus-EPF,0
-SoFIE,0
-ADSEP-2,0
 AEM,0
-EDR-2,0
+APCF,0
+SPACE DREAMS,0
+SUBSA,0
+SoFIE,0
+ARCTIC,0
+Astro Garden,0
 NanoRacks CubeSat Deployer,0
 SALI,0
-AMF,0
-SABL,0
-APCF,0
+Astrobee,0
 NanoRacks External Platform,0
-Galley Refrigerator-Freezer,0
+Bone Densitometer,0
 NanoRacks Astrium Centrifuge,0
-BioServe Microscope,0
-Faraday Research,0
-KERMIT,0
 J-SSOD,0
-CBEF-L,0
-JAXA Mouse Habitat Unit,0
-FPC,0
 ISERV,0
-Carbon Dioxide Meter,0
-IPU2,0
 ABS,0
+Cold Atom Lab,0
 In Situ Chemiluminescent Reader,0
 HSRC,0
-Biotube,0
+Columbus-EPF,0
 HPA,0
-Bone Densitometer,0
-BRIC,0
+CRIM-M,0
 HGD-PFD,0
 Hermes,0
-Fruit Fly Lab,0
-BTR,0
+Cryo Chiller,0
 Glovebox Freezer,0
+Cyclops,0
 GCF,0
 GAP-FPA,0
+DDVS,0
+Fruit Fly Lab,0
+EDR-2,0
+FPC,0
+EFU Adapter,0
+Faraday Research,0
+EFU Adapter2,0
 EXHAM,0
-LIDAL,0
+JAXA Mouse Habitat Unit,0
+KERMIT,0
 Nanoracks Airlock,0
-LSG,0
-Bio-Analyzer,0
-ELF,0
-MUSES,0
 CellCult,0
+Bio-Monitor,0
+BioServe Centrifuge,0
+MUSES,0
 MSPR-2,0
-BioChip SpaceLab,0
-Bioculture System,0
-BFF,0
+BioServe Microscope,0
+Biotube,0
+ELF,0
 MQ-Warmchain,0
 Mochii,0
 Mobile SpaceLab,0
@@ -180,12 +177,13 @@ MOBIAS,0
 MISSE-FF,0
 MIS Fiber,0
 Mini Coldbag,0
-CRIM-M,0
-EML,0
-Bioimpedance Analyzer,0
-BIOKON,0
-Bio-Monitor,0
-Manufacturing Device,0
-LSR,0
-BioServe Centrifuge,0
 MicroPREP,0
+BRIC,0
+BTR,0
+Carbon Dioxide Meter,0
+CBEF-L,0
+AMF,0
+LSR,0
+LSG,0
+LIDAL,0
+IPU2,0

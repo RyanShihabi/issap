@@ -22,7 +22,13 @@ def calc_facility_proportions(df: pd.DataFrame):
     # Sort occurrences in descending order
     df_days_used = df_days_used.sort_values(ascending=False)
 
-    export_data(df_days_used, "./analysis/csv/facility_mention_proportion.csv")
+    export_data(df_days_used, "./analysis/csv/facility_mention_day_proportion.csv")
+
+    df_facility_prop = df.sum(numeric_only=True) / (df.sum(numeric_only=True).sum(numeric_only=True))
+
+    df_facility_prop = df_facility_prop.sort_values(ascending=False)
+
+    export_data(df_facility_prop, "./analysis/csv/facility_mention_total_proportion.csv")
 
     return df_days_used
 
