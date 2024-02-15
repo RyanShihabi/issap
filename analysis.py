@@ -1,11 +1,11 @@
 import pandas as pd
-from analysis_utils import (calc_facility_proportions,
+from utils.analysis_utils import (calc_facility_proportions,
                             calc_facility_freq_year,
                             calc_total_category_mentions,
                             calc_report_date_frequency
                         )
 
-from mining_utils import (generate_facility_names, export_data)
+from utils.mining_utils import (generate_facility_names, export_data)
 
 df = pd.read_csv("./analysis/csv/facility_mentions.csv").rename(columns={"Unnamed: 0": 'Report Date'}).sort_index()
 

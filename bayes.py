@@ -1,8 +1,8 @@
 import pandas as pd
 import json
 from tqdm import tqdm
-from bayes_utils import (calc_conditional_prob)
-from mining_utils import (export_data)
+from utils.bayes_utils import (calc_conditional_prob)
+from utils.mining_utils import (export_data)
 
 df = pd.read_csv("./sources/facility_data/csv/facility_mentions.csv")
 

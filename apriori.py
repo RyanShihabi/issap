@@ -1,8 +1,8 @@
 import json
 import pandas as pd
 from tqdm import tqdm
-from mining_utils import (export_data)
-from apriori_utils import (apriori_from_df,
+from utils.mining_utils import (export_data)
+from utils.apriori_utils import (apriori_from_df,
                            apriori_from_list)
 
 # df = pd.read_csv("./sources/facility_data/csv/facility_mentions.csv")

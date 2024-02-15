@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-from mining_utils import (collect_reports,
+from utils.mining_utils import (collect_reports,
                           send_internet_archive_request,
                           custom_search,
                           generate_facility_names,
@@ -11,7 +11,7 @@ from mining_utils import (collect_reports,
                           generate_kernel_apriori,
                           generate_custom_category,
                           export_data)
-from apriori_utils import apriori_from_list
+from utils.apriori_utils import apriori_from_list
 
 # Get the reports
 # collect_reports()

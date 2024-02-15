@@ -1,7 +1,7 @@
 import pandas as pd
 from mlxtend.frequent_patterns import apriori
 from mlxtend.preprocessing import TransactionEncoder
-from mining_utils import export_data
+from utils.mining_utils import export_data
 import json
 
 # Take out any pairs that have a certain facility in it

@@ -1,7 +1,7 @@
 import pandas as pd
-from comparison_utils import (compare_filters,
+from utils.comparison_utils import (compare_filters,
                               compare_mentions)
-from mining_utils import (grab_facility_mentions,
+from utils.mining_utils import (grab_facility_mentions,
                           generate_facility_names,
                           generate_kernel_apriori,
                           export_data)

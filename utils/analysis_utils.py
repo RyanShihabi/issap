@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from datetime import date
-from mining_utils import export_data
+from utils.mining_utils import export_data
 
 # Facility mentions over total days
 def calc_facility_proportions(df: pd.DataFrame):

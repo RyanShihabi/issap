@@ -1,7 +1,7 @@
 import os
 import pandas as pd
-from apriori_utils import apriori_from_df
-from mining_utils import export_data
+from utils.apriori_utils import apriori_from_df
+from utils.mining_utils import export_data
 
 def compare_mentions(mentions_df: pd.DataFrame, mentions_df2: pd.DataFrame) -> pd.Series: 
     df_diff = mentions_df - mentions_df2
