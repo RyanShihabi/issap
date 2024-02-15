@@ -2,6 +2,7 @@ import pandas as pd
 from mlxtend.frequent_patterns import apriori
 from mlxtend.preprocessing import TransactionEncoder
 from mining_utils import export_data
+import json
 
 # Take out any pairs that have a certain facility in it
 def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list = None, remove=True) -> pd.DataFrame:
@@ -41,7 +42,7 @@ def apriori_from_df(obj):
     return itemsets_pair
 
 # Run apriori calculations from a list
-def apriori_from_list(mention_list: list, file_name: str):
+def apriori_from_list(mention_list: list, file_name: str, pair_type: str, pair: list):
     te = TransactionEncoder()
     te_ary = te.fit(mention_list).transform(mention_list)
     df = pd.DataFrame(te_ary, columns=te.columns_)
@@ -55,6 +56,24 @@ def apriori_from_list(mention_list: list, file_name: str):
     itemsets_df["frequency"] = itemsets_df["support"].apply(lambda x: int(x * len(mention_list)))
 
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
+    
+    if len(pair) != 0:
+        drop_idx = []
+        with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
+            facility_data = json.load(f)
+        f.close()
+
+        for i, row in itemsets_pair.iterrows():
+            itemset = list(row[1])
+            # Get reference of category or agency
+            itemset_types = [facility_data[itemset[0]], facility_data[itemset[1]]]
+
+            if ((pair[0] in itemset_types) and (pair[1] in itemset_types)) == False:
+                drop_idx.append(i)
+
+        itemsets_pair = itemsets_pair.drop(drop_idx)
+
+    # print(itemsets_pair)
 
     export_data(itemsets_pair, f"./analysis/csv/apriori_pairs/{file_name}.csv")
-    print(itemsets_pair)
+    # print(itemsets_pair)

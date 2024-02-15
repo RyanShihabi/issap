@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+from tqdm import tqdm
 from mining_utils import (export_data)
 from apriori_utils import (apriori_from_df,
                            apriori_from_list)
@@ -30,7 +31,30 @@ f.close()
 
 print(len(paragraph_list))
 
-apriori_from_list(paragraph_list, "apriori_pairs")
+# pair = ["NASA", "ESA"]
+pair_type = "category"
+
+with open("./sources/facility_data/json/facility_category.json", "r") as f:
+    categories = list(set([value for value in json.load(f).values() if value != "None"]))
+f.close()
+
+for i in tqdm(range(len(categories))):
+    for j in range(i + 1, len(categories)):
+        category_pair = [categories[i], categories[j]]
+        apriori_from_list(paragraph_list, f"category/{'-'.join(category_pair)}", pair_type, category_pair)
+
+
+pair_type = "agency"
+
+with open("./sources/facility_data/json/facility_agency.json", "r") as f:
+    agencies = list(set(json.load(f).values()))
+f.close()
+
+for i in tqdm(range(len(agencies))):
+    for j in range(i + 1, len(agencies)):
+        agency_pair = [agencies[i], agencies[j]]
+        apriori_from_list(paragraph_list, f"agency/{'-'.join(agency_pair)}", pair_type, agency_pair)
+
 
 # with open("./analysis/json/NASA-JAXA_paragraph_mentions.json", "r") as f:
 #     paragraph_list = json.load(f)

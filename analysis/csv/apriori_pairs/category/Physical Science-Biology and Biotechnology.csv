@@ -1,51 +1,13 @@
 ,support,itemsets,length,frequency
-94,0.006437768240343348,"frozenset({'MSL', 'MSRR-1'})",2,18
-88,0.005722460658082976,"frozenset({'SCOF', 'FPEF'})",2,16
-75,0.00536480686695279,"frozenset({'SoFIE', 'CIR'})",2,15
-72,0.002861230329041488,"frozenset({'CIR', 'FIR'})",2,8
-51,0.002145922746781116,"frozenset({'Veggie', 'ABRS'})",2,6
-92,0.002145922746781116,"frozenset({'SABL', 'MERLIN'})",2,6
-54,0.002145922746781116,"frozenset({'CellCult', 'ADSEP'})",2,6
-69,0.002145922746781116,"frozenset({'CGBA', 'Plant Habitat'})",2,6
-61,0.002145922746781116,"frozenset({'KFT', 'CBEF'})",2,6
-95,0.00178826895565093,"frozenset({'SCOF', 'PCRF'})",2,5
-63,0.00178826895565093,"frozenset({'PCRF', 'CBEF'})",2,5
-87,0.00178826895565093,"frozenset({'PCRF', 'FPEF'})",2,5
-56,0.001430615164520744,"frozenset({'Aquatic Habitat', 'CBEF'})",2,4
-83,0.001430615164520744,"frozenset({'MERLIN', 'FIR'})",2,4
-52,0.001430615164520744,"frozenset({'BFF', 'ADSEP'})",2,4
-68,0.001430615164520744,"frozenset({'MERLIN', 'CGBA'})",2,4
-70,0.001072961373390558,"frozenset({'SABL', 'CGBA'})",2,3
-65,0.001072961373390558,"frozenset({'CIR', 'CGBA'})",2,3
-96,0.001072961373390558,"frozenset({'SABL', 'Plant Habitat'})",2,3
-64,0.000715307582260372,"frozenset({'SABL', 'CBEF'})",2,2
-62,0.000715307582260372,"frozenset({'MERLIN', 'CBEF'})",2,2
-55,0.000715307582260372,"frozenset({'ADSEP', 'SABL'})",2,2
-48,0.000715307582260372,"frozenset({'KFT', 'ABRS'})",2,2
-73,0.000715307582260372,"frozenset({'CIR', 'FPEF'})",2,2
-67,0.000715307582260372,"frozenset({'FSL', 'CGBA'})",2,2
-76,0.000715307582260372,"frozenset({'CellCult', 'SABL'})",2,2
-77,0.000715307582260372,"frozenset({'MDS', 'DECLIC'})",2,2
-91,0.000715307582260372,"frozenset({'KFT', 'Veggie'})",2,2
-66,0.000357653791130186,"frozenset({'CGBA', 'FIR'})",2,1
-90,0.000357653791130186,"frozenset({'Rodent Research', 'Fruit Fly Lab'})",2,1
-57,0.000357653791130186,"frozenset({'ELF', 'BFF'})",2,1
-89,0.000357653791130186,"frozenset({'FSL', 'MERLIN'})",2,1
-53,0.000357653791130186,"frozenset({'ADSEP', 'Bioculture System'})",2,1
-85,0.000357653791130186,"frozenset({'Veggie', 'FIR'})",2,1
-93,0.000357653791130186,"frozenset({'STaARS-1 EF', 'MERLIN'})",2,1
-50,0.000357653791130186,"frozenset({'MERLIN', 'ABRS'})",2,1
-49,0.000357653791130186,"frozenset({'MDS', 'ABRS'})",2,1
-86,0.000357653791130186,"frozenset({'FSL', 'FPEF'})",2,1
-81,0.000357653791130186,"frozenset({'FIR', 'FPEF'})",2,1
-84,0.000357653791130186,"frozenset({'SCOF', 'FIR'})",2,1
-58,0.000357653791130186,"frozenset({'BFF', 'MERLIN'})",2,1
-82,0.000357653791130186,"frozenset({'FSL', 'FIR'})",2,1
-80,0.000357653791130186,"frozenset({'Veggie', 'EMCS'})",2,1
-79,0.000357653791130186,"frozenset({'ELF', 'EML'})",2,1
-78,0.000357653791130186,"frozenset({'DECLIC', 'MSL'})",2,1
-59,0.000357653791130186,"frozenset({'CGBA', 'Biotube'})",2,1
-74,0.000357653791130186,"frozenset({'MERLIN', 'CIR'})",2,1
-71,0.000357653791130186,"frozenset({'Cold Atom Lab', 'CIR'})",2,1
-60,0.000357653791130186,"frozenset({'Rodent Research', 'Bone Densitometer'})",2,1
-47,0.000357653791130186,"frozenset({'CGBA', 'ABRS'})",2,1
+484,0.0014215904042647713,"frozenset({'FPEF', 'SCOF'})",2,16
+482,0.000444247001332741,"frozenset({'FPEF', 'PCRF'})",2,5
+470,0.00035539760106619283,"frozenset({'FIR', 'MERLIN'})",2,4
+314,0.0002665482007996446,"frozenset({'CIR', 'CGBA'})",2,3
+320,0.00017769880053309641,"frozenset({'FSL', 'CGBA'})",2,2
+363,0.00017769880053309641,"frozenset({'DECLIC', 'MDS'})",2,2
+319,8.884940026654821e-05,"frozenset({'FIR', 'CGBA'})",2,1
+236,8.884940026654821e-05,"frozenset({'BFF', 'ELF'})",2,1
+477,8.884940026654821e-05,"frozenset({'Veggie', 'FIR'})",2,1
+474,8.884940026654821e-05,"frozenset({'FIR', 'SCOF'})",2,1
+491,8.884940026654821e-05,"frozenset({'FSL', 'MERLIN'})",2,1
+344,8.884940026654821e-05,"frozenset({'CIR', 'MERLIN'})",2,1
