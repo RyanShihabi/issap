@@ -31,30 +31,16 @@ f.close()
 
 print(len(paragraph_list))
 
-# pair = ["NASA", "ESA"]
-pair_type = "category"
+pair_type = "module"
 
-with open("./sources/facility_data/json/facility_category.json", "r") as f:
-    categories = list(set([value for value in json.load(f).values() if value != "None"]))
+with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
+    data = list(set(json.load(f).values()))
 f.close()
 
-for i in tqdm(range(len(categories))):
-    for j in range(i + 1, len(categories)):
-        category_pair = [categories[i], categories[j]]
-        apriori_from_list(paragraph_list, f"category/{'-'.join(category_pair)}", pair_type, category_pair)
-
-
-pair_type = "agency"
-
-with open("./sources/facility_data/json/facility_agency.json", "r") as f:
-    agencies = list(set(json.load(f).values()))
-f.close()
-
-for i in tqdm(range(len(agencies))):
-    for j in range(i + 1, len(agencies)):
-        agency_pair = [agencies[i], agencies[j]]
-        apriori_from_list(paragraph_list, f"agency/{'-'.join(agency_pair)}", pair_type, agency_pair)
-
+for i in tqdm(range(len(data))):
+    for j in range(i + 1, len(data)):
+        pair = [data[i], data[j]]
+        apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
 # with open("./analysis/json/NASA-JAXA_paragraph_mentions.json", "r") as f:
 #     paragraph_list = json.load(f)

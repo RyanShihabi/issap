@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+648,0.00017769880053309641,"frozenset({'SPHERES', 'MWA'})",2,2
+508,0.00017769880053309641,"frozenset({'GLACIER', 'MWA'})",2,2
+567,8.884940026654821e-05,"frozenset({'KFT', 'MWA'})",2,1
+445,8.884940026654821e-05,"frozenset({'MWA', 'EXPRESS Rack'})",2,1

@@ -66,6 +66,10 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str, pair: 
         for i, row in itemsets_pair.iterrows():
             itemset = list(row[1])
             # Get reference of category or agency
+            if ((itemset[0] in facility_data.keys()) and (itemset[1] in facility_data.keys())) == False:
+                drop_idx.append(i)
+                continue
+
             itemset_types = [facility_data[itemset[0]], facility_data[itemset[1]]]
 
             if ((pair[0] in itemset_types) and (pair[1] in itemset_types)) == False:

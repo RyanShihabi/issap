@@ -1,0 +1,36 @@
+,support,itemsets,length,frequency
+595,0.00639715681919147,"frozenset({'MELFI', 'PCBA'})",2,72
+505,0.004087072412261217,"frozenset({'GLACIER', 'MELFI'})",2,46
+361,0.002132385606397157,"frozenset({'DECLIC', 'EXPRESS Rack'})",2,24
+588,0.0020435362061306086,"frozenset({'MERLIN', 'MELFI'})",2,23
+438,0.0015104398045313193,"frozenset({'MELFI', 'EXPRESS Rack'})",2,17
+450,0.0014215904042647713,"frozenset({'Plant Habitat', 'EXPRESS Rack'})",2,16
+565,0.000888494002665482,"frozenset({'KFT', 'MELFI'})",2,10
+599,0.0007107952021323857,"frozenset({'Polar', 'MELFI'})",2,8
+274,0.0005330964015992892,"frozenset({'KFT', 'CBEF'})",2,6
+369,0.00035539760106619283,"frozenset({'Double Coldbag', 'MELFI'})",2,4
+152,0.00035539760106619283,"frozenset({'ABRS', 'EXPRESS Rack'})",2,4
+271,0.0002665482007996446,"frozenset({'GLACIER', 'CBEF'})",2,3
+566,0.00017769880053309641,"frozenset({'KFT', 'MSPR'})",2,2
+153,0.00017769880053309641,"frozenset({'GLACIER', 'ABRS'})",2,2
+154,0.00017769880053309641,"frozenset({'KFT', 'ABRS'})",2,2
+513,0.00017769880053309641,"frozenset({'GLACIER', 'Saibo'})",2,2
+485,0.00017769880053309641,"frozenset({'GLACIER', 'FROST'})",2,2
+276,0.00017769880053309641,"frozenset({'MERLIN', 'CBEF'})",2,2
+597,0.00017769880053309641,"frozenset({'PGB', 'MELFI'})",2,2
+600,8.884940026654821e-05,"frozenset({'Portable Pulmonary Function System', 'MELFI'})",2,1
+607,8.884940026654821e-05,"frozenset({'TEPC', 'MELFI'})",2,1
+555,8.884940026654821e-05,"frozenset({'MELFI', 'Iceberg'})",2,1
+658,8.884940026654821e-05,"frozenset({'NanoRacks External Platform', 'NanoRacks Plate Reader'})",2,1
+264,8.884940026654821e-05,"frozenset({'MERLIN', 'CB'})",2,1
+261,8.884940026654821e-05,"frozenset({'CB', 'EXPRESS Rack'})",2,1
+269,8.884940026654821e-05,"frozenset({'Double Coldbag', 'CBEF'})",2,1
+235,8.884940026654821e-05,"frozenset({'SPHERES', 'Astrobee'})",2,1
+280,8.884940026654821e-05,"frozenset({'Polar', 'CBEF'})",2,1
+167,8.884940026654821e-05,"frozenset({'Bioculture System', 'ADSEP'})",2,1
+158,8.884940026654821e-05,"frozenset({'ABRS', 'MERLIN'})",2,1
+488,8.884940026654821e-05,"frozenset({'FROST', 'MERLIN'})",2,1
+442,8.884940026654821e-05,"frozenset({'MSPR', 'EXPRESS Rack'})",2,1
+372,8.884940026654821e-05,"frozenset({'Double Coldbag', 'Saibo'})",2,1
+362,8.884940026654821e-05,"frozenset({'GLACIER', 'DECLIC'})",2,1
+428,8.884940026654821e-05,"frozenset({'FPEF', 'EXPRESS Rack'})",2,1
