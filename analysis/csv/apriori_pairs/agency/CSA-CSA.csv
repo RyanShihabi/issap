@@ -1,4 +1,6 @@
 ,support,itemsets,length,frequency
+493,0.0006219458018658375,"frozenset({'FSL', 'MVIS'})",2,7
 247,0.00017769880053309641,"frozenset({'CEVIS', 'Bio-Monitor'})",2,2
 620,8.884940026654821e-05,"frozenset({'MSG', 'MVIS'})",2,1
 246,8.884940026654821e-05,"frozenset({'Bio-Analyzer', 'EXPRESS Rack'})",2,1
+245,8.884940026654821e-05,"frozenset({'Bio-Analyzer', 'Bio-Monitor'})",2,1

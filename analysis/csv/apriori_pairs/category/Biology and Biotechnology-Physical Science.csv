@@ -1,0 +1,13 @@
+,support,itemsets,length,frequency
+484,0.0014215904042647713,"frozenset({'FPEF', 'SCOF'})",2,16
+482,0.000444247001332741,"frozenset({'PCRF', 'FPEF'})",2,5
+470,0.00035539760106619283,"frozenset({'FIR', 'MERLIN'})",2,4
+314,0.0002665482007996446,"frozenset({'CGBA', 'CIR'})",2,3
+320,0.00017769880053309641,"frozenset({'CGBA', 'FSL'})",2,2
+363,0.00017769880053309641,"frozenset({'MDS', 'DECLIC'})",2,2
+319,8.884940026654821e-05,"frozenset({'CGBA', 'FIR'})",2,1
+236,8.884940026654821e-05,"frozenset({'BFF', 'ELF'})",2,1
+477,8.884940026654821e-05,"frozenset({'FIR', 'Veggie'})",2,1
+474,8.884940026654821e-05,"frozenset({'SCOF', 'FIR'})",2,1
+491,8.884940026654821e-05,"frozenset({'FSL', 'MERLIN'})",2,1
+344,8.884940026654821e-05,"frozenset({'MERLIN', 'CIR'})",2,1

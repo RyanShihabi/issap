@@ -7,26 +7,38 @@
 293,0.001776988005330964,"frozenset({'CEVIS', 'EPM'})",2,20
 634,0.0015992892047978675,"frozenset({'MSRR-1', 'MSL'})",2,18
 407,0.001243891603731675,"frozenset({'MELFI', 'EMCS'})",2,14
+373,0.0010661928031985785,"frozenset({'EML', 'EDR'})",2,12
 408,0.0010661928031985785,"frozenset({'MWA', 'EMCS'})",2,12
+417,0.000888494002665482,"frozenset({'MARES', 'EPM'})",2,10
+374,0.000888494002665482,"frozenset({'EPM', 'EDR'})",2,10
 404,0.0007996446023989338,"frozenset({'EMCS', 'EXPRESS Rack'})",2,9
 286,0.0007996446023989338,"frozenset({'EPM', 'CBPD'})",2,9
 425,0.0007107952021323857,"frozenset({'EPM', 'Ultrasound'})",2,8
+493,0.0006219458018658375,"frozenset({'FSL', 'MVIS'})",2,7
 415,0.0005330964015992892,"frozenset({'EPM', 'HRF-2'})",2,6
 385,0.000444247001332741,"frozenset({'ELC', 'EMCS'})",2,5
 586,0.000444247001332741,"frozenset({'MDS', 'PGB'})",2,5
 570,0.000444247001332741,"frozenset({'MELFI', 'Kubik'})",2,5
 301,0.00035539760106619283,"frozenset({'CEVIS', 'MSL'})",2,4
+375,0.00035539760106619283,"frozenset({'ETC', 'EDR'})",2,4
+379,0.00035539760106619283,"frozenset({'Kubik', 'EDR'})",2,4
 539,0.00035539760106619283,"frozenset({'Holter', 'Portable Pulmonary Function System'})",2,4
 452,0.00035539760106619283,"frozenset({'EXPRESS Rack', 'Portable Pulmonary Function System'})",2,4
+412,0.00035539760106619283,"frozenset({'ETC', 'EPM'})",2,4
 419,0.00035539760106619283,"frozenset({'EPM', 'PCBA'})",2,4
 422,0.0002665482007996446,"frozenset({'EPM', 'RC'})",2,3
 418,0.0002665482007996446,"frozenset({'MELFI', 'EPM'})",2,3
+413,0.0002665482007996446,"frozenset({'EPM', 'FSL'})",2,3
 584,0.0002665482007996446,"frozenset({'MARES', 'WORF'})",2,3
+377,0.0002665482007996446,"frozenset({'FSL', 'EDR'})",2,3
 675,0.0002665482007996446,"frozenset({'Portable Pulmonary Function System', 'Ultrasound'})",2,3
+248,0.0002665482007996446,"frozenset({'BioLab', 'EMCS'})",2,3
 249,0.00017769880053309641,"frozenset({'MELFI', 'BioLab'})",2,2
 429,0.00017769880053309641,"frozenset({'EXPRESS Rack', 'FSL'})",2,2
+421,0.00017769880053309641,"frozenset({'EPM', 'Portable Pulmonary Function System'})",2,2
 441,0.00017769880053309641,"frozenset({'MSL', 'EXPRESS Rack'})",2,2
 423,0.00017769880053309641,"frozenset({'EPM', 'Spectrum'})",2,2
+426,0.00017769880053309641,"frozenset({'ETC', 'FSL'})",2,2
 194,0.00017769880053309641,"frozenset({'EPM', 'ARED'})",2,2
 492,0.00017769880053309641,"frozenset({'MSG', 'FSL'})",2,2
 320,0.00017769880053309641,"frozenset({'FSL', 'CGBA'})",2,2
@@ -72,6 +84,7 @@
 197,8.884940026654821e-05,"frozenset({'ARED', 'FSL'})",2,1
 322,8.884940026654821e-05,"frozenset({'Kubik', 'CGBA'})",2,1
 466,8.884940026654821e-05,"frozenset({'FSL', 'FIR'})",2,1
+478,8.884940026654821e-05,"frozenset({'FSL', 'FPEF'})",2,1
 436,8.884940026654821e-05,"frozenset({'MARES', 'EXPRESS Rack'})",2,1
 511,8.884940026654821e-05,"frozenset({'Portable Pulmonary Function System', 'GLACIER'})",2,1
 497,8.884940026654821e-05,"frozenset({'WORF', 'FSL'})",2,1
@@ -87,7 +100,9 @@
 381,8.884940026654821e-05,"frozenset({'MSG', 'EDR'})",2,1
 424,8.884940026654821e-05,"frozenset({'TVIS', 'EPM'})",2,1
 414,8.884940026654821e-05,"frozenset({'GN2', 'EPM'})",2,1
+411,8.884940026654821e-05,"frozenset({'EML', 'EPM'})",2,1
 410,8.884940026654821e-05,"frozenset({'Veggie', 'EMCS'})",2,1
 409,8.884940026654821e-05,"frozenset({'SAMS-II', 'EMCS'})",2,1
 405,8.884940026654821e-05,"frozenset({'EMCS', 'GLACIER'})",2,1
+398,8.884940026654821e-05,"frozenset({'ELF', 'EML'})",2,1
 383,8.884940026654821e-05,"frozenset({'TEPC', 'EDR'})",2,1

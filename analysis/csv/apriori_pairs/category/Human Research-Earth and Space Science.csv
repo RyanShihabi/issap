@@ -1,14 +1,14 @@
 ,support,itemsets,length,frequency
 313,0.0007996446023989338,"frozenset({'WORF', 'CEVIS'})",2,9
-212,0.00035539760106619283,"frozenset({'WORF', 'ARED'})",2,4
+212,0.00035539760106619283,"frozenset({'ARED', 'WORF'})",2,4
 584,0.0002665482007996446,"frozenset({'WORF', 'MARES'})",2,3
-688,0.00017769880053309641,"frozenset({'WORF', 'TVIS'})",2,2
+688,0.00017769880053309641,"frozenset({'TVIS', 'WORF'})",2,2
 670,0.00017769880053309641,"frozenset({'WORF', 'PFS'})",2,2
 384,0.00017769880053309641,"frozenset({'ELITE-S2', 'ELC'})",2,2
-545,8.884940026654821e-05,"frozenset({'WORF', 'Holter'})",2,1
-676,8.884940026654821e-05,"frozenset({'WORF', 'Portable Pulmonary Function System'})",2,1
+545,8.884940026654821e-05,"frozenset({'Holter', 'WORF'})",2,1
+676,8.884940026654821e-05,"frozenset({'Portable Pulmonary Function System', 'WORF'})",2,1
 685,8.884940026654821e-05,"frozenset({'Solar', 'TEPC'})",2,1
-684,8.884940026654821e-05,"frozenset({'WORF', 'SLAMMD'})",2,1
-187,8.884940026654821e-05,"frozenset({'WORF', 'ALTEA'})",2,1
+684,8.884940026654821e-05,"frozenset({'SLAMMD', 'WORF'})",2,1
+187,8.884940026654821e-05,"frozenset({'ALTEA', 'WORF'})",2,1
 229,8.884940026654821e-05,"frozenset({'WORF', 'Actiwatch'})",2,1
-690,8.884940026654821e-05,"frozenset({'WORF', 'Ultrasound'})",2,1
+690,8.884940026654821e-05,"frozenset({'Ultrasound', 'WORF'})",2,1

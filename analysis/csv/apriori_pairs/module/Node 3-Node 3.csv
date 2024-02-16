@@ -1,0 +1,46 @@
+,support,itemsets,length,frequency
+210,0.10404264771212794,"frozenset({'ARED', 'TVIS'})",2,1171
+191,0.0844069302532208,"frozenset({'ARED', 'CEVIS'})",2,950
+311,0.07712127943136383,"frozenset({'CEVIS', 'TVIS'})",2,868
+687,0.017681030653043092,"frozenset({'Ultrasound', 'TVIS'})",2,199
+211,0.017414482452243446,"frozenset({'ARED', 'Ultrasound'})",2,195
+212,0.00035539760106619283,"frozenset({'ARED', 'WORF'})",2,4
+459,0.0002665482007996446,"frozenset({'EXPRESS Rack', 'TVIS'})",2,3
+203,0.0002665482007996446,"frozenset({'ARED', 'MERLIN'})",2,3
+202,0.0002665482007996446,"frozenset({'ARED', 'MELFI'})",2,3
+195,0.0002665482007996446,"frozenset({'ARED', 'EXPRESS Rack'})",2,3
+213,0.0002665482007996446,"frozenset({'ARED', 'iRED'})",2,3
+194,0.00017769880053309641,"frozenset({'ARED', 'EPM'})",2,2
+207,0.00017769880053309641,"frozenset({'ARED', 'PFS'})",2,2
+206,0.00017769880053309641,"frozenset({'PCBA', 'ARED'})",2,2
+688,0.00017769880053309641,"frozenset({'WORF', 'TVIS'})",2,2
+543,0.00017769880053309641,"frozenset({'Holter', 'TVIS'})",2,2
+189,0.00017769880053309641,"frozenset({'Actiwatch', 'ARED'})",2,2
+192,0.00017769880053309641,"frozenset({'ARED', 'CGBA'})",2,2
+193,0.00017769880053309641,"frozenset({'ARED', 'CIR'})",2,2
+200,0.00017769880053309641,"frozenset({'ARED', 'Holter'})",2,2
+204,0.00017769880053309641,"frozenset({'ARED', 'MSG'})",2,2
+674,8.884940026654821e-05,"frozenset({'Portable Pulmonary Function System', 'TVIS'})",2,1
+668,8.884940026654821e-05,"frozenset({'PFS', 'TVIS'})",2,1
+682,8.884940026654821e-05,"frozenset({'SLAMMD', 'TVIS'})",2,1
+654,8.884940026654821e-05,"frozenset({'Mass Measurement Device', 'TVIS'})",2,1
+632,8.884940026654821e-05,"frozenset({'MSG', 'TVIS'})",2,1
+638,8.884940026654821e-05,"frozenset({'MSL', 'TVIS'})",2,1
+267,8.884940026654821e-05,"frozenset({'UMS', 'CB'})",2,1
+266,8.884940026654821e-05,"frozenset({'CB', 'TVIS'})",2,1
+283,8.884940026654821e-05,"frozenset({'CBEF', 'TVIS'})",2,1
+163,8.884940026654821e-05,"frozenset({'ABRS', 'TVIS'})",2,1
+227,8.884940026654821e-05,"frozenset({'Actiwatch', 'TVIS'})",2,1
+209,8.884940026654821e-05,"frozenset({'TEPC', 'ARED'})",2,1
+208,8.884940026654821e-05,"frozenset({'Portable Pulmonary Function System', 'ARED'})",2,1
+205,8.884940026654821e-05,"frozenset({'ARED', 'MWA'})",2,1
+201,8.884940026654821e-05,"frozenset({'ARED', 'IPU'})",2,1
+199,8.884940026654821e-05,"frozenset({'ARED', 'HRF-2'})",2,1
+198,8.884940026654821e-05,"frozenset({'ARED', 'GHF'})",2,1
+197,8.884940026654821e-05,"frozenset({'ARED', 'FSL'})",2,1
+196,8.884940026654821e-05,"frozenset({'FIR', 'ARED'})",2,1
+190,8.884940026654821e-05,"frozenset({'ARED', 'CB'})",2,1
+334,8.884940026654821e-05,"frozenset({'CGBA', 'TVIS'})",2,1
+366,8.884940026654821e-05,"frozenset({'DECLIC', 'TVIS'})",2,1
+351,8.884940026654821e-05,"frozenset({'CIR', 'TVIS'})",2,1
+424,8.884940026654821e-05,"frozenset({'EPM', 'TVIS'})",2,1

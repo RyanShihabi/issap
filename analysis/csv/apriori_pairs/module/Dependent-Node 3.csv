@@ -1,8 +1,0 @@
-,support,itemsets,length,frequency
-459,0.0002665482007996446,"frozenset({'TVIS', 'EXPRESS Rack'})",2,3
-203,0.0002665482007996446,"frozenset({'ARED', 'MERLIN'})",2,3
-195,0.0002665482007996446,"frozenset({'ARED', 'EXPRESS Rack'})",2,3
-206,0.00017769880053309641,"frozenset({'ARED', 'PCBA'})",2,2
-674,8.884940026654821e-05,"frozenset({'TVIS', 'Portable Pulmonary Function System'})",2,1
-209,8.884940026654821e-05,"frozenset({'TEPC', 'ARED'})",2,1
-208,8.884940026654821e-05,"frozenset({'Portable Pulmonary Function System', 'ARED'})",2,1

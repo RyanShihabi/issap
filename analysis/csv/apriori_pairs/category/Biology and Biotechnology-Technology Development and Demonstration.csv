@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-617,8.884940026654821e-05,"frozenset({'MERLIN', 'SPHERES'})",2,1
+617,8.884940026654821e-05,"frozenset({'SPHERES', 'MERLIN'})",2,1
 165,8.884940026654821e-05,"frozenset({'ABS', 'AMF'})",2,1

@@ -1,7 +1,7 @@
 ,support,itemsets,length,frequency
-290,0.0009773434029320303,"frozenset({'CEVIS', 'CGBA'})",2,11
+290,0.0009773434029320303,"frozenset({'CGBA', 'CEVIS'})",2,11
 203,0.0002665482007996446,"frozenset({'ARED', 'MERLIN'})",2,3
-332,0.0002665482007996446,"frozenset({'CGBA', 'SLAMMD'})",2,3
+332,0.0002665482007996446,"frozenset({'SLAMMD', 'CGBA'})",2,3
 192,0.00017769880053309641,"frozenset({'ARED', 'CGBA'})",2,2
 321,0.00017769880053309641,"frozenset({'Holter', 'CGBA'})",2,2
 612,0.00017769880053309641,"frozenset({'PCBA', 'MERLIN'})",2,2
@@ -23,4 +23,4 @@
 163,8.884940026654821e-05,"frozenset({'TVIS', 'ABRS'})",2,1
 162,8.884940026654821e-05,"frozenset({'SLAMMD', 'ABRS'})",2,1
 334,8.884940026654821e-05,"frozenset({'TVIS', 'CGBA'})",2,1
-335,8.884940026654821e-05,"frozenset({'CGBA', 'Ultrasound'})",2,1
+335,8.884940026654821e-05,"frozenset({'Ultrasound', 'CGBA'})",2,1

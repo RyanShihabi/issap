@@ -1,12 +1,12 @@
 ,support,itemsets,length,frequency
-386,0.0018658374055975121,"frozenset({'ELC', 'EXPRESS Rack'})",2,21
+386,0.0018658374055975121,"frozenset({'EXPRESS Rack', 'ELC'})",2,21
 464,0.0005330964015992892,"frozenset({'WORF', 'EXPRESS Rack'})",2,6
-388,0.000444247001332741,"frozenset({'ELC', 'GLACIER'})",2,5
-560,0.00017769880053309641,"frozenset({'NanoRacks External Platform', 'JEM-EF'})",2,2
+388,0.000444247001332741,"frozenset({'GLACIER', 'ELC'})",2,5
+560,0.00017769880053309641,"frozenset({'JEM-EF', 'NanoRacks External Platform'})",2,2
 649,8.884940026654821e-05,"frozenset({'Solar', 'MWA'})",2,1
-633,8.884940026654821e-05,"frozenset({'WORF', 'MSG'})",2,1
+633,8.884940026654821e-05,"frozenset({'MSG', 'WORF'})",2,1
 553,8.884940026654821e-05,"frozenset({'WORF', 'IPU'})",2,1
 656,8.884940026654821e-05,"frozenset({'WORF', 'Mass Measurement Device'})",2,1
-606,8.884940026654821e-05,"frozenset({'MELFI', 'Solar'})",2,1
-392,8.884940026654821e-05,"frozenset({'ELC', 'MSG'})",2,1
-390,8.884940026654821e-05,"frozenset({'MELFI', 'ELC'})",2,1
+606,8.884940026654821e-05,"frozenset({'Solar', 'MELFI'})",2,1
+392,8.884940026654821e-05,"frozenset({'MSG', 'ELC'})",2,1
+390,8.884940026654821e-05,"frozenset({'ELC', 'MELFI'})",2,1

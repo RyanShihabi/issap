@@ -1,10 +1,10 @@
 ,support,itemsets,length,frequency
 202,0.0002665482007996446,"frozenset({'ARED', 'MELFI'})",2,3
 267,8.884940026654821e-05,"frozenset({'UMS', 'CB'})",2,1
-266,8.884940026654821e-05,"frozenset({'TVIS', 'CB'})",2,1
-283,8.884940026654821e-05,"frozenset({'TVIS', 'CBEF'})",2,1
-163,8.884940026654821e-05,"frozenset({'TVIS', 'ABRS'})",2,1
-201,8.884940026654821e-05,"frozenset({'IPU', 'ARED'})",2,1
+266,8.884940026654821e-05,"frozenset({'CB', 'TVIS'})",2,1
+283,8.884940026654821e-05,"frozenset({'CBEF', 'TVIS'})",2,1
+163,8.884940026654821e-05,"frozenset({'ABRS', 'TVIS'})",2,1
+201,8.884940026654821e-05,"frozenset({'ARED', 'IPU'})",2,1
 198,8.884940026654821e-05,"frozenset({'ARED', 'GHF'})",2,1
 190,8.884940026654821e-05,"frozenset({'ARED', 'CB'})",2,1
-366,8.884940026654821e-05,"frozenset({'TVIS', 'DECLIC'})",2,1
+366,8.884940026654821e-05,"frozenset({'DECLIC', 'TVIS'})",2,1
