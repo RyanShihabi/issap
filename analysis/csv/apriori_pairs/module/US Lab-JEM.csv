@@ -1,48 +1,48 @@
 ,support,itemsets,length,frequency
-601,0.021412705464238117,"frozenset({'RC', 'MELFI'})",2,241
-594,0.005686361617059085,"frozenset({'Mass Measurement Device', 'MELFI'})",2,64
-604,0.005508662816525988,"frozenset({'SLAMMD', 'MELFI'})",2,62
-572,0.0009773434029320303,"frozenset({'LMM', 'MELFI'})",2,11
-534,0.000888494002665482,"frozenset({'Holter', 'MELFI'})",2,10
-589,0.000888494002665482,"frozenset({'MSG', 'MELFI'})",2,10
-596,0.0007996446023989338,"frozenset({'PFS', 'MELFI'})",2,9
-603,0.0007996446023989338,"frozenset({'SABL', 'MELFI'})",2,9
-469,0.0007107952021323857,"frozenset({'FIR', 'MELFI'})",2,8
-241,0.0006219458018658375,"frozenset({'BRIC', 'MELFI'})",2,7
+601,0.021412705464238117,"frozenset({'MELFI', 'RC'})",2,241
+594,0.005686361617059085,"frozenset({'MELFI', 'Mass Measurement Device'})",2,64
+604,0.005508662816525988,"frozenset({'MELFI', 'SLAMMD'})",2,62
+572,0.0009773434029320303,"frozenset({'MELFI', 'LMM'})",2,11
+534,0.000888494002665482,"frozenset({'MELFI', 'Holter'})",2,10
+589,0.000888494002665482,"frozenset({'MELFI', 'MSG'})",2,10
+596,0.0007996446023989338,"frozenset({'MELFI', 'PFS'})",2,9
+603,0.0007996446023989338,"frozenset({'MELFI', 'SABL'})",2,9
+469,0.0007107952021323857,"frozenset({'MELFI', 'FIR'})",2,8
+241,0.0006219458018658375,"frozenset({'MELFI', 'BRIC'})",2,7
 329,0.0005330964015992892,"frozenset({'Plant Habitat', 'CGBA'})",2,6
-516,0.00035539760106619283,"frozenset({'MSPR', 'GN2'})",2,4
+516,0.00035539760106619283,"frozenset({'GN2', 'MSPR'})",2,4
 546,0.0002665482007996446,"frozenset({'IPU', 'MSG'})",2,3
-592,0.0002665482007996446,"frozenset({'MVP', 'MELFI'})",2,3
-277,0.0002665482007996446,"frozenset({'CBEF', 'MSG'})",2,3
+592,0.0002665482007996446,"frozenset({'MELFI', 'MVP'})",2,3
+277,0.0002665482007996446,"frozenset({'MSG', 'CBEF'})",2,3
 671,0.0002665482007996446,"frozenset({'Plant Habitat', 'SABL'})",2,3
-155,0.0002665482007996446,"frozenset({'ABRS', 'LMM'})",2,3
-608,0.0002665482007996446,"frozenset({'Ultrasound', 'MELFI'})",2,3
+155,0.0002665482007996446,"frozenset({'LMM', 'ABRS'})",2,3
+608,0.0002665482007996446,"frozenset({'MELFI', 'Ultrasound'})",2,3
 533,0.00017769880053309641,"frozenset({'IPU', 'Holter'})",2,2
-170,0.00017769880053309641,"frozenset({'SABL', 'ADSEP'})",2,2
+170,0.00017769880053309641,"frozenset({'ADSEP', 'SABL'})",2,2
 490,0.00017769880053309641,"frozenset({'FROST', 'SABL'})",2,2
 354,0.00017769880053309641,"frozenset({'CellCult', 'MSG'})",2,2
-357,0.00017769880053309641,"frozenset({'SABL', 'Confocal Microscope'})",2,2
+357,0.00017769880053309641,"frozenset({'Confocal Microscope', 'SABL'})",2,2
 281,0.00017769880053309641,"frozenset({'CBEF', 'SABL'})",2,2
-355,0.00017769880053309641,"frozenset({'SABL', 'CellCult'})",2,2
-399,0.00017769880053309641,"frozenset({'ELF', 'GN2'})",2,2
-323,0.00017769880053309641,"frozenset({'CGBA', 'MELFI'})",2,2
-341,0.00017769880053309641,"frozenset({'CIR', 'FPEF'})",2,2
+355,0.00017769880053309641,"frozenset({'CellCult', 'SABL'})",2,2
+399,0.00017769880053309641,"frozenset({'GN2', 'ELF'})",2,2
+323,0.00017769880053309641,"frozenset({'MELFI', 'CGBA'})",2,2
+341,0.00017769880053309641,"frozenset({'FPEF', 'CIR'})",2,2
 672,8.884940026654821e-05,"frozenset({'Plant Habitat', 'WORF'})",2,1
-591,8.884940026654821e-05,"frozenset({'MSRR-1', 'MELFI'})",2,1
+591,8.884940026654821e-05,"frozenset({'MELFI', 'MSRR-1'})",2,1
 641,8.884940026654821e-05,"frozenset({'MSPR', 'SABL'})",2,1
-553,8.884940026654821e-05,"frozenset({'WORF', 'IPU'})",2,1
-624,8.884940026654821e-05,"frozenset({'PCRF', 'MSG'})",2,1
-150,8.884940026654821e-05,"frozenset({'ABRS', 'CGBA'})",2,1
+553,8.884940026654821e-05,"frozenset({'IPU', 'WORF'})",2,1
+624,8.884940026654821e-05,"frozenset({'MSG', 'PCRF'})",2,1
+150,8.884940026654821e-05,"frozenset({'CGBA', 'ABRS'})",2,1
 260,8.884940026654821e-05,"frozenset({'CIR', 'CB'})",2,1
-255,8.884940026654821e-05,"frozenset({'Bone Densitometer', 'MELFI'})",2,1
-272,8.884940026654821e-05,"frozenset({'CBEF', 'Holter'})",2,1
-299,8.884940026654821e-05,"frozenset({'CEVIS', 'IPU'})",2,1
+255,8.884940026654821e-05,"frozenset({'MELFI', 'Bone Densitometer'})",2,1
+272,8.884940026654821e-05,"frozenset({'Holter', 'CBEF'})",2,1
+299,8.884940026654821e-05,"frozenset({'IPU', 'CEVIS'})",2,1
 162,8.884940026654821e-05,"frozenset({'SLAMMD', 'ABRS'})",2,1
-161,8.884940026654821e-05,"frozenset({'Mass Measurement Device', 'ABRS'})",2,1
-159,8.884940026654821e-05,"frozenset({'ABRS', 'MSG'})",2,1
-517,8.884940026654821e-05,"frozenset({'Plant Habitat', 'GN2'})",2,1
-474,8.884940026654821e-05,"frozenset({'SCOF', 'FIR'})",2,1
-467,8.884940026654821e-05,"frozenset({'FIR', 'IPU'})",2,1
-465,8.884940026654821e-05,"frozenset({'FIR', 'FPEF'})",2,1
+161,8.884940026654821e-05,"frozenset({'ABRS', 'Mass Measurement Device'})",2,1
+159,8.884940026654821e-05,"frozenset({'MSG', 'ABRS'})",2,1
+517,8.884940026654821e-05,"frozenset({'GN2', 'Plant Habitat'})",2,1
+474,8.884940026654821e-05,"frozenset({'FIR', 'SCOF'})",2,1
+467,8.884940026654821e-05,"frozenset({'IPU', 'FIR'})",2,1
+465,8.884940026654821e-05,"frozenset({'FPEF', 'FIR'})",2,1
 365,8.884940026654821e-05,"frozenset({'DECLIC', 'MSL'})",2,1
 364,8.884940026654821e-05,"frozenset({'DECLIC', 'MSG'})",2,1

@@ -1,48 +1,5 @@
 ,support,itemsets,length,frequency
-386,0.0018658374055975121,"frozenset({'EXPRESS Rack', 'ELC'})",2,21
-395,0.0007996446023989338,"frozenset({'SPHERES', 'ELC'})",2,9
-313,0.0007996446023989338,"frozenset({'WORF', 'CEVIS'})",2,9
-391,0.0007107952021323857,"frozenset({'ELC', 'MERLIN'})",2,8
-464,0.0005330964015992892,"frozenset({'WORF', 'EXPRESS Rack'})",2,6
-388,0.000444247001332741,"frozenset({'GLACIER', 'ELC'})",2,5
-385,0.000444247001332741,"frozenset({'EMCS', 'ELC'})",2,5
 554,0.000444247001332741,"frozenset({'WORF', 'ISERV'})",2,5
-338,0.00035539760106619283,"frozenset({'ELC', 'CIR'})",2,4
-212,0.00035539760106619283,"frozenset({'ARED', 'WORF'})",2,4
 397,0.0002665482007996446,"frozenset({'WORF', 'ELC'})",2,3
-584,0.0002665482007996446,"frozenset({'WORF', 'MARES'})",2,3
-336,0.0002665482007996446,"frozenset({'WORF', 'CGBA'})",2,3
-151,0.00017769880053309641,"frozenset({'ABRS', 'ELC'})",2,2
-560,0.00017769880053309641,"frozenset({'JEM-EF', 'NanoRacks External Platform'})",2,2
-688,0.00017769880053309641,"frozenset({'TVIS', 'WORF'})",2,2
-670,0.00017769880053309641,"frozenset({'WORF', 'PFS'})",2,2
-384,0.00017769880053309641,"frozenset({'ELITE-S2', 'ELC'})",2,2
-396,0.00017769880053309641,"frozenset({'Solar', 'ELC'})",2,2
-352,0.00017769880053309641,"frozenset({'WORF', 'CIR'})",2,2
-672,8.884940026654821e-05,"frozenset({'Plant Habitat', 'WORF'})",2,1
-545,8.884940026654821e-05,"frozenset({'Holter', 'WORF'})",2,1
-676,8.884940026654821e-05,"frozenset({'Portable Pulmonary Function System', 'WORF'})",2,1
-686,8.884940026654821e-05,"frozenset({'Solar', 'WORF'})",2,1
-685,8.884940026654821e-05,"frozenset({'Solar', 'TEPC'})",2,1
-684,8.884940026654821e-05,"frozenset({'SLAMMD', 'WORF'})",2,1
-649,8.884940026654821e-05,"frozenset({'Solar', 'MWA'})",2,1
-633,8.884940026654821e-05,"frozenset({'MSG', 'WORF'})",2,1
-568,8.884940026654821e-05,"frozenset({'Solar', 'KFT'})",2,1
-559,8.884940026654821e-05,"frozenset({'JEM-EF', 'MISSE-FF'})",2,1
-553,8.884940026654821e-05,"frozenset({'WORF', 'IPU'})",2,1
-656,8.884940026654821e-05,"frozenset({'WORF', 'Mass Measurement Device'})",2,1
-606,8.884940026654821e-05,"frozenset({'Solar', 'MELFI'})",2,1
-253,8.884940026654821e-05,"frozenset({'Bone Densitometer', 'ELC'})",2,1
-244,8.884940026654821e-05,"frozenset({'Solar', 'BXF'})",2,1
-316,8.884940026654821e-05,"frozenset({'CGBA', 'ELC'})",2,1
-187,8.884940026654821e-05,"frozenset({'ALTEA', 'WORF'})",2,1
-229,8.884940026654821e-05,"frozenset({'WORF', 'Actiwatch'})",2,1
-497,8.884940026654821e-05,"frozenset({'WORF', 'FSL'})",2,1
-360,8.884940026654821e-05,"frozenset({'DECLIC', 'ELC'})",2,1
-394,8.884940026654821e-05,"frozenset({'SCAN Testbed', 'ELC'})",2,1
-393,8.884940026654821e-05,"frozenset({'Plant Habitat', 'ELC'})",2,1
-392,8.884940026654821e-05,"frozenset({'MSG', 'ELC'})",2,1
-390,8.884940026654821e-05,"frozenset({'ELC', 'MELFI'})",2,1
-389,8.884940026654821e-05,"frozenset({'MDS', 'ELC'})",2,1
-387,8.884940026654821e-05,"frozenset({'FPEF', 'ELC'})",2,1
-690,8.884940026654821e-05,"frozenset({'Ultrasound', 'WORF'})",2,1
+396,0.00017769880053309641,"frozenset({'ELC', 'Solar'})",2,2
+686,8.884940026654821e-05,"frozenset({'WORF', 'Solar'})",2,1

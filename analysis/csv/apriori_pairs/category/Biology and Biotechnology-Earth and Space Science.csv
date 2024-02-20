@@ -1,7 +1,7 @@
 ,support,itemsets,length,frequency
-391,0.0007107952021323857,"frozenset({'ELC', 'MERLIN'})",2,8
+391,0.0007107952021323857,"frozenset({'MERLIN', 'ELC'})",2,8
 385,0.000444247001332741,"frozenset({'EMCS', 'ELC'})",2,5
-336,0.0002665482007996446,"frozenset({'WORF', 'CGBA'})",2,3
+336,0.0002665482007996446,"frozenset({'CGBA', 'WORF'})",2,3
 151,0.00017769880053309641,"frozenset({'ABRS', 'ELC'})",2,2
 672,8.884940026654821e-05,"frozenset({'Plant Habitat', 'WORF'})",2,1
 568,8.884940026654821e-05,"frozenset({'Solar', 'KFT'})",2,1

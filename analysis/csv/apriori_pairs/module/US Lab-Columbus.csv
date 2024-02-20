@@ -1,35 +1,35 @@
 ,support,itemsets,length,frequency
 416,0.010306530430919591,"frozenset({'Holter', 'EPM'})",2,116
-420,0.0018658374055975121,"frozenset({'PFS', 'EPM'})",2,21
-293,0.001776988005330964,"frozenset({'CEVIS', 'EPM'})",2,20
-425,0.0007107952021323857,"frozenset({'Ultrasound', 'EPM'})",2,8
+420,0.0018658374055975121,"frozenset({'EPM', 'PFS'})",2,21
+293,0.001776988005330964,"frozenset({'EPM', 'CEVIS'})",2,20
+425,0.0007107952021323857,"frozenset({'EPM', 'Ultrasound'})",2,8
 415,0.0005330964015992892,"frozenset({'HRF-2', 'EPM'})",2,6
 575,0.00035539760106619283,"frozenset({'Veggie', 'LMM'})",2,4
-422,0.0002665482007996446,"frozenset({'RC', 'EPM'})",2,3
+422,0.0002665482007996446,"frozenset({'EPM', 'RC'})",2,3
 584,0.0002665482007996446,"frozenset({'WORF', 'MARES'})",2,3
 492,0.00017769880053309641,"frozenset({'MSG', 'FSL'})",2,2
 320,0.00017769880053309641,"frozenset({'CGBA', 'FSL'})",2,2
-581,0.00017769880053309641,"frozenset({'Mass Measurement Device', 'MARES'})",2,2
+581,0.00017769880053309641,"frozenset({'MARES', 'Mass Measurement Device'})",2,2
 582,0.00017769880053309641,"frozenset({'SLAMMD', 'MARES'})",2,2
-315,0.00017769880053309641,"frozenset({'EDR', 'CGBA'})",2,2
+315,0.00017769880053309641,"frozenset({'CGBA', 'EDR'})",2,2
 292,0.00017769880053309641,"frozenset({'EDR', 'CEVIS'})",2,2
-406,0.00017769880053309641,"frozenset({'EMCS', 'GN2'})",2,2
-686,8.884940026654821e-05,"frozenset({'Solar', 'WORF'})",2,1
-580,8.884940026654821e-05,"frozenset({'MARES', 'MSG'})",2,1
-620,8.884940026654821e-05,"frozenset({'MVIS', 'MSG'})",2,1
-583,8.884940026654821e-05,"frozenset({'MARES', 'Ultrasound'})",2,1
+406,0.00017769880053309641,"frozenset({'GN2', 'EMCS'})",2,2
+686,8.884940026654821e-05,"frozenset({'WORF', 'Solar'})",2,1
+580,8.884940026654821e-05,"frozenset({'MSG', 'MARES'})",2,1
+620,8.884940026654821e-05,"frozenset({'MSG', 'MVIS'})",2,1
+583,8.884940026654821e-05,"frozenset({'Ultrasound', 'MARES'})",2,1
 244,8.884940026654821e-05,"frozenset({'BXF', 'Solar'})",2,1
 317,8.884940026654821e-05,"frozenset({'CGBA', 'EPM'})",2,1
 300,8.884940026654821e-05,"frozenset({'Kubik', 'CEVIS'})",2,1
-296,8.884940026654821e-05,"frozenset({'CEVIS', 'FSL'})",2,1
+296,8.884940026654821e-05,"frozenset({'FSL', 'CEVIS'})",2,1
 322,8.884940026654821e-05,"frozenset({'Kubik', 'CGBA'})",2,1
-477,8.884940026654821e-05,"frozenset({'FIR', 'Veggie'})",2,1
+477,8.884940026654821e-05,"frozenset({'Veggie', 'FIR'})",2,1
 466,8.884940026654821e-05,"frozenset({'FIR', 'FSL'})",2,1
 497,8.884940026654821e-05,"frozenset({'WORF', 'FSL'})",2,1
 496,8.884940026654821e-05,"frozenset({'Ultrasound', 'FSL'})",2,1
 495,8.884940026654821e-05,"frozenset({'SLAMMD', 'FSL'})",2,1
-494,8.884940026654821e-05,"frozenset({'Mass Measurement Device', 'FSL'})",2,1
+494,8.884940026654821e-05,"frozenset({'FSL', 'Mass Measurement Device'})",2,1
 343,8.884940026654821e-05,"frozenset({'CIR', 'MARES'})",2,1
-381,8.884940026654821e-05,"frozenset({'EDR', 'MSG'})",2,1
-414,8.884940026654821e-05,"frozenset({'EPM', 'GN2'})",2,1
+381,8.884940026654821e-05,"frozenset({'MSG', 'EDR'})",2,1
+414,8.884940026654821e-05,"frozenset({'GN2', 'EPM'})",2,1
 409,8.884940026654821e-05,"frozenset({'SAMS-II', 'EMCS'})",2,1

@@ -72,8 +72,13 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str, pair: 
 
             itemset_types = [facility_data[itemset[0]], facility_data[itemset[1]]]
 
-            if ((pair[0] in itemset_types) and (pair[1] in itemset_types)) == False:
+            if ((pair == itemset_types) or (pair == itemset_types[::-1])) == False:
                 drop_idx.append(i)
+            else:
+                print("--------------------")
+                print(itemset[0], itemset[1])
+                print(itemset_types)
+                print("--------------------")
 
         itemsets_pair = itemsets_pair.drop(drop_idx)
 

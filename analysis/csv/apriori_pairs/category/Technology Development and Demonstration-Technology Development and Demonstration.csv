@@ -1,13 +1,2 @@
 ,support,itemsets,length,frequency
-395,0.0007996446023989338,"frozenset({'SPHERES', 'ELC'})",2,9
-457,0.0002665482007996446,"frozenset({'SPHERES', 'EXPRESS Rack'})",2,3
-648,0.00017769880053309641,"frozenset({'SPHERES', 'MWA'})",2,2
-617,8.884940026654821e-05,"frozenset({'SPHERES', 'MERLIN'})",2,1
-559,8.884940026654821e-05,"frozenset({'JEM-EF', 'MISSE-FF'})",2,1
 235,8.884940026654821e-05,"frozenset({'Astrobee', 'SPHERES'})",2,1
-165,8.884940026654821e-05,"frozenset({'ABS', 'AMF'})",2,1
-184,8.884940026654821e-05,"frozenset({'ALTEA', 'SPHERES'})",2,1
-188,8.884940026654821e-05,"frozenset({'AMF', 'EXPRESS Rack'})",2,1
-486,8.884940026654821e-05,"frozenset({'HSRC', 'FROST'})",2,1
-400,8.884940026654821e-05,"frozenset({'HSRC', 'ELF'})",2,1
-394,8.884940026654821e-05,"frozenset({'SCAN Testbed', 'ELC'})",2,1

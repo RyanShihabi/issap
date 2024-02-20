@@ -442,7 +442,7 @@ def generate_facility_names(facility_report_file: str):
 				else:
 					agency_facilities[agency_abbr].append(row[0])
 
-			if row[4] != '':
+			if row[4] not in  ['', "Dependent", "None"]:
 				facility_module[row[0]] = row[4]
 
 	f.close()
