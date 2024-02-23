@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+186,0.0002125624402168137,"frozenset({'Bio-Monitor', 'CEVIS'})",2,2
+401,0.00010628122010840685,"frozenset({'MSG', 'MVIS'})",2,1
+185,0.00010628122010840685,"frozenset({'EXPRESS Rack', 'Bio-Analyzer'})",2,1

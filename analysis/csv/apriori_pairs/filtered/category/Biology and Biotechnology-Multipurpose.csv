@@ -1,0 +1,105 @@
+,support,itemsets,length,frequency
+152,0.01094391244870041,"frozenset({'CGBA', 'EXPRESS Rack'})",2,56
+141,0.010748485440687903,"frozenset({'CBEF', 'MELFI'})",2,55
+148,0.006839945280437756,"frozenset({'Saibo', 'CBEF'})",2,35
+193,0.00586281024037522,"frozenset({'MERLIN', 'EXPRESS Rack'})",2,30
+220,0.00586281024037522,"frozenset({'MERLIN', 'GLACIER'})",2,30
+264,0.004494821184287669,"frozenset({'MERLIN', 'MELFI'})",2,23
+156,0.0033222591362126247,"frozenset({'CGBA', 'MSG'})",2,17
+201,0.003126832128200117,"frozenset({'Plant Habitat', 'EXPRESS Rack'})",2,16
+276,0.00293140512018761,"frozenset({'Veggie', 'MELFI'})",2,15
+183,0.0027359781121751026,"frozenset({'MELFI', 'EMCS'})",2,14
+139,0.0027359781121751026,"frozenset({'CBEF', 'IPU'})",2,14
+241,0.0025405511041625955,"frozenset({'IPU', 'SCOF'})",2,13
+184,0.002345124096150088,"frozenset({'MWA', 'EMCS'})",2,12
+144,0.002345124096150088,"frozenset({'CBEF', 'MSPR'})",2,12
+111,0.002345124096150088,"frozenset({'Aquatic Habitat', 'MSPR'})",2,12
+302,0.002345124096150088,"frozenset({'Ryutai', 'SCOF'})",2,12
+298,0.0021496970881375805,"frozenset({'PCRF', 'Ryutai'})",2,11
+249,0.0019542700801250734,"frozenset({'MELFI', 'KFT'})",2,10
+180,0.0017588430721125659,"frozenset({'EXPRESS Rack', 'EMCS'})",2,9
+274,0.0017588430721125659,"frozenset({'SABL', 'MELFI'})",2,9
+287,0.0013679890560875513,"frozenset({'MSG', 'SABL'})",2,7
+191,0.0013679890560875513,"frozenset({'MDS', 'EXPRESS Rack'})",2,7
+117,0.0013679890560875513,"frozenset({'BRIC', 'MELFI'})",2,7
+263,0.001172562048075044,"frozenset({'Saibo', 'MDS'})",2,6
+261,0.001172562048075044,"frozenset({'MDS', 'MELFI'})",2,6
+100,0.001172562048075044,"frozenset({'ABRS', 'MWA'})",2,6
+127,0.0009771350400625367,"frozenset({'Bone Densitometer', 'MSG'})",2,5
+239,0.0009771350400625367,"frozenset({'PCRF', 'IPU'})",2,5
+278,0.0009771350400625367,"frozenset({'MERLIN', 'MSG'})",2,5
+160,0.0009771350400625367,"frozenset({'CellCult', 'MELFI'})",2,5
+262,0.0009771350400625367,"frozenset({'PGB', 'MDS'})",2,5
+295,0.0009771350400625367,"frozenset({'Veggie', 'MWA'})",2,5
+286,0.0009771350400625367,"frozenset({'Rodent Research', 'MSG'})",2,5
+92,0.0007817080320500293,"frozenset({'ABRS', 'EXPRESS Rack'})",2,4
+257,0.0007817080320500293,"frozenset({'Veggie', 'LMM'})",2,4
+97,0.0007817080320500293,"frozenset({'ABRS', 'MELFI'})",2,4
+123,0.0007817080320500293,"frozenset({'MSG', 'Bioculture System'})",2,4
+255,0.000586281024037522,"frozenset({'MERLIN', 'LMM'})",2,3
+138,0.000586281024037522,"frozenset({'GLACIER', 'CBEF'})",2,3
+143,0.000586281024037522,"frozenset({'CBEF', 'MSG'})",2,3
+259,0.000586281024037522,"frozenset({'LSG', 'Rodent Research'})",2,3
+260,0.000586281024037522,"frozenset({'LSG', 'SABL'})",2,3
+120,0.000586281024037522,"frozenset({'BioLab', 'EMCS'})",2,3
+157,0.000586281024037522,"frozenset({'Mass Measurement Device', 'CGBA'})",2,3
+224,0.000586281024037522,"frozenset({'GLACIER', 'SABL'})",2,3
+279,0.000586281024037522,"frozenset({'Polar', 'MERLIN'})",2,3
+95,0.000586281024037522,"frozenset({'ABRS', 'LMM'})",2,3
+208,0.000586281024037522,"frozenset({'Veggie', 'EXPRESS Rack'})",2,3
+93,0.00039085401602501464,"frozenset({'ABRS', 'GLACIER'})",2,2
+250,0.00039085401602501464,"frozenset({'MSPR', 'KFT'})",2,2
+213,0.00039085401602501464,"frozenset({'FROST', 'SABL'})",2,2
+106,0.00039085401602501464,"frozenset({'ADSEP', 'MELFI'})",2,2
+110,0.00039085401602501464,"frozenset({'Aquatic Habitat', 'MELFI'})",2,2
+203,0.00039085401602501464,"frozenset({'Rodent Research', 'EXPRESS Rack'})",2,2
+116,0.00039085401602501464,"frozenset({'BRIC', 'HRF-2'})",2,2
+161,0.00039085401602501464,"frozenset({'CellCult', 'MSG'})",2,2
+164,0.00039085401602501464,"frozenset({'Confocal Microscope', 'SABL'})",2,2
+154,0.00039085401602501464,"frozenset({'CGBA', 'MELFI'})",2,2
+170,0.00039085401602501464,"frozenset({'Double Coldbag', 'MERLIN'})",2,2
+151,0.00039085401602501464,"frozenset({'CGBA', 'EDR'})",2,2
+273,0.00039085401602501464,"frozenset({'Rodent Research', 'MELFI'})",2,2
+204,0.00039085401602501464,"frozenset({'SABL', 'EXPRESS Rack'})",2,2
+182,0.00039085401602501464,"frozenset({'GN2', 'EMCS'})",2,2
+179,0.00039085401602501464,"frozenset({'Plant Habitat', 'EDR'})",2,2
+129,0.00039085401602501464,"frozenset({'Spectrum', 'Bone Densitometer'})",2,2
+125,0.00039085401602501464,"frozenset({'Bone Densitometer', 'EXPRESS Rack'})",2,2
+135,0.00039085401602501464,"frozenset({'CBEF', 'Confocal Microscope'})",2,2
+122,0.00039085401602501464,"frozenset({'EXPRESS Rack', 'Bioculture System'})",2,2
+285,0.00019542700801250732,"frozenset({'PCRF', 'MSG'})",2,1
+277,0.00019542700801250732,"frozenset({'Wet Lab RNA SmartCycler', 'MELFI'})",2,1
+304,0.00019542700801250732,"frozenset({'TangoLab-1', 'SABL'})",2,1
+251,0.00019542700801250732,"frozenset({'MWA', 'KFT'})",2,1
+291,0.00019542700801250732,"frozenset({'MSPR', 'SABL'})",2,1
+301,0.00019542700801250732,"frozenset({'Spectrum', 'Rodent Research'})",2,1
+271,0.00019542700801250732,"frozenset({'Plant Habitat', 'MELFI'})",2,1
+248,0.00019542700801250732,"frozenset({'KFT', 'LMM'})",2,1
+126,0.00019542700801250732,"frozenset({'Bone Densitometer', 'MELFI'})",2,1
+153,0.00019542700801250732,"frozenset({'CGBA', 'Kubik'})",2,1
+150,0.00019542700801250732,"frozenset({'Saibo', 'CBEF-L'})",2,1
+149,0.00019542700801250732,"frozenset({'CBEF-L', 'Confocal Microscope'})",2,1
+146,0.00019542700801250732,"frozenset({'Polar', 'CBEF'})",2,1
+137,0.00019542700801250732,"frozenset({'CBEF', 'FROST'})",2,1
+136,0.00019542700801250732,"frozenset({'Double Coldbag', 'CBEF'})",2,1
+133,0.00019542700801250732,"frozenset({'MERLIN', 'CB'})",2,1
+244,0.00019542700801250732,"frozenset({'MERLIN', 'Iceberg'})",2,1
+119,0.00019542700801250732,"frozenset({'Bio-Analyzer', 'EXPRESS Rack'})",2,1
+118,0.00019542700801250732,"frozenset({'BSTC', 'EXPRESS Rack'})",2,1
+115,0.00019542700801250732,"frozenset({'BRIC', 'EXPRESS Rack'})",2,1
+114,0.00019542700801250732,"frozenset({'BFF', 'SlingShot'})",2,1
+112,0.00019542700801250732,"frozenset({'Aquatic Habitat', 'MWA'})",2,1
+109,0.00019542700801250732,"frozenset({'Aquatic Habitat', 'IPU'})",2,1
+101,0.00019542700801250732,"frozenset({'ABRS', 'Mass Measurement Device'})",2,1
+99,0.00019542700801250732,"frozenset({'ABRS', 'MSG'})",2,1
+232,0.00019542700801250732,"frozenset({'Glovebox Freezer', 'Rodent Research'})",2,1
+229,0.00019542700801250732,"frozenset({'Plant Habitat', 'GN2'})",2,1
+227,0.00019542700801250732,"frozenset({'Veggie', 'GLACIER'})",2,1
+218,0.00019542700801250732,"frozenset({'GLACIER', 'MDS'})",2,1
+215,0.00019542700801250732,"frozenset({'MWA', 'Fruit Fly Lab'})",2,1
+214,0.00019542700801250732,"frozenset({'Fruit Fly Lab', 'MELFI'})",2,1
+211,0.00019542700801250732,"frozenset({'MERLIN', 'FROST'})",2,1
+199,0.00019542700801250732,"frozenset({'EXPRESS Rack', 'Mobile SpaceLab'})",2,1
+185,0.00019542700801250732,"frozenset({'EMCS', 'SAMS-II'})",2,1
+181,0.00019542700801250732,"frozenset({'GLACIER', 'EMCS'})",2,1
+177,0.00019542700801250732,"frozenset({'MERLIN', 'EDR'})",2,1

@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+26,0.0005051780752715333,"frozenset({'EPM', 'ARED'})",2,2
+27,0.00025258903763576663,"frozenset({'FSL', 'ARED'})",2,1
+40,0.00025258903763576663,"frozenset({'TVIS', 'EPM'})",2,1

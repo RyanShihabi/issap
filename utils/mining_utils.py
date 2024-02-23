@@ -424,7 +424,7 @@ def generate_facility_names(facility_report_file: str):
 			else:
 				facility_abbr_name[row[0]] = row[1]
 
-			if row[2] != '':
+			if row[2] not in ['', "None"]:
 				if row[2] not in category_facilities:
 					category_facilities[row[2]] = []
 				
@@ -475,6 +475,7 @@ def generate_facility_names(facility_report_file: str):
             "facility_abbr_name": facility_abbr_name,
 			"category_facilities": category_facilities,
 			"facility_category": facility_category,
+			"facility_module": facility_module,
 			"facility_agency": facility_agency,
 			"agency_facilities": agency_facilities,
 			"id_abbr": id_abbr

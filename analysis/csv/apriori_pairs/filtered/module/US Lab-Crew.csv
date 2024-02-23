@@ -1,0 +1,10 @@
+,support,itemsets,length,frequency
+48,0.05509026614554253,"frozenset({'Actiwatch', 'HRF-1'})",2,296
+50,0.020286618276568025,"frozenset({'Actiwatch', 'Holter'})",2,109
+53,0.004652894100130281,"frozenset({'Actiwatch', 'Ultrasound'})",2,25
+49,0.0005583472920156337,"frozenset({'Actiwatch', 'HRF-2'})",2,3
+46,0.0003722315280104225,"frozenset({'Actiwatch', 'CEVIS'})",2,2
+52,0.00018611576400521124,"frozenset({'Actiwatch', 'PFS'})",2,1
+54,0.00018611576400521124,"frozenset({'Actiwatch', 'WORF'})",2,1
+51,0.00018611576400521124,"frozenset({'MSG', 'Actiwatch'})",2,1
+47,0.00018611576400521124,"frozenset({'Actiwatch', 'CIR'})",2,1

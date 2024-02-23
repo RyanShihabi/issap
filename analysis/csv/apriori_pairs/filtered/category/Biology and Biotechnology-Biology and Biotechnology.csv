@@ -1,0 +1,29 @@
+,support,itemsets,length,frequency
+55,0.003826530612244898,"frozenset({'MERLIN', 'SABL'})",2,6
+35,0.003826530612244898,"frozenset({'Veggie', 'ABRS'})",2,6
+38,0.003826530612244898,"frozenset({'CellCult', 'ADSEP'})",2,6
+49,0.003826530612244898,"frozenset({'CGBA', 'Plant Habitat'})",2,6
+44,0.003826530612244898,"frozenset({'CBEF', 'KFT'})",2,6
+46,0.0031887755102040817,"frozenset({'PCRF', 'CBEF'})",2,5
+57,0.0031887755102040817,"frozenset({'PCRF', 'SCOF'})",2,5
+58,0.001913265306122449,"frozenset({'Plant Habitat', 'SABL'})",2,3
+36,0.002551020408163265,"frozenset({'BFF', 'ADSEP'})",2,3
+40,0.002551020408163265,"frozenset({'Aquatic Habitat', 'CBEF'})",2,3
+50,0.001913265306122449,"frozenset({'CGBA', 'SABL'})",2,3
+48,0.002551020408163265,"frozenset({'CGBA', 'MERLIN'})",2,3
+54,0.0012755102040816326,"frozenset({'Veggie', 'KFT'})",2,1
+51,0.0012755102040816326,"frozenset({'CellCult', 'SABL'})",2,1
+47,0.0012755102040816326,"frozenset({'CBEF', 'SABL'})",2,1
+45,0.0012755102040816326,"frozenset({'MERLIN', 'CBEF'})",2,1
+32,0.0012755102040816326,"frozenset({'ABRS', 'KFT'})",2,1
+39,0.0012755102040816326,"frozenset({'ADSEP', 'SABL'})",2,1
+43,0.0006377551020408163,"frozenset({'Bone Densitometer', 'Rodent Research'})",2,0
+42,0.0006377551020408163,"frozenset({'CGBA', 'Biotube'})",2,0
+41,0.0006377551020408163,"frozenset({'BFF', 'MERLIN'})",2,0
+52,0.0006377551020408163,"frozenset({'Veggie', 'EMCS'})",2,0
+53,0.0006377551020408163,"frozenset({'Fruit Fly Lab', 'Rodent Research'})",2,0
+37,0.0006377551020408163,"frozenset({'ADSEP', 'Bioculture System'})",2,0
+34,0.0006377551020408163,"frozenset({'ABRS', 'MERLIN'})",2,0
+56,0.0006377551020408163,"frozenset({'MERLIN', 'STaARS-1 EF'})",2,0
+33,0.0006377551020408163,"frozenset({'ABRS', 'MDS'})",2,0
+31,0.0006377551020408163,"frozenset({'ABRS', 'CGBA'})",2,0

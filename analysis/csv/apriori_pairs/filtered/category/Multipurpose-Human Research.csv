@@ -1,0 +1,78 @@
+,support,itemsets,length,frequency
+120,0.035355948399426664,"frozenset({'Actiwatch', 'HRF-1'})",2,296
+275,0.028786430960344004,"frozenset({'RC', 'MELFI'})",2,241
+296,0.015408504538939322,"frozenset({'SLAMMD', 'Mass Measurement Device'})",2,129
+270,0.008600095556617296,"frozenset({'PCBA', 'MELFI'})",2,72
+276,0.007405637840420449,"frozenset({'SLAMMD', 'MELFI'})",2,62
+294,0.007405637840420449,"frozenset({'Mass Measurement Device', 'PCBA'})",2,62
+127,0.003463927376970855,"frozenset({'Spectrum', 'Actiwatch'})",2,29
+244,0.002150023889154324,"frozenset({'Spectrum', 'Holter'})",2,18
+234,0.00179168657429527,"frozenset({'HRF-2', 'PFS'})",2,15
+88,0.0015527950310559005,"frozenset({'ALTEA', 'EXPRESS Rack'})",2,13
+231,0.0013139034878165313,"frozenset({'Ultrasound', 'HRF-1'})",2,11
+232,0.0013139034878165313,"frozenset({'Holter', 'HRF-2'})",2,11
+166,0.0011944577161968467,"frozenset({'EPM', 'EDR'})",2,10
+238,0.0011944577161968467,"frozenset({'Holter', 'MELFI'})",2,10
+271,0.001075011944577162,"frozenset({'MELFI', 'PFS'})",2,9
+230,0.001075011944577162,"frozenset({'SLAMMD', 'HRF-1'})",2,9
+176,0.000716674629718108,"frozenset({'EPM', 'HRF-2'})",2,6
+239,0.000716674629718108,"frozenset({'Mass Measurement Device', 'Holter'})",2,6
+201,0.0005972288580984234,"frozenset({'EXPRESS Rack', 'PFS'})",2,5
+203,0.00047778308647873863,"frozenset({'Portable Pulmonary Function System', 'EXPRESS Rack'})",2,4
+174,0.00047778308647873863,"frozenset({'EPM', 'ETC'})",2,4
+143,0.00047778308647873863,"frozenset({'EXPRESS Rack', 'CEVIS'})",2,4
+179,0.000358337314859054,"frozenset({'EPM', 'MELFI'})",2,3
+279,0.000358337314859054,"frozenset({'Ultrasound', 'MELFI'})",2,3
+295,0.000358337314859054,"frozenset({'Mass Measurement Device', 'RC'})",2,3
+106,0.000358337314859054,"frozenset({'ARED', 'MELFI'})",2,3
+121,0.000358337314859054,"frozenset({'Actiwatch', 'HRF-2'})",2,3
+207,0.000358337314859054,"frozenset({'TVIS', 'EXPRESS Rack'})",2,3
+102,0.000358337314859054,"frozenset({'ARED', 'EXPRESS Rack'})",2,3
+227,0.00023889154323936931,"frozenset({'HRF-1', 'Holter'})",2,2
+123,0.00023889154323936931,"frozenset({'Actiwatch', 'MELFI'})",2,2
+236,0.00023889154323936931,"frozenset({'Ultrasound', 'HRF-2'})",2,2
+237,0.00023889154323936931,"frozenset({'Holter', 'IPU'})",2,2
+107,0.00023889154323936931,"frozenset({'ARED', 'MSG'})",2,2
+262,0.00023889154323936931,"frozenset({'MARES', 'Mass Measurement Device'})",2,2
+141,0.00023889154323936931,"frozenset({'CEVIS', 'EDR'})",2,2
+173,0.00023889154323936931,"frozenset({'EXPRESS Rack', 'ELITE-S2'})",2,2
+184,0.00023889154323936931,"frozenset({'Spectrum', 'EPM'})",2,2
+189,0.00023889154323936931,"frozenset({'Holter', 'EXPRESS Rack'})",2,2
+105,0.00011944577161968466,"frozenset({'ARED', 'IPU'})",2,1
+92,0.00011944577161968466,"frozenset({'ALTEA', 'MSG'})",2,1
+91,0.00011944577161968466,"frozenset({'ALTEA', 'MELFI'})",2,1
+103,0.00011944577161968466,"frozenset({'ARED', 'HRF-2'})",2,1
+284,0.00011944577161968466,"frozenset({'MSG', 'PFS'})",2,1
+283,0.00011944577161968466,"frozenset({'PCBA', 'MSG'})",2,1
+89,0.00011944577161968466,"frozenset({'ALTEA', 'GLACIER'})",2,1
+285,0.00011944577161968466,"frozenset({'Portable Pulmonary Function System', 'MSG'})",2,1
+287,0.00011944577161968466,"frozenset({'TVIS', 'MSG'})",2,1
+292,0.00011944577161968466,"frozenset({'MWA', 'PFS'})",2,1
+274,0.00011944577161968466,"frozenset({'Portable Pulmonary Function System', 'MELFI'})",2,1
+99,0.00011944577161968466,"frozenset({'ARED', 'CB'})",2,1
+297,0.00011944577161968466,"frozenset({'TVIS', 'Mass Measurement Device'})",2,1
+298,0.00011944577161968466,"frozenset({'Ultrasound', 'Mass Measurement Device'})",2,1
+278,0.00011944577161968466,"frozenset({'TEPC', 'MELFI'})",2,1
+144,0.00011944577161968466,"frozenset({'GLACIER', 'CEVIS'})",2,1
+261,0.00011944577161968466,"frozenset({'MARES', 'MSG'})",2,1
+175,0.00011944577161968466,"frozenset({'EPM', 'GN2'})",2,1
+172,0.00011944577161968466,"frozenset({'TEPC', 'EDR'})",2,1
+257,0.00011944577161968466,"frozenset({'TEPC', 'Kubik'})",2,1
+136,0.00011944577161968466,"frozenset({'TVIS', 'CB'})",2,1
+137,0.00011944577161968466,"frozenset({'UMS', 'CB'})",2,1
+149,0.00011944577161968466,"frozenset({'Mass Measurement Device', 'CEVIS'})",2,1
+148,0.00011944577161968466,"frozenset({'MWA', 'CEVIS'})",2,1
+147,0.00011944577161968466,"frozenset({'Kubik', 'CEVIS'})",2,1
+146,0.00011944577161968466,"frozenset({'IPU', 'CEVIS'})",2,1
+191,0.00011944577161968466,"frozenset({'LIDAL', 'EXPRESS Rack'})",2,1
+193,0.00011944577161968466,"frozenset({'MARES', 'EXPRESS Rack'})",2,1
+108,0.00011944577161968466,"frozenset({'MWA', 'ARED'})",2,1
+235,0.00011944577161968466,"frozenset({'RC', 'HRF-2'})",2,1
+229,0.00011944577161968466,"frozenset({'HRF-1', 'PFS'})",2,1
+220,0.00011944577161968466,"frozenset({'Portable Pulmonary Function System', 'GLACIER'})",2,1
+218,0.00011944577161968466,"frozenset({'GLACIER', 'PFS'})",2,1
+124,0.00011944577161968466,"frozenset({'Actiwatch', 'MSG'})",2,1
+210,0.00011944577161968466,"frozenset({'Ultrasound', 'EXPRESS Rack'})",2,1
+206,0.00011944577161968466,"frozenset({'TEPC', 'EXPRESS Rack'})",2,1
+205,0.00011944577161968466,"frozenset({'SLAMMD', 'EXPRESS Rack'})",2,1
+119,0.00011944577161968466,"frozenset({'Actiwatch', 'EXPRESS Rack'})",2,1

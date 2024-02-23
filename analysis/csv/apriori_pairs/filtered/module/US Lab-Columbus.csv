@@ -1,0 +1,35 @@
+,support,itemsets,length,frequency
+124,0.017937219730941704,"frozenset({'Holter', 'EPM'})",2,116
+126,0.003247255296118757,"frozenset({'EPM', 'PFS'})",2,21
+75,0.003092624091541673,"frozenset({'EPM', 'CEVIS'})",2,20
+128,0.0012370496366166692,"frozenset({'EPM', 'Ultrasound'})",2,7
+123,0.000927787227462502,"frozenset({'EPM', 'HRF-2'})",2,6
+127,0.000463893613731251,"frozenset({'RC', 'EPM'})",2,3
+174,0.000463893613731251,"frozenset({'WORF', 'MARES'})",2,3
+167,0.0006185248183083346,"frozenset({'LMM', 'Veggie'})",2,3
+171,0.0003092624091541673,"frozenset({'Mass Measurement Device', 'MARES'})",2,1
+172,0.0003092624091541673,"frozenset({'MARES', 'SLAMMD'})",2,1
+135,0.0003092624091541673,"frozenset({'MSG', 'FSL'})",2,1
+74,0.0003092624091541673,"frozenset({'CEVIS', 'EDR'})",2,1
+88,0.0003092624091541673,"frozenset({'CGBA', 'EDR'})",2,1
+91,0.0003092624091541673,"frozenset({'CGBA', 'FSL'})",2,1
+116,0.0003092624091541673,"frozenset({'EMCS', 'GN2'})",2,1
+170,0.00015463120457708364,"frozenset({'MSG', 'MARES'})",2,0
+199,0.00015463120457708364,"frozenset({'WORF', 'Solar'})",2,0
+173,0.00015463120457708364,"frozenset({'Ultrasound', 'MARES'})",2,0
+175,0.00015463120457708364,"frozenset({'MSG', 'MVIS'})",2,0
+134,0.00015463120457708364,"frozenset({'FIR', 'Veggie'})",2,0
+68,0.00015463120457708364,"frozenset({'BXF', 'Solar'})",2,0
+77,0.00015463120457708364,"frozenset({'FSL', 'CEVIS'})",2,0
+79,0.00015463120457708364,"frozenset({'Kubik', 'CEVIS'})",2,0
+89,0.00015463120457708364,"frozenset({'CGBA', 'EPM'})",2,0
+93,0.00015463120457708364,"frozenset({'CGBA', 'Kubik'})",2,0
+104,0.00015463120457708364,"frozenset({'CIR', 'MARES'})",2,0
+115,0.00015463120457708364,"frozenset({'MSG', 'EDR'})",2,0
+117,0.00015463120457708364,"frozenset({'SAMS-II', 'EMCS'})",2,0
+122,0.00015463120457708364,"frozenset({'EPM', 'GN2'})",2,0
+130,0.00015463120457708364,"frozenset({'FSL', 'FIR'})",2,0
+137,0.00015463120457708364,"frozenset({'FSL', 'Mass Measurement Device'})",2,0
+138,0.00015463120457708364,"frozenset({'FSL', 'SLAMMD'})",2,0
+139,0.00015463120457708364,"frozenset({'FSL', 'Ultrasound'})",2,0
+140,0.00015463120457708364,"frozenset({'FSL', 'WORF'})",2,0

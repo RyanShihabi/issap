@@ -74,15 +74,7 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str, pair: 
 
             if ((pair == itemset_types) or (pair == itemset_types[::-1])) == False:
                 drop_idx.append(i)
-            else:
-                print("--------------------")
-                print(itemset[0], itemset[1])
-                print(itemset_types)
-                print("--------------------")
 
         itemsets_pair = itemsets_pair.drop(drop_idx)
 
-    # print(itemsets_pair)
-
     export_data(itemsets_pair, f"./analysis/csv/apriori_pairs/{file_name}.csv")
-    # print(itemsets_pair)

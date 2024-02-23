@@ -1,0 +1,13 @@
+,support,itemsets,length,frequency
+19,0.009295120061967466,"frozenset({'EDR', 'EML'})",2,11
+20,0.0077459333849728895,"frozenset({'EDR', 'EPM'})",2,10
+27,0.0077459333849728895,"frozenset({'MARES', 'EPM'})",2,10
+21,0.003098373353989156,"frozenset({'EDR', 'ETC'})",2,4
+23,0.003098373353989156,"frozenset({'EDR', 'Kubik'})",2,4
+25,0.003098373353989156,"frozenset({'EPM', 'ETC'})",2,4
+18,0.0023237800154918666,"frozenset({'BioLab', 'EMCS'})",2,2
+22,0.0023237800154918666,"frozenset({'EDR', 'FSL'})",2,2
+26,0.0023237800154918666,"frozenset({'EPM', 'FSL'})",2,2
+28,0.001549186676994578,"frozenset({'Portable Pulmonary Function System', 'EPM'})",2,2
+29,0.001549186676994578,"frozenset({'ETC', 'FSL'})",2,2
+24,0.000774593338497289,"frozenset({'EML', 'EPM'})",2,1

@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+from tqdm import tqdm
 from utils.mining_utils import (collect_reports,
                           send_internet_archive_request,
                           custom_search,
@@ -22,7 +23,24 @@ from utils.apriori_utils import apriori_from_list
 # Get the list of facility names from Rao's csv
 facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 
-export_data(generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct"), "./analysis/json/paragraph_mentions.json")
+# Filter out facility_name_abbr to 
+
+metrics = ["agency", "category", "module"]
+
+for metric in metrics:
+    metric_data = facility_data[f"facility_{metric}"]
+    data = list(set(metric_data.values()))
+
+    for i in range(len(data)):
+        pair = [data[i], data[i]]
+        pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr in metric_data.keys() and metric_data[abbr] in pair)}
+        paragraph_list = generate_paragraph_apriori(pair_dict, "./reports-oct")
+        apriori_from_list(paragraph_list, f"filtered/{metric}/{'-'.join(pair)}", metric, pair)
+        for j in range(i + 1, len(data)):
+            pair = [data[i], data[j]]
+            pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr in metric_data.keys() and metric_data[abbr] in pair)}
+            paragraph_list = generate_paragraph_apriori(pair_dict, "./reports-oct")
+            apriori_from_list(paragraph_list, f"filtered/{metric}/{'-'.join(pair)}", metric, pair)
 
 # Get a boolean value for whether a facility was mentioned on that day
 # facility_mentions = grab_facility_mentions("./rao_reports", facility_data)

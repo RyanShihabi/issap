@@ -1,0 +1,8 @@
+,support,itemsets,length,frequency
+76,0.0042287185144328,"frozenset({'CIR', 'MWA'})",2,23
+112,0.0005515719801434088,"frozenset({'LMM', 'MWA'})",2,3
+128,0.00018385732671446958,"frozenset({'MWA', 'PFS'})",2,1
+56,0.00018385732671446958,"frozenset({'MWA', 'CEVIS'})",2,1
+95,0.00018385732671446958,"frozenset({'MWA', 'HRF-2'})",2,1
+83,0.00018385732671446958,"frozenset({'FIR', 'MWA'})",2,1
+115,0.00018385732671446958,"frozenset({'MSG', 'MWA'})",2,1
