@@ -21,7 +21,7 @@ query = """
     MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, module: $f1_module }) 
     MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, module: $f2_module }) 
     CREATE (p1)-[k:WEIGHT]->(p2), (p2)-[j:WEIGHT]->(p1) 
-    SET k.weight = $weight 
+    SET k.weight = $weight, j.weight = $weight 
     RETURN p1, p2
 """
 
@@ -29,7 +29,7 @@ date_query = """
     MERGE (p1:Facility { name: $f1_name, agency: $f1_agency, category: $f1_category, module: $f1_module }) 
     MERGE (p2:Facility { name: $f2_name, agency: $f2_agency, category: $f2_category, module: $f2_module }) 
     CREATE (p1)-[k:DATE { date: $date }]->(p2) 
-    SET k.weight = $weight 
+    SET k.weight = $weight, j.weight = $weight 
     RETURN p1, p2
 """
 
@@ -70,8 +70,8 @@ def upload_facility_itemsets():
                                             weight = frequency,
                                             f1_agency = facility_agency[names[0]],
                                             f2_agency = facility_agency[names[1]],
-                                            f1_category = facility_category[names[0]],
-                                            f2_category = facility_category[names[1]],
+                                            f1_category = facility_category.get(names[0], "Unknown"),
+                                            f2_category = facility_category.get(names[1], "Unknown"),
                                             f1_module = facility_module.get(names[0], "Unknown"),
                                             f2_module = facility_module.get(names[1], "Unknown"),
                                         )
