@@ -11,15 +11,18 @@ f.close()
 
 print(len(paragraph_list))
 
-pair_type = "agency"
+exclude_list = ['ARED', 'CEVIS', 'TEVIS']
 
-with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
-    data = list(set(json.load(f).values()))
-f.close()
+# pair_type = "agency"
 
-for i in tqdm(range(len(data))):
-    pair = [data[i], data[i]]
-    apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
-    for j in range(i + 1, len(data)):
-        pair = [data[i], data[j]]
-        apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+# with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
+#     data = list(set(json.load(f).values()))
+# f.close()
+
+# for i in tqdm(range(len(data))):
+#     pair = [data[i], data[i]]
+#     apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+#     for j in range(i + 1, len(data)):
+#         pair = [data[i], data[j]]
+#         apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+

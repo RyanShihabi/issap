@@ -46,9 +46,9 @@ def upload_facility_itemsets():
     with open("./sources/facility_data/json/facility_module.json", "r") as f:
         facility_module = json.load(f)
     f.close()
-    
+
     rows = pd.read_csv("./analysis/csv/apriori_pairs.csv").shape[0]
-    
+
     with open("./analysis/csv/apriori_pairs.csv", "r") as f:
         reader = csv.reader(f)
 

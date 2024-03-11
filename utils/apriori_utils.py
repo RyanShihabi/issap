@@ -42,7 +42,7 @@ def apriori_from_df(obj):
     return itemsets_pair
 
 # Run apriori calculations from a list
-def apriori_from_list(mention_list: list, file_name: str, pair_type: str, pair: list):
+def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None, pair: list = []):
     te = TransactionEncoder()
     te_ary = te.fit(mention_list).transform(mention_list)
     df = pd.DataFrame(te_ary, columns=te.columns_)
@@ -77,4 +77,4 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str, pair: 
 
         itemsets_pair = itemsets_pair.drop(drop_idx)
 
-    export_data(itemsets_pair, f"./analysis/csv/apriori_pairs/{file_name}.csv")
+    export_data(itemsets_pair, f"./analysis/csv/{file_name}.csv")
