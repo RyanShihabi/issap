@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 from datetime import date
 from utils.mining_utils import export_data
 
@@ -99,3 +100,17 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     print(report_day_df)
 
     return report_day_df
+
+def plot_apriori_mentions(apriori_df: pd.DataFrame):
+    x, y = [], []
+
+    for i, val in enumerate(apriori_df["frequency"]):
+        x.append(i)
+        y.append(val)
+
+    plt.figure(figsize=(15, 5))
+    plt.plot(x, y)
+    plt.xticks(range(0, 30))
+    ax = plt.gca()
+    ax.set_xlim([0, 30])
+    plt.show()

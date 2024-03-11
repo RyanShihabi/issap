@@ -2,7 +2,8 @@ import pandas as pd
 from utils.analysis_utils import (calc_facility_proportions,
                             calc_facility_freq_year,
                             calc_total_category_mentions,
-                            calc_report_date_frequency
+                            calc_report_date_frequency,
+                            plot_apriori_mentions
                         )
 
 from utils.mining_utils import (generate_facility_names, export_data)
@@ -15,7 +16,11 @@ df_range = df[df["Report Date"] < "2023-01-01"]
 
 # print(df_range.loc[:, "AMF"].sum())
 
-calc_facility_proportions(df_range)
+# calc_facility_proportions(df_range)
+
+df = pd.read_csv("./analysis/csv/apriori_pairs/full/agency/ESA-NASA.csv").rename(columns={"Unnamed: 0": 'id'}).set_index("id")
+
+plot_apriori_mentions(df)
 
 # print(df_range.sum().sort_values(ascending=False))
 
