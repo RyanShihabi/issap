@@ -28,7 +28,8 @@ exclude_list = ['ARED', 'CEVIS', 'TVIS']
 pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
 
 apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct")
-export_data(apriori_list, "./analysis/json/paragraph_mentions_without_ARED_CEVIS_TEVIS.json")
+
+# export_data(apriori_list, "./analysis/json/paragraph_mentions_without_ARED_CEVIS_TEVIS.json")
 apriori_from_list(apriori_list, "apriori_pairs_without_ARED_CEVIS_TVIS")
 
 # metrics = ["agency", "category", "module"]

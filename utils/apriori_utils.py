@@ -1,5 +1,5 @@
 import pandas as pd
-from mlxtend.frequent_patterns import apriori
+from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
 from utils.mining_utils import export_data
 import json
