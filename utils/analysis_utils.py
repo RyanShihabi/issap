@@ -80,20 +80,21 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
 
 # Which reports fall on what day of the week
 def calc_report_date_frequency(df_range: pd.DataFrame):
-    report_day_count = {"Total": {}}
+    report_day_count = {"Report Count": {}}
 
     num2day = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday", 4: "Friday", 5: "Saturday", 6: "Sunday"}
     
     for date in df_range["Report Date"]:
         day = num2day[date.weekday()]
-        report_day_count["Total"][day] = report_day_count["Total"].get(day, 0) + 1
+        report_day_count["Report Count"][day] = report_day_count["Report Count"].get(day, 0) + 1
 
         if date.weekday() < 5:
-            report_day_count["Total"]["Weekday"] = report_day_count["Total"].get("Weekday", 0) + 1
+            report_day_count["Report Count"]["Weekday"] = report_day_count["Report Count"].get("Weekday", 0) + 1
         else:
-            report_day_count["Total"]["Weekend"] = report_day_count["Total"].get("Weekend", 0) + 1
+            report_day_count["Report Count"]["Weekend"] = report_day_count["Report Count"].get("Weekend", 0) + 1
 
-    report_day_df = pd.DataFrame.from_dict(report_day_count).sort_values(by="Total", ascending=False)
+    report_day_df = pd.DataFrame.from_dict(report_day_count).sort_values(by="Report Count", ascending=False)
+    report_day_df["Proportion"] = report_day_df["Report Count"] / df_range.shape[0]
 
     export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
     
