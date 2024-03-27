@@ -122,9 +122,10 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 
 	return dataset
 
-# Apriori support values for paragraph facility mentions
+# Paragraph facility mention list for Apriori input
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str):
 	dataset = []
+	paragraph_dataset = {}
 
 	facility_names = []
 

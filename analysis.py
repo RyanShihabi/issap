@@ -14,15 +14,15 @@ df['Report Date'] = pd.to_datetime(df['Report Date'])
 
 df_range = df[df["Report Date"] < "2023-01-01"]
 
-calc_report_date_frequency(df_range)
+# calc_report_date_frequency(df_range)
 
 # print(df_range.loc[:, "AMF"].sum())
 
 # calc_facility_proportions(df_range)
 
-# df = pd.read_csv("./analysis/csv/apriori_pairs/full/agency/ESA-NASA.csv").rename(columns={"Unnamed: 0": 'id'}).set_index("id")
+df = pd.read_csv("./analysis/csv/apriori_pairs/full/agency/ESA-NASA.csv").rename(columns={"Unnamed: 0": 'id'}).set_index("id")
 
-# plot_apriori_mentions(df)
+plot_apriori_mentions(df)
 
 # print(df_range.sum().sort_values(ascending=False))
 

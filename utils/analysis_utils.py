@@ -83,7 +83,7 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     report_day_count = {"Report Count": {}}
 
     num2day = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday", 4: "Friday", 5: "Saturday", 6: "Sunday"}
-    
+
     for date in df_range["Report Date"]:
         day = num2day[date.weekday()]
         report_day_count["Report Count"][day] = report_day_count["Report Count"].get(day, 0) + 1
@@ -97,7 +97,7 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     report_day_df["Proportion"] = report_day_df["Report Count"] / df_range.shape[0]
 
     export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
-    
+
     print(report_day_df)
 
     return report_day_df
