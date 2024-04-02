@@ -1,0 +1,99 @@
+Facility,ISSAP type
+MELFI,Refrigerator
+Solar,Astronomy
+CIR,Furnace
+Ultrasound,Crew health
+Actiwatch,Crew health
+MSG,Glovebox
+EPM,Crew health
+Holter,Crew health
+CBEF,Centrifuge
+GLACIER,Refrigerator
+Polar,Refrigerator
+Veggie,Plant
+HRF-1,Crew health
+MWA,Maintenance
+BioLab,Biology
+FSL,Fluids
+MSL,Furnace
+Astrobee,Robotics
+MERLIN,Refrigerator
+SLAMMD,General science
+PFS,Crew health
+FPEF,Fluids
+Kubik,Incubator
+EMCS,Plant
+EDR,General science
+MSPR,Generic
+FIR,Fluids
+Saibo,Biology
+Spectrum,Biology
+ELF,Furnace
+RC,Centrifuge
+PCRF,Biology
+CB,Glovebox
+LMM,Microscope
+SCOF,Microscope
+WORF,Earth observation
+Ryutai,Fluids
+EML,Levitation
+SABL,Incubator
+MARES,Crew health
+DECLIC,Fluids
+PCBA,Crew health
+IPU,Image processing
+CBEF-L,Centrifuge
+LSR,Life support
+MVP,Centrifuge
+Bio-Monitor,Crew health
+UMS,Crew health
+TEPC,Crew health
+TangoLab-2,General science
+ELC,External payloads
+J-SSOD,Satellite deployer
+Iceberg,Stowage
+CGBA,Biology
+GN2,General science
+EuTEF,External payloads
+RAM,Crew health
+ABRS,Plant
+FROST,Refrigerator
+CCE,Combustion
+MAMS,Physics
+Mochii,Microscope
+HRF-2,Crew health
+MSRR-1,Materials
+MVIS,Vibration isolation
+TangoLab-1,General science
+Cyclops,Satellite deployer
+MUSES,Earth observation
+MISSE-FF,Materials
+FRIDGE,Refrigerator
+SlingShot,Satellite deployer
+SoFIE,Combustion
+BRIC,Biology
+BXF,Combustion
+ADSEP,Biology
+KERMIT,Microscope
+SAMS-II,Physics
+JEM-EF,External payloads
+IPU2,Image processing
+CBPD,Crew health
+AMF,3D printing
+ETC,Stowage
+KFT,Glovebox
+Bartolomeo,External payloads
+TELLAS,Biology
+Bio-Analyzer,Crew health
+ABS,Biology
+SALI,Incubator
+CellCult,Biology
+HSRC,External payloads
+PGB,Glovebox
+MSPR-2,General science
+ARCTIC,Refrigerator
+SPySE,General science
+AEM,Biology
+ADSEP-2,Biology
+BSTC,Biology
+GASMAP,Crew health

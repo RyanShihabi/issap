@@ -125,7 +125,6 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 # Paragraph facility mention list for Apriori input
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple):
 	dataset = []
-	paragraph_dataset = {}
 
 	facility_names = []
 
@@ -153,6 +152,7 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 
 				if excerpt_pair[0] in facilities_mentioned_filtered and excerpt_pair[1] in facilities_mentioned_filtered:
+					print(report)
 					print(paragraph)
 
 				dataset.append(sorted(facilities_mentioned_filtered))
@@ -174,6 +174,7 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 
 				if excerpt_pair[0] in facilities_mentioned_filtered and excerpt_pair[1] in facilities_mentioned_filtered:
+					print(report)
 					print(paragraph)
 
 				dataset.append(sorted(facilities_mentioned_filtered))
@@ -368,29 +369,19 @@ def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 
 	export_data(df, "./analysis/csv/agency_category_mentions.csv")
 
-# Create groupings for custom categories
-def generate_custom_category(custom_facilities, facility_name_abbr):		
-	all_categories = {}
-	with open(custom_facilities, "r") as f:
+def generate_custom_facility(custom_file: str, facility_data: dict):
+	categories = np.unique([category for category in pd.read_csv(custom_file)["ISSAP type"]])
+	facility_category = {}
+	
+	with open(custom_file, 'r') as f:
 		reader = csv.reader(f)
 		next(reader, None)
+
 		for row in reader:
-			try:
-				all_categories[facility_name_abbr[row[1]]]= row[2]
-			except:
-				all_categories[row[1]] = row[2]
+			facility_category[row[0]] = row[1]
 	f.close()
 
-	print(all_categories)
-
-	categories = set(category for category in all_categories.values())
- 
-	categories_filtered = {category: [] for category in categories}
-
-	for abbr, category in all_categories.items():
-		categories_filtered[category].append(abbr)
-
-	export_data(categories_filtered, "./sources/facility_data/json/custom_categories.json")
+	return categories, facility_category
 
 # Loads facility data from NASA's facility spreadsheet
 def generate_facility_names(facility_report_file: str):
@@ -408,17 +399,6 @@ def generate_facility_names(facility_report_file: str):
 	facility_agency = {}
 
 	agency_facilities = {}
-
-	module_loc = {
-		"US Lab": (6, 2),
-		"Columbus": (7, 0),
-		"Crew": (8, 1),
-		"JEM": (9, 2),
-		"ISS Truss": (4, 5),
-		"Node 1": (5, 3),
-		"Node 2": (8, 1),
-		"Node 3": (6, 4)
-	}
 
 	facility_module = {}
 	
@@ -506,33 +486,6 @@ def export_report(obj):
 	with open(f"./reports/{obj['date']}.txt", 'w') as f:
 		f.write(obj["text"])
 	f.close()
-
-# Experiment function for custom keyword-based categories
-def get_custom_facility_groupings(facility_name_abbr):
-  # Cold stowage: https://www.nasa.gov/sites/default/files/atoms/files/fact_sheet_ec7_cold_stowage.pdf
-    cold_stowage = ["Double Coldbag", "Mini Coldbag", "Iceberg", "MELFI", "MERLIN", "GLACIER", "Polar"]
-
-    centrifuge = []
-
-    furnace = []
-
-    for key, value in zip(facility_name_abbr.keys(), facility_name_abbr.values()):
-        if ("freezer" in value.lower() or "cryo" in value.lower() or "cold" in value.lower() or "fridge" in value.lower()) and (key not in cold_stowage):
-            cold_stowage.append(key)
-
-    for key, value in zip(facility_name_abbr.keys(), facility_name_abbr.values()):
-        if "centrifuge" in value.lower() and key not in centrifuge:
-            centrifuge.append(key)
-
-    for key, value in zip(facility_name_abbr.keys(), facility_name_abbr.values()):
-        if "furnace" in value.lower() and key not in furnace:
-            furnace.append(key)
-
-    facility_grouping = {"cold_stowage": cold_stowage,
-                      "centrifuge": centrifuge,
-                      "furnace": furnace}
-  
-    return facility_grouping
 
 
 # Collects new blog links from NASA sitemap

@@ -10,7 +10,7 @@ from utils.mining_utils import (collect_reports,
                           grab_agency_category_mentions,
                           generate_paragraph_apriori,
                           generate_kernel_apriori,
-                          generate_custom_category,
+                          generate_custom_facility,
                           export_data)
 from utils.apriori_utils import apriori_from_list
 
@@ -23,11 +23,15 @@ from utils.apriori_utils import apriori_from_list
 # Get the list of facility names from Rao's csv
 facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 
-exclude_list = ['ARED', 'CEVIS', 'TVIS']
+categories, custom_facility = generate_custom_facility("./sources/facility_data/csv/facility_type_issap.csv", facility_data)
 
-pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
+export_data(custom_facility, "./sources/facility_data/json/facility_custom.json")
 
-apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ("CBEF", "MELFI"))
+# exclude_list = ['ARED', 'CEVIS', 'TVIS']
+
+# pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
+
+# apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ("LMM", "FIR"))
 
 # export_data(apriori_list, "./analysis/json/paragraph_mentions_without_ARED_CEVIS_TEVIS.json")
 # apriori_from_list(apriori_list, "apriori_pairs_without_ARED_CEVIS_TVIS")

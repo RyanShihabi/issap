@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 from datetime import date
 from utils.mining_utils import export_data
@@ -95,6 +94,9 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
 
     report_day_df = pd.DataFrame.from_dict(report_day_count).sort_values(by="Report Count", ascending=False)
     report_day_df["Proportion"] = report_day_df["Report Count"] / df_range.shape[0]
+
+    # plt.figure(figsize=(15, 5))
+    # # plt.
 
     export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
 
