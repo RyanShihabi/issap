@@ -14,7 +14,7 @@ df['Report Date'] = pd.to_datetime(df['Report Date'])
 
 df_range = df[df["Report Date"] < "2023-01-01"]
 
-calc_report_date_frequency(df_range)
+# calc_report_date_frequency(df_range)
 
 # print(df_range.loc[:, "AMF"].sum())
 

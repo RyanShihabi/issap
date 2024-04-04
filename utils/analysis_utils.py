@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import date
@@ -23,6 +24,17 @@ def calc_facility_proportions(df: pd.DataFrame):
     df_days_used = df_days_used.sort_values(ascending=False)
 
     export_data(df_days_used, "./analysis/csv/facility_mention_day_proportion.csv")
+    
+    # Plotting Facility Frequencies
+    for page, i in enumerate(range(0, df_days_used.shape[0]-10, 10)):
+        print(page)
+        plt.figure(figsize=(15, 5))
+        plt.bar(df_days_used.index[i:i+10], df_days_used.values[i:i+10])
+        plt.xlabel("Facility")
+        plt.ylabel("Frequency")
+        plt.title("Facility Mention Day Proportion")
+        plt.savefig(f"./analysis/plots/facility_mention_day_proportion_{page}.png")
+        plt.close()
 
     df_facility_prop = df.sum(numeric_only=True) / (df.sum(numeric_only=True).sum(numeric_only=True))
 
@@ -30,12 +42,42 @@ def calc_facility_proportions(df: pd.DataFrame):
 
     export_data(df_facility_prop, "./analysis/csv/facility_mention_total_proportion.csv")
 
+    for page, i in enumerate(range(0, df_facility_prop.shape[0]-10, 10)):
+        plt.figure(figsize=(15, 5))
+        plt.bar(df_facility_prop.index[i:i+10], df_facility_prop.values[i:i+10])
+        plt.xlabel("Facility")
+        plt.ylabel("Frequency")
+        plt.title("Facility Mention Total Proportion")
+        plt.savefig(f"./analysis/plots/facility_mention_total_proportion_{page}.png")
+        plt.close()
+
     return df_days_used
 
 # Total facility mentions in a given year
 def calc_facility_freq_year(df: pd.DataFrame):
     df_year = df.resample("Y", on="Report Date").sum()
     print(df_year)
+
+    print(df_year.loc['2009-12-31'].sort_values(ascending=False))
+
+    if os.path.exists("./analysis/plots/Facility_Year_Mention") == False:
+        os.makedirs("./analysis/plots/Facility_Year_Mention")
+    
+    for year in df_year.index:
+        sorted_year = df_year.loc[year].sort_values(ascending=False)
+        filter_year = str(year).split("-")[0]
+
+        if os.path.exists(f"./analysis/plots/Facility_Year_Mention/{filter_year}") == False:
+            os.makedirs(f"./analysis/plots/Facility_Year_Mention/{filter_year}")
+        
+        for page, i in enumerate(range(0, sorted_year.shape[0]-10, 10)):
+            plt.figure(figsize=(15, 5))
+            plt.bar(sorted_year.index[i:i+10], sorted_year.values[i:i+10])
+            plt.xlabel("Facility")
+            plt.ylabel("Frequency")
+            plt.title(f"{filter_year} Facility Mentions")
+            plt.savefig(f"./analysis/plots/Facility_Year_Mention/{filter_year}/facility_mention_{filter_year}_{page}.png")
+            plt.close()
 
     archive_sum = df_year.iloc[:4, :].sum().sort_values(ascending=False)
 
@@ -75,11 +117,22 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
     export_data(df_category_mentions, "./analysis/csv/Total_Category_Mentions.csv")
     export_data(df_category_mention_prop, "./analysis/csv/Total_Category_Mentions_Prop.csv")
 
+    print(df_category_mentions)
+    
+    plt.figure(figsize=(25, 5))
+    print(df_category_mentions.values.shape)
+    plt.bar(df_category_mentions.index[:-1], df_category_mentions.values.flatten()[:-1])
+    plt.xlabel("Category")
+    plt.ylabel("Frequency")
+    plt.savefig("./analysis/plots/Category_Mentions.png")
+    plt.close()
+
     return df_category_mentions
 
 # Which reports fall on what day of the week
 def calc_report_date_frequency(df_range: pd.DataFrame):
     report_day_count = {"Report Count": {}}
+    report_week_type_count = {"Report Count": {}}
 
     num2day = {0: "Monday", 1: "Tuesday", 2: "Wednesday", 3: "Thursday", 4: "Friday", 5: "Saturday", 6: "Sunday"}
 
@@ -88,12 +141,14 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
         report_day_count["Report Count"][day] = report_day_count["Report Count"].get(day, 0) + 1
 
         if date.weekday() < 5:
-            report_day_count["Report Count"]["Weekday"] = report_day_count["Report Count"].get("Weekday", 0) + 1
+            report_week_type_count["Report Count"]["Weekday"] = report_day_count["Report Count"].get("Weekday", 0) + 1
         else:
-            report_day_count["Report Count"]["Weekend"] = report_day_count["Report Count"].get("Weekend", 0) + 1
+            report_week_type_count["Report Count"]["Weekend"] = report_day_count["Report Count"].get("Weekend", 0) + 1
 
     report_day_df = pd.DataFrame.from_dict(report_day_count).sort_values(by="Report Count", ascending=False)
+    report_week_type_df = pd.DataFrame.from_dict(report_week_type_count).sort_values(by="Report Count", ascending=False)
     report_day_df["Proportion"] = report_day_df["Report Count"] / df_range.shape[0]
+    report_week_type_df["Proportion"] = report_week_type_df["Report Count"] / report_week_type_df.shape[0]
 
     # plt.figure(figsize=(15, 5))
     # # plt.
@@ -101,6 +156,22 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
 
     print(report_day_df)
+    
+    plt.figure(figsize=(10, 5))
+    plt.title("Day of Report Proportion")
+    plt.ylabel("Proportion")
+    plt.xlabel("Day")
+    plt.bar(report_day_df.index, report_day_df["Proportion"].values)
+    plt.savefig(f"./analysis/plots/report_day_proportion.png")
+    plt.close()
+
+    plt.figure(figsize=(10, 5))
+    plt.title("Day of Report Frequency")
+    plt.ylabel("Frequency")
+    plt.xlabel("Day")
+    plt.bar(report_day_df.index, report_day_df["Report Count"].values)
+    plt.savefig(f"./analysis/plots/report_day_frequency.png")
+    plt.close()
 
     return report_day_df
 

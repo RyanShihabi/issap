@@ -9,6 +9,7 @@ from tqdm import tqdm
 import pandas as pd
 import numpy as np
 import savepagenow
+import matplotlib.pyplot as plt
 
 def archive_paragraph_split(report_text: str):
 	return report_text.split("\n")

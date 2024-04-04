@@ -4,6 +4,7 @@ from tqdm import tqdm
 from utils.mining_utils import (export_data)
 from utils.apriori_utils import (apriori_from_df,
                            apriori_from_list)
+import matplotlib.pyplot as plt
 
 with open("./analysis/json/paragraph_mentions.json", "r") as f:
     paragraph_list = json.load(f)
@@ -29,7 +30,17 @@ with open("./analysis/json/custom_category_pair_frequency.json", "r") as f:
     data = json.load(f)
 f.close()
 
-category_pair_count = {k: v for k, v in sorted(data.items(), key=lambda item: item[1], reverse=True)}
+print(data.keys())
+
+# Plot Custom Category Pair Mentions
+plt.figure(figsize=(15, 5))
+plt.title("Custom Category Pair Mentions")
+plt.xlabel("Category Pair")
+plt.ylabel("Frequency")
+plt.bar(list(data.keys())[:5], list(data.values())[:5])
+plt.savefig("./analysis/plots/Custom_Category_Pair_Mentions.png")
+plt.show()
+plt.close()
 
 # pair_type = "custom"
 
@@ -45,5 +56,6 @@ category_pair_count = {k: v for k, v in sorted(data.items(), key=lambda item: it
 
 #         # total = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
+# category_pair_count = {k: v for k, v in sorted(data.items(), key=lambda item: item[1], reverse=True)}
 
-export_data(category_pair_count, "./analysis/json/custom_category_pair_frequency.json")
+# export_data(category_pair_count, "./analysis/json/custom_category_pair_frequency.json")
