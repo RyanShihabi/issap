@@ -197,7 +197,6 @@ def plot_apriori_mentions(apriori_df: pd.DataFrame):
 def plot_pairs(pair_data_dir: str):
     for folder in tqdm(os.listdir(pair_data_dir)):
         folder_path = os.path.join(pair_data_dir, folder)
-        print(folder_path)
 
         for file in os.listdir(folder_path):
             print(file)
@@ -205,10 +204,12 @@ def plot_pairs(pair_data_dir: str):
             file_name = file.split('.')[0]
             df = pd.read_csv(file_path)
 
-            print(df["frequency"].sum())
-
             if df["frequency"].sum() == 0:
                 continue
+
+            stats = df.describe().loc[["min", "mean", "std", "max"], ["support", "frequency"]].T
+            
+            stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{folder}/{file_name}.csv")
 
             pairs = ["-".join(re.findall(r"(?<=')[\w\s-]+(?=')", val)) for val in df["itemsets"].values]
             

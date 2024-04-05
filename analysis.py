@@ -15,7 +15,7 @@ df['Report Date'] = pd.to_datetime(df['Report Date'])
 
 df_range = df[df["Report Date"] < "2023-01-01"]
 
-# plot_pairs("./analysis/csv/apriori_pairs/filtered/")
+plot_pairs("./analysis/csv/apriori_pairs/filtered/")
 
 # calc_report_date_frequency(df_range)
 
@@ -34,8 +34,8 @@ df_range = df[df["Report Date"] < "2023-01-01"]
 
 # calc_facility_freq_year(df_range)
 
-facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
+# facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 
-calc_total_category_mentions(facility_data["category_facilities"], df_range)
+# calc_total_category_mentions(facility_data["category_facilities"], df_range)
 
 # calc_report_date_frequency(df_range)
