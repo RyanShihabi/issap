@@ -26,18 +26,19 @@ f.close()
 
 category_pair_count = {}
 
+
 with open("./analysis/json/custom_category_pair_frequency.json", "r") as f:
     data = json.load(f)
 f.close()
-
-print(data.keys())
 
 # Plot Custom Category Pair Mentions
 plt.figure(figsize=(15, 5))
 plt.title("Custom Category Pair Mentions")
 plt.xlabel("Category Pair")
 plt.ylabel("Frequency")
+plt.xticks(rotation=45)
 plt.bar(list(data.keys())[:5], list(data.values())[:5])
+plt.tight_layout()
 plt.savefig("./analysis/plots/Custom_Category_Pair_Mentions.png")
 plt.show()
 plt.close()

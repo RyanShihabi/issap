@@ -124,8 +124,11 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
     plt.figure(figsize=(25, 5))
     print(df_category_mentions.values.shape)
     plt.bar(df_category_mentions.index[:-1], df_category_mentions.values.flatten()[:-1])
+    plt.title("Total Category Mentions")
     plt.xlabel("Category")
     plt.ylabel("Frequency")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
     plt.savefig("./analysis/plots/Category_Mentions.png")
     plt.close()
 
