@@ -3,6 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import date
 from utils.mining_utils import export_data
+from tqdm import tqdm
+import re
 
 # Facility mentions over total days
 def calc_facility_proportions(df: pd.DataFrame):
@@ -188,3 +190,29 @@ def plot_apriori_mentions(apriori_df: pd.DataFrame):
     ax = plt.gca()
     ax.set_xlim([0, 30])
     plt.show()
+
+def plot_pairs(pair_data_dir: str):
+    for folder in tqdm(os.listdir(pair_data_dir)):
+        folder_path = os.path.join(pair_data_dir, folder)
+        print(folder_path)
+
+        for file in os.listdir(folder_path):
+            print(file)
+            file_path = os.path.join(folder_path, file)
+            file_name = file.split('.')[0]
+            df = pd.read_csv(file_path)
+
+            print(df["frequency"].sum())
+
+            if df["frequency"].sum() == 0:
+                continue
+
+            pairs = ["-".join(re.findall(r"(?<=')[\w\s-]+(?=')", val)) for val in df["itemsets"].values]
+            
+            plt.figure(figsize=(25, 5))
+            plt.bar(pairs[:15], df["frequency"].values[:15])
+            plt.title(f"{file_name} {folder.capitalize()} Pairs")
+            plt.ylabel("Frequency")
+            plt.xticks(rotation=90)
+            plt.tight_layout()
+            plt.savefig(f"./analysis/plots/Pair_Plots/{folder}/{file_name}.png")

@@ -4,6 +4,7 @@ from utils.analysis_utils import (calc_facility_proportions,
                             calc_total_category_mentions,
                             calc_report_date_frequency,
                             plot_apriori_mentions,
+                            plot_pairs
                         )
 
 from utils.mining_utils import (generate_facility_names, export_data)
@@ -13,6 +14,8 @@ df = pd.read_csv("./analysis/csv/facility_mentions.csv").rename(columns={"Unname
 df['Report Date'] = pd.to_datetime(df['Report Date'])
 
 df_range = df[df["Report Date"] < "2023-01-01"]
+
+plot_pairs("./analysis/csv/apriori_pairs/filtered/")
 
 # calc_report_date_frequency(df_range)
 
