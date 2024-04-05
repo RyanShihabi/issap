@@ -213,6 +213,6 @@ def plot_pairs(pair_data_dir: str):
             plt.bar(pairs[:15], df["frequency"].values[:15])
             plt.title(f"{file_name} {folder.capitalize()} Pairs")
             plt.ylabel("Frequency")
-            plt.xticks(rotation=90)
+            plt.xticks(rotation=45)
             plt.tight_layout()
             plt.savefig(f"./analysis/plots/Pair_Plots/{folder}/{file_name}.png")
