@@ -1,0 +1,20 @@
+,support,itemsets,length,frequency
+271,0.00034766485108355543,"frozenset({'CGBA', 'SLAMMD'})",2,3
+224,0.00023177656738903696,"frozenset({'Bone Densitometer', 'Ultrasound'})",2,2
+260,0.00023177656738903696,"frozenset({'CGBA', 'Holter'})",2,2
+548,0.00023177656738903696,"frozenset({'MERLIN', 'Portable Pulmonary Function System'})",2,2
+546,0.00023177656738903696,"frozenset({'MERLIN', 'PFS'})",2,2
+545,0.00023177656738903696,"frozenset({'PCBA', 'MERLIN'})",2,2
+266,0.00023177656738903696,"frozenset({'PCBA', 'CGBA'})",2,2
+267,0.00023177656738903696,"frozenset({'CGBA', 'PFS'})",2,2
+269,0.00023177656738903696,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
+512,0.00011588828369451848,"frozenset({'MERLIN', 'MARES'})",2,1
+552,0.00011588828369451848,"frozenset({'MERLIN', 'TEPC'})",2,1
+236,0.00011588828369451848,"frozenset({'Holter', 'CBEF'})",2,1
+273,0.00011588828369451848,"frozenset({'CGBA', 'Ultrasound'})",2,1
+272,0.00011588828369451848,"frozenset({'CGBA', 'TEPC'})",2,1
+256,0.00011588828369451848,"frozenset({'CGBA', 'EPM'})",2,1
+211,0.00011588828369451848,"frozenset({'Bio-Analyzer', 'Bio-Monitor'})",2,1
+167,0.00011588828369451848,"frozenset({'ALTEA', 'CBEF'})",2,1
+173,0.00011588828369451848,"frozenset({'MERLIN', 'ALTEA'})",2,1
+159,0.00011588828369451848,"frozenset({'SLAMMD', 'ABRS'})",2,1

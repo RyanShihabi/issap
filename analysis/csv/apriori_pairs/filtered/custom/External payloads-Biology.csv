@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+588,0.00011588828369451848,"frozenset({'NanoRacks Plate Reader', 'NanoRacks External Platform'})",2,1
+255,0.00011588828369451848,"frozenset({'CGBA', 'ELC'})",2,1
+325,0.00011588828369451848,"frozenset({'ELC', 'MDS'})",2,1

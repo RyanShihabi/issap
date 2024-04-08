@@ -1,0 +1,13 @@
+,support,itemsets,length,frequency
+257,0.006489743886893035,"frozenset({'EXPRESS Rack', 'CGBA'})",2,56
+199,0.0013906594043342217,"frozenset({'MSPR', 'Aquatic Habitat'})",2,12
+372,0.0008112179858616293,"frozenset({'EXPRESS Rack', 'MDS'})",2,7
+271,0.00034766485108355543,"frozenset({'CGBA', 'SLAMMD'})",2,3
+383,0.00023177656738903696,"frozenset({'NanoRacks Plate Reader', 'EXPRESS Rack'})",2,2
+254,0.00023177656738903696,"frozenset({'EDR', 'CGBA'})",2,2
+215,0.00023177656738903696,"frozenset({'EXPRESS Rack', 'Bioculture System'})",2,2
+388,0.00023177656738903696,"frozenset({'EXPRESS Rack', 'Rodent Research'})",2,2
+573,0.00011588828369451848,"frozenset({'TELLAS', 'MSPR'})",2,1
+208,0.00011588828369451848,"frozenset({'BSTC', 'EXPRESS Rack'})",2,1
+205,0.00011588828369451848,"frozenset({'BRIC', 'EXPRESS Rack'})",2,1
+382,0.00011588828369451848,"frozenset({'EXPRESS Rack', 'Mobile SpaceLab'})",2,1

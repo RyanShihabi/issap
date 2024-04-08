@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+270,0.00034766485108355543,"frozenset({'CGBA', 'SABL'})",2,3
+292,0.00023177656738903696,"frozenset({'CellCult', 'SABL'})",2,2
+166,0.00023177656738903696,"frozenset({'ADSEP', 'SABL'})",2,2
+261,0.00011588828369451848,"frozenset({'Kubik', 'CGBA'})",2,1

@@ -1,0 +1,48 @@
+,support,itemsets,length,frequency
+186,0.03430293197357747,"frozenset({'HRF-1', 'Actiwatch'})",2,296
+596,0.017267354270483252,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,149
+352,0.013443040908564144,"frozenset({'Holter', 'EPM'})",2,116
+188,0.012631822922702514,"frozenset({'Holter', 'Actiwatch'})",2,109
+582,0.007185073589060146,"frozenset({'PCBA', 'Mass Measurement Device'})",2,62
+477,0.004519643064086221,"frozenset({'Holter', 'Ultrasound'})",2,39
+184,0.004519643064086221,"frozenset({'EPM', 'Actiwatch'})",2,39
+194,0.002897207092362962,"frozenset({'Ultrasound', 'Actiwatch'})",2,25
+472,0.002897207092362962,"frozenset({'Holter', 'PFS'})",2,25
+356,0.002433653957584888,"frozenset({'EPM', 'PFS'})",2,21
+463,0.0017383242554177773,"frozenset({'PFS', 'HRF-2'})",2,15
+460,0.0012747711206397034,"frozenset({'HRF-1', 'Ultrasound'})",2,11
+461,0.0012747711206397034,"frozenset({'Holter', 'HRF-2'})",2,11
+353,0.0011588828369451848,"frozenset({'MARES', 'EPM'})",2,10
+250,0.0011588828369451848,"frozenset({'Holter', 'CBPD'})",2,10
+249,0.0010429945532506664,"frozenset({'EPM', 'CBPD'})",2,9
+457,0.0010429945532506664,"frozenset({'HRF-1', 'Mass Measurement Device'})",2,9
+360,0.0009271062695561478,"frozenset({'Ultrasound', 'EPM'})",2,8
+351,0.0006953297021671109,"frozenset({'EPM', 'HRF-2'})",2,6
+471,0.0006953297021671109,"frozenset({'Holter', 'Mass Measurement Device'})",2,6
+182,0.0005794414184725924,"frozenset({'CBPD', 'Actiwatch'})",2,5
+598,0.0005794414184725924,"frozenset({'Ultrasound', 'PFS'})",2,5
+355,0.0004635531347780739,"frozenset({'PCBA', 'EPM'})",2,4
+473,0.0004635531347780739,"frozenset({'Holter', 'Portable Pulmonary Function System'})",2,4
+187,0.00034766485108355543,"frozenset({'HRF-2', 'Actiwatch'})",2,3
+603,0.00034766485108355543,"frozenset({'Ultrasound', 'Portable Pulmonary Function System'})",2,3
+455,0.00034766485108355543,"frozenset({'HRF-1', 'HRF-2'})",2,3
+514,0.00023177656738903696,"frozenset({'MARES', 'Mass Measurement Device'})",2,2
+224,0.00023177656738903696,"frozenset({'Bone Densitometer', 'Ultrasound'})",2,2
+465,0.00023177656738903696,"frozenset({'Ultrasound', 'HRF-2'})",2,2
+357,0.00023177656738903696,"frozenset({'Portable Pulmonary Function System', 'EPM'})",2,2
+456,0.00023177656738903696,"frozenset({'HRF-1', 'Holter'})",2,2
+589,0.00011588828369451848,"frozenset({'PCBA', 'RAM'})",2,1
+585,0.00011588828369451848,"frozenset({'Ultrasound', 'Mass Measurement Device'})",2,1
+592,0.00011588828369451848,"frozenset({'PCBA', 'TEPC'})",2,1
+593,0.00011588828369451848,"frozenset({'PCBA', 'Ultrasound'})",2,1
+516,0.00011588828369451848,"frozenset({'MARES', 'Ultrasound'})",2,1
+251,0.00011588828369451848,"frozenset({'PFS', 'CBPD'})",2,1
+211,0.00011588828369451848,"frozenset({'Bio-Analyzer', 'Bio-Monitor'})",2,1
+175,0.00011588828369451848,"frozenset({'PCBA', 'ALTEA'})",2,1
+177,0.00011588828369451848,"frozenset({'ALTEA', 'Portable Pulmonary Function System'})",2,1
+176,0.00011588828369451848,"frozenset({'ALTEA', 'PFS'})",2,1
+192,0.00011588828369451848,"frozenset({'Portable Pulmonary Function System', 'Actiwatch'})",2,1
+179,0.00011588828369451848,"frozenset({'ALTEA', 'TEPC'})",2,1
+191,0.00011588828369451848,"frozenset({'PFS', 'Actiwatch'})",2,1
+458,0.00011588828369451848,"frozenset({'HRF-1', 'PFS'})",2,1
+435,0.00011588828369451848,"frozenset({'GASMAP', 'HRF-2'})",2,1

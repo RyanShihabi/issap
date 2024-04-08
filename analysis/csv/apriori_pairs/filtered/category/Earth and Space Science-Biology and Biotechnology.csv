@@ -1,0 +1,11 @@
+,support,itemsets,length,frequency
+327,0.0009271062695561478,"frozenset({'MERLIN', 'ELC'})",2,8
+321,0.0005794414184725924,"frozenset({'EMCS', 'ELC'})",2,5
+274,0.00034766485108355543,"frozenset({'WORF', 'CGBA'})",2,3
+148,0.00023177656738903696,"frozenset({'ELC', 'ABRS'})",2,2
+501,0.00011588828369451848,"frozenset({'KFT', 'Solar'})",2,1
+601,0.00011588828369451848,"frozenset({'WORF', 'Plant Habitat'})",2,1
+218,0.00011588828369451848,"frozenset({'Bone Densitometer', 'ELC'})",2,1
+255,0.00011588828369451848,"frozenset({'CGBA', 'ELC'})",2,1
+329,0.00011588828369451848,"frozenset({'ELC', 'Plant Habitat'})",2,1
+325,0.00011588828369451848,"frozenset({'ELC', 'MDS'})",2,1

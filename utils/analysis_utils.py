@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 from datetime import date
 from utils.mining_utils import export_data
 from tqdm import tqdm
@@ -102,17 +103,21 @@ def calc_facility_freq_month(df: pd.DataFrame):
 
 # Total facility mentions grouped by category
 def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame):
-    category_mentions = {"Total": {}}
+    category_mentions = {"Frequency": {}}
 
     for category in facility_category:
         df_category = df_range[facility_category[category]]
 
-        category_mentions["Total"][category] = df_category.sum().sum()
+        category_mentions["Frequency"][category] = df_category.sum().sum()
 
     # Convert to dataframe
-    df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Total", ascending=False)
+    df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Frequency", ascending=False)
+
+    stats = df_category_mentions.describe().loc[["min", "mean", "std", "max"], ["Frequency"]].T
+
+    stats.to_csv(f"./analysis/csv/category_stats.csv")
     
-    total = df_category_mentions.sum()["Total"]
+    total = df_category_mentions.sum()["Frequency"]
 
     df_category_mention_prop = df_category_mentions / total
 
@@ -203,8 +208,9 @@ def plot_pairs(pair_data_dir: str):
             file_path = os.path.join(folder_path, file)
             file_name = file.split('.')[0]
             df = pd.read_csv(file_path)
+            df["frequency"] = df["frequency"].astype(int)
 
-            if df["frequency"].sum() == 0:
+            if df["frequency"].sum() == 0 or df.shape[0] < 2:
                 continue
 
             stats = df.describe().loc[["min", "mean", "std", "max"], ["support", "frequency"]].T
@@ -213,10 +219,12 @@ def plot_pairs(pair_data_dir: str):
 
             pairs = ["-".join(re.findall(r"(?<=')[\w\s-]+(?=')", val)) for val in df["itemsets"].values]
             
-            plt.figure(figsize=(25, 5))
-            plt.bar(pairs[:15], df["frequency"].values[:15])
+            plt.figure(figsize=(10, 15))
+            ax = plt.gca()
+            ax.xaxis.set_major_locator(MaxNLocator(integer=True))
+            plt.barh(pairs[:15], df["frequency"].values[:15])
             plt.title(f"{file_name} {folder.capitalize()} Pairs")
-            plt.ylabel("Frequency")
-            plt.xticks(rotation=45)
+            plt.xlabel("Frequency")
             plt.tight_layout()
             plt.savefig(f"./analysis/plots/Pair_Plots/{folder}/{file_name}.png")
+            plt.close()

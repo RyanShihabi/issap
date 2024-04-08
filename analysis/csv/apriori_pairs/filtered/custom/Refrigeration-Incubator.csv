@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+536,0.0010429945532506664,"frozenset({'MELFI', 'SABL'})",2,9
+549,0.0006953297021671109,"frozenset({'MERLIN', 'SABL'})",2,6
+503,0.0005794414184725924,"frozenset({'Kubik', 'MELFI'})",2,5
+446,0.00034766485108355543,"frozenset({'GLACIER', 'SABL'})",2,3
+424,0.00023177656738903696,"frozenset({'FROST', 'SABL'})",2,2

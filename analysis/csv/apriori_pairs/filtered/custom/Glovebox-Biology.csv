@@ -1,0 +1,9 @@
+,support,itemsets,length,frequency
+230,0.003360760227141036,"frozenset({'Saibo', 'CB'})",2,29
+264,0.0019701008228068142,"frozenset({'CGBA', 'MSG'})",2,17
+519,0.0005794414184725924,"frozenset({'PGB', 'MDS'})",2,5
+561,0.0005794414184725924,"frozenset({'MSG', 'Rodent Research'})",2,5
+216,0.0004635531347780739,"frozenset({'Bioculture System', 'MSG'})",2,4
+510,0.00034766485108355543,"frozenset({'LSG', 'Rodent Research'})",2,3
+291,0.00023177656738903696,"frozenset({'CellCult', 'MSG'})",2,2
+557,0.00011588828369451848,"frozenset({'PCRF', 'MSG'})",2,1

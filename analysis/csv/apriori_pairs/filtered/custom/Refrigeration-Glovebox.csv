@@ -1,0 +1,10 @@
+,support,itemsets,length,frequency
+522,0.0011588828369451848,"frozenset({'MELFI', 'MSG'})",2,10
+498,0.0011588828369451848,"frozenset({'MELFI', 'KFT'})",2,10
+544,0.0005794414184725924,"frozenset({'MERLIN', 'MSG'})",2,5
+228,0.0004635531347780739,"frozenset({'MELFI', 'CB'})",2,4
+441,0.00023177656738903696,"frozenset({'GLACIER', 'MSG'})",2,2
+452,0.00023177656738903696,"frozenset({'Glovebox Freezer', 'LSG'})",2,2
+453,0.00023177656738903696,"frozenset({'Glovebox Freezer', 'MSG'})",2,2
+530,0.00023177656738903696,"frozenset({'MELFI', 'PGB'})",2,2
+229,0.00011588828369451848,"frozenset({'MERLIN', 'CB'})",2,1

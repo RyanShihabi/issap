@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+276,0.0004635531347780739,"frozenset({'CIR', 'ELC'})",2,4
+336,0.00011588828369451848,"frozenset({'ELF', 'HSRC'})",2,1

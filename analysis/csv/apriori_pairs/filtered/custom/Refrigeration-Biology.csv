@@ -1,0 +1,19 @@
+,support,itemsets,length,frequency
+538,0.0009271062695561478,"frozenset({'MELFI', 'Saibo'})",2,8
+207,0.0008112179858616293,"frozenset({'MELFI', 'BRIC'})",2,7
+518,0.0006953297021671109,"frozenset({'MELFI', 'MDS'})",2,6
+290,0.0005794414184725924,"frozenset({'MELFI', 'CellCult'})",2,5
+263,0.0004635531347780739,"frozenset({'MERLIN', 'CGBA'})",2,4
+214,0.00023177656738903696,"frozenset({'MELFI', 'BioLab'})",2,2
+447,0.00023177656738903696,"frozenset({'Saibo', 'GLACIER'})",2,2
+535,0.00023177656738903696,"frozenset({'MELFI', 'Rodent Research'})",2,2
+165,0.00023177656738903696,"frozenset({'ADSEP', 'MELFI'})",2,2
+198,0.00023177656738903696,"frozenset({'MELFI', 'Aquatic Habitat'})",2,2
+262,0.00023177656738903696,"frozenset({'MELFI', 'CGBA'})",2,2
+543,0.00011588828369451848,"frozenset({'MELFI', 'Wet Lab RNA SmartCycler'})",2,1
+551,0.00011588828369451848,"frozenset({'MERLIN', 'STaARS-1 EF'})",2,1
+203,0.00011588828369451848,"frozenset({'MERLIN', 'BFF'})",2,1
+432,0.00011588828369451848,"frozenset({'Fruit Fly Lab', 'MELFI'})",2,1
+454,0.00011588828369451848,"frozenset({'Glovebox Freezer', 'Rodent Research'})",2,1
+438,0.00011588828369451848,"frozenset({'GLACIER', 'MDS'})",2,1
+308,0.00011588828369451848,"frozenset({'Double Coldbag', 'Saibo'})",2,1

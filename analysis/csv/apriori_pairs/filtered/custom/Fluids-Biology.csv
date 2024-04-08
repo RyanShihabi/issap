@@ -1,0 +1,7 @@
+,support,itemsets,length,frequency
+594,0.0012747711206397034,"frozenset({'Ryutai', 'PCRF'})",2,11
+416,0.0005794414184725924,"frozenset({'FPEF', 'PCRF'})",2,5
+259,0.00023177656738903696,"frozenset({'FSL', 'CGBA'})",2,2
+608,0.00023177656738903696,"frozenset({'Ryutai', 'Saibo'})",2,2
+300,0.00023177656738903696,"frozenset({'MDS', 'DECLIC'})",2,2
+258,0.00011588828369451848,"frozenset({'FIR', 'CGBA'})",2,1

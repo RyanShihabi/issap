@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+413,0.004867307915169776,"frozenset({'FPEF', 'IPU'})",2,42
+483,0.0017383242554177773,"frozenset({'Ryutai', 'IPU'})",2,15
+401,0.00011588828369451848,"frozenset({'FIR', 'IPU'})",2,1

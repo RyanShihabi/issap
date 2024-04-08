@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+246,0.004056089929308147,"frozenset({'Saibo', 'CBEF'})",2,35
+243,0.0005794414184725924,"frozenset({'PCRF', 'CBEF'})",2,5
+196,0.0004635531347780739,"frozenset({'CBEF', 'Aquatic Habitat'})",2,4
+248,0.00011588828369451848,"frozenset({'Saibo', 'CBEF-L'})",2,1

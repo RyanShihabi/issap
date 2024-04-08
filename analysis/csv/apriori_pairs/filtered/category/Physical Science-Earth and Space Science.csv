@@ -1,7 +1,7 @@
 ,support,itemsets,length,frequency
-23,0.002287021154945683,"frozenset({'ELC', 'CIR'})",2,4
-27,0.0011435105774728416,"frozenset({'WORF', 'CIR'})",2,2
-37,0.0005717552887364208,"frozenset({'FSL', 'WORF'})",2,1
-21,0.0005717552887364208,"frozenset({'BXF', 'Solar'})",2,1
-30,0.0005717552887364208,"frozenset({'ELC', 'FPEF'})",2,1
-28,0.0005717552887364208,"frozenset({'DECLIC', 'ELC'})",2,1
+276,0.0004635531347780739,"frozenset({'CIR', 'ELC'})",2,4
+289,0.00023177656738903696,"frozenset({'CIR', 'WORF'})",2,2
+297,0.00011588828369451848,"frozenset({'ELC', 'DECLIC'})",2,1
+210,0.00011588828369451848,"frozenset({'BXF', 'Solar'})",2,1
+431,0.00011588828369451848,"frozenset({'FSL', 'WORF'})",2,1
+323,0.00011588828369451848,"frozenset({'FPEF', 'ELC'})",2,1

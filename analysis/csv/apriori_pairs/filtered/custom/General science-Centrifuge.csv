@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+242,0.0013906594043342217,"frozenset({'MSPR', 'CBEF'})",2,12
+605,0.00034766485108355543,"frozenset({'RC', 'SLAMMD'})",2,3
+379,0.00011588828369451848,"frozenset({'EXPRESS Rack', 'MVP'})",2,1

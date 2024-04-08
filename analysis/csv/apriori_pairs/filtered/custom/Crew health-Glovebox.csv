@@ -1,0 +1,10 @@
+,support,itemsets,length,frequency
+221,0.0005794414184725924,"frozenset({'Bone Densitometer', 'MSG'})",2,5
+555,0.00023177656738903696,"frozenset({'Mass Measurement Device', 'MSG'})",2,2
+513,0.00011588828369451848,"frozenset({'MARES', 'MSG'})",2,1
+556,0.00011588828369451848,"frozenset({'PCBA', 'MSG'})",2,1
+559,0.00011588828369451848,"frozenset({'PFS', 'MSG'})",2,1
+560,0.00011588828369451848,"frozenset({'Portable Pulmonary Function System', 'MSG'})",2,1
+231,0.00011588828369451848,"frozenset({'UMS', 'CB'})",2,1
+174,0.00011588828369451848,"frozenset({'ALTEA', 'MSG'})",2,1
+190,0.00011588828369451848,"frozenset({'MSG', 'Actiwatch'})",2,1

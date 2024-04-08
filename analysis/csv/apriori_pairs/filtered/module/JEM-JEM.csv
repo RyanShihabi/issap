@@ -1,52 +1,52 @@
 ,support,itemsets,length,frequency
-52,0.021991203518592562,"frozenset({'CBEF', 'MELFI'})",2,55
-64,0.01679328268692523,"frozenset({'IPU', 'FPEF'})",2,42
-55,0.013994402239104359,"frozenset({'CBEF', 'Saibo'})",2,35
-48,0.011595361855257898,"frozenset({'Saibo', 'CB'})",2,29
-67,0.007996801279488205,"frozenset({'Ryutai', 'FPEF'})",2,20
-63,0.007197121151539384,"frozenset({'ELF', 'MSPR'})",2,18
-68,0.006397441023590564,"frozenset({'SCOF', 'FPEF'})",2,16
-75,0.0059976009596161535,"frozenset({'Ryutai', 'IPU'})",2,15
-51,0.005597760895641743,"frozenset({'CBEF', 'IPU'})",2,14
-76,0.005197920831667333,"frozenset({'SCOF', 'IPU'})",2,13
-88,0.004798080767692923,"frozenset({'Ryutai', 'SCOF'})",2,12
-45,0.004798080767692923,"frozenset({'MSPR', 'Aquatic Habitat'})",2,12
-53,0.004798080767692923,"frozenset({'MSPR', 'CBEF'})",2,12
-86,0.004398240703718513,"frozenset({'PCRF', 'Ryutai'})",2,11
-82,0.003198720511795282,"frozenset({'Saibo', 'MELFI'})",2,8
-40,0.0023990403838464614,"frozenset({'CellCult', 'ADSEP'})",2,6
-80,0.0023990403838464614,"frozenset({'MSPR', 'MELFI'})",2,6
-54,0.001999200319872051,"frozenset({'CBEF', 'PCRF'})",2,5
-87,0.001999200319872051,"frozenset({'PCRF', 'SCOF'})",2,5
-66,0.001999200319872051,"frozenset({'PCRF', 'FPEF'})",2,5
-59,0.001999200319872051,"frozenset({'CellCult', 'MELFI'})",2,5
-74,0.001999200319872051,"frozenset({'PCRF', 'IPU'})",2,5
-39,0.001599360255897641,"frozenset({'MELFI', 'ABRS'})",2,4
-47,0.001599360255897641,"frozenset({'MELFI', 'CB'})",2,4
-42,0.001599360255897641,"frozenset({'CBEF', 'Aquatic Habitat'})",2,4
-73,0.0011995201919232307,"frozenset({'MSPR', 'IPU'})",2,3
-77,0.0011995201919232307,"frozenset({'Saibo', 'IPU'})",2,3
-41,0.0007996801279488205,"frozenset({'MELFI', 'ADSEP'})",2,2
-83,0.0007996801279488205,"frozenset({'MSPR', 'Ryutai'})",2,2
-44,0.0007996801279488205,"frozenset({'Aquatic Habitat', 'MELFI'})",2,2
-79,0.0007996801279488205,"frozenset({'NanoRacks External Platform', 'JEM-EF'})",2,2
-49,0.0007996801279488205,"frozenset({'CBEF', 'Confocal Microscope'})",2,2
-89,0.0007996801279488205,"frozenset({'Ryutai', 'Saibo'})",2,2
-70,0.0007996801279488205,"frozenset({'MELFI', 'FROST'})",2,2
-72,0.00039984006397441024,"frozenset({'KOBAIRO Rack', 'GHF'})",2,1
-57,0.00039984006397441024,"frozenset({'Saibo', 'CBEF-L'})",2,1
-60,0.00039984006397441024,"frozenset({'MSPR', 'Confocal Microscope'})",2,1
-65,0.00039984006397441024,"frozenset({'MSPR', 'FPEF'})",2,1
-43,0.00039984006397441024,"frozenset({'Aquatic Habitat', 'IPU'})",2,1
-85,0.00039984006397441024,"frozenset({'NanoRacks CubeSat Deployer', 'NanoRacks-extCygnus-NRCSD'})",2,1
-84,0.00039984006397441024,"frozenset({'TELLAS', 'MSPR'})",2,1
-58,0.00039984006397441024,"frozenset({'MSPR', 'CCE'})",2,1
-81,0.00039984006397441024,"frozenset({'Plant Habitat', 'MELFI'})",2,1
-71,0.00039984006397441024,"frozenset({'MSPR', 'FROST'})",2,1
-46,0.00039984006397441024,"frozenset({'CB', 'IPU'})",2,1
-56,0.00039984006397441024,"frozenset({'CBEF-L', 'Confocal Microscope'})",2,1
-78,0.00039984006397441024,"frozenset({'NanoRacks CubeSat Deployer', 'J-SSOD'})",2,1
-69,0.00039984006397441024,"frozenset({'HSRC', 'FROST'})",2,1
-61,0.00039984006397441024,"frozenset({'Cyclops', 'NanoRacks External Platform'})",2,1
-50,0.00039984006397441024,"frozenset({'CBEF', 'FROST'})",2,1
-62,0.00039984006397441024,"frozenset({'ELF', 'HSRC'})",2,1
+239,0.006373855603198517,"frozenset({'MELFI', 'CBEF'})",2,55
+413,0.004867307915169776,"frozenset({'FPEF', 'IPU'})",2,42
+246,0.004056089929308147,"frozenset({'Saibo', 'CBEF'})",2,35
+230,0.003360760227141036,"frozenset({'Saibo', 'CB'})",2,29
+417,0.0023177656738903696,"frozenset({'Ryutai', 'FPEF'})",2,20
+337,0.002085989106501333,"frozenset({'MSPR', 'ELF'})",2,18
+418,0.0018542125391122957,"frozenset({'FPEF', 'SCOF'})",2,16
+483,0.0017383242554177773,"frozenset({'Ryutai', 'IPU'})",2,15
+237,0.0016224359717232587,"frozenset({'IPU', 'CBEF'})",2,14
+484,0.0015065476880287403,"frozenset({'IPU', 'SCOF'})",2,13
+607,0.0013906594043342217,"frozenset({'Ryutai', 'SCOF'})",2,12
+242,0.0013906594043342217,"frozenset({'MSPR', 'CBEF'})",2,12
+199,0.0013906594043342217,"frozenset({'MSPR', 'Aquatic Habitat'})",2,12
+594,0.0012747711206397034,"frozenset({'Ryutai', 'PCRF'})",2,11
+538,0.0009271062695561478,"frozenset({'MELFI', 'Saibo'})",2,8
+523,0.0006953297021671109,"frozenset({'MSPR', 'MELFI'})",2,6
+164,0.0006953297021671109,"frozenset({'ADSEP', 'CellCult'})",2,6
+290,0.0005794414184725924,"frozenset({'MELFI', 'CellCult'})",2,5
+595,0.0005794414184725924,"frozenset({'PCRF', 'SCOF'})",2,5
+243,0.0005794414184725924,"frozenset({'PCRF', 'CBEF'})",2,5
+482,0.0005794414184725924,"frozenset({'PCRF', 'IPU'})",2,5
+416,0.0005794414184725924,"frozenset({'FPEF', 'PCRF'})",2,5
+196,0.0004635531347780739,"frozenset({'CBEF', 'Aquatic Habitat'})",2,4
+228,0.0004635531347780739,"frozenset({'MELFI', 'CB'})",2,4
+154,0.0004635531347780739,"frozenset({'MELFI', 'ABRS'})",2,4
+485,0.00034766485108355543,"frozenset({'Saibo', 'IPU'})",2,3
+480,0.00034766485108355543,"frozenset({'MSPR', 'IPU'})",2,3
+421,0.00023177656738903696,"frozenset({'FROST', 'MELFI'})",2,2
+571,0.00023177656738903696,"frozenset({'Ryutai', 'MSPR'})",2,2
+232,0.00023177656738903696,"frozenset({'CBEF', 'Confocal Microscope'})",2,2
+493,0.00023177656738903696,"frozenset({'JEM-EF', 'NanoRacks External Platform'})",2,2
+608,0.00023177656738903696,"frozenset({'Ryutai', 'Saibo'})",2,2
+165,0.00023177656738903696,"frozenset({'ADSEP', 'MELFI'})",2,2
+198,0.00023177656738903696,"frozenset({'MELFI', 'Aquatic Habitat'})",2,2
+491,0.00011588828369451848,"frozenset({'NanoRacks CubeSat Deployer', 'J-SSOD'})",2,1
+573,0.00011588828369451848,"frozenset({'TELLAS', 'MSPR'})",2,1
+587,0.00011588828369451848,"frozenset({'NanoRacks-extCygnus-NRCSD', 'NanoRacks CubeSat Deployer'})",2,1
+531,0.00011588828369451848,"frozenset({'MELFI', 'Plant Habitat'})",2,1
+247,0.00011588828369451848,"frozenset({'CBEF-L', 'Confocal Microscope'})",2,1
+234,0.00011588828369451848,"frozenset({'FROST', 'CBEF'})",2,1
+227,0.00011588828369451848,"frozenset({'IPU', 'CB'})",2,1
+248,0.00011588828369451848,"frozenset({'Saibo', 'CBEF-L'})",2,1
+252,0.00011588828369451848,"frozenset({'CCE', 'MSPR'})",2,1
+296,0.00011588828369451848,"frozenset({'NanoRacks External Platform', 'Cyclops'})",2,1
+293,0.00011588828369451848,"frozenset({'MSPR', 'Confocal Microscope'})",2,1
+197,0.00011588828369451848,"frozenset({'IPU', 'Aquatic Habitat'})",2,1
+423,0.00011588828369451848,"frozenset({'FROST', 'MSPR'})",2,1
+420,0.00011588828369451848,"frozenset({'FROST', 'HSRC'})",2,1
+414,0.00011588828369451848,"frozenset({'MSPR', 'FPEF'})",2,1
+436,0.00011588828369451848,"frozenset({'GHF', 'KOBAIRO Rack'})",2,1
+336,0.00011588828369451848,"frozenset({'ELF', 'HSRC'})",2,1

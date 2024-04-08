@@ -1,0 +1,15 @@
+,support,itemsets,length,frequency
+193,0.003360760227141036,"frozenset({'Spectrum', 'Actiwatch'})",2,29
+476,0.002085989106501333,"frozenset({'Holter', 'Spectrum'})",2,18
+265,0.00034766485108355543,"frozenset({'CGBA', 'Mass Measurement Device'})",2,3
+223,0.00023177656738903696,"frozenset({'Bone Densitometer', 'Spectrum'})",2,2
+206,0.00023177656738903696,"frozenset({'BRIC', 'HRF-2'})",2,2
+260,0.00023177656738903696,"frozenset({'CGBA', 'Holter'})",2,2
+266,0.00023177656738903696,"frozenset({'PCBA', 'CGBA'})",2,2
+267,0.00023177656738903696,"frozenset({'CGBA', 'PFS'})",2,2
+269,0.00023177656738903696,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
+359,0.00023177656738903696,"frozenset({'Spectrum', 'EPM'})",2,2
+222,0.00011588828369451848,"frozenset({'Bone Densitometer', 'Rodent Research'})",2,1
+273,0.00011588828369451848,"frozenset({'CGBA', 'Ultrasound'})",2,1
+272,0.00011588828369451848,"frozenset({'CGBA', 'TEPC'})",2,1
+256,0.00011588828369451848,"frozenset({'CGBA', 'EPM'})",2,1
