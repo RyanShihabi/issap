@@ -134,7 +134,7 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
     plt.ylabel("Frequency")
     plt.xticks(rotation=45)
     plt.tight_layout()
-    plt.savefig("./analysis/plots/Category_Mentions.png")
+    plt.savefig("./analysis/plots/Category_Mentions_Without_ARED_CEVIS_TVIS.png")
     plt.close()
 
     return df_category_mentions
@@ -159,9 +159,6 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     report_week_type_df = pd.DataFrame.from_dict(report_week_type_count).sort_values(by="Report Count", ascending=False)
     report_day_df["Proportion"] = report_day_df["Report Count"] / df_range.shape[0]
     report_week_type_df["Proportion"] = report_week_type_df["Report Count"] / report_week_type_df.shape[0]
-
-    # plt.figure(figsize=(15, 5))
-    # # plt.
 
     export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
 

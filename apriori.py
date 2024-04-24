@@ -16,8 +16,6 @@ exclude_list = ['ARED', 'CEVIS', 'TEVIS']
 
 pair_type = "category"
 
-
-
 # with open(f"./sources/facility_data/json/facility_custom.json", "r") as f:
 #     data = list(set(json.load(f).values()))
 # f.close()
