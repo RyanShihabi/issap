@@ -11,7 +11,8 @@ from utils.mining_utils import (collect_reports,
                           generate_paragraph_apriori,
                           generate_kernel_apriori,
                           generate_custom_facility,
-                          export_data)
+                          export_data,
+                          is_overlap)
 from utils.apriori_utils import apriori_from_list
 
 # Get the reports
@@ -23,17 +24,18 @@ from utils.apriori_utils import apriori_from_list
 # Get the list of facility names from Rao's csv
 facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 
-categories, custom_facility = generate_custom_facility("./sources/facility_data/csv/facility_type_issap.csv", facility_data)
+# categories, custom_facility = generate_custom_facility("./sources/facility_data/csv/facility_type_issap.csv", facility_data)
 
-export_data(custom_facility, "./sources/facility_data/json/facility_custom.json")
+# export_data(custom_facility, "./sources/facility_data/json/facility_custom.json")
 
 # exclude_list = ['ARED', 'CEVIS', 'TVIS']
 
 # pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
 
-# apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ("LMM", "FIR"))
+# apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ())
+# apriori_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct", ("MMD", "ELF"))
 
-# export_data(apriori_list, "./analysis/json/paragraph_mentions_without_ARED_CEVIS_TEVIS.json")
+# export_data(apriori_list, "./analysis/json/paragraph_mentions_overlap_without_ARED_CEVIS_TEVIS.json")
 # apriori_from_list(apriori_list, "apriori_pairs_without_ARED_CEVIS_TVIS")
 
 # metrics = ["agency", "category", "module"]
@@ -54,14 +56,14 @@ export_data(custom_facility, "./sources/facility_data/json/facility_custom.json"
 #             apriori_from_list(paragraph_list, f"filtered/{metric}/{'-'.join(pair)}", metric, pair)
 
 # Get a boolean value for whether a facility was mentioned on that day
-# facility_mentions = grab_facility_mentions("./rao_reports", facility_data)
+facility_mentions = grab_facility_mentions("./reports-oct", facility_data)
 
 # facility_sequential = grab_sequential_mentions("./rao_reports", facility_data)
 
 # export_data(facility_sequential, "./analysis/json/sequential_facility_mentions.json")
 
-# df = pd.DataFrame.from_dict(facility_mentions).T
-# df.index = pd.to_datetime(df.index)
-# df = df.sort_index(ascending=True)
+df = pd.DataFrame.from_dict(facility_mentions).T
+df.index = pd.to_datetime(df.index)
+df = df.sort_index(ascending=True)
 
-# export_data(df, "./analysis/csv/facility_mentions.csv")
+export_data(df, "./analysis/csv/facility_mentions.csv")

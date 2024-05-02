@@ -77,6 +77,7 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
         itemsets_pair = itemsets_pair.drop(drop_idx)
 
+    print(itemsets_pair)
     print(itemsets_pair["frequency"].sum())
     
     export_data(itemsets_pair, f"./analysis/csv/apriori_pairs/{file_name}.csv")

@@ -76,15 +76,7 @@ def find_name_indices(name: str, text: str) -> list:
 	name_indices = []
 
 	for name_index in [word.start() for word in re.finditer(name, text)]:
-		if name_index == 0 and text[name_index+1] in [" ", ")", ":", "\n"]:
-			name_indices.append([name_index, name_index + len(name)])
-			break
-		elif name_index == (len(text) - len(name)) and text[name_index-1] in [" ", "(", "\n"]:
-			name_indices.append([name_index, name_index + len(name)])
-			break
-		elif text[name_index-1] in [" ", "(", ":"] and text[min(name_index+(len(name)), len(text)-1)] in [" ", ")", ",", ":", "\n"]:
-			name_indices.append([name_index, name_index + len(name)])
-			break
+		name_indices.append((name_index, name_index + len(name)))
 
 	return name_indices
 
@@ -123,15 +115,41 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 
 	return dataset
 
+def is_overlap(loc1, loc2):
+	if (((loc1[0] >= loc2[0]) and (loc1[0] <= loc2[1])) or 
+	 ((loc1[1] >= loc2[0]) and (loc1[1] <= loc2[1]))):
+		if (loc1[1] - loc1[0]) > (loc2[1] - loc2[0]):
+			return -1
+		elif (loc1[1] - loc1[0]) < (loc2[1] - loc2[0]):
+			return 1
+	
+	return 0
+
+def overlapping_lists(list1, list2):
+    result1 = list1.copy()
+    result2 = list2.copy()
+
+    for r1 in list1:
+        for r2 in list2:
+            if r1[0] <= r2[1] and r1[1] >= r2[0]:
+                if (r1[1] - r1[0]) < (r2[1] - r2[0]):
+                    result1.remove(r1)
+                    break
+                else:
+                    result2.remove(r2)
+                    
+    return result1, result2
+
 # Paragraph facility mention list for Apriori input
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple):
 	dataset = []
-
 	facility_names = []
 
 	for name, abbr in facility_name_abbr.items():
 		facility_names.append(name)
 		facility_names.append(abbr)
+
+	facility_names = list(set(facility_names))
 
 	archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
 	new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
@@ -144,19 +162,31 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 
 		for paragraph in archive_paragraph_split(text):
 			facilities_mentioned = []
+			facility_locs = {}
+			# Go through names and their index locations
+			# When going through each name location check if one overlaps with the other
+			# Figure out which name is longer and use that one, remove that value from its list
 			for name in facility_names:
-				if len(find_name_indices(name, paragraph)) > 0:
-					facilities_mentioned.append(name)
-			
+				name_locs = find_name_indices(name, paragraph)
+				facility_locs[name] = name_locs
+				
+			for key, values in facility_locs.items():
+				for keyComp, valuesComp in facility_locs.items():
+					if key != keyComp:
+						newValues, newValuesComp = overlapping_lists(values, valuesComp)
+
+						facility_locs[key] = newValues
+						facility_locs[keyComp] = newValuesComp
+
+			facilities_mentioned = [key for key, val in facility_locs.items() if len(val) != 0]
+
 			if len(facilities_mentioned) != 0:
 				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
-				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 
-				if excerpt_pair[0] in facilities_mentioned_filtered and excerpt_pair[1] in facilities_mentioned_filtered:
-					print(report)
-					print(paragraph)
+				# if (excerpt_pair[0] in facilities_mentioned) and (excerpt_pair[1] in facilities_mentioned):
+				# 	print(paragraph)
 
-				dataset.append(sorted(facilities_mentioned_filtered))
+				dataset.append(sorted(facilities_mentioned))
 
 	for report in tqdm(new_reports):
 		file_path = os.path.join(report_dir, report)
@@ -166,19 +196,30 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 		
 		for paragraph in new_paragraph_split(text):
 			facilities_mentioned = []
+			facility_locs = {}
+
 			for name in facility_names:
-				if len(find_name_indices(name, paragraph)) > 0:
-					facilities_mentioned.append(name)
-			
+				name_locs = find_name_indices(name, paragraph)
+				facility_locs[name] = name_locs
+				
+			for key, values in facility_locs.items():
+				for keyComp, valuesComp in facility_locs.items():
+					if key != keyComp:
+						newValues, newValuesComp = overlapping_lists(values, valuesComp)
+
+						facility_locs[key] = newValues
+						facility_locs[keyComp] = newValuesComp
+
+			facilities_mentioned = [key for key, val in facility_locs.items() if len(val) != 0]
+
 			if len(facilities_mentioned) != 0:
 				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
-				facilities_mentioned_filtered = [facility for facility in facilities_mentioned if not any(other_facility != facility and other_facility in facility for other_facility in facilities_mentioned)]
 
-				if excerpt_pair[0] in facilities_mentioned_filtered and excerpt_pair[1] in facilities_mentioned_filtered:
-					print(report)
-					print(paragraph)
+				# if (excerpt_pair[0] in facilities_mentioned) and (excerpt_pair[1] in facilities_mentioned):
+				# 	print(paragraph)
+				
+				dataset.append(sorted(facilities_mentioned))
 
-				dataset.append(sorted(facilities_mentioned_filtered))
 	
 	return dataset
 
@@ -296,10 +337,10 @@ def grab_sequential_mentions(report_dir: str, facility_data: dict):
 
 # Main method for finding mentions of facilities
 # Will return a boolean dataframe with a 1: mentioned that day, 0: not mentioned that day
-def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_window=-1):
+def grab_facility_mentions(report_dir, facility_data, filter=None, kernel_window=-1):
 	facility_mentions = {}
 
-	for file in tqdm(os.listdir(report_dir)):
+	for file in tqdm([file for file in os.listdir(report_dir) if ".DS" not in file]):
 		file_path = os.path.join(report_dir, file)
 		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
@@ -311,14 +352,14 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 			if filter_index != -1:
 				text = text[:filter_index]
 
-		text = text.lower()
+		# text = text.lower()
 
 		day_mentions = {}
 
 		if kernel_window > 0:
 			words = text.split(" ")
 		
-			for name, abbr in facility_names["facility_name_abbr"].items():
+			for name, abbr in facility_data["facility_name_abbr"].items():
 				for group in range(len(words)-kernel_window):
 					day_mentions[abbr] = 0
 					text_window = " ".join(words[group:group+kernel_window])
@@ -326,10 +367,32 @@ def grab_facility_mentions(report_dir, facility_names, filter=None, kernel_windo
 						day_mentions[abbr] = 1
 						break
 		else:
-			for name, abbr in facility_names["facility_name_abbr"].items():
-				day_mentions[abbr] = 0
-				if len(find_name_indices(name.lower(), text)) != 0 or len(find_name_indices(abbr.lower(), text)) != 0:
+			facility_locs = {}
+			for name, abbr in facility_data["facility_name_abbr"].items():
+				name_locs = find_name_indices(name, text)
+				if len(name_locs) != 0:
+					facility_locs[name] = name_locs
+
+				abbr_locs = find_name_indices(abbr, text)
+				if len(abbr_locs) != 0:
+					facility_locs[abbr] = abbr_locs
+
+			for key, values in facility_locs.items():
+				for keyComp, valuesComp in facility_locs.items():
+					if key != keyComp:
+						newValues, newValuesComp = overlapping_lists(values, valuesComp)
+
+						facility_locs[key] = newValues
+						facility_locs[keyComp] = newValuesComp
+
+			facilities_mentioned = [key for key, val in facility_locs.items() if len(val) != 0]
+			facilities_mentioned = list(set(map(lambda x: facility_data["facility_name_abbr"][x] if x in facility_data["facility_name_abbr"] else x, facilities_mentioned)))
+
+			for abbr in facility_data["facility_abbr_name"]:
+				if abbr in facilities_mentioned:
 					day_mentions[abbr] = 1
+				else:
+					day_mentions[abbr] = 0
                          
 		if "reports_parsed" in file:
 			file = file[14:]
