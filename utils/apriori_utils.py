@@ -55,7 +55,7 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
     itemsets_df["frequency"] = itemsets_df["support"].apply(lambda x: int(x * len(mention_list)))
 
-    itemsets_pair = itemsets_df.sort_values(by="frequency", ascending=False)
+    itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
     
     if len(pair) != 0:
         drop_idx = []
@@ -64,7 +64,7 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
         f.close()
 
         for i, row in itemsets_pair.iterrows():
-            itemset = list(row[1])
+            itemset = list(row.iloc[1])
             # Get reference of category or agency
             if ((itemset[0] in facility_data.keys()) and (itemset[1] in facility_data.keys())) == False:
                 drop_idx.append(i)
@@ -77,8 +77,8 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
         itemsets_pair = itemsets_pair.drop(drop_idx)
 
-        print(f"{pair}: {itemsets_pair['frequency'].sum()}")
+        # print(f"{pair}: {itemsets_pair['frequency'].sum()}")
     
-    export_data(itemsets_pair, f"./analysis/csv/{file_name}.csv")
+    # export_data(itemsets_pair, f"./analysis/csv/{file_name}.csv")
 
-    return int(itemsets_pair["frequency"].sum())
+    return itemsets_pair.shape[0], int(itemsets_pair["frequency"].sum())

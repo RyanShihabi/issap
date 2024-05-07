@@ -16,7 +16,7 @@ f.close()
 
 print(len(paragraph_list))
 
-apriori_from_list(paragraph_list, "no_overlap_pairs")
+# apriori_from_list(paragraph_list, "no_overlap_pairs")
 
 # exclude_list = ['ARED', 'CEVIS', 'TEVIS']
 
@@ -47,29 +47,39 @@ apriori_from_list(paragraph_list, "no_overlap_pairs")
 # plt.show()
 # plt.close()
 
-# pair_types = ["agency", "category", "module", "custom"]
-# pair_types = ["custom"]
+pair_types = ["agency", "category", "module", "custom"]
+# pair_types = ["agency"]
 
-# for pair_type in pair_types:
-#     category_pair_count = {}
-    
-#     with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
-#         data = list(set(json.load(f).values()))
-#     f.close()
+for pair_type in pair_types:
+    category_pair_count = {}
+    category_pair_unique = {}
 
-#     for i in range(len(data)):
-#         pair = [data[i], data[i]]
-#         pair_key = "-".join(pair)
-#         category_pair_count[pair_key] = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
-#         # total = apriori_from_list(paragraph_list, f"filtered/{pair_type}/{'-'.join(pair)}", pair_type, pair)
-#         for j in range(i + 1, len(data)):
-#             pair = [data[i], data[j]]
-#             pair_key = "-".join(pair)
-#             category_pair_count[pair_key] = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+    with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
+        data = list(set(json.load(f).values()))
+    f.close()
 
-#             # total = apriori_from_list(paragraph_list, f"filtered/{pair_type}/{'-'.join(pair)}", pair_type, pair)
+    print(pair_type)
+    for i in tqdm(range(len(data))):
+        pair = [data[i], data[i]]
+        pair_key = "-".join(pair)
+        apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
-#     category_pair_count = {k: v for k, v in sorted(category_pair_count.items(), key=lambda item: item[1], reverse=True)}
+        category_pair_unique[pair_key] = apriori_data[0]
+        category_pair_count[pair_key] = apriori_data[1]
+        # total = apriori_from_list(paragraph_list, f"filtered/{pair_type}/{'-'.join(pair)}", pair_type, pair)
+        for j in range(i + 1, len(data)):
+            pair = [data[i], data[j]]
+            pair_key = "-".join(pair)
+            apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
-#     print(f"./analysis/json/{pair_type}_pair_frequency.json")
-#     export_data(category_pair_count, f"./analysis/json/{pair_type}_pair_frequency.json")
+            category_pair_unique[pair_key] = apriori_data[0]
+            category_pair_count[pair_key] = apriori_data[1]
+            # total = apriori_from_list(paragraph_list, f"filtered/{pair_type}/{'-'.join(pair)}", pair_type, pair)
+
+    category_pair_count = {k: v for k, v in sorted(category_pair_count.items(), key=lambda item: item[1], reverse=True)}
+    category_pair_unique = {k: v for k, v in sorted(category_pair_unique.items(), key=lambda item: item[1], reverse=True)}
+
+    print(f"./analysis/json/{pair_type}_pair_frequency.json")
+    export_data(category_pair_count, f"./analysis/json/{pair_type}_pair_frequency.json")
+    print(category_pair_unique)
+    export_data(category_pair_unique, f"./analysis/json/{pair_type}_pair_unique_frequency.json")
