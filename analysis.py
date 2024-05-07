@@ -4,7 +4,9 @@ from utils.analysis_utils import (calc_facility_proportions,
                             calc_total_category_mentions,
                             calc_report_date_frequency,
                             plot_apriori_mentions,
-                            plot_pairs
+                            plot_pairs,
+                            plot_same_pairs,
+                            plot_different_pairs
                         )
 
 from utils.mining_utils import (generate_facility_names, export_data)
@@ -30,7 +32,10 @@ df_range = df[df["Report Date"] < "2023-01-01"]
 
 # export_data(df_range.sum(numeric_only=True).sort_values(ascending=False), "./analysis/csv/facility_total_mentions.csv")
 
-calc_facility_freq_year(df_range)
+# calc_facility_freq_year(df_range)
+
+plot_same_pairs("custom")
+plot_different_pairs("custom")
 
 # facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 

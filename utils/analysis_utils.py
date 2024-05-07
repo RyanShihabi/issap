@@ -5,6 +5,7 @@ from matplotlib.ticker import MaxNLocator
 from datetime import date
 from utils.mining_utils import export_data
 from tqdm import tqdm
+import json
 import re
 
 # Facility mentions over total days
@@ -108,6 +109,40 @@ def calc_year_freq(df: pd.DataFrame):
     export_data(blog_sum, "./analysis/csv/facility_blog_frequency.csv")
 
     return df_year
+
+def plot_same_pairs(pair_type: str):
+    with open(f"./analysis/json/{pair_type}_pair_frequency.json") as f:
+        data = json.load(f)
+    f.close()
+
+    same_pairs = {key: val for key, val in data.items() if key.split("-")[0] == key.split("-")[1]}
+
+    plt.figure(figsize=(25, 10))
+    plt.bar(same_pairs.keys(), same_pairs.values())
+    plt.title(f"Same {pair_type.capitalize()} Pairs")
+    plt.xlabel(f"{pair_type.capitalize()} Pairs")
+    plt.ylabel("Frequency")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig(f"./analysis/plots/same_{pair_type}_pairs.png")
+    plt.close()
+
+def plot_different_pairs(pair_type: str):
+    with open(f"./analysis/json/{pair_type}_pair_frequency.json") as f:
+        data = json.load(f)
+    f.close()
+
+    diff_pairs = {key: val for key, val in data.items() if key.split("-")[0] != key.split("-")[1]}
+
+    plt.figure(figsize=(25, 10))
+    plt.bar(list(diff_pairs.keys())[:12], list(diff_pairs.values())[:12])
+    plt.title(f"Same {pair_type.capitalize()} Pairs")
+    plt.xlabel(f"{pair_type.capitalize()} Pairs")
+    plt.ylabel("Frequency")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig(f"./analysis/plots/diff_{pair_type}_pairs.png")
+    plt.close()
 
 # Total facility mentions in a given year
 def calc_facility_freq_month(df: pd.DataFrame):
