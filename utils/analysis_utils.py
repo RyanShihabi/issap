@@ -56,8 +56,25 @@ def calc_facility_proportions(df: pd.DataFrame):
 
     return df_days_used
 
-# Total facility mentions in a given year
 def calc_facility_freq_year(df: pd.DataFrame):
+    df_year = df.resample("Y", on="Report Date").sum()
+
+    for facility in tqdm(df_year.columns):
+        df_facility = df_year.loc[:, facility]
+        plt.figure(figsize=(15, 5))
+        ax = plt.gca()
+        ax.yaxis.set_major_locator(MaxNLocator(integer=True))
+        plt.bar(x=[str(date).split("-")[0] for date in df_year.index], height=df_facility.values)
+        plt.yticks
+        plt.xlabel("Year")
+        plt.ylabel("Frequency")
+        plt.title(f"{facility} Yearly Mentions")
+        plt.savefig(f"./analysis/plots/Facility_Year_Frequency/{facility}.png")
+        plt.tight_layout()
+        plt.close()
+
+# Total facility mentions in a given year
+def calc_year_freq(df: pd.DataFrame):
     df_year = df.resample("Y", on="Report Date").sum()
     print(df_year)
 

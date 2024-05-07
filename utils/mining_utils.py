@@ -115,16 +115,7 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 
 	return dataset
 
-def is_overlap(loc1, loc2):
-	if (((loc1[0] >= loc2[0]) and (loc1[0] <= loc2[1])) or 
-	 ((loc1[1] >= loc2[0]) and (loc1[1] <= loc2[1]))):
-		if (loc1[1] - loc1[0]) > (loc2[1] - loc2[0]):
-			return -1
-		elif (loc1[1] - loc1[0]) < (loc2[1] - loc2[0]):
-			return 1
-	
-	return 0
-
+# Find and remove overlapping facility mentions
 def overlapping_lists(list1, list2):
     result1 = list1.copy()
     result2 = list2.copy()
