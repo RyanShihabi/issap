@@ -47,12 +47,14 @@ print(len(paragraph_list))
 # plt.show()
 # plt.close()
 
-pair_types = ["agency", "category", "module", "custom"]
+# pair_types = ["agency", "category", "module", "custom"]
 # pair_types = ["agency"]
+pair_types = ["module"]
 
 for pair_type in pair_types:
     category_pair_count = {}
     category_pair_unique = {}
+    module_location_pair_unique = {"Same": 0, "Different": 0}
 
     with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
         data = list(set(json.load(f).values()))
@@ -64,6 +66,9 @@ for pair_type in pair_types:
         pair_key = "-".join(pair)
         apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
+        if pair_type == "module":
+            module_location_pair_unique["Same"] = module_location_pair_unique["Same"] + apriori_data[0]
+
         category_pair_unique[pair_key] = apriori_data[0]
         category_pair_count[pair_key] = apriori_data[1]
         # total = apriori_from_list(paragraph_list, f"filtered/{pair_type}/{'-'.join(pair)}", pair_type, pair)
@@ -72,6 +77,9 @@ for pair_type in pair_types:
             pair_key = "-".join(pair)
             apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
+            if pair_type == "module":
+                module_location_pair_unique["Different"] = module_location_pair_unique["Different"] + apriori_data[0]
+
             category_pair_unique[pair_key] = apriori_data[0]
             category_pair_count[pair_key] = apriori_data[1]
             # total = apriori_from_list(paragraph_list, f"filtered/{pair_type}/{'-'.join(pair)}", pair_type, pair)
@@ -79,7 +87,7 @@ for pair_type in pair_types:
     category_pair_count = {k: v for k, v in sorted(category_pair_count.items(), key=lambda item: item[1], reverse=True)}
     category_pair_unique = {k: v for k, v in sorted(category_pair_unique.items(), key=lambda item: item[1], reverse=True)}
 
-    print(f"./analysis/json/{pair_type}_pair_frequency.json")
-    export_data(category_pair_count, f"./analysis/json/{pair_type}_pair_frequency.json")
-    print(category_pair_unique)
-    export_data(category_pair_unique, f"./analysis/json/{pair_type}_pair_unique_frequency.json")
+    # export_data(category_pair_count, f"./analysis/json/{pair_type}_pair_frequency.json")
+    # print(category_pair_unique)
+    # export_data(category_pair_unique, f"./analysis/json/{pair_type}_pair_unique_frequency.json")
+    export_data(module_location_pair_unique, f"./analysis/json/{pair_type}_pair_location_unique_frequency.json")
