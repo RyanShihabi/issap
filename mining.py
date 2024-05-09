@@ -12,7 +12,7 @@ from utils.mining_utils import (collect_reports,
                           generate_kernel_apriori,
                           generate_custom_facility,
                           export_data,
-                          is_overlap)
+                          get_words_around)
 from utils.apriori_utils import apriori_from_list
 
 # Get the reports
@@ -22,7 +22,9 @@ from utils.apriori_utils import apriori_from_list
 # send_internet_archive_request()
 
 # Get the list of facility names from Rao's csv
-facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
+# facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
+
+print(get_words_around("Rack", "./reports-oct"))
 
 # categories, custom_facility = generate_custom_facility("./sources/facility_data/csv/facility_type_issap.csv", facility_data)
 
@@ -56,14 +58,14 @@ facility_data = generate_facility_names("./sources/facility_data/csv/all_facilit
 #             apriori_from_list(paragraph_list, f"filtered/{metric}/{'-'.join(pair)}", metric, pair)
 
 # Get a boolean value for whether a facility was mentioned on that day
-facility_mentions = grab_facility_mentions("./reports-oct", facility_data)
+# facility_mentions = grab_facility_mentions("./reports-oct", facility_data)
 
 # facility_sequential = grab_sequential_mentions("./rao_reports", facility_data)
 
 # export_data(facility_sequential, "./analysis/json/sequential_facility_mentions.json")
 
-df = pd.DataFrame.from_dict(facility_mentions).T
-df.index = pd.to_datetime(df.index)
-df = df.sort_index(ascending=True)
+# df = pd.DataFrame.from_dict(facility_mentions).T
+# df.index = pd.to_datetime(df.index)
+# df = df.sort_index(ascending=True)
 
-export_data(df, "./analysis/csv/facility_mentions.csv")
+# export_data(df, "./analysis/csv/facility_mentions.csv")
