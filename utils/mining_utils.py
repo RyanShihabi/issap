@@ -225,19 +225,22 @@ def get_words_around(name: str, report_dir: str) -> dict:
 			text = "\n".join(f.readlines())
 		f.close()
 
-		name_locs = find_name_indices(name, text)
+		for paragraph in archive_paragraph_split(text):
+			name_locs = find_name_indices(name, paragraph)
 
-		for loc in name_locs:
-			before_text = text[max(0, loc[0]-100):loc[0]].split()
-			after_text = text[loc[1]: min(len(text)-1, loc[1]+100)].split()
+			for loc in name_locs:
+				before_text = paragraph[0:loc[0]].strip().split(" ")
+				after_text = paragraph[loc[1]:len(paragraph)-1].strip().split(" ")
 
-			for word in before_text:
-				if word.endswith("ing") or word.endswith("ed"):
-					word_count[word] = word_count.get(word, 0) + 1
+				for word in before_text:
+					word = word.lower()
+					if word.endswith("ing") or word.endswith("ed") or word.endswith("e"):
+						word_count[word] = word_count.get(word, 0) + 1
 
-			for word in after_text:
-				if word.endswith("ing") or word.endswith("ed"):
-					word_count[word] = word_count.get(word, 0) + 1
+				for word in after_text:
+					word = word.lower()
+					if word.endswith("ing") or word.endswith("ed") or word.endswith("e"):
+						word_count[word] = word_count.get(word, 0) + 1
 
 	for report in tqdm(new_reports):
 		file_path = os.path.join("./reports-oct", report)
@@ -245,19 +248,22 @@ def get_words_around(name: str, report_dir: str) -> dict:
 			text = "\n".join(f.readlines())
 		f.close()
 
-		name_locs = find_name_indices(name, text)
+		for paragraph in new_paragraph_split(text):
+			name_locs = find_name_indices(name, paragraph)
 
-		for loc in name_locs:
-			before_text = text[max(0, loc[0]-100):loc[0]].split(" ")
-			after_text = text[loc[1]: min(len(text)-1, loc[1]+100)].split(" ")
+			for loc in name_locs:
+				before_text = paragraph[0:loc[0]].strip().split(" ")
+				after_text = paragraph[loc[1]:len(paragraph)-1].strip().split(" ")
 
-			for word in before_text:
-				if word.endswith("ing") or word.endswith("ed"):
-					word_count[word] = word_count.get(word, 0) + 1
+				for word in before_text:
+					word = word.lower()
+					if word.endswith("ing") or word.endswith("ed") or word.endswith("e"):
+						word_count[word] = word_count.get(word, 0) + 1
 
-			for word in after_text:
-				if word.endswith("ing") or word.endswith("ed"):
-					word_count[word] = word_count.get(word, 0) + 1
+				for word in after_text:
+					word = word.lower()
+					if word.endswith("ing") or word.endswith("ed") or word.endswith("e"):
+						word_count[word] = word_count.get(word, 0) + 1
 
 	word_count = {k: v for k, v in sorted(word_count.items(), key=lambda item: item[1], reverse=True)}
 	
