@@ -42,7 +42,7 @@ def apriori_from_df(obj):
     return itemsets_pair
 
 # Run apriori calculations from a list
-def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None, pair: list = []):
+def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None, pair: list = [], save: bool = False):
     te = TransactionEncoder()
     te_ary = te.fit(mention_list).transform(mention_list)
     df = pd.DataFrame(te_ary, columns=te.columns_)
@@ -55,7 +55,9 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
     itemsets_df["frequency"] = itemsets_df["support"].apply(lambda x: int(x * len(mention_list)))
 
-    itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="frequency", ascending=False)
+    itemsets_df = itemsets_df.sort_values(by="frequency", ascending=False)
+
+    itemsets_pair = itemsets_df[itemsets_df["length"] == 2]
     
     if len(pair) != 0:
         drop_idx = []
@@ -79,6 +81,7 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
         # print(f"{pair}: {itemsets_pair['frequency'].sum()}")
     
-    # export_data(itemsets_pair, f"./analysis/csv/{file_name}.csv")
+    if save:
+        export_data(itemsets_df, f"./analysis/csv/{file_name}.csv")
 
-    return itemsets_pair.shape[0], int(itemsets_pair["frequency"].sum())
+    return itemsets_df

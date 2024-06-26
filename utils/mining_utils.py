@@ -14,6 +14,36 @@ import matplotlib.pyplot as plt
 def archive_paragraph_split(report_text: str):
 	return report_text.split("\n")
 
+def find_paragraph_split(sep: str, report_text: str):
+    idx = [word.start() for word in re.finditer(sep, report_text)]
+    idx.insert(0, 0)
+    idx.append(len(report_text))
+
+    idx = [(idx[i], idx[i+1]) for i in range(len(idx) - 1)]
+
+    return idx
+
+def assign_paragraphs(paragraph_groups, mentions_list, facility_name_abbr):
+    paragraphs = []
+
+    for paragraph_group in paragraph_groups:
+        facilities_mentioned = []
+        for facility, locs in mentions_list.items():
+            for loc in locs:
+                if loc[0] > paragraph_group[1]:
+                    break
+
+                if paragraph_group[0] < loc[0] and paragraph_group[1] > loc[1]:
+                    facilities_mentioned.append(facility)
+
+            
+        if len(facilities_mentioned) != 0:
+            paragraph_mention = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
+
+            paragraphs.append(paragraph_mention)
+
+    return paragraphs
+
 def new_paragraph_split(report_text: str):
 	return report_text.split("\n")
 
@@ -133,85 +163,83 @@ def overlapping_lists(list1, list2):
 
 # Paragraph facility mention list for Apriori input
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple):
-	dataset = []
-	facility_names = []
+    dataset = []
+    facility_names = []
 
-	for name, abbr in facility_name_abbr.items():
-		facility_names.append(name)
-		facility_names.append(abbr)
+    for name, abbr in facility_name_abbr.items():
+        facility_names.append(name)
+        facility_names.append(abbr)
 
-	facility_names = list(set(facility_names))
+    facility_names = list(set(facility_names))
 
-	archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
-	new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
+    archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
+    new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
 
-	for report in tqdm(archive_reports):
-		file_path = os.path.join(report_dir, report)
-		with open(file_path, 'r') as f:
-			text = "\n".join(f.readlines())
-		f.close()
+    for report in tqdm(archive_reports):
+        file_path = os.path.join(report_dir, report)
+        with open(file_path, 'r') as f:
+            text = "\n".join(f.readlines())
+        f.close()
 
-		for paragraph in archive_paragraph_split(text):
-			facilities_mentioned = []
-			facility_locs = {}
-			# Go through names and their index locations
-			# When going through each name location check if one overlaps with the other
-			# Figure out which name is longer and use that one, remove that value from its list
-			for name in facility_names:
-				name_locs = find_name_indices(name, paragraph)
-				facility_locs[name] = name_locs
-				
-			for key, values in facility_locs.items():
-				for keyComp, valuesComp in facility_locs.items():
-					if key != keyComp:
-						newValues, newValuesComp = overlapping_lists(values, valuesComp)
+        double_paragraph_indices = find_paragraph_split("\n\n", text)
 
-						facility_locs[key] = newValues
-						facility_locs[keyComp] = newValuesComp
+        facility_locs = {}
+        for name, abbr in facility_name_abbr.items():
+            name_locs = find_name_indices(name, text)
+            if len(name_locs) != 0:
+                facility_locs[name] = name_locs
 
-			facilities_mentioned = [key for key, val in facility_locs.items() if len(val) != 0]
+            abbr_locs = find_name_indices(abbr, text)
+            if len(abbr_locs) != 0:
+                facility_locs[abbr] = abbr_locs
 
-			if len(facilities_mentioned) != 0:
-				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
+        for key, values in facility_locs.items():
+            for keyComp, valuesComp in facility_locs.items():
+                if key != keyComp:
+                    newValues, newValuesComp = overlapping_lists(values, valuesComp)
 
-				# if (excerpt_pair[0] in facilities_mentioned) and (excerpt_pair[1] in facilities_mentioned):
-				# 	print(paragraph)
+                    facility_locs[key] = newValues
+                    facility_locs[keyComp] = newValuesComp
 
-				dataset.append(sorted(facilities_mentioned))
+        facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
+        facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr)
 
-	for report in tqdm(new_reports):
-		file_path = os.path.join(report_dir, report)
-		with open(file_path, 'r') as f:
-			text = "\n".join(f.readlines())
-		f.close()
-		
-		for paragraph in new_paragraph_split(text):
-			facilities_mentioned = []
-			facility_locs = {}
+        for paragraph in facilities_mentioned:
+            dataset.append(paragraph)
 
-			for name in facility_names:
-				name_locs = find_name_indices(name, paragraph)
-				facility_locs[name] = name_locs
-				
-			for key, values in facility_locs.items():
-				for keyComp, valuesComp in facility_locs.items():
-					if key != keyComp:
-						newValues, newValuesComp = overlapping_lists(values, valuesComp)
+    for report in tqdm(new_reports):
+        file_path = os.path.join(report_dir, report)
+        with open(file_path, 'r') as f:
+            text = "\n".join(f.readlines())
+        f.close()
 
-						facility_locs[key] = newValues
-						facility_locs[keyComp] = newValuesComp
+        double_paragraph_indices = find_paragraph_split("\n\n", text)
 
-			facilities_mentioned = [key for key, val in facility_locs.items() if len(val) != 0]
+        facility_locs = {}
+        for name, abbr in facility_name_abbr.items():
+            name_locs = find_name_indices(name, text)
+            if len(name_locs) != 0:
+                facility_locs[name] = name_locs
 
-			if len(facilities_mentioned) != 0:
-				facilities_mentioned = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
+            abbr_locs = find_name_indices(abbr, text)
+            if len(abbr_locs) != 0:
+                facility_locs[abbr] = abbr_locs
 
-				# if (excerpt_pair[0] in facilities_mentioned) and (excerpt_pair[1] in facilities_mentioned):
-				# 	print(paragraph)
-				
-				dataset.append(sorted(facilities_mentioned))
+        for key, values in facility_locs.items():
+            for keyComp, valuesComp in facility_locs.items():
+                if key != keyComp:
+                    newValues, newValuesComp = overlapping_lists(values, valuesComp)
+
+                    facility_locs[key] = newValues
+                    facility_locs[keyComp] = newValuesComp
+
+        facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
+        facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr)
+
+        for paragraph in facilities_mentioned:
+            dataset.append(paragraph)
 	
-	return dataset
+    return dataset
 
 def get_words_around(name: str, report_dir: str) -> dict:
 	word_count = {}

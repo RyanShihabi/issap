@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+import os
 from tqdm import tqdm
 from utils.mining_utils import (collect_reports,
                           send_internet_archive_request,
@@ -21,10 +22,29 @@ from utils.apriori_utils import apriori_from_list
 # Send captures to the Wayback Machine
 # send_internet_archive_request()
 
+def run_mining():
+    facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
+
+    categories, custom_facility = generate_custom_facility("./sources/facility_data/csv/facility_type_issap.csv", facility_data)
+    
+    facility_mentions = grab_facility_mentions("./reports-oct", facility_data)
+
+    mentions_df = pd.DataFrame.from_dict(facility_mentions).T
+    mentions_df.index = pd.to_datetime(mentions_df.index)
+    mentions_df = mentions_df.sort_index(ascending=True)
+
+    if os.path.exists("./analysis/csv/") == False:
+        os.makedirs("./analysis/csv/")
+
+    # export_data(df, "./analysis/csv/facility_mentions.csv")
+
+    return facility_data, facility_mentions, mentions_df
+
+
 # Get the list of facility names from Rao's csv
 # facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")
 
-print(get_words_around("Rack", "./reports-oct"))
+# print(get_words_around("EXPRESS", "./reports-oct"))
 
 # categories, custom_facility = generate_custom_facility("./sources/facility_data/csv/facility_type_issap.csv", facility_data)
 
@@ -35,7 +55,6 @@ print(get_words_around("Rack", "./reports-oct"))
 # pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
 
 # apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ())
-# apriori_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct", ("MMD", "ELF"))
 
 # export_data(apriori_list, "./analysis/json/paragraph_mentions_overlap_without_ARED_CEVIS_TEVIS.json")
 # apriori_from_list(apriori_list, "apriori_pairs_without_ARED_CEVIS_TVIS")

@@ -2,7 +2,7 @@ import json
 import pandas as pd
 from tqdm import tqdm
 import re
-from utils.mining_utils import (export_data)
+from utils.mining_utils import (export_data, generate_paragraph_apriori)
 from utils.apriori_utils import (apriori_from_df,
                            apriori_from_list)
 import matplotlib.pyplot as plt
@@ -11,9 +11,24 @@ import matplotlib.pyplot as plt
 #     paragraph_list = json.load(f)
 # f.close()
 
-with open("./analysis/json/paragraph_mentions_overlap_check.json", "r") as f:
-    paragraph_list = json.load(f)
-f.close()
+# with open("./analysis/json/paragraph_mentions_overlap_check.json", "r") as f:
+#     paragraph_list = json.load(f)
+# f.close()
+
+def run_apriori(facility_data):
+    exclude_list = ['ARED', 'CEVIS', 'TVIS']
+
+    pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
+
+    print("Organizing mentions by paragraph")
+    apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ())
+
+    print("Generating Itemsets")
+    itemsets_df = apriori_from_list(apriori_list, "run", save=True)
+
+    print(itemsets_df)
+
+
 
 # print(len(paragraph_list))
 
@@ -48,78 +63,71 @@ f.close()
 # plt.show()
 # plt.close()
 
-facility_distance = {
-    "JEM-US Lab": 2,
-    "JEM-Crew": 1,
-    "JEM-Node 1": 3,
-    "JEM-Node 2": 1,
-    "JEM-Node 3": 4,
-    "JEM-Columbus": 2,
-    "JEM-ISS Truss": 3,
-    "US Lab-Crew": 1,
-    "US Lab-Node 1": 1,
-    "US Lab-Node 2": 1,
-    "US Lab-Node 3": 2,
-    "US Lab-Columbus": 2,
-    "US Lab-ISS Truss": 1,
-    "Crew-Node 1": 2,
-    "Crew-Node 2": 0,
-    "Crew-Node 3": 3,
-    "Crew-Columbus": 1,
-    "Crew-ISS Truss": 2,
-    "Node 1-Node 2": 2,
-    "Node 1-Node 3": 1,
-    "Node 1-Columbus": 3,
-    "Node 1-ISS Truss": 1,
-    "Node 2-Node 3": 3,
-    "Node 2-Columbus": 1,
-    "Node 2-ISS Truss": 2,
-    "Node 3-Columbus": 4,
-    "Node 3-ISS Truss": 2,
-    "Columbus-ISS Truss": 3,
-}
+# facility_distance = {
+#     "JEM-US Lab": 2,
+#     "JEM-Crew": 1,
+#     "JEM-Node 1": 3,
+#     "JEM-Node 2": 1,
+#     "JEM-Node 3": 4,
+#     "JEM-Columbus": 2,
+#     "US Lab-Crew": 1,
+#     "US Lab-Node 1": 1,
+#     "US Lab-Node 2": 1,
+#     "US Lab-Node 3": 2,
+#     "US Lab-Columbus": 2,
+#     "Crew-Node 1": 2,
+#     "Crew-Node 2": 0,
+#     "Crew-Node 3": 3,
+#     "Crew-Columbus": 1,
+#     "Node 1-Node 2": 2,
+#     "Node 1-Node 3": 1,
+#     "Node 1-Columbus": 3,
+#     "Node 2-Node 3": 3,
+#     "Node 2-Columbus": 1,
+#     "Node 3-Columbus": 4,
+# }
 
-df = pd.read_csv("./analysis/csv/no_overlap_pairs.csv")
-df_pairs = df[df["length"] == 2]
+# df = pd.read_csv("./analysis/csv/no_overlap_pairs.csv")
+# df_pairs = df[df["length"] == 2]
 
-with open(f"./sources/facility_data/json/facility_module.json", "r") as f:
-    data = json.load(f)
-f.close()
+# with open(f"./sources/facility_data/json/facility_module.json", "r") as f:
+#     data = json.load(f)
+# f.close()
 
-dist_data = []
+# dist_data = []
 
-for i in range(df_pairs.shape[0]):
-    fset = df_pairs.iloc[i, 2]
-    names = re.findall(r"'([^']*)'", fset)
-    if names[0] in data and names[1] in data:
-        # print(f"{names} | Frequency: {df_pairs.iloc[i, 4]}")
-        pair = [data[names[0]], data[names[1]]]
-        pair_key = "-".join(pair)
-        if pair[0] == pair[1]:
-            dist = 0
-        else:
-            if pair_key in facility_distance:
-                dist = facility_distance[pair_key]
-            else:
-                pair_key = "-".join([data[names[1]], data[names[0]]])
-                dist = facility_distance[pair_key]
+# for i in range(df_pairs.shape[0]):
+#     fset = df_pairs.iloc[i, 2]
+#     names = re.findall(r"'([^']*)'", fset)
+#     if names[0] in data and names[1] in data:
+#         # print(f"{names} | Frequency: {df_pairs.iloc[i, 4]}")
+#         pair = [data[names[0]], data[names[1]]]
+#         pair_key = "-".join(pair)
+#         if pair[0] == pair[1]:
+#             dist = 0
+#         else:
+#             if pair_key in facility_distance:
+#                 dist = facility_distance[pair_key]
+#             else:
+#                 pair_key = "-".join([data[names[1]], data[names[0]]])
+#                 dist = facility_distance[pair_key]
 
-        dist_data.append(dist)
-        # print(f"{pair_key} | Dist: {dist}")
-    else:
-        dist_data.append(-1)
+#         dist_data.append(dist)
+#         # print(f"{pair_key} | Dist: {dist}")
+#     else:
+#         dist_data.append(-1)
 
-df_pairs["Distance"] = dist_data
+# df_pairs["Distance"] = dist_data
 
-df_pairs.drop(df_pairs.columns[0], axis=1, inplace=True)
+# df_pairs.drop(df_pairs.columns[0], axis=1, inplace=True)
 
-print(df_pairs.head())
+# print(df_pairs.head())
 
-export_data(df_pairs, "./analysis/csv/pair_mention_distances.csv")
+# export_data(df_pairs, "./analysis/csv/pair_mention_distances.csv")
 
-# # pair_types = ["agency", "category", "module", "custom"]
-# # pair_types = ["agency"]
-# pair_types = ["module"]
+# pair_types = ["agency", "category", "module", "custom"]
+# # # pair_types = ["agency"]
+# # pair_types = ["module"]
 
 # for pair_type in pair_types:
 #     category_pair_count = {}
