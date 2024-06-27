@@ -1,4 +1,3 @@
-import pandas as pd
 from utils.analysis_utils import (calc_facility_proportions,
                             calc_facility_freq_year,
                             calc_total_category_mentions,
@@ -9,9 +8,7 @@ from utils.analysis_utils import (calc_facility_proportions,
                             plot_different_pairs
                         )
 
-from utils.mining_utils import (generate_facility_names, export_data)
-
-def run_analysis(facility_data, facility_mentions_df):
+def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_without_exercise_df):
     facility_mentions_df = facility_mentions_df.reset_index().rename(columns={"index": "Report Date"})
     print(facility_mentions_df)
     calc_facility_proportions(facility_mentions_df)

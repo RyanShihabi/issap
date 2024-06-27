@@ -51,6 +51,8 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
     itemsets_df = apriori(df, min_support=support, use_colnames=True)
 
+    rules = association_rules(itemsets_df, metric="support", min_threshold=1e-4).sort_values(by="confidence", ascending=False)
+
     itemsets_df["length"] = itemsets_df["itemsets"].apply(lambda x: len(x))
 
     itemsets_df["frequency"] = itemsets_df["support"].apply(lambda x: int(x * len(mention_list)))
@@ -82,6 +84,7 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
         # print(f"{pair}: {itemsets_pair['frequency'].sum()}")
     
     if save:
-        export_data(itemsets_df, f"./analysis/csv/{file_name}.csv")
+        export_data(itemsets_df, f"./analysis/csv/apriori_pairs{file_name}.csv")
+        export_data(rules, f"./analysis/csv/association_rules{file_name}.csv")
 
-    return itemsets_df
+    return itemsets_df, rules

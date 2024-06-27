@@ -1,40 +1,37 @@
-import json
-import pandas as pd
-from tqdm import tqdm
-import re
-from utils.mining_utils import (export_data, generate_paragraph_apriori)
-from utils.apriori_utils import (apriori_from_df,
-                           apriori_from_list)
+from utils.mining_utils import (generate_paragraph_apriori)
+from utils.apriori_utils import (apriori_from_list)
 import matplotlib.pyplot as plt
 
-# with open("./analysis/json/paragraph_mentions_without_ARED_CEVIS_TVIS.json", "r") as f:
-#     paragraph_list = json.load(f)
-# f.close()
-
-# with open("./analysis/json/paragraph_mentions_overlap_check.json", "r") as f:
-#     paragraph_list = json.load(f)
-# f.close()
-
 def run_apriori(facility_data):
-    exclude_list = ['ARED', 'CEVIS', 'TVIS']
+    exclude_list = ['ARED', 'CEVIS', 'TVIS', 'COLBERT']
 
     pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
 
     print("Organizing mentions by paragraph")
-    apriori_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ())
+    apriori_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct", ())
+    apriori_list_without_exercise = generate_paragraph_apriori(pair_dict, "./reports-oct", ())
+
+    mention_per_paragraph_count = 0
+    
+    for paragraph in apriori_list:
+        mention_per_paragraph_count += len(paragraph)
+
+    print("Mention Avg:", mention_per_paragraph_count / len(apriori_list))
+    print("Total Paragraphs With Mentions:", len(apriori_list))
+
+    mention_per_paragraph_count = 0
+    
+    for paragraph in apriori_list_without_exercise:
+        mention_per_paragraph_count += len(paragraph)
+
+    print("\nNon-Exercise Mention Avg:", mention_per_paragraph_count / len(apriori_list_without_exercise))
+    print("Total Non-Exercise Paragraphs With Mentions:", len(apriori_list_without_exercise))
 
     print("Generating Itemsets")
-    itemsets_df = apriori_from_list(apriori_list, "run", save=True)
+    apriori_df, association_df = apriori_from_list(apriori_list, "", save=True)
+    apriori_without_exercise_df, association_without_exercise_df = apriori_from_list(apriori_list_without_exercise, "_without_exercise", save=True)
 
-    print(itemsets_df)
-
-
-
-# print(len(paragraph_list))
-
-# apriori_from_list(paragraph_list, "no_overlap_pairs")
-
-# exclude_list = ['ARED', 'CEVIS', 'TEVIS']
+    return apriori_df, apriori_without_exercise_df
 
 # pair_type = "category"
 
@@ -86,9 +83,6 @@ def run_apriori(facility_data):
 #     "Node 2-Columbus": 1,
 #     "Node 3-Columbus": 4,
 # }
-
-# df = pd.read_csv("./analysis/csv/no_overlap_pairs.csv")
-# df_pairs = df[df["length"] == 2]
 
 # with open(f"./sources/facility_data/json/facility_module.json", "r") as f:
 #     data = json.load(f)
