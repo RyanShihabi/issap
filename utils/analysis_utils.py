@@ -26,21 +26,24 @@ def calc_facility_proportions(df: pd.DataFrame):
     # Calculate the amount of days facility is used over the total days
     df_days_used = df.sum(numeric_only=True) / delta.days
 
+    total_stats = df.sum(numeric_only=True).describe().loc[["min", "mean", "std", "max"]]
+    total_stats.to_csv("./analysis/csv/total_mention_stats.csv")
+
     # Sort occurrences in descending order
     df_days_used = df_days_used.sort_values(ascending=False)
 
     export_data(df_days_used, "./analysis/csv/facility_mention_day_proportion.csv")
     
     # Plotting Facility Frequencies
-    for page, i in enumerate(range(0, df_days_used.shape[0]-10, 10)):
-        print(page)
-        plt.figure(figsize=(15, 5))
-        plt.bar(df_days_used.index[i:i+10], df_days_used.values[i:i+10])
-        plt.xlabel("Facility")
-        plt.ylabel("Frequency")
-        plt.title("Facility Mention Day Proportion")
-        plt.savefig(f"./analysis/plots/facility_mention_day_proportion_{page}.png")
-        plt.close()
+    # for page, i in enumerate(range(0, df_days_used.shape[0]-10, 10)):
+    #     print(page)
+    #     plt.figure(figsize=(15, 5))
+    #     plt.bar(df_days_used.index[i:i+10], df_days_used.values[i:i+10])
+    #     plt.xlabel("Facility")
+    #     plt.ylabel("Frequency")
+    #     plt.title("Facility Mention Day Proportion")
+    #     plt.savefig(f"./analysis/plots/facility_mention_day_proportion_{page}.png")
+    #     plt.close()
 
     df_facility_prop = df.sum(numeric_only=True) / (df.sum(numeric_only=True).sum(numeric_only=True))
 
@@ -48,14 +51,14 @@ def calc_facility_proportions(df: pd.DataFrame):
 
     export_data(df_facility_prop, "./analysis/csv/facility_mention_total_proportion.csv")
 
-    for page, i in enumerate(range(0, df_facility_prop.shape[0]-10, 10)):
-        plt.figure(figsize=(15, 5))
-        plt.bar(df_facility_prop.index[i:i+10], df_facility_prop.values[i:i+10])
-        plt.xlabel("Facility")
-        plt.ylabel("Frequency")
-        plt.title("Facility Mention Total Proportion")
-        plt.savefig(f"./analysis/plots/facility_mention_total_proportion_{page}.png")
-        plt.close()
+    # for page, i in enumerate(range(0, df_facility_prop.shape[0]-10, 10)):
+    #     plt.figure(figsize=(15, 5))
+    #     plt.bar(df_facility_prop.index[i:i+10], df_facility_prop.values[i:i+10])
+    #     plt.xlabel("Facility")
+    #     plt.ylabel("Frequency")
+    #     plt.title("Facility Mention Total Proportion")
+    #     plt.savefig(f"./analysis/plots/facility_mention_total_proportion_{page}.png")
+    #     plt.close()
 
     return df_days_used
 
