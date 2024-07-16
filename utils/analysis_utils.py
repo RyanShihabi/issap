@@ -62,6 +62,9 @@ def calc_facility_proportions(df: pd.DataFrame):
 def calc_facility_freq_year(df: pd.DataFrame):
     df_year = df.resample("YE", on="Report Date").sum()
 
+    stats = df_year.describe().loc[["min", "mean", "std", "max"], :]
+    stats.to_csv(f"./analysis/csv/yearly_facility_stats.csv")
+
     if os.path.exists("./analysis/plots/Facility_Year_Frequency") == False:
         os.makedirs("./analysis/plots/Facility_Year_Frequency")
 
