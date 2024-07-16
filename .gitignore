@@ -6,3 +6,5 @@ reports-oct
 sources/reports/completed_sequential_uploads.json
 *.env
 test.py
+new_reports
+*.zip

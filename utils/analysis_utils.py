@@ -3,9 +3,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 from datetime import date
-from utils.mining_utils import export_data
+from utils.mining_utils import generate_paragraph_apriori, export_data
+from utils.apriori_utils import apriori_from_list
 from tqdm import tqdm
 import json
+import shutil
 import re
 
 # Facility mentions over total days
@@ -58,7 +60,10 @@ def calc_facility_proportions(df: pd.DataFrame):
     return df_days_used
 
 def calc_facility_freq_year(df: pd.DataFrame):
-    df_year = df.resample("Y", on="Report Date").sum()
+    df_year = df.resample("YE", on="Report Date").sum()
+
+    if os.path.exists("./analysis/plots/Facility_Year_Frequency") == False:
+        os.makedirs("./analysis/plots/Facility_Year_Frequency")
 
     for facility in tqdm(df_year.columns):
         df_facility = df_year.loc[:, facility]
@@ -78,8 +83,6 @@ def calc_facility_freq_year(df: pd.DataFrame):
 def calc_year_freq(df: pd.DataFrame):
     df_year = df.resample("Y", on="Report Date").sum()
     print(df_year)
-
-    print(df_year.loc['2009-12-31'].sort_values(ascending=False))
 
     if os.path.exists("./analysis/plots/Facility_Year_Mention") == False:
         os.makedirs("./analysis/plots/Facility_Year_Mention")
@@ -109,40 +112,6 @@ def calc_year_freq(df: pd.DataFrame):
     export_data(blog_sum, "./analysis/csv/facility_blog_frequency.csv")
 
     return df_year
-
-def plot_same_pairs(pair_type: str):
-    with open(f"./analysis/json/{pair_type}_pair_frequency.json") as f:
-        data = json.load(f)
-    f.close()
-
-    same_pairs = {key: val for key, val in data.items() if key.split("-")[0] == key.split("-")[1]}
-
-    plt.figure(figsize=(25, 10))
-    plt.bar(same_pairs.keys(), same_pairs.values())
-    plt.title(f"Same {pair_type.capitalize()} Pairs")
-    plt.xlabel(f"{pair_type.capitalize()} Pairs")
-    plt.ylabel("Frequency")
-    plt.xticks(rotation=45)
-    plt.tight_layout()
-    plt.savefig(f"./analysis/plots/same_{pair_type}_pairs.png")
-    plt.close()
-
-def plot_different_pairs(pair_type: str):
-    with open(f"./analysis/json/{pair_type}_pair_frequency.json") as f:
-        data = json.load(f)
-    f.close()
-
-    diff_pairs = {key: val for key, val in data.items() if key.split("-")[0] != key.split("-")[1]}
-
-    plt.figure(figsize=(25, 10))
-    plt.bar(list(diff_pairs.keys())[:12], list(diff_pairs.values())[:12])
-    plt.title(f"Same {pair_type.capitalize()} Pairs")
-    plt.xlabel(f"{pair_type.capitalize()} Pairs")
-    plt.ylabel("Frequency")
-    plt.xticks(rotation=45)
-    plt.tight_layout()
-    plt.savefig(f"./analysis/plots/diff_{pair_type}_pairs.png")
-    plt.close()
 
 # Total facility mentions in a given year
 def calc_facility_freq_month(df: pd.DataFrame):
@@ -234,46 +203,145 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
 
     return report_day_df
 
-def plot_apriori_mentions(apriori_df: pd.DataFrame):
-    x, y = [], []
+def calc_pair_distances(df_pairs: pd.DataFrame, facility_data: dict, save=False):
+    facility_distance = {
+        "JEM-US Lab": 2,
+        "JEM-Crew": 1,
+        "JEM-Node 1": 3,
+        "JEM-Node 2": 1,
+        "JEM-Node 3": 4,
+        "JEM-Columbus": 2,
+        "US Lab-Crew": 1,
+        "US Lab-Node 1": 1,
+        "US Lab-Node 2": 1,
+        "US Lab-Node 3": 2,
+        "US Lab-Columbus": 2,
+        "Crew-Node 1": 2,
+        "Crew-Node 2": 0,
+        "Crew-Node 3": 3,
+        "Crew-Columbus": 1,
+        "Node 1-Node 2": 2,
+        "Node 1-Node 3": 1,
+        "Node 1-Columbus": 3,
+        "Node 2-Node 3": 3,
+        "Node 2-Columbus": 1,
+        "Node 3-Columbus": 4,
+    }
 
-    for i, val in enumerate(apriori_df["frequency"]):
-        x.append(i)
-        y.append(val)
+    data = facility_data["facility_module"]
 
-    plt.figure(figsize=(15, 5))
-    plt.plot(x, y)
-    plt.xticks(range(0, 30))
-    ax = plt.gca()
-    ax.set_xlim([0, 30])
-    plt.show()
+    dist_data = []
 
-def plot_pairs(pair_data_dir: str):
-    for folder in tqdm(os.listdir(pair_data_dir)):
-        folder_path = os.path.join(pair_data_dir, folder)
+    df_pairs = df_pairs[df_pairs["length"] == 2]
 
-        for file in os.listdir(folder_path):
-            print(file)
-            file_path = os.path.join(folder_path, file)
-            file_name = file.split('.')[0]
-            df = pd.read_csv(file_path)
-            df["frequency"] = df["frequency"].astype(int)
+    print(df_pairs)
 
-            if df["frequency"].sum() == 0 or df.shape[0] < 2:
+    for i in range(df_pairs.shape[0]):
+        fset = str(df_pairs.iloc[i, 1])
+        names = re.findall(r"'([^']*)'", fset)
+        if names[0] in data and names[1] in data:
+            # print(f"{names} | Frequency: {df_pairs.iloc[i, 4]}")
+            pair = [data[names[0]], data[names[1]]]
+            if "ISS Truss" in pair:
+                dist_data.append(-1)
+                continue
+            
+            pair_key = "-".join(pair)
+            if pair[0] == pair[1]:
+                dist = 0
+            else:
+                if pair_key in facility_distance:
+                    dist = facility_distance[pair_key]
+                else:
+                    pair_key = "-".join([data[names[1]], data[names[0]]])
+                    dist = facility_distance[pair_key]
+
+            dist_data.append(dist)
+
+        else:
+            dist_data.append(-1)
+
+    df_pairs["Distance"] = dist_data
+
+    pair_distance_df = df_pairs[["itemsets", "Distance"]].sort_values(by="Distance", ascending=False)
+    pair_distance_df = pair_distance_df[pair_distance_df["Distance"] != -1]
+
+    if save:
+        export_data(pair_distance_df, "./analysis/csv/pair_mention_distances.csv")
+
+    return pair_distance_df
+
+def calc_unique_pairs(facility_data: dict):
+    exclude_list = ['ARED', 'CEVIS', 'TVIS', 'COLBERT']
+    pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
+    paragraph_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ())
+
+    # paragraph_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct", ())
+    
+    pair_types = ["agency", "category", "module", "custom"]
+    
+    for pair_type in pair_types:
+        if os.path.exists(f"./analysis/plots/{pair_type}"):
+            shutil.rmtree(f"./analysis/plots/{pair_type}")
+
+        os.makedirs(f"./analysis/plots/{pair_type}")
+
+        type_pair_count = {}
+        type_pair_unique = {"Same": 0, "Different": 0}
+
+        data = list(set(facility_data[f"facility_{pair_type}"].values()))
+
+        for i in tqdm(range(len(data))):
+            pair = [data[i], data[i]]
+            if data[i] == "":
                 continue
 
-            stats = df.describe().loc[["min", "mean", "std", "max"], ["support", "frequency"]].T
-            
-            stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{folder}/{file_name}.csv")
+            pair_key = "-".join(pair)
+            apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
-            pairs = ["-".join(re.findall(r"(?<=')[\w\s-]+(?=')", val)) for val in df["itemsets"].values]
-            
-            plt.figure(figsize=(10, 15))
-            ax = plt.gca()
-            ax.xaxis.set_major_locator(MaxNLocator(integer=True))
-            plt.barh(pairs[:15], df["frequency"].values[:15])
-            plt.title(f"{file_name} {folder.capitalize()} Pairs")
-            plt.xlabel("Frequency")
-            plt.tight_layout()
-            plt.savefig(f"./analysis/plots/Pair_Plots/{folder}/{file_name}.png")
-            plt.close()
+            type_pair_unique["Same"] = type_pair_unique["Same"] + int(apriori_data.shape[0])
+            type_pair_count[pair_key] = int(apriori_data["frequency"].sum())
+
+            pairs = ["-".join(val) for val in apriori_data["itemsets"].values][:15]
+
+            # print(pairs)
+
+            if apriori_data.shape[0] != 0:
+                plt.figure(figsize=(25, 10))
+                plt.bar(pairs, apriori_data["frequency"].values[:15])
+                plt.title(f"{pair_key} Pairs")
+                plt.xlabel("Pairs")
+                plt.ylabel("Frequency")
+                plt.xticks(rotation=45)
+                plt.tight_layout()
+                plt.savefig(f"./analysis/plots/{pair_type}/{pair_key}.png")
+                plt.close()
+
+            for j in range(i + 1, len(data)):
+                pair = [data[i], data[j]]
+                pair_key = "-".join(pair)
+                apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+
+                type_pair_unique["Different"] = type_pair_unique["Different"] + int(apriori_data.shape[0])
+                type_pair_count[pair_key] = int(apriori_data["frequency"].sum())
+
+                pairs = ["-".join(val) for val in apriori_data["itemsets"].values][:15]
+
+                if apriori_data.shape[0] != 0:
+                    plt.figure(figsize=(25, 10))
+                    plt.bar(pairs, apriori_data["frequency"].values[:15])
+                    plt.title(f"{pair_key} Pairs")
+                    plt.xlabel("Pairs")
+                    plt.ylabel("Frequency")
+                    plt.xticks(rotation=45)
+                    plt.tight_layout()
+                    plt.savefig(f"./analysis/plots/{pair_type}/{pair_key}.png")
+                    plt.close()
+
+        type_pair_count = {k: v for k, v in sorted(type_pair_count.items(), key=lambda item: item[1], reverse=True)}
+        type_pair_unique = {k: v for k, v in sorted(type_pair_unique.items(), key=lambda item: item[1], reverse=True)}
+
+        print(type_pair_count)
+
+        export_data(type_pair_count, f"./analysis/json/{pair_type}_unique_pair_frequency.json")
+        export_data(type_pair_unique, f"./analysis/json/{pair_type}_unique_pair.json")

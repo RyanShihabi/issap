@@ -1,5 +1,5 @@
 import pandas as pd
-from mlxtend.frequent_patterns import apriori, association_rules
+from mlxtend.frequent_patterns import apriori, association_rules, fpgrowth
 from mlxtend.preprocessing import TransactionEncoder
 from utils.mining_utils import export_data
 import json
@@ -19,28 +19,6 @@ def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list = None
     else:
         return apriori_df.loc[rows, :]
 
-# Run apriori calculations from a dataframe
-def apriori_from_df(obj):
-    if type(obj) == str:
-        mentions_df = pd.read_csv(obj)
-
-        mentions_df.drop("Unnamed: 0", inplace=True, axis=1)
-    else:
-        mentions_df = obj
-
-    for col in mentions_df.columns:
-        mentions_df[col] = mentions_df[col].astype(bool)
-
-    support = 1e-5
-
-    itemsets_df = apriori(mentions_df, min_support=support, use_colnames=True)
-
-    itemsets_df["length"] = itemsets_df["itemsets"].apply(lambda x: len(x))
-
-    itemsets_pair = itemsets_df[itemsets_df["length"] == 2].sort_values(by="support", ascending=False)
-
-    return itemsets_pair
-
 # Run apriori calculations from a list
 def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None, pair: list = [], save: bool = False):
     te = TransactionEncoder()
@@ -49,9 +27,7 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
     support = 1e-5
 
-    itemsets_df = apriori(df, min_support=support, use_colnames=True)
-
-    rules = association_rules(itemsets_df, metric="support", min_threshold=1e-4).sort_values(by="confidence", ascending=False)
+    itemsets_df = fpgrowth(df, min_support=support, use_colnames=True)
 
     itemsets_df["length"] = itemsets_df["itemsets"].apply(lambda x: len(x))
 
@@ -81,10 +57,22 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
 
         itemsets_pair = itemsets_pair.drop(drop_idx)
 
+        if save:
+            export_data(itemsets_df, f"./analysis/csv/apriori_pairs{file_name}.csv")
+
+        return itemsets_pair
+
         # print(f"{pair}: {itemsets_pair['frequency'].sum()}")
     
     if save:
-        export_data(itemsets_df, f"./analysis/csv/apriori_pairs{file_name}.csv")
+        export_data(itemsets_df, f"./analysis/csv/apriori_itemsets{file_name}.csv")
+
+    return itemsets_df
+
+def association_from_apriori(apriori_df: pd.DataFrame, file_name: str = None, save: bool = False):
+    rules = association_rules(apriori_df, metric="support", min_threshold=1e-4).sort_values(by="confidence", ascending=False)
+
+    if save:
         export_data(rules, f"./analysis/csv/association_rules{file_name}.csv")
 
-    return itemsets_df, rules
+    return rules

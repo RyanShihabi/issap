@@ -507,7 +507,7 @@ def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 
 	export_data(df, "./analysis/csv/agency_category_mentions.csv")
 
-def generate_custom_facility(custom_file: str, facility_data: dict):
+def generate_custom_facility(custom_file: str):
 	categories = np.unique([category for category in pd.read_csv(custom_file)["ISSAP type"]])
 	facility_category = {}
 	
@@ -746,10 +746,17 @@ def get_new_report(link):
    	
 	three_day_index = results.text.find("Three-Day Look Ahead:")
 
-	if look_ahead_index != -1 and three_day_index == -1:
-		results_filtered = results.text[:look_ahead_index]
-	elif three_day_index != -1:
-		results_filtered = results.text[:three_day_index]
+	completed_task_list_index = results.text.find("Completed Task List Activities:")
+
+	indices = [x for x in [look_ahead_index, three_day_index, completed_task_list_index] if x != -1]
+
+	# if look_ahead_index != -1 and three_day_index == -1:
+	# 	results_filtered = results.text[:look_ahead_index]
+	# elif three_day_index != -1:
+	# 	results_filtered = results.text[:three_day_index]
+
+	if len(indices) != 0:
+		results_filtered = results.text[:min(indices)]
 	else:
 		results_filtered = results.text
 
