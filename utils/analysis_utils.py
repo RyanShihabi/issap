@@ -284,7 +284,11 @@ def calc_unique_pairs(facility_data: dict):
         if os.path.exists(f"./analysis/plots/{pair_type}"):
             shutil.rmtree(f"./analysis/plots/{pair_type}")
 
+        if os.path.exists(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}"):
+            shutil.rmtree(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}")
+
         os.makedirs(f"./analysis/plots/{pair_type}")
+        os.makedirs(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}")
 
         type_pair_count = {}
         type_pair_unique = {"Same": 0, "Different": 0}
@@ -299,15 +303,17 @@ def calc_unique_pairs(facility_data: dict):
             pair_key = "-".join(pair)
             apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
+            apriori_data["frequency"] = apriori_data["frequency"].astype(int)
+            
             type_pair_unique["Same"] = type_pair_unique["Same"] + int(apriori_data.shape[0])
             type_pair_count[pair_key] = int(apriori_data["frequency"].sum())
 
             pairs = ["-".join(val) for val in apriori_data["itemsets"].values][:15]
 
-            # print(pairs)
-
-            if apriori_data.shape[0] != 0:
+            if apriori_data.shape[0] > 1:
                 plt.figure(figsize=(25, 10))
+                ax = plt.gca()
+                ax.yaxis.set_major_locator(MaxNLocator(integer=True))
                 plt.bar(pairs, apriori_data["frequency"].values[:15])
                 plt.title(f"{pair_key} Pairs")
                 plt.xlabel("Pairs")
@@ -317,18 +323,25 @@ def calc_unique_pairs(facility_data: dict):
                 plt.savefig(f"./analysis/plots/{pair_type}/{pair_key}.png")
                 plt.close()
 
+                stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
+                stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
+
             for j in range(i + 1, len(data)):
                 pair = [data[i], data[j]]
                 pair_key = "-".join(pair)
                 apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+
+                apriori_data["frequency"] = apriori_data["frequency"].astype(int)
 
                 type_pair_unique["Different"] = type_pair_unique["Different"] + int(apriori_data.shape[0])
                 type_pair_count[pair_key] = int(apriori_data["frequency"].sum())
 
                 pairs = ["-".join(val) for val in apriori_data["itemsets"].values][:15]
 
-                if apriori_data.shape[0] != 0:
+                if apriori_data.shape[0] > 1:
                     plt.figure(figsize=(25, 10))
+                    ax = plt.gca()
+                    ax.yaxis.set_major_locator(MaxNLocator(integer=True))
                     plt.bar(pairs, apriori_data["frequency"].values[:15])
                     plt.title(f"{pair_key} Pairs")
                     plt.xlabel("Pairs")
@@ -337,6 +350,9 @@ def calc_unique_pairs(facility_data: dict):
                     plt.tight_layout()
                     plt.savefig(f"./analysis/plots/{pair_type}/{pair_key}.png")
                     plt.close()
+
+                    stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
+                    stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
 
         type_pair_count = {k: v for k, v in sorted(type_pair_count.items(), key=lambda item: item[1], reverse=True)}
         type_pair_unique = {k: v for k, v in sorted(type_pair_unique.items(), key=lambda item: item[1], reverse=True)}

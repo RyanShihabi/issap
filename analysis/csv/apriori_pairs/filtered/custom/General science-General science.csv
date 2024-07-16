@@ -1,9 +1,0 @@
-,support,itemsets,length,frequency
-614,0.0008112179858616293,"frozenset({'TangoLab-1', 'TangoLab-2'})",2,7
-450,0.0004635531347780739,"frozenset({'MSPR', 'GN2'})",2,4
-394,0.0004635531347780739,"frozenset({'TangoLab-1', 'EXPRESS Rack'})",2,4
-366,0.00034766485108355543,"frozenset({'EXPRESS Rack', 'GN2'})",2,3
-395,0.00023177656738903696,"frozenset({'EXPRESS Rack', 'TangoLab-2'})",2,2
-312,0.00011588828369451848,"frozenset({'EDR', 'EXPRESS Rack'})",2,1
-377,0.00011588828369451848,"frozenset({'MSPR', 'EXPRESS Rack'})",2,1
-391,0.00011588828369451848,"frozenset({'EXPRESS Rack', 'SLAMMD'})",2,1

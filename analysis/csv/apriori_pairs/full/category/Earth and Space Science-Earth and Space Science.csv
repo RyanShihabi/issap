@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-554,0.000444247001332741,"frozenset({'WORF', 'ISERV'})",2,5
-397,0.0002665482007996446,"frozenset({'WORF', 'ELC'})",2,3
-396,0.00017769880053309641,"frozenset({'ELC', 'Solar'})",2,2
-686,8.884940026654821e-05,"frozenset({'WORF', 'Solar'})",2,1

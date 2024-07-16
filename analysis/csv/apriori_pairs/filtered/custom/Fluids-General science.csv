@@ -1,9 +1,0 @@
-,support,itemsets,length,frequency
-298,0.0027813188086684435,"frozenset({'EXPRESS Rack', 'DECLIC'})",2,24
-313,0.00034766485108355543,"frozenset({'FSL', 'EDR'})",2,3
-571,0.00023177656738903696,"frozenset({'Ryutai', 'MSPR'})",2,2
-362,0.00023177656738903696,"frozenset({'FIR', 'EXPRESS Rack'})",2,2
-364,0.00023177656738903696,"frozenset({'FSL', 'EXPRESS Rack'})",2,2
-429,0.00011588828369451848,"frozenset({'FSL', 'SLAMMD'})",2,1
-414,0.00011588828369451848,"frozenset({'MSPR', 'FPEF'})",2,1
-363,0.00011588828369451848,"frozenset({'FPEF', 'EXPRESS Rack'})",2,1

@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-238,0.0006953297021671109,"frozenset({'KFT', 'CBEF'})",2,6
-241,0.00034766485108355543,"frozenset({'CBEF', 'MSG'})",2,3
-576,0.00011588828369451848,"frozenset({'PGB', 'MVP'})",2,1

@@ -1,8 +1,0 @@
-,support,itemsets,length,frequency
-415,0.002433653957584888,"frozenset({'FPEF', 'MWA'})",2,21
-526,0.0011588828369451848,"frozenset({'MELFI', 'MWA'})",2,10
-481,0.0009271062695561478,"frozenset({'IPU', 'MWA'})",2,8
-578,0.0006953297021671109,"frozenset({'Ryutai', 'MWA'})",2,6
-157,0.0006953297021671109,"frozenset({'MWA', 'ABRS'})",2,6
-570,0.00011588828369451848,"frozenset({'MSPR', 'MWA'})",2,1
-200,0.00011588828369451848,"frozenset({'MWA', 'Aquatic Habitat'})",2,1

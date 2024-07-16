@@ -1,7 +1,0 @@
-,support,itemsets,length,frequency
-337,0.002085989106501333,"frozenset({'MSPR', 'ELF'})",2,18
-277,0.0012747711206397034,"frozenset({'CIR', 'EXPRESS Rack'})",2,11
-376,0.00023177656738903696,"frozenset({'EXPRESS Rack', 'MSL'})",2,2
-335,0.00023177656738903696,"frozenset({'ELF', 'GN2'})",2,2
-286,0.00011588828369451848,"frozenset({'CIR', 'SLAMMD'})",2,1
-436,0.00011588828369451848,"frozenset({'GHF', 'KOBAIRO Rack'})",2,1

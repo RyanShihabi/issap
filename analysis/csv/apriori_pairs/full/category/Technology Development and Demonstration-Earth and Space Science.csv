@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-395,0.0007996446023989338,"frozenset({'SPHERES', 'ELC'})",2,9
-559,8.884940026654821e-05,"frozenset({'JEM-EF', 'MISSE-FF'})",2,1
-394,8.884940026654821e-05,"frozenset({'SCAN Testbed', 'ELC'})",2,1

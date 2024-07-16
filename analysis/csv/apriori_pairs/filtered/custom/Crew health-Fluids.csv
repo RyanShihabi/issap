@@ -1,7 +1,0 @@
-,support,itemsets,length,frequency
-349,0.00034766485108355543,"frozenset({'FSL', 'EPM'})",2,3
-430,0.00011588828369451848,"frozenset({'FSL', 'Ultrasound'})",2,1
-428,0.00011588828369451848,"frozenset({'FSL', 'Mass Measurement Device'})",2,1
-410,0.00011588828369451848,"frozenset({'FIR', 'Ultrasound'})",2,1
-409,0.00011588828369451848,"frozenset({'FIR', 'TEPC'})",2,1
-407,0.00011588828369451848,"frozenset({'PCBA', 'FIR'})",2,1

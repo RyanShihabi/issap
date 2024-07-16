@@ -1,26 +1,8 @@
-import json
 import pandas as pd
 import os
-from tqdm import tqdm
-from utils.mining_utils import (collect_reports,
-                          send_internet_archive_request,
-                          custom_search,
-                          generate_facility_names,
+from utils.mining_utils import (generate_facility_names,
                           grab_facility_mentions,
-                          grab_sequential_mentions,
-                          grab_agency_category_mentions,
-                          generate_paragraph_apriori,
-                          generate_kernel_apriori,
-                          generate_custom_facility,
-                          export_data,
-                          get_words_around)
-from utils.apriori_utils import apriori_from_list
-
-# Get the reports
-# collect_reports()
-
-# Send captures to the Wayback Machine
-# send_internet_archive_request()
+                          generate_custom_facility)
 
 def run_mining():
     facility_data = generate_facility_names("./sources/facility_data/csv/all_facilities.csv")

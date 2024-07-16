@@ -15,34 +15,37 @@ def archive_paragraph_split(report_text: str):
 	return report_text.split("\n")
 
 def find_paragraph_split(sep: str, report_text: str):
-    idx = [word.start() for word in re.finditer(sep, report_text)]
-    idx.insert(0, 0)
-    idx.append(len(report_text))
+	idx = [word.start() for word in re.finditer(sep, report_text)]
+	idx.insert(0, 0)
+	idx.append(len(report_text))
 
-    idx = [(idx[i], idx[i+1]) for i in range(len(idx) - 1)]
+	idx = [(idx[i], idx[i+1]) for i in range(len(idx) - 1)]
 
-    return idx
+	return idx
 
-def assign_paragraphs(paragraph_groups, mentions_list, facility_name_abbr):
-    paragraphs = []
+def assign_paragraphs(paragraph_groups, mentions_list, facility_name_abbr, text, excerpt):
+	paragraphs = []
 
-    for paragraph_group in paragraph_groups:
-        facilities_mentioned = []
-        for facility, locs in mentions_list.items():
-            for loc in locs:
-                if loc[0] > paragraph_group[1]:
-                    break
+	for paragraph_group in paragraph_groups:
+		facilities_mentioned = []
+		for facility, locs in mentions_list.items():
+			for loc in locs:
+				if loc[0] > paragraph_group[1]:
+					break
 
-                if paragraph_group[0] < loc[0] and paragraph_group[1] > loc[1]:
-                    facilities_mentioned.append(facility)
+				if paragraph_group[0] < loc[0] and paragraph_group[1] > loc[1]:
+					facilities_mentioned.append(facility)
+			
+		if len(facilities_mentioned) != 0:
+			paragraph_mention = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
 
-            
-        if len(facilities_mentioned) != 0:
-            paragraph_mention = list(set(map(lambda x: facility_name_abbr[x] if x in facility_name_abbr else x, facilities_mentioned)))
+			paragraphs.append(paragraph_mention)
 
-            paragraphs.append(paragraph_mention)
+			if len(excerpt) != 0:
+				if excerpt[0] in paragraph_mention and excerpt[1] in paragraph_mention:
+					print(text[paragraph_group[0]:paragraph_group[1]])
 
-    return paragraphs
+	return paragraphs
 
 def new_paragraph_split(report_text: str):
 	return report_text.split("\n")
@@ -147,99 +150,99 @@ def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: i
 
 # Find and remove overlapping facility mentions
 def overlapping_lists(list1, list2):
-    result1 = list1.copy()
-    result2 = list2.copy()
+	result1 = list1.copy()
+	result2 = list2.copy()
 
-    for r1 in list1:
-        for r2 in list2:
-            if r1[0] <= r2[1] and r1[1] >= r2[0]:
-                if (r1[1] - r1[0]) < (r2[1] - r2[0]):
-                    result1.remove(r1)
-                    break
-                else:
-                    result2.remove(r2)
-                    
-    return result1, result2
+	for r1 in list1:
+		for r2 in list2:
+			if r1[0] <= r2[1] and r1[1] >= r2[0]:
+				if (r1[1] - r1[0]) < (r2[1] - r2[0]):
+					result1.remove(r1)
+					break
+				else:
+					result2.remove(r2)
+					
+	return result1, result2
 
 # Paragraph facility mention list for Apriori input
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple):
-    dataset = []
-    facility_names = []
+	dataset = []
+	facility_names = []
 
-    for name, abbr in facility_name_abbr.items():
-        facility_names.append(name)
-        facility_names.append(abbr)
+	for name, abbr in facility_name_abbr.items():
+		facility_names.append(name)
+		facility_names.append(abbr)
 
-    facility_names = list(set(facility_names))
+	facility_names = list(set(facility_names))
 
-    archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
-    new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
+	archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
+	new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
 
-    for report in tqdm(archive_reports):
-        file_path = os.path.join(report_dir, report)
-        with open(file_path, 'r') as f:
-            text = "\n".join(f.readlines())
-        f.close()
+	for report in tqdm(archive_reports):
+		file_path = os.path.join(report_dir, report)
+		with open(file_path, 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
 
-        double_paragraph_indices = find_paragraph_split("\n\n", text)
+		double_paragraph_indices = find_paragraph_split("\n\n", text)
 
-        facility_locs = {}
-        for name, abbr in facility_name_abbr.items():
-            name_locs = find_name_indices(name, text)
-            if len(name_locs) != 0:
-                facility_locs[name] = name_locs
+		facility_locs = {}
+		for name, abbr in facility_name_abbr.items():
+			name_locs = find_name_indices(name, text)
+			if len(name_locs) != 0:
+				facility_locs[name] = name_locs
 
-            abbr_locs = find_name_indices(abbr, text)
-            if len(abbr_locs) != 0:
-                facility_locs[abbr] = abbr_locs
+			abbr_locs = find_name_indices(abbr, text)
+			if len(abbr_locs) != 0:
+				facility_locs[abbr] = abbr_locs
 
-        for key, values in facility_locs.items():
-            for keyComp, valuesComp in facility_locs.items():
-                if key != keyComp:
-                    newValues, newValuesComp = overlapping_lists(values, valuesComp)
+		for key, values in facility_locs.items():
+			for keyComp, valuesComp in facility_locs.items():
+				if key != keyComp:
+					newValues, newValuesComp = overlapping_lists(values, valuesComp)
 
-                    facility_locs[key] = newValues
-                    facility_locs[keyComp] = newValuesComp
+					facility_locs[key] = newValues
+					facility_locs[keyComp] = newValuesComp
 
-        facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
-        facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr)
+		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
+		facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr, text, excerpt_pair)
 
-        for paragraph in facilities_mentioned:
-            dataset.append(paragraph)
+		for paragraph in facilities_mentioned:
+			dataset.append(paragraph)
 
-    for report in tqdm(new_reports):
-        file_path = os.path.join(report_dir, report)
-        with open(file_path, 'r') as f:
-            text = "\n".join(f.readlines())
-        f.close()
+	for report in tqdm(new_reports):
+		file_path = os.path.join(report_dir, report)
+		with open(file_path, 'r') as f:
+			text = "\n".join(f.readlines())
+		f.close()
 
-        double_paragraph_indices = find_paragraph_split("\n\n", text)
+		double_paragraph_indices = find_paragraph_split("\n\n", text)
 
-        facility_locs = {}
-        for name, abbr in facility_name_abbr.items():
-            name_locs = find_name_indices(name, text)
-            if len(name_locs) != 0:
-                facility_locs[name] = name_locs
+		facility_locs = {}
+		for name, abbr in facility_name_abbr.items():
+			name_locs = find_name_indices(name, text)
+			if len(name_locs) != 0:
+				facility_locs[name] = name_locs
 
-            abbr_locs = find_name_indices(abbr, text)
-            if len(abbr_locs) != 0:
-                facility_locs[abbr] = abbr_locs
+			abbr_locs = find_name_indices(abbr, text)
+			if len(abbr_locs) != 0:
+				facility_locs[abbr] = abbr_locs
 
-        for key, values in facility_locs.items():
-            for keyComp, valuesComp in facility_locs.items():
-                if key != keyComp:
-                    newValues, newValuesComp = overlapping_lists(values, valuesComp)
+		for key, values in facility_locs.items():
+			for keyComp, valuesComp in facility_locs.items():
+				if key != keyComp:
+					newValues, newValuesComp = overlapping_lists(values, valuesComp)
 
-                    facility_locs[key] = newValues
-                    facility_locs[keyComp] = newValuesComp
+					facility_locs[key] = newValues
+					facility_locs[keyComp] = newValuesComp
 
-        facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
-        facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr)
+		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
+		facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr, text, excerpt_pair)
 
-        for paragraph in facilities_mentioned:
-            dataset.append(paragraph)
+		for paragraph in facilities_mentioned:
+			dataset.append(paragraph)
 	
-    return dataset
+	return dataset
 
 def get_words_around(name: str, report_dir: str) -> dict:
 	word_count = {}
@@ -321,30 +324,30 @@ def collect_reports():
 		report_data = get_new_report(link)
 
 		export_report(report_data)
-        
+		
 	return missing
 
 # Deprecated due to NASA removing archive links
 # Takes report links and adds them to the internet archive
 def send_internet_archive_request():
 	archive_links = grab_archive_links()
-    
+	
 	new_links = grab_new_links()
-     
+	 
 	already_saved = []
-     
+	 
 	internet_archive_captures = []
-     
+	 
 	if os.path.exists("./archived_list.txt"):
 		with open("./archived_list.txt", "r") as f:
 			already_saved = [link.translate({10: None}) for link in f.readlines()]
 		f.close()
-          
+		  
 	if os.path.exists("./internet_archive_capture_list.txt"):
 		with open("./internet_archive_capture_list.txt", "r") as f:
 			internet_archive_captures = [link.translate({10: None}) for link in f.readlines()]
 		f.close()
-    
+	
 	links = archive_links + new_links
 	
 	print(f"{len(links) - len(already_saved)} links remaining")
@@ -360,22 +363,22 @@ def send_internet_archive_request():
 					for saved_link in already_saved:
 						f.write(f"{saved_link}\n")
 				f.close()
-                    
+					
 				with open("./internet_archive_capture_list.txt", "w") as f:
 					for saved_link in internet_archive_captures:
 						f.write(f"{saved_link}\n")
 				f.close()
 						
 				# raise Exception("Timeout was reached")
-               
+			   
 			time.sleep(8.0)
 
-    
+	
 	with open("./archived_list.txt", "w") as f:
 		for saved_link in already_saved:
 			f.write(f"{saved_link}\n")
 	f.close()
-     
+	 
 	with open("./internet_archive_capture_list.txt", "w") as f:
 		for saved_link in internet_archive_captures:
 			f.write(f"{saved_link}\n")
@@ -467,7 +470,7 @@ def grab_facility_mentions(report_dir, facility_data, filter=None, kernel_window
 					day_mentions[abbr] = 1
 				else:
 					day_mentions[abbr] = 0
-                         
+						 
 		if "reports_parsed" in file:
 			file = file[14:]
 		
@@ -576,7 +579,7 @@ def generate_facility_names(facility_report_file: str):
 
 	id_abbr = dict((i, abbr) for i, abbr in enumerate(facility_abbr_name.keys()))
 
-    # Reverse key-value pairs for reference full to abbreviated name
+	# Reverse key-value pairs for reference full to abbreviated name
 	facility_name_abbr = {}
 
 	for key, value in facility_abbr_name.items():
@@ -598,26 +601,26 @@ def generate_facility_names(facility_report_file: str):
 	export_data(id_abbr, "./sources/facility_data/json/id_abbr.json")
 
 	return {
-            "facility_name_abbr": facility_name_abbr,
-            "facility_abbr_name": facility_abbr_name,
+			"facility_name_abbr": facility_name_abbr,
+			"facility_abbr_name": facility_abbr_name,
 			"category_facilities": category_facilities,
 			"facility_category": facility_category,
 			"facility_module": facility_module,
 			"facility_agency": facility_agency,
 			"agency_facilities": agency_facilities,
 			"id_abbr": id_abbr
-            }
+			}
 
 # Helper function for handling exports of different types
 def export_data(obj, dir):
-    if type(obj) == dict or type(obj) == list:  
-        with open(dir, 'w') as f:
-            json.dump(obj, f, indent=4)
-        f.close()
-    elif type(obj) == pd.core.frame.DataFrame or type(obj) == pd.core.frame.Series:
-        obj.to_csv(dir, sep=",")
-    else:
-        print("Unsupported file type")
+	if type(obj) == dict or type(obj) == list:  
+		with open(dir, 'w') as f:
+			json.dump(obj, f, indent=4)
+		f.close()
+	elif type(obj) == pd.core.frame.DataFrame or type(obj) == pd.core.frame.Series:
+		obj.to_csv(dir, sep=",")
+	else:
+		print("Unsupported file type")
 
 # Exporting text report files
 def export_report(obj):
@@ -628,15 +631,15 @@ def export_report(obj):
 
 # Collects new blog links from NASA sitemap
 def grab_new_links():
-    # Use the nav-links class to traverse
+	# Use the nav-links class to traverse
 	print("Grabbing reports from NASA blog site")
 	new_reports = []
 	page = requests.get("https://blogs.nasa.gov/stationreport/")
-    
+	
 	soup = BeautifulSoup(page.content, "html.parser")
 
 	link_navbar = soup.find_all("a", class_ = "page-numbers")
-    
+	
 	max_page = int(link_navbar[1].text.split(" ")[1].translate({44: None}))
 
 	for i in tqdm(range(1, max_page+1)):
@@ -649,37 +652,37 @@ def grab_new_links():
 
 # Deprecated: Old links and their reports no longer exist
 def grab_archive_links():
-    print("Grabbing reports from NASA archive")
-    
-    report_amount = 0
-    archive_reports = []
+	print("Grabbing reports from NASA archive")
+	
+	report_amount = 0
+	archive_reports = []
 
   # Timeline of archive reports: 2009-2012
-    for year in tqdm(range(2009, 2013)):
-    # Directory pages span from 1 to 8
-        for page in range(1, 9):
-            url = f"https://www.nasa.gov/directorates/heo/reports/iss_reports/{year}/ISS_Reports_SearchAgent_archive_{page}.html"
-            
-            page = requests.get(url)
-            soup = BeautifulSoup(page.content, 'html.parser')
+	for year in tqdm(range(2009, 2013)):
+	# Directory pages span from 1 to 8
+		for page in range(1, 9):
+			url = f"https://www.nasa.gov/directorates/heo/reports/iss_reports/{year}/ISS_Reports_SearchAgent_archive_{page}.html"
+			
+			page = requests.get(url)
+			soup = BeautifulSoup(page.content, 'html.parser')
 
-            results = soup.find(id='imgGallery5Col')
+			results = soup.find(id='imgGallery5Col')
 
-            if results:
-                report_elems = results.find_all('a')
+			if results:
+				report_elems = results.find_all('a')
 
-            for report in report_elems:
-                archive_reports.append(f"https://www.nasa.gov{report['href']}")
+			for report in report_elems:
+				archive_reports.append(f"https://www.nasa.gov{report['href']}")
 
-        report_amount += len(report_elems)
+		report_amount += len(report_elems)
 
-    # Outlier links that don't follow pattern or dead links
-    archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/0128201.html")
-    archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/02102011.html")
+	# Outlier links that don't follow pattern or dead links
+	archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/0128201.html")
+	archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/02102011.html")
 
-    print(f"{len(archive_reports)} unique reports found")
+	print(f"{len(archive_reports)} unique reports found")
 
-    return archive_reports
+	return archive_reports
 
 # Deprecated: Old links and their reports no longer exist
 def get_archived_report(link):
@@ -695,13 +698,13 @@ def get_archived_report(link):
 	orbit_index = results.text.find("ISS Orbit")
 
 	events_index = results.text.find("Significant Events Ahead")
-    
+	
 	date = soup.find("div", class_="address").span.text.translate({47: 45})
-    
+	
 	# Check for ISS On-Orbit Status
 	if date.startswith("ISS On-Orbit Status"):
 		date = date[20:]
-        
+		
 	if len(date.split("-")[-1]) == 2:
 		date = f"{date[:-2]}20{date[-2:]}"
 
@@ -716,7 +719,7 @@ def get_archived_report(link):
 		filtered_report = results.text[:orbit_index]
 	else:
 		filtered_report = results.text
-        
+		
 
 	return {"text": filtered_report, "date": date}
 
@@ -730,16 +733,16 @@ def get_new_report(link):
 
 	# class name can be one of two values
 	result_date = soup.find("time", class_="entry-date published")
-    
+	
 	if result_date == None:
 		result_date = soup.find("time", class_="entry-date published updated")
 	
 	result_date = result_date["datetime"]
 	
 	date = result_date.split("T")[0]
-    
+	
 	date_values = date.split("-")
-    
+	
 	date_mdy = "-".join([date_values[i] for i in [1, 2, 0]])
 	
 	look_ahead_index = results.text.find("Look Ahead Plan")

@@ -1,7 +1,0 @@
-,support,itemsets,length,frequency
-276,0.0004635531347780739,"frozenset({'CIR', 'ELC'})",2,4
-289,0.00023177656738903696,"frozenset({'CIR', 'WORF'})",2,2
-297,0.00011588828369451848,"frozenset({'ELC', 'DECLIC'})",2,1
-210,0.00011588828369451848,"frozenset({'BXF', 'Solar'})",2,1
-431,0.00011588828369451848,"frozenset({'FSL', 'WORF'})",2,1
-323,0.00011588828369451848,"frozenset({'FPEF', 'ELC'})",2,1
