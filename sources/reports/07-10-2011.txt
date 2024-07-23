@@ -1,0 +1,62 @@
+ISS On-Orbit Status 07/10/11
+ 
+All ISS systems continue to function nominally, except those noted previously or below.    Crew sleep cycle shift:  Wake - 2:59am, sleep 6:29pm EDT.   FD3 (Flight Day 3) of STS-135/ULF7.   Sunday.  Ahead: Week 17 of Increment 27/28.
+ 
+STS-135/Atlantis docked smoothly at the ISS PMA-2 (Pressurized Mating Adapter-2) port on time at ~11:07am EDT this morning, with all hooks closed by 11:11am, rigidizing the Shuttle/ISS linkup.  After successful completion of the RPM (R-Bar Pitch Maneuver) at ~10:25am, Atlantis arrived at +V-Bar (310 ft straight in front of ISS) at about 10:28am.  The station now hosts ten occupants as Mission ULF-7 is underway.     [The combined crew is comprised of ISS-CDR Andrey Borisenko (Russia), FE-1 Aleksandr Samokutyayev (Russia), FE-3 Ron Garan (USA), FE-4 Sergei Volkov (Russia), FE-5 Satoshi Furukawa (Japan), FE-6 Mike Fossum (USA), STS-CDR Christopher Ferguson, PLT Doug Hurley, MS1 Sandy Magnus, and MS2 Rex Walheim.  Welcome aboard, guys!]
+ 
+This is the last of the soon-to-be-legendary Space Shuttle missions.  It is the 33<sup>rd</sup> flight for Atlantis and its 12<sup>th</sup> to ISS.  Atlantis flew its maiden voyage as STS-51J to deliver a military communications satellite in October 1985, launched the Magellan probe to Venus, the Galileo probe to Jupiter, the Compton Gamma Ray Observatory and conducted the final Hubble Space Telescope servicing mission plus five dedicated military missions.  Atlantis pioneered the Shuttle-Mir missions, flying the first seven missions to dock with the Russian Mir space station, flew 12 assembly &amp; resupply missions to the ISS, including delivery of the US Destiny Lab, Quest Airlock, 4 truss segments and the European Columbus Lab.  It traveled 124 million miles in 300 days with 195 crewmembers.  Since STS-1 on April 12, 1981, 356 Individuals representing 16 countries have flown 848 times, traveling 540 million miles on 135 Shuttle missions.
+ 
+After the docking, the station was reoriented by the small vernier thrusters of the Shuttle (ORB mode) to minimize the risk of micrometeoroid/debris impacts upon the Shuttle, with the Atlantis’ belly turned opposite to the flight direction (-XVV = -x-axis in velocity vector, +z-axis in local vertical).    [Earlier, the ISS maneuvered to docking attitude after attitude control authority was handed over from USOS (US Segment) to RS MCS (Russian Segment Motion Control System) at ~9:05am.  Control returned from Shuttle ORB to US Momentum Management at 12:48pm.]
+ 
+Before the docking, FE-1 Samokutyayev performed final STTS communications configuration checks for the docking.  Upon docking, Aleksandr switched USOS/RS (US Segment/Russian Segment) comm systems to their mated-flight mode.
+ 
+FE-5 Furukawa shut down the T61p SSC-13 laptop, disconnected it from its power supply and set it aside for later transfer to the Orbiter.
+ 
+Other pre-docking preparations by the ISS crew included –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l2 level1 lfo1">CDR Borisenko activating the Russian TEKh-15/DAKON-M IZGIB (“Bend”) experiment hardware in the SM (Service Module) for taking structural dynamics data during the Atlantis docking activities, later downlinking the dynamics measurements to the ground and closing out the data take;</li></ul><ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l1 level1 lfo2">FE-4 Volkov, FE-3 Garan, FE-5 Furukawa &amp; FE-6 Fossum readying their RPM (R-bar Pitch Maneuver) photo equipment, including camera battery checks, for Orbiter TPS (Thermal Protection System) documentation, and</li><li class="MsoNormal" style="mso-list:l1 level1 lfo2">Configuring &amp; verifying proper headset connection for supporting the RPM activity (which resulted in several hundred pictures of the Orbiter bottom TPS/Thermal Protection System).</li></ul> 
+Also before the docking, Ron Garan –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l2 level1 lfo1">Set up the equipment for the scheduled saliva collection of the INTEGRATED IMMUNE protocol,   [INTEGRATED IMMUNE (Validating Procedures for Monitoring Crew member Immune Function) samples &amp; analyzes participant’s blood, urine, and saliva before, during and after flight for changes related to functions like bone metabolism, oxidative damage and immune function to develop and validate an immune monitoring strategy consistent with operational flight requirements and constraints], </li><li class="MsoNormal" style="mso-list:l2 level1 lfo1">Collected a 300 mL sample from the WPA WWT (Water Processor Assembly / Waste Water Tank) via Process Line B after purging it, to be returned on ULF7,</li><li class="MsoNormal" style="mso-list:l2 level1 lfo1">Configured the DOUG (Dynamic Onboard Ubiquitous Graphics) application on SSC-17 (Station Support Computer 17) in the Cupola for SSRMS (Space Station Remote Manipulator System) ops in support of the subsequent OBSS (Orbiter Boom Sensor System) handoff from ISS to the Orbiter,</li><li class="MsoNormal" style="mso-list:l2 level1 lfo1">Performed troubleshooting on SSC-5 (for MPEG Video Encoder use), with the option to replace it with another SSC if necessary, and</li><li class="MsoNormal" style="mso-list:l2 level1 lfo1">Configured &amp; later activated the camera timers upon Orbiter RPM initiation and handling the camcorder (the timers indicate beginning &amp; end of the bottom-side photography window).</li></ul> 
+FE-6 Fossum – 
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l0 level1 lfo3">Set up the OpsLAN OSTPV (Onboard Short Term Plan Viewer) by updating its MET (Mission Elapsed Time) value to synchronize with the Shuttle MET, and</li></ul><ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l2 level1 lfo1">Closed the external shutters of the Lab, JPM (JEM Pressurized Module) &amp; Cupola windows as protection against Shuttle thruster plume contamination.</li></ul> 
+Also before the docking, Borisenko &amp; Garan configured the Russian MCS (Motion Control System) for the automatic “PMA-2 Arrival” mode, an operational sequence used to monitor Orbiter arrival at the PMA-2.      [At “Capture Confirmed”, ISS attitude was immediately set to free drift for about 30 min. to allow dampening out relative motions of ISS and Atlantis (with the ODS (Orbiter Docking System) dampers/shock absorbers) plus re-align the docking ring, then maneuvered to “Mated TEA” (Torque Equilibrium Attitude) at 11:34am-12:04pm to account for the new overall configuration with Atlantis docked, which regained attitude control until handover to ISS momentum management.] 
+ 
+The CDR conducted the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.      [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+During the RPM photo session (9:59am-10:14am), Satoshi &amp; Mike wielded 400mm- &amp; 800mm lens NIKON D2Xs cameras, Sergei the 1000mm-lens D2Xs for documenting the tile acreage &amp; bottom-side door seals).      [The RPM was used by the crew for the bottom-side mapping of the Orbiter at the arrival of the Shuttle.  During the RPM at ~600 ft from the station, the two “shooters”, had only ~90 seconds (out of the total 9 min of imaging) for taking high-resolution digital photographs of all tile areas and door seals on Atlantis, which Mike prepared for downlinking after completion of the “shoot” at ~10:15am via OCA from a hard-wired (not wireless) SSC for launch damage assessment.  Thus, time available for the shooting was very limited, requiring great coordination between the two headset-equipped photographers and the Shuttle pilot.]
+ 
+Later, Mike Fossum initiated recharging of the D2Xs batteries.
+ 
+Before hatch opening, FE-5 Furukawa configured the internal hard-line ICOM audio comm between ISS &amp; Atlantis and performed a voice check via Public Call 3. 
+ 
+Satoshi also checked on the A31p SSC (Station Support Computer) in Node-2 (loc. S1) to verify it is activated.  The SSC serves as wireless router to join Shuttle &amp; Station LANs (Local Area Networks).
+ 
+After leak checks of the ODS (Orbiter Docking System) vestibule for about an hour, ISS/STS hatches were opened at 12:34pm–1:19pm.  Crew ingress was complete at ~1:00pm.
+ 
+After hatch opening, Sasha Samokutyayev performed the standard collection of air samples with the Russian AK-1M sampler in the Orbiter. 
+FE-1 also conducted the periodic checkout &amp; performance verification of IP-1 airflow sensors in the various RS hatchways.     [Inspected IP-1s are in the passageways PrK (SM Transfer Tunnel)–RO (SM Working Compartment), PkhO (SM Transfer Compartment)–RO, PkhO–DC1, PkhO–FGB PGO, PkhO-MRM2, FGB PGO–FGB GA, and FGB GA–Node-1.  This checkup is especially important now when the ventilation/circulation system has to cope with a larger crew on board, currently ten persons.]
+ 
+Sasha later performed the periodic task of downloading structural dynamics measurements of the IMU-Ts microaccelerometer of the running experiment TEKh-22 “Identifikatsiya” (Identification) in MRM1 (Mini Research Module 1) Rassvet to the RSE1 A31p laptop for subsequent downlink to the ground via OCA.      [IMU-Ts is a part of the MRM1 SBI onboard measurement system, installed in PGO behind panel 104.]
+ 
+Garan, Furukawa, MS1 Magnus, MS2 Walheim &amp; PLT Hurley then installed the ventilation air duct between station and Atlantis.
+ 
+After the traditional welcome ceremony, the new arrivals received the mandatory 30-min Safety briefing by CDR Borisenko.
+ 
+In preparation for the subsequent Robotics activity, Satoshi set up and activated VSW2 (Video Streaming Workstation 2) &amp; VSW3 plus SSC-5 &amp; SSC-19, installed the crew restraint system in the Cupola and then enabled RWS Cupola UOP (Utility Outlet Panel) power.    [After the OBSS transfer, FE-5 CUP RWS was powered down, the MPEG laptops were deactivated and the crew restraint system removed.]
+ 
+At ~2:20pm, Garan &amp; Furukawa will use the SSRMS (Space Station Remote Maneuvering System) to unberth the OBSS from the ISS truss and hand it over to the SRMS (Shuttle RMS), operated by Chris Ferguson &amp; Doug Hurley.      [OBSS will be used for TPS inspection of the Atlantis.]
+ 
+Working in Node-2, Furukawa &amp; Fossum gathered IFM (In-Flight Maintenance) tools from various tool boxes in 3 locations to fill a tool page for ULF7.  This will aid the Shuttle crew while working in the MPLM (Multi-Purpose Logistics Module) Raffaello.
+ 
+Fossum also is to transfer SODF (Station Operations Data File) revisions for the Warning and Emergency Books from the Shuttle.      [The updates were deployed in the station EMER-1, EMER-2 &amp; WARNING Books, and the ECLSS Cue Cards #1 &amp; #2 were removed from the Ammonia Detection Kit.]
+ 
+Afterwards, Mike also transfers EVA equipment from Atlantis to the A/L (Airlock).
+ 
+CDR &amp; FE-4 had their weekly PFCs (Private Family Conferences) via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop), Andrey at ~5:10am, Sergei at ~7:29am EDT.
+ 
+Before “Presleep” period tonight, Ron Garan powers on the MPC (Multi-Protocol Converter) and starts the data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, MPC will be turned off again.     [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+The crew worked out with their regular 2-hr physical exercise protocol on the CEVIS cycle ergometer with vibration isolation (FE-5, FE-6), ARED advanced resistive exercise device (FE-3, FE-6), T2/COLBERT advanced treadmill (CDR, FE-1, FE-3, FE-4, FE-5), and VELO ergometer bike with load trainer (CDR, FE-1, FE-4).
+ 
+No CEO targets uplinked for today.
+ 
+

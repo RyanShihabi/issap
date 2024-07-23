@@ -1,0 +1,22 @@
+
+Russian ExtraVehicular Activity (EVA) #61: Following up from yesterday, FE-4 Oleg Kononenko (EV1) and FE-5 Nikolai Chub (EV2) completed Russian EVA #61 with FE-12 Konstantin Borisov supporting as the Intravehicular (IV) Operator. The EV crew performed tasks in order to inspect and isolate the Multipurpose Laboratory Module (MLM) radiator, install a payload on MLM, and jettison a nanosatellite. The MRM2 hatch opened at 12:49 PM CDT and the crew completed the following tasks:
+
+Isolate the MLM radiator from [НГК1] and [НГК2] external thermal loops
+Inspect the MLM radiator leak location using Strela-1 with the extender
+Install the payload adapter and the Mini Radar with Synthetic Aperture (MiniRSA) payload on MLM [УФП2]
+Deploy PARUS-MGTU nanosatellite from MLM Pl.III
+
+During the MLM radiator leak location inspection, liquid coolant was liberated from the leak location. The crew was not able to complete the following planned task due to time constraints:
+
+Remove & replace the connector patch panels from the Portable Multipurpose Workstation [УРМ-Д] on SM Pl.II and Pl.IV and jettison the removed connector patch panels
+
+The Total Phased Elapsed Time (PET) of this EVA was 7 hours and 41 minutes.
+Payloads:
+Analyzing Interferometer for Ambient Air-2 (ANITA-2): Two non-local ISS air samples were gathered for analysis in the ANITA-2 system. Non-local samples are typically used to characterize different areas of the ISS, or to characterize contributions of an arriving vehicle. ANITA-2 is a compact gas analyzer which can analyze and quantify 33 trace contaminants in the atmosphere aboard the ISS automatically. ANITA-2 can also detect the presence of unknown substances which can be evaluated on the ground at a later time. ANITA-2 serves as a technology demonstration supporting the preparation for human exploration missions beyond low-Earth orbit.
+Integrated Laser Communications Relay Demonstration (LCRD) Low Earth Orbit User Modem and Amplifier Terminal (ILLUMA-T): A Media Converter was installed in the JEM to prepare for the external ILLUMA-T investigation. ILLUMA-T will use laser communications to demonstrate faster data transfer to and from the ISS, providing for potentially faster discoveries and increased support for crew members. Rates as high as 1.24 Gbps are possible with this communication system.
+Minus Eighty-Degree Laboratory Freezer for ISS (MELFI): A previously failed Electronics Unit (EU) was packed for return to the ground and subsequent refurbishment. The EU is the main controller for the MELFI facility. MELFI is a cold storage unit capable of maintaining experiment samples at ultra-cold temperatures throughout a mission. The MELFI units use nitrogen as a working fluid and have standard set points of -95°C, -35°C and 2°C.
+Snowcone Cloud Edge Compute Demonstration (Snowcone): Following the completion of the software load, the crew powered down the Snowcone system. Snowcone demonstrations focus on commercial and government interest in computing, storage, and transfer of data within the low Earth orbit network. These demonstrations explore various capabilities related to data fusion, artificial intelligence and machine learning, cyber security, and communications from a variety of partners.
+Systems:
+USOS EVA Preparation Operations: The crew performed various activities in preparation for the upcoming Radio Frequency Groups (RFG) EVA, scheduled for Monday, October 30th. They completed a Photo/TV (P/TV) EVA Camera Battery Swap, an EVA RFG Airlock Fitcheck, and a group EVA Procedure Review & Conference. 
+Japanese Experiment Module Remote Manipulator System (JEMRMS) Backup Drive System (BDS) Checkout: The crew assisted the ground controllers in performing a checkout of the JEMRMS BDS. The checkout involved communication checks between BUC and Joint Electronic Units (JEUs), a JEU matrix command function check, an E-Stop function check, and Console Bus and Arm Bus channel reconfiguration. The checkout was completed successfully.
+Health Maintenance System (HMS) Ultrasound Scan: The crew performed eye exams with the support of the Space Station Computer (SSC) Client. Eye exams are performed regularly on board in order to test visual acuity, visual field, and contrast sensitivity. Eyesight is one of the many aspects of the human body that is affected by long-duration stays in a microgravity environment. The physical test was followed by a crew vision questionnaire.

@@ -1,0 +1,63 @@
+All ISS systems continue to function nominally, except those noted previously or below.   Sunday – light-duty day for CDR Fincke, FE-1 Lonchakov &amp; FE-2 Magnus.  Ahead: Week 20 of Increment 18.
+ 
+ With wake period slipped more to the right this morning (6:00am – 9:30pm EDT), the crew continued on a sleep cycle shift protocol designed to adjust to the requirements of the EVA-21A on Tuesday and the following Mission 15A docked period (see Wake/Sleep Schedule, below, based on a nominal STS-119 launch on 3/11).
+ 
+ FE-2 Magnus' first activity this morning was to complete the third &amp; last day of her FD (Flight Day) 120 session with the NASA/JSC experiment NUTRITION w/Repository, her fifth, after collecting urine samples for the last 24 hrs and closing out with the last void after 4:22am EDT.  Barring any launch slips, this was her final NUTRITION/Repository session.  Fincke's next NUTRITION activity will be his FD180 session.      [The NUTRITION project is the most comprehensive in-flight study done by NASA to date of human physiologic changes during long-duration space flight.  It includes measures of bone metabolism, oxidative damage, nutritional assessments, and hormonal changes, expanding the previous Clinical Nutritional Assessment profile (MR016L) testing in three ways: Addition of in-flight blood &amp; urine collection (made possible by supercold MELFI dewars), normative markers of nutritional assessment, and a return session plus 30-day (R+30) session to allow evaluation of post-flight nutrition and implications for rehabilitation.] 
+ 
+ After yesterday's completion of all Orlan-M suit preparations, EVA-21A dry-run activities began today at ~8:15am EDT with CDR Fincke tearing down and removing the air ducts between the SM PkhO (Service Module Transfer Compartment) and DC1 Docking Compartment/airlock (skipping ventilation fan V3) to make room for the subsequent suited exercise.
+ 
+ At the same time, FE-1 Lonchakov worked on configuring the STTS communications systems in the DC1 for the exercise.     [The suited run requires wireless Tranzit-B suit radio telemetry on both semi-sets (activated: 9:35am) and temporary deactivation of the Russian VHF channel 1 (Very High Frequency, Russian: UKV1, for ultra-shortwave) to avoid interference from extraneous radio stations to the Orlans while over Russian ground stations (RGS, DO 13/14).  All EVA preps were monitored by the ground via audio.  Tranzit-B TM was turned off at ~11:30am EDT.] 
+ 
+ After another functionality and leak check of the Orlan-Ms, their equipment and their interface units (BSS) in the DC1 &amp; PkhO, the crewmembers began donning EVA gear at ~9:05am, including putting on personal gear bags, biomed harness, thermal underwear, LCG (liquid cooling garment), low-noise headset, gloves, etc.  
+ 
+ After another checkout of comm hookups &amp; biomedical parameter telemetry via the BSS Orlan interface system for vital signs &amp; equipment monitoring, suiting up for Yuri Lonchakov then culminated in ingress in the Orlan (~10:05am) through its “backdoors” and sealing off of the backpack (.
+ Next in line were –
+ 
+ <ul><li>More functionality checkouts of the suits and their BSS controls (e.g., temperature control handling, water cooling system ops, preliminary Orlan &amp; BSS leak checks),  <li>Preliminary dimensional suit fit checks at reduced suit pressure of 0.4 at/5.9 psi, and  <li>About an hour of testing/training of suited mobility &amp; translation inside the DC1, beginning at ~10:45am, assisted by Mike Fincke. 
+ </li></li></li></ul>
+ [These “intramural” exercises included translation to all DC1 work stations with mated fluid umbilical, assessment of how the interior DC1 config impacts operations with various gear &amp; accessories such as the POV (EVA support panel) and BSS, moving the BRT (Body Restraint Tether) with a CLB (Crew Lock Bag) and securing the BRT on a handrail, retrieving the Kodak 760 camera from the KPU tool carrier and stowing it temporarily on the OTA swing arm, turning Yuri's WVS (Wireless Video System) camera on and off, etc.]
+ 
+ FE-2 Magnus participated in part of the exercise by checking out her comm links.
+ 
+ Yuri's egress from his Orlan-M was at about 11:45am, followed by a one-hour lunch break.
+ 
+ Afterwards, Lonchakov &amp; Fincke restored communications settings in DC1 to nominal ops and performed post-training close-out activities, including air duct assembly.  Later, after the Orlans were confirmed to be dry, they were re-equipped by Mike &amp; Yuri with fresh consumables/replaceable elements for the spacewalk on Tuesday.
+ 
+ The FE-2 meanwhile completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM, including the weekly collection of the toilet flush (SP) counter and water supply (SVO) readings for calldown to TsUP-Moscow.  Additionally, Magnus checked up on the Russian POTOK-150MK (150 micron) air filter unit of the SM's SOGS air revitalization subsystem, gathering weekly data on total operating time &amp; “On” durations for reporting to TsUP-Moscow.     [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+ Magnus also conducted the periodic checkup behind panel 139 in the SM on a fluid connector (MNR-NS) of the SM-U urine collection system, looking for potential moisture.
+ 
+ Later, the FE-2 completed the monthly 50-min FDS PEP (Fire Detection &amp; Suppression/Portable Emergency Provisions) safety inspection/audit in the ISS modules.     [The IMS-supported inspection verifies that PFEs (Portable Fire Extinguishers), PBAs (Portable Breathing Apparatus) and EHTKs (Extension Hose/Tee Kits) are free of damage to ensure their functionality and to track shelf life/life cycles on the hardware.]
+ 
+ In the JAXA “Kibo” JPM (JEM Pressurized Module), Sandra supported SSIPC/Tsukuba (Space Station Integration &amp; Promotion Center) by removing the three MEU-Bs (Measurement Experiment Units Type B) from the CBEF (Cell Biology Experiment Facility) Micro-G Incubator (from which she had attached on 3/5).
+ The FE-2 then assisted SSIPC Flight Controllers in troubleshooting the failed CBEF temperature controller fan.     [On 2/28, the fan was found to be not working, depriving the system of essential temperature control (neither too cold nor too hot). The fan is a three-phase motor which mechanically stops at 12 different positions by magnet force of the fan motor, and the potential cause of the anomaly is breaking of one of the magnetic stoppage coils.  Sandy's support consisted in working with SSIPS in rotating the fan and observing/reporting at what position it started rotating again.] 
+ 
+ For this weekend's VolSci (Voluntary Science) program, Sandra Magnus had selected an EPO (Education Payload Operations) Renovation Demo, to create an educational video demonstration discussing the recent renovations that have occurred on the ISS and their preparations for six crewmembers.  The FE-2 had ~30 min for videotaping the demo, after which she stowed the hardware away.
+ 
+ The station residents completed their regular daily 2.5-hr. physical workout program (about half of which is used for setup &amp; post-exercise personal hygiene) on the CEVIS cycle ergometer (CDR), TVIS treadmill (FE-1, FE-2) and ARED advanced resistive exerciser (CDR, FE-2).
+ 
+ At ~4:10pm, the CDR will have his weekly PFC (Private Family Conference), via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop).
+ 
+ ISS Crew Sleep Shift Planning:  To synchronize the ISS crew's timeline with STS-119/15A arrival and docked period, the station wake/sleep cycle is again undergoing a number of shifts which started on 3/7.  For the next few days, the schedule is as follows:  <p> 
+   3/08   Wake:   6:00am – 9:30pm EDT    
+   3/09   Wake:   6:00am – 5:30pm   
+   3/10   Wake:   3:30am – 11:30pm   
+   3/11   Wake:   9:00am – 12:30am 3/12   
+   3/12   Wake:   9:00am –  2:00am 3/13   
+   3/13   Wake:  10:30am – 1:50am 3/14   
+   3/14   Wake:  10:20am – 1:20am 3/15   
+   3/15   Wake:   9:50am – 12:50am 3/16   
+   3/16   Wake:   9:20am – 12:50am 3/17   
+   3/17   Wake:   9:20am – 12:20am 3/18   
+   3/18   Wake:   8:50am – 11:50pm   
+   3/19   Wake:   8:20am – 11:20pm   
+   3/20   Wake:   7:50am – 11:20pm   
+   3/21   Wake:   7:50am – 10:50pm   
+   3/22   Wake:   7:20am – 10:50pm    <p> 
+ EVA-21A Timeline Preview:  The Orlan EVA-21A by Lonchakov (EV1) &amp; Fincke (EV2) on 3/10 begins at ~12:20pm EDT (DC1 EV hatch open), to last an estimated 5 hrs 45 min, i.e., concluding at approximately 5:05pm.  Russian attitude thrusters will be inhibited by TsUP ground commanding at specific times when the spacewalkers work on the SM RO (Working Compartment, l.d.) and SM AO (Assembly Compartment).  Objectives of the EVA (all fallen off the previous EVA-21 timeline) are –
+ <p> <ul><p><li>Mount the EXPOSE-R hardware on the URM-D (Portable Multipurpose Workstation) on the SM RO l.d., connect it to the PF-3 connector patch panel and remove protective cover;  <li><p>Photograph the URM-D with EXPOSE-R monoblock &amp; cables, ROBOTIC hardware, IPI-SM hardware and routed cables;  <li><p>Remove fasteners (Aramide straps) in the installation areas of the docking target and AR-VKA &amp; 2AR-VKA antennas on DC1;  <li><p>Close MLI (Multi-Layer Insulation) flap on the SM PF-10 connector patch panel;  <li><p>Re-install SKK #9 removable cassette container in nominal position on SM;  <li><p>Inspect &amp; photograph Progress antenna ASF1-M-VKA from DC handrail 3034; and  <li><p>Inspect &amp; photograph conditions of ISS RS exterior &amp; structural elements (“Panorama-2009” DTO).  </p></li></p></li></p></li></p></li></p></li></p></li></li></p></ul> <p> <p> 
+ No CEO photo targets uplinked for today.
+ CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov">http://eol.jsc.nasa.gov</a>  &lt;<a href="http://">http://</a>eol.jsc.nasa.gov/&gt;  (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+ 
+ 

@@ -1,0 +1,24 @@
+
+New Status:
+USOS Extravehicular Activity (EVA) #22: Flight Engineer (FE)-3 Cassidy (EV-1) and FE-5 Parmitano (EV-2) completed a 6 hour 7 minute EVA with FE-6 Nyberg providing Space Station Remote Manipulator System (SSRMS) support. The following tasks were completed:
+
+Remove and replace the Space to Ground Transmitter Receiver Controller (SGTRC)-2
+Retrieve Materials International Space Station Experiment (MISSE)-8 Passive Experiment Container (PEC) and Optical Reflector Materials Experiment Ram/Wake (ORMatE)
+Install Starboard Radiator Grapple Bar (RGB)
+MLM Power Cable Routing
+Mobile Remote Servicer (MRS) Base System (MBS) Mast Camera Light and Pan Tilt Assembly (CLPA) Removal
+Install Port Radiator Grapple Bars
+Z1 Y-Bypass Jumper Install (Part 1, final portion on EVA 23 scheduled for July 16)
+PMA2 Cover Install
+
+The following Get Aheads were completed:
+
+AMS Photography
+Temp Stow PMA2 Cover Bag
+PDGF FOD Removal
+PDGF 1553 Cable Install
+
+Following ingress, the crew doffed their suits and configured them to dry out.  Parmitano taped the vent ports on the MISSE8 PEC to minimize oxygen exposure.  Tomorrow, Parmitano and Nyberg will finalize the packing of the PEC and ORMatE for return on a future flight.
+EVA Mobile Servicing System (MSS) Operations: Robotics Ground Controllers powered up the SSRMS video components in preparation for USOS EVA 22 support.  They also powered off the Mobile Base System (MBS) Video Distribution Unit (VDU) 2 in preparation for the removal of the failed MBS Mast Camera Light Pan Tilt Unit (PTU) Assembly (CLPA) during this EVA.  During the EVA, Nyberg maneuvered the SSRMS into position to allow Parmitano to install an Articulating Portable Foot Restraint (APFR) on Latching End Effector (LEE)-A and to ingress the APFR.  She then maneuvered the SSRMS to enable Parmitano to pick up the Starboard RGB from the MBS Payload and On-orbit Replaceable Unit (ORU) Accommodation (POA) and to carry it to the installation position on the S1 Truss Radiator.  Nyberg then maneuvered the SSRMS back to the MBS where Parmitano removed the failed MBS Mast CLPA.  Next she maneuvered Parmitano into position to grasp the Port RGB, commanded the MBS POA to release the RGB’s Latching Grapple Fixture (LGF) and maneuvered the SSRMS to enable Parmitano to carry the RGB to the installation position on the P1 Truss Radiator.  Nyberg then maneuvered the SSRMS to allow Parmitano to egress the APFR and remove it from LEE-A.  Finally Nyberg maneuvered the SSRMS to a park position.  The Robotics Ground Controllers then powered down the MSS.
+Water Processing Assembly Status: Water Processing Assembly Status: The WPA was recovered overnight using a ground procedure that raised the process pump speed during the first 20 minutes of the process cycle. The pump speed was too low, likely due to increased loading on the particulate filter Orbital Replacement Unit (ORU), which caused two separate faults last Friday and Saturday.
+

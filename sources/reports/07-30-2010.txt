@@ -1,0 +1,36 @@
+ISS On-Orbit Status 07/30/10
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.
+ 
+ Upon wake-up, FE-3 Kornienko performed the regular daily early-morning check of the aerosol filters at the Russian Elektron O<sub>2</sub> generator which Maxim Suraev had installed on 10/19/09 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V).     [FE-3 will inspect the filters again before bedtime, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+ 
+ Also at wake-up, FE-5 Yurchikhin terminated his 3<sup>rd</sup> experiment session, started last night, for the long-term Russian sleep study MBI-12/Sonokard, taking the recording device from his Sonokard sports shirt pocket and later copying the measurements to the RSE-Med laptop for subsequent downlink to the ground.     [Sonokard objectives are stated to (1) study the feasibility of obtaining the maximum of data through computer processing of records obtained overnight, (2) systematically record the crewmember’s physiological functions during sleep, (3) study the feasibility of obtaining real-time crew health data.  Investigators believe that contactless acquisition of cardiorespiratory data over the night period could serve as a basis for developing efficient criteria for evaluating and predicting adaptive capability of human body in long-duration space flight.]
+ 
+ FE-2 Caldwell-Dyson, FE-4 Wheelock &amp; FE-6 Walker continued the current week-long session of the post-wakeup experiment SLEEP (Sleep-Wake Actigraphy &amp; Light Exposure during Spaceflight), 2<sup>nd</sup> for Doug &amp; Shannon, 6<sup>th</sup> for Tracy, transferring data from their Actiwatches to the HRF-1 (Human Research Facility 1) laptop.     [To monitor his/her sleep/wake patterns and light exposure, the crewmember wears a special Actiwatch device which measures the light levels encountered by him/her as well as their patterns of sleep and activity throughout the Expedition, using the payload software for data logging and filling in questionnaire entries in the experiment’s laptop session file on the HRF-1 laptop.  The log entries are done within 15 minutes of final awakening for seven consecutive days.]
+ 
+ CDR Skvortsov had 2h 50m reserved for undertaking his 4<sup>th</sup> onboard session with the Russian biomedical MBI-15 "Pilot-M"/NEURO signal response experiment after setting up the workplace and equipment, assisted by Misha who also took photos.  Later, the Pilot-M &amp; Neurolab-2000M gear was disassembled &amp; stowed away, data files were downloaded, and Alexander reported to TsUP on his run.     [MBI-15 requires the Multipurpose Hardware Bench as a table, ankle restraint system, eyeball electrodes for an EOG (electrooculogram), and two hand controllers (RUO &amp; RUD) for testing piloting skill in “flying” simulations on a laptop (RSK1) with software (v. 2.0) under stopwatch control, as well as for studying special features of the psychophysiologic response of cosmonauts to the effects of stress factors in flight.]
+ 
+ Skvortsov, Kornienko &amp; Yurchikhin took about 40 min to check out and test two of the new Russian IPK-1M oxygen breathing masks, with one of them shooting HD video with the Sony HVR-Z7 camcorder #1 for ground evaluation.
+ 
+ In the DC1 (Docking Compartment), the FE-3 terminated the discharge process on the second 825M3 Orlan battery pack in the ZU-S recharge unit.
+ 
+ In other post-EVA closeout activities –
+ <ul style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 36pt; "> <li>Mikhail &amp; Fyodor reconfigured the SM PkhO (Service Module Transfer Compartment) and DC1 to Nominal status, while </li><li>Alex prepared Russian tools to be used in the upcoming US EVA-15 for the PDGF (Power &amp; Data Grapple Fixture) installation on the FGB (ratchet wrench, extender, tether, protective blanket with latch, etc.)</li></ul> 
+ Trace, Doug &amp; Shannon performed the periodic CHeCS (Crew Health Care Systems) Emergency HMS Contingency Drill.     [This onboard training/drill gives crewmembers the opportunity to work as a team in resolving a simulated medical emergency onboard ISS.  This training refreshes their memory of the on-orbit stowage and deployment location, equipment use, and procedures.]
+ 
+ FE-6 Walker supported POIC (Payload Operations Integration Center/Huntsville) in the COL (Columbus Orbital Laboratory) on the MSG (Microgravity Science Glovebox) with the startup for the next (seventh) run of the SAME (Smoke Aerosol Measurement Experiment).    [Later tonight, the MSG was shut down again.]
+ 
+ Shannon performed her 2<sup>nd</sup> onboard session with the MedOps experiment WinSCAT (Spaceflight Cognitive Assessment Tool for Windows), logging in on the MEC (Medical Equipment Computer) laptop and going through the psychological evaluation exercise on the PC-based WinSCAT application.      [WinSCAT is a monthly time-constrained questionnaire test of cognitive abilities, routinely performed by astronauts aboard the ISS every 30 days before or after the PHS (periodic health status) test or on special CDR's, crewmembers or flight surgeons request.  The test uses cognitive subtests that measure sustained concentration, verbal working memory, attention, short-term memory, spatial processing, and math skills. The five cognitive subtests are Coding Memory - Learning, Continuous Processing Task (CPT), Match to Sample, Mathematics, and Coding Delayed Recall.  These WinSCAT subtests are the same as those used during NASA’s long-duration bed rest studies.]
+ 
+ Alex performed the periodic hatch seal inspection, at the Node-1 Aft, Node-2 Aft, Node-2 Starboard &amp; Node-2 Port.    [Note from Alex: “I did not find damage. All seals and hatches are okay.”]
+ 
+ Kornienko did the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+ Skvortsov completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM [regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers],
+ 
+ At ~4:15am EDT, the crew held the regular (nominally weekly) tagup with the Russian Flight Control Team (GOGU/glavnaya operativnaya gruppa upravleniya), including Shift Flight Director (SRP), at TsUP via S-band/audio, phone-patched from Houston and Moscow.
+ 
+  The crew worked out on today’s 2-hr physical exercise protocol on the CEVIS cycle ergometer (FE-4, FE-6), TVIS treadmill with vibration isolation &amp; stabilization (CDR, FE-3, FE-5), ARED advanced resistive exercise device (FE-2, FE-6), T2/COLBERT advanced treadmill (FE-2, FE-4) and VELO ergometer bike with bungee cord load trainer (CDR, FE-3, FE-5).    [T2 snubber arm inspection is no longer needed after every T2 session but must be done after the last T2 session of the day.] 
+ 
+ 
+

@@ -1,0 +1,11 @@
+
+AstroPi: Today the crew transferred the AstroPi IR (infrared) unit to the Node 2 window in support of the upcoming European AstroPi Challenge.  In this challenge, students and young people are offered the opportunity to conduct scientific investigations in space by writing computer programs that run on Astro Pi’s  special Raspberry Pi computers aboard ISS.  Students can choose either Life in space or Life on Earth as themes for their experiments.
+Payload Network Attached Storage (NAS) Vent Clean: Using the AC vacuum cleaner, the crew performed this routine maintenance to clean vents on the front, back, and left side of the Payload NAS.  NAS is a file server with 5 hard drive bays that provide a total of 20 terabytes of raw disk space when used with 4 terabyte hard drives.  Among other capabilities, the PL NAS supports user file transfers from their machine via web browser and allows onboard ISS systems to access a shared folder location on the NAS.
+Hatch Seal Inspection: The crew completed this scheduled maintenance to clean and inspect the USOS hatch seals (Node 2, Node 3, Permanent Multipurpose Module [PMM], Japanese Experiment Module [JEM] and Columbus), hatch plate sealing surface and hatch handle mechanism for Foreign Object Debris (FOD) and/or damage.
+Extravehicular Activity (EVA) Preparations: In preparation for tomorrow’s EVA the crew performed the following:
+
+Equipment Lock prep
+Procedures review
+GoPro setup
+
+

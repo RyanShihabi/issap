@@ -1,0 +1,51 @@
+ISS On-Orbit Status 01/09/12
+ 
+ C novom godom! Поздравляем вас с Рождетвом!
+ 
+ All ISS systems continue to function nominally, except those noted previously or below. Underway: Week 8 of Increment 30 (six-person crew). Crew off duty.
+ 
+ After wakeup, FE-4 Kononenko performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection. 
+ 
+ Also at wakeup, FE-1 Shkaplerov completed the weekly checkup behind ASU/toilet panel 139 in the SM on a fluid connector (MNR-NS) of the SM-U urine collection system, looking for potential moisture.
+ 
+ In the Lab, CDR Burbank reconfigured power connections for the ISL (Integrated Station LAN) Router back to the PS-120 junction box powered from a UOP (Utility Outlet Panel) which had been changed on 10/25/11 during decrewing preparations. [The nominal configuration of ISL Router power is from PS-120 junction power box connected to a UOP (Utility Outlet Panel), but the UOP will default to OFF when reconfigured/power cycled. With no crew aboard ISS, the ISL Router may then not be able to be re-powered if connected to a UOP. The interim power reconfiguration would have allowed the ISL Router to be powered directly from a UOP RPC (Remote Power Controller), i.e., the ground, utilizing one of the UOP power bypass cables.]
+ 
+ FE-6 Pettit fielded four passive FMK (Formaldehyde Monitoring Kit) sampling assemblies in the Lab (at bay P3, below CEVIS) and SM (at the most forward handrail, on panel 307) for two days, to catch any atmospheric formaldehyde on a collector substrate for subsequent analysis on the ground. [Two monitors each are usually attached side by side, preferably in an orientation with their faces perpendicular to the direction of air flow.]
+ 
+ Afterwards, Don started another sampling run with the AQM (Air Quality Monitor), deactivating the system ~5 hrs later.[Consisting of the EHS GC/DMS (Environmental Health Systems Gas Chromatograph / Differential Mobility Spectrometer), the system is controlled with “Sionex” expert software from the SSC (Station Support Computer)-12 laptop. The AQM demonstrates COTS (Commercial Off-the-Shelf) technology for identifying volatile organic compounds, similar to the VOA (Volatile Organics Analyzer). This evaluation will continue over the course of several months as it helps to eventually certify the GC/DMS as nominal CHeCS (Crew Health Care Systems) hardware.]
+ 
+ Pettit also collected air samples with GSCs (Grab Sample Containers) in the SM, Lab and Kibo JPM (JEM Pressurized Module), sequenced with the AQM sampling for postflight comparison.
+ 
+ Later FE-6 conducted the periodic (approx. weekly) WRS (Water Recovery System) sampling in Node-3 using the TOCA (Total Organic Carbon Analyzer), after first initializing the software and priming (filling) the TOCA water sample hose. [After the approximately 2-hr TOCA analysis, results were transferred to the SSC-5 (Station Support Computer 5) laptop via USB drive for downlink, and the data were also logged.]
+ 
+ Shkaplerov performed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM. [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of theKTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV,KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+ FE-5 Kuipers completed routine maintenance on the WRS (Water Recovery System) using the LFTP (Low Flow Transfer Pump) to transfer one CWC-I (-Iodine) to the WPA (Water Processor Assembly) and offloading it, using a particulate filter.[Estimated offload time: ~4 hrs 30 min; max. allowed quantity: 86%].
+ 
+ André also had ~1 hr for unpacking US cargo delivered on Soyuz 29S.
+ 
+ Pettit used the CSA-O2 (Compound Specific Analyzer-O2) units (#1043, #1048) to take oxygen partial pressure readings in the SM and COL.
+ 
+ Depending on Don’s readings, Kononenko was to refresh ISS cabin atmosphere on TsUP Go with another O2 repress from Progress 45P SRPK tankage, with the Russian Elektron oxygen generator currently turned off.
+ 
+ Burbank &amp; Pettit had another time slot reserved each for making entries in their electronic Journals on personal SSC (Station Support Computer). [Required are three journaling sessions per week.] 
+ 
+ Before Presleep, the CDR will turn on the MPC (Multi Protocol Converter) and start the Ku-band data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link). After about an hour, Dan will turn MPC routing off again. [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+ Before sleeptime, FE-2 Ivanishin will prepare the Russian MBI-12 payload and start his 3rd Sonokard experiment session, using a sports shirt from the Sonokard kit with a special device in the pocket for testing a new method for acquiring physiological data without using direct contact on the skin. Measurements are recorded on a data card for return to Earth. Shkaplerov is scheduled to take documentary photography. [Sonokard objectives are stated to (1) study the feasibility of obtaining the maximum of data through computer processing of records obtained overnight, (2) systematically record the crewmember’s physiological functions during sleep, (3) study the feasibility of obtaining real-time crew health data. Investigators believe that contactless acquisition of cardiorespiratory data over the night period could serve as a basis for developing efficient criteria for evaluating and predicting adaptive capability of human body in long-duration space flight.]
+ 
+ At ~4:30am EST, the three Russian Flight Engineers joined for supporting a PAO TV project, shooting onboard footage for the Nauka 2.0 (Science 2.0) TV Project. [Yedinaya Media Gruppa TV Studio is currently involved in a NAUKA 2.0 popular science project. Shows and popular science films produced under this project are being aired on Rossia 2, Rossia 24, and My Planet TV channels. TV viewers have already become familiar with documentaries like “Space. A Step Before Launch”, “Space Suit. Evolution”, “Cosmodrome in French Guiana”, video clip about space food, and now the camera crew is working on a new film dedicated to space medicine (specifically, daily exercise using RS equipment).Video footage for this project is scheduled for 1/3, and 1/9 through 1/12.]
+ 
+ At ~5:10am, the CDR powered up the SM's amateur radio equipment (Kenwood VHF transceiver with manual frequency selection, headset, &amp; power supply) and at 5:15am conducted a ham radio session with students at Descartes, Montigny-Le-Bretonneux, France.
+ 
+ At ~6:20am, FE-5 André Kuipers had his weekly PFC (Private Family Conference), via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop).
+ 
+ Before exercising on the ARED advanced resistive exerciser, the first user, Pettit, set up the G1 video camera to cover the workout sessions of all crewmembers except Kononenko on the machine, to meet the regular 30-day requirement for biomechanical evaluation of the on-orbit crewmembers, and evaluation of the hardware status.
+ 
+ The crew worked out with their regular 2-hr physical exercise protocol on the CEVIS cycle ergometer with vibration isolation (CDR, FE-5, FE-6), TVIS treadmill with vibration isolation &amp; stabilization (FE-1, FE-2, FE-4), ARED advanced resistive exerciser (CDR, FE-1, FE-2, FE-5, FE-6), and VELO ergometer bike with load trainer (FE-4).
+ 
+ The Russian discretionary “time permitting” task list for FE-1, FE-2 &amp; FE-4 for today suggested more preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb).
+ 
+ No CEO (Crew Earth Observation) targets uplinked for today.
+ 
+ 

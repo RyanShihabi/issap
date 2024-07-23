@@ -1,0 +1,50 @@
+ISS On-Orbit Status 01/31/11
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.    Underway: Week 11 of Increment 26.  
+ 
+ FE-4 Kondratyev conducted the regular daily early-morning check of the aerosol filters at the Russian Elektron O<sub>2</sub> generator which Maxim Suraev had installed on 10/19/09 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V).     [Before sleeptime, Dmitri will inspect the filters again, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+ 
+ CDR Scott Kelly continued another week-long activity with the post-wakeup experiment SLEEP (Sleep-Wake Actigraphy &amp; Light Exposure during Spaceflight), Scott’s 7<sup>th</sup> session, transferring data from his Actiwatch to the HRF-1 (Human Research Facility 1) laptop.     [To monitor their sleep/wake patterns and light exposure during a SLEEP session, US crewmembers wear a special Actiwatch device which measures the light levels encountered by him/her as well as their patterns of sleep and activity throughout the Expedition, using the payload software for data logging and filling in questionnaire entries in the experiment’s laptop session file on the HRF-1 laptop.  The log entries are done within 15 minutes of final awakening for seven consecutive days.]
+ 
+ Later in the day, Scott performed the periodic data download and initialization of SLEEP Actiwatches, using the HRF PC1 and Actiwatch Reader.  Afterwards, the equipment was decabled and stowed, and the laptop powered off.
+ 
+ FE-6 Cady Coleman undertook her 7<sup>th</sup> weekly U.S. “Bisphosphonates” biomedical countermeasures experiment, ingesting an Alendronate pill before breakfast.  The required ~10h fast period started last night for her.      [The Bisphosphonates study should determine whether antiresorptive agents (that help reduce bone loss) in conjunction with the routine in-flight exercise program will protect ISS crewmembers from the regional decreases in bone mineral density documented on previous ISS missions.  Two dosing regimens are being tested: (1) an oral dose of 70 mg of Alendronate taken weekly starting 3 weeks prior to flight and then throughout the flight and (2) an intravenous (IV) dose of 4 mg Zoledronic Acid, administered just once approximately 45 days before flight. The rationale for including both Alendronate and Zoledronic Acid is that two dosing options will maximize crew participation, increase the countermeasure options available to flight surgeons, increase scientific opportunities, and minimize the effects of operational and logistical constraints.  The primary measurement objective is to obtain preflight and postflight QCT (Quantitative Computed Tomography) scans of the hip. The QCT scans will provide volumetric bone density information of both cortical and trabecular (spongy) bone regions of the hip.] 
+ 
+ FE-6 Paolo Nespoli unstowed and prepared the equipment for his 3<sup>rd</sup> suite of sessions with the medical protocol Pro K (Dietary Intake Can Predict and Protect against Changes in Bone Metabolism during Spaceflight and Recovery), with controlled diet and diet logging after the urine pH spot test.  Paolo will begin the urine sampling for pH value tomorrow, for a 5-day period.
+ 
+ For covering subsequent HTV2 operations, FE-6 Coleman activated the VSW (Video Streaming Workstation) and SSC-1 (Station Support Computer 1) laptops for downlinking converted NTSC MPEG-2 (Moving Pictures Expert Group 2) “streaming video” packets via U.S. OpsLAN and Ku-band.
+ 
+ Preparatory to the transfer of the new JAXA Kobairo (“stork”) rack from the HTV2 (H-II Transfer Vehicle 2), Kelly &amp; Nespoli removed rack front stowage in Bay 1 and temporarily stowed it in the HTV2 endcone.
+ 
+ Later, Scott &amp; Cady had several hours set aside for transferring the Kobairo rack from HTV2 to the Kibo JPM (JEM Pressurized Module) and installing it at loc. F3, including removing its protective launch locks.
+ 
+ Cady afterwards completed mating rack umbilicals, connecting them to the F3 Z-Panel, i.e., a UIP (Utility Interface Panel).
+ 
+ The CDR initiated another sampling run with the EHS GC/DMS (Environmental Health Systems Gas Chromatograph / Differential Mobility Spectrometer); deactivating the system ~5 hrs later.    [This was the 14<sup>th</sup> session with the replaced GC/DMS unit #1004, after the previous instrument (#1002) was used for approximately 7 runs.  Also known as AQM (Air Quality Monitor), the system is controlled with “Sionex” expert software from the SSC (Station Support Computer)-12 laptop (due to a software glitch, the software needs to be opened, closed, and then reopened in order to ensure good communication between GC/DMS and SSC-12).  The AQM demonstrates COTS (Commercial Off-the-Shelf) technology for identifying volatile organic compounds, similar to the VOA (Volatile Organics Analyzer).  This evaluation will continue over the course of several months as it helps to eventually certify the GC/DMS as nominal CHeCS (Crew Health Care Systems) hardware.]
+ 
+ Paolo spent ~3.5 hrs on HRF (Human Research Facility) rack stowage consolidation in COL (Columbus Orbital Facility) and Lab, regrouping and rearranging blood, saliva &amp; urine sampling kits to make them more accessible for use.     [FE-5 created four lockers for the equipment: two for in-[use items, one for next-use items, and one for excess supplies.] 
+ 
+ In COL, Scott Kelly supported EMCS (European Modular Cultivation System) research by switching on EMCS for ground-commanded power-up from POIC (Payload Operations &amp; Integration Center/Huntsville).
+ 
+ FE-2 Skripochka made preparations for a microbial air sampling session scheduled tomorrow and subsequent with the MedOps SZM-MO-21 ECOSFERA equipment, initiating charging on the Ecosphere power pack (BP) and readying the KRIOGEM-03 thermostatic container (at -22 degC) for the samples.    [The equipment, consisting of an air sampler set, a charger, power supply unit, and incubation tray for Petri dishes, determines microbial contamination of the ISS atmosphere, specifically the total bacterial and fungal microflora counts and microflora composition according to morphologic criteria of microorganism colonies.]
+ 
+ In the JAXA Kibo JPM (JEM Pressurized Module), CDR Kelly activated the RLT (Robotics Laptop Terminal) and set up the DOUG (Dynamic Onboard Ubiquitous Graphics) application for the upcoming HTV2 EP (Exposed Pallet) extract/insert activities with the SSRMS (Space Station Remote Maneuvering System).    [Used mostly during Robotics/SSRMS operations, DOUG is a software program on the MSS RWS (Mobile Service System Robotics Workstation) laptops that provides a graphical birdseye-view image of the up-to-date external station &amp; robot arm configuration on a laptop for study of external ops.]
+ 
+ Later, Cady maneuvered the SSRMS to the EP pre-grapple position on the side of the HTV2, and Scott completed the grapple.
+ 
+ With the video equipment covering the training activity, Nespoli &amp; Coleman worked with the ROBoT onboard trainer to simulate/rehearse using the SSRMS for tomorrow’s extraction of the EP from the HTV, moving it to the Kibo EF (Exposed Facility) “veranda” and returning it later to the HTV for insertion.   Afterwards, the video hardware was stowed again.
+ 
+ All crewmembers conducted a 15-min HTV2 Emergency Procedure Review, intended to familiarize them with the location of HTV hardware used in emergencies, key reminders for HTV emergency response topics and all hatches plus the ability to rapidly clear hatchways in emergencies, paying detailed attention to cables and all other obstructions at hatchways.    [The review included verification of the integrity of all hatch rubber seals and availability of foot restraints.]
+ 
+ At ~2:20pm, Paolo powered up the SM's amateur radio equipment (Kenwood VHF transceiver with manual frequency selection, headset, &amp; power supply) and at 2:25pm conducted a ham radio session with students at Arsaniq School, Kangiqsujuaq, Waken Bay, Northwest Passage Territory, Quebec, Canada.
+ 
+ CDR &amp; FE-6 had their regular PMCs (Private Medical Conferences), via S- &amp; Ku-band audio/video, Cady at ~12:15pm, Scott at ~12:30pm.
+ 
+ At ~3:15pm, Coleman is scheduled for her weekly PFC (Private Family Conference) via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop).
+ 
+ The crewmembers worked out with their regular 2-hr physical exercise on the CEVIS cycle ergometer with vibration isolation (FE-6), TVIS treadmill (FE-1, FE-2, FE-4), ARED advanced resistive exerciser (CDR, FE-2, FE-4, FE-5, FE-6), T2/COLBERT advanced treadmill (CDR, FE-5) and VELO ergometer bike with bungee cord load trainer (FE-1).     [T2 snubber arm inspection is no longer needed after every T2 session but must be done after the last T2 session of the day.]
+ 
+ Conjunction Update:   Additional tracking has been received on the conjunction object 37117 (COSMOS 2252 Debris) from independent sensors.  The updated data confirms the conjunction is no longer a threat.  The total miss distance moved out and the Pc (Probability of Collision) dropped to 2.4E-16 which is below all threshold violations.  Therefore, it has been recommended to stand down from DAM (Debris Avoidance Maneuver) planning.
+ 
+ 
+

@@ -1,0 +1,33 @@
+
+RS Extravehicular Activity (EVA) #52: During today’s EVA, FE-1 Oleg Artemyev and FE-2 Denis Matveev worked outside the MLM to unstow the European Robotic Arm (ERA) and configure it for operational use. FE-3 Sergey Korsakov assisted with the ERA checkout from within the RS. The following tasks were completed.
+Completed:
+
+Install and connect the ERA EVA Control Panel (EMMI) near ERA [СБТ] Launch Base Point
+Checkout of EMMI
+Remove Protective Covers from Payload Interfaces [УФП1]-[УФП3] and Base Points [БТЛ1]-[БТЛ3]
+Install ERA Handrails #4 and #6
+Remove MLI cover from ERA Elbow
+
+Temporarily stow on MLM Handrail 4336 for jettison during RS EVA #53
+
+
+Install ERA Handrail #1
+Install [ПРМ] Portable Workstation Adapter on Passive Payload Interface [УФП-2]
+
+The Phase Elapsed Time (PET) of this EVA was 6 hours and 37 minutes.
+Private Astronaut Mission (PAM) Axiom-1 (Ax-1): 
+Public Affairs Office (PAO), Payload, and Commercial Activities: Over the weekend, the Ax-1 crew finished their mission portfolio, completing operations on Aging and Heart Health, TESSERAE, Nano ISS Antenna, Sleep In Space, Monitoring Stress, Medchecker, At Home In Space, Earth Observation, NanoRacks Module 9, Neurowellness, Bio-Monitor, and ILAN-ES. 
+The Ax-1 crew completed the final ICE Cubes media events of the mission on Sunday. They will have one more NASA-sponsored PAO event as part of a farewell ceremony prior to undock and departure. Teams are working to schedule final video events for Eytan Stibbe prior to undock. 
+Ax-1 Undocking Preparations: Ax-1 Crew Dragon external video surveys have been completed and SpaceX has cleared the vehicle for re-entry. USOS and Ax-1 crew started cargo transfer operations on Sunday and completed cargo packing and stowage activities today. On Sunday, the crew transferred Ax-1 research samples into Polars in preparation for Polar transfer by USOS crew into the Ax-1 Dragon, which occurred this morning. In addition, the Ax-1 crew transferred and stowed mission specific cargo, including the Axiom marketing kits, hygiene bags, and Axiom owned cameras and accessories. Ax-1 is scheduled to undock from the ISS on Tuesday, April 19th at 9 PM CT, weather permitting.
+Payloads:
+Spacesuit Evaporation Rejection Flight Experiment (SERFE): A 150 ml water sample was obtained from the experiment hardware and placed in Minus Eighty-degree Laboratory Freezer for the ISS (MELFI). The sample will later be returned to the ground for analysis. SERFE demonstrates a new technology to remove heat from spacesuits and maintain appropriate temperatures for crew members and equipment during space walks. The technology uses evaporation of water for cooling. The investigation determines whether microgravity affects performance and evaluates the technology’s effect on contamination and corrosion of spacesuit material.
+Nano ISS Antenna (Ax-1): A final daily calibration and photo session were performed, and the experiment hardware was removed from the Node 2 window area and stowed. Nano ISS Antenna tests the deployment of a folded antenna used to provide high bandwidth communications. Miniaturized satellite electronics and sensors can provide valuable scientific and navigation capabilities, but small, simple antennas cannot transmit large quantities of data, limiting the usability of small satellites.
+Photocatalyst Filter Check (Ax-1/ISS): The crew checked that no items are blocking the intake fans of the Photocatalyst experiment hardware, which is set up in the Node 3 area. Photocatalyst demonstrates the use of a photocatalyst device to clean the cabin air and remove odor caused by volatile organic compounds (VOCs). The device converts VOCs into carbon dioxide and water. The device and a non-photocatalyst control device will operate for at least four weeks before returning to Earth for analysis of the photocatalyst device’s effectiveness.
+Reflective Eye (Ax-1): Using an available tablet, the Ax-1 crew performed a vision test and then transferred the session data to a Station Support Computer (SSC) for later downlink. Digital Tablet Eye Vision Test for Space Missions (Reflective Eye Test (Ax-1)) evaluates visual function before, during, and after spaceflight using well-tested software on a hand-held device. Results are expected to provide information on the effects of weightlessness on visual and other brain functions.
+Snowcone (Ax-1): The Ax-1 crew powered down the Snowcone experiment and then removed and stowed the hardware. Snowcone Cloud Edge Compute Demonstration (Snowcone Ax-1) demonstrates technology to screen private astronaut images and identify those that may contain sensitive information not for public release. The technology includes reduction of large-scale data and processing of data near the source, known as edge computing, which are capabilities integral to future space exploration.
+Urinalysis in Space (Ax-1): The final science session was performed, and data files from all Urinalysis in Space sessions were transferred to an SSC for later downlink. Urinalysis in Space (Ax-1) performs urinalysis using a tablet and a proprietary kit for the Ax-1 PAM. The investigation focuses on a test commonly used to measure kidney function and provides immediate results, eliminating the need to return samples to Earth for analysis.
+Systems:
+Max Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS): In preparation for their return later this month, the Endurance crew completed Max CEVIS sessions which are used by the medical community to evaluate astronauts’ aerobic fitness. The test is performed every 90 days and upon the crew’s arrival and departure from the ISS.
+Ax-1 Tablet Sync: Today, the crew charged three of four Ax-1 tablets before syncing all four with updated timelines in preparation for return. For each tablet, the crew downloaded the re-entry timeline, deleted the launch-to-docking timeline, powered it down, and stowed it in a Dragon suit satchel.
+Portable Emergency Provisions (PEPS) Inspection: The crew verified that the Portable Fire Extinguisher (PFE), Extension Hose Tee Kit, Portable Breathing Apparatus (PBA), and Pre-Breathe Masks are all free of damage to ensure functionality in the case of an emergency. The PBA includes a Quick Don Mask Assembly (QDMA) connected to a PBA Oxygen Reducer/Cylinder Assembly.
+

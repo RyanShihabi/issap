@@ -1,0 +1,20 @@
+
+Radiation Dosimetry Inside ISS-Neutron (RaDI-N): Following retrieval of the RaDI-N hardware from the Russian crewmembers, the USOS crewmember deployed all 8 Space Bubble Detectors around the ISS for the Radi-N2 experiment. The Canadian Space Agency (CSA) investigation measures neutron radiation levels on the ISS. RaDI-N uses bubble detectors as neutron monitors which have been designed to only detect neutrons and ignore all other radiation.
+ 
+Bigelow Expandable Aerospace Module (BEAM):  The Node 3 Aft vestibule and IMV configuration has been completed, including the IMV jumper which was unable to be installed earlier in the week. The final 8-hour leak check for the vestibule currently in work. BEAM first ingress is planned for next Monday at ~3:15am CDT.
+ 
+Biological Rhythms 48 Holter and Actiwatch Removal and Data Save: The crew member removed the Digital Walk Holter Electrocardiogram (ECG) and saved the data collected from the holter and the multimedia card to the medical laptop. This concludes the Biological Rhythms experiment where two separate 24-hour Actiwatch measurement sessions are performed to study the effects of long-term microgravity exposure on heart functions by analyzing an astronaut’s electrocardiogram. The objective of the Japan Aerospace Exploration Agency (JAXA) experiment is to study the effects of long-term microgravity exposure on heart function by analyzing an astronaut’s electrocardiogram for 48 hours.
+ 
+MAGVECTOR: The crew configured the portable power supply and connected the universal serial bus (USB) jump drive to the MAGVECTOR in preparation for an automated data transfer. However, the data was unable to be retrieved and the ground teams are assessing the cause. MAGVECTOR investigates how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research not only helps improve future ISS experiments and electrical experiments, but could offer insights into how magnetic fields influence electrical conductors in general, the backbone of our technology.
+ 
+Space Headaches: The European Space Agency (ESA) Space Headaches questionnaire was completed to provide information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crew members in space. Headaches during space flight can negatively affect mental and physical capacities of crew members which can influence performance during a space mission.
+ 
+Remote Power Controller Module (RPCM) P12B-A Remove & Replace (R&R): Yesterday and overnight, Robotics Ground Controllers powered up the Mobile Servicing System (MSS) and maneuvered the Space Station Remote Manipulator System (SSRMS) and Special Purpose Dexterous Manipulator (SPDM) Arm 2 to extract the P11A_A RPCM.  They then maneuvered the SSRMS and SPDM Arm 2 to install this RPCM in the P11A_D slot.  Afterwards, Controllers maneuvered the SSRMS and SPDM Arm 2 to extract the spare RPCM from the P11A_C slot and install it in the P11A_A position.  Finally, SPDM Arm 2 and the SSRMS were configured for the start of the P12B_A operations planned for later today.
+ 
+Nitrogen/Oxygen Recharge System (NORS) tank: Today the crew switched out NORS tanks and a gas transfer was initiated from the new tank into the high pressure O2 tanks onboard the ISS.
+ 
+Airlock Vacuum Access Panel Modification:  The vacuum access panel (VAP) modification kit was installed in the Airlock today.  This modification will eliminate a dragthrough cable during N1 nadir port vehicle unberthing operations.
+ 
+ 
+ 
+

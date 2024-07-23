@@ -1,0 +1,28 @@
+
+Marrow: Upon waking this morning, the crew took breath and ambient air samples for the Canadian Space Agency (CSA) Marrow experiment which investigates the effect of microgravity on human bone marrow. It is believed that microgravity, like long-duration bed rest on Earth, has a negative effect on bone marrow and the blood cells that are produced in the marrow. The extent of this effect and its recovery are of interest to space research and healthcare providers on Earth.
+ 
+Auxin Transport Run #2: The crew conducted the first day of the second Auxin Transport experiment run by gathering hardware and retrieving the samples from the Minus Eighty Degree Laboratory Freezer for ISS (MELFI) before preparing and installing the samples into the Cell Biology Experiment Unit (CBEF) for incubation. The incubation process takes 3 days and will be followed by fixation, sampling and closeout on day 4. This Japan Aerospace Exploration Agency (JAXA) investigation clarifies the role of auxins in pea and corn seedlings grown in microgravity, leading to new insight into how gravity, or the lack of gravity, affects plant development. This study may contribute to increasing the efficiency of plant cultivation in plant factories. The data obtained from the second experiment run will provide evidence of spaceflight alterations in auxin polar transport and endogenous levels of auxin, resulting in automorphogenesis.
+ 
+Rodent Research (RR-3) Audit and Microgravity Science Glovebox (MSG) Cleanup: Following the completion of RR-3 operations last week, the crew audited the remaining RR-3 equipment and supplies. They also removed the hardware and cleaned the Life Science Ancillary Hardware (LSAH) in the Microgravity Science Glovebox (MSG).
+ 
+MSG Video Upgrade Equipment (VUE) Hardware Gather and Overview: In preparation for upcoming MSG Video Upgrade Equipment (VUE) setup, the crew gathered and powered the hardware and routed video signals using the HD Video Drawer Graphical User Interface (GUI). Ground teams then successfully performed a two hour checkout of the recording functions of the drawer.
+ 
+Telescience Resource Kit (TReK) Hardware Set Up: Today the crew set up the TREK Demonstration hardware, but was unable to install the flight demonstration software load due to communication issues with the network attached storage (NAS) at the planned rack location. After changing the Ethernet routing to the WORF rack; connectivity was verified but subsequent file transfer attempts resulted in a series of errors on the laptop. The crew took photos of the errors and was asked to stand down for the day.  The ground teams are assessing the error messages. TReK is a suite of software applications and libraries that can be used to monitor and control assets in space or on the ground.
+ 
+Material Science Laboratory (MSL) Calibration Cartridge Insertion: The crew inserted the calibration cartridge of MSL Batch 2B for calibration. The MSL can accommodate one Furnace Insert (FI) at a time for experiment processing. Two ESA-developed FIs are presently available: the Low Gradient Furnace (LGF) and the Solidification and Quenching Furnace (SQF). Sample-Cartridge Assemblies (SCAs) for science programs.
+ 
+Bigelow Expandable Aerospace Module (BEAM) Preparations: In preparation for vestibule outfitting activities and inflation, today the crew completed the following:
+
+Installation of N3 BEAM laptop cable to allow BEAM laptop connection to N3 Aft bulkhead and BEAM sensor systems,
+Verification that the BEAM Deployment Controller passes BIT check prior to deployment,
+Emergency procedure refresher On-Board Training (OBT) session (all 6 crewmembers).
+
+ 
+Mobile Servicing System (MSS) Operations: Last Friday, Robotics Ground Controllers powered up the MSS and performed Special Purpose Dexterous Manipulator (SPDM) Latch End Effector (LEE) checkouts. They then maneuvered the Space Station Remote Manipulator System (SSRMS) to stow SPDM on Mobile Base System (MBS) Power Data Grapple Fixture 2 (PDGF2). While SPDM LEE was capturing MBS PDGF2, SSRMS Force and Moment Sensor (FMS) Coarse Characterization was performed. SSRMS was maneuvered to translate configuration and the Mobile Transporter (MT) was translated to Worksite 6 (WS6).
+ 
+Cygnus Cargo Operations: The crew has completed approximately 31.5 hours of cargo transfer operations with approximately 15 hours of transfer remaining.
+ 
+62 Progress (62P): On Sunday, the crew reported seeing flakes of a substance floating away from 62P and provided photographs of the small white particles.  Moscow worked with the crew over the course of the day to check the pressure of the air reserve section of Rodnik tank БВ-2. Since Thursday evening, Moscow has observed lower than expected readings from this section of the tank. The Russian crew took readings from that tank with a manual pressure gauge and confirmed that it is at a lower pressure and the telemetry is accurate.
+The main section of the tank is currently full of urine for disposal and is in an unpressurized section of 62P.  No change in operations is being recommended at this time. Moscow will continue to monitor tank telemetry and will ask the crew to check occasionally with the manual gauge. Undock is planned for July 5.
+ 
+

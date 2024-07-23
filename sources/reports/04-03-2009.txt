@@ -1,0 +1,64 @@
+ISS On-Orbit Status 04/03/09
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.
+ 
+ CDR-19 Padalka undertook the new Russian behavioral assessment MBI-20 TIPOLOGIA, assisted by FE-1 Lonchakov.    [MBI-20 studies typological features of operator activity of the ISS crews in long-term space flight phases, with the subject using a cap with electrodes.]
+ 
+ Having started METOX (Metal Oxide) regeneration on two METOX CO2 absorption canisters (#0013, #0015) yesterday in the US Airlock, CDR Fincke today terminated the “bakeout” process and initiated it on two more METOX canisters (#0016, #0022) from the 15A spacewalks.
+ 
+ In the Lab, Michael Fincke activated the SAMS (Space Acceleration Measurement System Interim Control Unit) in Drawer 1 Activation.
+ 
+ Fincke, Lonchakov &amp; SFP Simonyi spent three hours in the TMA-13 Descent Module (SA) to conduct the Soyuz descent drill, a standard training exercise for every crew returning on a Soyuz.  The exercise, which strictly forbids any command activation (except for switching the InPU display), was supported by a tagup and discussions with ground instructor at TsUP/Moscow via S-band.     [The session includes a review of the pertinent ODFs (operational data files), specifically the books on Soyuz Ascent &amp; Descent Procedures, Emergency Descents, and Off-Nominal Situations, crew responsibilities when executing the flight program, visual crew recognition of SUS (Entry Control System) failures, spacesuit procedures, etc., with special emphasis on operations with the Neptune-ME cockpit console.  The training uses a Descent Simulator application on the RSK1 laptop.  During the actual descent, Lonchakov, as Soyuz CDR, will occupy the middle couch, with Simonyi in the right seat and Fincke in the Descent Module’s left Kazbek couch.  Pending the final State Commission decision at about 3.5h before undocking, 17S return is now expected for 4/8 (next Wednesday, at the southern landing site in Kazakhstan.]
+ 
+ For their departure on 4/7, Yuri Lonchakov &amp; “Misha” Fincke spent an additional hour in the Soyuz TMA-13/17S Descent Module (SA) supporting a ground-commanded checkout of the Soyuz motion control system (SUD, Mode 2/“Docked”) which included pressurization of the KDU Combined Propulsion System Section 2 and Tank 2, a test of the pilot’s RUD translational hand controller, and a hot firing of the DPO braking thrusters.  KDU maneuver thrusters and DPO lateral thrusters were not fired.     [For the test, the science windows in the US Lab and Kibo module were shuttered, and station attitude was handed over to Russian thruster control at ~4:55am EDT, commanded to free drift at ~5:30am, then back to LVLH XVV (Local Vertical Local Horizontal/x-axis in velocity vector) attitude.  The one-minute firing started on Daily Orbit 1 at ~5:30am.  Attitude control was returned to the USOS (U.S. segment) at 6:30am, and the Lab window could be re-opened two orbits later for CEO.] 
+ 
+ Preparatory to the standard Soyuz TMA-13 pre-undocking thruster firing test (5:30am-5:48am), Col. Mike switched the Russian RSA 2 comm channel to USOS Public Call 2 on TsUP/Moscow Go.
+ 
+ In the COL (Columbus Orbital Laboratory), FE-2 Wakata made preparations on the EPM (European Physiology Module) by exchanging Cardiolab HDDs (Hard Disk Drives) on the EPM front panel and placing the removed HDDs in their containers. 
+ 
+ Koichi Wakata continued the crew support of the MELFI (Minus-Eighty Laboratory Freezer for ISS) facility for POIC (Payload Operations Integration Center) for upcoming sample storage by inserting more Icepacs, i.e., retrieving three -32 degC Icepac belts and placing them into Dewar 2.
+ 
+ After donning the digital Walk Holter ECG (Electrocardiograph) recorder in the JAXA JPM (JEM Pressurized Module) yesterday and recording data overnight, Wakata today removed the Holter and downlinked the recorded ECG data and his video.
+ 
+ Koichi also set up and checked out the French/CNES neuroscientific research experiment “3D Space” (SAP), then conducted a session with FE-1-19 Mike Barratt as subject #2, using the ESA Multipurpose Laptop with a prepared HDD (Hard Disk Drive), data storage on a PCMCIA memory card, and an electronic pen table connected to it.    [3D Space, which involves distance, writing and illusion exercises, is designed to test the hypothesis that altered visual perception affects motor control. To do this, the subject is asked to reproduce shapes or text on an electronic pen pad (Wacom Intuos3 A4).  The test person is asked to reproduce shapes or text on the pen tablet which allows researchers to record and analyze the reactions both on earth and in space.]
+ 
+ Afterwards, the FE-2 worked on the WPA (Water Processor Assembly), first offloading the WPA into a CWC-I (Contingency Water Container-Iodine) with the common H2O Transfer Hose (which took about 23 min) from the PWD (Potable Water Dispenser) Auxiliary Port, then flushing the system.    [PWD water is still off limits for human consumption until results of the post-flight analysis of 15A-returned samples are available in about four weeks.] 
+ 
+ FE-1-19 Barratt set up and configured the BCAT-4 (Binary Colloid Alloy Test 4) payload at the Avionics Racks 2 (LAB1D1) and 3 (LAB1D2), checked it out and started the experiment.     [After first familiarizing himself with payload hardware &amp; operations, Dr. Mike set up the experiment along with camcorder and still camera, taking documentary video of himself, following by checking on any crystals in samples 8, 9,10.  The FE-2 then took multiple-flash angle photographs of sample 2 with the Kodak DCS-760 digital still camera, then mixed (homogenized) Sample 3 and set up for automated photography of the sample.   Controlled by EarthKAM software, the camera is now automatically photographing Sample 3 once every hour for the next 6 days.]
+ 
+ Wakata &amp; Barratt filled out the regular weekly FFQ (Food Frequency Questionnaire) on the MEC (Medical Equipment Computer), Koichi’s third, Dr. Mike’s first.    [On the FFQs, NASA astronauts keep a personalized log of their nutritional intake over time on special MEC software.  Recorded are the amounts consumed during the past week of such food items as beverages, cereals, grains, eggs, breads, snacks, sweets, fruit, beans, soup, vegetables, dairy, fish, meat, chicken, sauces &amp; spreads, and vitamins.  The FFQ is performed once a week to estimate nutrient intake from the previous week and to give recommendations to ground specialists that help maintain optimal crew health.  Weekly estimation has been verified to be reliable enough that nutrients do not need to be tracked daily.]
+ 
+ Koichi conducted the periodic (currently daily) checkout &amp; performance verification of IP-1 airflow sensors in the various RS (Russian Segment) hatchways, including the passageways PrK (SM Transfer Compartment)–PrK–RO (SM Working Compartment), PkhO (SM Transfer Tunnel)–RO, PkhO–DC1, PkhO–FGB PGO, FGB PGO–FGB GA, FGB GA–Node-1.    [This checkup is especially important when the ventilation/circulation system has to cope with a larger crew on board, currently six persons, and one of the two Russian SKV air conditioners off (SKV-1) because it is beyond its service life.]
+ 
+ Mike Barratt performed corrective maintenance on the ARED (Advanced Resistive Exercise Device), installing a cylinder hard stop in the load adjustment unit to prevent the load from going below zero and rotating upwards.
+ 
+ Barratt also performed the regular controlled shut-down of the EHS VOA (Environmental Health System-Volatile Organic Analyzer), with the ground power-cycling its RPC-3 (Remote Power Controller 3), part of RPCM (RPC Module) LAD42B_A.
+ 
+ As a handover activity, Padalka worked with Lonchakov on the periodic (monthly) functional closure test of the Vozdukh CO2 (carbon dioxide) removal system’s spare emergency vacuum valves (AVK), in the spare parts kit.   [The AVKs are crucial because they close the Vozdukh's vacuum access lines in the event of a malfunction in the regular vacuum valves (BVK) or a depressurization in the Vozdukh valve panel (BOA).  Access to vacuum is required to vent CO2 during the regeneration of the absorbent cartridges (PP).] 
+ 
+ Afterwards, Gennady floated over to the newly arrived Soyuz TMA-14 and dismantled the two "Klest" (KL-152) TV cameras and their light units in the Descent Module for return to the ground on 17S for reuse, temporarily stowing them in the SM (Service Module).
+ 
+ The CDR-19 also collected the periodic water samples in the RS (Russian Segment) from the SM SVO-ZV Water Supply System for return on TMA-13.
+ 
+ Having set up the thermally controlled KUBIK3 container yesterday in the in the SM at +22 degC, Yuri Lonchakov today familiarized himself first with the new ESA BIO-4 payloads POLCA (PLC) &amp; GRAVIGEN (GVG), then installed them in the KUBIK3. 
+ 
+ At ~7:50am, FE-2 Wakata set up the high-definition G1 video camcorder with MPC (Multipurpose Converter) &amp; IPU (Image Processing Unit) and supported a JAXA PAO/Educational event.
+ 
+ The crewmembers again had several hours reserved for generic handovers.
+ 
+ Scheduled VC-16 activities for SFP Charles Simonyi today included –
+ <ul><li>Reading accumulated data from his personalized sensor (A0301) of the “Pille-MKS” radiation suite,  <li>Holding the daily comm session via TLF (phone) with his advisory team at TsUP/Moscow,  <li>Conducting a ham radio session,  <li>Working with his email,  <li>Conducting his IP-Phone call to the ground, and  <li>Performing Earth photography plus copying the pictures to his HDD (Hard Disk Drive) for return. 
+ </li></li></li></li></li></li></ul>Fincke, Wakata, Lonchakov &amp; Barratt completed their physical workout program (about half of which is used for setup &amp; post-exercise personal hygiene) on the CEVIS cycle ergometer (FE-2), TVIS treadmill (CDR, FE-1/2.5h), and ARED resistive exercise device (CDR, FE-1-19, FE-2).
+ 
+ At ~3:20am EDT, the crew held the regular (nominally weekly) tagup with the Russian Flight Control Team (GOGU), including Shift Flight Director (SRP), at TsUP via S-band/audio, phone-patched from Houston and Moscow.
+ 
+ At ~3:30am Simonyi had his regular PMC (Private Medical Conference)’ 
+ 
+ Soyuz TMA-13/17S Undocking/Deorbit:   Due to soggy ground conditions at the northern landing site in Kazakhstan, Soyuz return to Earth has been moved to the southern (backup) site.  This necessitated a shift in undocking timing.  It will now be at 11:52pm on 4/7, with landing at ~3:15am on 4/8.
+ 
+ CEO (Crew Earth Observation) photo targets uplinked for today were Southwest Algeria Megafans (ISS track paralleled a depression at the foot of a large megafan. The depression stands out visually as a large, light-toned area—yellow oval.  The crew was to shoot overlapping images of this depression, which displays some of the most interesting detail relating to megafan dynamics), Berlin, Germany (northern Germany continues to fall within a cloudfree slot.  Looking left for mapping shots), and Sky Islands, Arizona, N Mexico (trying for general views of these moist, high-altitude, forested “islands” in the arid, yellow-brown Southwest.  Looking right, from near nadir to well off-track).
+ 
+ CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov">http://eol.jsc.nasa.gov</a>  &lt;<a href="http://">http://</a>eol.jsc.nasa.gov/&gt;  (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+ 
+ 

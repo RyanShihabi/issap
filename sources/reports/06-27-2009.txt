@@ -1,0 +1,23 @@
+ISS On-Orbit Status 06/27/09
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.   Saturday – off-duty day for CDR Gennady Padalka (Russia), FE-1 Michael Barratt (USA), FE-2 Koichi Wakata (Japan), FE-3 Roman Romanenko (Russia), FE-4 Robert Thirsk (Canada), FE-5 Frank DeWinne (Belgium).  
+ 
+  The six-member crew performed the regular weekly three-hour task of thorough station cleaning, including COL (Columbus Orbital Laboratory) and Kibo.    ["Uborka", usually done on Saturdays, includes removal of food waste products, cleaning of compartments with vacuum cleaner, damp cleaning of the SM (Service Module) dining table, other frequently touched surfaces and surfaces where trash is collected, as well as the sleep stations with a standard cleaning solution; also, fan screens and grilles are cleaned to avoid temperature rises. Special cleaning is also done every 90 days on the HEPA (high-efficiency particulate air) bacteria filters in the Lab.]
+ 
+  As part of the house cleaning, Padalka &amp; Romanenko conducted regular maintenance inspection &amp; cleaning on fan screens in the FGB (TsV2), DC1 (V3), and SM (VPkhO, VPrK, FS5, FS6 &amp; FS9), plus dust filter replacement in the FGB.
+ 
+  Later, FE-3 Romanenko performed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM, including the weekly collection of the toilet flush (SP) counter and water supply (SVO) readings for calldown to TsUP-Moscow.  
+ 
+  At ~9:05am EDT, the crew conducted their regular WPC (Weekly Planning Conference) with the ground, discussing next week's "Look-Ahead Plan" (prepared jointly by MCC-Houston and TsUP-Moscow timeline planners) via S-band/audio, reviewing the monthly calendar, upcoming activities, and any concerns about future on-orbit events.
+ 
+  For Gennady, it was time again for recharging the Motorola Iridium-9505A satellite phone located in Soyuz TMA-14/18S &amp; TMA-15/19S, a monthly routine job and his fourth time.      [After retrieving them from their location in the spacecraft Descent Modules (BO), Gennady initiated the recharge of the lithium-ion batteries, monitoring the process every 10-15 minutes as it took place.  Upon completion at ~1:00pm EDT, the phones were returned inside their SSSP Iridium kits and stowed back in the BO’s operational data files (ODF) container.  The satphone accompanies returning ISS crews on Soyuz reentry &amp; landing for contingency communications with SAR (Search-and-Rescue) personnel after touchdown (e.g., after an “undershoot” ballistic reentry, as happened during the 15S return).  The Russian-developed procedure for the monthly recharging has been approved jointly by safety officials.  During the procedure, the phone is left in its fire-protective fluoroplastic bag with open flap.  The Iridium 9505A satphone uses the Iridium constellation of low-Earth orbit satellites to relay the landed Soyuz capsule's GPS (Global Positioning System) coordinates to helicopter-borne recovery crews.  The older Iridium-9505 phones were first put onboard Soyuz in August 2003.  The newer 9505A phone, currently in use, delivers 30 hours of standby time and three hours of talk, up from 20 and two hours, respectively, on the older units.]
+ 
+  Padalka also set up the equipment for an upcoming N<sub>2</sub> (nitrogen) repressurization of the cabin air from Progress 33P storage (SrPK tank 2) to adjust total cabin pressure.
+ 
+  The crew completed their regular daily 2.5-hr. physical workout program on the CEVIS cycle ergometer (FE-1, FE-2), TVIS treadmill with vibration isolation (CDR, FE-3, FE-4, FE-5), IRED interim resistive exercise device (FE-1, FE-2, FE-3, FE-4, FE-5) and VELO cycle ergometer with bungee cord load trainer (CDR).    [The slight offset between actual loads and commanded loads on the CEVIS has been corrected.  FE-4 Thirsk completed a coefficients calibration on the CEVIS control panel which adjusted the readings.  Data from FE-4’s CEVIS exercise session will serve as a checkout to determine if the calibration coefficient update corrected the workload offset.] 
+ 
+  Later, Mike Barratt transferred the exercise data file to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+  At ~5:28am, Frank DeWitt powered up the SM's amateur radio equipment (Kenwood VHF transceiver with manual frequency selection, headset, &amp; power supply) and at ~5:33am conducted a ham radio session with students at Karel de Grote-Hogeschool (Charles the Great Highschool), Dept IWT, in Hoboken, Belgium.
+ 
+ 

@@ -1,0 +1,19 @@
+
+NanoRack Cubesat Deployer 6 (NRCSD#6) Door Secure:  Kelly and Lindgren secured the doors of NRCSD #6 Deployer #6 inside the Japanese Experiment Module (JEM) Airlock with loading latches and tape to prevent an inadvertent deploy of the two cubesats in that deployer that could not be launched.
+ 
+Cell Biology Experiment Facility (CBEF) Video Troubleshooting:  Yui performed additional troubleshooting steps for problems experienced during the checkout of multiple video downlinks for the CBEF.  He installed multiple video cables between the CBEF and Multi-purpose Small Payload Rack 2 (MSPR2) rack in the Japanese Experiment Module (JEM).
+ 
+Neuromapping:  Yui completed his Flight Day 90 NeuroMapping Neurocognitive test on a Human Research Facility (HRF) laptop.  The Neuromapping experiment studies whether long-duration spaceflight causes any changes to the brain, including brain structure and function, motor control, and multi-tasking; as well as measuring how long it takes for the brain and body to recover from those possible changes. Previous research and anecdotal evidence from crewmembers returning from a long-duration spaceflight suggests that movement control and cognition are affected in microgravity.
+ 
+Microbiome Investigation:  Lindgren and Yui completed survey questionnaires as part of their Flight Day 90 session of the Microbiome investigation. Microbiome investigates the impact of space travel on both the human immune system and an individual’s microbiome (the collection of microbes that live in and on the human body at any given time).
+ 
+Sleep Log:  Kelly recorded a Sleep Log entry today.  The Sleep ISS-12 experiment monitors ambient light exposure and crew member activity and collects subjective evaluations of sleep and alertness.  The investigation examines the effects of space flight and ambient light exposure on sleep during a year-long mission on the ISS.
+ 
+Cognition:  Kornienko performed his Flight Day 206 session of the Cognition experiment.  This is his seventh of eleven sessions.  Individualized Real-Time Neurocognitive Assessment Toolkit for Space Flight Fatigue (Cognition) is a battery of tests that measure how spaceflight-related physical changes, such as microgravity and lack of sleep, can affect cognitive performance. Cognition includes ten brief computerized tests that cover a wide range of cognitive functions, and provides immediate feedback on current and past test results. The software allows for real-time measurement of cognitive performance while in space.
+ 
+Extravehicular Activity (EVA) Mobility Unit (EMU) On-Orbit Fit Verification (OFV):  Kelly and Lindgren with assistance from Yui and Volkov conducted an EMU OFV to confirm the correct sizing of suits 3003 and 3010.  In support of today’s OFV, they recharged the EMU Feedwater Tanks and conducted communication and data checks with Mission Control Center Houston.  Kelly and Lindgren are scheduled to perform the ISS Upgrades EVA next week on Wednesday, October 28th.
+ 
+Mobile Servicing System (MSS) Operations:  Last night, robotics controllers powered up the MSS and used the Special Purpose Dexterous Manipulator (SPDM) to stow the Robotics Refueling Mission (RRM) Multi-Function Tool (MFT).  The stowing of this tool was postponed following the shoulder/yaw joint invalid position anomaly experienced on October 8th on SPDM Arm 2.  The MFT stow activity was performed with Arm 2 in Degraded Joint Operations mode.   Tonight, robotics controllers will use the Space Station Remote Manipulator System (SSRMS) and SPDM to perform an imagery survey of the RapidScat payload.  Following the survey, they will stow the SPDM, then walkoff the SSRMS to Power Data Grapple Fixture (PDGF)3 in preparation for next week’s Latching End Effector (LEE) B lube.
+ 
+ 
+

@@ -1,0 +1,35 @@
+ISS On-Orbit Status 06/16/12
+ 
+All ISS systems continue to function nominally, except those noted previously or below.    Saturday – Crew off duty.
+ 
+After wakeup, Sergei Revin performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection.
+ 
+FE-5 André Kuipers conducted the regular (~weekly) inspection &amp; maintenance, as required, of the CGBA-4 (Commercial Generic Bioprocessing Apparatus 4) and CGBA-5 payloads in their ERs (EXPRESS Racks) at Lab O2 &amp; O1, focusing on cleaning the muffler air intakes.
+ 
+The six Exp-31 crewmembers joined in conducting the regular weekly three-hour task of thorough cleaning of their home, including COL (Columbus Orbital Laboratory) and Kibo JPM (JEM Pressurized Module).     ["Uborka", usually done on Saturdays, includes removal of food waste products, cleaning of compartments with vacuum cleaner, damp cleaning of the SM dining table, other frequently touched surfaces and surfaces where trash is collected, as well as the sleep stations with a standard cleaning solution; also, fan screens and grilles are cleaned to avoid temperature rises. Special cleaning is also done every 90 days on the HEPA (high-efficiency particulate air) bacteria filters in the Lab.]
+ 
+As part of Uborka house cleaning, Oleg completed regular weekly maintenance inspection &amp; cleaning of fan screens in the FGB (TsV2) plus Group E fan grilles in the SM (VPkhO, FS5, FS6, VP).
+ 
+FE-2 Revin handled the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.      [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+In the JAXA JPM (JEM Pressurized Module) at F5, André Kuipers terminated the loading of the ER-4 RIC (EXPRESS Rack 4 Rack Interface Controller) with new software, shutting off and breaking down the A31p &amp; ER-4 T61p laptop computers, reconfiguring the T61p and reactivating it.
+ 
+After closing the window shutters in the Cupola to establish good thermal control environment for IR (Infrared) operations, Don Pettit used the EVA IR camera to take thermal imagery of the Cupola windows.  Window heater on/off switching was performed by MCC-H ground control.
+ 
+In the MRM2 Poisk module, Gennady Padalka continued the twice-daily checking of vacuum/pressure conditions in the Plasma Chamber of the KPT-21 PK-3+ Plasma Crystal-3+ (Plazmennyi-Kristall-3 plus) Telescience payload.       [The PK-3+ equipment comprises the EB (Eksperimental’nyj Blok) Experiment Module with a turbopump for evacuation, Ts laptop, video monitor, vacuum hoses, electrical circuitry, four hard storage disks for video, and one USB stick with the control application.  The experiment is performed on plasma, i.e., fine particles charged and excited by HF (high frequency) radio power inside the evacuated work chamber.  Main objective is to obtain a homogeneous plasma dust cloud at various pressures and particle quantities with or without superimposition of an LF (low frequency) harmonic electrical field.  The experiment is conducted in automated mode.  PK-3+ has more advanced hardware and software than the previously used Russian PKE-Nefedov payload.]
+ 
+Don Pettit &amp; Joe Acaba had a time slot/placeholder reserved each for making entries in their electronic Journals on the personal SSC (Station Support Computer).    [Required are three journaling sessions per week.]
+ 
+At ~9:00am EDT, Joe activated the MPC (Multi-Protocol Converter) routing to downlink the recording of his CFE VG2 (Capillary Flow Experiments / Vane Gap 2) experiment session of 6/13, stopping it at ~1:35pm.
+ 
+CDR &amp; FE-2 had their weekly PFCs (Private Family Conferences), via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop), Oleg at ~6:20am, Sergei at ~8:00am.
+ 
+At ~10:20am, the entire crew held the regular WPC (Weekly Planning Conference) with the ground, discussing next week's "Look-Ahead Plan" (prepared jointly by MCC-H and TsUP-Moscow timeline planners), via S-band/audio, reviewing upcoming activities and any concerns about future on-orbit events.
+ 
+Tasks listed for Kononenko, Revin &amp; Padalka on the Russian discretionary “time permitting” job for today were –
+<?if !supportLists?>·        <?endif?>A 10-min. photography session for the DZZ-13 “Seiner” ocean observation program, obtaining HDV (Z1) camcorder footage of color bloom patterns in the waters of the Central-Eastern Atlantic, coastal Africa, South-Eastern Pacific, and coastline of South America, then copying the images to the RSK-1 laptop,
+<?if !supportLists?>·        <?endif?>Recording high-resolution video with the SONY HVR-Z7E to be used in a joint project of Roskosmos TV Studio with Karusel (Carousel) TV Channel for children ages 8 to 12 years, the “It’s Time to go to space!” program, which has a segment where Russian cosmonauts are discussing their work &amp;, answer viewers’ questions; the footage was then to be downlinked to TsUP-Moscow,
+<?if !supportLists?>·        <?endif?>A ~30-min. session for Russia's EKON Environmental Safety Agency, making observations and taking KPT-3 aerial photography of environmental conditions on Earth using the NIKON D3X camera with the RSK-1 laptop, and
+<?if !supportLists?>·        <?endif?>More preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb).
+ 
+

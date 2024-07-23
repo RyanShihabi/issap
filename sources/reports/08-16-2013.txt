@@ -1,0 +1,17 @@
+
+New Status:
+Russian Segment (RS) Extravehicular Activity (EVA) 34: Extra-Vehicular (EV)-1 Yurchikhin and EV-2 Misurkin completed a 7 hour, 29 minute EVA today, marking the longest Russian EVA on record.  During the EVA, Cassidy and Vinogradov were isolated in the MRM-2/34S. Parmitano and Nyberg had access to modules forward of the Service Module (SM).
+The following tasks were completed :
+
+Installation of “VINOSLIVOST” space experiment on MRM2 panel #2
+Installation of MLM – ISS USOS power cables
+Installation of MLM – ISS USOS ETHERNET cable
+Installation of gap spanners SM – MRM2 and FGB – MRM2
+Retract and stow Strela-1 on DC1
+
+Capillary Flow Experiment (CFE)-2: Nyberg unstowed and secured the CFE hardware on the Maintenance Work Area (MWA), She then completed the final of 11 planned runs of the experiment after which she stowed the hardware and tapes. CFE-2 investigates how fluids move up surfaces in microgravity and will be used to improve low gravity fluid systems on future spacecraft.
+Investigating the Structure of Paramagnetic Aggregates from Colloidal Emulsions (InSPACE)-3: Parmitano set up the InSPACE-3 experiment by installing hardware, cables, and vial assemblies inside the Work Volume (WV) and configuring the Microgravity Science Glovebox (MSG) recorders.  Following setup, he performed a run of the experiment. InSPACE-3 obtains data on fluids containing ellipsoid-shaped particles that change the physical properties of the fluids in response to magnetic fields.  InSPACE-3 collects and records data on fluids containing ellipsoid-shaped particles that change the physical properties of the fluids in response to magnetic fields. This investigation aims to provide information for a better understanding of the interplay of magnetic, surface, repulsion forces, and shape between particles in magnetically responsive fluids. Technology developed through this investigation has potential to improve the ability to design structures, such as bridges and buildings, to better withstand earthquake forces.
+Advanced Resistive Exercise Device (ARED) Set Screws: One of the ARED stainless steel cylinders appears to be near failure so a backup aluminum cylinder flywheel needs to be prepared for installation when required. The set screws have a history of becoming loose and a yearly maintenance activity is in place to tighten those set screws which Cassidy performed today. Prior to this activity, Nyberg greased the ARED Vibration Isolation System (VIS) rails and rollers, the upper stop catch plates and the rack indicator catch mechanisms.
+Crew Quarters (CQ) Cleaning: Parmitano performed this preventive maintenance today. He cleaned the port CQ intake and exhaust duct, fan and airflow sensor.
+DC-to-DC Converter Unit (DDCU) N2P2A Power On Reset (POR): Early this morning, DDCU N2P2A experienced a POR.  At the time of the event, DDCU N2P2A was sharing loads with DDCU N2P3A.  During the reset, the parallel DDCU picked up the loading, resulting in no impact to downstream loads.  Ground specialists performed data dumps, cleared the POR Health Flag, then repowered the DDCU which is performing nominally.  Ground controllers will continue to monitor the DDCU.
+

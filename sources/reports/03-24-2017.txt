@@ -1,0 +1,19 @@
+
+US Extravehicular Activity (EVA) #40: EV1 Kimbrough and EV2 Pesquet completed the following tasks during today’s 6 hour 34 minute External (EXT) Enhanced Processor and Integrated Communications (EPIC) Special Purpose Dexterous Manipulator (SPDM) Lube EVA. FE-6 Whitson provided Intravehicular (IV) Space Station Remote Manipulator System (SSRMS) support.
+Planned EVA Tasks Completed
+
+External Thermal Control System (ETCS) Leak Inspection
+Nadir EXT EPIC Multiplexer/Demultiplexer (MDM) R&R
+Pressurized Mating Adapter (PMA)3 Disconnect
+SPDM Latching End Effector (LEE) Lube
+Japanese Experiment Module Remote Manipulator System (JEMRMS) WVE R&R
+JEM Exposed Facility (EF) Foward Vision Equipment (VE)  R&R
+
+Get-ahead Task Completed
+
+S1-1 Crew and Equipment Translation Aid (CETA) Light R&R
+
+EPIC EXT MDM: The Flight Control Team transitioned the newly installed EPIC EXT MDM to primary and completed critical checkout. 
+JEM Camera Checkouts:  Both of the new JEM cameras, JEMRMS WVE and JEM EF Forward VE, were successfully checked out by ground controllers.
+Mobile Servicing System (MSS) Operations:  The Robotics Ground Controllers powered up the MSS in support of US EVA #40, during which the EVA crew lubricated mechanisms in the SPDM LEE.  Post EVA, the Ground Control team checked out the newly lubricated mechanisms and then stowed the SPDM on the Mobile Base System (MBS) Power Data and Grapple Fixture (PDGF) 2.  Later tonight, the team will continue to walk the SSRMS to MBS PDGF 4.  MSS performance was nominal.
+

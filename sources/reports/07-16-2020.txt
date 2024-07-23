@@ -1,0 +1,18 @@
+
+Systems
+USOS Extravehicular Activity (EVA) #67/S6 Battery EVA #3: Bob Behnken (EV1) and Chris Cassidy (EV2) performed a 6 hour EVA that completed the following tasks in support of the S6 Channel 3B battery transition from nickel hydrogen to lithium-ion batteries:
+
+S3 Boom Install
+NiH2 Battery 1 from S6 Integrated Equipment Assembly (IEA) to External Pallet (EP)
+Li-Ion Battery F from EP to S6 IEA Slot 1
+NiH2 Battery 2 from S6 IEA to EP / Adapter Plate F from EP to S6 IEA Slot 2
+NiH2 Battery 3 from S6 IEA Slot 3 to Adapter Plate F in Slot 2
+Li-Ion Battery E from EP to S6 IEA Slot 3
+NiH2 Battery 4 from S6 IEA to EP / Adapter Plate E from EP to S6 IEA Slot 4
+NiH2 Battery 6 from S6 IEA slot 6 to Adapter Plate E
+Li-Ion Battery C from EP to S6 IEA Slot 6
+NiH2 Battery 5 from S6 IEA to EP (get ahead)
+Adapter Plate C from EP to S6 IEA Slot 5 (get ahead)
+
+The ground team was able to successfully checkout all 3 newly installed lithion-ion batteries. As a result of the getahead tasks the EV crew completed, ground teams can begin to power up the 3B Channel.
+

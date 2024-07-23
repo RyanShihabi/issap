@@ -1,0 +1,18 @@
+
+USOS EVA #59 Alpha Magnetic Spectrometer (AMS) Extravehicular Activity (EVA) #1: Today, the ISS CDR, Luca Parmitano (EV-1), and FE-9,  Drew Morgan (EV-2), conducted US EVA #59 (AMS EVA #1) which lasted for 6h 39m. During today’s EVA, Luca and Drew performed the following tasks:
+
+AMS Debris Shield Removal
+Debris Shield Jettison
+Zenith & Nadir Vacuum Case and Diagonal Beam Handrail Install
+Vertical Support Beam (VSB) Cover Multilayer insulation (MLI)/Zip Tie Removal
+VSB Cover Removal and Jettison
+VSB Spacer Removal and Data Cable Preparation
+
+Payloads:
+PK-4 (Plasma Krystall-4): The crew performed a data harddrive exchange. Plasma Krystall-4 (PK-4) is a scientific collaboration between the European Space Agency (ESA) and the Russian Federal Space Agency (Roscosmos), performing research in the field of “Complex Plasmas”: low temperature gaseous mixtures composed of ionized gas, neutral gas, and micron-sized particles. The micro-particles become highly charged in the plasma and interact strongly with each other, which can lead to a self-organized structure of the micro-particles: so-called plasma crystals. Experiments in the facility aim to study Transport Properties, Thermodynamics, Kinetics and Statistical Physics, and Non-linear waves and Instabilities in the plasmas.
+Space Biofilms: The crew terminated the Space Biofilm Group Activation Packs (GAPs) and placed them into incubation. The Characterization of Biofilm Formation, Growth, and Gene Expression on Different Materials and Environmental Conditions in Microgravity (Space Biofilms) investigation characterizes the mass, thickness, structure, and associated gene expression of biofilms that form in space by analyzing different microbial species grown on different materials. Biofilm formation can cause equipment malfunction and human illnesses, and could be a serious problem on future long-term human space missions.
+Hermes Facility: The crew closed the Vacuum Valve on the Hermes facility in order to allow the ground to perform a monthly vacuum vent line check. Hermes is an experimental microgravity facility that enables science experiments, microgravity exposure testing, testing of engineering components, testing of CubeSats, concept trials, and any payloads that fit within the Hermes design and operations constraints. It is open to any investigation that benefits from microgravity exposure. 
+Systems:
+Endoscope Troubleshooting: On Wednesday, the crew installed the LAB1P6 Common Cabin Air Assembly (CCAA) Carbon Dioxide Removal Assembly (CDRA) Snorkel assembly. The snorkel is designed to reduce CCAA water carry over and the US endoscope was to provide a visual verification of the snorkel’s function. However, once the scope was installed into the snorkel, no video was displayed on the endoscope display. Today, in an effort to recover the endoscope functionality, the crew performed a troubleshooting activity that manipulated the endoscope connections and controls. The endoscope video was not recovered during this activity.
+Mobile Servicing System (MSS): Today, the Robotics Ground Controllers powered up the MSS ahead of AMS EVA #1. During the EVA, EV1 setup the Space Station Remote Manipulator System (SSRMS) with the Worksite Interface Extension (WIFEX) and Articulated Portable Foot Restraint (APFR) and then ingressed the APFR. Crew inside the ISS then maneuvered EV1 to the Alpha Magnetic Spectrometer (AMS) worksite where he worked with EV2 to accomplish their assigned AMS tasks for today.  Once complete, the crew inside ISS maneuvered the SSRMS to the egress position where EV1 egressed the APFR. Once the EVA was complete, the Robotics Ground Controllers powered down the MSS.
+

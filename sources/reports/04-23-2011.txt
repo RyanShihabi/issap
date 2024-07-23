@@ -1,0 +1,41 @@
+04-23-2011
+ISS On-Orbit Status 04/23/11
+
+All ISS systems continue to function nominally, except those noted previously or below. Saturday – Crew half-duty day.
+
+Upon wake-up, FE-2 Borisenko performed the regular daily check of the aerosol filters at the Russian Elektron O2 (oxygen) generator. [Maxim Suraev installed these filters on 10/19/09 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V). Andrey inspects the filters again before bedtime tonight, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+
+The crew joined in conducting the regular weekly three-hour task of thorough cleaning of their home, including COL (Columbus Orbital Laboratory) and Kibo JPM (JEM Pressurized Module). ["Uborka", usually done on Saturdays, includes removal of food waste products, cleaning of compartments with vacuum cleaner, damp cleaning of the SM (Service Module) dining table, other frequently touched surfaces and surfaces where trash is collected, as well as the sleep stations with a standard cleaning solution; also, fan screens and grilles are cleaned to avoid temperature rises. Special cleaning is also done every 90 days on the HEPA (high-efficiency particulate air) bacteria filters in the Lab.]
+
+As part of the uborka house cleaning, CDR, FE-1 & FE-2 completed regular maintenance inspection & cleaning of fan screens in the FGB (TsV2) plus Group E fan grilles (VPkhO, FS5, FS6, VP) in the SM (Service Module) and the weekly checkup on the Russian POTOK-150MK (150 micron) air filter unit of the SM’s & FGB’s SOGS air revitalization subsystem, gathering weekly data on total operating time & “On” durations for reporting to TsUP.
+
+Borisenko conducted the routine daily servicing of the SOZh system (Environment Control & Life Support System, ECLSS) in the SM. [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO & KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV & EDV on RP flow regulator.]
+
+Dmitri & Andrey had another 2 hrs blocked out to continue their IFM (In-flight Maintenance) work making preparations for modifying the SSVP StA Passive Docking Assembly in the SM PkhO (Transfer Compartment) hatch. [Steps included setting up for reducing the overall diameter of the flat cover by cutting with a Makita battery-driven jigsaw and drill, plus removing the cover, jacket & outer shell of the PkhO hatch door for the cutting procedure. The work will be continued on 4/25 & 4/27.]
+
+For their 2-hr VolSci (Voluntary Weekend Science) program FE-6 Coleman & FE-3 Garan, in their free time, video-recorded a 2 hr demo session for the EPO (Education Payload Operation) program “Eye in the Sky”, using the Cupola in Node-3 to illustrate to 5th-12th grade students the many phenomena uniquely observable from the ISS. [The MPC (Multi-Protocol Converter) was used for the HD (high definition) TV downlink.]
+
+Later, Cady Coleman had an hour (plus more as a discretionary “job jar” task) for relabeling stowage racks for new US-allocated stowage in the COL (Columbus Orbital Laboratory) at loc. F2, in the Lab (O5) and PMM (Permanent Multipurpose Module). [The labels were individually cut out from an uplinked spreadsheet and attached to the racks with plastic holder or grey tape.] 
+
+FE-5 Paolo Nespoli meanwhile worked in the Lab on ER8 (EXPRESS Rack 8), installing the ALTEA (Anomalous Long Term Effects on Astronauts) Shield isotropic equipment, using the ER2 laptop. [ALTEA-Shield isotropic dosimetry uses existing ALTEA (Anomalous Long Term Effects on Astronauts) hardware to survey the radiation environment in the US Lab in 3D. It also measures the effectiveness and shielding properties of several materials with respect to the perception of anomalous Light Flashes.]
+
+Shortly before his sleeptime, Borisenko will start charging the battery for the KPT-2 BAR TTM-2 anemometer/thermometer. [Objective of the Russian BAR-EXPERT science payload is to measure environmental parameters (temperature, humidity, air flow rate) and module shell surface temperatures behind SM panels and other areas susceptible to possible micro-destruction (corrosion), before and after insolation (day vs. night). The payload uses a remote infrared thermometer (Kelvin-Video), a thermohygrometer (Iva-6A), a heat-loss anemometer/thermometer (TTM-2) and an ultrasound analyzer (AU) to determine environmental data in specific locations and at specific times. Activities include documentary photography with the NIKON D2X camera and flash.]
+
+CDR Kondratyev worked in the SM on the TVIS treadmill, which is currently No Go, inspecting its hardware for visible damage. [After detailed data review, TVIS specialists confirmed yesterday that the gyroscope was powered but not rotating. The problem is most likely the gyroscope itself. Dmitri today was to inspect the gyro wire ropes, blue bumpers, and the VIS (Vibration Isolation System) power connections to see if they are contributors. The last failure of the gyro had a similar signature and was resolved by the crew wiggling the gyro to clear any obstruction in the bearing. Dima was to repeat this step to attempt to resolve this latest issue.]
+
+Ron Garan had ~30min set aside to complete unpacking US cargo delivered on Soyuz 26S.
+
+At ~8:45am EDT, the six crewmembers held the regular WPC (Weekly Planning Conference) with the ground, discussing next week's "Look-Ahead Plan" (prepared jointly by MCC-H and TsUP-Moscow timeline planners), via S-band/audio, reviewing upcoming activities and any concerns about future on-orbit events.
+
+At ~10:40am, Kondratyev, Samokutyayev & Borisenko downlinked messages of greetings and well-wishing to three Russian PAO TV events, viz. to –
+Participants of the 2011 contest “Teacher of the Year in Moscow” [On 4/25 during a ceremony in Moscow’s Crocus City Hall the name of absolute winner of the contest “Teacher of the Year in Moscow – 2011”, selected from five finalists, will be announced],
+Participants of the 3rd Russian International Congress on Intellectual Transportation Systems [The 3rd Russian International Congress on Intellectual Transportation Systems, devoted to the 50-th Anniversary of Yuri Gagarin’s space flight will take place at the A.S. Popov Central Museum of Communications, in St Petersburg from 5/17-20, 2011. Among the Congress participants are official delegations from Great Britain, Italy, Finland, Sweden, Norway, Japan and Taiwan], and to the
+Participants of the “White Sun of the Desert” International Festival of Song-Writer Clubs Man-Earth-Universe, dedicated to the 50th Anniversary of Y. A. Gagarin’s Flight to Space. [“White Sun of the Desert” is the famous film from Soviet times about the Bolshevist October Revolution in 1917 which all cosmonauts since Gagarin’s flight traditionally view jointly on the eve before their launch, one of numerous treasured luck-bringing rituals of the Baikonur launch scene.]
+
+FE-1 & FE-2 had their weekly PFCs (Private Family Conferences) via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop), Andrey at ~8:00am, Sasha at ~10:15am EDT.
+
+At ~5:05am, Nespoli turned on the SM's amateur radio equipment (Kenwood VHF transceiver with manual frequency selection, headset, & power supply) for a ham radio session, at 5:10am, with students at Istituto Comprensivo Dedalo 2000 - Scuola secondaria di Cingia de' Botti (CR), Solarolo Rainerio, Italy.
+
+At ~12:25pm, Samokutyayev & Borisenko supported a ham radio session with schoolchildren in the Russian city of Kursk. 
+
+The crew worked out with their regular 2-hr physical exercise on the CEVIS cycle ergometer with vibration isolation (FE-3), ARED advanced resistive exercise device (FE-2, FE-3, FE-5, FE-6), T2/COLBERT advanced treadmill (CDR/2x, FE-1, FE-2, FE-5, FE-6) and VELO ergometer bike with load trainer (FE-1).

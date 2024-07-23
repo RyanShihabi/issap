@@ -1,0 +1,72 @@
+ISS On-Orbit Status 07/06/09
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.   Underway:  Week 6 of Increment 20.  
+ 
+  FE-2 Wakata &amp; FE-4 Thirsk started the day with the extended “Bisphosphonates” biomedical countermeasures experiment for which the two crewmembers ingested an Alendronate pill before breakfast.    [The Bisphosphonates study should determine whether antiresorptive agents (that help reduce bone loss) in conjunction with the routine in-flight exercise program will protect ISS crewmembers from the regional decreases in bone mineral density documented on previous ISS missions.  Two dosing regimens will be tested: (1) an oral dose of 70 mg of Alendronate taken weekly starting 3 weeks prior to flight and then throughout the flight and (2) an intravenous (IV) dose of 4 mg Zoledronic Acid, administered just once approximately 45 days before flight. The rationale for including both Alendronate and Zoledronic Acid is that two dosing options will maximize crew participation, increase the countermeasure options available to flight surgeons, increase scientific opportunities, and minimize the effects of operational and logistical constraints.  The primary measurement objective is to obtain preflight and postflight QCT (Quantitative Computed Tomography) scans of the hip. The QCT scans will provide volumetric bone density information of both cortical and trabecular (spongy) bone regions of the hip.] 
+ 
+  CDR Padalka, FE-1 Barratt &amp; FE-2 Wakata conducted the standard 3-hrs Soyuz emergency descent drill, regular procedure for each station crew.  The exercise, which does not involve any command activation, uses computer simulation (Trenasher Spusk) on the RSK1 laptop with a descent hand controller (RUS) in manual mode to set up reentry conditions and switch between modes.    [The onboard training (OBT) session included a review of the pertinent RODF (Russian Operations Data Files), specifically the books on Soyuz Insertion &amp; Descent Procedures, Emergency Descents, and Off-Nominal Situation Procedures such as manual undocking.]
+ 
+  FE-4 Thirsk conducted Day 1 of his second two-day ICV (Integrated Cardiovascular) session, accompanied by CCISS (Cardiovascular Control on Return from the ISS).  Frank DeWinne again assisted with equipment donning and some picture taking.    [Bob donned the Actiwatches (two for ICV, one for CCISS) and the Holter Monitor 2 for ECG (Electrocardiogram) for the ICV Ambulatory Monitoring mode plus also the CCIS Baro Study, wearing the ESA Cardiopres (CDPB).  The latter, currently under troubleshooting by the ground, is a portable instrument to monitor and store finger arterial blood pressure, a full 12-derivations ECG, and chest circumference changes, all measured continuously for up to 24 hours or longer under ambulatory conditions, using air pressure to inflate finger cuffs for measuring blood pressure, ECG cables, plus two respiratory belts for recording thoracic and abdominal chest circumference changes. For the CCIS Baro study of CCIS, heart rate and blood pressure are recorded for resting and timed breathing for 5 min, with no caffeine or food allowed (water is acceptable) two hours before the start of the Baro Study and no exercise prior to the Baro Study.]
+ 
+  FE-3 Romanenko completed the periodic inventory/audit of SVO water supply hardware in the RS (Russian Segment).    [The 2-hr task consisted of verifying the contents of listed SVO kits, preparing recommended hardware for disposal, consolidating kits at crew discretion, discarding empty unneeded bags &amp; kits, and updating all hardware relocations in the IMS (Inventory Management System).]
+ 
+  In the U.S. Lab, Koichi Wakata worked on the WHC (Waste &amp; Hygiene Compartment), removing &amp; replacing piping between the Russian-furnished MNR-NS pump separator and DKiV Pre-Treat Dispenser &amp; Water Pump (also called “Dose Pump”), a regularly scheduled part of 180-day preventive maintenance.
+ 
+  Bob Thirsk meanwhile worked in  the COL (Columbus Orbital Laboratory), continuing FSL (Fluid Science Laboratory) commissioning by installing two MVIS (Microgravity Vibration Isolation System) hard disk drives for Part 1.  
+ 
+  Later in the day, Frank DeWinne de-installed the FSL optical target used for the Optical Checkout #4.
+ 
+  Romanenko completed the periodic cleaning of the CCD (Charge-Coupled Device) sensor matrix of the Nikon D3 digital cameras of any dust particles, then checked on the result.    [Cleaning tools were brushes dampened with a drop of alcohol and an air blower.]
+ 
+  DeWinne performed the regular service on the WPA (Water Processor Assembly), first offloading the WPA from WRS (Water Recovery System) Rack 1 into a CWC-I (Contingency Water Container-Iodine, #1011) with the common H<sub>2</sub>O transfer hose (which took about 23 min) from the PWD (Potable Water Dispenser) Auxiliary Port, then flushing the system.
+ 
+  In the U.S. Lab, the FE-5 started (later terminated) another 5-hr automatic sampling run, the 13<sup>th</sup>, with the EHS GC/DMS (Environmental Health System Gas Chromatograph/Differential Mobility Spectrometer), also known as AQM (Air Quality Monitor), controlled with “Sionex” expert software from the SSC-4 (Station Support Computer 4) laptop.   [The AQM demonstrates COTS (Commercial Off-the-Shelf) technology for identifying volatile organic compounds, similar to the VOA (Volatile Organics Analyzer).  Today’s data will again to be compared with VOA and GSC (Grab Sample Container) measurements.  This evaluation will continue over the course of several months as it helps to eventually certify the GC/DMS as nominal CHeCS hardware.]
+ 
+  Barratt worked in the A/L (U.S. Airlock), closing out a “job jar” task list item by retrieving an EVA drop-proof tether adapter and a socket caddy from stowage in the Airlock and secure them in a temporary mesh bag for use during the 2J/A spacewalks, then configuring an EVA wire-tie caddy with remaining “pristine” long wire ties and then stow the caddy in the temporary bag.
+ 
+  Also in the A/L, Wakata initiated recharge of EMU (Extravehicular Mobility Unit) batteries #2069 &amp; #2076 from the PSA (Power Supply Assembly) utility outlet.
+ 
+  Today was Roman Romanenko’s turn to complete the regular monthly session (his first) with the CHeCS (Crew Health Care Systems) emergency medical operations OBT (On-Board Training) drill, a 30-min. exercise to refresh his CMO (Crew Medical Officer)’s acuity in a number of critical health areas.     [The HMS (Health Maintenance Systems) hardware, including ACLS (Advanced Cardiac Life Support) equipment, may be used in contingency situations where crew life is at risk.  To maintain proficiency, crewmembers spend one hour per month reviewing HMS and ACLS equipment and procedures via the HMS and ACLS CBT (computer-based training).  The training drill, each crewmember for him/herself, refreshes their memory of the on-orbit stowage and deployment locations, equipment etc. and procedures.]
+ 
+  Gennady Padalka performed the routine task of taking two photos of the internal part of the DC1 nadir port’s SSVP-StM docking cone (ASP-O), used for last Friday’s Soyuz 18S linkup after the spacecraft’s relocation from the SM aft port.  The pictures, which are necessary to refine the current understanding of docking conditions (particularly after the rare manual docking), were then transferred to OCA for subsequent downlinking.    [The objective is to take photo imagery of the scratch or scuff mark left by the head of the active docking probe on the internal surface of the passive drogue (docking cone) ring, now rotated out of the passageway.  The CDR used the Nikon D2X digital still camera (which replaced the D1X) to take two pictures each with the hatch closed down.]
+ 
+  Barratt &amp; Padalka completed their fourth 30-min Shuttle RPM skill training, using the D2X digital still cameras with 400 &amp; 800mm lenses to take in-cabin target imagery using an Orbiter cutout.  Afterwards, Mike downlinked the obtained photographs for ground analysis.     [The RPM drill prepares crewmembers for the bottom-side mapping of the Orbiter at the arrival of the Shuttle (STS-127/Endeavour/2J/A) on 7/13.  During the RPM at ~600 ft from the station, the “shooters” have only ~90 seconds for taking high-resolution digital photographs of all tile areas and door seals on Endeavour, to be downlinked for launch debris assessment.  Thus, time available for the shooting will be very limited, requiring great coordination between the two headset-equipped photographers and the Shuttle pilot.]
+ 
+  DeWinne worked on the MSG (Microgravity Science Glovebox) Ethernet cable in an effort to repair the damaged RJ-45 end of the cable.
+ 
+  Padalka unstowed and set up the R&amp;S (Rohde &amp; Schwarz) FSH3 Spectrum Analyzer with cabling, then installed new FSH3 firmware on the RSE1 laptop.    [The FSH3 is part of the GTS (Global Timing System) suite of equipment from ESA/Germany.  In the past, cosmonauts have used it for checking out ATV antennas, etc.]
+ 
+  Afterwards, Gennady booted up the RSS1 laptop and performed a check of the communications between the BSMM (Multi-Channel Matching Unit) computer and the RSS1 with the RSC-Energia PingMaster application.    [BSMM is part of the OpsLAN (Operations Local Area Network), which also includes such items as the BSPN (Payload Server), OBC (Onboard Controller) for RokvISS, and GTS.]
+ 
+  Continuing the current round of the monthly preventive maintenance of RS ventilation systems, the FE-3 today worked in the SM &amp; DC1, cleaning the PkhO (Transfer Compartment) air duct and the VAP1, VAP2, VPO1-6, VPO-8, VPO-9, VN1, VN2, VSU ventilation grills as well as the V3 fan screen in the “Pirs” compartment.
+ 
+  Barratt began a four-day activity of performing the periodic flow rate adjustment of MFCVs (Manual Flow Control Valves) in the Lab.  Today, Mike set up the NIFM (Non-Intrusive Flow Meter) and prepared it for using it during the adjustments in the next three days.    [Tomorrow, the MFCV at loc. LAB1O6 (behind a rack) and at LAB1P3 will be adjusted, followed by the MFCV in the Lab forward endcone on 7/8 (requiring rack rotation and some decabling), and in the aft endcone on 7/9.    [Purpose of these valve adjustments is to optimize the ITCS (Internal Thermal Control System) flow throughout the USOS.]
+ 
+  Padalka did the daily IMS maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+  The CDR also completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+  At ~10:15am EDT, Mike, Koichi, Bob &amp; Frank joined in a 20-min teleconference with ground specialists to discuss equipment prepacking for Shuttle mission 17A.
+ 
+  Later, DeWinne began working on the cargo prepacking, going by an uplinked prepack list.
+ 
+  Frank also undertook the periodic maintenance &amp; visual inspection of the currently off-limits ARED (Advanced Resistive Exercise Device) and its VIS (Vibration Isolation System) guide rails &amp; rollers, greasing the Y- and Z-axis rails &amp; rollers and also evacuating its cylinder flywheels to maintain proper vacuum condition and sensor calibration.
+ 
+  The crew completed their regular daily 2.5-hr. physical workout program on the CEVIS cycle ergometer (FE-2, FE-4, FE-5), TVIS treadmill with vibration isolation (CDR, FE-1, FE-3), RED resistive exercise device (CDR, FE-1, FE-2, FE-4, FE-5) and VELO cycle ergometer with bungee cord load trainer (FE-3).      [The interim RED is being this week in lieu of the ARED until the latter has had its damaged VIS dashpot replaced and can be put back in service.]
+ 
+  Later, DeWinne transferred the exercise data files to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on RED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+  Koichi disconnected and took down the UOP DCP (Utility Outlet Panel/Display &amp; Control Panel) power bypass cable at the Lab RWS (Cupola Robotic Work Station) which allowed video coverage of the Soyuz relocation with the SSRMS (Space Station Remote Manipulator System) cameras.
+ 
+ FE-1, FE-2 &amp; FE-5 had their periodic PMCs (Private Medical Conferences), via S- &amp; Ku-band audio/video, Frank at ~4:15am, Koichi at ~11:00am &amp; Mike at ~3:13pm EDT.
+ 
+  A new item added to the U.S. “job jar” task list for Mike Barratt is installation of a 3.5mm lens onto the Minicam 2 in the A/L, with the camera positioned as desired.
+  
+ GIVUS Failure:   The GIVUS (Guidance Navigation &amp; Control, GN&amp;C) in the RS has failed.  GIVUS is used for rate and attitude determination.  TsUP-Moscow Motion Control System (MCS) specialists are still reviewing data but suspect that GIVUS is now hard failed.  A spare GIVUS will be brought up on Progress 34P, scheduled for launch on 7/24.  Meanwhile, the ORT backup up rate sensor has been powered up for determining station attitude, with the U.S. RGA-1 (Rate Gyro Assembly 1) used for attitude determination data as prime, and MCC-Houston has enabled the degraded RGA-2 as a backup to RGA 1.  (Note: RGA-2 has a limited life due to one of its three laser gyros being degraded.  The RGA 2 condition has been assessed and determined that it may not respond when attempted to be operated at cold condition in certain beta regimes.)
+ 
+  No CEO (Crew Earth Observation) photo targets uplinked for today due to the short workday.
+ 
+  CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov/" title="http://eol.jsc.nasa.gov/">http://eol.jsc.nasa.gov</a>  (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+ 
+ 

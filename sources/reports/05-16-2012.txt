@@ -1,0 +1,49 @@
+ISS On-Orbit Status 05/16/12<a name="_GoBack"></a>
+ 
+All ISS systems continue to function nominally, except those noted previously or below.
+ 
+<?if !supportLists?>·        <?endif?>Sleep Cycle Shift:  Due to tonight’s midnight arrival (12:38am EDT) of Soyuz 30 at the station, the ISS crew has a short workday (11h) and a long one tomorrow (14h 30m):
+<?if !supportLists?>o   <?endif?>Wake  – 2:00am (this morning)
+<?if !supportLists?>o   <?endif?>Sleep  – 1:00pm
+<?if !supportLists?>o   <?endif?>Wake  – 9:30pm
+<?if !supportLists?>o   <?endif?>Sleep  – 12:00 noon (tomorrow)
+<?if !supportLists?>o   <?endif?>Wake  –  2:00am (5/18, return to normal).
+ 
+After breakfast, CDR Kononenko performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection.
+ 
+Kuipers continued his current extended session of the ESA ENERGY experiment.  FE-6 Pettit also contributed a urine sample later in the day as Control Subject.        [Collection of a water sample from the PWD (Potable Water Dispenser) in the Lab and urine sampling (on 2<sup>nd</sup> void of the day) are continuing, as is adherence to the special ENERGY breakfast plus logging all ISS food &amp; drinks consumed during ENERGY experiment performance from lunch and dinner on Day 1 until breakfast on Day 10.  André wears an armband monitor, positioned on the right triceps where it started automatically on skin contact. The instrument must be worn for the entire 10-day ENERGY measurement period and removed only during showers or if needed during blood draws.  Activities without the armband monitor on the triceps must be carefully logged.   The monitor will be removed at the end of the 10-day period, then data will be downloaded from the device.   Background:  The observed loss of astronauts’ body mass during space flight is partly due to the systematic ongoing negative energy balance in micro-G, in addition to disuse. Unfortunately, the reason for such unbalanced match between intake and output is not clear, but appealing data suggest a relation between the degree of energy deficit and the exercise level prescribed as a countermeasure.  Purpose of the ENERGY experiment is (1) to measure changes in energy balance during long term space flight, (2) to measure adaptations in the components of the Total Energy Expenditure TEE (consumption), and (3) to derive an equation for the energy requirements of astronauts.  TEE is the sum of resting metabolic rate (RMR, measured), diet-induced thermogenesis (DIT, measured oxygen-uptake minus RMR) and activity-related energy expenditure (AEE, calculated).]
+ 
+The CDR configured the photo/video equipment, set up yesterday, for tonight’s PAO TV coverage of Soyuz/MRM2 hatch opening and the arrival of the Exp-31 crew in the SM.  The TV coverage will be conducted via OCA2 Ku-band from 3:55am–4:25am EDT and MPEG2 (Moving Pictures Expert Group 2) streaming video.       [To test the setup, the BRTK TVS system in the SM was activated by the SPP Daylight Flight Program sequencer at ~3:25am.  The setup includes the SONY HVR-Z1J high-definition camera and the NASA Streaming MPEG2 Viewer &amp; ESA MPEG2 Encoder as source.  Afterwards, the camera was disconnected, and a second unit, SONY HVR-Z1E HDV, installed in MRM2 Poisk.]
+ 
+Kuipers &amp; Pettit spent some time on reviewing results of their recent Robotics Capture Volume checkout of the MBS (Mobile Base System) Mast camera for the SpX Dragon capture.        [The camera exhibited larger than expected errors during the Capture Volume checkout, while the P1LOOB (Port 1 Lower Outboard) and S1LOOB (Starboard 1 Lower Outboard) cameras, nominally to be used for the capture, were “within family” and support the Capture Volume assessment.]
+ 
+André &amp; Don had another 2h15m set aside for ATV-3 (Automated Transfer Vehicle 3) cargo operations (unloading &amp; unpacking into stowage) and bag cleaning, i.e., stowing discarded bags and foam packing material in “Edoardo Amaldi”, including a tagup with the ground at ~9:30am EDT for a status report.
+ 
+The CDR &amp; FE-6 each worked an important task in preparation for the Exp-31 crew arrival – 
+gathering physical exercise equipment for them that they could not well get on their own at this point in time.       [Pettit had to rotate a PMM (Permanent Multipurpose Module) rack which necessitated moving all the stuff on two rack fronts.  He also gathered the USOS-supplied stuff for Sergei Revin and Gennady Padalka.]
+ 
+In preparation for the rendezvous &amp; docking, Don closed the protective shutters of the Lab, Node-3/Cupola and JPM (JEM Pressurized Module) windows to prevent their contamination from thruster effluents, while André powered down the amateur/ham radio stations in SM and COL (Columbus Orbital Laboratory) to prevent RF interference with the spacecraft and its KURS system.
+ 
+Also preparatory for the Soyuz arrival and its delivery of critical Russian BTKh biotech experiments, Kononenko activated &amp; adjusted the TBU (Universal Bioengineering Thermostat) temperature-controlled incubator in DC-1 (panel 403) at +37 degC and the KRIOGEM-03 container in SM (panel 234) at +4 degC.
+ 
+Oleg also completed his 10<sup>th</sup> data collection session for the psychological MBI-16 Vzaimodejstvie (“Interactions”) program, accessing and completing the computerized study questionnaire on the RSE-Med laptop and saving the data in an encrypted file.       [The software has a “mood” questionnaire, a “group &amp; work environment” questionnaire, and a “critical incidents” log.  Results from the study, which is also mirrored by ground control subjects, could help to improve the ability of future crewmembers to interact safely and effectively with each other and with Mission Control, to have a more positive experience in space during multi-cultural, long-duration missions, and to successfully accomplish mission activities.]
+ 
+Working today from the discretionary “time permitting” Russian task list, the CDR completed the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+Also from the “job jar”, Kononenko took care of the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.      [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+At ~8:25am EDT, FE-6 Pettit had his regular weekly PMC (Private Medical Conference), via S- &amp; Ku-band audio/video.
+ 
+Don had another time slot reserved for making entries in his electronic Journal on the personal SSC (Station Support Computer).     [Required are three journaling sessions per week.]
+ 
+The crew worked out with an abbreviated physical exercise protocol (due to the shortened workday) on the CEVIS cycle ergometer with vibration isolation (FE-6),  TVIS treadmill with vibration isolation &amp; stabilization (CDR) and T2/COLBERT advanced treadmill (FE-5).       [FE-6 is on the special experimental SPRINT protocol which diverts from the regular 2.5 hrs per day exercise regime and introduces special daily sessions, followed by a USND (Ultrasound) leg muscle self scan in COL.  No exercise is being timelined for Fridays.  If any day is not completed, Don picks up where he left off, i.e., he would be finishing out the week with his last day of exercise on his off day.  Today’s exercise called for CEVIS (aerobic), with ARED+T2 (anaerobic+aerobic) following tomorrow.  If any day is not completed, Don picks up where he left off, i.e., he would be finishing out the week with his last day of exercise on his off day.] 
+ 
+Tasks listed for Kononenko on the Russian discretionary “time permitting” job for today were –
+<?if !supportLists?>·        <?endif?>A ~30-min. session for Russia's EKON Environmental Safety Agency, making observations and taking KPT-3 aerial photography of environmental conditions on Earth using the NIKON D3X camera with the RSK-1 laptop, and
+<?if !supportLists?>·        <?endif?>More preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb).
+ 
+CEO (Crew Earth Observation) target uplinked for today was Valletta, Malta (CAPITAL CITIES COLLECTION.  For capital cities that cover a small area CEO researchers also request 400 mm images.  Looking near nadir for the twin islands of Malta and Gozo, on the SE coast of the larger island.  The crew recently imaged Valletta with 180 mm lenses.  Their accompanying IR image, taken 8 secs earlier, showed the rural-urban fringe, where urbanization pressures are usually greatest).
+ 
+Conjunction Advisory:   Flight Controllers are tracking a conjunction with Object 00831 (ELEKTRON 3 Debris) with TCA (Time of Closest Approach) at 5/18, 3:52am EDT.      [This TCA occurs ~27 hrs after the 30S docking.  Any perturbations from the attitude maneuvers surrounding docking could have an impact on the conjunction miss distances.  The past several attitude maneuvers to/from the planned ISS attitude at docking have resulted in between -20 and +50m change in altitude.  If the orbit perturbations fall in line with the last several observed, then the impact of this orbit perturbation in regards to this conjunction would be low.  If required, the Go/NoGo decision for a DAM (Debris Avoidance Maneuver) would be on 5/17 at 4:22am, for a DAM on 5/18 at 1:34am EDT.]
+ 
+

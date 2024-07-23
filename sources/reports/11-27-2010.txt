@@ -1,0 +1,28 @@
+ISS On-Orbit Status 11/27/10
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.    Saturday --- Crew rest day.
+ 
+ <ul style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 36pt; "> <li>Crew wake/sleep cycle is back to normal:  Wake – 1:00am, Sleep – 4:30pm EST.</li></ul> 
+ At day’s begin, FE-2 Skripochka conducted the regular daily early-morning check of the aerosol filters at the Russian Elektron O<sub>2</sub> generator which Maxim Suraev had installed on 10/19/09 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V).     [Oleg will again inspect the filters before bedtime tonight, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+ 
+ CDR Kelly continued his current week-long activity with the post-wakeup experiment SLEEP (Sleep-Wake Actigraphy &amp; Light Exposure during Spaceflight), Scott’s 3<sup>rd</sup>, transferring data from their Actiwatches to the HRF-1 (Human Research Facility 1) laptop.     [To monitor their sleep/wake patterns and light exposure during a SLEEP session, US crewmembers wear a special Actiwatch device which measures the light levels encountered by him/her as well as their patterns of sleep and activity throughout the Expedition, using the payload software for data logging and filling in questionnaire entries in the experiment’s laptop session file on the HRF-1 laptop.  The log entries are done within 15 minutes of final awakening for seven consecutive days.]
+ 
+ Kelly, Skripochka &amp; Kaleri completed the regular weekly three-hour task of thorough cleaning of their home, including COL (Columbus Orbital Laboratory) and Kibo JPM (JEM Pressurized Module).     ["Uborka", usually done on Saturdays, includes removal of food waste products, cleaning of compartments with vacuum cleaner, damp cleaning of the SM (Service Module) dining table, other frequently touched surfaces and surfaces where trash is collected, as well as the sleep stations with a standard cleaning solution; also, fan screens and grilles are cleaned to avoid temperature rises. Special cleaning is also done every 90 days on the HEPA (high-efficiency particulate air) bacteria filters in the Lab.]
+ 
+ As part of the uborka house cleaning, Alex &amp; Oleg conducted regular maintenance inspection &amp; cleaning of fan screens in the FGB (TsV2) plus the BMP Harmful Contaminants Removal System grille and Group E fan grilles (VPkhO, FS5, FS6, VP) in the SM (Service Module).
+ 
+ At ~8:35am EST, the crew conducted their regular WPC (Weekly Planning Conference) with the ground, discussing next week's "Look-Ahead Plan" (prepared jointly by MCC-H and TsUP-Moscow timeline planners), via S-band/audio, reviewing upcoming activities and any concerns about future on-orbit events.
+ 
+ In the new Soyuz TMA-01M/24S (#701) spacecraft, docked at the MRM2 “Poisk” at FGB nadir, Alex deactivated the GA gas analyzer in the SA/Descent Module which he had activated on 10/22 for a periodic atmosphere checkup.
+ 
+ Oleg meanwhile performed routine maintenance on the SM SRVK-2M system by replacing its BKO multifiltration unit with a spare, discarding the old unit and updating the IMS (Inventory Management System).  (Last time done: 9/15).      [BKO contains five purification columns to rid the condensate of dissolved mineral and organic impurities.  It has a service lifetime of ~450 liters throughput.  The water needs to be purified for proper electrolysis in the Elektron O<sub>2</sub> generator.] 
+ 
+ Kelly configured the WHC (Waste &amp; Hygiene Compartment) for using the internal EDV-U container, and reported the flush counter.
+ 
+ Afterwards, Scott completed the regular bi-monthly reboots of the OCA Router &amp; FS SSC (File Server Station Support Computer) laptops (the latter required to mitigate the problem of iPV and OSTPV not opening up procedures due to a memory leak in the “Tomcat” software).  After a period of no less than 10 min later, the CDR also rebooted the two ISS network servers (SERVER1 &amp; 2).
+ 
+ The crew worked out on today’s 2-hr physical exercise protocol on the TVIS treadmill with vibration isolation &amp; stabilization (FE-1, FE-2), ARED advanced resistive exercise device (CDR, FE-2), T2/COLBERT advanced treadmill (CDR), and VELO bike with bungee cord load trainer (FE-1).      [T2 snubber arm inspection is no longer needed after every T2 session but must be done after the last T2 session of the day.]
+ 
+ Correction:  Flight Engineer Fyodor Yurchikhin returned to Star City on a Tupolev Tu-134 plane, now being used by the GCTC (Gagarin Cosmonaut Training Center) instead of the TU-154 used earlier and reported here yesterday erroneously. 
+ 
+ 

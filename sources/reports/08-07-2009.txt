@@ -1,0 +1,56 @@
+ISS On-Orbit Status 08/07/09
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.
+ 
+  This morning, with FE-2 Kopra, FE-4 Thirsk &amp; FE-5 DeWinne operating the SSRMS (Space Station Remote Manipulator System) and the CBCS (Centerline Berthing Camera System) at the Node-1 port hatch plus monitoring CBM (Common Berthing Mechanism) status, PMA-3 (Pressurized Mating Adapter 3) was successfully relocated from Node-1 nadir to Node-1 port.  Russian thrusters were disabled for the relocation from 4:30am-10:30am EDT.   [This relocation is required to allow reconfigurations on the side of the Node-1 port bulkhead by the crew in a pressurized environment where PMA-3 is now located.  Once these reconfigurations are completed PMA-3 will be relocated back to Node-1 nadir, after which Node-3 will be brought up and berthed to Node-1 port on mission STS-130/20A.]
+ 
+  Later, Tim Kopra removed the CBCS from its Node-1 position for stowage.
+ 
+  After setting up the pumping equipment (Compressor #41 with power cable &amp; hoses), FE-3 Romanenko transferred urine from six EDV-U containers to the Rodnik BV2 tank of Progress 34P.   [Each of the spherical Rodnik tanks BV1 &amp; BV2 consists of a hard shell with a soft membrane (bladder) composed of elastic fluoroplastic.  The bladder is used to expel water from the tank by compressed air pumped into the tank volume surrounding the membrane and is leak-tested before urine transfers.  With empty tanks, the bladders are expanded against the tank walls which requires double compressor restart.]
+ 
+  In the Soyuz TMA-15(225)/19S spacecraft, Romanenko performed activities checking out the “Neptune” control panel by searching in the InPU1 display log files for data on issued commands during the 19S flight.  These data are needed to study issues with “Neptune” control panel operations. 
+ 
+  For Padalka &amp; Romanenko, it was time again for recharging the Motorola Iridium-9505A satellite phones located in Soyuz TMA-14/18S &amp; TMA-15/19S, a monthly routine job and Gennady’s fifth, Roman’s first time.      [After retrieving them from their location in the spacecraft Descent Modules (BO), Gennady &amp; Roman initiated the recharge of the lithium-ion batteries, monitoring the process every 10-15 minutes as it took place.  Upon completion at ~9:00am EDT, the phones were returned inside their SSSP Iridium kits and stowed back in the BO’s operational data files (ODF) container.  The satphone accompanies returning ISS crews on Soyuz reentry &amp; landing for contingency communications with SAR (Search-and-Rescue) personnel after touchdown (e.g., after an “undershoot” ballistic reentry, as happened during the 15S return).  The Russian-developed procedure for the monthly recharging has been approved jointly by safety officials.  During the procedure, the phone is left in its fire-protective fluoroplastic bag with open flap.  The Iridium 9505A satphone uses the Iridium constellation of low-Earth orbit satellites to relay the landed Soyuz capsule's GPS (Global Positioning System) coordinates to helicopter-borne recovery crews.  The older Iridium-9505 phones were first put onboard Soyuz in August 2003.  The newer 9505A phone, currently in use, delivers 30 hours of standby time and three hours of talk, up from 20 and two hours, respectively, on the older units.]
+ 
+  After turning on the Russian RS2 laptop, the CDR loaded new Version 8.03 software images of the TsVM Central &amp; TVM Terminal Computer Systems from flash card via the RS2 laptop onto the KTsP2 Central Post Computer 2 (CPC-2), as was done for CPC-1 yesterday.  Afterwards, RS2 was turned off again.
+ 
+  FE-1 Barratt removed the IRED (Interim Resistive Exercise Device) from Node-2 and stowed it in the JLP (JEM Logistics Pressurized Segment).  Prior to stowing the unit Mike removed the preload and stretch from the Flexpacks in preparation for long-term stowage.    [With the ARED (Advanced RED) back in nominal operation, IRED is no longer required at this time.]
+ 
+  In the US A/L (Airlock), Barratt had ~90min to stow final US EVA tools &amp; gear used during the 2J/A spacewalks and to audit adjustable tethers presently on-board to verify serial numbers.
+ 
+  Also in the A/L, Kopra terminated the regeneration process on two METOX (Metal Oxide) CO<sub>2</sub> absorption canisters (#0016 &amp; #0021) from the last EVAs and initiated it on two other used canisters (#0005 &amp; 0022) in the “bakeout” oven.
+ 
+  The FE-2 also performed the periodic inspection and cleaning of the PWD (Potable Water Dispenser) in the US Lab.
+ 
+  The FE-3 serviced the RS (Russian Segment) radiation payload suite “Matryoshka-R” (RBO-3-2), verifying proper function of the setup with the LULIN-5 electronics box.    [A total of eight Bubble dosimeter detectors (A01-A08) are positioned at their exposure locations, three in the spherical “Phantom” unit on the DC1 panel and five in the SM (two in starboard crew cabin on both sides of the MOSFET (metal oxide semiconductor field-effect transistor) dosimeter detector unit, two under the work table, and one at panel 410).  The deployment locations of the detectors were photo-documented with the NIKON D2X camera and also reported to TsUP via log sheet via OCA.  The complex Matryoshka payload suite is designed for sophisticated radiation studies.  Note: Matryoshka is the name for the traditional Russian set of nested dolls.]
+ 
+  Romanenko again spent ~45 min on cargo transfers from the Progress 34P to the ISS, logging moves in the IMS (Inventory Management System).
+ 
+  Starting a new round of the monthly preventive maintenance of RS (Russian Segment) ventilation systems, CDR Padalka today had the FGB (Funktsionalnyi-Grusovoi Blok) on his schedule, to clean the grilles of interior panels (201, 301, 401).
+ 
+  FE-2 Kopra set up the hardware for his second session with the NASA/JSC experiment NUTRITION w/Repository for his blood draw and urine collection, starting tomorrow.
+ 
+  Mike Barratt, Tim Kopra and Bob Thirsk filled out their regular weekly FFQ (Food Frequency Questionnaire) on the MEC (Medical Equipment Computer).    [On the FFQs, NASA astronauts keep a personalized log of their nutritional intake over time on special MEC software.  Recorded are the amounts consumed during the past week of such food items as beverages, cereals, grains, eggs, breads, snacks, sweets, fruit, beans, soup, vegetables, dairy, fish, meat, chicken, sauces &amp; spreads, and vitamins.  The FFQ is performed once a week to estimate nutrient intake from the previous week and to give recommendations to ground specialists that help maintain optimal crew health.  Weekly estimation has been verified to be reliable enough that nutrients do not need to be tracked daily.]
+ 
+  The FE-3 did the daily IMS maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+  Padalka completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+  At ~3:55am EDT, the crew held the regular (nominally weekly) tagup with the Russian Flight Control Team (GOGU), including Shift Flight Director (SRP), at TsUP via S-band/audio, phone-patched from Houston and Moscow.
+ 
+  At ~4:10am, Padalka, Barratt, Wakata, Thirsk &amp; DeWinne joined in a tagup with the ESA staff at Col-CC (Columbus Control Center) at Oberpfaffenhofen/Germany.   [This conference is scheduled once every week, between ISS crewmembers and Col-CC via S/G2 (Space-to-Ground 2) audio.]
+ 
+  At ~4:30am, Gennady linked up with TsUP/Moscow stowage specialists via S-band to conduct the weekly IMS tagup, discussing inventory &amp; stowage issues, equipment locations and cargo transfers.
+ 
+  At ~10:15am, all crewmembers convened for their standard bi-weekly teleconference with the JSC Astronaut Office (Steve Lindsey), via S-band S/G-2 audio &amp; phone patch.
+ 
+  At ~3:10pm, the ISS crew held their regular weekly tagup with the Lead Flight Director at JSC/MCC-H via S-band/audio.    [S/G-2 (Space-to-Ground 2) phone patch via SSC (Station Support Computer).]
+ 
+  The crew completed their regular daily 2.5-hr. physical workout program on the CEVIS cycle ergometer (FE-1, FE-4, FE-5), TVIS treadmill with vibration isolation (CDR, FE-2, FE-3), ARED (FE-1, FE-2, FE-4, FE-5), and VELO cycle ergometer with bungee cord load trainer (CDR, FE-3). 
+  
+  Later, Mike transferred the exercise data files to the MEC for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+ SKV1 Issue &amp; Khladon-218 Spillage:    Yesterday’s IFM (Inflight Maintenance) on the Russian SKV1 air conditioner failed.  After installing the new BTA heat exchanger, the crew at first reported that one of the Khladon-218 (Freon) line connectors between the BTA and the compressor was leaking (Khladon pipeline 2).  After lengthy troubleshooting of this connector involving demating, remating, and tightening, TsUP-Moscow had the crew remove &amp; replace the metal gasket in the line 2 connector.  This proved unsuccessful as well, and the Khladon pipeline 2 adapter was swapped with the Khladon pipeline 1 adapter.  Once the swap was completed, the crew reported that both connectors were in fact leaking.  According to TsUP specialists, approximately 5 grams of Khladon were released into the cabin.  SKV1 is still not functional, whereas SKV2 is performing nominally. 
+ 
+ 
+

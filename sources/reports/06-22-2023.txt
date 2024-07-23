@@ -1,0 +1,29 @@
+
+RS Extravehicular Activity (EVA) #59: Today, ISS CDR Sergey Prokopyev (EV1) and FE-2 Dmitry Petelin (EV2) performed RS EVA #59 with Andrey Fedyaev supporting as the Intravehicular (IV) operator. The trio performed a multitude of tasks in order to perform various external payload and system configuration updates, as well as take photos. The MRM2 hatch opened at 9:25 AM CDT and the following tasks were completed:
+
+Take photos of RS exterior at SM ФП20, SM ФП3, and SM ФП12 for MVN space experiment
+Remove and jettison the Seismoprognoz science equipment on the SM large-diameter [PO] working compartment
+Remove and jettison the high-speed data transmission system [СВПИ] monoblock
+Remove and jettison the [TM/TC] monoblock
+Install the data transmission radio [РСПИ-М] equipment
+Retrieve tray #2 of the Impact space experiment from SM aft
+Retrieve the removable cassette container [CKK] from SM aft
+Take photos of internal areas of SM thruster plume deflectors along EV crew translation path
+Take photos of SM [AO] aft
+Take photos of the antenna boom interface [OHA]
+Take photos of RS exterior at SM ФП20, SM ФП3, and SM ФП12 for MVN space experiment
+Remove container #1 of the Biorisk-MSN experiment
+Cleaning of external surface of SM window pane #2 (get-ahead)
+
+The Total Phased Elapsed Time (PET) of this EVA was 6 hours and 24 minutes.
+Payloads:
+ISS Ham Radio: An ISS Ham pass was initiated with Mohammad Bin Rashid Space Centre, Dubai, UAE. Since the earliest space station expeditions, ISS Ham Radio has allowed groups of students in schools, camps, museums, and planetariums to hold a conversation with the people living in space. As the ISS passes overhead, students have about nine minutes to ask crew members 10 to 20 questions.
+Life Support Rack (LSR): The Ice Collection Unit was deployed and installed at the LSR vent line as part of ice blockage troubleshooting activities. LSR is a Technology Demonstrator for Closed Loop Air Revitalization. LSR captures carbon dioxide from cabin air and recovers 50% of its oxygen for use by the astronauts. LSR operates for a minimum of one year on the ISS to demonstrate the robustness of the technology for future Exploration Missions.
+Monoclonal Antibodies Protein Crystal Growth-2 (PCG-2): Monoclonal Antibodies microscope photo operations were performed on PCG cards S/N 001 and S/N 002. Monoclonal Antibodies PCG-2 examines the crystallization process for various bio-therapeutics, including monoclonal antibodies, in microgravity. Crystallization could significantly reduce production costs and enable formulations of bio-therapeutics that do not need cold storage and can be administered more easily, such as by injection rather than intravenous administration.
+RadMap Telescope: The RadMap Telescope hardware was relocated from Node-3 to the JEM as part of its location tour of the ISS. Understanding and overcoming the human risks from space radiation is one of the major challenges facing future space exploration. The Validating New Radiation-Sensing Technologies (RadMap Telescope) demonstrates new radiation-sensing technologies for applications in autonomous and crewed spacecraft. These technologies, which have just become sufficiently mature for large-scale applications, enable compact yet highly capable radiation monitors so future spacecraft can benefit from increased measurement capabilities with fewer sensors.
+Systems:
+Environmental Health System (EHS) Microbial Capture Device (MCD) and Coliform Water Sample Analysis: Today, the crew completed post-processing analysis of the coliform detection bags and MCDs. The water samples were acquired on GMT 171 and allowed to incubate to check for the presence of Coliform bacteria. Following the incubation period, the crew visually analyzed the coliform detection bags and MCDs and recorded the results. Visual confirmation must be performed within 40-48 hours of the initial sample collection.
+EHS Compound Specific Analyzer – Combustion Products (CSA-CP) Probe Inspection: The crew performed visual and functional inspections of the CSA-CP Probes on ISS, and zero calibrated each monitor. CSA-CPs are used during off-nominal and contingency scenarios to measure Carbon Monoxide (CO), Hydrogen Cyanide (HCN), Hydrogen Chloride (HCI), and Oxygen (O2) using electrochemical sensors.
+Extravehicular Mobility Unit (EMU) Short Extravehicular Mobility Unit (SEMU) Launch Enclosure (SLE) Return Preparation: In preparation for return on SpX-28, the crew configured the SLE for return. The SLE was removed from its foam case in the PMM, disassembled, transferred into the SpX-28 vehicle, and placed into a stowage configuration. The SLE will be returned with the intention of utilizing it for future launching of SEMUs.
+In Flight Maintenance (IFM) Waste and Hygiene Compartment (WHC) Urine Receptacle (UR) and Insert Filter (IF) Remove and Replace (R&R): As part of routine maintenance, the crew performed an R&R of the WHC UR and IF. After the R&R, the crew cleaned the power supply, reactivated WHC, and performed a functionality test to verify the WHC was operational following the maintenance activities.
+IFM Node 3 Moisture Filters R&R: The crew performed an R&R of Node 3 Intermodule Ventilation (IMV) Inlet Moisture Filters and IMV Screens. The IMV system consists primarily of a number of valves, fans, and air ducts which circulate air between modules to air revitalization equipment. This allows excessive moisture, heat, particulates, metabolic products, and contaminants to be removed from the atmosphere so smoke detection can be performed, and a homogenous conditioned atmospheric composition is maintained throughout ISS.

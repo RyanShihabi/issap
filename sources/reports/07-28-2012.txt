@@ -1,0 +1,37 @@
+ISS On-Orbit Status 07/28/12
+ 
+All ISS systems continue to function nominally, except those noted previously or below.     
+ 
+For today and tomorrow, the crew has again been split in two shifts, in order to provide support to the Progress M-15M/47P redocking activity:  
+ 
+Crew 1 (Padalka, Revin, Malenchenko):
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake1 –  2:00am EDT (this morning)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Sleep1 –  11:15am (today) </li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake2 –  4:15pm (today)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Sleep2 – 10:30pm (today)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake3 – 7:30am (tomorrow)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Sleep3 – 8:40pm (tomorrow)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake4 – 2:00am (Monday) – returning to nominal.</li></ul> 
+Crew 2 (Acaba, Williams, Hoshide):
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake1 –  2:00am EDT (this morning)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Sleep1 –  5:30pm (today) </li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake2 –  7:45pm (today)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Observe 47P Re-dock – 7:45pm-9:15pm (today)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Sleep2 – 9:15pm (today)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake3 – 3:30am (tomorrow)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Sleep3 – 5:30pm (tomorrow)</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">Wake4 – 2:00am (Monday) – returning to nominal.</li></ul> 
+At wakeup, Gennady Padalka performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection.  FE-2 also conducted the weekly checkup behind ASU/toilet panel 139 in the SM of a fluid connector (MNR-NS) of the SM-U urine collection system, looking for potential moisture.
+ 
+In preparation for the re-docking of Progress M-15M/47P (#415) at the DC1 port after more ground-controlled tests of its new Kurs-NA antenna (tonight at ~9:00pm EDT), Malenchenko &amp; Padalka worked through the standard 3h15m OBT (Onboard Training) drill for the TORU teleoperator system, which provides a manual backup mode to the Progress’ KURS automated rendezvous radar system.    [TORU will not be used any earlier than 400m from the ISS.]  
+ 
+After the successful capture &amp; berthing of JAXA’s HTV3 (H-IIB Transfer Vehicle 2) “Kounotori 3“ (Stork 3) yesterday at 8:23am EDT, the HTV3 was successfully transitioned from internal batteries to ISS power to prevent further drain on its non-rechargeable batteries.  
+ 
+FE-6 Hoshide &amp; FE-5 Williams performed the vestibule outfitting, including removal of the CDC (Center Disk Cover), mating of a power jumper and a MIL-STD-1553 data jumper from Node-2 to HTV, etc.  
+ 
+HTV3 hatch was opened today at ~4:05am.  Suni Williams, Aki Hoshide &amp; Joe Acaba ingressed the HTV at ~4:15am.  FE-2 Revin sampled the air in the HTV using a Russian AK-1M absorber.    [The crew used gray tape to secure the Node-2 nadir/HTV Radial Port Closeout in place to avoid interference with the HTV hatch alignment guides.]
+ 
+FE-6 Hoshide started another sampling run with the AQM (Air Quality Monitor), deactivating the system ~5 hrs later.       [Consisting of the EHS GC/DMS (Environmental Health Systems Gas Chromatograph / Differential Mobility Spectrometer), the system is controlled with “Sionex” expert software from the SSC (Station Support Computer)-12 laptop.  The AQM demonstrates COTS (Commercial Off-the-Shelf) technology for identifying volatile organic compounds, similar to the VOA (Volatile Organics Analyzer).  This evaluation will continue over the course of several months as it helps to eventually certify the GC/DMS as nominal CHeCS (Crew Health Care Systems) hardware.]
+ 
+During his first work period (2:00am-11:15am), Sergei Revin completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.     [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+During their workhours (2:00am-5:30pm), FE-5 Williams deactivated the amateur/ham radio stations in the SM and COL (Columbus Orbital Laboratory) to prevent RF interference during Progress re-docking, and FE-6 Hoshide closed the shutters of the Lab, Node-3/Cupola and JPM (JEM Pressurized Module) windows as protection against thruster effluent contamination.
+ 
+Joe, Suni &amp; Aki began with the transfer of cargo items delivered on HTV3.    [Between the three of them, they spent ~12 hrs above the scheduled time today on HTV Cargo Ops.]
+ 
+With Joe taking documentary photography, Suni unstowed the critical new YTSL (YouTube SpaceLab) payload with its live occupants from HTV3 and installed its Spider Habitats 1 &amp; 2, with running commentary.      [Both spider habitats were installed in CGBA-4 (Commercial Generic Bioprocessing Apparatus 4), followed by feeding of the spiders, with video &amp; still photographs being taken.  Recorded HD video is required during entire activity, to be downlinked when resources are available.]
+ 
+Williams &amp; Hoshide had their weekly PFCs (Private Family Conferences) scheduled, via S-and/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop), Aki at ~11:25am, Suni at ~3:55pm EDT.
+ 
+The crew worked out on the CEVIS cycle ergometer with vibration isolation (FE-3), TVIS treadmill with vibration isolation &amp; stabilization (CDR), ARED advanced resistive exerciser (FE-2, FE-3, FE-5, FE-6), T2/COLBERT advanced treadmill (FE-5, FE-6), and VELO ergometer bike with load trainer (FE-4). 
+ 
+Progress 47P Redocking:   All activities are on schedule for the 47P redocking for 9:00 pm EDT tonight.  The Russian crewmembers are standing by for taking over with TORU if necessary.  Joe, Suni &amp; Aki are also awake to observe the automated docking.  Kurs activation was at 7:00 pm EDT.  At ~7:54 EDT, there is an important check of the Kurs system at ~45 km out.      [Main cause for the Kurs anomalies during the first re-docking attempt was the thermal environment impact on the Kurs-NA system.  If the Kurs-NA equipment is warm enough then it behaves nominally.  This was verified by ground testing.  The Russians also successfully activated Kurs-NA on orbit the other day after letting the equipment warm up first.  Other than temperature, the configuration of the Kurs-NA equipment for re-docking will be exactly the same as the first attempt.]
+ 
+

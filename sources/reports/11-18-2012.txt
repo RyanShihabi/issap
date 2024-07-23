@@ -1,0 +1,52 @@
+ISS On-Orbit Status 11/18/12
+ 
+All ISS systems continue to function nominally, except those noted previously or below.     Sunday – Undocking Day.  Last day of Increment 33.  Ahead: Week 1 of Increment 34 (three-person crew).
+ 
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l5 level1 lfo1;text-autospace:none">Sleep Cycle Shift:  Due to tonight’s late Soyuz TMA-05M/31S undocking at 5:26pm EST, the ISS crew has a sleep cycle shift, with wakeup &amp; sleeptime delayed by 5 hrs, to be adjusted back to regular tomorrow:</li><ul style="margin-top:0in" type="circle"><li class="MsoNormal" style="mso-list:l5 level2 lfo1;text-autospace:none">Wake  – 6:00am EST (this morning)</li><li class="MsoNormal" style="mso-list:l5 level2 lfo1;text-autospace:none">Sleep  – 9:30pm (tonight)</li><li class="MsoNormal" style="mso-list:l5 level2 lfo1;text-autospace:none">Wake  – 7:00am (11/19, tomorrow for a short day)</li><li class="MsoNormal" style="mso-list:l5 level2 lfo1;text-autospace:none">Sleep – 4:30pm (tomorrow, normal).</li></ul></ul> 
+At wakeup, FE-1 Novitskiy performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection.  Oleg also completed the daily reboot of the Russian RS1 &amp; RS2 laptops,
+ 
+FE-2 Tarelkin rebooted the RSS1 &amp; RSS2 laptops.
+ 
+After wakeup, CDR Ford closed the protective shutters of the Lab, Node-3/Cupola &amp; JPM (JEM Pressurized Module) shutters and later also turned off the onboard amateur/ham radio equipment to prevent RF interference with the departing Soyuz spacecraft.
+ 
+Kevin then retrieved two Japanese/Russian Fish Fixation Apparatus units with samples of the MOST AQH (Medaka Osteoclast Aquatic Habitat) experiment from MELFI-3 (Minus Eighty Laboratory Freezer for ISS 3), packed them in two small sample bags and handed them over to Evgeny Tarelkin for ambient stowage in Soyuz 31S SA (Descent Capsule), photo/video documented by Oleg Novitskiy.
+ 
+Other payloads transferred by Oleg &amp; Evgeny from the ISS RS (Russian Segment) to the 31S SA were –
+<?if !supportLists?>·        <?endif?>BTKh-40 BIF (<em>Bifid bacterium)</em> from the TBU cooler (+37 degC);
+<?if !supportLists?>·        <?endif?>BTKh-14 BIOEMULSIYA;
+<?if !supportLists?>·        <?endif?>BTKh-10 KONYUGACIYA with its Rekomb-K container; and
+<?if !supportLists?>·        <?endif?>BTKh-26 KASKAD from the Kriogem-03M incubator to the KT bioreactor for mixing and subsequent loading on 31S
+ 
+FE-5 Sunita Williams meanwhile retrieved and packed an ESA ECCO Mini Thermal Container with small cartridges (at -19 degC) and biological samples from MELFI for frozen return, then transferred the ECCO to the RS for handover to Evgeny Tarelkin for stowage on the 31S SA/Descent Module.
+ 
+Suni &amp; Aki conducted their pre-descent PMCs (Private Medical Conferences), via S- &amp; Ku-band audio/video, Suni at ~9:10am, Aki at ~9:25am EST.
+ 
+Soyuz 31S Commander Yuri Malenchenko had another 3 hrs to wrap up cargo packing &amp; stowing on the Soyuz spacecraft (return goods on the SA, disposal/trash on the BO/Orbital Module).
+ 
+Afterwards, at ~11:25am, Yuri downlinked the standard “Loading Complete” report, then took documentary photo/video of the SA hatch cover and downlinked the files for ground inspection.
+ 
+Preparations for the undocking picked up momentum at ~12:40pm with Malenchenko &amp; Novitskiy performing a communications check from the 31S spacecraft to RGS (Russian Groundsite) via VHF (Very High Frequency) and activation of the Soyuz spacecraft by Yuri &amp; Sunita at ~12:50pm, including removal of the SSD301 light fixtures in the BO Orbital Module for stowage in the FGB as spares.
+ 
+Russian thrusters are disabled from 1:40pm-3:30pm due to load constraints for hatch closure and the removal, by Yuri &amp; Oleg, of the QD (quick disconnect) screw clamps (BZV) of the docking &amp; internal transfer mechanism (SSVP) which rigidized the joint at the MRM1 Rassvet nadir port.
+ 
+After Crew Farewell, Yuri, Suni &amp; Aki will enter the Soyuz at ~2:15pm, covered by live PAO TV.
+ 
+Next, with the Soyuz spacecraft’s gas analyzer (GA) running, Malenchenko (inside) and Novitskiy &amp; Tarelkin (outside) close MRM1 &amp; Soyuz hatches. The departing Soyuz crew then starts the standard one-hour leak check on the Soyuz-to-Rassvet vestibule (2:30pm-3:30pm).
+ 
+After attitude control authority handover to the RS MCS (Motion Control System) at ~4:20pm, the ISS maneuvers to undock attitude. The returning crew then performs Sokol suit leak checks and depressurizes the BO Orbital Module by 150 mmHg for leak checking the SA-BO hatch.  Next, they will don their Kentavr G-suits, biomed belts and Sokol space suits.  
+ 
+ISS goes into Free Drift at 5:22pm-5:27pm for MRM1 hooks opening, separation command at ~5:23pm and Soyuz undocking at ~5:26pm.  Attitude control returns to US Momentum Management with CMGs (Control Moment Gyros) at ~5:30pm EST.
+ 
+With the undocking of Soyuz 31S, Increment 33 ends and Inc-34 begins.
+ 
+Activities scheduled for FE-1 Novitskiy &amp; FE-2 Tarelkin immediately after undocking are –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l2 level1 lfo2">Monitoring 31S departure and shooting photography of the Soyuz Docking Assembly from SM window #7 after separation, for ground inspection for cleanliness (i.e., no seal debris),</li><li class="MsoNormal" style="mso-list:l2 level1 lfo2">Manually closing the KVD/PEV (Pressure Equalization Valve) between the MRM1 Rassvet module and its nadir docking port vestibule,</li><li class="MsoNormal" style="mso-list:l2 level1 lfo2">Downlinking the videos taken by Oleg of the Soyuz/MRM1 hatch interface prior to hatch closure and of the hatch closing,</li><li class="MsoNormal" style="mso-list:l2 level1 lfo2">Readying, activating/monitoring and later closing out the Russian “Istochnik-M” (source, spring) telemetry reception &amp; recording (SPR TMI) system in the SM during the Soyuz re-entry for the trimodule separation at 8:26p;   [Istochnik-M enables the ISS to receive data telemetered from Soyuz spacecraft during return to Earth and record it on the SPR telemetry system.  The equipment, including the Istochnik TM station, power amplifiers, power supply, USB software sticks and cables, captures the telemetry through the “Sputnik” amateur (ham) radio antenna and transfers it to a laptop display where the crew is able to immediately tell if a good separation of the three Soyuz modules occurred during Soyuz descent operations],  and</li><li class="MsoNormal" style="mso-list:l2 level1 lfo2">Returning the STTS comm system to its post-undocking configuration.</li></ul> 
+The crew works out on the CEVIS cycle ergometer with vibration isolation &amp; stabilization (CDR, FE-5, FE-6), TVIS treadmill with vibration isolation &amp; stabilization (FE-1, FE-2), ARED advanced resistive exercise device (CDR, FE-6), and VELO ergometer bike with load trainer (FE-2). 
+ 
+After completing their final CEVIS and TVIS sessions, Suni, Aki &amp; Yuri will stow their exercise equipment. 
+ 
+Tasks listed for FE-4 Malenchenko on the Russian discretionary “time permitting” job for today were –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l1 level1 lfo3">More preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb),</li><li class="MsoNormal" style="mso-list:l1 level1 lfo3">A ~30-min. run of the GFI-8 "Uragan" (hurricane) earth-imaging program with the NIKON D3X digital camera with Sigma AF 300-800mm telelens and PI emission platform using the SKPF-U  to record target sites on the Earth surface,</li><li class="MsoNormal" style="mso-list:l1 level1 lfo3">A 10-min. photography session for the DZZ-13 “Seiner” ocean observation program, obtaining SKPF-U (Photo Image Coordinate Reference System) HDV (Z1) camcorder footage of color bloom patterns in the waters of Central-Eastern Atlantic (CEA), South-Eastern Atlantic (SEA) and South-East Pacific (SEP), then copying the images to the RSK-1 laptop, and</li><li class="MsoNormal" style="mso-list:l1 level1 lfo3">A ~30-min. session for Russia's EKON Environmental Safety Agency, making observations and taking KPT-3 aerial photography of environmental conditions on Earth using the NIKON D3X camera with the RSK-1 laptop.</li></ul> 
+CEO target uplinked for today was San Salvador, El Salvador (CAPITAL CITIES COLLECTION.  Nadir pass over this capital city of 2.44 million [greater metro area]. Visual cues are the large young volcanic cone to the west of the city, and Lake Ilopango to the east), and Managua, Nicaragua (CAPITAL CITIES COLLECTION.  Looking left for this capital city of 2.4 million [greater metro area]. The city lies between Lakes Managua and Nicaragua.  Lake Nicaragua is the largest in Central America, and the crew’s major visual cue. [This lake once acted as a seaway between the Pacific Ocean and the Caribbean Sea]).
+ 
+

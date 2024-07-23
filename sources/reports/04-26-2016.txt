@@ -1,0 +1,37 @@
+
+Rodent Research 3 (RR-3) Operations: The RR-3 access units were inspected with no issues and restocked with food bars. RR-3 studies molecular and physical changes in the musculoskeletal system that happen in space. Results expand scientists’ understanding of muscle atrophy and bone loss in space, while testing an antibody that has been known to prevent muscle wasting in mice on Earth.
+ 
+Fluid Shifts Baseline Imaging Preparation: In preparation for this week’s Fluid Shifts exercises, the crew configured hardware and the Cerebral and Cochlear Fluid Pressure (CCFP) analyzer device which will be used to conduct measurement tests. Fluids Shift is divided into three one-week segments: Dilution Measures, Baseline Imaging, and Baseline Imaging using the Russian Chibis Lower Body Negative Pressure (LBNP) device. The experiment measures how much fluid shifts from the lower body to the upper body, in or out of cells and blood vessels, and determines the impact these shifts have on fluid pressure in the head, changes in vision and eye structures.
+ 
+Habitability Human Factors Directed Observations: The crew recorded and submitted a walk-through video documenting observations of an area or activity providing insight related to human factors and habitability. The Habitability investigation collects observations about the relationship between crew members and their environment on the International Space Station. Observations can help spacecraft designers understand how much habitable volume is required, and whether a mission’s duration impacts how much space crew members need.
+ 
+Wet Lab Ribonucleic Acid (RNA) SmartCycler Session: The crew completed the third of four Wet Lab RNA SmartCycler sessions by processing a quality control sample to verify that the SmartCycler operates as expected in microgravity. The Wet Lab RNA SmartCycler is a research platform for conducting real-time quantitative gene expression analysis aboard the ISS. The system enables spaceflight genomic studies involving a wide variety of biospecimen types in the unique microgravity environment of space.
+ 
+Common Communications for Visiting Vehicles (C2V2) Radio Frequency (RF) Checkout: The C2V2 Comm Units are two fully redundant radios (C2V2 A and C2V2 B) that are planned for use with future visiting vehicles. The units were installed on March 11 in MSS-2 rack in the LAB. Initial activation was performed on April 1. The following tests have been completed.
+
+Monday: A Radio Frequency (RF) pass lasting approximately 8 minutes was completed successfully with appropriate “fill frames” transmitted to the ground. This test provided confirmation that the C2V2 A’s forward and aft antennas are functioning as planned.
+Tuesday: Two tests were performed. In the first test, C2V2-A successfully sent a command and GPS Auxiliary Data (GAD) to Electronic System Test Laboratory (ESTL) on the forward link. In the second test, C2V2-A successfully sent GAD, Broadcast Auxiliary Data (BAD) and Audio to ESTL on the forward link and successful performed a comm check on S/G 4 between CAPCOM and ESTL.
+
+Checkout tests are planned daily until May 6.
+ 
+Recycle Fill Tank Assembly (RFTA): On Sunday the RFTA stopped short of empty when draining to a Russian [EDV]. The ball bearing level indication stopped short of full by ½” to ¾”.  The crew proceeded with troubleshooting and completed the RFTA drain to a Temporary Urine and Brine Storage System (TUBSS).  The likely cause was the EDV initially used had some residue brine that caused the RFTA to not drain completely. Ground teams will continue to track the performance of the tanks.
+ 
+Mobile Servicing System (MSS) Operations/HTV-6 Get-ahead Tasks: Yesterday, Special Purpose Dexterous Manipulator (SPDM) operations began fully retracting the secondary bolts (H1), breaking torque on the primary bolts (H2), and re-torquing the primary bolts to a lower setting on the S4 batteries. Ground teams operations were successful for 6 bolts, unsuccessful for 2 bolts, and have 4 bolts that remain to be attempted. Later today, re-attempts on bolts 3A2-1 H1, 3A2-2 H1 and initial attempts on the 4 remaining H2 bolts will resume. Order of operation and status is as follows:
+
+3A Battery 3A2-1, Bolt H1 – Not successful
+3A Battery 3A2-2, Bolt H1 – Not successful
+3A Battery 3A2-1, Bolt H2 – Forward work (Can’t be attempted until H1 released)
+3A Battery 3A2-2, Bolt H2 – Forward work (Can’t be attempted until H1 released)
+3A Battery 3A1-1, Bolt H1 – Successful
+3A Battery 3A1-2, Bolt H1 – Successful
+3A Battery 3A1-2, Bolt H2 – Successful
+3A Battery 3A1-1, Bolt H2 – Successful
+3A Battery 3A3-1, Bolt H1 – Successful
+3A Battery 3A3-2, Bolt H1 – Successful
+3A Battery 3A3-1, Bolt H2 – Forward work (Ran out of time on 4/25/16)
+3A Battery 3A3-2, Bolt H2 – Forward work (Ran out of time on 4/25/16)
+
+ 
+London Marathon: On Sunday, Peake ran the 26.2-mile London Marathon on the Treadmill 2 (T2) in an estimated time of 3:35:21. He was the official starter of the race and watched BBC coverage of the event while running. He is the second astronaut to run a marathon on the ISS. In 2007, Sunita Williams ran the Boston Marathon on T2.
+ 
+

@@ -1,0 +1,17 @@
+
+HERMES:  The crew performed the periodic vacuum valve opening for HERMES.  These operations maintain the desired vacuum levels for the granular/regolith experiments typically hosted by the HERMES facility.  Hermes is a reconfigurable on-orbit facility capable of accommodating up to four user-configurable experiment volumes at a time. The facility provides long duration exposure to microgravity, vacuum (at least 10-3 torr), power, lighting, cameras, customizable experiment tools, downlink of data, access to data storage, autonomous monitoring, acceleration measurements, and ground commanding of the lighting, cameras, and experiments tools.
+Probiotics: The crew performed sampling activities for the ongoing Probiotics investigation.  Some species of harmful bacteria such as Salmonella grow stronger and more virulent in the microgravity environment of space. At the same time, the human immune system is weaker in space, leading to increased health risks. The objective of the Probiotics investigation is to study the impact of continuous consumption of beneficial bacteria (probiotics) on immune function and intestinal microbiota in astronauts in a closed microgravity environment.  The results of this investigation may be used to support improvements in crew members’ intestinal microbiota and their immune function on long-duration space missions.
+Systems:
+P6 Channel 4B Battery Extravehicular Activity (EVA) #4 (USOS EVA #63): 
+
+Today, EV1 (Jessica Meir) and EV2 (Christina Koch) conducted a 6hr 58min EVA to complete the P6 Channel 4B battery transition from Ni-H2 to Li-Ion. Tasks performed during the EVA:
+
+P6 4B worksite prep
+Battery 6 (IEA) to AP E slot 4 (IEA)
+Battery C (EP) to slot 6 (IEA)
+Battery 5 (IEA) to EP C / AP C To slot 5 (IEA)
+P6 4B worksite cleanup
+
+Mobile Servicing System (MSS): Today, Robotic Ground Controllers (ROBO) powered up the MSS and maneuvered the Space Station Remote Manipulator System (SSRMS) and HTV8 Exposed Pallet (EP8) from the pre-EVA park position to the P6 channel battery EVA position. Once in position, ROBO removed EP8 payload power in preparation for the planned battery and adapter plate swaps. Following the EVA, ROBO re-applied EP8 payload power, maneuvered the SSRMS and EP8 to the post-EVA park position. Once parked, the MSS was powered down.
+Northrop Grumman 12 (NG-12) Cygnus Cargo Operations: The crew continued to perform Cygnus cargo operations today. Ground teams estimate ~7.5 hours of cargo operations remain prior to Cygnus departure; currently planned for January 31st.
+

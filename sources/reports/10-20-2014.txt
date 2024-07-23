@@ -1,0 +1,40 @@
+
+United States On-orbit Segment (USOS) Crew Day Off / SpaceX Unberth Delay:  Today was a USOS Crew day off, resulting from a delay to unberth SpaceX-4 Dragon.  Due to forecasts of high seas at the time of splashdown, SpaceX-4 unberth and landing has been delayed until this coming Saturday, October 25th.  Dragon loading and hatch closure activities are being replanned to support the new unberth date.
+Mobile Servicing System (MSS) Operations:  Robotic Flight Controllers powered up the MSS and utilized the Space Station Remote Manipulator System (SSRMS) in order to grapple the Dragon Flight Releasable Grapple Fixture (FRGF).  Today’s SSRMS maneuver was performed in preparation for Saturday’s Dragon unberth and release.  MSS performance was nominal.
+Today’s Russian Orbital Segment (ROS) Planned Activities
+All activities were completed unless otherwise noted.
+
+Inspection of connector UМ-U on МНР-НС behind [АСУ] panel 139  and Inspection of pipe 5182-03 from ДКиВ to [МНР] in its transparent area
+Air Duct Removal in DC1 (leave В3 in place)
+Comm Config for Suited OBT
+Orlan #5 and  #6 Systems Check
+DC1 БСС (Orlan Interface Unit) Check
+CIR – Hardware Teardown
+БМП Ф1 Absorption Cartridge Regen (start)
+Donning Gear
+CASCAD. Activation of ТБУ-В #04 thermostat to +4 degrees С
+Filter R&R on ПС1, ПС2 dust collectors in FGB
+Comm Check and Medical Parameters Check
+FGB interior panels fan grille cleaning (panels 116, 316, 231, 431)
+Check Initial Status of Orlan and БСС
+Donning Orlans ##5 and 6, Closing Backpacks
+Suited Translation OBT – assist during suited translation
+Check Orlan and БСС Controls
+Orlan and БСС Preliminary Leak Checks
+Check Sizing of Orlans #5 and #6 at Suit Pressure=0.4
+Downlink PE data / r/g 6797
+Suited Translation OBT
+Doffing Orlans
+Comm Reconfig to Initial after Suited OBT
+MICRO8- Hardware Transfer to Dragon
+CASCAD. Manual Mixing in Bioreactor
+Post-OBT Ops, Air Duct Installation
+Change dust filter and Gas-Liquid Heat Exchanger [ГЖТ] Cleaning in МRМ1
+Cleaning fan grille on FGB interior panels (panels 201, 301, 401)
+Add-on Gear Installation on ORLAN prior to EVA
+On-board БК-3М R&R
+CPCG-HM MERLIN 4 & 5 – Status Check
+CPA Installation
+БМП Ф1 Absorption Cartridge Regen (termination)
+
+

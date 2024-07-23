@@ -591,14 +591,14 @@ def generate_facility_names(facility_report_file: str):
 	
 	# facility_name_abbr = {value: key for key, value in facility_abbr_name.items()}
 
-	export_data(facility_name_abbr, "./sources/facility_data/json/facility_name_abbr.json")
-	export_data(facility_abbr_name, "./sources/facility_data/json/facility_abbr_name.json")
-	export_data(facility_module, "./sources/facility_data/json/facility_module.json")
-	export_data(category_facilities, "./sources/facility_data/json/category_facilities.json")
-	export_data(facility_category, "./sources/facility_data/json/facility_category.json")
-	export_data(facility_agency, "./sources/facility_data/json/facility_agency.json")
-	export_data(agency_facilities, "./sources/facility_data/json/agency_facilities.json")
-	export_data(id_abbr, "./sources/facility_data/json/id_abbr.json")
+	# export_data(facility_name_abbr, "./sources/facility_data/json/facility_name_abbr.json")
+	# export_data(facility_abbr_name, "./sources/facility_data/json/facility_abbr_name.json")
+	# export_data(facility_module, "./sources/facility_data/json/facility_module.json")
+	# export_data(category_facilities, "./sources/facility_data/json/category_facilities.json")
+	# export_data(facility_category, "./sources/facility_data/json/facility_category.json")
+	# export_data(facility_agency, "./sources/facility_data/json/facility_agency.json")
+	# export_data(agency_facilities, "./sources/facility_data/json/agency_facilities.json")
+	# export_data(id_abbr, "./sources/facility_data/json/id_abbr.json")
 
 	return {
 			"facility_name_abbr": facility_name_abbr,

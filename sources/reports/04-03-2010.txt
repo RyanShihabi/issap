@@ -1,0 +1,29 @@
+ISS On-Orbit Status 04/03/10
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.    Saturday – crew off-duty day.
+ 
+ Start of sleep cycle shifting:  The crew is on an abbreviated wake schedule today, shortened by 5 hrs, with sleep cycle shifting to accommodate Soyuz TMA-18/22S arrival early tomorrow morning and STS-131/19A arrival on 4/7 (Wednesday, assuming launch on Monday):
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Wake –   2:00am      EDT  (today)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Sleep –  12:30pm       (today)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Wake –   9:00pm      (today)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Sleep –  12:30pm      (4/4)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Wake –  10:00pm      (4/4)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Sleep –  11:30am       (4/5)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Wake –   8:00pm       (4/5)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Sleep –  11:06am       (4/6)</li> <li class="MsoNormal" style="mso-list:l0 level1 lfo1">Wake –   7:36pm       (4/6)</li> </ul> 
+  At wake-up (2:00am), CDR Oleg Kotov performed the regular daily early-morning check of the aerosol filters at the Russian Elektron O<sub>2</sub> generator which Maxim Suraev had installed on 10/19 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V).     [CDR again inspected the filters before bedtime this morning, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+ 
+  FE-6 Creamer &amp; FE-5 Noguchi completed another Reaction Self Test (Psychomotor Vigilance Self Test on the ISS) protocol.     [The RST is performed twice daily (after wakeup &amp; before bedtime) for 3 days prior to the sleep shift, the day(s) of the sleep shift and 5 days following a sleep shift.  The experiment consists of a 5-minute reaction time task that allows crewmembers to monitor the daily effects of fatigue on performance while on ISS.  The experiment provides objective feedback on neurobehavioral changes in attention, psychomotor speed, state stability, and impulsivity while on ISS missions, particularly as they relate to changes in circadian rhythms, sleep restrictions, and extended work shifts.]
+ 
+  The 3 station residents completed the regular weekly three-hour task of thorough station cleaning, including COL (Columbus Orbital Laboratory) and Kibo.    ["Uborka", usually done on Saturdays, includes removal of food waste products, cleaning of compartments with vacuum cleaner, damp cleaning of the SM (Service Module) dining table, other frequently touched surfaces and surfaces where trash is collected, as well as the sleep stations with a standard cleaning solution; also, fan screens and grilles are cleaned to avoid temperature rises. Special cleaning is also done every 90 days on the HEPA (high-efficiency particulate air) bacteria filters in the Lab.]
+ 
+  As part of the house cleaning, Kotov conducted regular maintenance inspection &amp; cleaning of fan screens in the FGB (TsV2) and Group E fan grills in the SM (VPkhO, FS5, FS6, VP).
+ 
+  In preparation for the arrival of Soyuz TMA-18/22S early tomorrow morning (~1:28am), Soichi Noguchi closed the external window shutters of the Lab, Kibo JPM (JEM Pressurized Module) and Cupola to protect the window panes against plume residual contamination.
+ 
+  In support of the APEX-Cambium (APXC/Advanced Plant Experiments on Orbit-Cambium) payload, Timothy Creamer inserted the KFTs (Kennedy Fixation Tubes) with yesterday’s TAGES (Transgenic Arabidopsis Gene Expression System) harvest 3D plants in the MELFI (Minus Eighty Laboratory Freezer for ISS) Unit 2, Dewar 2, Tray A, Tray Section 3-4, for conservation for post-flight analysis.
+ 
+  Later, TJ performed the regular bi-monthly reboots of the OCA Router, FS (File Server) and OpsLAN Server SSC (File Server Station Support Computer) laptops,
+ 
+  Soichi completed the periodic tape exchange on both VDS VTRs (Video Distribution System/Video Tape Recorders), VTR1 &amp; VTR2, stowing the old tapes for return to Houston,
+ 
+  In the SM, CDR Kotov did the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS).    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+  At ~8:00am EDT, Oleg had his weekly PFC (Private Family Conference) via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop).
+ 
+  In line with today’s shortened duty cycle, the crew performed an abbreviated physical workout regime on the TVIS treadmill (CDR) and T2/COLBERT advanced treadmill (FE-5, FE-6).  After his run, Oleg inspected the jerry-rigged retainer plate installed by Soichi during yesterday’s TVIS repair. 
+ 
+ 

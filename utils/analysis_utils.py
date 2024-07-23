@@ -278,22 +278,26 @@ def calc_pair_distances(df_pairs: pd.DataFrame, facility_data: dict, save=False)
     return pair_distance_df
 
 def calc_unique_pairs(facility_data: dict):
+    if os.path.exists("./analysis/plots/pairs") == False:
+        os.makedirs("./analysis/plots/pairs")
+
     exclude_list = ['ARED', 'CEVIS', 'TVIS', 'COLBERT']
     pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
-    paragraph_list = generate_paragraph_apriori(pair_dict, "./reports-oct", ())
-
-    # paragraph_list = generate_paragraph_apriori(facility_data["facility_name_abbr"], "./reports-oct", ())
+    paragraph_list = generate_paragraph_apriori(pair_dict, "./sources/reports", ())
     
     pair_types = ["agency", "category", "module", "custom"]
+
+    if os.path.exists("./analysis/csv/apriori_pairs") == False:
+        os.makedirs("./analysis/csv/apriori_pairs")
     
     for pair_type in pair_types:
-        if os.path.exists(f"./analysis/plots/{pair_type}"):
-            shutil.rmtree(f"./analysis/plots/{pair_type}")
+        if os.path.exists(f"./analysis/plots/pairs/{pair_type}"):
+            shutil.rmtree(f"./analysis/plots/pairs/{pair_type}")
 
         if os.path.exists(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}"):
             shutil.rmtree(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}")
 
-        os.makedirs(f"./analysis/plots/{pair_type}")
+        os.makedirs(f"./analysis/plots/pairs/{pair_type}")
         os.makedirs(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}")
 
         type_pair_count = {}
@@ -307,7 +311,7 @@ def calc_unique_pairs(facility_data: dict):
                 continue
 
             pair_key = "-".join(pair)
-            apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+            apriori_data = apriori_from_list(paragraph_list, facility_data, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
             apriori_data["frequency"] = apriori_data["frequency"].astype(int)
             
@@ -326,7 +330,7 @@ def calc_unique_pairs(facility_data: dict):
                 plt.ylabel("Frequency")
                 plt.xticks(rotation=45)
                 plt.tight_layout()
-                plt.savefig(f"./analysis/plots/{pair_type}/{pair_key}.png")
+                plt.savefig(f"./analysis/plots/pairs/{pair_type}/{pair_key}.png")
                 plt.close()
 
                 stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
@@ -335,7 +339,7 @@ def calc_unique_pairs(facility_data: dict):
             for j in range(i + 1, len(data)):
                 pair = [data[i], data[j]]
                 pair_key = "-".join(pair)
-                apriori_data = apriori_from_list(paragraph_list, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+                apriori_data = apriori_from_list(paragraph_list, facility_data, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
 
                 apriori_data["frequency"] = apriori_data["frequency"].astype(int)
 
@@ -354,7 +358,7 @@ def calc_unique_pairs(facility_data: dict):
                     plt.ylabel("Frequency")
                     plt.xticks(rotation=45)
                     plt.tight_layout()
-                    plt.savefig(f"./analysis/plots/{pair_type}/{pair_key}.png")
+                    plt.savefig(f"./analysis/plots/pairs/{pair_type}/{pair_key}.png")
                     plt.close()
 
                     stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T

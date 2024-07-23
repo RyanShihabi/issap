@@ -1,0 +1,35 @@
+ISS On-Orbit Status 08/29/09
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.    Saturday --- Very short crew rest day.
+ 
+ STS-128/Discovery (ISS-17A) lifted off spectacularly in darkness last night on time (11:59pm EDT) with all systems performing nominally, for rendezvous with ISS tomorrow evening (8/30, Sunday), set to dock at approximately 9:03pm EDT.  We are off to another great mission!  [The Orbiter is carrying the seven-member crew of Commander Fredrick W. “Rick” Sturckow, Pilot Kevin A. Ford, and Mission Specialists Patrick G. Forrester, Jose M. Hernandez, John D. “Danny” Olivas, Christer Fuglesang &amp; Nicole Passonno Stott.  Stott will replace Timothy Kopra as ISS Flight Engineer 2, who returns on 9/10 (nominal) with STS-128 (the last time for an entirely Shuttle-based crew rotation).  STS-128 is the 128<sup>th</sup> space shuttle flight in history, the 4<sup>th</sup> Shuttle mission in 2009, the 37<sup>th</sup> flight for Discovery, and the 30<sup>th</sup> Shuttle flight to the station.  Primary payload for the Discovery is the 15,200-lbs Italian-built MPLM (Multipurpose Logistics Module) Leonardo.]
+ 
+  After their wakeup this morning at the regular 2:00am EDT, the ISS crew today has started another sleep/wake cycle shift to synchronize with 17A arrival and docked activities.  This resulted in a short workday, with sleeptime beginning already at 10:00am.  Next wakeup for FD2 will be tonight at 6:30pm.  [See below for a listing of upcoming sleep/wake times.]
+ 
+  Upon wakeup, crewmembers Barratt, Kopra &amp; Thirsk continued their current support of the experiment SLEEP (Sleep-Wake Actigraphy &amp; Light Exposure during Spaceflight), logging data from their Actiwatches to the HRF-1 (Human Research Facility 1) laptop as part of a week-long session.
+ 
+  FE-3 Romanenko terminated the recharge of the Kelvin-Video battery pack of the BAR/EXPERT experiment initiated yesterday.     [Objective of the Russian KPT-12/EXPERT science payload is to measure environmental parameters (temperature, humidity, air flow rate) and module shell surface temperatures behind SM panels and other areas susceptible to possible micro-destruction (corrosion), before and after insolation (day vs. night).  The payload uses a remote infrared thermometer (Kelvin-Video), a thermohygrometer (Iva-6A), a heat-loss thermal anemometer/thermometer (TTM-2) and an ultrasound analyzer (AU) to determine environmental data in specific locations and at specific times.  Activities include documentary photography with the NIKON D2X camera and flash.]
+ 
+  To prepare for a potential EVA in support of the HTV (H-II Transfer Vehicle) docking, in the US Airlock FE-1 Barratt configured the EMU (Extravehicular Mobility Unit) #3006 with its SCU (Service &amp; Cooling Umbilical) and initiated the standard one-hour scrubbing process on the spacesuit’s cooling water loops, filtering ionic and particulate matter (via a 3-micron filter), then reconfigured the cooling loops and started the ~2hr biocide filtering.  Scrubbing termination, disassembly of the EMU water processing kit and stowing the equipment followed.     [Loop scrubbing, incl. iodination of the LCVG (Liquid Cooling &amp; Ventilation Garment) for biocidal maintenance is done to eliminate any biomass and particulate matter that may have accumulated in the loops.]
+ 
+  Mike Barratt also performed a quick fit check on the Water ORU (Orbital Replacement Until) of the OGS (Oxygen Generator System) to verify adequate tool access for eight fasteners which will have to be removed for OGS Water ORU Filter R&amp;R during 17A.     [After the recent Water ORU R&amp;R successfully recovered the OGS from the delta pressure in the recirculation loop, the plan is to attempt a recovery maintenance task for the failed ORU.  Mike found “no problem – all 8 of the 9/64 hex head fasteners on back of manifold can be accessed; need different tools for different fasteners.”]
+ 
+  FE-4 Bob Thirsk completed the weekly offloading of the WPA (Water Processor Assembly) from WRS (Water Recovery System) Rack 1 into a CWC-I (Collapsible Water Container-Iodine, #2004) with the common H<sub>2</sub>O transfer hose (which took about 23 min) from the PWD (Potable Water Dispenser) Auxiliary Port, then flushed the system.
+ 
+  Afterwards, Thirsk collected water samples from the ITCS LTL (Internal Thermal Control System Low Temperature Loop) and MTL (Moderate TL) in the Node-2 and from the MTL in the Lab, all for return to the ground on the Shuttle.
+ 
+  FE-5 Frank De Winne also collected water samples from the COL (Columbus Orbital Laboratory) ITCS for ground return.
+ 
+  Romanenko did the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+  CDR Padalka completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM (Service Module).    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+  The crew performed an abbreviated (1-hr) physical workout program on the CEVIS cycle ergometer (FE-3, FE-4), TVIS treadmill with vibration isolation (FE-1, FE-2, FE-5), and VELO cycle ergometer with bungee cord load trainer (CDR). 
+ 
+  Afterwards, Frank transferred the exercise data files to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+  At ~6:15am EDT, the FE-5 had his weekly PFC (Private Family Conference), via S-band/audio and u-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop).
+ 
+  Sleeptime for the crew began at 10:00am, to last until 6:30pm tonight.
+ 
+ 

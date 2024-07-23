@@ -1,0 +1,36 @@
+
+Mobile Servicing System (MSS) Operations:  Overnight, Robotics Ground Controllers unstowed the Stratospheric Aerosol and Gas Experiment (SAGE) Instrument Panel from the SPDM Enhanced Orbital Replacement Unit (ORU) Temporary Platform (EOTP) and installed it on the SAGE Nadir Viewing Platform (NVP).  They then maneuvered the SSRMS to support surveys of the SAGE IP, the EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Pallet Controller Assembly (ExPCA) and the S1 Lower Outboard (LOOB) Camera using the SSRMS and SPDM Camera Light Pan/Tilt Unit (PTU) Assemblies (CLPAs).  MSS performance was nominal.
+APEX-04: The crew harvested plants growing on petri plates in the Veggie facility. They configured the Advanced Biology Research Facility (ABRS) Photo grid on the Maintenance Work Area (MWA) Work Surface to image the plant growth status prior to plant insertion into a Kennedy Space Center (KSC) Fixation Tube (KFT) for RNAlater fixation.  After 24 hours, the samples in the KFTs will be inserted in Minus Eighty Degree Celsius Laboratory Freezer for ISS (MELFI) for return on SpaceX (SpX)-10. 
+Everywear App Update: On February 2 when the crew activated the EveryWear application in support of the Skin Suit activities, the iPad Air 2 displayed an error message. Subsequent investigation indicated the need for a new virtual machine (Stargate) to enable connectivity of iPad to the LS1 Server and the internet. Stargate was deployed today and the EveryWear Application is functioning nominally. The Everywear assistant is an ambulatory data collection system that uses wearable sensors connected to a Space Station iPad tablet computer, which is wirelessly synchronized with computers on the ground. This easy-use system seeks to demonstrate the benefits of extensive physiology data collection for both science and medical follow-up purposes by improving usability for ISS crew members. 
+NanoRacks Module 9: The crew activated five Student Spaceflight Experiments Program (SSEP)/National Center for Earth and Space Science Education (NCESSE) experiments shown below. Supporting various schools and student designed experiments studying a range of objectives, the SSEP allows students to design experiments that address real challenges of living and working in space. The program also is a key initiative for U.S. science, technology, engineering and math (STEM) education, educating and inspiring the next generation of scientists and engineers to work on the space program.
+
+Will a Biofilm Form on a Rat Catheter in Microgravity Differently than in Gravity? (East Lyme Middle School, East Lyme, CT)
+Attempts is to see if a biofilm will form differently on a rat artery catheter in microgravity from the bacteria Staphylococcus epidermidis which is naturally occurring in the human body. If the biofilm forms thinner in space than on Earth, this will provide additional information to NASA for astronaut health and for scientists and doctors to hopefully improve catheters and reduce infection on Earth.
+
+
+The Effects of Microgravity on Muscle Tissue Regeneration (McNair Academic High School, Jersey City, NJ)
+Analyzes the potential of the drug, Tissue Regeneration Factor at 150 mg (TRF-150) to regenerate shoulder muscle tissue of an adolescent pig faster when exposed to a microgravity environment to determine the amount of tissue regenerated under controlled scenarios of induced harm. Both qualitative and quantitative methods of measurement are used to determine this experiment’s success. This experiment helps determine if a microgravity environment aids in the regeneration of organic tissue. If the experiment implies the increase of the regenerative properties of TRF-150, simulated microgravity environment can be implemented to help patients with muscle injuries.
+
+
+Arabidopsis Germination in Martian Soil Simulant (Open Window School, Bellevue, WA)
+Determines if Arabidopsis thaliana germinates in Martian soil simulant in microgravity. Other researchers have shown A. thaliana grows in Martian soil simulant but the lower gravity of Mars cannot be simulated on Earth. The microgravity environment on the ISS allows for testing of plant growth in an environment closer to the gravity on Mars.
+
+
+Living Water Filters: Triops in Microgravity (North Star Charter School, Boise, ID)
+Investigates the capability of Triops longicaudatus to filter bacteria from pond water in microgravity as well as it does on Earth. After the experiment returns to Earth, analysis will be conducted to determine which kinds of bacteria remain. Also to be measured is the mass of the Triops that were hatched in microgravity and compare it to the mass of the Triops that were hatched on Earth.
+
+
+Slippery Liquid-Infused Porous Surfaces (SLIPS) in Microgravity (Arts and Technology Academy, Eugene, OR)
+Tests SLIPS in a microgravity environment to see if the change in gravitational environment alters its properties as compared to Earth. If it does, it could possibly solve frost-over if SLIPS can remain on the face of a solid as well as make liquids slip off of the solid in microgravity. 
+
+Fluid Shifts Hardware Transfer: The crew gathered and configured the Fluid Shifts Hardware, including the ultrasound, in the Russian Segment prior to two days of operations utilizing the Chibis (Lower Body Negative Pressure) device. Fluid Shifts is a joint NASA-Russian experiment that investigates the causes for severe and lasting physical changes to astronauts’ eyes. Because the headward fluid shift is a hypothesized contributor to these changes, reversing this fluid shift with a lower body negative pressure device is investigated as a possible intervention. Results from this study may help to develop preventative measures against lasting changes in vision and eye damage. 
+Node 3 (N3) Port Center Disk Cover (CDC)/Controller Panel Assembly (CPA) Installation: The crew installed the following:
+
+Thirteen augmentation plates in Axial Common Berthing Mechanism (CBM) Center Disk Cover (CDD)
+N3 external antenna communication cable
+Three N3 Port Common Berthing Mechanism (CBM) Control Panel Assemblies
+Armored axial CBM CDC in N3 Port Vestibule
+
+Completion of these activities will provide Micro Meteoroid Orbital Debris (MMOD) and thermal protection for the N3 Port bulkhead, hatch, and CBM hardware following Pressurized Mating Adapter (PMA) 3 relocation. 
+Extravehicular Activity (EVA) Tool Config: The crew continued configuring hardware, bags and tools for the Electrical Power Distribution and Control (EPIC) Special Purpose Dexterous Manipulator (SPDM) Lube EVA, EPIC Shields EVA and Express Logistics Carrier (ELC)4 Express Pallet Controller Assembly (ExPCA) EVA tentatively planned for late March/early April.
+

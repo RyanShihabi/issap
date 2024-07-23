@@ -1,0 +1,35 @@
+
+RS Extravehicular Activity (EVA) #54: Today, Oleg Artemyev (EV1) and Denis Matveev (EV2) performed RS EVA #54 with Sergey Korsakov supporting as the IV operator. Hatch opening occurred at 8:53 AM CT. The trio performed several tasks to configure and test the European Robotic Arm (ERA) for operations on the station’s Russian Segment; however, today’s EVA was terminated early due to a low voltage warning on EV1’s suit. The final duration was 4 hours and 1 minutes and the following tasks were completed:
+
+Install CLU4 Elbow Camera onto ERA
+Remove MLI and LFM Ring from ERA End Effector-2
+Install CLU3 Elbow Camera onto ERA
+
+Due to the early termination of the EVA, the following tasks were deferred from today’s EVA:
+
+Relocate and Connect EMMI to БТЛ3 Basepoint
+Test ERA Operation using EMMI Control Panel
+Calibrate ERA End Effector-2 TRM Override
+Calibrate ERA End Effector-1 TRM Override
+Remove MLI and LFM Ring from ERA End Effector-1
+Perform R&R of ERA End Effector-1 CLU1 Protective Window (time permitting)
+
+
+Install Retainer on Strela-1 Boom (time permitting)
+Extend Strela-2 Boom from FGB [ГА] to MRM2 (time permitting)
+
+ERA was placed in the following configuration at the completion of the EVA:
+
+End Effector-1 grappled to MLM БТЛ2 basepoint
+End Effector-2 grappled to MLM БТЛ3 basepoint
+
+Payloads: 
+Acoustic Diagnostics: The Acoustic Diagnostic instrument hardware was set up and calibrated, and measurements were recorded. Following this, a questionnaire was filled out on the EveryWear device. The Acoustic Upgraded Diagnostics In-Orbit (Acoustic Diagnostics) investigation tests the hearing of ISS crew members before, during, and after flight. This study assesses the possible adverse effects of noise and the microgravity environment aboard the ISS on human hearing. The investigation compares the relationship between the detection of otoacoustic emissions – sounds naturally generated from within the inner ear – and hearing loss levels when exposed to noisy environments.
+BioSentinel: BioSentinel hardware and mounting plate were removed from SABL-3 (Space Automated Bioproduct Laboratory). Hardware was packed for return and the mounting plate was trashed. BioSentinel ISS Control Experiment (BioSentinel) measures the effects of radiation and microgravity on Saccharomyces cerevisiae, or budding yeast. This model biological organism, used for many years in academic research, industry, and biotechnology, has biology very similar to humans and has previously flown in space. Scientists plan to compare the effects of the space station environment on the yeast to those from a deep space mission.
+eXposed Root On-Orbit Test System (XROOTS): The crew performed seed cartridge wick opening and plant inspections. The wick opening allows the seeds to be assessed for germination and gives them more room to grow during the 30 day growth cycle. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media. Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Systems: 
+EHS Coliform Water Sample Analysis: Today, the crew completed post-processing analysis of the coliform detection bags. The water samples were acquired on Monday and allowed to incubate to check for the presence of Coliform bacteria. Following the incubation period, the crew visually analyzed the coliform detection bags and recorded the results. Visual confirmation must be performed within 40-48 hours of the initial sample collection.
+Cargo Dragon Departure Preparations: The crew completed activities in preparation for SpX-25 undock on August 18. The crew transferred cargo, payloads and two Polar units to Cargo Dragon. The Lithium Ion Cartridge in Dragon was changed out and a Station Support Computer (SSC) was relocated from the JEM to the Cupola for undock monitoring operations.
+Water Recovery System Contingency Water Container-Iodine (CWC-I) Fill: After the Russian water transfers yesterday, the USOScrew is refilling water from the Potable Bus back into the CWC-I using the Potable Water Dispenser (PWD). The Water Process Assembly (WPA) was configured to isolate the Potable Bus upon reaching a target offload. Crew monitors the offload time as a secondary control to protect the CWC-I from over pressurization. Once the crew finished filling the CWC-I, the equipment was torn down and stowed.
+Spaceflight Cognitive Assessment Tool for Windows (WinSCAT) Test: The crew performed a monthly WinSCAT test. The test is a screen tool developed by NASA to monitor astronauts and their neuro-cognitive status while in space and alert NASA flight surgeons to any accuracy or reaction time changes in an astronaut’s performance. WinSCAT tests working memory, computational skills, attention, visual tracking and spatial processing.
+

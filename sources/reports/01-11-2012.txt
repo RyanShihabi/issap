@@ -1,0 +1,61 @@
+ISS On-Orbit Status 01/11/12
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.
+ 
+ After wakeup, FE-4 Kononenko performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection. 
+ 
+ CDR Burbank completed his 13th post-sleep session of the Reaction Self Test (Psychomotor Vigilance Self Test on the ISS) protocol. [RST is done twice daily (after wakeup &amp; before bedtime) for 3 days prior to the sleep shift, the day(s) of the sleep shift and 5 days following a sleep shift. The experiment consists of a 5-minute reaction time task that allows crewmembers to monitor the daily effects of fatigue on performance while on ISS. The experiment provides objective feedback on neurobehavioral changes in attention, psychomotor speed, state stability, and impulsivity while on ISS missions, particularly as they relate to changes in circadian rhythms, sleep restrictions, and extended work shifts.]
+ 
+ FE-1 Shkaplerov terminated his 4th experiment session, started last night, for the long-term Russian sleep study MBI-12/Sonokard, taking the recording device from his Sonokard sports shirt pocket and later copying the measurements to the RSE-Med laptop for subsequent downlink to the ground. [Sonokard objectives are stated to (1) study the feasibility of obtaining the maximum of data through computer processing of records obtained overnight, (2) systematically record the crewmember’s physiological functions during sleep, (3) study the feasibility of obtaining real-time crew health data. Investigators believe that contactless acquisition of cardiorespiratory data over the night period could serve as a basis for developing efficient criteria for evaluating and predicting adaptive capability of human body in long-duration space flight.] 
+ 
+ FE-4 Kononenko had ~5.5 hrs for periodic maintenance on the Russian SOTR Thermal Control System in the SM, performing tests on the pumps of the two active external thermal control systems (KOKh1, KOKh2) of the SM, monitoring their performance and refilling the two cooling loops.
+ 
+ In ESA’s COL (Columbus Orbital Laboratory), after configuring the already partially (“starter kit”) deployed PPFS (Portable Pulmonary Function System) hardware including MBS (Mixing Bag System), André Kuipers conducted his first 3-4 hr session with the VO2max assessment, integrated with the Thermolab head sensors. After the session, which was supported by the VO2max team on the ground, André cleaned up &amp; stowed or trashed the equipment, then downloaded the data to a PCS laptop. [The experiment VO2max (Evaluation of Maximal Oxygen Uptake &amp; Submaximal Estimates of VO2max before, during and after long-duration space station missions) uses the PPFS, CEVIS ergometer cycle with vibration isolation, PFS (Pulmonary Function System) gas cylinders and mixing bag system, plus multiple other pieces of hardware to measure oxygen uptake, cardiac output, and more. The exercise protocol consists of a 2-min rest period, then three 5-min stages at workloads eliciting 25%, 50% &amp; 75% of aerobic capacity as measured pre-flight, followed by a 25-watt increase in workload every minute until the crewmember reaches maximum exercise capacity. At that point, CEVIS workload increase is stopped, and a 5-min cool down period follows at the 25% load. Rebreathing measurements are initiated by the subject during the last minute of each stage. Constraints are: no food 2 hrs prior to exercise start, no caffeine 8 hrs prior to exercise, and must be well hydrated.]
+ 
+ The CDR broke out and set up the HMS USND (Health Maintenance Systems Ultrasound) equipment, then underwent his first scan as subject, assisted by Pettit as CMO (Crew Medical Officer). Later, Don Pettit &amp; André Kuipers took turns as subjects &amp; operators, performing the USND scans on each other. [Objective of the Ultrasound scans was an eye examination for the three subjects.]
+ 
+ In COL (Columbus Orbital Laboratory), André set up the G1 camcorder, MPL (Multipurpose Laptop) &amp; hardware for the ESA EPO (Educational Program Operation) experiment “Foam Stability” and supported several runs, replacing camcorder battery, rewinding the tape and exchanging cell arrays between runs.  Besides the video, five still photographs were also taken.   [The project aims at the study of aqueous and non-aqueous foams in micro-G environment. The behavior of foams in micro-G and on earth are very different, because the process of drainage is absent in space. The effective enhancement of the “foamability” of liquid solutions without this drainage effect of gravity is investigated. Other fundamental questions addressed are: How long can those foams be stable? What is the role of solid particles in the liquid in water foam stabilization? Is it possible to create very "wet" foams in microgravity?]
+ 
+ CDR Burbank worked several hours installing the spare CUCU (COTS UHF Communications Unit) into ER6 (Express Rack 6) in support of an upcoming software update.        [Activities included gathering the spare CUCU, removing a currently-installed stowage locker, installing the spare CUCU and restowing the removed locker.] 
+ 
+ FE-2 Ivanishin did the periodic checkout &amp; performance verification of IP-1 airflow sensors in the various RS hatchways, of particular importance with a six-member crew on board.   [Inspected IP-1s are in the passageways PrK (SM Transfer Tunnel)–RO (SM Working Compartment), PkhO (SM Transfer Compartment)–RO, PkhO–DC1, PkhO–FGB PGO, PkhO-MRM2, FGB GA-MRM1, FGB PGO–FGB GA, and FGB GA–Node-1.]
+ 
+ Afterwards, Anatoly took documentary photography of Anton Shkaplerov performing his 2nd MBI-24 “SPRUT-2” (“Squid-2”) test, part of Russian medical research on the distribution and behavior of human body fluids in zero gravity, along with PZEh-MO-8 body mass measurement using the IM device. [Supported by the RSS-Med A31p laptop with new software (Vers. 1.6) in the SM, the test uses the Profilaktika kit, with data recorded on PCMCIA memory cards, along with Sergey’s body mass values and earlier recorded MO-10 Hematocrit value, but skipping “fat fold” measurements. Experiment requisites are theSprut securing harness, skin electrodes (cuffs), and RSS-Med for control and data storage. The “Pinguin” suit or Braslet-M cuffs, if worn, have to be taken off first. Electrode measurements are recorded at complete rest and relaxed body position. The actual recording takes 3-5 minutes, during which the patient has to remain at complete rest.]
+ 
+ After yesterday’s equipment gathering &amp; reviewing of procedural material, Dan tackled the extensive yearly maintenance/overhaul of the WHC (Waste &amp; Hygiene Compartment), using ~3.5 hrs for removing &amp; replacing hydraulic components, including piping, required to be changed out once a year.
+ 
+ Later, FE-6 supported ground operators on the SODI (Selectable Optical Diagnostics Instrument) payload, turning air circulation in the MSG (Microgravity Science Glovebox) off for 11 min, then switching it back on.       [The test was to evaluate the effect on SODI experiments of the vibrating air circulation inside the MSG WV (Work Volume).]
+ 
+ Ivanishin repressurized the ISS cabin atmosphere with N2 (nitrogen) from Progress M-13M/45P’s SrPK air supply tankage for about an hour to make up total pressure.
+ 
+ Anatoly also completed the periodic transfer of US condensate water from CWCs (Contingency Water Containers) to the RS for the periodic (about twice a month) replenishing of the Elektron’s water supply for electrolysis, filling the designated KOV EDV condensate container. Once filled, the EDV was to be connected to the BPK transfer pump for processing through the BKO water purification (multifiltration) unit. [The 40-minute procedure is specially designed to prevent air bubbles larger than ~10 mm from getting into the BZh Liquid Unit where they could cause Elektron shutdown.]
+ 
+ Afterwards, FE-2 transferred stored water from the Progress 45P BV1 tankage to 6 EDV containers in DC-1.      [Progress 413 Rodnik Tank1 contained 188 L of water (~8.5 EDV)]
+ 
+ Later, Ivanishin completed his 5th data collection session for the psychological MBI-16 Vzaimodejstvie (“Interactions”) program, accessing and completing the computerized study questionnaire on the RSE-Med laptop and saving the data in an encrypted file. [The software has a “mood” questionnaire, a “group &amp; work environment” questionnaire, and a “critical incidents” log. Results from the study, which is also mirrored by ground control subjects, could help to improve the ability of future crewmembers to interact safely and effectively with each other and with Mission Control, to have a more positive experience in space during multi-cultural, long-duration missions, and to successfully accomplish mission activities.]
+ 
+ Shkaplerov had another 3 hrs for stowing trash and excessed equipment on Progress 45P, docked at DC1, for disposal.
+ 
+ Pettit printed out two new Warning messages, uplinked on OCA, for insertion in both copies of the Warning book.       [The messages concern response to trip or loss of comm of two Lab RPCMs (Remote Power Controller Modules) LAS62B_A, LAP61B_A.]
+ 
+ FE-1 took care of the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+ FE-2 performed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM. [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp;KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+ Before Presleep, the CDR will turn on the MPC (Multi Protocol Converter) and start the Ku-band data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link). After about an hour, Dan will turn MPC routing off again. [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+ Shkaplerov &amp; Ivanishin again had ~1h reserved for more video shooting in support of the Roskosmos Television Studio’s project to prepare a film on onboard life. 
+ 
+ At ~1:40pm EST, the crew joined in reviewing descriptive material on the X2R11 software upgrade, discussing X2R11 impacts to procedures.
+ 
+ Dan Burbank spent ~1 hr with Don Pettit in another handover session, for his familiarization with USOS activities.
+ 
+ CDR &amp; FE-6 had their regular PMCs (Private Medical Conferences) via S- &amp; Ku-band audio/video. Dan at ~1:00pm, Don at ~2:30pm EST.
+ 
+ The crew worked out with their regular 2-hr physical exercise protocol on the CEVIS cycle ergometer with vibration isolation (FE-5), TVIS treadmill with vibration isolation &amp; stabilization (FE-2, FE-4), ARED advanced resistive exerciser (CDR, FE-4, FE-6), T2/COLBERT advanced treadmill (CDR, FE-1, FE-5, FE-6), and VELO ergometer bike with load trainer (FE-1, FE-2).
+ 
+ The Russian discretionary “time permitting” task list for FE-1, FE-2 &amp; FE-4 for today suggested more preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb).
+ 
+ No CEO (Crew Earth Observation) targets uplinked for today.
+ 
+ 

@@ -1,0 +1,82 @@
+ISS On-Orbit Status 08/31/09
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.    Flight Day 4 of STS-128/17A.   Underway:  Week 14 of Increment 20.
+ 
+  Today’s work cycle for the crew: Sleep – 5:00am; wake – 1:30pm.
+ 
+  For FE-4 Robert Thirsk, the “day” began at 1:30pm with the extended “Bisphosphonates” biomedical countermeasures experiment for which Bob ingested an Alendronate pill before breakfast.    [The Bisphosphonates study should determine whether antiresorptive agents (that help reduce bone loss) in conjunction with the routine in-flight exercise program will protect ISS crewmembers from the regional decreases in bone mineral density documented on previous ISS missions.  Two dosing regimens are being tested: (1) an oral dose of 70 mg of Alendronate taken weekly starting 3 weeks prior to flight and then throughout the flight and (2) an intravenous (IV) dose of 4 mg Zoledronic Acid, administered just once approximately 45 days before flight. The rationale for including both Alendronate and Zoledronic Acid is that two dosing options will maximize crew participation, increase the countermeasure options available to flight surgeons, increase scientific opportunities, and minimize the effects of operational and logistical constraints.  The primary measurement objective is to obtain preflight and postflight QCT (Quantitative Computed Tomography) scans of the hip. The QCT scans will provide volumetric bone density information of both cortical and trabecular (spongy) bone regions of the hip.] 
+ 
+  For Thirsk, FE-1 Mike Barratt, FE-2 Timothy Kopra, FE-5 Frank De Winne, PLT Kevin Ford &amp; MS4 Christer Fuglesang, major activities today are focused on the transfer of the MPLM (Multipurpose Logistics Module) Leonardo from the Shuttle cargo bay to the nadir part of Node-2:
+ 
+  Thirsk:
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l3 level1 lfo1">Powering up the CBCS      (Centerline Berthing Camera) in Node-2 (~3:15pm EDT), later removing it      for temporary stowage,</li> <li class="MsoNormal" style="mso-list:l3 level1 lfo1">Latching Node-2 nadir      hatch (prior to MPLM/Node-2 Vestibule pressurization)</li> </ul> 
+  Barratt &amp; Ford:
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l3 level1 lfo1">Grappling the MPLM with      the SSRMS (Space Station Remote Manipulator System, ~3:40pm)</li> <li class="MsoNormal" style="mso-list:l3 level1 lfo1">Installing MPLM at Node-2      nadir port CBM (Common Berthing Mechanism, ~4:10pm)</li> </ul> 
+  Kopra &amp; Fuglesang:
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l1 level1 lfo2">Supporting Node-2 CBM      Premate, First Stage Capture, Second Stage Capture &amp; Acquire Bolts </li> </ul> 
+  De Winne:
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l1 level1 lfo2">Setting up MPLM/Node-2      Vestibule equipment (~3:45pm),</li> <li class="MsoNormal" style="mso-list:l1 level1 lfo2">Pressurizing MPLM/Node-2      Vestibule &amp; Leak Check (~4:35 pm)</li> </ul> 
+  De Winne &amp; Fuglesang
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l5 level1 lfo3">Configuring MPLM for      ingress (removing MLI/thermal cover; installing power &amp; data jumpers,      ~9:50pm)</li> <li class="MsoNormal" style="mso-list:l5 level1 lfo3">Removing CPAs (CBM Panel Assemblies,      ~11:20pm)</li> <li class="MsoNormal" style="mso-list:l5 level1 lfo3">Equalizing pressures &amp;      installing IMV (Intermodular Ventilation) ducts (~12:50am)</li> <li class="MsoNormal" style="mso-list:l5 level1 lfo3">Activating MPLM (opening      MPLM IMV valves, closing PPRAs/Positive Pressure Relief Assemblies,      turning on lights, ~1:15am)</li> <li class="MsoNormal" style="mso-list:l5 level1 lfo3">Ingressing MPLM (~1:35am)</li> </ul> 
+  In the SM (Service Module), FE-3 Romanenko installed the new hardware for the Russian BIO-5 Rasteniya-2 ("Plants-2") experiment, setting up the root module, plants kit, leaf chamber, light unit and KDV water container, then filling the tank, loading new software and running a hardware test, then starting the experiment.    [Rasteniya-2 researches growth and development of plants under spaceflight conditions in the Lada-15 greenhouse from IBMP (Institute of Bio-Medical Problems, Russian: IMBP).  During its operation, the experiment requires regular daily maintenance of the experiment involving monitoring of seedling growth, humidity measurements, moistening of the substrate if necessary, and photo/video recording.]
+ 
+  In the A/L (Airlock), the FE-4 worked with the ground in setting up the oxygen transfer equipment to be used to supply O<sub>2</sub> from the Shuttle to the PBA (Portable Breathing Apparatus) ports in the A/L in support of pre-EVA mask prebreathe for denitrogenation.
+ 
+  The FE-5 completed the (currently frequent) offloading of the WPA (Water Processor Assembly) from WRS (Water Recovery System) Rack 1 into a CWC-I (Collapsible Water Container-Iodine) with the common H<sub>2</sub>O transfer hose (which took about 23 min) from the PWD (Potable Water Dispenser) Auxiliary Port, then flushed the system.
+ 
+  In the JAXA JLP (JEM Logistics Pressurized Segment), De Winne removed the soft dummy panel from the P1 rack bay in preparation for tomorrow’s planned ZSR (Zero-G Stowage Rack) installation.
+ 
+  FE-2 Kopra relocated the VCA (Video Camera Assembly 1) from the COL (Columbus Orbital Laboratory) to the Node-2 Zenith to allow monitoring cargo transfer activities in the MPLM/Node 2 area.
+ 
+  Tim also retrieved the two CCISS (Cardiovascular Control on return from the ISS) Actiwatches and HM2 (Holter Monitor 2) used yesterday in his CCISS/Baro Heart Rate Study from temporary stowage, downloaded their data to the PC1 laptop and stowed the gear.
+ 
+  CDR Padalka serviced the Russian M-1100 medical minicentrifuge by taking it apart and scrubbing its rotor, then re-assembling it.    [The M-1100 minicentrifuge kit is normally used in the periodic MedOps test "Hematokrit" (MO-10) for centrifuging blood samples in microcapillary tubes to determine the hematocrit value (red blood cell count) of the subject’s blood.]
+ 
+  In the DC-1 Docking Compartment, Gennady removed &amp; replaced the LKA1G local analog commutator unit (TA249MB) in the ACC Message Acquisition System of the DC-1.
+ 
+  Padalka also re-tightened the QD (Quick Disconnect) screw clamps of the Soyuz TMA-14 spacecraft’s attachment at the DC-1 nadir port.
+ 
+  In the JAXA Kibo module, FE-4 Thirsk gathered parts for CBEF (Cell Biology Experiment Facility) IU (Incubator Unit) fan maintenance, then attached the CBEF connector between the 1G IU and the Micro-G IU.
+ 
+  Throughout the day’s activities, including ongoing MPLM cargo transfer ops, Gennady Padalka &amp; Roman Romanenko are continuing to film scenes of “Life aboard ISS” with the Russian video camcorder, for public airing by the Russian Vesti 24 TV news channel in their “Kosmos” segment.
+ 
+  Before lunch, Padalka is to perform another health check of the KhSA Cooler/Dehumidifier Assembly’s V1 fan in the Soyuz 18S spacecraft’s DM (Descent Module) by turning the V2 fan off and the V1 fan on, then checking air flow.     [On 6/25, a planned replacement of the apparently faulty fan in the Soyuz 18S DM with a new unit proved to be not necessary after Padalka configured a jumper bypass which successfully recovered functionality of the air conditioner fan.  Today’s activity was to check up on the fix.] 
+ 
+  FD4 midday meal (“lunch”) is timelined tonight at 8:11pm-9:11pm.
+ 
+  After lunch, Mike Barratt will start (later terminate) another 5-hr automatic sampling run (the 25<sup>th</sup>) with the EHS GC/DMS (Environmental Health System Gas Chromatograph/Differential Mobility Spectrometer), also known as AQM (Air Quality Monitor), controlled with “Sionex” expert software from the SSC-4 (Station Support Computer 4) laptop.    [The AQM demonstrates COTS (Commercial Off-the-Shelf) technology for identifying volatile organic compounds, similar to the VOA (Volatile Organics Analyzer).  Today’s data will again to be compared with VOA and GSC (Grab Sample Container) measurements.  This evaluation will continue over the course of several months as it helps to eventually certify the GC/DMS as nominal CHeCS hardware.]
+ 
+  Afterwards, the FE-1 will place 14 KFTs (KSC Fixation Tubes) of the JAXA experiment SPACE SEED into the MELFI (Minus-Eighty Laboratory Freezer for ISS).    [The Kennedy Space Center Fixation Tube is a system designed to contain plant or other small biological samples during flight and chemically fix and stain the tissue samples.]
+ 
+  Following up on his swabbing session on 8/26 with the LOCAD-PTS (Lab-on-a-Chip Application Development-Portable Test System) Phase 1 surface sampling experiment, Barratt is scheduled to take documentary photographs of the two incubation media slides.
+ 
+  The CDR is scheduled for the daily IMS maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+  Romanenko will complete the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+  Later tonight, after MPLM ingress, Mike will “scavenge” an LHA (Lamp Housing Assembly, #5) from the MPLM and install it in the A/L as a spare.
+ 
+  The ISS crew are performing their regular daily 2.5-hr. physical workout program on the CEVIS cycle ergometer (FE-1, FE-2, FE-4), TVIS treadmill with vibration isolation (CDR, FE-3, FE-5), ARED advanced resistive exercise device (FE-2, FE-4, FE-5), and VELO cycle ergometer with bungee cord load trainer (CDR, FE-3).    [Exercise today is off-limit at times during the MPLM transfer/installation for load reasons and in case of ARED to prevent interference with Node-2 ops.]
+ 
+  Afterwards, Bob Thirsk transfers the exercise data files to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+  After midnight tonight (~12:55am), the joint crew is scheduled for an in-depth one-hour review of procedures for the EVA-1 spacewalk, with egress scheduled tomorrow at ~5:50pm EDT.
+ 
+  Afterwards, at ~3:25am, Danny Olivas (EV1) &amp; Nicole Stott (EV2) will begin their “campout” (nachalo desaturatsiy = desaturation start) in the A/L with hatch closure and depressurization of the CL (Crewlock) from 14.7 to 10.2 psi, followed by mask prebreathe at ~3:25a-4:30am.  [Sleep for the ISS crew begins at 4:30am.]
+ 
+ EVA-1 Objectives:
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l4 level1 lfo4;text-autospace:none">Egress      (5:50pm)</li> <li class="MsoNormal" style="mso-list:l4 level1 lfo4;text-autospace:none">Disconnect      ATA (Ammonia Tank Assembly) fluid/electrical lines</li> <li class="MsoNormal" style="mso-list:l4 level1 lfo4;text-autospace:none">Remove      ATA from ISS truss site</li> <li class="MsoNormal" style="mso-list:l4 level1 lfo4;text-autospace:none">Stow      ATA temporarily on SSRMS</li> <li class="MsoNormal" style="mso-list:l4 level1 lfo4;text-autospace:none">Retrieve      MISSE 6 (Materials ISS Experiment 6) from COL exposed facility &amp;      return to Shuttle PLB</li> <li class="MsoNormal" style="mso-list:l4 level1 lfo4;text-autospace:none">Retrieve      EuTEF (European Technology Exposure Facility) from      COL exposed facility and return to Shuttle carrier</li> <li class="MsoNormal" style="mso-list:l4 level1 lfo4;text-autospace:none">Cleanup      and ingress.</li> </ul> 
+  Following the usual hygiene break/with mask prebreathe for Danny &amp; Nicole tomorrow morning (~1:35pm-2:45pm) after spending the night on 10.2 psi, the A/L hatch will be closed again for EVA preps in 10.2 psi, followed by EMU purge and prebreathe in the EMUs, then egress on EVA-1 at ~5:50pm.  Campout support will be provided by MS2 Jose Hernandez.
+ 
+  Sleeptime for the crews will begin tomorrow morning at 4:30am, to last until 1:00pm.
+ 
+ Orbiter Thruster Leak:   Due to a failure of the F5R vernier thruster on Discovery some time after launch, the Orbiter VRCS (Vernier Reaction Control System) was unavailable for docking and will be unavailable for the 17A mission.  Docking using the PRCS (Primary RCS) came at a cost of 265 kg propellant instead of 34 kg budgeted for VRCS.  The only Orbiter-based option available for attitude control of the “stack” (ISS/Orbiter docked configuration) is to use PRCS thrusters in the Orbiter Configuration-1 Burn Mode.  Solar array positioning and ISS maneuver plans have been revised for mated attitude maneuvers using RS (Russian System) attitude control.  For DAMs (Debris Avoidance Maneuvers), PRCS jets will be used in Config-1 after maneuvering to attitude under RS attitude control.  
+ 
+ Water Dump Deletion:  The originally planned overboard venting of water from Discovery on FD6 was deleted, since ~60 kg RS rocket propellant would be required for holding stack attitude during the dump.  Instead, the water will be stored, filling planned CWCs (Collapsible Water Containers) to 97.2 lbm, rather than 95 lbm (max. capacity = 120 lbm).  This will not impact CWC inventory.
+ 
+  No CEO photo targets uplinked for today.
+ 
+  CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov/" title="http://eol.jsc.nasa.gov/">http://eol.jsc.nasa.gov</a>  (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+ 
+ 

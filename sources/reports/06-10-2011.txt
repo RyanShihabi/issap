@@ -1,0 +1,47 @@
+ISS On-Orbit Status 06/10/11
+ 
+All ISS systems continue to function nominally, except those noted previously or below.     Crew off-duty day (rest period: from 3:00am this morning to 2:00am tomorrow).
+ 
+Yest kasaniya! Soyuz TMA-02M/27S (#702) docked successfully under automatic control last evening at 5:18pm EDT at the MRM1 “Rassvet” module, 5 min ahead of schedule and 2 min after orbital sunset.  This doubles the station crew size to 6 persons and brings the total number of currently docked Russian VVs (visiting vehicles) to 3:
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l0 level1 lfo1">Soyuz TMA-21/26S (#231) @ MRM2 “Poisk” zenith,</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">Soyuz TMA-02M/27S (#702) @ MRM1 “Rassvet”</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">Progress M-10M/42P (#410) @ DC-1 nadir</li></ul>plus
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l0 level1 lfo1">ESA’s ATV-2 “Johannes Kepler” @ SM aft.  </li></ul> 
+This is the 113<sup>th</sup> mission to the ISS and Russia’s 73<sup>rd</sup>.  Since the first launch, by the FGB “Zarya” module on a Proton-K (1A/R) on 11/20/1998, there also have been a total of 36 US missions, 2 European missions (ATV-1, ATV-2) and 2 Japanese missions (HTV1, HTV2).
+ 
+TMA-02M delivered Exp-28/29 crewmembers FE-4 Sergei Volkov, FE-5 Satoshi Furukawa &amp; FE-6 Mike Fossum, joining CDR Andrey Borisenko, FE-1 Aleksandr Samokutyayev &amp; FE-3 Ron Garan.    [For Furukawa it is the first spaceflight, the second for Volkov who served as ISS-17 CDR, and the third for Fossum who flew on STS-121 &amp; STS-124.]
+ 
+Welcome aboard, Mike, Sergei and Satoshi!
+ 
+After last evening’s Soyuz docking at MRM1, FE-1 Samokutyayev –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l1 level1 lfo2">Switched hatch KVDs (Pressure Equalization Valves/PEVs) between MRM1 &amp; Soyuz back to Electric control mode,</li><li class="MsoNormal" style="mso-list:l1 level1 lfo2">Dismantled, with Garan, the Ku-band streaming video transmission “scheme”,</li><li class="MsoNormal" style="mso-list:l1 level1 lfo2">Turned off the BRTK TVS video system for subsequent downlinking of footage, and</li><li class="MsoNormal" style="mso-list:l1 level1 lfo2">Reconfigured STTS station comm for the nominal post-docking hardline mode (MBS).</li></ul> 
+Borisenko meanwhile copied the structural dynamics data of the Russian TEKh-15/DAKON-M IZGIB (“Bend”) experiment from the BUSD Control &amp; Data Gathering Unit to a USB-D-M-3 stick for downlink to the ground.  The BUSD archive was then deleted and the DAKON-M restarted.     
+ 
+RS (Russian Segment) thrusters on the ISS were inhibited from 7:15pm-9:20pm EDT for the leak check and clamp installation.
+ 
+The ISS crew then took time out for a 30-min snack (~6:15pm-6:45pm).
+ 
+Soyuz CDR Volkov meanwhile conducted the leak checking on the Soyuz side (by evacuating the Orbital Module and watching pressure readings).
+ 
+Hatch opening and Crew Welcome took place at about 8:23pm, seen on the ground live on PAO TV.  Borisenko then installed the interface-rigidizing SSVP BZV quick-disconnect clamps at ~9:00pm. 
+ 
+Afterwards, the newcomers, Sergei, Satoshi &amp; Mike assembled with Andrey, Sasha &amp; Ron in the SM (Service Module) for the obligatory Safety Briefing by Borisenko (~9:25pm-10:10pm), to familiarize themselves with procedures and escape routes in case of an emergency. 
+ 
+Furukawa took care of the Sokol suits and their gloves, putting them up for drying out, and later transferred and unpacked the contents of his HMS IMAK (Health Maintenance System / ISS Medical Accessory Kit) brought up on 27S.
+ 
+After deactivating Soyuz 27S systems and putting the spacecraft on ISS-furnished power, Volkov &amp; Samokutyayev started transferring higher-priority BIOEKOLOGIYA (Bioecology) experiment cases from the spacecraft to SM, logging moves in the IMS (Inventory Management System) and taking documentary photography of the installations:
+ 
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l2 level1 lfo3;text-autospace:none">BTKh-41/BACTERIOFAG (Bakteriophag, study of space flight factors effect on medical, diagnostic and genetic characteristics) – to SM (Panel 328);</li><li class="MsoNormal" style="mso-list:l2 level1 lfo3;text-autospace:none">BTKh-29 ZHENSHEN-2 (Ginseng-2, study of new plants for biological products and genotypes with increased biological activity) – to MRM2;</li><li class="MsoNormal" style="mso-list:l2 level1 lfo3;text-autospace:none">BTKh-44/Calcium – to SM (Panel 406).</li></ul> 
+Sasha also unloaded the JAXA RBO-3 MATRYOSHKA-R PADLE (Passive Area Dosimeters for Lifescience Experiment) payload and transferred it to the USOS (US Segment) for turn-over to Satoshi.
+ 
+First thing for FE-5 Furukawa &amp; FE-6 Fossum was to prepare and get settled in their CQ (Crew Quarters).  In Node-2, Mike selected the Port CQ (formerly Cady’s), Satoshi the Stbd CQ (formerly Paolo’s).      [Activity steps probably included inspection of the CQ and cleaning if needed, retrieving personnel clothing and sleeping bag CTBs (Cargo Transfer Bags), installing the sleeping bag on the sleep wall and setting up &amp; securing personnel effects.]
+ 
+In the US Lab, Ron Garan powered on the ISSAC (ISS Agriculture Camera) laptop inside the WORF (Window Observational Research Facility) and opened the window shutter so ground images can be captured during the following 36-hour period (through Sunday).      [ISSAC takes frequent visible-light &amp; infrared images of vegetated areas on the Earth.  The camera focuses principally on rangelands, grasslands, forests, and wetlands in the northern Great Plains and Rocky Mountain regions of the United States.  The images may be delivered directly upon request to farmers, ranchers, foresters, natural resource managers and tribal officials to help improve their environmental stewardship of the land.  The images will also be shared with educators for classroom use.]
+ 
+FE-5 &amp; FE-6 had their first post-launch PMCs (Private Medical Conferences), via S- &amp; Ku-band audio/video, Mike at ~10:10pm, Satoshi at ~11:25pm EDT.
+ 
+Before “Presleep” period this morning, Garan powered on the MPC (Multi-Protocol Converter) and start the data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, MPC was turned off again.     [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+Shortly before sleeptime (3:00am this morning), Ron also conducted the second part of yesterday’s session with the Reaction Self Test (Psychomotor Vigilance Self Test on the ISS) protocol, his 22<sup>nd</sup>.      [The RST is performed twice daily (after wakeup &amp; before bedtime) for 3 days prior to the sleep shift, the day(s) of the sleep shift and 5 days following a sleep shift. The experiment consists of a 5-minute reaction time task that allows crewmembers to monitor the daily effects of fatigue on performance while on ISS.  The experiment provides objective feedback on neurobehavioral changes in attention, psychomotor speed, state stability, and impulsivity while on ISS missions, particularly as they relate to changes in circadian rhythms, sleep restrictions, and extended work shifts.]
+ 
+No CEO (Crew Earth Observation) targets uplinked for today.
+ 
+

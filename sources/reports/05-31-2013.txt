@@ -1,0 +1,11 @@
+
+New Status: 
+Inter-module Ventilation (IMV) Flow Measurement: FE-5 Parmitano and FE-6 Nyberg completed IMV flow measurements throughout the United States On-orbit Segment (USOS).  Measurements were taken using the velocicalc at the ventilation inlets and outlets and in mid-module to determine the status of the IMV system between the USOS modules as well as between the USOS and Russian Segment (RS).
+
+Gradient Heating Furnace (GHF) Heater Insulation: Nyberg successfully completed the measurement of the GHF Material Processing Unit heaters.  The GHF is a vacuum furnace that contains three heating blocks. Their positions and temperatures can be independently controlled, and various temperature profiles can be realized. This facility will be mainly used for high quality crystal growth experiments using unidirectional solidification.  GHF has an automatic sample exchange system that can be accommodate up to 15 samples to reduce crew operation.
+
+Emergency Roles and Responsibilities Review: The six Expedition 36 crewmembers reviewed their roles and responsibilities in the event of an onboard emergency.  The crewmembers discussed their emergency response plans and philosophies amongst themselves, then conduct a conference with the Mission Control Centers in Houston (MCC-H) and Moscow (MCC-M).  
+
+Photovoltaic Thermal Control System (PVTCS) Portable Computer System (PCS) Patch: Ground controllers deployed a PCS patch that will correct the telemetry for the 2B PVTCS on the onboard PCS displays. Following that patch deploy the crew will be able to resume nominal procedure response, and is not required to verify with MCC-H for 2B PVTCS actions. The 2B PVTCS continues to operate with the newly installed pump and there are no indications of a leak. The Multiplexer/Demultiplexer (MDM) software has been updated, the Fault Detection, Isolation, and Recovery (FDIR) re-enabled, and 2B is supporting its own downstream loads.
+
+

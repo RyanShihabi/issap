@@ -1,0 +1,21 @@
+
+International Docking Adapter (IDA)3 Extravehicular Activity (EVA): Crewmembers Nick Hague and Andrew Morgan successfully executed USOS EVA #55 within 6 hours and 31 minutes in order to accomplish the following tasks:
+
+IDA3 cable routing and connections
+IDA3 installation
+IDA3 Multi-Layer Insulation (MLI) removal
+IDA3 outfitting.
+
+Install Hemispherical (HEMI) reflectors (2)
+Install H-Fixture MLI
+Install PMA3 planar reflector cover
+
+
+Connect second Truss Jumper and address ungrounded connector
+EWC Ethernet Cable (W4300) routing
+PMA3 Articulating Portable Foot Restraint (APFR) to Starboard CETA cart relocation
+Port CETA APFR Ingress Aid (AIA) wire tie installation
+
+Micro-15: The crew performed the Micro-15 fixation on the sample culture bags. The goal of this investigation is to better understand the effects of gravity on the differentiation of mammalian cells using 3-D cultures of induced pluripotent stem (iPS) cells. Past flight experiments and ground-based simulations have demonstrated that microgravity influences gene expression, cell proliferation, and differentiation in stem cells but the mechanism behind these observations is not clearly understood. This study investigates how exposure to microgravity fundamentally alters cell regulation and how these changes can affect the timing, progression, and outcomes of cell differentiation. 
+Remote Power Control Module (RPCM) Remote Power Controller (RPC) Trip:  RPCM N32A2BE1 RPC-3, which powers the Node 3 Forward Port Intra-Module Ventilation (IMV) fan tripped open overnight. Ground teams are assessing telemetry and formulating a troubleshooting plan.
+

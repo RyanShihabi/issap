@@ -1,0 +1,10 @@
+
+Team Task Switching (TTS): Today the crew completed a TTS survey. The objective of the TTS investigation is to gain knowledge about whether or not crewmembers have difficulty in switching tasks, and apply the results to both the reduction of any negative consequences and improvement of individual and team motivation and effectiveness.
+Mobile Servicing System (MSS) Operations: Overnight, robotics specialists commanded the Space Station Remote Manipulator System (SSRMS) with the Special Purpose Dexterous Manipulator (SPDM) to complete battery R&R operations preceding tomorrow’s US Extra Vehicle Activity (EVA) 53. After retrieving the NiH2 battery at the 2A Slot 6, and successfully installing it on the Exposed Pallet (EP), they retrieved the NiH2 battery at the 2A Slot 4. This battery will remain on SPDM Arm2 until after tomorrow’s EVA. 
+Extravehicular Activity (EVA) Preparations: In preparation for tomorrow’s EVA #53, the crew performed the following activities:
+
+Equipment Lock prep for suit donning
+Procedures review and conference
+
+Multiplexer/Demultiplexer (MDM) On-Orbit Tester (MOOT) Checkout: The crew checked out the spare Node 1 (N1) MDM to verify that the new, thermally tested EPIC cards installed last year are performing as expected. The crew stood down on the EXT-1 MDM checkout due to issues encountered when the software requested the MDM to dump data for review. The new EPIC cards were launched on OA-9 based on the results of the Test, Teardown and Evaluation (TT&E) study completed on the EXT-1 MDM that failed in 2017. Because MDMs route commands between vital station systems, knowing the status of these spares is critical to ensure ground specialists are properly postured to respond to any future MDM failures.
+

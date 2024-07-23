@@ -1,0 +1,16 @@
+
+Russian Extravehicular Activity (EVA) #38: EV1 Skvortsov and EV2 Artemiev successfully performed a 7 hour 23 minute EVA today.  All of the planned tasks were completed:
+
+Installed [АФАР] antenna of [EKTC] (comm system) on SM conical section
+Relocated “Obstanovka” [ПВК-2] unit along SM handrails
+Verified operating condition of SM plane IV [УРM-Д] fasteners
+Performed experiment “Test” on Window #2 of SM large diameter
+Removed and jettisoned MPAC&SEED frame from SM large diameter
+Installed Payload Boom on SM large diameter
+
+During the EVA, Commander (CDR) Swanson was isolated in the Mini Research Module (MRM)-2/38S.  He performed a photography survey of 3A Solar Array (SA) Flat Collector Circuit (FCC) and a photo survey of the starboard Solar Array Wing masts.  Flight Engineer (FE)-4 Suraev, FE-5 Wiseman, and FE-6 Gerst had access to all modules forward of the Service Module (SM) / Docking Compartment (DC)1.
+Sprint: Wiseman completed his Flight Day (FD) 15 Sprint Volume of Oxygen Utilized (VO2) protocol using the Blood Pressure (BP)/Electrocardiogram (ECG) hardware. Sprint evaluates the use of high intensity, low volume exercise training to minimize loss of muscle, bone, and cardiovascular function in International Space Station (ISS) crewmembers during long-duration missions.
+Space Acceleration Measurement System (SAMS) Control Unit (CU) Hard Drive Swap: Following a Remote Power Control Module (RPCM) maintenance activity on June 5th, ground teams were not able to communicate with the SAMS laptop. Yesterday, the crew attempted to reseat the hard drive to regain functionality of the laptop which was unsuccessful. Today Wiseman swapped the hard drive in the SAMS CU laptop and communication was re-established with the SAMS laptop. SAMS is back to nominal operations.
+Capillary Flow Experiment (CFE) Operations: Gerst set up hardware on the Maintenance Work Area (MWA) and conducted an ICF test using the ICF5 hardware which contains a square shaped rectangular section, equally divided into four smaller sections. Wiseman shadowed Gerst during hardware setup and the beginning of the test to train him for the next session. CFE ICF studies capillary flow in interior corners of vessels with various geometries. Structured inside tanks providing interior corners are used in the design of fuel tanks to promote fuel flow to the outlet of the tank in the absence of gravity. Experimental results will provide the necessary boundary conditions as a function of container cross section and fill fraction. The benchmarked theory can be used to improve propellant management aboard spacecraft.
+Burning and Suppression of Solids (BASS)-II Cable Troubleshoot: On Monday, the BASS monitors stopped displaying the experiment video and still camera images after completing four flame tests. The BASS video monitor is specific to the BASS investigation and displays fuel, air, and fan readings during test burns. Today Wiseman conducted troubleshooting of the BASS-II video cable connector by taking conductivity measurements of the video cable. The ground team is reviewing the data from today’s activities to determine forward actions.
+

@@ -20,7 +20,7 @@ def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list = None
         return apriori_df.loc[rows, :]
 
 # Run apriori calculations from a list
-def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None, pair: list = [], save: bool = False):
+def apriori_from_list(mention_list: list, facility_data: dict, file_name: str, pair_type: str = None, pair: list = [], save: bool = False):
     te = TransactionEncoder()
     te_ary = te.fit(mention_list).transform(mention_list)
     df = pd.DataFrame(te_ary, columns=te.columns_)
@@ -39,18 +39,20 @@ def apriori_from_list(mention_list: list, file_name: str, pair_type: str = None,
     
     if len(pair) != 0:
         drop_idx = []
-        with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
-            facility_data = json.load(f)
-        f.close()
+
+        facility_data_pair = facility_data[f"facility_{pair_type}"]
+        # with open(f"./sources/facility_data/json/facility_{pair_type}.json", "r") as f:
+        #     facility_data = json.load(f)
+        # f.close()
 
         for i, row in itemsets_pair.iterrows():
             itemset = list(row.iloc[1])
             # Get reference of category or agency
-            if ((itemset[0] in facility_data.keys()) and (itemset[1] in facility_data.keys())) == False:
+            if ((itemset[0] in facility_data_pair.keys()) and (itemset[1] in facility_data_pair.keys())) == False:
                 drop_idx.append(i)
                 continue
 
-            itemset_types = [facility_data[itemset[0]], facility_data[itemset[1]]]
+            itemset_types = [facility_data_pair[itemset[0]], facility_data_pair[itemset[1]]]
 
             if ((pair == itemset_types) or (pair == itemset_types[::-1])) == False:
                 drop_idx.append(i)

@@ -1,0 +1,14 @@
+
+Space Headaches Questionnaire: The crew performed their weekly questionnaire, answering questions utilizing the Data Collection Tool.  This European Space Agency (ESA) investigation collects information that may help in the development of methods to alleviate associated symptoms and improvement in the well-being and performance of crewmembers in space. Headaches during space flight can negatively affect mental and physical capacities of crewmembers that can influence performance during a space mission. 
+MagVector Closeout:  The crew completed closeout and cleanup activities for Science Run#9 of MagVector. The run was initiated on March 16, 2016 and has been ongoing for a week. MagVector and the venting system will be subsequently deactivated until a new science run is initiated. Cleanup steps included verifying the experiment has finished and moving the external USB memory drive to an Space Station Computer (SSC) for downlink and powering off the MagVector. The investigation studies how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above a conductor, researchers can gain insight into ways that the magnetic field influences how conductors work. This research not only helps improve future ISS experiments and electrical experiments, but it could offer insights into how magnetic fields influence electrical conductors in general – the backbone of our technology.
+Remote Power Control Module (RPCM) LAS52A3B-A RPC 4 Remove & Replace (R&R): On March 17, 2017, this RPC which powers Common Video Interface Unit (CVIU) 4 failed to close when commanded. The fault signature was indicative of a Field Effect Transistors (FET) Controller Hybrid (FCH) failure. The crew was successful in replacing the RPCM this morning, restoring functionality to RPC 4 and CVIU 4.
+Extravehicular Activity (EVA) #40 Preparations: The crew completed the following in preparation for tomorrow’s EVA:
+
+Configured 2 EVA GoPro cameras.
+Relocated Station Support Computers (SSCs) 8 and 9 in the US Lab for EVA video.
+Updated procedures in the EVA Systems Checklist book.
+Configured EVA tools.
+Performed procedures review followed by a conference with ground teams.
+Prepared Equipment Lock, EMUs, and required ancillary hardware.
+
+

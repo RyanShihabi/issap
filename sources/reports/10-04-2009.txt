@@ -1,0 +1,74 @@
+ISS On-Orbit Status 10/04/09
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.      Sunday – light-duty day.  Ahead:  Week 19 of Increment 20.
+  
+  FE-5-21 Jeff Williams started out with “the pill”,- his participation in the weekly U.S. “Bisphosphonates” biomedical countermeasures experiment, ingesting an Alendronate pill before breakfast.     [The Bisphosphonates study should determine whether antiresorptive agents (that help reduce bone loss) in conjunction with the routine in-flight exercise program will protect ISS crewmembers from the regional decreases in bone mineral density documented on previous ISS missions.  Two dosing regimens are being tested: (1) an oral dose of 70 mg of Alendronate taken weekly starting 3 weeks prior to flight and then throughout the flight and (2) an intravenous (IV) dose of 4 mg Zoledronic Acid, administered just once approximately 45 days before flight. The rationale for including both Alendronate and Zoledronic Acid is that two dosing options will maximize crew participation, increase the countermeasure options available to flight surgeons, increase scientific opportunities, and minimize the effects of operational and logistical constraints.  The primary measurement objective is to obtain preflight and postflight QCT (Quantitative Computed Tomography) scans of the hip. The QCT scans will provide volumetric bone density information of both cortical and trabecular (spongy) bone regions of the hip.] 
+ 
+  At ~5:45am EDT, all crewmembers joined in a 20-min Safety Conference &amp; Briefing with ground specialists via S-band.
+ 
+  This was followed by a detailed 1h40m Crew Safety Handover to refresh their proficiency in procedures and escape routes in case of an emergency, including re-iteration of the 3-Soyuz evacuation &amp; landing strategy.     [Some key aspects: Soyuz spacecraft are equipped to support the crew for up to 5.2 days of autonomous operations, plus an additional 18 hrs of resources for cabin air revitalization for post-landing crew support in case of any issues with hatch opening after landing.  Nominal rendezvous &amp; docking timeline takes approximately 2.2 days.  Therefore, each Soyuz docked to ISS is left with at least 3 days of crew support between Soyuz hatch closure and landing, with CO<sub>2</sub> removal the limiting factor.  Soyuz can undock on any DO (Daily Orbit); however, except in cases requiring immediate Soyuz undocking, undockings will be planned such that landing &amp; recovery operations can be supported by Russian SAR (Search &amp; Rescue) forces.  This requires performing de-orbit burn &amp; landing during DO-1, -2 or -3.  A minimum of 18 hrs (for planning, coordination &amp; preparations) is needed between the decision to evacuate ISS and the first Soyuz undocking.  Undocking of Soyuz #1: no later than DO-14/15 of the nearest or the following day, given the 18-hr constraint, for a DO1-3 D&amp;L (de-orbit &amp; landing).  Soyuz #2 undocks no later than DO-14/15 following the undock day of Soyuz #1, for a DO1 D&amp;L.  Soyuz #3 undocks no later than DO-1 during the day of Soyuz #2 undock, but not earlier than three hours after Soyuz #2 undock, for a DO3 D&amp;L.] 
+ 
+  Working in the Zvezda SM (Service Module), CDR Padalka performed troubleshooting on the BKS onboard cable network for a circuit in the RRZh1 KOKh1 power supply box behind panel 134 where fuses have repeatedly blown.     [After setting up connections, the CDR used the Elektronika MMTs-01 Multimeter tester to check DC resistances in the wiring.]
+ 
+  FE-1 Mike Barratt moved the CEVIS (Cycle Ergometer with Vibration Isolation) in the Lab a few seat tracks aft to make room for PPFS (Portable Pulmonary Function System) hardware for the upcoming VO2Max experiment activity.    [FE-5 De Winne’s PPFS checkout yesterday did not quite go as expected.  While POIC (Payload Operations Integration Center/Huntsville) was able to verify that their commands were reaching the system, no downlink data were detected on the ground.  Frank shut down the system and ground teams are assessing the problem.]
+ 
+  For tomorrow’s planned ESA experiment CARD (Long Term Microgravity: Model for Investigating Mechanisms of Heart Disease), Barratt equipped the body-worn CARD HLTA BP (Holter Arterial Blood Pressure) instrument with fresh AA batteries.     [The CARD protocol included a 24h urine collection on Day 1, a 24h blood pressure monitoring with the HLTA, a blood draw (in the morning of Day 2), and five cardiac output measurements performed with the HRF-2 PFS (Pulmonary Function System) via re-breathing technique (three double re-breathing sessions with the 4L Re-breathing Bag on Day 1 and two on Day2).]
+ 
+  Padalka completed another preliminary training session with the Russian "Chibis" LBNP suit (lower body negative pressure; Russian: ODNT), ramping up to get himself ready for returning to gravity on 10/10.  Assisted by FE-03 Romanenko as CMO (Crew Medical Officer), Gennady was supported in the 55-min session on the Russian VELO ergometer by ground specialist tagup via VHF at 8:21-8:34am EDT (DO5).     [The assessment uses the Gamma-1 ECG equipment with biomed harness, skin electrodes and a blood pressure and rheoplethysmograph cuff wired to the cycle ergometer's instrumentation panels.  The Chibis ODNT provides gravity-simulating stress to the body’s cardiovascular/circulatory system for evaluation of Padalka’s orthostatic tolerance (e.g., the Gauer-Henry reflex) after several months in zero-G.  The preparatory training generally consists of first imbibing 150-200 milliliters of water or juice, followed by two cycles of a sequence of progressive regimes of reduced (“negative”) pressure, set today at -25, -35, -40, and -45 mmHg (Torr) for five min. each while shifting from foot to foot at 10-12 steps per minute wearing a sphygmomanometer to measure blood pressure.  The body’s circulatory system interprets the pressure differential between upper and lower body as a gravity-like force pulling the blood (and other liquids) down.  Chibis data and biomed cardiovascular readings are recorded.  The Chibis suit (not to be confused with the Russian “Pinguin” suit for spring-loaded body compression, or the "Kentavr" anti-g suit worn during reentry) is similar to the U.S. LBNP facility (not a suit) used for the first time on Skylab in 1973/74, although it appears to accomplish its purpose more quickly.]
+ 
+  CDR Padalka conducted the periodic checkout &amp; performance verification of IP-1 airflow sensors in the various RS (Russian Segment) hatchways.
+ 
+  The FE-3 did the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+  Roman also performed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM, including the weekly collection of the toilet flush (SP) counter and water supply (SVO) readings for calldown to TsUP-Moscow.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+  Additionally, the FE-3 checked up on the Russian POTOK-150MK (150 micron) air filter unit of the SM’s SOGS air revitalization subsystem, gathering weekly data on total operating time &amp; “On” durations for reporting to TsUP-Moscow.
+ 
+  Maxim Suraev performed the periodic update of the AntiVirus program in the Russian VKS auxiliary laptops (RSS2, RSK1, RSE1, RSE2) from a new uplinked program copy on the RSS1 laptop, first scanning the latter, then transferring the database by flash-card to the other computers and scanning them one by one.
+ 
+  Mike, Roman, Gennady, Jeff &amp; Maxim again had several hours between them for more E20/E21 handover activities.
+ 
+  In the JAXA JLP (JEM Logistics Pressurized Segment), Jeff Williams moved stowage out of the way and retrieved a PTU (Pre-treated Urine) T-valve for temporary stowage in the Lab for the upcoming urine transfer.   [JLP stowage was then restored.]
+ 
+  Jeff then connected a Russian EDV-U urine container at the P4 rack in the Lab and configured the Russian Compressor-M pump for the urine transfer from the WHC (Waste &amp; Hygiene Compartment).
+ 
+  Roman &amp; Maxim serviced newly arrived Russian science payloads in the SM, i.e. –
+ <?if !supportLists?>·         <?endif?>BTKh-26/KASKAD  (Cascade, to investigate culturing process of cells of microorganisms, animals and humans in micro-G for obtaining a concentrated biomass with high concentration of cells to guarantee an elevated output of targeted biologically active substances)
+ <?if !supportLists?>o    <?endif?>Remove from  Kriogem-03M, place Bioreactor #05 in thermal control chamber and start mixing
+ <?if !supportLists?>o    <?endif?>Take activity photographs
+ <?if !supportLists?>o    <?endif?>Retrieve Bioreactor from thermostatic control chamber and return to Kriogem-03M (+29 degC)
+ <?if !supportLists?>o    <?endif?>Unplug thermostatic control chamber from RBS power outlet and stow.
+ <?if !supportLists?>·         <?endif?>BTKh-6/ARIL   (to develop ways to differentiate the properties of recombinant producer strains of the Interleukins 1-alpha, 1-beta and aril by exposing microorganism cultures in micro-G and then selecting them under laboratory conditions)
+ <?if !supportLists?>o    <?endif?>Insert ARIL pack from Container 15 to Kriogem-03M (+4 degC) &amp; photograph.
+ <?if !supportLists?>·         <?endif?>BTKh-43/KONSTANTA   (to identify if there is an effect of spaceflight factors and its nature on the activity of a model enzyme relative to a specific substrate,- with two sessions, 10/4 &amp; 10/15).
+ <?if !supportLists?>o    <?endif?>Transfer Recomb-K hardware from Soyuz to SM,
+ <?if !supportLists?>o    <?endif?>Setup, photo, Recomb-K first study,
+ <?if !supportLists?>o    <?endif?>Set up video,
+ <?if !supportLists?>o    <?endif?>Remove video equipment.
+ 
+  Jeff Williams performed his second session with the Reaction Self Test on an A31p laptop (#1108 at Lab1O5) containing the appropriate software.
+ 
+  Williams &amp; Suraev each had an hour to themselves for general orientation (station familiarization &amp; acclimatization) as is standard daily rule for fresh crewmembers for the first two weeks after starting residence, if they choose to take it.
+ 
+  Frank De Winne assisted SFP Laliberté with a scheduled video shoot, acting as camera operator for an agreed-upon 30 min.     [These assistances to Guy by non-Russian crewmembers Williams, De Winne or Thirsk are formalized in a Memorandum of Understanding between NASA and Cirque du Soleil/Laliberté.]
+ 
+  At ~5:00am, Laliberté, Suraev &amp; Romanenko had a 25-min PAO TV video conference from the RS (Russian Segment) with attendees at TsUP-Moscow.
+ 
+  FE-1-21 &amp; FE-5-21 took their periodic PMCs (Private Medical Conferences), via S- &amp; Ku-band audio/video, Maxim at ~5:30am, Jeff at ~3:20pm EDT.
+ 
+  FE-1, FE-2, FE-4 &amp; FE-5 had their weekly PFCs (Private Family Conferences), via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop), Frank at ~10:30am, Bob at ~1:45pm, Nicole at ~2:15pm, Mike at ~5:00pm EDT.
+ 
+  The crew completed their regular daily 2.5-hr. physical workout program on the CEVIS cycle ergometer (FE-2, FE-4, FE-5), TVIS treadmill with vibration isolation (CDR, FE-1, FE-3), ARED advanced resistive exerciser (FE-1, FE-2, FE-4, FE-5), and VELO cycle ergometer with bungee cord load trainer (CDR, FE-3).
+ 
+  Later, Barratt transferred the exercise data files to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+  Immediately before bedtime, Mike Barratt takes another eye test with the PanOptic experiment, which requires application of eye drops causing eye dilation for subsequent ophthalmic examination performed by Nicole Stott as CMO.    [The procedure, guided by laptop software, captures still &amp; video images of the eye, including the posterior poles, macula &amp; optic disc with the optic nerve, for downlink and expert analysis.]
+ 
+ Current Soyuz Spacecraft Seat Assignments:
+ <ul style="margin-top:0in" type="disc"> <li class="MsoNormal" style="mso-list:l2 level1 lfo3">TMA-14/18S (DC-1      nadir):</li> <ul style="margin-top:0in" type="circle"> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Gennady Padalka (CDR)</li> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Mike Barratt</li> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Guy Laliberté</li> </ul> <li class="MsoNormal" style="mso-list:l2 level1 lfo3">TMA-15/19S (FGB      nadir):</li> <ul style="margin-top:0in" type="circle"> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Roman Romanenko (CDR)</li> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Frank De Winne</li> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Bob Thirsk</li> </ul> <li class="MsoNormal" style="mso-list:l2 level1 lfo3">TMA-16/20S (SM      aft):</li> <ul style="margin-top:0in" type="circle"> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Maxim Suraev (CDR)</li> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Jeff Williams</li> <li class="MsoNormal" style="mso-list:l2 level2 lfo3">Nicole Stott</li> </ul> </ul>  
+  No CEO (Crew Earth Observation) photo targets uplinked for today.
+  
+  CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov">http://eol.jsc.nasa.gov</a> (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+ 
+ 

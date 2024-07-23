@@ -1,0 +1,72 @@
+ISS On-Orbit Status 05/15/09
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.
+ 
+  In the DC1 Docking Compartment, CDR Padalka serviced the MATRYOSHKA-R (RBO-3-2) radiation suite’s LULIN-5 electronics box near the associated spherical "Phantom" unit, checking/adjusting date &amp; time, taking readings and entering a time tag, followed by a brief reboot of the Lulin-5 electronics box to clear data.     [Data accumulated by LULIN comprise measurement date, time, mode, three-directional flux data (sq.cm per sec.), and three-directional dose rate.]
+ 
+  FE-1 Barratt prepared for another session of sleep logging for the experiment SLEEP (Sleep-Wake Actigraphy &amp; Light Exposure during Spaceflight) by downloading Wakata’s and his Actiwatch (a monthly activity), readying the Actiwatches for Bob Thirsk and Frank DeWinne and initializing all four devices.  Mike and Koichi then donned their units and stowed Frank’s and Bob’s Actiwatches.    [To monitor the crewmember’s sleep/wake patterns and light exposure, the crewmembers wear a special “Actiwatch” device which measures the light levels encountered by them as well as their patterns of sleep and activity throughout the Expedition and use the payload software for data logging and filling in questionnaire entries in the experiment’s laptop session file on the HRF-1 laptop.  The log entries are done within 15 minutes of final awakening for seven consecutive days.]
+ 
+  CDR Padalka had several hours set aside for installing and connecting new control and navigation hardware for the Russian MRM-2 (Mini Research Module 2), to be launched on a Proton later this year (Flight 5R).    [Installed, in the SM (Service Module) and SM PkhO (Transfer Compartment), were SUBA Command &amp; Data Handling System (VKA Amplifier) and KURS-P instruments (RT-VKA KURS-P Temperature Regulator) plus their power and RF cabling (e.g., for +Y SM KURS-P antenna feeder heating, etc.) for MRM-2 onboard systems control.]
+ 
+  FE-2 Wakata prepared the HD TV gear (high definition G1 camcorder, MPC/Multipurpose Converter, IPU/Image Processing Unit) for recording the second session with the JAXA “Try Zero-G” experiment, and then conducted the demo, showing examples of the difference between 0G and 1G, including folding clothes, flying carpet, floating water, eye drops, etc.    [The first session had been viewed by Japanese press, including 5 TV and 10 newspaper reporters.]
+ 
+  Also in the Kibo JPM (JEM Pressurized Module), Wakata deactivated the ELT (Experiment Laptop Terminal) computer.
+ 
+  Later, after opening the upper door of the FCF (Fluids &amp; Combustion Facility) rack in the US Lab, Wakata removed a CIR (Combustion Integration Rack) Manifold Bottle-A (#2001) filled with CO<sub>2</sub> from the Optics Bench and replaced it with a fresh CO<sub>2</sub> bottle (#2002), then did the same swap with Manifold Bottle-B on the Optics Bench, filled with 40% O<sub>2 </sub>and 60% CO<sub>2</sub>.  The FCF upper door was then closed again and the ground notified that the rack was ready for command from RPC (Remote Power Controller).
+ 
+  In preparation for the S1 thermal radiator ammonia (NH<sub>3</sub>) venting, Mike Barratt closed the protective shutters of the JPM and Lab science windows.    [For the venting, over the Air Force Maui Optical &amp; Supercomputing Site (AMOS) due to its uniqueness at orbital speed and in darkness, ISS attitude control authority was handed over to RS MCS (Russian Segment Motion Control System) at 8:50am EDT and returned to US momentum management at 11:40am.]
+ 
+  Koichi Wakata performed the periodic ITCS (Internal Thermal Control System) coolant sampling, collecting MTL &amp; LTL (Moderate &amp; Low Temperature Loop) NH<sub>3</sub> samples in Node-2, and an OPA (Ortho-phthalaldehyde) sample in the US Lab after performing a flush for cleaning.
+ 
+  The FE-2 also completed the regular service on the WPA (Water Processor Assembly), first offloading the WPA into two of the new CWC-I (Contingency Water Containers-Iodine, #1017, #1018) with the common H<sub>2</sub>O Transfer Hose (which took about 6 min for #1017, 8 min for #1018) from the PWD (Potable Water Dispenser) Auxiliary Port, then flushing the system.
+ 
+  CDR Padalka collected and downloaded the periodic sensor readings of the Russian “Pille-MKS” (MKS = ISS) radiation dosimetry experiment which has ten sensors placed at various locations in the Russian segment (DC1, SM starboard &amp; port cabin windows, ASU toilet facility, control panel, etc.).    [Nine of the ten dosimeters are read manually.]
+ 
+  Afterwards, Padalka checked the status of the contact sensors (DZK1-DZK) on the transfer hatch door from the FGB PGO (Instrument Cargo Compartment) to the PkhO/SU (SM Transfer Vestibule).
+ 
+  In preparation for the upcoming UPA (Urine Processor Assembly) check valve removal, Koichi Wakata created a special tool (a Teflon pick) to aid in removing three shims which had not been considered in the original work plan.    [The removal of the UPA Fluids Control &amp; Pump Assembly Check Valve will occur on 5/18 (Monday), followed by processing runs on 5/19.  To accommodate this scheduling change, originally planned Robotics operations to relocate the SSRMS (Space Station Remote Manipulator System) from PDGF-3 (Power &amp; Data Grapple Fixture 3) to PDGF-1 have been deferred.] 
+ 
+  Mike Barratt made P&amp;I (Pen &amp; Ink) updates to the three onboard copies of the 15A Warning Book (Lab, SM, FGB), changing six warning procedures with two sets of changes each.    [The changes had to do with critical bus losses on the MBSU (Main Bus Switching Unit) 1, DDCU (DC-to-DC Converter Unit) S01A, MBSU 2 and DDCU S02B.  Some of the updates were uplinked as pre-printed text blocks which Mike could cut and paste in the margin of the procedures.]
+ 
+  The FE-1 conducted the daily status check on the BCAT (Binary Colloidal Alloy Test) science payload, running by itself since 5/12 on Sample 5.    [The status check, conducted on the last image taken by the DCS 760 digital still camera which is controlled by EarthKAM software on an A31p laptop, is to verify proper image focus and camera alignment.  The SSC (Station Support Computer) is taking photography of the phase separation occurring in the BCAT Sample 3, with the photo flash going off every half hour.]
+ 
+  Mike also performed the nominal water flush of the WHC (Waste &amp; Hygiene Compartment) urine receptacle in the Lab, using ~300 mL of ambient-temperature de-iodinated potable water from the PWD (Potable Water Dispenser).
+ 
+  After the S1 radiator venting, with SSRMS video viewing no longer required, the FE-1 disconnected and took down the UOP DCP (Utility Outlet Panel/Display &amp; Control Panel) power bypass cable at the Lab RWS (Robotic Work Station).
+ 
+  At ~3:30pm EDT, Gennady is to conduct another data collection run for the psychological MBI-16 Vzaimodejstvie (Interactions) program, accessing and completing the computerized study questionnaire on the RSE-Med laptop and saving the data in an encrypted file.   [The software has a “mood” questionnaire, a “group &amp; work environment” questionnaire, and a “critical incidents” log.  Results from the study, which is also mirrored by ground control subjects, could help to improve the ability of future crewmembers to interact safely and effectively with each other and with Mission Control, to have a more positive experience in space during multi-cultural, long-duration missions, and to successfully accomplish mission activities.] 
+ 
+  Barratt completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+  
+  Working off the voluntary “job jar” task list, the FE-1 also conducted the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+  The two Flight Engineers filled out their regular weekly FFQs (Food Frequency Questionnaires) on the MEC (Medical Equipment Computer), Mike’s seventh, Koichi’s ninth.    [On the FFQs, NASA astronauts keep a personalized log of their nutritional intake over time on special MEC software.  Recorded are the amounts consumed during the past week of such food items as beverages, cereals, grains, eggs, breads, snacks, sweets, fruit, beans, soup, vegetables, dairy, fish, meat, chicken, sauces &amp; spreads, and vitamins.  The FFQ is performed once a week to estimate nutrient intake from the previous week and to give recommendations to ground specialists that help maintain optimal crew health.  Weekly estimation has been verified to be reliable enough that nutrients do not need to be tracked daily.]
+ 
+  Michael Barratt performed the regular monthly inspection &amp; maintenance of the TVIS (Treadmill with Vibration Isolation &amp; Stabilization), inspecting the condition of harnesses, belt slats, corner bracket ropes, IRBAs (Isolation Restorative Bungee Assemblies) and gyroscope wire ropes for any damage or defects, lubricating as required plus checking the belt tension and recording time &amp; date values.    [“No damage to wire ropes on corners or gyroscope.  For TVIS harnesses, some very early fraying noted at D-ring loops for CDR and FE2; photos taken, will send down today. Thanks, Mike.”]
+ 
+  Mike also completed the periodic maintenance &amp; visual inspection of the ARED (Advanced Resistive Exercise Device) and its VIS (Vibration Isolation System) rails &amp; rollers, greasing the Y- and Z-axis rails &amp; rollers and also evacuating its cylinder flywheels to maintain proper vacuum condition and sensor calibration.
+ 
+  The crew completed their regular daily 2.5-hr. physical workout program (about half of which is used for setup &amp; post-exercise personal hygiene) on the TVIS treadmill (CDR, FE-1, FE-2), and ARED advanced resistive exercise device (CDR, FE-1, FE-2)
+ 
+  Afterwards, the FE-1 downloaded the exercise data file to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+  At ~4:00am EDT, the crew held the regular (nominally weekly) tagup with the Russian Flight Control Team (GOGU), including Shift Flight Director (SRP), at TsUP via S-band/audio, phone-patched from Houston and Moscow.
+ 
+  At ~10:10am, Gennady linked up with TsUP/Moscow stowage specialists via S-band to conduct the weekly IMS tagup, discussing inventory &amp; stowage issues, equipment locations and cargo transfers.
+ 
+  At ~2:55pm, the ISS crew is scheduled for their regular weekly tagup with the Lead Flight Director at JSC/MCC-H via S-band/audio.    [S/G-2 (Space-to-Ground 2) phone patch via SSC (Station Support Computer).]
+ 
+  Gennady has two job items remaining on his discretionary “as time permits” task list:-  packing &amp; stowing a BVN air heater fan and two VD (vozduchovodiy, air ducts) in the FGB, and conducting the periodic audit/inventory of RS (Russian Segment) medical kits (which total about 35). 
+ 
+ Conjunction Update:  The object (#30908, Chinese Fengyun-1C debris, from the 1/11/07 ASAT test on an old weather satellite, one of ~2500 tracked pieces) passed by the station with a wide margin and is no longer of concern. 
+ 
+ WRM Update:  A new WRM (Water Recovery Management) “cue card” was uplinked last night to the crew for their reference, updated with yesterday’s CWC water audit.    [The new card (19-0025G) lists 44 CWCs (~1,306.3 L total) for the four types of water identified on board: 1. technical water (30 CWCs with 878.2 L, for Elektron electrolysis, incl. 233.7 L currently off-limits pending sample analysis on the ground &amp; 644.5 L for flushing only due to Wautersia bacteria), 2. potable water (8 CWCs with 349.6 L, of which 221.3 L are currently off-limit pending ground analysis results), 3. condensate water (3 CWCs with 11.0 L), 4. waste/EMU dump and other (3 CWCs with 67.5 L).  Wautersia bacteria are typical water-borne microorganisms that have been seen previously in ISS water sources.  These isolates pose no threat to human health.]
+ 
+ S1-3-2 Radiator Flow Path Venting:  The ammonia venting took place as planned.   Motivated by the observed panel 7 face sheet separation, purpose of the venting was to protect against complete loss of the ETCS (External Thermal Control System) Loop A in the event of flow tube failure due to an MMOD (Micrometeoroid/Orbital Debris) strike or structural integrity failure due to the fatigue of the flow tube.  The NH<sub>3</sub> dumping from the S1-3-2 radiator path leaves three other paths active, with one path in reserve, filled with GN<sub>2</sub> (gaseous nitrogen).  The three-path configuration is expected to provide sufficient cooling for ETCS Loop A.  The total mass of ammonia vented was 45 lbs, recorded by the Lab ETVCG (External Television Camera Group) camera 1, the SSRMS Tip LEE (Latching End Effector) camera, and the ground. 
+ 
+ CEO (Crew Earth Observation) Note:  In recent days, ISS daylight-awake orbit tracks have shifted rapidly into the Southern Hemisphere which is now some seven weeks into the fall season, and both day length and sun elevation are significantly lowering.  This situation along with deteriorating seasonal weather greatly limits good view opportunities for targets.  The situation is further aggravated by the fact that the ISS orbit tracks nearly parallel with the terminator.  The consequence is very low light right of track, low light near nadir, and adequate to good light left of track.  Beginning a few days ago and for the near future, there may be no targets with suitable illumination or weather.
+ 
+  CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov/" title="http://eol.jsc.nasa.gov/">http://eol.jsc.nasa.gov</a>  (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+  
+ 

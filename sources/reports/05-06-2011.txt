@@ -1,0 +1,87 @@
+ISS On-Orbit Status 05/06/11
+ 
+All ISS systems continue to function nominally, except those noted previously or below.     
+ 
+Upon wake-up, CDR Kondratyev performed the regular daily check of the aerosol filters at the Russian Elektron O<sub>2</sub> (oxygen) generator.      [Maxim Suraev installed these filters on 10/19/09 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V).  Dmitri inspects the filters again before bedtime tonight, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+ 
+FE-5 Nespoli continued his 5<sup>th</sup> (FD180) and final suite of sessions with the medical protocol Pro K (Dietary Intake Can Predict and Protect against Changes in Bone Metabolism during Spaceflight and Recovery), with diet logging after the urine pH spot test, for a 5-day period.  After recording his diet input today, Paolo will begin the urine collections for pH value on Sunday (5/8) and blood sampling on Monday (5/9).       [For Pro K, there will be five in-flight sessions (FD15, FD30, FD60, FD120, FD180) of samplings, to be shared with the NUTRITION w/Repository protocol, each one with five days of diet &amp; urine pH logging and photography on the last day.  The crewmember prepares a diet log and then annotates quantities of food packets consumed and supplements taken.  Urine collections are spread over 24 hrs; samples go into the MELFI (Minus Eighty Laboratory Freezer for ISS) within 30 min after collection.  Blood samples, on the last day, are centrifuged in the RC (Refrigerated Centrifuge) and placed in MELFI at -80 degC.  There is an 8-hr fasting requirement prior to the blood draw (i.e., no food or drink, but water ingestion is encouraged).  MELFI constraints:  Maximum MELFI dewar open time: 60 sec; at least 45 min between MELFI dewar door openings.]
+ 
+For her on-going 4<sup>th </sup>(FD135) and final 24-hr Ambulatory Monitoring session of the ESA ICV (Integrated Cardiovascular) experiment, FE-6 Coleman observed the initial 10-min rest period (~8:35am EST) before going about her business, swapping Makita batteries as required.  Midpoint for the entire ICV run will be reached at about 2:30pm, after which the second 24h data collection period was started.         [The rest period involves relaxing &amp; breathing normally for 10 minutes under quiet, restful conditions.  ICV activities consist of two separate but related parts over a one-week time period: an ultrasound echo scan &amp; an ambulatory monitoring session.  Today, wearing electrodes, the HM2 (Holter Monitor 2) for recording ECG (Electrocardiogram) for 48 hours, the ESA Cardiopres/BP to continuously monitor blood pressure for 24 hours, and two Actiwatches (hip/waist &amp; ankle) for monitoring activity levels over 48 hours, Cady continued the ambulatory monitoring part of the ICV assessment.  During the first 24 hrs (while all devices are worn), ten minutes of quiet, resting breathing were timelined to collect data for a specific analysis.  The nominal exercise includes at least 10 minutes at a heart rate ≥120 bpm (beats per minute).  After approximately 24 hrs, the Cardiopres was temporarily doffed and the HM2 HiFi CF Card and AA Battery were changed out to allow continuation of the session for another 24 hours.  After data collection is complete, the Actiwatches and both HM2 HiFi CF Cards are downloaded to the HRF PC1, while Cardiopres data are downloaded to the EPM (European Physiology Module) Rack and transferred to the HRF PC1 via a USB key for downlink.  The sessions are scheduled at or around FD14, FD30, FD75, FD135 and R-15 (there will be fewer sessions if mission duration is less than six months).  The FD75 echo scan includes an exercise component with a second scan (subset of the first) completed within 5 minutes after the end of exercise.]
+ 
+FE-1 Samokutyayev took his first MBI-24 “SPRUT-2” (“Squid-2”) test, part of Russian medical research on the distribution and behavior of human body fluids in zero gravity, along with PZEh-MO-8 body mass measurement using the IM device.  Andrey Borisenko shot documentary photography.       [Supported by the RSE-Med A31p laptop with new software (Vers. 1.6) in the SM (Service Module), the test uses the Profilaktika kit, with data recorded on PCMCIA memory cards, along with the crewmember’s body mass values and earlier recorded MO-10 Hematocrit value, but skipping “fat fold” measurements.  Experiment requisites are the Sprut securing harness, skin electrodes (cuffs), and RSS-Med for control and data storage.  The “Pinguin” suit or Braslet-M cuffs, if worn, have to be taken off first.  Electrode measurements are recorded at complete rest and relaxed body position.  The actual recording takes 3-5 minutes, during which the patient has to remain at complete rest.]
+ 
+In early preparation for his return to gravity on 5/23, Kondratyev underwent his first Chibis ODNT exercise protocol in the below-the-waist reduced-pressure device (ODNT, US: LBNP/Lower Body Negative Pressure) on the T2 treadmill, with Alexandr as CMO (Crew Medical Officer).  For this 35-min exercise, monitored from the ground via telemetry (5:12am EDT), Dmitri wore the TENZOPLUS sphygmomanometer to measure arterial blood pressure.      [ODNT provides gravity-simulating stress to the body’s cardiovascular/circulatory system after his long-term stay in zero-G.  The preparatory training consists of first imbibing 150-200 milliliters of water or juice, followed by a sequence of progressive regimes of reduced (“negative”) pressure, set at -15, -20, -25, -30 mmHg for five min. each while shifting from foot to foot at 10-12 steps per minute, wearing a sphygmomanometer to measure blood pressure.  The body’s circulatory system interprets the pressure differential between upper and lower body as a gravity-like force pulling the blood (and other liquids) down.  Chibis data and biomed cardiovascular readings are recorded.  The Chibis suit (not to be confused with the Russian “Pinguin” suit for spring-loaded body compression, or the "Kentavr" anti-g suit worn during reentry) is similar to the U.S. LBNP facility (not a suit) used for the first time on Skylab in 1973/74, although it appears to accomplish its purpose more quickly.]
+ 
+FE-3 Garan spent a major portion of his time on payload support in the Lab, where he first configured the camcorder for ground over-the-shoulder monitoring &amp; recording during LOS (loss of signal) for later playback, next reviewed procedures, and then installed and activated the ISSAC (ISS Agricultural Camera) multispectral sensor in the WORF (Window Observational Research Facility).        [ISSAC, a successor of the earlier AgCam, will operate in conjunction with EarthKAM, both to conduct simultaneous but independent operations in the WORF rack in the Lab.  AgCam was a multi-spectral camera for taking images, in visible and infrared light, of vegetated areas on the Earth, principally of growing crops, rangeland, grasslands, forests, and wetlands in the northern Great Plains and Rocky Mountain regions of the United States.  It was found to have operational problems and was discontinued in 2009.]
+ 
+Later, Garan had ~90 min to perform routine preventive maintenance on the WHC (Waste &amp; Hygiene Compartment), removing &amp; replacing the urine receptacle &amp; hose and insert filter.  After the replacement, a functionality test of the WHC was performed.
+ 
+FE-6 Coleman built a new EDV container from components (lid &amp; body) for future use as an EDV-U for urine in the WHC.
+ 
+In the Lab, FE-5 Nespoli replaced the HRF-2 (Human Research Facility 2) rack’s laptop computer, an A31p, installing instead a newer T61p.  The A31p HDD (Hard Disk Drive) was stowed, as was the A31p, and the T61p was then loaded with the HRF integrated software from a DVD playing on HRF PC-2.
+ 
+Paolo also configured the serial adapter on the new HRF-2 PC-1 and verified proper communications with the Actiwatch Reader, which he then stowed.
+ 
+Next, FE-5 used the PC-2 with common EXPRESS laptop interface software to change the rack retrieval drive from EMU (EXPRESS Memory Unit) to laptop EMU partition.
+ 
+Working afterwards in Node-2, Paolo completed Part 3 of the bracket re-installation program by mounting pivot fittings on the rack at bay S4.
+ 
+FE-6 Coleman retrieved &amp; stowed the four passive FMK (Formaldehyde Monitoring Kit) sampling assemblies, deployed by her on 5/4 in the Lab (at P3, below CEVIS) and SM (at the most forward handrail, on panel 307), to catch any atmospheric formaldehyde on a collector substrate for subsequent analysis on the ground.      [Two monitors each are usually attached side by side, preferably in an orientation with their faces perpendicular to the direction of air flow.]
+ 
+After reviewing uplinked procedures and a demo video clip on “Pepper Oil Surprise”, Cady Coleman prepared another “Kids in Micro-G” experiment, then performed the demo session with Paolo Nespoli’s assistance.  The video recording was later downlinked to the ground via MPC (Multi-Protocol Converter).  
+ 
+Working on the ELT (Experiment Laptop Terminal) in Kibo JPM (JEM Pressurized Module), FE-5 Nespoli downloaded and saved the ECG (electrocardiogram) data recorded for the last 24 hrs from his 3<sup>rd</sup> session (of 3 total) with the BIORHYTHMS experiment, for which he yesterday had donned the DWH (Digital Walk Holter) electrodes for ECG recording.
+ 
+In the SM, Kondratyev worked on the KTsP (Central Post Computers), checking out one of their laptops.     [After first setting up Laptop 1 and activating KTsP2, Dmitri used a DVD with special software on the KTsP2 Laptop 2 which ran checks of 8 temperature parameters on Laptop 1.  These were repeated 4 hrs later, again 8 hrs later and once more after 12 hrs.  The readouts were or will be reported to TsUP-Moscow.]
+ 
+In the FGB module, the CDR later performed maintenance on the BR-9TsU-8 Radiotelemetry System (RTS), removing &amp; replacing its BP1A onboard transmitter behind panel 213 with a new spare.
+ 
+FE-1 Samokutyayev supported the BTKh-14 BIOEMULSIYA (Bioemulsion) science payload after cultivation for 18 hrs in its bioreactor #6 in the KT thermostatic container (+37 degC), by deactivating the KT and securing the bioreactor in the TBU-V (Universal Bioengineering Thermostat V, +29degC) in the MRM1 module.  Andrey, who had performed a temperature check on the TBU earlier in the morning, took documentary photography.      [KT was then unplugged with its BUP control unit from the RBS A17 power outlet in the DC1 Docking Compartment and stowed.  The Bioemulsion experiment is attempting to develop faster technologies for obtaining microorganism biomass and biologically active substance biomass for creating highly efficient environmentally pure bacteria, enzymes, and medicinal/pharmaceutical preparations.]
+ 
+Borisenko also took photographs of the BTKh-39 ASEPTIK culture medium samples in the “Poverkhnost” and “Vozdukh” devices and their stowage, later edited the images and downlinked them to Earth.
+ 
+After her final VO<sub>2</sub>max session yesterday, FE-6 Coleman wrapped up by consolidating the VO<sub>2</sub>max kits, replacing old &amp; expired items with new ones. 
+ 
+In the JAXA JPM, Coleman reconfigured the manual valves of the gas trap of the JPM TCA L (Thermal Control Assembly for Low Temperature Loop) for operation, and then activated heater for the gas trap, followed later in the day by turning off the heater, setting the valves for the nominal (bypassed) configuration and installing new thermal insulation on the bypass valve.
+ 
+Working on ER8 (EXPRESS Rack 8) in the Lab, Nespoli rebooted the ALTEA-Shield payload and restarted the experiment.      [ALTEA-Shield dosimetry uses existing ALTEA (Anomalous Long Term Effects on Astronauts) hardware to survey the radiation environment in the US Lab in 3D.  It also measures the effectiveness and shielding properties of several materials with respect to the perception of anomalous Light Flashes.]
+ 
+FE-2 Borisenko spent ~2 hrs on more cargo unloading &amp; transfers from Progress M-10M/42P to the ISS.
+ 
+At ~7:35am EDT, Paolo was scheduled to start another refresh of the station atmosphere with O<sub>2</sub> from ATV-2 (Automated Transfer Vehicle 2) “Johannes Kepler” oxygen stores, lasting till ~2:55pm.
+ 
+FE-5 also had another 1h 45 m set aside for ATV cargo operations.      [Today’s activities mainly consisted of unpacking items from rack bay P1, and trashing packing material.] 
+ 
+At ~12:05pm, Paolo conducted a tagup with MCC-Houston to debrief on today’s ATV cargo transfers.
+ 
+Kondratyev installed a new IP-1 airflow sensor at the circumference of the DC1-to-Progress 42P hatchway.
+ 
+Dima also conducted the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.      [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+IMS (Inventory Management System) maintenance was done today by Andrey, who updated/edited its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+Samokutyayev performed maintenance on the NIKON D3 digital camera #2 by cleaning its CCD (Charge-Coupled Device) sensor matrix and checking the result later with control pictures. 
+ 
+Sasha then continued the current round of monthly preventive maintenance of RS (Russian Segment) ventilation systems, today cleaning the V3 fan screen in the DC1. 
+ 
+Kondratyev, Borisenko &amp; Samokutyayev had ~2 hrs reserved, Garan, Coleman &amp; Nespoli ~20 min, for preparing the traditional commemorative (“symbolic”) items delivered on Progress 42P.     [The crew stamped and signed 60 Roskosmos envelopes &amp; 50 UN envelopes with date and ISS seal while being auto-recorded on video.  Also signed were 2 UN flags and one Saratov Region flag (Gagarin landing area).  The cancelled envelopes and the flags were then stowed in Soyuz 25S for return.]
+ 
+CDR, FE-1 &amp; FE-2 had their weekly PMCs (Private Medical Conferences) scheduled, via S- &amp; Ku-band audio/video, Andrey at ~5:30am, Dmitri at ~5:45am, Sasha at ~6:05am EDT.
+ 
+At ~8:45am, Dmitri, Alex, Andrey, Ron, Paolo &amp; Cady held the regular (nominally weekly) tagup with the Russian Flight Control Team (GOGU/Glavnaya operativnaya gruppa upravleniya), including Shift Flight Director (SRP), at TsUP-Moscow via S-band/audio, phone-patched from Houston and Moscow.
+ 
+At ~1:35pm, FE-6 Coleman is scheduled for her weekly PFC (Private Family Conference) via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop).
+ 
+At ~1:50pm, Coleman will have her regular IMS stowage conference with Houston stowage specialists.
+ 
+At ~2:05pm, Cady powers up the new amateur radio station in the COL (Columbus Orbital Laboratory) and at ~2:15pm conducts a ham radio session with students at Greenville Elementary, School, Greenville, IL.
+ 
+At ~3:30pm, the six crewmembers are scheduled for their regular weekly tagup with the Lead Flight Director at JSC/MCC-Houston.
+ 
+Later tonight before “Presleep” period, Cady turns on the MPC (Multi-Protocol Converter) and starts the data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, MPC will be turned off again.     [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+The crew worked out with their regular 2-hr physical exercise protocol on the CEVIS cycle ergometer with vibration isolation (FE-3, FE-6), ARED advanced resistive exercise device (FE-2, FE-3, FE-5, FE-6), T2/COLBERT advanced treadmill (CDR/2x, FE-1, FE-5) and VELO ergometer bike with load trainer (FE-1, FE-2).
+ 
+WRM Update:    A new WRM (Water Recovery Management) “cue card” was uplinked to the crew for their reference, updated with their latest CWC (Contingency Water Container) water audit.       [The new card (27-0041G) lists 115 CWCs (2,212.8 L total) for the five types of water identified on board: 1. technical water (11 CWCs with 435.1 L, for Elektron electrolysis, incl. 130.1 L in 4 bags containing Wautersia bacteria and 134.2 L in 3 clean bags for contingency use;  2. Silver potable water (no CWCs);  3. iodinated water (91 CWCs with 1,668.3 L for reserve (also 14 expired bags with 251.5 L);  4. condensate water (76.6 L in 5 bags, plus 6 empty bags); and  5. waste/EMU dump and other (32.8 L in 2 CWCs from hose/pump flush).  Wautersia bacteria are typical water-borne microorganisms that have been seen previously in ISS water sources.  These isolates pose no threat to human health.]
+ 
+

@@ -1,0 +1,29 @@
+
+Russian Segment (RS) Extravehicular Activity (EVA) #50: Today, FE-4 Oleg Novitskiy (EV1) and FE-5 Petr Dubrov (EV2) egressed the Mini-Research Module (MRM)-2 airlock and completed the following tasks during today’s 7 hour and 25-minute EVA:
+
+Mating of Ethernet cable from ISS USOS to MLM
+Installation of gap spanner at ПГО-2 along MLM Pl. III
+Mating MLM-SM interfaces:
+
+Ethernet patch cable
+two (2) HF cables between SM and MLM TV systems
+cable between SM “KURS-P” antenna-feeder unit and MLM “KURS-P” antenna-feeder unit
+
+
+Redirection of БКДО (Plume Impingement and Deposit Monitoring) unit
+Installation of platform with adapters on MRM2 БТП-2 Passive Base Point
+Deployment of installation platform with three BIORISK-MSK containers on MRM2
+Installation of MLM ПГО-2 – ПГО-1 gap spanner (3ea.) (time permitting)
+Taking photos of ISS RS exterior (time permitting)
+
+United States On-orbit Segment (USOS) Astronaut FE-6 Mark Vande Hei aided the Russian crew in pre and post EVA operations. This is the second EVA that has focused on integrating MLM to the ISS.
+Payloads
+Four Bed Carbon Dioxide (CO2) Scrubber: The crew configured the Basic Expedite the Processing of Experiments to Space Station (EXPRESS) Rack-11 at LAB1P4 for Four Bed CO2 Scrubber installation. Four Bed CO2 Scrubber demonstrates a technology for removing CO2 from the atmosphere on a spacecraft. The technology is based on the current system in use on the ISS with mechanical upgrades in absorption beds, heater elements and valves, and the use of an improved zeolite absorbent to reduce erosion and dust formation. A goal for next-generation systems is continuous operation for 20,000 hours without a failure. This technology demo is a step toward that goal.
+BioMole: A crewmember performed surface swab sampling of the ISS surfaces in order to identify bacteria by extraction of DNA using miniPCR16. The Environmental Health System (EHS) Biomole Facility non-culture based samples are capable of providing microbial identification on-orbit within days of sampling. The goal of this technology demo is to conduct comparative analysis for possible replacement of current microbial monitoring systems.
+GRASP: A crewmember performed GRASP science protocols in the seated configuration. The purpose of the Gravitational References for Sensimotor Performance: Reaching and Grasping (GRASP) investigation is to better understand how the Central Nervous System (CNS) integrates information from different sensations (e.g. sight or hearing), encoded in different reference frames, in order to coordinate the hand with the visual environment. More specifically, the science team seeks to better understand if, and how, gravity acts as a reference frame for the control of reach-to-grasp.
+The ISS Experience: A crewmember assembled and installed The ISS Experience EVA Z-Cam onto the JEM Airlock Slide Table. The ISS Experience is a cinematic Virtual Reality (VR) series documenting life and research aboard the space station. Filmed over multiple months, the immersive VR series documents different crew activities – from science conducted aboard the station to preparation for a spacewalk.
+Systems
+In-Flight Maintenance (IFM) Video Tape Recorder (VTR) Removal: The crew removed VTR-1 and VTR-2 from US Lab Bay 5 and prepared them for return on Cargo Dragon SpaceX-23 (SpX-23). VTRs have not been used since the Integrated Communications Unit (ICU) activation and were “abandoned in place” until crew time was available for their removal.
+HMS Fundoscope Battery Maintenance: The crew charged the primary and backup battery pack for the on-board fundoscope. The fundoscope is used to perform regularly scheduled eye exams on-board station to monitor crewmembers eye health. Eyesight is one of the many aspects of the human body affected by long-duration stays in a microgravity environment. 
+SpX-23 Cargo Transfer: Today, the crew performed SpX-23 cargo transfer operations and will continue to work cargo operations throughout the week.
+

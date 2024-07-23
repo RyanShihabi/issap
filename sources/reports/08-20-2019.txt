@@ -1,0 +1,12 @@
+
+Biorock: The crew removed the Biorock container samples from Kubik 5 and 6 and placed them into cold stowage after imagery was taken. The interaction between microbes and rocks in a liquid phase can be affected by reduced gravity in several ways. The reduction of thermal convection in low-gravity, and its absence in microgravity, minimizes the natural stirring in liquids and gases, and may restrict the supply of food and oxygen to the bacteria – leading to a suppression of growth, proliferation and mining performance. The goals of the Biorock investigation is to verify and quantify this assumption, and to find out if morphological and genetic changes occur in the biofilms. 
+Micro-15: The crew performed Session C of Drug Injection activities for the Micro-15 sample bags. The goal of this investigation is to better understand the effects of gravity on the differentiation of mammalian cells using 3-D cultures of induced pluripotent stem cells. Past flight experiments and ground-based simulations have demonstrated that microgravity influences gene expression, cell proliferation, and differentiation in stem cells but the mechanism behind these observations is not clearly understood. This study investigates how exposure to microgravity fundamentally alters cell regulation and how these changes can affect the timing, progression, and outcomes of cell differentiation. 
+International Docking Adapter (IDA)3 Extravehicular Activity (EVA) Preparations: The crew completed the following in preparation for tomorrow’s planned EVA:
+
+Conference with ground teams for reminders, emergency briefing, helpful tips and procedures to be used
+Equipment Lock preparation
+Degassed Liquid Cooling Venting Garment (LCVG) S/N 3270 and Extravehicular Mobility Unit (EMU) 3008
+Multimeter setup at Node 2 Zenith IDA Control Panel 
+
+Mobile Servicing System (MSS) Operations:  Yesterday evening and this morning, Robotics Ground Controllers powered up the MSS then grappled and extracted International Docking Adapter 3 (IDA-3) from the SpaceX-18 trunk.  Using the Special Purpose Dexterous Manipulator (SPDM) and the Space Station Robotic Manipulator System (SSRMS), they maneuvered IDA-3 to the starting configuration for the EVA tomorrow.
+

@@ -1,0 +1,34 @@
+
+Crew-4 Dock: SpaceX Crew Dragon Freedom successfully docked to the ISS at 6:37 PM CT on Wednesday, April 27th. The Endurance crew welcomed aboard NASA astronauts Kjell Lindgren, Bob Hines, and Jessica Watkins and ESA astronaut Samantha Cristoforetti. After participating in a live welcome ceremony with the ISS crew, the Crew-4 crew successfully completed the ISS safety briefing and were familiarized with living on station. The ISS crew complement has officially increased from 7 to 11.
+RS Extravehicular Activity (EVA) #53: During today’s EVA, FE-1 Oleg Artemyev and FE-2 Denis Matveev worked outside the MLM to activate and outfit the European Robotic Arm (ERA). FE-3 Sergey Korsakov assisted by commanding ERA from within the RS. The following tasks were completed and deferred:
+
+Remove MLI Cover from ERA EEs [КЭ1] and [КЭ2] and jettison (with ERA Elbow MLI Covers from RS EVA 52)
+Release Grapple Mechanism Launch Locks at ERA EEs [КЭ1] and [КЭ2]
+Withdraw [СТТ] Launch Grapple Point from ERA EE [КЭ2]
+Open [CKM] [MФ1] Launch Lock at ERA EE [КЭ2]
+Release TRM (Torque/Force Sensor Rigidizing Mechanism) Launch Lock at ERA EE [КЭ2]
+Open [CKM] [MФ2] Launch Lock at ERA Elbow
+Open [CKM] [MФ1] Launch Locks (2) at ERA EEs [КЭ1] and [КЭ2] Electronics Boxes
+Install ERA Handrails #2, #3, and #5
+        Closing MLI blankets near elbow joint, and ERA EEs [КЭ1] EE and [КЭ2] Electronics Boxes
+Withdraw [СБТ] Launch Base Point from ERA EE [КЭ1]
+Open [CKM] [MФ1] Launch Lock at ERA EE [КЭ1]
+Release TRM Launch Lock at ERA EE [КЭ1]
+Inspection of [4АО-ВКА] antenna on the Node Module
+Get Ahead Task: Victory Day Greeting
+
+This task is expected to be performed by IV crew before the end of the crew day:
+
+Monitor safe ERA motion: ERA EE [КЭ1] translation to БТЛ2 Base Point
+
+Not completed:
+
+Monitor safe ERA motion: ERA EE [КЭ2] walkoff from БТЛ1 to БТЛ3
+
+The Phase Elapsed Time (PET) of this EVA was 7 hours and 42 minutes.
+Payloads:
+Actiwatch: Crewmembers donned Actiwatch plus devices last night for data collection. The Actiwatch is a waterproof, non-intrusive, sleep-wake activity monitor worn on the wrist of a crewmember and contains a miniature uniaxial accelerometer that produces a signal as the subject moves. The data is stored in non-volatile memory within the Actiwatch until they are downloaded for analysis.
+eXposed Root On-Orbit Test System (XROOTS): Last night, a crewmember configured the Veggie hardware to interface with XROOTS hardware and installed XROOTS into EXpedite the PRocessing of Experiments to Space Station (EXPRESS) Rack-1. The XROOTS investigation uses hydroponic and aeroponic techniques to grow plants without soil or other growth media. Video and still images enable evaluation of multiple independent growth chambers for the entire plant life cycle from seed germination through maturity. Results could identify suitable methods to produce crops on a larger scale for future space missions.
+Systems:
+Crew Dragon Freedom Cargo Operations and Emergency Equipment Transfer: The crew continued unpacking cargo from Crew Dragon Freedom. The crew unpacked food kits and common bags, stowing some items on ISS and others in a temporary stowage location on Crew Dragon. Afterwards, the crew transferred emergency hardware from ISS to Crew Dragon Freedom. They setup a Portable Computer System (PCS), checked out a USOS ammonia filter fan, and then photographed the final vehicle configuration.
+

@@ -1,0 +1,13 @@
+
+Payloads
+
+AMOS (Autonomous Medical Officer Support) overview: In preparation for activities later this week, the crew reviewed the big picture words for the AMOS session, logged into the application, and studied the Objectives and Foundations section.  The goal of the session will be to use an ultrasound instrument to image the urinary bladder and kidney areas.  As missions venture farther from Earth, astronauts need the capability to diagnose and treat acute medical conditions without ground support. The AMOS Demonstration tests a software tool designed to help minimally trained or untrained users conduct complicated medical procedures, without assistance from Earth. For the study, the crew uses AMOS to perform ultrasound imaging of the bladder and kidneys, a plausible Mars mission medical scenario.
+AstroPi: In preparation for the upcoming AstroPi challenge, the crew removed a scratched optical filter and installed a clean filter onto the AstroPi IR (infrared) unit.  Following this, the crew set up the unit in the Node 2 nadir window.  In the European AstroPi Challenge, students and young people are offered the amazing opportunity to conduct scientific investigations in space by writing computer programs that run on Astro Pi’s – special Raspberry Pi computers aboard the ISS.  Students can choose either ‘Life in Space’ or ‘Life on Earth’ as themes for their experiments. 
+
+Systems
+
+Potable Water Dispenser (PWD) Sample Collection: The crew collected water samples from the PWD for in-flight and post-flight analysis.  Collection is scheduled multiple times throughout the increment to verify water quality.
+Environmental Health System (EHS) Acoustic Dosimeter Setup: The crew set up and donned crew-worn acoustic dosimeters. Acoustic data collected by the dosimeter will be downlinked to the ground for analysis.
+On Board Training (OBT) Soyuz Descent Drill: In preparation for their departure from the ISS next week, the 61S crew completed a nominal descent and landing drill earlier this morning.  This is the first of two drills the crew will perform prior to Soyuz undock scheduled for Friday, April 17th.
+
+

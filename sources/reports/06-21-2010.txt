@@ -1,0 +1,71 @@
+ISS On-Orbit Status 06/21/10
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.     Underway: Week 3 of Increment 24.
+ 
+ FE-3 Kornienko began the day with the regular daily early-morning check of the aerosol filters at the Russian Elektron O<sub>2</sub> generator which Maxim Suraev had installed on 10/19/09 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V).     [FE-3 again inspected the filters before bedtime, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+ 
+ At wake-up, FE-2 Tracy Caldwell-Dyson continued her current session of the Reaction Self Test (Psychomotor Vigilance Self Test on the ISS) protocol, joined today by FE-4 Doug Wheelock &amp; FE-6 Shannon Walker with their first RST run.     [The RST is performed twice daily (after wakeup &amp; before bedtime) for 3 days prior to the sleep shift, the day(s) of the sleep shift and 5 days following a sleep shift. The experiment consists of a 5-minute reaction time task that allows crewmembers to monitor the daily effects of fatigue on performance while on ISS.  The experiment provides objective feedback on neurobehavioral changes in attention, psychomotor speed, state stability, and impulsivity while on ISS missions, particularly as they relate to changes in circadian rhythms, sleep restrictions, and extended work shifts.]
+ 
+ Caldwell-Dyson also continued the new week-long session of the post-wakeup experiment SLEEP (Sleep-Wake Actigraphy &amp; Light Exposure during Spaceflight), her 4<sup>th</sup>, transferring data from her Actiwatch to the HRF-1 (Human Research Facility 1) laptop.    [To monitor his/her sleep/wake patterns and light exposure, the crewmember wears a special Actiwatch device which measures the light levels encountered by him/her as well as their patterns of sleep and activity throughout the Expedition, using the payload software for data logging and filling in questionnaire entries in the experiment’s laptop session file on the HRF-1 laptop.  The log entries are done within 15 minutes of final awakening for seven consecutive days.]
+ 
+ Still before breakfast, Shannon Walker began Part 1 (of 3) of the periodic personal acoustic measurement protocol by deploying crew-worn acoustic dosimeters from the SMK (Sound Measurement Kit), carried by Wheelock (#1011), Yurchikhin (#1012) and herself (#1013) for 24 hours (with a microphone on the shirt collar).  (Last time done: 5/4-5/5).     [Tomorrow, Walker will download the dosimeter data and stow the instruments.  Acoustic data must be taken twice per Increment, each time for the duration of the 16-hour crew workday.]
+ 
+ The crew started out with the periodic pre-breakfast session of the Russian biomedical routine assessment PZEh-MO-8/Body Mass Measurement, using the IM mass measurement device.  Kornienko set up the IM and later stowed it away.  The three Russian crewmembers, Alex, Mikhail &amp; Fyodor, also completed the PZEh-MO-7/Calf Volume Measurement protocol.     [For determining body mass in zero-G, where things are weightless but not massless, the Russian IM "scales" for MO-8 measure the inertial forces that arise during the oscillatory motion of a mass driven by two helical metering springs with known spring constants.  By measuring the time period of each oscillation of the unknown mass (the crewmember) and comparing it to the period of a known mass, the crewmember’s mass is calculated by the computer and displayed. MO-7 Calf measurements (left leg only) are taken with the IZOG device, a custom-sewn fabric cuff that fits over the calf, using the knee and lower foot as fixed reference pints, to provide a rough index of deconditioning in zero-G and effectiveness of countermeasures. ].
+ 
+ Returning to the ESA COL (Columbus Orbital Laboratory) to continue her support of the CSLM (Coarsening in Solid-Liquid Mixtures) experiment, Tracy monitored the completion of SPU (Sample Processing Unit) #2 processing and then successfully exchanged SPU #2 with SPU #4 via the MSG AL (Microgravity Science Glovebox Airlock), instead of having to extract the WV (Work Volume).  Afterwards, the first two (of four) vacuum vent cycles were conducted.
+ 
+ In the Lab, Doug Wheelock worked on the CIR (Combustion Integrated Rack), removing the alignment guides to allow activation of the PaRIS (Passive Rack Isolation System) by the ground for FCF (Fluids &amp; Combustion Facility) operations requiring a micro-G environment,
+ 
+ Walker &amp; Wheelock spent ~30 min checking out and familiarizing themselves with the CMRS (Crew Medical Restraint System).     [The board-like CMRS allows strapping down a patient on the board with a harness for medical attention by the CMO (Crew Medical Officer) who is also provided with restraints around the device.  CMRS can be secured to the ISS structure within two minutes to provide a patient restraint surface for performing emergency medical procedures, such as during ACLS (advanced cardiac life support).  It can also be used to transport a patient between the station and the Orbiter middeck.  It isolates the crew and equipment electrically during defibrillations and pacing electrical discharges, accommodates the patient in the supine zero-G positions, provides cervical spine stabilization and can also restrain two CMOs at the same time during their delivery of medical care.]
+ 
+ Afterwards, Shannon &amp; Wheels also checked out &amp; familiarized themselves with the HMS RSP (Health Maintenance System Respiratory Support Pack), using RSP #1004 for the purpose, then stowing it in a drawer in the Lab.     [RSP #1002 was also stowed in a Lab drawer, without blocking access to AMP (Ambulatory Medical Pack) and CCPK (Crew Contamination Protection Kit).]
+ 
+ FE-4 Yurchikhin had ~1h set aside for transferring cargo from Soyuz TMA-19/23S and stowing it aboard ISS, guided by a preliminary 23S cargo stowage plan listing 63 individual items, and logging moves in the IMS (Inventory Management System).
+ 
+ Then, Fyodor replaced books and updated procedures pages of RODF (Russian Operations Data File) documents brought up on Soyuz 23S.    [Changes involve the books on Medical Experiments (ME), Technical Experiments (TE), 3 MO books, 1 new RPR E23-E24 Handover Recommendations book, and 2 CD ROM disks with ODF.]
+ 
+ After setting up the STTS communication system for working in the MRM1 Rassvet module, Skvortsov supported the experiment TEKh-22 “Identifikatsiya” (Identification), setting up and connecting the IMU-Ts microaccelerometer to the RSE1 A31p laptop for subsequent downlink of its collected structural dynamic excitation/loading data during the Soyuz docking to the ground via OCA.  STTS was then restored to nominal.    [The activity was supported by ground specialist tagup via S-band.]
+ 
+ Alex Skvortsov &amp; Mikhail Kornienko undertook the regular monthly session of the CHeCS (Crew Health Care Systems) emergency medical operations OBT (On-Board Training) drill, a 30-min. exercise to refresh their CMO (Crew Medical Officer) acuity in a number of critical health areas.  The video-based proficiency drill today focused on administration of intravenous (IV) fluid infusion for both.   [The HMS (Health Maintenance Systems) hardware, including ACLS (Advanced Cardiac Life Support) equipment, may be used in contingency situations where crew life is at risk.  To maintain proficiency, crewmembers spend one hour per month reviewing HMS and ACLS equipment and procedures via the HMS and ACLS CBT (computer-based training).  The training drill, each crewmember for him/herself, refreshes their memory of the on-orbit stowage and deployment locations, equipment etc. and procedures.] 
+ 
+ Working in the Kibo JPM (JEM Pressurized Module), Wheelock took care of the MAC ACU (Media Access Control / Address Converter Unit) which had inadvertently come off its attachment on a standoff, by reattaching it with Velcro and Kapton tape.
+ 
+ Later, Wheels, &amp; Shannon each had an hour reserved for working E23/E24 crew handover activities with Tracy, first focusing on safety handovers, then continuing with the remaining topics as laid out in the three hardcover copies of the new Crew Handover book delivered on 23S.
+ 
+ The three newcomers again had several hours set aside for crew onboard orientation and adaptation.     [The first two weeks after their arrival, a new ISS crew will have 1 hour a day to adjust to living in space.  Additional time is allotted for getting around in the – by now – extensive new “home in space” and working with its valuable research equipment.]
+ 
+ FE-2 conducted the periodic maintenance &amp; visual inspection of the ARED (Advanced Resistive Exercise Device), checking out the rails &amp; rollers, greasing the Y- and Z-axis rails &amp; rollers and evacuating its cylinder flywheels to maintain proper vacuum condition and sensor calibration.
+ 
+ Later, Tracy conducted the periodic WRS (Water Recovery System) sampling using the TOCA (Total Organic Carbon Analyzer) in Node-3, after first initializing the software and priming (filling) the TOCA water sample hose.   [After the approximately 2 hr TOCA analysis, results were transferred to an SSC (Station Support Computer) via USB drive for downlink, and the data were also logged.]
+ 
+ Shannon started another sampling run with the EHS GC/DMS (Gas Chromatograph/Differential Mobility Spectrometer), deactivating the system ~5 hrs later.     [This was the 4<sup>th</sup> session with the new GC/DMS unit (#1004), after the previous instrument (#1002) was used for approximately 100 runs.  Also known as AQM (Air Quality Monitor), the system is controlled with “Sionex” expert software from the SSC-12 laptop.  The AQM demonstrates COTS (Commercial Off-the-Shelf) technology for identifying volatile organic compounds, similar to the VOA (Volatile Organics Analyzer).  This evaluation will continue over the course of several months as it helps to eventually certify the GC/DMS as nominal CHeCS (Crew Health Care Systems) hardware.]
+ 
+ The CDR completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.  [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+ FE-3 did the daily IMS maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+ In the Soyuz TMA-18/22S crew return vehicle, docked at the MRM2 “Poisk” at FGB nadir, Alex turned on the GA gas analyzer in the SA/Descent Module, a periodic atmosphere checkup.
+ 
+ Skvortsov also conducted another ~30-min. photography session for the DZZ-13 “Seiner” ocean observation program, obtaining NIKON D3 photos and SONY HD video data on oceanic water blooms in the waters of North-Western Africa, then copying the images to the RSK-1 laptop.
+ 
+ Before sleeptime tonight, Sasha will ready the hardware for the Russian geophysics experiment DZZ-12 Rusalka (“Mermaid”) near SM window #14 and charge its battery for another session tomorrow.
+ 
+ Working on the CEVIS cycle ergometer, FE-6 Wheelock swapped CEVIS protocol and header files, transferring the files to PCMCIA memory cards.    [Data files of Soichi Noguchi had already been downloaded at an earlier time.]
+ 
+ As part of their mandatory CMS (Countermeasure Systems) familiarization sessions with the onboard physical exercise equipment, Shannon &amp; Wheels today observed Tracy doing her workout on the ARED advanced resistive exerciser. 
+ 
+ CDR Skvortsov retrieved a set of replaceable rollers (YuEUYu) from Progress 37P at DC nadir for temporary stowage, to be returned to Earth.    [The four rollers, along with an adapter plate, were removed from the NS-1 force loader of the Russian Velo exercise machine when VELO VB-3 was replaced by the new VB-3M VELO on 6/8.]
+ 
+  Later, Kornienko checked out data transmission from the VB-3M VELO by operating the machine briefly, with load changes, during a RGS (Russian Groundsite) comm pass (12:50pm EDT) for the BITS2-12 onboard telemetry measurement system to downlink real-time data.
+ 
+ At ~6:25am EDT, Mikhail Borisovich, who hails from the city of Chelyabinsk, supported a Russian PAO TV event, downlinking answers to questions collected and uplinked from readers of the newspaper Vechernij (Evening) Chelyabinsk.    [TsUP recorded the comm session for subsequent delivery to the newspaper editing room.   “How do you interact with your American colleagues? Is there any old rivalry typical of the Soviet era left?”; “Hundreds of Russian boys and girls caught the “sky bug” again. Still, how does one become a cosmonaut? What are the requirements for today’s cosmonauts? What institutions of learning are training cosmonauts?”; “How do you remember Chelyabinsk, your school years?”; etc.]
+ 
+ FE-4 &amp; FE-6 had their third PMCs (Private Medical Conferences), via S- &amp; Ku-band audio/video, , Shannon at ~11:25am, Doug at 12:55pm EDT.
+ 
+ Tracy, Misha, Sasha &amp; Fyodor completed today’s 2-hr. physical workout protocol on CEVIS cycle ergometer with vibration isolation (FE-2), TVIS treadmill (CDR, FE-3, FE-5), ARED advanced resistive exerciser (CDR, FE-2), and VELO ergometer bike with bungee cord load trainer (FE-3, FE-5).    [For his first TVIS workout, Yurchikhin installed &amp; inspected the TVIS SPDs (Subject Positioning Devices) tailored for him.  The protective SPDs are required for new crewmembers for the first seven TVIS sessions for safety.]
+ 
+ Conjunction Update:   All conjunctions “turned green and went away” without requiring evasive action.  Yesterday’s late notification conjunction did not require crew retreat to the Soyuz vehicles.
+ 
+ No CEO (Crew Earth Observation) photo targets uplinked for today.
+ 
+ 

@@ -1,0 +1,5 @@
+
+External Thermal Control System (ETCS) Loop A Status:   Following yesterday’s S1-1 MDM software patch, Flight Controllers continued to perform characterization tests on ETCS Loop A to regain fine temperature control of ETCS loop A.  The Node 2 Moderate Temperature Loop (MTL) IFHX is still isolated from ETCS Loop A, resulting in half of the loads in the Node 2, JEM and Columbus modules remaining powered off.
+Extravehicular Activity (EVA) Mobility Unit (EMU) 3011 Preparation:  This morning, Flight Engineer (FE)-3 Hopkins and FE-5 Mastracchio removed the medium sized HUT on EMU 3011 and replaced it with a large sized HUT. In addition, they swapped out the Secondary Oxygen Packs (SOP) on the EMU.  Later in their day, Mastracchio verified that the reassembled EMU was fully functional. USOS EVA’s are scheduled to occur on December 21st, 23rd, and 25th (if required) in order to repair the ETCS Loop A Pump Module.
+Ocular Health (OH) Optical Coherence Tomography (OCT) Test and Fundoscope Examination Deferred:  Today’s OH and OCT sessions were deferred in order to allow enough time to support EVA related activities. 
+

@@ -1,0 +1,40 @@
+ISS On-Orbit Status 04/22/09
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.
+ 
+ CDR Padalka, FE-1 Barratt &amp; FE-2 Wakata began their workday before breakfast with the periodic session of the Russian biomedical routine assessments PZEh-MO-7/Calf Volume Measurement.  Second time for all three.   [Calf measurements (left leg only) are taken with the IZOG device, a custom-sewn fabric cuff that fits over the calf, using the knee and lower foot as fixed reference pints, to provide a rough index of deconditioning in zero-G and effectiveness of countermeasures.] 
+ 
+ The CDR performed the periodic maintenance of the active Russian BMP (Harmful Impurities Removal System) by starting the "bake-out" cycle to vacuum on absorbent bed #2 of the regenerable dual-channel filtration system.  The process will be terminated at ~4:50pm EDT.  Bed #1 regeneration was performed yesterday.     [Regeneration of each of the two cartridges takes about 12 hours and is conducted only during crew awake periods.  (Last time done: 3/30-3/31).]
+ 
+ After again configuring and activating the G1 camcorder equipment in Node-1, FE-1 Barratt &amp; FE-2 Wakata proceeded with Day 2 of the major TVIS Combined Maintenance.    [Today’s IFM (Inflight Maintenance) had the crew replace the 50 truss rollers, install a new treadbelt, re-install the left chassis &amp; side plate, and replace the transfer case.  The flywheel case is also scheduled to be replaced but has not been located onboard.  A photo and recollections from Sandy Magnus were uplinked for locating it.  If the replacement hardware is not found, the old flywheel will be re-installed.  Later, the video cables were to be disconnected and removed tonight, to comply with the cable hatch drag-thru flight rules.] 
+ 
+ Padalka supported the reactivation of the Elektron oxygen generator at 32 amps by the ground by monitoring the external temperature of its secondary purification unit (BD) for the first 10 minutes of operations to ensure that there was no overheating.     [The gas analyzer used on the Elektron during nominal operations for detecting hydrogen (H2) in the O2 line (which could cause overheating) is not included in the control algorithm until 10 minutes after Elektron startup.  Elektron had been turned off for yesterday’s installation of a new EMI filter and today’s cabling work (which included making connections to the BITS2-12 Onboard Telemetry Measurement System).]
+ 
+ The CDR monitored the educational experiment OBR-1/Fizika-Obrazovaniye with its “Physics-Phase” demo, today three times taking photographs of the running experiment.    [Obrazovaniye (Education) is a suite of three educational demonstrations of physics in micro-G, viz., OBR-1-1/”Fizika-LT” (Motion), OBR-1-2/”Fizika-Faza” (Phase) and OBR-1-3/”Fizika-Otolit”.  The current Phase demo studies a complete gas-liquid phase separation of fine dispersion particles in micro-G with diffusion and surface tension of the fluid.  The experiment is conducted for four days, documented with photography.]
+ 
+ Padalka also performed preventive maintenance on the SM (Service Module) ventilation system, removing and replacing the VTK1 Heat Exchanger Condenser with a new Progress-delivered unit, discarding the old one as trash and updating the IMS (Inventory Management System).
+ 
+ Later, Gennady initiated discharge/charge cycle on the first pair of four NiMH (Nickel Metal Hydride) batteries for the Russian BMD (Biomedical Device) PZE STIMUL-01 payload in the payload’s charger device in preparation for his upcoming physical stimulation/conditioning training with the device.   [The neuromuscular myostimulator suit STIMUL-1, which uses electrical stimulation to contract and relax leg muscle fibers for conditioning, is part of the suite of BMS (Biomedical Support) systems under development at the Moscow IBMP (Institute for Biomedical Problems) for long-duration spaceflights including piloted Mars missions.] 
+ 
+ FE-2 Wakata performed the regular controlled shut-down of the EHS VOA (Environmental Health System-Volatile Organic Analyzer), with the ground power-cycling its RPC-3 (Remote Power Controller 3), part of RPCM (RPC Module) LAD42B_A.
+ 
+ FE-1 Barratt conducted the periodic status check on the payloads CGBA-5 (Commercial Generic Bioprocessing Apparatus 5) and ENose (Electronic Nose), both located in the ER-2 (EXPRESS Rack 2).
+ 
+ Dr. Mike also took care of the daily status check on the BCAT-4 (Binary Colloidal Alloy Test-4) science payload, running by itself since 4/3.    [The status check, conducted on the last image taken by the DCS 760 digital still camera which is controlled by EarthKAM software on an A31p laptop, is to verify proper image focus and camera alignment.  The SSC (Station Support Computer) is taking photography of the phase separation occurring in the BCAT Sample 3, with the photo flash going off every half hour.]
+ 
+ Gennady performed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+ Afterwards, the CDR completed the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+ Koichi took care of the daily procedure of flushing the PWD (Potable Water Dispenser) ambient line with ~50mL of water (into a towel/Ziploc bag).  PWD water is currently cleared only for hygienic use.     [While final analysis of the PWD sample results on the ground is still pending, experts recommend keeping water flowing in the line daily to help control microbial growth.  The flushing will be done daily unless at least this amount has been dispensed for other activities during the day).] 
+ 
+ The crew performed their regular daily 2.5-hr. physical workout program (about half of which is used for setup &amp; post-exercise personal hygiene) on the CEVIS cycle ergometer (FE-1, FE-2), ARED advanced resistive exercise device (CDR, FE-1, FE-2), and VELO with bungee cord load trainer (CDR).
+ 
+ Afterwards, Koichi downloaded the exercise data file to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+ CEO (Crew Earth Observation) photo targets uplinked for today were Labrador sea ice (Dynamic event. Clear weather predicted again for a band of coastal ice moving parallel to the coast: looking left and trying to include coastal features in any views), Megafans and Tin Bider Impact Crater, Algeria (two targets overlap in central Algeria; a broad area of river deltas, and a small circular impact crater.  Shooting a wide swath at nadir and right of track for 60 secs and good data should have been acquired.  The fan sediments of the area [good analogs for features on Mars] have never been imaged with any completeness. The crater [6 km diameter] stands out as a dark spot with a long wind streak tail, close to nadir), and Mississippi Delta Region (good nadir pass.  Coastline views left, nadir and right of track were requested for this large site.  Images will document the Hurricane Katrina-related changes in shoreline position, coastal swamplands, and other features).
+ 
+ CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov">http://eol.jsc.nasa.gov</a>  &lt;<a href="http://">http://</a>eol.jsc.nasa.gov/&gt;  (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+ 
+ 

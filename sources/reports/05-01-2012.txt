@@ -1,0 +1,48 @@
+ISS On-Orbit Status 05/01/12
+ 
+All ISS systems continue to function nominally, except those noted previously or below.
+ 
+After breakfast, CDR Kononenko performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection.
+ 
+Also during the morning inspection, the CDR conducted the periodic checkup of the circuit breakers &amp; fuses in the DC1 Pirs module.      [The monthly checkup in DC1, MRM1 &amp; MRM2 looks at AZS circuit breakers on the BVP Amp Switch Panel (they should all be On) and the LEDs (light-emitting diodes) of 14 fuses in fuse panels BPP-30 &amp; BPP-36.  MRM2 &amp; MRM1 were derived from the DC1 concept and are very similar to it.]
+ 
+Later, Oleg continued the current round of periodic preventive maintenance of RS (Russian Segment) ventilation systems, today first working in the FGB (Funktsionalnyi-Grusovoi Blok) cleaning the grilles of interior panels 201, 301 &amp; 401 and the TsV1 fan guard screen, then moving to the MRM1 Rassvet module to replace its PF1 &amp; PF2 dust filter cartridges.
+ 
+FE-5 Kuipers conducted the periodic (approx. weekly) WRS (Water Recovery System) sampling in Node-3 using the TOCA (Total Organic Carbon Analyzer), after first initializing the software and priming (filling) the TOCA water sample hose.       [After the approximately 2-hr TOCA analysis, results were transferred to the SSC-5 (Station Support Computer 5) laptop via USB drive for downlink, and the data were also logged.]
+ 
+FE-6 Pettit supported Day 3 activities with Robonaut, first reviewing procedures &amp; instructional video and setting up the Node-2 camcorder and MPC (Multi-Protocol Converter) for coverage, then powering on Robonaut and supporting ground-commanded activities in checking out arm &amp; finger motions.  Afterwards, Don powered Robonaut down and disassembled it along with its support hardware.       [The ground executed a script letting Robonaut perform switch throws and button presses on Taskboard Panel A.] 
+ 
+Later, Don printed out a new JSL NINJA (Joint Station Local Area Network / Network Information for JSL Administration) password document, inserted it in the POC (Portable Onboard Computers) Book and returned the book to its place at Lab location P6.
+ 
+Kononenko performed the periodic service of the RS radiation payload suite “Matryoshka-R” (RBO-3-2), collecting eight Bubble dosimeters (A41, A42, A43, A44, A45, A46, A47, A48) to read their recorded radiation traces in a special Reader.  Afterwards the dosimeters were initialized for new measurements, redeployed at specific locations and photographed.        [The complex Matryoshka payload suite is designed for sophisticated radiation studies.  Note: Matryoshka is the name for the traditional Russian set of nested dolls.] 
+ 
+Afterwards, Oleg took care of the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+The CDR also completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.      [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+For his on-going 4<sup>th</sup> (FD135) Ambulatory Monitoring session of the ESA ICV (Integrated Cardiovascular) Alternate experiment, André Kuipers observed the initial 10-min rest period under quiet, restful conditions at ~8:50am EDT before going about his business.  He reached midpoint at about 2:15pm EDT, after which he began the second 24h data collection period.      [For the second 24 hr period, the Cardiopres was temporarily doffed and the HM2 HiFi CF Card and AA Battery were changed out to allow continuation of the session for another 24 hours.  After data collection is complete, the Actiwatches and both HM2 HiFi CF Cards are downloaded to the HRF PC1, while Cardiopres data are downloaded to the EPM (European Physiology Module) Rack and transferred to the HRF PC1 via a USB key for downlink.  The sessions are scheduled at or around FD14, FD30, FD75, FD135 and R-15 (there will be fewer sessions if mission duration is less than six months).  (ICV activities consist of two separate but related parts over a one-week time period: an ultrasound echo scan &amp; an ambulatory monitoring session.)]
+ 
+Don Pettit re-installed the three PaRIS (Passive Rack Isolation System) lock-down alignment guides on the CIR (Combustion Integrated Rack) at Lab bay S3, engaged the snubber pins and locked safety pins to protect its ARIS (Active Rack Isolation System) from external loading (dynamic disturbances).
+ 
+Afterwards, Don performed the periodic (~monthly) reboot of the SLT (System Laptop Terminal) laptop in the Kibo JPM (JEM Pressurized Module).
+ 
+In Node-3, Kuipers installed the CCR (Cupola Crew Restraint) at the Cup RWS (Robotic Workstation) in preparation for the subsequent SSRMS OBT (Space Station Remote Manipulator System Onboard Training) session (later removing it again), and Pettit set up the SSRMS DOUG (Dynamic Onboard Ubiquitous Graphics) application.     [DOUG is a special application running on the MSS (Mobile Service System) RWS (Robotics Workstation) laptops that provides a graphical birdseye-view image of the external station configuration and the SSRMS arm, showing its real-time location and configuration on a laptop during its operation.  CCR serves to stabilize an SSRMS operator at the worksite in micro-g, acting similar to a seat belt.]
+ 
+André &amp; Don then spent ~2 hrs on the 3<sup>rd</sup> (of 3) SpaceX Demo Offset Grapple OBT session, practicing SSRMS misaligned grapple approaches in preparation for the Dragon capture (the 1<sup>st</sup> OBT was performed on 4/18, the 2<sup>nd</sup> on 4/20).      [Objectives of the OBT are: Familiarization with robotic operations from the Cupola RWS, practice good hand controller techniques and successful grapple approaches, and execute a Hot Backup transition and CCP (Crew Command Panel) relocation to the Lab RWS.  There are a total of three SSRMS Offset Grapples sessions in the OBT plan for Dragon capture.  For the sessions, the robotarm is pre-positioned at the PMM FRGF (Permanent Multipurpose Module Flight Releasable Grapple Fixture) High Hover Position, and the crew is free to complete misaligned grapple approaches to the PMM FRGF in order to familiarize themselves with operations from the Cupola RWS (volumetric constraints, stabilization, camera lighting, CCP lighting, etc.).  During the final session, Don &amp; André had the opportunity to practice a full Hot Backup transition, including the CCP relocation to the Lab RWS in the 3<sup>rd</sup> session.]
+ 
+Kononenko meanwhile had ~2.5 hrs set aside for more cargo unloading &amp; transfers from Progress 47P, docked at the DC1 Docking Compartment nadir port.
+ 
+Pettit had another time slot reserved for making entries in his electronic Journal on the personal SSC (Station Support Computer).    [Required are three journaling sessions per week.]
+ 
+Before Presleep, FE-5 will turn on the MPC (Multi-Protocol Converter) and start the Ku-band data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, André turns MPC routing off again.        [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+At ~4:25am EDT, André had his regular weekly PMC (Private Medical Conference) via S- &amp; Ku-band audio/video.
+ 
+At ~11:10am, André &amp; Don supported a PAO TV event, responding to interviews with Associated Press (Marcia Dunn) and KRLA Radio (Larry Marino), Los Angeles, CA.
+ 
+The crew worked out with their regular 2-hr physical exercise protocol on the CEVIS cycle ergometer with vibration isolation (FE-5), TVIS treadmill with vibration isolation &amp; stabilization (CDR), ARED advanced resistive exerciser (CDR, FE-5, FE-6) and T2/COLBERT advanced treadmill (FE-6).      [FE-6 is on the special experimental SPRINT protocol which diverts from the regular 2.5 hrs per day exercise regime and introduces special daily sessions, followed by a USND (Ultrasound) leg muscle self scan in COL.  No exercise is being timelined for Fridays.  If any day is not completed, Don picks up where he left off, i.e., he would be finishing out the week with his last day of exercise on his off day.]
+ 
+Tasks listed for Shkaplerov, Kononenko &amp; Ivanishin on the Russian discretionary “time permitting” job for today were –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormalCxSpMiddle" style="color:black;margin-bottom:10.0pt;mso-add-space:auto;line-height:115%;mso-list:l0 level1 lfo1">A ~30-min. session for Russia's EKON Environmental Safety Agency, making observations and taking KPT-3 aerial photography of environmental conditions on Earth using the NIKON D3X camera with the RSK-1 laptop, and</li><li class="MsoNormalCxSpMiddle" style="color:black;margin-bottom:10.0pt;mso-add-space:auto;line-height:115%;mso-list:l0 level1 lfo1">More preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb).</li></ul> 
+
+

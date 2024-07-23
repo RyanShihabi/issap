@@ -1,0 +1,41 @@
+ISS On-Orbit Status 12/04/09
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.
+ 
+ To support on-going ground analysis, CDR Williams took high-resolution still photography of the mast structure of SAW (Solar Array Wing) 2A, shooting from the JPM (JEM Pressurized Module) windows and focusing on wing bays 19-22.     [Engineers are analyzing the inability of the array to unlatch &amp; move after the latch failure during the Soyuz 19S undocking.  In this position, ISS structure could be shadowing the array mast which could cause a structural loading hazard.  The portside SARJ (Solar Array Rotary Joint) has been “parked” at 15 deg in order to let power channel 3A provide all necessary electricity power for about a week while troubleshooting &amp; assessments are performed.  The imagery was requested to help inspect the 2A SAW mast structure.]
+ 
+ With the Elektron O<sub>2</sub> generator, BITS2-12 onboard telemetry measurement system &amp; VD-SU mode turned off, FE Suraev meanwhile replaced ten Signal-VM DS-7A smoke detectors in the SM (Service Module) with new units, keeping two more in stowage and updating the IMS (Inventory Management System).    [BITS and VD-SU were reactivated afterwards, and the DS-7As were powered on by ground command.]
+ 
+ Later, Suraev supported ground-commanded activation of the Elektron by monitoring the external temperature of its secondary purification unit (BD) for the first 10 minutes of operations to ensure that there was no overheating.    [The gas analyzer used on the Elektron during nominal operations for detecting hydrogen (H<sub>2</sub>) in the O<sub>2</sub> line (which could cause overheating) is not included in the control algorithm until 10 minutes after Elektron startup. Elektron had to be turned off while BITS &amp; VD-SU were off.]
+ 
+ Williams reviewed &amp; prepared for a session with the SPHERES (Synchronized Position Hold, Engage, Reorient, Experimental Satellites) payload, scheduled tomorrow as a VolSci (Voluntary Weekend Science) activity.  The test is to ensure full operability of SPHERES, in anticipation of the “big event”, TS21, on 12/9:- the ZERO Robotics Pilot Program final event for High School students.      [Tomorrow’s activity will be the 20<sup>th</sup> test session, the first in four months and the first using an upgraded GUI (Graphic User Interface), intended to simplify operations.  It features Fluid Slosh, Formation Flight, Human Supervision, and Lost-in-Space scenarios with one, two and three satellites.  SPHERES is a test bed for the development and testing of formation flying and other multi-spacecraft control algorithms.  SPHERES, done first by Jeff Williams on Expedition 13 and later by Greg Chamitoff (Expedition 18), serves to mature autonomous satellite formation flight, rendezvous and docking algorithms in a long duration, microgravity environment.  Single-satellite experiments test new thrusting algorithms utilizing onboard accelerometers and gyroscopes to more accurately apply velocity commands; they also use a new technique to more accurately estimate velocity.  The two-satellite experiments introduce new controllers and path planning tools for purpose of docking to a tumbling satellite.  Formation flight experiments test initialization of a formation, and obstacle avoidance.  These tests help to develop the concept of a “fractionated spacecraft,” which uses a loose formation of small satellites to perform the tasks of a single large spacecraft.  Per applicable Flight Rule, SPHERES operations have no CO<sub>2</sub> (Carbon Dioxide) output constraints if the CDRA (CO<sub>2</sub> Removal Assembly) is operating in dual-bed or single-bed mode.  The experiment run is time-critical since Ku-band is required for real-time video downlink.]
+ 
+ In the US Airlock, Williams set up the ULF3 spacewalk EMUs (Extravehicular Mobility Units) #3010 &amp; #3018 with their SCUs (Service &amp; Cooling Umbilicals) and initiated the standard one-hour scrubbing process on the spacesuits’ cooling water loops, filtering ionic &amp; particulate matter (via a 3-micron filter).  Jeff then reconfigured the cooling loops and started the ~2hr biocide filtering (after adjusting the EMU temperature control valve to ensure loop temperature remains within the correct range to allow adequate iodination).  Scrubbing termination, disassembly of the EMU water processing kit and stowing the equipment followed.    [Loop scrubbing, incl. iodination of the LCVGs (Liquid Cooling &amp; Ventilation Garments) for biocidal maintenance, is done to eliminate any biomass and particulate matter that may have accumulated in the loops.]
+ 
+ Later, the CDR supported the APEX-C (Advanced Plant Experiments on Orbit-Cambium) payload by placing its two RNALater KFTs (KSC Fixation Tubes) in the MELFI-2 (Minus Eighty Laboratory Freezer on ISS 2), Dewar 4, Tray A/Sections 3 &amp; 4,
+ 
+ Jeff also adjusted the settings of the new G1 Camcorder (#1019), transferred from STS-129/Atlantis, for operation in ISS.
+ 
+ Williams then installed the 5-ft ISA VAJ (Internal Sampling Adapter / Vacuum Access Jumper) at the PMA-3 (Pressurized Mating Adapter 3), taking pressure readings for a leak check, then replaced the ISA Scopemeter pressure probe with a new unit and repeated the 45-min pressure check, leaving the setup in place to continue leak checking on future days.     [The old, expired probe #1525, replaced on 11/27, was used to compare readings, verifying whether an observed pressure drop is due to probe differences.]
+ 
+ To provide cooling for the ground-commanded activation of the US CDRA (Carbon Dioxide Removal Assembly), the CDR hooked up the regular ITCS LTL (Internal Thermal Control System/Low Temperature Loop) coolant jumper connection to the LAB1D6 rack.    [CDRA will be activated tonight over a five-hour period (1:00am-6:00am EST) to support tomorrow’s SPHERES session.]
+ 
+ Other activities by CDR Williams included –
+ <ul style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 36pt; "> <li>Configuring the MSG (Microgravity Science Glovebox) for Standby and powering down its A31p laptop after checking with POIC/Huntsville,</li><li>Replacing the air filter of the ABRS ERC1 (Advanced Biological Research System / Environmental Research Chamber 1),</li><li>Performing troubleshooting on GLA 09 (General Luminaire Assembly #9) in Node-2 by checking its lighting functionality during repeated ground-commanded closing attempts of its RPC (Remote Power Controller 6) which tripped open on 11/29, and</li><li>Setting up the NUTRITION w/Repository hardware for his third onboard session, starting tomorrow morning with urine collections. </li></ul> 
+ At ~3:15am EST, the crew held the regular (nominally weekly) tagup with the Russian Flight Control Team (GOGU), including Shift Flight Director (SRP), at TsUP via S-band/audio, phone-patched from Houston and Moscow.
+ 
+ At ~3:30am, Maxim linked up with TsUP stowage specialists via S-band to conduct the weekly IMS tagup, discussing inventory &amp; stowage issues, equipment locations and cargo transfers.
+ 
+ At ~9:30am, Jeff Williams also conducted an IMS stowage conference with ground specialists at MCC-Houston.
+ 
+ At ~1:30pm, the crewmembers had their standard bi-weekly teleconference with the JSC Astronaut Office (Steve Lindsey), via S-band S/G-2 audio &amp; phone patch.
+ 
+ At ~3:20pm, Williams &amp; Suraev are scheduled for their regular weekly tagup with the Lead Flight Director at JSC/MCC-H via S-band/audio.    [S/G-2 (Space-to-Ground 2) phone patch via SSC (Station Support Computer).]
+ 
+ The crew performed their regular 2-hr physical exercise on the ARED advanced resistive exerciser (CDR), T2 advanced treadmill (CDR, FE), and VELO ergometer bike with bungee cord load trainer (FE).
+ 
+ Later, Jeff transferred the exercise data files to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+ No CEO (Crew Earth Observation) photo targets uplinked for today.
+ 
+ 

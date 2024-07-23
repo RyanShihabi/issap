@@ -1,0 +1,38 @@
+ISS On-Orbit Status 12/20/12
+ 
+All ISS systems continue to function nominally, except those noted previously or below.
+ 
+After wakeup, FE-2 Tarelkin rebooted the Russian RSS1 &amp; RSS2 laptops and completed daily routine maintenance on the BRI smart switch router (SSR), checking its temperature via DeviceControl on the RSS1 laptop to ensure nominal operation.     [The BRI fan module consists of 4 individual fans. If one or several of these exhibit malfunction or rotation speed decreases, a combined warning is sent to the DeviceControl application on the RSS1 laptop to generate an emergency message and telemetry signal, “BRI1”. The fan module is an ORU (On-orbit Replaceable Unit).]
+ 
+FE-1 Novitskiy performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection and also completed the daily reboot of the Russian RS1 &amp; RS2 laptops.
+ 
+Evgeny conducted the periodic maintenance of the active Russian BMP Harmful Impurities Removal System, starting the “bake-out” cycle to vacuum on absorbent bed #2 of the regenerable dual-channel filtration system. FE-2 will terminate the process at ~4:15pm EST.  Bed #1 regeneration was performed yesterday.  (Done last: 11/29 &amp; 11/30).       [Regeneration of each of the two cartridges takes about 12 hrs and is conducted only during crew awake periods. The BMP’s regeneration cycle is normally done every 20 days.]
+ 
+Working in the Soyuz TMA-06M/32S spacecraft, docked at MRM2 Poisk, Oleg performed the periodic cleaning of the screen of the spacecraft’s BVN air heater,
+ 
+CDR Ford powered down the CGBA-5 (Commercial Generic Bioprocessing Apparatus-5) from the front panel keypad.
+ 
+Kevin also performed IFM (In-Flight Maintenance) in the Lab on Bacteria Filters, Removing &amp; Replacing the filters at S1, S5, P1, P3, and P5.     [The ground then commanded CCAA (Common Cabin Air Assembly) and SD.]
+ 
+Assisted by Novitskiy, Tarelkin conducted a session with the Russian biomed assessment MO-14 (Assessment of Orthostatic Endurance w/o LBNP/Lower Body Negative Pressure) which examines the orthostatic stability of the crewmember’s cardiovascular system at rest using complex methods.       [The session was conducted at rest without the Chibis-M ODNT/LBNP and Holter BP (blood pressure) devices, using only the KARDIOMED (Cardiomed) complex, to test its telemetry downlink at an RGS (Russian Groundsite) overflight at ~6:02am.]
+ 
+Kevin Ford went on a fishing expedition at the MOST (Medaka Osteoclast) Aquarium 2, first capturing three fish from Aquarium 2 and fixating them in the FFA (Fish Fixation Apparatus) A with Paraformaldehyde, then capturing another two fish from Aquarium 2 and transferring them to the FFA, followed by capturing one fish from Aquarium 1 and transferring it to FFA, for sample fixating with Paraformaldehyde. The AQH (Aquatic Habitat) Fixation Kit containing the samples went into the MELFI (Minus Eighty Laboratory Freezer for ISS). 
+ 
+Later, the CDR serviced the WRS (Water Recovery System) in Node-3, reconfiguring RFTA (Recycle Filter Tank Assembly) setup by disconnecting &amp; removing the QD (quick disconnect) with depress hose along with the tank’s vent adapter for nominal UPA (Urine Processor Assembly) processing and returning it to stowage. This included 10 min for restowing and 5 min for taking a documentary photograph. 
+ 
+FE-2 had 1h20m scheduled for IMS-tracked transfers &amp; loading of excessed Russian &amp; US equipment and trash on Progress 48P for disposal (incineration during atmospheric entry).
+ 
+FE-1 spent ~1h05m unloading Progress 49P and transferring Russian &amp; US cargo to the ISS for stowage.
+ 
+Tarelkin completed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+FE-2 also performed the daily IMS (Inventory Management System) maintenance, working from the Russian discretionary “time permitting” task list, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+Before Presleep (~2:30pm EST), Ford powers up the MPC (Multi-Protocol Converter) and starts the Ku-band data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, Kevin turns MPC routing off again.    [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+The three crewmembers worked out on the TVIS treadmill with vibration isolation &amp; stabilization (FE-1, FE-2), ARED advanced resistive exercise device (CDR, FE-2),, T2/COLBERT advanced treadmill, and VELO ergometer bike with load trainer (FE-2).f
+ 
+Tasks listed for Evgeny &amp; Oleg on the Russian discretionary “time permitting” job for today were –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l0 level1 lfo1">More preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb),</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">A ~30-min. run of the GFI-8 "Uragan" (hurricane) earth-imaging program with the NIKON D3X digital camera with Sigma AF 300-800mm telelens and PI emission platform using the SKPF-U  to record target sites on the Earth surface, and</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">A ~30-min. session for Russia's EKON Environmental Safety Agency, making observations and taking KPT-3 aerial photography of environmental conditions on Earth using the NIKON D3X camera with the RSK-1 laptop.</li></ul> 
+
+

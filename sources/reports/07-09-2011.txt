@@ -1,0 +1,46 @@
+ISS On-Orbit Status 07/09/11
+ 
+All ISS systems continue to function nominally, except those noted previously or below.  Saturday – Crew sleep cycle shift (about an hour to the right:  Wake 2:59am, sleep 6:29pm EDT.   FD2 (Flight Day 2) of STS-135/ULF7.
+ 
+With the USOS crew busy on Shuttle arrival preparations, the Russian crewmembers, Borisenko, Samokutyayev &amp; Volkov, joined in conducting the regular weekly three-hour task of thorough cleaning of their home.       ["Uborka", usually done on Saturdays, includes removal of food waste products, cleaning of compartments with vacuum cleaner, damp cleaning of the SM (Service Module) dining table, other frequently touched surfaces and surfaces where trash is collected, as well as the sleep stations with a standard cleaning solution; also, fan screens and grilles are cleaned to avoid temperature rises. Special cleaning is also done every 90 days on the HEPA (high-efficiency particulate air) bacteria filters in the Lab.]
+ 
+Preparatory to tomorrow’s docking of STS-135/Atlantis/ULF7, the last Shuttle flight in history, FE-3 Garan &amp; FE-6 Fossum jointly reviewed procedures necessary for readying the PMA-2 (Pressurized Mating Adapter 2) for the docking.
+ 
+Afterwards, Ron supported the ground by pressurizing &amp; leak-checking the PMA-2 for ingress, hatch opening and stowage after the Shuttle’s arrival.      [PMA-2, at the ISS bow, will be the docking port for Atlantis tomorrow.  The VAJ/ISA (Vacuum Access Jumper / Internal Sampling Adapter) remains connected to MPEV (Manual Pressure Equalization Valve) for PMA-2 leak check after the docking.]
+ 
+Next, Ron worked in the US A/L (Airlock) “Quest” to remove the #10A2 panel as a get-ahead for the oxygen (O<sub>2</sub>) transfer setup scheduled for the ULF7 FD3.   [Shuttle O<sub>2</sub> will be transferred to the ISS A/L PHA (Prebreathe Hose Assembly) ports during the EVA prebreathing periods.]
+ 
+FE-3 also connected the LTL (Low Temperature Loop) cooling to the Lab CDRA (Carbon Dioxide Removal Assembly) at Bay D6 in preparation for its activation.
+ 
+Mike Fossum installed a temporary THC IMV (Temperature &amp; Humidity Control / Intermodular Ventilation) air duct in Node-2 to optimize air mixing in the Lab for CO<sub>2</sub> removal, with the Shuttle crew as additional station occupants on board.
+ 
+Later, Mike performed the periodic offloading of the WPA (Water Processor Assembly) storage tank from the PWD (Potable Water Dispenser) Auxiliary port to a CWC-I (Contingency Water Containers-Iodine) bag.  The PWD could not be used during the offloading.      [Estimated offload time: 23 min.]
+ 
+Andrey Borisenko conducted an audit of Russian ULF7 electrical dummy connector kits, took documentary photography and then handed them over to FE-3 Garan for training and subsequent stowing per crew preference in the A/L (Airlock).
+ 
+Activities completed by Satoshi Furukawa included –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l0 level1 lfo1">Readying two BPSMUs (Battery Powered Speaker Microphone Units) for use by the Shuttle crew during the docked phase with the Orbiter.     [One BPSMU was placed at the Lab RWS (Robotic Workstation), the other near the Node-2 nadir hatch for MPLM (Multi-Purpose Logistics Module) operations.]</li></ul><?if !supportLists?>·         <?endif?>Configuring THC IMV diffusers in the Lab, with the Shuttle crew as additional station occupants on board,
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="color:windowtext;mso-list:l0 level1 lfo1">Connecting the power cable from UOP (Utility Outlet Panel) to the DCP (Display &amp; Control Panel) at the Cupola RWS,</li><li class="MsoNormal" style="color:windowtext;mso-list:l0 level1 lfo1">Connecting the power cable from UOP to the DCP at the Lab RWS,</li><li class="MsoNormal" style="color:windowtext;mso-list:l0 level1 lfo1">Relocating the SSC-9 (Station Support Computer 9) &amp; SSC-17 to the Cupola with SSC-18 and configuring them for the robotic MPLM (Multi-Purpose Logistics Module) transfer ops by SSRMS (Space Station Remote Manipulator System),</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">Completing the visual T+2 Days (44 ± 4h) microbial (bacterial &amp; fungal) analysis of SM &amp; PWD (Potable Water Dispenser) water samples collected by him on 7/7, using the WMK MCD (Water Microbiology Kit / Microbial Capture Devices) for microbial traces, and the CDB (Coliform Detection Bag) for inflight coliform indications (Magenta for Positive, Yellow for Negative), and</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">Installing/routing the VDS (Video Distribution System) video cap in Node-2 which enables pass-through reception of video from the Atlantis with the Orbiter docked.</li></ul> 
+CDR Borisenko conducted the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM (Service Module), including the weekly collection of the toilet flush (SP) counter and water supply (SVO) readings for calldown to TsUP-Moscow.      [SOZh servicing includes checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers].
+ 
+Later, Andrey performed the weekly checkup on the Russian POTOK-150MK (150 micron) air filter unit of the SM’s &amp; FGB’s SOGS air revitalization subsystem, gathering weekly data on total operating time &amp; “On” durations for reporting to TsUP
+ 
+Borisenko also disconnected the newly installed external FGB PDGF (Power &amp; Data Grapple Fixture) by demating two internal BKS cables.     [Troubleshooting the PDGF is a get-ahead task for the EVA by Ron &amp; Mike on FD5.]
+ 
+Volkov, Garan, Furukawa &amp; Fossum spent about an hour reviewing and discussing tomorrow’s Shuttle RPM (R-bar Pitch Maneuver) photo shoot during which they will be using NIKON D2Xs digital still cameras with 800mm &amp; 400mm lenses, joined by Sergei with a 1000 mm lens (actually a 600mm lens with 1.7x teleconverter).       [During the RPM at ~600 ft from the station, the “shooters” have only ~90 seconds for taking high-resolution digital photographs of all tile areas and door seals on Atlantis, to be downlinked for launch debris assessment.  Thus, time available for the shooting will be very limited, requiring great coordination between the two headset-equipped photographers and the Shuttle pilot (Doug Hurley).]
+ 
+FE-5 &amp; FE-6 also initiated &amp; monitored charging of 5 NIKON D2Xs batteries for the RPM.    [Batteries must be charged for at least three hours. Three Batteries will be used for the D2Xs camera configuration in preparation for the RPM documentation.  The 4<sup>th</sup> and 5th batteries will be reserved as a backup battery for the actual RPM.]
+ 
+Mike performed the final configuration of the cameras for the RPM.
+ 
+Mike &amp; Satoshi each completed a session with the U.S. HMS VIS (Health Maintenance Systems / Visual Acuity) testing program, using an eye chart for both far &amp; near visual acuity and filling out an eye questionnaire for downloading on a laptop for ground access.
+ 
+Ron manually loaded new EMCS (European Modular Cultivation System) application software (AWS) from the ER3 ELC (EXPRESS Rack 3) laptop computer to the EMCS via FTP file transfer.
+ 
+FE-3, FE-5 &amp; FE-6 are scheduled for their weekly PFCs (Private Family Conferences) via S-band/audio and Ku-band/MS-NetMeeting application (which displays the uplinked ground video on an SSC laptop), Satoshi at ~9:04am, Ron at ~11:59pm, Mike at ~4:39pm.
+ 
+Before “Presleep” period tonight, Ron Garan powers on the MPC (Multi-Protocol Converter) and starts the data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, MPC will be turned off again.     [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+The crew worked out with their regular 2-hr physical exercise protocol on the CEVIS cycle ergometer with vibration isolation (FE-3, FE-5), ARED advanced resistive exercise device (FE-1, FE-3, FE-4, FE-5, FE-6), T2/COLBERT advanced treadmill (CDR, FE-1, FE-4, FE-6), and VELO ergometer bike with load trainer (CDR).
+ 
+

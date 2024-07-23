@@ -1,0 +1,58 @@
+ISS On-Orbit Status 11/21/12
+ 
+All ISS systems continue to function nominally, except those noted previously or below.
+ 
+After wakeup, FE-1 Novitskiy performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection and also .  
+ 
+FE-1 also completed the daily reboot of the Russian RS1 &amp; RS2 laptops, and FE-2 Tarelkin rebooted the RSS1 &amp; RSS2 laptops
+ 
+Before breakfast and other Postsleep activities, FE-2 Tarelkin set up the Russian spectrometry experiment MBI-28 Xromatomass (Chromatomass) and conducted his 3<sup>rd</sup> session of collecting saliva and blood. MBI-28 was closed out afterwards.
+ 
+CDR Ford completed another sampling run with the AQM (Air Quality Monitor), deactivating the system ~5 hrs later.      [Consisting of the EHS GC/DMS (Environmental Health Systems Gas Chromatograph / Differential Mobility Spectrometer), the system is controlled with “Sionex” expert software from the SSC (Station Support Computer)-12 laptop.  The AQM demonstrates COTS (Commercial Off-the-Shelf) technology for identifying volatile organic compounds, similar to the VOA (Volatile Organics Analyzer).  This evaluation will continue over the course of several months as it helps to eventually certify the GC/DMS as nominal CHeCS (Crew Health Care Systems) hardware.]
+ 
+FE-1 Oleg Novitskiy undertook his first MBI-24 “SPRUT-2” (“Squid-2”) tests, part of Russian medical research on the distribution and behavior of human body fluids in zero gravity, preceded by PZEh-MO-8 BMM (body mass measurement) using the IM device. Evgeny Tarelkin recorded photo/video documentation.     [Supported by the RSS-Med A31p laptop with vers. 1.6 software in the SM, the test uses the Profilaktika kit, with data recorded on PCMCIA memory cards, along with Oleg’s body mass values and earlier recorded MO-10 Hematocrit value, but skipping “fat fold” measurements.  Experiment requisites are the Sprut securing harness, skin electrodes (cuffs), and RSS-Med for control and data storage.  The “Pinguin” suit or Braslet-M cuffs, if worn, have to be taken off first.  Electrode measurements are recorded at complete rest and relaxed body position.  The actual recording takes 3-5 minutes, during which the patient has to remain at complete rest.]
+ 
+Afterwards, Oleg started his first session of the standard 24-hour ECG (electrocardiogram) recording under the Russian MedOps PZE MO-2-2 protocol which monitors human cardiovascular performance in the space flight environment.      [After 24 hrs of ECG recording and blood pressure measurements with the Kardiomed (CDM) system, FE-1 will doff the five-electrode Holter harness that read his dynamic (in motion) heart function from two leads and recorded on the “Kardioregistrator 90205” unit.  The examination results will then be downloaded from the Holter ECG device to the RSE-Med laptop, controlled by the Kardiomed application.  Later, the data will be downlinked as a compressed .zip-file via OCA.]
+ 
+In the Lab, after conducting a procedures review and tagging up with ground specialists at ~3:25am EST, Kevin Ford took on the major 4-hr task of cleaning out the cooling zone of the MSL SQF (Material Science Laboratory / Solidification &amp; Quenching Furnace) in the MSRR (Material Science Research Rack), i.e., removing all of its graphite foil.    [This activity is required to clean up residue left behind from the anomaly that occurred in September last year. The cooling zone cleaning is an iterative process that includes “scraping” and “polishing” until all residue is removed. The activities were monitored on live HD video from the ground and recorded during LOS (loss-of-signal) periods.]
+ 
+In the Kibo lab, the CDR later serviced the JAXA MICB (MICROBE-3) experiment by saving the accumulated data of the Particle Counter attached on the bottom of the Kobairo Rack GHF (Gradient Heating Furnace) to the ELT2 (Experiment Laptop Terminal 2).
+ 
+Tarelkin had ~2 hrs set aside for the periodic (~annual) extensive audit/inventory of the SUBA SD1-7 &amp; SSD305 lighting fixtures in the RS including portables, for the purpose of assessing lighting in the RS, planning delivery of replacements, and updating the IMS (Inventory Management System) on the ground.     [Going by an uplinked listing of 54 lights fixtures in SM (Service Module, FGB, DC1, MRM1, &amp; MRM2, Evgeny checked functionality of the lights, replaced failed units where necessary and also inventoried the supply of light units in spare bags.  The resulting data files were downlinked to TsUP-Moscow via OCA or RSPI.]   
+ 
+Evgeny also replaced the SD1-5M lamp in the SSD301 lighting fixture in the right Kayuta (crew quarters).
+ 
+Afterwards, FE-2 conducted the periodic task of tightening the BZV quick release screw clamps of the SSVP docking mechanism on the MRM1 Rassvet module which had served as docking compartment for Soyuz 31S until 11/18.
+ 
+Ford completed the standard 30-day inspection of the AED (Automated External Defibrillator) in the CHeCS (Crew Health Care Systems) rack.    [AED is a portable electronic device that automatically diagnoses the potentially life threatening cardiac arrhythmias of ventricular fibrillation and ventricular tachycardia in a patient.  It then can treat them through defibrillation, i.e., the application of electrical therapy which stops the arrhythmia, allowing the heart to re-establish an effective rhythm.]
+ 
+In Node-3, the CDR later conducted the approximately weekly WRS (Water Recovery System) sampling using the TOCA (Total Organic Carbon Analyzer), after first initializing the software and priming (filling) the TOCA water sample hose.      [After the approximately 2-hr TOCA analysis, results were transferred to an SSC (Station Support Computer) laptop via USB drive for downlink, and the data were also logged.]
+ 
+Novitskiy took care of the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.      [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+Oleg also completed the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+Evgeny performed the periodic (monthly) functional closure test of the Vozdukh CO<sub>2</sub> removal system’s spare AVK emergency vacuum valves, in the spare parts kit.     [The AVKs are crucial because they close the Vozdukh's vacuum access lines in the event of a malfunction in the regular vacuum valves (BVK) or a depressurization in the Vozdukh valve panel (BOA). Access to vacuum is required to vent CO<sub>2</sub> during the regeneration of the PP absorbent cartridges.]
+ 
+Later, FE-2 conducted the periodic checkout &amp; performance verification of IP-1 airflow sensors in the various RS hatchways.     [Inspected IP-1s are in the passageways PrK (SM Transfer Tunnel)–RO (SM Working Compartment), PkhO (SM Transfer Compartment)–RO, PkhO–DC1, PkhO–FGB PGO, PkhO-MRM2, FGB GA-MRM1, FGB PGO–FGB GA, and FGB GA–Node-1.]
+ 
+Kevin completed the periodic maintenance of the ARED advanced resistive exercise machine of evacuating its cylinder flywheels to re-establish proper vacuum condition &amp; sensor calibration.
+ 
+Oleg Novitskiy had another ~1.45 hrs reserved for more cargo unloading &amp; transfer from Progress M-17M/49P (#417) to the ISS for stowage. 
+ 
+FE-1 also continued the ongoing cargo transfers to the Progress M-16M/48P ship for stowage and disposal.      [Since 48P is scheduled to remain docked to the station until February next year, it serves as a temporary stowage location for selected cargo items, all of which must be documented in the IMS (Inventory Management System) database.  Disposal cargo is also being stowed as per uplinked listing.]
+The CDR had a time slot/placeholder reserved for making entries in her electronic Journals on the personal SSC (Station Support Computer).   [Required are three journaling sessions per week.]
+ 
+Before Presleep (~2:30pm EST), Ford powers up the MPC and starts the Ku-band data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, Kevin turns MPC routing off again.        [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+CDR, FE-1 &amp; FE-2 held their standard weekly PMCs (Private Medical Conferences), via S- &amp; Ku-band audio/video, Kevin at ~9:00am, Evgeny at ~11:55am, Oleg at ~12:30pm EST.
+ 
+The crew worked out on the CEVIS cycle ergometer with vibration isolation &amp; stabilization (CDR), TVIS treadmill with vibration isolation &amp; stabilization (FE-1, FE-2), ARED advanced resistive exercise device (CDR, FE-1), and VELO ergometer bike with load trainer (FE-2). 
+ 
+Before exercising on the ARED, Oleg set up and checked out the G1 video camera for it to record Oleg’s workout session on the machine, meeting the regular 30-day requirement for biomechanical evaluation of the on-orbit crewmembers, and evaluation of the hardware status.  Afterwards, Kevin Ford stowed the video footage.
+ 
+Tasks listed for FE-4 Malenchenko on the Russian discretionary “time permitting” job for today were –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">More preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb),</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">A ~30-min. run of the GFI-8 "Uragan" (hurricane) earth-imaging program with the NIKON D3X digital camera with Sigma AF 300-800mm telelens and PI emission platform using the SKPF-U  to record target sites on the Earth surface, and</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">A ~30-min. session for Russia's EKON Environmental Safety Agency, making observations and taking KPT-3 aerial photography of environmental conditions on Earth using the NIKON D3X camera with the RSK-1 laptop.</li></ul> 
+CEO (Crew Earth Observation) targets uplinked for today were Kerguelen Is., Indian Ocean (looking just right of track for views of the islands. There is a possible break in cloud cover for views of the glacier-capped main island. Cook Glacier, on the high west side of the main island, is the focus of interest. With an area of 400 km2 the glacier is quoted as "France's largest glacier," since the islands are a French possession. The high parts of the island where the glacier is found are 35 million-year-old volcanic rocks generated by a hotspot beneath the Antarctic Plate), and NE United States coastal damage (nadir pass over the New Jersey shoreline. Beaches everywhere have been narrowed by the storm surge. But railroad connections between Hoboken, NJ, and New York City have just been reopened. The most affected shorelines—Manhattan Island, Long Island and Long Island Sound—are just left of track. Protective dune cordons, some put in place by coastal communities, have disappeared. Fire Island, a barrier island along the south shore of Long Island, was breached in two places).
+ 
+

@@ -1,0 +1,18 @@
+
+Alpha Magnetic Spectrometer (AMS) Extravehicular Activity (EVA) #61 (AMS EVA3): Today, ISS CDR Luca Parmitano (EV-1) and FE-9 Drew Morgan (EV-2) completed US EVA #61 (AMS EVA #3) and performed the following tasks:
+
+Upgraded Tracker Thermal Pump System (UTTPS) Install
+Power and Data Cable Install
+Open Refill Valve
+Vertical Support Beam (VSB) Tube Clean Cut and Swage
+Nadir Tube Routing
+Nadir Tube Clean Cut and Swage
+Nadir Blanket Installation (get ahead activity)
+
+The AMS-02 repair EVAs are being performed with the goal of recovering a series of cooling pumps within the AMS-02 experiment. The first and second of the AMS EVAs were completed successfully and went very well. Today’s EVA3, installed the Upgraded Tracker Thermal Pump System (UTTPS), a key milestone in the AMS EVA series that will restore the AMS-02 instrument. The EVA duration time was 6 hours and 2 minutes. Following the installation of the UTTPS, ground teams verified nominal telemetry from the newly installed UTTPS.  The next AMS EVA will focus on leak checks and the MLI tent installation.
+AMS-02 is a state-of-the-art particle physics detector that uses the unique environment of space to advance knowledge of the universe and lead to the understanding of the universe’s origin by searching for antimatter, dark matter and measuring cosmic rays.
+Bio-Monitor: The crew consolidated hardware for the Bio Monitor. Although the ISS is equipped with health and life sciences research tools, the existing instrumentation for continuous and simultaneous recording of several physiological parameters is lacking. To tackle this issue, the Bio-Monitor Commissioning activity tests the Bio-Monitor facility; a wearable garment capable of monitoring relevant physiological parameters for up to 48 hours in a non-invasive and non-interfering way.  The physiological parameters which can be monitored consist of heart rate, respiration rate, ECG (Electrocardiogram), skin temperature, peripheral blood oxygen saturation, etc.
+Systems:
+Advanced Resistance Exercise Device (ARED):  Today, the ISS crew completed the abbreviated ARED cylinder flywheel evacuation as part as of the normal inflight maintenance.
+Mobile Servicing System Operations: Today, the Robotics Ground Controllers powered up the Mobile Servicing System (MSS) before the EVA start. EV1 ingressed the Worksite Interface Extension + Articulated Portable Foot Restraint (WIFEX+APFR) installed on the Space Station Remote Manipulator System (SSRMS) and IV crew (Jessica) maneuvered the SSRMS to the Alpha Magnetic Spectrometer (AMS) worksite. After EV 1 & 2 completed the planned tasks, they cleaned up the AMS worksite and IV crew maneuvered the SSRMS to the arm egress position. EV 1 egressed the WIFEX+APFR and de-configured the SSRMS (i.e. removed the WIFEX+APFR from the SSRMS). After EV crew ingressed the airlock the Robotics Ground Controllers maneuvered the SSRMS to park position. MSS is left in an operational state.
+

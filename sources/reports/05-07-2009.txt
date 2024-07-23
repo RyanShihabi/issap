@@ -1,0 +1,37 @@
+ISS On-Orbit Status 05/07/09</a>
+ 
+  All ISS systems continue to function nominally, except those noted previously or below.
+ 
+ Progress M-02M/33P launched successfully at 2:37pm EDT.  Docking to the ISS at the DC1 (Docking Compartment) is planned for 5/12 (Tuesday) at ~3:23pm.  For the Soyuz-U rocket, it was the 51<sup>st</sup> launch of this vehicle type.
+  
+  In preparation for the Russian Orlan EVAs 22 &amp; 23 on 6/5 and 6/10, CDR Padalka and FE-1 Barratt searched for and collected Russian supplies &amp; tools.   FE-1 Barratt also gathered US EVA tools in including a trash bag, tool caddy and helmet light/WVS (Wireless Video System) assembly.
+ 
+  FE-2 Wakata completed Part 1 of the planned CEVIS IFM (Cycle Ergometer with Vibration Isolation Inflight Maintenance) this morning, including a detailed video survey to determine what steps are required to repair the CEVIS workload discrepancy issue.   [Based on downlinked data, specialists believe the workload anomaly is being caused by a mechanical component within CEVIS, but they have been unable to pinpoint the specific failed component.  Additional troubleshooting for Part 1 is scheduled for tomorrow.  After completion of tomorrow’s activities, specialists will analyze the video and photos.  Part 2 of the IFM will be scheduled in the near future to restore the CEVIS to full functionality.]
+  
+  Ground controllers successfully translated the MT (Mobile Transporter) from WS-4 (Worksite 4) to WS-7 in preparation for tomorrow’s a video survey of the CETA (Crew Equipment Translation Aid) cart and port SARJ (Solar Alpha Rotary Joint).
+ 
+  SARJ photogrammetry is scheduled for tomorrow in preparation for Flight 2J/A.
+ 
+  Also scheduled for tomorrow is S1 radiator ammonia venting.   [Timing of the event has been moved for better ground based viewing (during darkness).  15 min post-start of the event there will be sunlight and the SSRMS camera will be used for subsequent particle viewing.]
+ 
+  In the RS (Russian Segment), Gennady Padalka obtained voltage measurements on the PTsB Central Processor Subsystem in the BITS2-12 onboard measurement telemetry system.   The voltage measurement results were nominal, thus exonerating the PTsB.   [Additional troubleshooting is expected in an effort to determine why the BITS is not receiving upgraded telemetry from the new Orlan-MK suits.]
+ 
+  A detailed procedure to remove the check valve in the UPA (Urine Processor Assembly) is in work. The bolt did not make the 33P flight in time for launch.  Options will be discussed tomorrow.
+ 
+  The crew completed their regular daily 2.5-hr. physical workout program (about half of which is used for setup &amp; post-exercise personal hygiene) on the CEVIS cycle ergometer (FE-2), TVIS treadmill (CDR, FE-1, FE-2), ARED advanced resistive exercise device (FE-1, FE-2) and VELO with bungee cord load trainer (CDR). 
+ 
+  Afterwards, Koichi Wakata downloaded the exercise data file to the MEC (Medical Equipment Computer) for downlink, including the daily wristband HRM (Heart Rate Monitor) data of the workouts on ARED, followed by their erasure on the HRM storage medium (done six times a week).
+ 
+  Gennady performed IFM and functionality checks on the Russian VELO cycle ergometer (VB-3), replacing parts of the cycle’s generator and reassembling the exercise device’s generator unit with its noise-suppressing rubber-metal bushings, then configuring it for operation.
+ 
+  The crew conducted the regular fire drill/OBT (on-board training), a mandatory periodic one-hour exercise (including subsequent 15-min ground debrief conference).  The drill should be performed every 2.5 months but no later than one month prior to end of increment.   [Primary goal of this Russian-led interactive exercise is to maintain crew skills in responding to a fire and to provide the station residents with the most realistic emergency training possible.  The drill is always conducted with the support of all MCCs (TsUP-Moscow, MCC-Houston, COL-CC, SSIPC/Tsukuba) in close coordination.  It should be performed every 2.5 months, but not later than 1 month prior to end of Increment.  OBT objectives are to (a) practice fire response procedures (FRPs) and all incorporated actions for the case of a software-detected fire to locate, extinguish, and verify extinguishing attempts; (b) browse through RS laptop and the Signal-VM fire detection system displays as well as the automated software (algorithms) response to the fire event; (c) practice crew communication necessary to perform emergency FRPs;  (d) ensure familiarization with support equipment (CSA-CP compound specific analyzer-combustion products, PBAs portable breathing assemblies, PFE/OSP-4 portable fire extinguishers, and IPK-1M gas masks to be used for fire suppression).  These exercises do not actually use any fire equipment but simulate such actions with comm channels, PBAs, CSA-CP and laptop displays to the maximum extent possible.  The Emergency Procedures OBT concluded with a 15-min. debrief with Russian/U.S. ground specialists at ~9:03am via S-band.]
+ 
+  The CDR undertook his first periodic (generally monthly) health test with the cardiological experiment PZEh MO-1 (“Study of the Bioelectric Activity of the Heart at Rest”) on the TVIS (Treadmill with Vibration Isolation System), with Mike Barratt assisting as CMO (Crew Medical Officer).     [Equipment used were VPG/Temporal Pulsogram and ECG/Electrocardiogram Data Output Devices (USI).  During the 30-min. test, the FE-1 tagged up with ground specialists on an RGS (Russian Groundsite) pass at ~11:37am via VHF for data downlink from the VPG and Gamma-1M ECG for about 5-6 minutes.]
+  
+  Barratt performed the daily status check on the BCAT (Binary Colloidal Alloy Test) science payload, running by itself since 5/2.    [The status check, conducted on the last image taken by the DCS 760 digital still camera which is controlled by EarthKAM software on an A31p laptop, is to verify proper image focus and camera alignment.  The SSC (Station Support Computer) is taking photography of the phase separation occurring in the BCAT Sample 3, with the photo flash going off every half hour.]
+ 
+  CEO photography can be studied at this “Gateway” website:
+ <a href="http://eol.jsc.nasa.gov/" title="http://eol.jsc.nasa.gov/">http://eol.jsc.nasa.gov</a>  (as of 9/1/08, this database contained 770,668 views of the Earth from space, with 324,812 from the ISS alone).
+ 
+ 
+

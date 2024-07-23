@@ -1,0 +1,44 @@
+ISS On-Orbit Status 04/01/11
+ 
+All ISS systems continue to function nominally, except those noted previously or below.  
+ 
+Upon wake-up, CDR Kondratyev performed the regular daily check of the aerosol filters at the Russian Elektron O<sub>2</sub> (oxygen) generator which Maxim Suraev had installed on 10/19/09 in gaps between the BZh Liquid Unit and the oxygen outlet pipe (filter FA-K) plus hydrogen outlet pipe (filter FA-V).     [Dmitri will inspect the filters again before bedtime tonight, currently a daily requirement per plan, with photographs to be taken if the filter packing is discolored.]
+ 
+In the JAXA JPM (JEM Pressurized Module), FE-6 Coleman serviced the running NANOSKELETON-2 experiment #1, detaching MEU A *Measurement Experiment Unit A (2) from CBEF IU (Cell Biology Experiment Facility Incubation Unit) for Micro-G after incubation of the experiment #1, then retrieving NANOSKELETON-2 Kit (2) from Bag Cartridge A (2) and MEU A (2).
+ 
+Kondratyev conducted a periodic inventory/audit of all medical kits in the RS (Russian Segment).
+
+The CDR then began a new round of the monthly preventive maintenance of RS ventilation systems, working several hours with the vacuum cleaner, cleaning –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="mso-list:l0 level1 lfo1">Interior closeout panel vent screens (panels 201, 301, 401) in the FGB (Funktsionalnyi-Grusovoi Blok),</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">PF1 &amp; PF2 dust filters, V1 &amp; V2 vent grids and the VD1 &amp; VD2 air ducts in the DC1 Docking Compartment Pirs, and</li><li class="MsoNormal" style="mso-list:l0 level1 lfo1">PF1 &amp; PF2 dust filters, V1 &amp; V2 vent grids and the VD1 &amp; VD2 air ducts in the MRM2 Mini-research Module 2 Poisk. </li></ul> 
+For use during the upcoming STS-134/ULF6 spacewalks, FE-5 Nespoli checked out two SAFER (Simplified Aid For EVA Rescue) units, #1003, #1007.
+ 
+Afterwards, Nespoli serviced the running BXF (Boiling eXperiment Facility) experiment in the MSG (Microgravity Science Glovebox) by removing &amp; stowing the tapes from both analog recorders &amp; both digital recorders, labeling &amp; installing new tapes, and resetting the tape counters.  The MSG was then switched to Standby and its A31p laptop powered down.      [For the MABE (Microheater Array Boiling Experiment) part of the payload, Paolo verified that the Hi-8 recorders are in Short Play Mode.]
+ 
+Paolo &amp; Cady also had several more hours set aside for tool gathering and preparation for the 4 ULF6 EVAs, guided by an uplinked listing of 120 individual items.
+ 
+A particular time slot of 2 hrs was reserved for Nespoli to retrieve, assemble &amp; stage 4 EVA Grease Guns for ULF6.    [FE-5 worked on 2 Straight-Nozzle Grease Guns and 2 J-Hook Nozzle Grease Guns, assembling them for use during the spacewalks.]
+ 
+FE-6 Coleman performed another weekly 10-min. CWC (Contingency Water Container) inventory as part of the on-going WRM (Water Recovery &amp; Management) assessment of onboard water supplies.  Updated “cue cards” based on the crew’s water calldowns are sent up every other week for recording changes.     [The current card (27-0041A) lists 132 CWCs (2,519.5 L total) for the five types of water identified on board: 1. technical water (16 CWCs with 546.7 L, for Elektron electrolysis, incl. 241.7 L in 6 bags containing Wautersia bacteria, 134.2 L in 3 clean bags for contingency use, 170.8 L in 4 bags for transfer into EDV-RP containers via US/RSA-B hose, and 3 empty bags;  2. potable water (no CWCs);  3. iodinated water (104 CWCs with 1,868.9 L for reserve, of which 642.2 L in 35 CWCs are listed as “expired”;  4. condensate water (76.6 L in 10 bags incl. 7.1 L in 1 bag to be used only for OGA, plus 5 empty bags); and  5. waste/EMU dump and other (27.3 L in 2 CWCs from hose/pump flush).  Wautersia bacteria are typical water-borne microorganisms that have been seen previously in ISS water sources.  These isolates pose no threat to human health.]
+ 
+Working in the Lab on ER6 (EXPRESS Rack 6, loc. O4), Coleman set up its RIC (Rack Interface Controller) for a new software load and performing the loading.       [Steps included first swapping the ER6 PCMCIA (Portable Computer Memory Card International Adapter) harness/card assembly &amp; the RS-232 data cable with ER1, verifying that RS-232 communicated properly with the RIC and then starting the RIC boot auto load process, followed later by the RIC binary auto loader software load sequence after confirmation of boot-up, and still later confirming to POIC (Payload Operations &amp; Integration Center) that the RIC software load was successfully completed.]
+ 
+Also in the Lab, FE-6 continued preparing the MELFI-1 (Minus Eighty Laboratory Freezer for ISS 1) by inserting 4 ice bricks (-32 degC) in Dewar 1 Tray B/Sections 1 &amp; 2 for Stage ULF5 preservative storage needs.
+ 
+CDR Kondratyev took care of the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers],
+ 
+Later, Dmitri ran a test of the NViewer (NASA Viewer) application software on the SSC-1 (Station Support Computer 1) A31p laptop in the FGB.     [The setup is normally used for MPEG2 (Moving Pictures Expert Group 2) monitor-viewing of approach, docking &amp; departure events, along with the Russian Simvol-Ts LIV television system (converter &amp; monitor) for both the conversion and the “streaming” MPEG2 encoding, run from the RS (Russian Segment).]
+ 
+At ~3:45am EDT, the three crewmembers held the regular (nominally weekly) tagup with the Russian Flight Control Team (GOGU/Glavnaya operativnaya gruppa upravleniya), including Shift Flight Director (SRP), at TsUP-Moscow via S-band/audio, phone-patched from Houston and Moscow.
+ 
+At ~8:50am, Dmitri linked up with TsUP/Moscow stowage specialists via S-band to conduct the weekly IMS tagup, discussing inventory &amp; stowage issues, equipment locations and cargo transfers.
+ 
+At ~3:00pm, Cady, Paolo &amp; Dima had their regular weekly tagup with the Lead Flight Director at JSC/MCC-Houston.
+ 
+The crew worked out with their regular 2-hr physical exercise on the TVIS treadmill (CDR), ARED advanced resistive exerciser (FE-5, FE-6), T2/COLBERT advanced treadmill (FE-5, FE-6) and VELO ergometer bike with load trainer (CDR).      [T2 snubber arm inspection is no longer needed after every T2 session but must be done after the last T2 session of the day.]
+ 
+Conjunction Avoidance:     Due to repeating conjunctions with Object 34443 (debris from the collision of the COSMOS 2251 &amp; Iridium 33 satellites on 2/10/99), a DAM (Debris Avoidance Maneuver) will be conducted tonight, with an ignition time of 10:36pm EDT and a delta-V of 0.5 m/s.  The DAM will utilize the ATV2 OCS (Automated Transfer Vehicle 2 Orbit Correction System) engines for the reboost.  SM thrusters will perform attitude control for Yaw &amp; Pitch; Progress 41P will perform roll control.  In order to minimize orbit perturbations before the DAM, the Russian Solar Array Efficiency Test was cancelled from today’s plan.
+ 
+CEVIS Troubleshooting:    The crew performed additional CEVIS (Cycle Ergometer with Vibration Isolation) audio/video collection today, with the goal to identify which CEVIS ORU (On-orbit Replacement Unit) is the source of noise. Ground engineering review of the data is in work.
+ 
+
+

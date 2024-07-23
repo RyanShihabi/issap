@@ -1,0 +1,19 @@
+
+Refabricator: The ground teams successfully initiated and completed the first of five tensile sample prints using material that was once-recycled on the ground. The Refabricator’s objective is to demonstrate a unique process for repeatable, closed-loop recycling of a polyetherimide/polycarbonate plastic material for additive manufacturing in the microgravity environment of the ISS.  Eventually, Refabricator type hardware could recycle waste plastic materials into high quality 3D-printer filament, providing the potential for sustainable fabrication, repair, and recycling capabilities on long-duration space missions. This hardware represents a key component of NASA’s In-Space Manufacturing (ISM) technology development roadmap.
+Made In Space – Recycler: The crew installed the RECYCLER 3D printer into Express Rack 9B locker 5. The Made in Space – Recycler recycles polymer materials into filament that can be used as feedstock for the Made in Space 3D printer on the space station. Crews can use materials and parts that have reached the end of their useful life to create new items using 3D printing. This reduces the weight and mass of supplies that must be brought into space from Earth, an important capability for deep space missions.
+CIR (Combustion Integrated Rack): The crew replaced the CIR manifold #4 with new H2 and C2H4/N2 gas bottles in preparation of continued s-Flame test runs. The CIR includes an optics bench, combustion chamber, fuel and oxidizer control, and five different cameras for performing combustion experiments in microgravity.
+CAL (Cold Atom Lab): The crew moved the CAL facility from the LAB Express Rack 7 location to the COLUMBUS module and then removed Science Module #1 from the facility and replaced it with Module #3. The old Module #1 was temp stowed for return. The crew also cleaned the angled and straight fiber port inspection tips with fiber cleaning wipes. This operation was performed in the COLUMBUS module as it provided a better spatial work area. Upon completion of the module installation, the crew transferred the facility back to the LAB Express Rack 7 location. The CAL produces clouds of atoms that are chilled to about one ten billionth of a degree above absolute zero — much colder than the average temperature of deep space. At these low temperatures, atoms have almost no motion, allowing scientists to study fundamental behaviors and quantum characteristics that are difficult or impossible to probe at higher temperatures. In microgravity, researchers may be able to achieve even colder temperatures than what is possible on the ground, and observe these cold atom clouds for longer periods of time.
+STPSat-4: The crew installed the CYCLOPS STPSat-4 Satellite onto the CYLCOPS SFA Plate and then the CYCLOPS was installed onto the JEM Airlock slide table. The Slide table was moved into the JEM airlock which was then depressurized. Launched from the International Space Station, Space Test Program Satellite-4 (STPSat-4) is a suite automated for robotic space tools and sensors that test new equipment configurations and monitor space conditions. STPSat-4 specifically includes space weather sensors, solar panels, an antenna array and devices for tracking location of both satellites and their astronomic surroundings. This project demonstrates how a range of new technologies can be integrated on nanosatellite platforms.
+Systems:
+AMS-02 (Alpha Magnetic Spectrometer) EVA #4: Over the weekend, EV1 (Drew Morgan) and EV2 (Luca Parmitano) conducted a 6 hour 16 minute EVA to complete the final AMS repair EVA which consisted of the following tasks:
+
+Nadir Leak Check
+VSB Leak Check
+Open Accumulator Valve
+Multilayer Insulation (MLI) Tent Install
+Mudflap Install and Shower Cap Removal
+CP9 ETVCG Filter Removal (Get Ahead Task)
+CP8 ETVCG Filter Removal (Get Ahead Task)
+
+Additionally, both CP8 and CP9 camera views had a successful checkout.
+

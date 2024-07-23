@@ -1,0 +1,8 @@
+
+Radi-N2 Neutron Field Study (Radi-N2):  Wilmore retrieved eight bubble detectors from deployed locations in the US Lab and delivered them to the Russian crew who will process all detectors in the Bubble Reader. The objective of this investigation is to better characterize the ISS neutron environment and define the risk posed to the crewmembers’ health and provide the data necessary to develop advanced protective measures for future space flight.
+
+Electromagnetic Levitation (EML) Commissioning:  Wilmore continued with commissioning of the EML by changing the magnification mode of the high speed camera and opening EML gas valves.  The EML provides for containerless processing of liquid metals in a micro-gravity environment and precise measurement of their thermo-physical properties.   
+Japanese Experiment Module Remote Manipulator System (JEMRMS) Console Checkout:  Wilmore activated and checked out the JEMRMS Console with software parameters that will support JEMRMS operations with external cargo on the SpaceX-5 vehicle.
+Regenerative Environmental Control and Life Support System (ECLSS) Recycle Tank Remove and Replace (R&R):  Wilmore is changing out the Regenerative ECLSS recycle tank as part of routine operations today.
+Remote Power Controller (RPC) Trip:  Today, the RPC which provides power to the Lab Carbon Dioxide Removal Assembly (CDRA) air selector valves, tripped open.  The same RPC had tripped open last week and had since been reclosed.  Ground Teams are reviewing telemetry in order to determine the forward plan for troubleshooting.  Meanwhile, Carbon Dioxide (CO2) scrubbing is being performed by the Russian Segment Vozdukh System during this three crew stage.  Node 3 CDRA is also available if required.
+

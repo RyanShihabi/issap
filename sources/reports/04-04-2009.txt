@@ -1,0 +1,31 @@
+ISS On-Orbit Status 04/04/09
+ 
+ All ISS systems continue to function nominally, except those noted previously or below.   Day 8 of joint E18/19 operations for CDR Fincke, CDR-19 Padalka, FE-1 Lonchakov, FE-1-19 Barratt, FE-2 Wakata, and SFP Simonyi.   Saturday --- [Today starts “Yuri's Night 09' The World Party For Space”, a week-long global celebration of human space exploration with over 150 parties in 40 countries on 6 continents, culminating in the actual Yuri’s Night on April 12 with the 48th observance of the first human spaceflight, piloted by Russian Cosmonaut Yuri Gagarin, and the 28th anniversary of the first Space Shuttle flight (STS-1), crewed by John Young and Bob Crippen.  Let’s join in! Pojechali!] 
+ 
+ Yuri Lonchakov &amp; Mike Fincke spent an hour in the TMA-13 Descent Module (SA) supporting Part 2 of the ground-commanded Part 2 of the checkout of the SUD (Motion Control System), Mode 2/“Docked”.     [Included in the checkout were pressurization of the KDU Combined Propulsion System Section 2 and Tank 2, a test of the pilot’s RUO rotational hand controller, and a hot firing of the DPO braking thrusters.  KDU maneuver thrusters and DPO lateral thrusters were not fired.  For the test, the science windows in the US Lab and Kibo module were shuttered, and station attitude was handed over to Russian thruster control at 7:09am EDT, commanded to free drift at 7:24am, then back to LVLH XVV (Local Vertical Local Horizontal/x-axis in velocity vector) attitude.  The one-minute firing started on Daily Orbit 1 at ~7:30am. Attitude control was returned to the U.S. segment (USOS) at 7:50am.]
+ 
+ In the Kibo JPM (JEM Pressurized Module), FE-2 Wakata set up the G1 video camcorder with MPC (Multipurpose Converter) and IPU (Image Processing Unit) for high definition TV plus the NIKON D2Xs camera and JAXA E3 camera, then conducted the Commercial3 program.    [This involved shooting high-definition onboard scenes featuring his wristwatch and other objects for commercial use, then opening the JPM window shutters and taking photos of the earth with JEM E3 Camera for commercial use.  Later, the activity was closed down and the equipment stowed.] 
+ 
+ After Mike Fincke started METOX (Metal Oxide) regeneration on two METOX CO2 absorption canisters (#0016, #0022) from the 15A spacewalks yesterday in the US Airlock, Mike Barratt, with Col. Mike assisting, today terminated the “bakeout” process.
+ 
+ FE-1-19 Barratt also performed the weekly “T+2d” inflight microbiology analyses for the samples collected on 4/2 from the PWD Hot tap after the recent 17-hr iodine soak of its microbial filter.
+ 
+ Gennady Padalka conducted the periodic (currently daily) checkout &amp; performance verification of IP-1 airflow sensors in the various RS (Russian Segment) hatchways, including the passageways PrK (SM Transfer Compartment)–PrK–RO (SM Working Compartment), PkhO (SM Transfer Tunnel)–RO, PkhO–DC1, PkhO–FGB PGO, FGB PGO–FGB GA, FGB GA–Node-1.    [This checkup is especially important when the ventilation/circulation system has to cope with a larger crew on board, currently six persons, and one of the two Russian SKV air conditioners off (SKV-1) because it is beyond its service life.]
+ 
+ Yuri Lonchakov set up the high-definition SONY HVR-Z1J camcorder for recording his activit�s as he installed ESA’s BIO-4 experiment units PLC (POLCA) &amp; GVG (GRAVIGEN) in the KUBIK3 thermally controlled container.  Afterwards, the video setup was torn down again.
+ 
+ For the fourth time, Koichi Wakata continued preparing the MELFI (Minus Eighty Degree Laboratory Freezer for the ISS) for upcoming sample storage by inserting more Icepacs, i.e., retrieving two -32 degC Icepac belts and placing them into Dewar 2.
+ 
+ Mike Barratt performed the daily status check on the BCAT-4 (Binary Colloidal Alloy Test-4) science payload, running by itself since yesterday (4/3).    [The status check, conducted on the last image taken by the DCS 760 digital still camera which is controlled by EarthKAM software on an A31p laptop, is to verify proper image focus and camera alignment.  The SSC (Station Support Computer) is taking photography of the phase separation occurring in the BCAT Sample 3, with the photo flash going off every half hour.] 
+ 
+ The CDR-19 performed the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.    [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers and replacement of EDV-SV waste water and EDV-U urine containers.]
+ 
+ Padalka also completed the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+ Gennady downlinked the educational video “Life in the ISS” of himself and Mike Fincke which he had shot in his own time on 4/1.    [The footage is intended for a documentary being prepared by the TV company TVTs for the recent successful Russian contest for children to create the crew patch for Soyuz TMA-14.  The video should be downlinked not later than 4/5, and the documentary will be premiered on 4/11 by Roskosmos to promote Russia’s activities in space.] 
+ 
+ Fincke, Wakata, Lonchakov &amp; Barratt completed their regular daily 2.5-hr. physical workout program (about half of which is used for setup &amp; post-exercise personal hygiene) on the CEVIS cycle ergometer (CDR-19, FE-2), TVIS treadmill (CDR, FE-1/2.5h), and ARED resistive exercise device (CDR, FE-2, FE-1-19).
+ 
+ For SFP Charles Simonyi, scheduled VC-16 activities today included –
+ <ul><li>Holding the daily comm session via TLF (phone) with his advisory team at TsUP/Moscow,  <li>Conducting a ham radio session,  <li>Working with his email,  <li>Conducting his IP-Phone call to the ground, and  <li>Performing Earth photography plus copying the pictures to his HDD (Hard Disk Drive) for return. 
+ </li></li></li></li></li></ul>

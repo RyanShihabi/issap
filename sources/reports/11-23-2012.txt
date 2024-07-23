@@ -1,0 +1,53 @@
+ISS On-Orbit Status 11/23/12
+ 
+All ISS systems continue to function nominally, except those noted previously or below.
+ 
+After wakeup, FE-2 Tarelkin performed the routine inspection of the SM (Service Module) PSS Caution &amp; Warning panel as part of regular Daily Morning Inspection and also .  
+ 
+FE-2 also completed the daily reboot of the Russian RSS1 &amp; RSS2 laptops, and FE-1 Novitskiy rebooted the RS1 &amp; RS2 laptops
+ 
+Before breakfast and other Postsleep activities, FE-1 Novitskiy set up the Russian spectrometry experiment MBI-28 Xromatomass (Chromatomass) and conducted his 3<sup>rd</sup> session of collecting saliva and blood. MBI-28 was closed out afterwards.
+ 
+Evgeny Tarelkin undertook his first MBI-24 “SPRUT-2” (“Squid-2”) tests, part of Russian medical research on the distribution and behavior of human body fluids in zero gravity, preceded by PZEh-MO-8 BMM (body mass measurement) using the IM device. Oleg Novitskiy recorded photo/video documentation.     [Supported by the RSS-Med A31p laptop with new software (Vers. 1.6) in the SM, the test uses the Profilaktika kit, with data recorded on PCMCIA memory cards, along with Evgeny’s body mass values and earlier recorded MO-10 Hematocrit value, but skipping “fat fold” measurements.  Experiment requisites are the Sprut securing harness, skin electrodes (cuffs), and RSS-Med for control and data storage.  The “Pinguin” suit or Braslet-M cuffs, if worn, have to be taken off first.  Electrode measurements are recorded at complete rest and relaxed body position.  The actual recording takes 3-5 minutes, during which the patient has to remain at complete rest.]
+ 
+CDR Ford performed regular maintenance on the JAXA MOST AQH (Medaka Osteoclast [killifish] Aquatic Habitat) payload, testing the water in WCU (Water Circulation Unit) with test strips for ammonium, nitrate and nitrite concentrations.      [Kevin also supplied a reagent for controlling pH value and replaced the used waste filter with a fresh one. The AQH test strips were then returned to MELFI-3 (Minus Eighty Laboratory Freezer for ISS 3).]
+ 
+After temporary removal of items stowed at the D2 rack front in COL (Columbus Orbital Laboratory). Kevin worked on BLB (Biolab), investigating the inside of the HM (Handling Mechanism) to find and possibly eliminate the root cause of a blockage of HM movement along the x-axis which resulted during the last ground-commanded HM operations.      [The blockage prevents the movement of the HM which acts as the operational interfacing element between Experiment Containers, Analysis Instruments and/or Automated Temporary Controlled Stowage. Kevin’s investigation confirmed the HM Incubator Seal Interface Lever was protruding and blocking the x-axis translation. He then performed steps to clear the blockage and recover the BLB HM Gripper x-Axis.  ESA ground teams then performed ground testing, activation, checkout, and confirmed successful recovery of the rack. BLB is a multi-user research facility in COL, which is used to perform space biology experiments to allow scientists to gain a better understanding of the effects of microgravity and space radiation.]
+ 
+FE-1 Novitskiy took care of the routine daily servicing of the SOZh system (Environment Control &amp; Life Support System, ECLSS) in the SM.      [Regular daily SOZh maintenance consists, among else, of checking the ASU toilet facilities, replacement of the KTO &amp; KBO solid waste containers, replacement of EDV-SV waste water and EDV-U urine containers and filling EDV-SV, KOV (for Elektron), EDV-ZV &amp; EDV on RP flow regulator.]
+ 
+Oleg also completed the daily IMS (Inventory Management System) maintenance, updating/editing its standard “delta file” including stowage locations, for the regular weekly automated export/import to its three databases on the ground (Houston, Moscow, Baikonur).
+ 
+In the Kibo JPM (JEM Pressurized Module), the CDR closed down the MICB ELT 2 (Microbe-III Experiment Laptop Terminal 2) and stowed it, then activated the MDLT (Medical Laptop Terminal) for ground commanding.     [MDLT data content was downlinked via HRDL (High Rate Data Downlink) and LEHX (Layer 2 Ethernet Hub &amp; Multiplexer at 2 Mbps.]
+ 
+Evgeny started his first session of the standard 24-hour ECG (electrocardiogram) recording under the Russian MedOps PZE MO-2-2 protocol which monitors human cardiovascular performance in the space flight environment.      [After 24 hrs of ECG recording and blood pressure measurements with the Kardiomed (CDM) system, FE-2 will doff the five-electrode Holter harness that read his dynamic (in motion) heart function from two leads and recorded on the “Kardioregistrator 90205” unit.  The examination results will then be downloaded from the Holter ECG device to the RSE-Med laptop, controlled by the Kardiomed application.  Later, the data will be downlinked as a compressed .zip-file via OCA.]
+ 
+The CDR performed the weekly 10-min. CWC (Contingency Water Container) inventory as part of continuing WRM (Water Recovery &amp; Management) assessment of onboard water supplies.  Updated “cue cards” based on the crew’s water calldowns are sent up every other week for recording changes, but this time the report was “no change” to the current card.     [The current new card (33-0028) lists 21 CWCs (186.45 L total), including 4 empty bag, for the five types of water identified on board: 1. Silver technical water (1 CWC with 25 L, plus 2 empty bags);  2. Condensate water (3 CWCs with 9.8 L; plus 1 empty bag);  3. Iodinated water (12 CWCs with 149.15 L); 4. Waste water (1 empty CWC), and 5. Special Fluid (OGS) (1 CWC with 2.5 L). Other CWCs are stowed behind racks and are currently not being tracked due to unchanging contents.  Wautersia bacteria are typical water-borne microorganisms that have been seen previously in ISS water sources.  These isolates pose no threat to human health.]. Other CWCs are stowed behind racks and are currently not being tracked due to unchanging contents.  Wautersia bacteria are typical water-borne microorganisms that have been seen previously in ISS water sources.  These isolates pose no threat to human health.]
+ 
+Kevin also completed his weekly task of filling out his SHD (Space Headache) questionnaire which he started after Soyuz launch on a daily basis and continues on ISS on an SSC/Station Support Computer for every week after his first week in space.
+ 
+Oleg started the standard windows inspection and photography in the RS (Segment), today in the SM on windows #07 &amp; #05, and in the DC1 Docking Compartment on windows VL1 &amp; VL2.     [Objective of the inspection, which uses a digital still camera (Nikon D2X w/SB-28DX flash) and voice recorder, is to assess the pane surfaces on RS for any changes (new cavities, scratches, new or expanded old stains or discolorations affecting transparency properties) since the last inspection.  The new assessment will be compared to the earlier observations.  Defects are measured with the parallax method which uses eyeball-sighting with a ruler and a right isosceles triangle to determine the defects' size and position with respect to the window's internal surface (parallax being the apparent change in an object's position resulting from changing the observer's position).]
+ 
+Evgeny continued the current round of the periodic preventive maintenance of RS (Russian Segment) ventilation systems, today working in the SM for about 2.5 hrs for cleaning its numerous Group A ventilator fans &amp; grilles.
+ 
+With the video camcorder set up to record his activities, Kevin reloaded the SD memory card of the T2/COLBERT advanced treadmill and then took the exercise machine on an ACO (Activation &amp; Checkout) session. Later, Ford shut down the T2 system to push the data for downlink and reconfigure SSC18 (Station Support Computer 18) for nominal T2 operations
+ 
+Working in the SM, Tarelkin performed periodic maintenance on the SBMP harmful impurities filtration system, removing &amp; replacing the PKF-M1 catalytic thermal cartridges in the SBMP with new spares.      [For the IFM, the BITS2-12 onboard telemetry measurement system and VD-SU control mode were temporarily deactivated.] 
+ 
+At ~2:40am EST, Novitskiy, Tarelkin &amp; Ford held the regular (nominally weekly) tagup with the Russian Main Flight Control Team (GOGU/Glavnaya operativnaya gruppa upravleniya), including Shift Flight Director (SRP), at TsUP-Moscow via S-band/audio, phone-patched from Houston and Moscow.
+ 
+At ~7:45am, Evgeny &amp; Oleg linked up with TsUP-Moscow stowage specialists via S-band to conduct the weekly IMS tagup, discussing inventory &amp; stowage issues, equipment locations and cargo transfers.
+ 
+At ~10:25am, Kevin Ford conducted the regular IMS stowage conference with Houston stowage specialists.
+ 
+At ~2:10pm, the crew were scheduled for their regular weekly tagup with the Lead Flight Director at JSC/MCC-Houston.
+ 
+Before Presleep (~2:30pm EST), Ford powers up the MPC and starts the Ku-band data flow of video recorded during the day to the ground, with POIC (Payload Operations &amp; Integration Center) routing the onboard HRDL (High-Rate Data Link).  After about an hour, Kevin turns MPC routing off again.        [This is a routine operation which regularly transmits HD onboard video (live or tape playback) to the ground on a daily basis before sleeptime.]
+ 
+The crew worked out on the TVIS treadmill with vibration isolation &amp; stabilization (CDR, FE-1, FE-2), ARED advanced resistive exercise device (CDR, FE-1), and VELO ergometer bike with load trainer (FE-2).
+ 
+Tasks listed for Oleg &amp; Evgeny on the Russian discretionary “time permitting” job for today were –
+<ul style="margin-top:0in" type="disc"><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">More preparation &amp; downlinking of reportages (written text, photos, videos) for the Roskosmos website to promote Russia’s manned space program (max. file size 500 Mb),</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">A ~30-min. run of the GFI-8 "Uragan" (hurricane) earth-imaging program with the NIKON D3X digital camera with Sigma AF 300-800mm telelens and PI emission platform using the SKPF-U  to record target sites on the Earth surface, and</li><li class="MsoNormal" style="color:black;mso-list:l0 level1 lfo1">A ~30-min. session for Russia's EKON Environmental Safety Agency, making observations and taking KPT-3 aerial photography of environmental conditions on Earth using the NIKON D3X camera with the RSK-1 laptop.</li></ul> 
+No CEO (Crew Earth Observation) targets uplinked for today.
+ 
+
