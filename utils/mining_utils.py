@@ -513,6 +513,7 @@ def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
 def generate_custom_facility(custom_file: str):
 	categories = np.unique([category for category in pd.read_csv(custom_file)["ISSAP type"]])
 	facility_category = {}
+	custom_facilities = {}
 	
 	with open(custom_file, 'r') as f:
 		reader = csv.reader(f)
@@ -520,9 +521,13 @@ def generate_custom_facility(custom_file: str):
 
 		for row in reader:
 			facility_category[row[0]] = row[1]
+			if row[1] not in custom_facilities.keys():
+				custom_facilities[row[1]] = [row[0]]
+			else:
+				custom_facilities[row[1]].append(row[0])
 	f.close()
 
-	return categories, facility_category
+	return categories, facility_category, custom_facilities
 
 # Loads facility data from NASA's facility spreadsheet
 def generate_facility_names(facility_report_file: str):

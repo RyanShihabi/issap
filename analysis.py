@@ -1,6 +1,7 @@
 from utils.analysis_utils import (calc_facility_proportions,
                             calc_facility_freq_year,
                             calc_total_category_mentions,
+                            calc_custom_category_mentions,
                             calc_report_date_frequency,
                             calc_pair_distances,
                             calc_unique_pairs
@@ -24,6 +25,8 @@ def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_withou
     # calc_facility_proportions(facility_mentions_df)
     # calc_facility_freq_year(facility_mentions_df)
     calc_total_category_mentions(facility_data["category_facilities"], facility_mentions_df)
+    print(facility_data["custom_facilities"])
+    calc_custom_category_mentions(facility_data["custom_facilities"], facility_mentions_df)
     # calc_report_date_frequency(facility_mentions_df)
     # calc_pair_distances(apriori_df, facility_data, save=True)
     # calc_unique_pairs(facility_data)

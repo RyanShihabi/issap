@@ -201,6 +201,42 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
 
     return df_category_mentions
 
+def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame):
+    category_mentions = {"Frequency": {}}
+
+    for category in facility_custom:
+        if category is not None or category != "":
+            df_category = df_range[facility_custom[category]]
+
+            category_mentions["Frequency"][category] = df_category.sum().sum()
+
+    # Convert to dataframe
+    df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Frequency", ascending=False)
+
+    stats = df_category_mentions.describe().loc[["min", "mean", "std", "max"], ["Frequency"]].T
+
+    stats.to_csv(f"./analysis/csv/custom_category_stats.csv")
+    
+    total = df_category_mentions.sum()["Frequency"]
+
+    df_category_mention_prop = df_category_mentions / total
+
+    export_data(df_category_mentions, "./analysis/csv/Total_Custom_Category_Mentions.csv")
+    export_data(df_category_mention_prop, "./analysis/csv/Total_Custom_Category_Mentions_Prop.csv")
+    
+    plt.figure(figsize=(25, 5))
+    print(df_category_mentions.values.shape)
+    plt.bar(df_category_mentions.index[:-1], df_category_mentions.values.flatten()[:-1])
+    plt.title("Total Custom Category Mentions")
+    plt.xlabel("Category")
+    plt.ylabel("Frequency")
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig("./analysis/plots/Custom_Category_Mentions.png")
+    plt.close()
+
+    return df_category_mentions
+
 # Which reports fall on what day of the week
 def calc_report_date_frequency(df_range: pd.DataFrame):
     report_day_count = {"Report Count": {}}

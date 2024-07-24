@@ -75,7 +75,6 @@ FRIDGE,Refrigeration
 FROST,Refrigeration
 Fruit Fly Lab,Biology
 FSL,Fluids
-Galley Refrigerator-Freezer,Refrigeration
 GASMAP,Crew health
 GAP-FPA,Biology
 GCF,Biology
@@ -111,9 +110,9 @@ LSG,Glovebox
 LMM,Microscope
 LSR,Life support
 MAMS,Physics
-Manufacturing Device,3D printing
+AMF,3D printing
 MARES,Crew health
-Mass Measurement Device,Crew health
+MMD,Crew health
 MDS,Biology
 MELFI,Refrigeration
 MERLIN,Refrigeration
