@@ -72,7 +72,9 @@ def apriori_from_list(mention_list: list, facility_data: dict, file_name: str, p
     return itemsets_df
 
 def association_from_apriori(apriori_df: pd.DataFrame, file_name: str = None, save: bool = False):
-    rules = association_rules(apriori_df, metric="support", min_threshold=1e-4).sort_values(by="confidence", ascending=False)
+    rules = association_rules(apriori_df, metric="confidence", min_threshold=1e-4).sort_values(by="confidence", ascending=False)
+
+    rules = rules[rules["confidence"] < 1]
 
     if save:
         export_data(rules, f"./analysis/csv/association_rules{file_name}.csv")
