@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 from matplotlib.ticker import MaxNLocator
 from datetime import date
 from utils.mining_utils import generate_paragraph_apriori, export_data
@@ -202,12 +203,66 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
 
     return df_category_mentions
 
-def calc_yearly_category_mentions(facility_category: dict, df_range: pd.DataFrame):
+def calc_yearly_category_mentions(category_facilities: dict, df_range: pd.DataFrame):
     df_year = df_range.resample("YE", on="Report Date").sum()
-    print(df_year)
 
-    for category in set(facility_category.values()):
-        print(category)
+    fig, axes = plt.subplots(2, 4, figsize=(30, 20))
+    plt.suptitle("Yearly Category Mentions")
+    plt.subplots_adjust(top=0.9)
+
+    row = 0
+    col = 0
+
+    for category in category_facilities:
+        category_year_df = df_year.loc[:, category_facilities[category]]
+        category_sum = category_year_df.sum(axis=1)
+
+        sns.barplot(ax=axes[row, col], x=np.arange(2009, 2025, 1), y=category_sum.values, color='steelblue')
+        axes[row, col].set_title(category)
+        axes[row, col].set(ylabel="Frequency")
+        axes[row, col].tick_params(axis='x', rotation=90)
+        axes[row, col].set_yticks(np.arange(0, 2200, 200))
+
+        if col == 3:
+            row = 1
+            col = 0
+        else:
+            col += 1
+
+    plt.savefig("./analysis/plots/Yearly_Facility_Category_Mentions.png")
+    plt.close()
+
+    # Without Exercise
+    category_facilities["Human Research"].remove("ARED")
+    category_facilities["Human Research"].remove("CEVIS")
+    category_facilities["Human Research"].remove("TVIS")
+    category_facilities["Human Research"].remove("COLBERT")
+
+    fig, axes = plt.subplots(2, 4, figsize=(30, 20))
+    plt.suptitle("Yearly Category Mentions")
+    plt.subplots_adjust(top=0.9)
+
+    row = 0
+    col = 0
+
+    for category in category_facilities:
+        category_year_df = df_year.loc[:, category_facilities[category]]
+        category_sum = category_year_df.sum(axis=1)
+
+        sns.barplot(ax=axes[row, col], x=np.arange(2009, 2025, 1), y=category_sum.values, color='steelblue')
+        axes[row, col].set_title(category)
+        axes[row, col].set(ylabel="Frequency")
+        axes[row, col].tick_params(axis='x', rotation=90)
+        axes[row, col].set_yticks(np.arange(0, 1200, 200))
+
+        if col == 3:
+            row = 1
+            col = 0
+        else:
+            col += 1
+
+    plt.savefig("./analysis/plots/Yearly_Facility_Category_Mentions_Without_Exercise.png")
+    plt.close()
 
 def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame):
     category_mentions = {"Frequency": {}}
