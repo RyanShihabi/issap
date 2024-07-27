@@ -167,13 +167,10 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
     # Without exercise
     category_mentions = {"Frequency": {}}
 
-    facility_category["Human Research"].remove("ARED")
-    facility_category["Human Research"].remove("CEVIS")
-    facility_category["Human Research"].remove("TVIS")
-    facility_category["Human Research"].remove("COLBERT")
+    exercise = ["ARED", "CEVIS", "TVIS", "COLBERT"]
 
     for category in facility_category:
-        df_category = df_range[facility_category[category]]
+        df_category = df_range[[col for col in facility_category[category] if col not in exercise]]
 
         category_mentions["Frequency"][category] = df_category.sum().sum()
 
@@ -233,10 +230,7 @@ def calc_yearly_category_mentions(category_facilities: dict, df_range: pd.DataFr
     plt.close()
 
     # Without Exercise
-    category_facilities["Human Research"].remove("ARED")
-    category_facilities["Human Research"].remove("CEVIS")
-    category_facilities["Human Research"].remove("TVIS")
-    category_facilities["Human Research"].remove("COLBERT")
+    exercise = ["ARED", "CEVIS", "TVIS", "COLBERT"]
 
     fig, axes = plt.subplots(2, 4, figsize=(30, 20))
     plt.suptitle("Yearly Category Mentions")
@@ -246,7 +240,7 @@ def calc_yearly_category_mentions(category_facilities: dict, df_range: pd.DataFr
     col = 0
 
     for category in category_facilities:
-        category_year_df = df_year.loc[:, category_facilities[category]]
+        category_year_df = df_year.loc[:, [col for col in category_facilities[category] if col not in exercise]]
         category_sum = category_year_df.sum(axis=1)
 
         sns.barplot(ax=axes[row, col], x=np.arange(2009, 2025, 1), y=category_sum.values, color='steelblue')
@@ -264,7 +258,7 @@ def calc_yearly_category_mentions(category_facilities: dict, df_range: pd.DataFr
     plt.savefig("./analysis/plots/Yearly_Facility_Category_Mentions_Without_Exercise.png")
     plt.close()
 
-def calc_category_usage_by_agency(facility_data: dict, df_range: pd.DataFrame):
+def calc_category_usage_by_agency(facility_data: dict):
     fig, axes = plt.subplots(1, 4, figsize=(25, 10))
     plt.suptitle("Yearly Category Mentions")
 
@@ -294,7 +288,7 @@ def calc_category_usage_by_agency(facility_data: dict, df_range: pd.DataFrame):
     plt.savefig("./analysis/plots/Agency_Category_Usage_By_Facility.png")
     plt.close()
 
-def calc_agency_usage_by_category(facility_data: dict, df_range: pd.DataFrame):
+def calc_agency_usage_by_category(facility_data: dict):
     fig, axes = plt.subplots(2, 4, figsize=(25, 10))
     plt.suptitle("Yearly Category Mentions")
 
