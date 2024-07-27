@@ -264,6 +264,71 @@ def calc_yearly_category_mentions(category_facilities: dict, df_range: pd.DataFr
     plt.savefig("./analysis/plots/Yearly_Facility_Category_Mentions_Without_Exercise.png")
     plt.close()
 
+def calc_category_usage_by_agency(facility_data: dict, df_range: pd.DataFrame):
+    fig, axes = plt.subplots(1, 4, figsize=(25, 10))
+    plt.suptitle("Yearly Category Mentions")
+
+    row = 0
+    col = 0
+
+    axes[col].set(ylabel="Count")
+
+    for agency in facility_data["agency_facilities"]:
+        agency_category_count = {}
+        for category in facility_data["category_facilities"]:
+            agency_facilities = set(facility_data["agency_facilities"][agency])
+            category_facilities = set(facility_data["category_facilities"][category])
+
+            agency_category = len(agency_facilities.intersection(category_facilities))
+
+            agency_category_count[category] = agency_category
+
+            sns.barplot(ax=axes[col], x=agency_category_count.keys(), y=agency_category_count.values(), color='steelblue')
+            axes[col].set_title(agency)
+            axes[col].tick_params(axis='x', rotation=90)
+            axes[col].set_yticks(np.arange(0, 60, 10))
+
+        col += 1
+
+    plt.tight_layout()
+    plt.savefig("./analysis/plots/Agency_Category_Usage_By_Facility.png")
+    plt.close()
+
+def calc_agency_usage_by_category(facility_data: dict, df_range: pd.DataFrame):
+    fig, axes = plt.subplots(2, 4, figsize=(25, 10))
+    plt.suptitle("Yearly Category Mentions")
+
+    row = 0
+    col = 0
+
+    axes[0, 0].set(ylabel="Count")
+    axes[1, 0].set(ylabel="Count")
+
+    for category in facility_data["category_facilities"]:
+        category_agency_count = {}
+        for agency in facility_data["agency_facilities"]:
+            category_facilities = set(facility_data["category_facilities"][category])
+            agency_facilities = set(facility_data["agency_facilities"][agency])
+
+            category_agency = len(category_facilities.intersection(agency_facilities))
+
+            category_agency_count[agency] = category_agency
+
+            sns.barplot(ax=axes[row, col], x=category_agency_count.keys(), y=category_agency_count.values(), color='steelblue')
+            axes[row, col].set_title(category)
+            axes[row, col].tick_params(axis='x', rotation=90)
+            axes[row, col].set_yticks(np.arange(0, 60, 10))
+
+        if col == 3:
+            row = 1
+            col = 0
+        else:
+            col += 1
+
+    plt.tight_layout()
+    plt.savefig("./analysis/plots/Category_Agency_Usage_By_Facility.png")
+    plt.close()
+
 def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame):
     category_mentions = {"Frequency": {}}
 

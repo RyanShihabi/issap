@@ -6,7 +6,9 @@ from utils.analysis_utils import (calc_facility_proportions,
                             calc_pair_distances,
                             calc_unique_pairs,
                             aggregate_report_month,
-                            calc_yearly_category_mentions
+                            calc_yearly_category_mentions,
+                            calc_category_usage_by_agency,
+                            calc_agency_usage_by_category
                         )
 import os
 
@@ -30,6 +32,8 @@ def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_withou
     # calc_custom_category_mentions(facility_data["custom_facilities"], facility_mentions_df)
     # calc_report_date_frequency(facility_mentions_df)
     # aggregate_report_month()
-    calc_yearly_category_mentions(facility_data["category_facilities"], facility_mentions_df)
+    # calc_yearly_category_mentions(facility_data["category_facilities"], facility_mentions_df)
+    # calc_category_usage_by_agency(facility_data, facility_mentions_df)
+    calc_agency_usage_by_category(facility_data, facility_mentions_df)
     # calc_pair_distances(apriori_df, facility_data, save=True)
     # calc_unique_pairs(facility_data)
