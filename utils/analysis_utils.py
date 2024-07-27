@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 from datetime import date
@@ -201,6 +202,13 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
 
     return df_category_mentions
 
+def calc_yearly_category_mentions(facility_category: dict, df_range: pd.DataFrame):
+    df_year = df_range.resample("YE", on="Report Date").sum()
+    print(df_year)
+
+    for category in set(facility_category.values()):
+        print(category)
+
 def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame):
     category_mentions = {"Frequency": {}}
 
@@ -314,6 +322,34 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     plt.close()
 
     return report_day_df
+
+def aggregate_report_month():
+    dates = [file for file in os.listdir("./sources/reports") if ".DS" not in file]
+
+    written_months = {i: 0 for i in range(1, 13)}
+
+    for date in dates:
+        month = date[:2]
+
+        if month[0] == "0":
+            month = month[1]
+
+        written_months[int(month)] += 1
+
+    print(written_months)
+
+    export_data(written_months, "./analysis/csv/written_months.json")
+
+    plt.figure(figsize=(10, 5))
+    plt.title("Monthly Report Frequency")
+    plt.ylabel("Frequency")
+    plt.xlabel("Month")
+    plt.plot(written_months.keys(), written_months.values())
+    ax = plt.gca()
+    ax.set_yticks(np.arange(0, 450, 50))
+    plt.xticks(range(1, 13))
+    plt.savefig("./analysis/plots/report_month_frequency.png")
+    plt.close()
 
 def calc_pair_distances(df_pairs: pd.DataFrame, facility_data: dict, save=False):
     facility_distance = {

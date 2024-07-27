@@ -30,16 +30,16 @@ def run_mining():
     return facility_data, facility_mentions, mentions_df
 
 def grab_newest_links():
+    reports = [file for file in os.listdir("./sources/reports")]
     links = grab_new_links()
 
     for link in tqdm(links):
         data = get_new_report(link)
 
-        date = data["date"].split("-")
+        # date = data["date"].split("-")
 
-        if date[2] == "2024" and date[0] == "07":
-            with open(f"./july_2024/{data['date']}.txt", "w") as f:
+        if f"{data['date']}.txt" not in reports:
+            print(data["date"])
+            with open(f"./missing/{data['date']}.txt", "w") as f:
                 f.write(data["text"])
             f.close()
-        else:
-            continue
