@@ -67,7 +67,8 @@ def calc_facility_proportions(df: pd.DataFrame):
 def calc_facility_freq_year(df: pd.DataFrame):
     df_year = df.resample("YE", on="Report Date").sum()
 
-    stats = df_year.describe().loc[["min", "mean", "std", "max"], :]
+    stats = df_year.T.describe().loc[["min", "mean", "std", "max"], :]
+    stats = stats.rename(columns={col: str(col).split("-")[0] for col in stats.columns})
     stats.to_csv(f"./analysis/csv/yearly_facility_stats.csv")
 
     if os.path.exists("./analysis/plots/Facility_Year_Frequency") == False:
@@ -79,7 +80,6 @@ def calc_facility_freq_year(df: pd.DataFrame):
         ax = plt.gca()
         ax.yaxis.set_major_locator(MaxNLocator(integer=True))
         plt.bar(x=[str(date).split("-")[0] for date in df_year.index], height=df_facility.values)
-        plt.yticks
         plt.xlabel("Year")
         plt.ylabel("Frequency")
         plt.title(f"{facility} Yearly Mentions")
