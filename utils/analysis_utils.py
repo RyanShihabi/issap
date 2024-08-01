@@ -323,6 +323,100 @@ def calc_agency_usage_by_category(facility_data: dict):
     plt.savefig("./analysis/plots/Category_Agency_Usage_By_Facility.png")
     plt.close()
 
+def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
+    df_year = df_range.resample("YE", on="Report Date").sum()
+
+    df_year = df_year.rename(index={row: str(row).split("-")[0] for row in df_year.index})
+
+    if os.path.exists("./analysis/plots/category_year") == False:
+        os.makedirs("./analysis/plots/category_year")
+        os.makedirs("./analysis/csv/category_year")
+    
+    for category in category_facilities:
+        category_year_df = df_year.loc[:, category_facilities[category]].T.sum().T
+
+        category_year_df.name = "Frequency"
+        category_year_df.to_csv(f"./analysis/csv/category_year/{category}_Yearly.csv", index_label="Year")
+        
+        stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+        stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
+        
+        plt.figure(figsize=(20, 5))
+        plt.plot(category_year_df.index, category_year_df.values)
+        plt.title(f"{category} Yearly Mentions")
+        plt.xlabel("Year")
+        plt.ylabel("Frequency")
+        plt.tight_layout()
+        plt.savefig(f"./analysis/plots/category_year/{category}.png")
+        plt.close()
+
+    # Without Exercise
+    category_year_df = df_year.loc[:, [col for col in category_facilities["Human Research"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]].T.sum().T
+
+    category_year_df.name = "Frequency"
+
+    category_year_df.to_csv(f"./analysis/csv/category_year/Human_Research_Without_Exercise_Yearly.csv", index_label="Year")
+    
+    stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+    stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
+    
+    plt.figure(figsize=(20, 5))
+    plt.plot(category_year_df.index, category_year_df.values)
+    plt.title(f"Human Research Yearly Mentions Without Exercise")
+    plt.xlabel("Year")
+    plt.ylabel("Frequency")
+    plt.tight_layout()
+    plt.savefig(f"./analysis/plots/category_year/Human_Research_Without_Exercise.png")
+    plt.close()
+
+def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFrame):
+    df_year = df_range.resample("YE", on="Report Date").sum()
+
+    df_year = df_year.rename(index={row: str(row).split("-")[0] for row in df_year.index})
+
+    if os.path.exists("./analysis/plots/custom_category_year") == False:
+        os.makedirs("./analysis/plots/custom_category_year")
+        os.makedirs("./analysis/csv/custom_category_year")
+    
+    for category in custom_facilities:
+        category_year_df = df_year.loc[:, custom_facilities[category]].T.sum().T
+
+        category_year_df.name = "Frequency"
+
+        category_year_df.to_csv(f"./analysis/csv/custom_category_year/{category}_Yearly.csv", index_label="Year")
+
+        stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+        stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
+        
+        plt.figure(figsize=(20, 5))
+        plt.plot(category_year_df.index, category_year_df.values)
+        plt.title(f"{category} Yearly Mentions")
+        plt.xlabel("Year")
+        plt.ylabel("Frequency")
+        plt.tight_layout()
+        plt.savefig(f"./analysis/plots/custom_category_year/{category}.png")
+        plt.close()
+
+    # Without Exercise
+    category_year_df = df_year.loc[:, [col for col in custom_facilities["Crew health"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]].T.sum().T
+
+    category_year_df.name = "Frequency"
+    
+    category_year_df.to_csv(f"./analysis/csv/custom_category_year/Crew_Health_Without_Exercise_Yearly.csv", index_label="Year")
+
+    stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+    stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
+    
+    plt.figure(figsize=(20, 5))
+    plt.plot(category_year_df.index, category_year_df.values)
+    plt.title(f"Crew Health Yearly Mentions Wihout Exercise")
+    plt.xlabel("Year")
+    plt.ylabel("Frequency")
+    plt.tight_layout()
+    plt.savefig(f"./analysis/plots/custom_category_year/Crew_Health_Without_Exercise.png")
+    plt.close()
+
+
 def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame):
     category_mentions = {"Frequency": {}}
 
@@ -452,7 +546,7 @@ def aggregate_report_month():
 
     print(written_months)
 
-    export_data(written_months, "./analysis/csv/written_months.json")
+    export_data(written_months, "./analysis/json/written_months.json")
 
     plt.figure(figsize=(10, 5))
     plt.title("Monthly Report Frequency")

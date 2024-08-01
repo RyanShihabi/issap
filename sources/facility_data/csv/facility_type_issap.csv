@@ -69,7 +69,7 @@ EXHAM,External payloads
 EXPRESS Rack,General science
 Faraday Research,General science
 FIR,Fluids
-FPC,
+FPC,Fluids
 FPEF,Fluids
 FRIDGE,Refrigeration
 FROST,Refrigeration
@@ -170,7 +170,7 @@ SlingShot,Satellite deployer
 SoFIE,Combustion
 Solar,Astronomy
 SUBSA,Physics
-SPACE DREAMS,
+SPACE DREAMS,Crew health
 Spectrum,Biology
 SPHERES,Robotics
 SPySE,General science
