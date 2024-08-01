@@ -53,15 +53,6 @@ def calc_facility_proportions(df: pd.DataFrame):
 
     export_data(df_facility_prop, "./analysis/csv/facility_mention_total_proportion.csv")
 
-    # for page, i in enumerate(range(0, df_facility_prop.shape[0]-10, 10)):
-    #     plt.figure(figsize=(15, 5))
-    #     plt.bar(df_facility_prop.index[i:i+10], df_facility_prop.values[i:i+10])
-    #     plt.xlabel("Facility")
-    #     plt.ylabel("Frequency")
-    #     plt.title("Facility Mention Total Proportion")
-    #     plt.savefig(f"./analysis/plots/facility_mention_total_proportion_{page}.png")
-    #     plt.close()
-
     return df_days_used
 
 def calc_facility_freq_year(df: pd.DataFrame):
@@ -73,9 +64,11 @@ def calc_facility_freq_year(df: pd.DataFrame):
     df_year_without_exercise = df_year.loc[:, [col for col in df_year.columns if col not in exercise]]
 
     most_yearly_mentioned = df_year.idxmax(axis=1)
+    most_yearly_mentioned.name = "Facility"
     most_yearly_mentioned.to_csv("./analysis/csv/Most_Mentioned_Yearly.csv")
 
     most_yearly_mentioned_without_exercise = df_year_without_exercise.idxmax(axis=1)
+    most_yearly_mentioned_without_exercise.name = "Facility"
     most_yearly_mentioned_without_exercise.to_csv("./analysis/csv/Most_Mentioned_Yearly_Without_Exercise.csv")
 
     stats = df_year.T.describe().loc[["min", "mean", "std", "max"], :]
@@ -335,25 +328,31 @@ def calc_agency_usage_by_category(facility_data: dict):
 
 def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
     df_year = df_range.resample("YE", on="Report Date").sum()
-
     df_year = df_year.rename(index={row: str(row).split("-")[0] for row in df_year.index})
 
     if os.path.exists("./analysis/plots/category_year") == False:
         os.makedirs("./analysis/plots/category_year")
         os.makedirs("./analysis/csv/category_year")
+        os.makedirs("./analysis/csv/category_year/Most_Mentioned")
         os.makedirs("./analysis/csv/category_year/stats")
     
     for category in category_facilities:
-        category_year_df = df_year.loc[:, category_facilities[category]].T.sum().T
+        category_year_df = df_year.loc[:, category_facilities[category]]
 
-        category_year_df.name = "Frequency"
-        category_year_df.to_csv(f"./analysis/csv/category_year/{category}_Yearly.csv", index_label="Year")
+        category_year_sum_df = category_year_df.T.sum().T
+
+        category_most_mentioned = category_year_df.idxmax(axis=1)
+        category_most_mentioned.name = "Facility"
+        category_most_mentioned.to_csv(f"./analysis/csv/category_year/Most_Mentioned/{category}_Most_Mentioned_Yearly.csv")
+
+        category_year_sum_df.name = "Frequency"
+        category_year_sum_df.to_csv(f"./analysis/csv/category_year/{category}_Yearly.csv", index_label="Year")
         
-        stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+        stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
         stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
         
         plt.figure(figsize=(20, 5))
-        plt.plot(category_year_df.index, category_year_df.values)
+        plt.plot(category_year_sum_df.index, category_year_sum_df.values)
         plt.title(f"{category} Yearly Mentions")
         plt.xlabel("Year")
         plt.ylabel("Frequency")
@@ -362,17 +361,22 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
         plt.close()
 
     # Without Exercise
-    category_year_df = df_year.loc[:, [col for col in category_facilities["Human Research"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]].T.sum().T
+    category_year_df = df_year.loc[:, [col for col in category_facilities["Human Research"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]]
 
-    category_year_df.name = "Frequency"
+    category_year_sum_df = category_year_df.T.sum().T
 
-    category_year_df.to_csv(f"./analysis/csv/category_year/Human_Research_Without_Exercise_Yearly.csv", index_label="Year")
+    category_most_mentioned = category_year_df.idxmax(axis=1)
+    category_most_mentioned.name = "Facility"
+    category_most_mentioned.to_csv(f"./analysis/csv/category_year/Most_Mentioned/Human_Research_Most_Mentioned_Yearly_Without_Exercise.csv")
     
-    stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+    category_year_sum_df.name = "Frequency"
+    category_year_sum_df.to_csv(f"./analysis/csv/category_year/Human_Research_Without_Exercise_Yearly.csv", index_label="Year")
+    
+    stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
     stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
     
     plt.figure(figsize=(20, 5))
-    plt.plot(category_year_df.index, category_year_df.values)
+    plt.plot(category_year_sum_df.index, category_year_sum_df.values)
     plt.title(f"Human Research Yearly Mentions Without Exercise")
     plt.xlabel("Year")
     plt.ylabel("Frequency")
@@ -388,20 +392,26 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
     if os.path.exists("./analysis/plots/custom_category_year") == False:
         os.makedirs("./analysis/plots/custom_category_year")
         os.makedirs("./analysis/csv/custom_category_year")
+        os.makedirs("./analysis/csv/custom_category_year/Most_Mentioned")
         os.makedirs("./analysis/csv/custom_category_year/stats")
     
     for category in custom_facilities:
-        category_year_df = df_year.loc[:, custom_facilities[category]].T.sum().T
+        category_year_df = df_year.loc[:, custom_facilities[category]]
 
-        category_year_df.name = "Frequency"
+        category_year_sum_df = category_year_df.T.sum().T
 
-        category_year_df.to_csv(f"./analysis/csv/custom_category_year/{category}_Yearly.csv", index_label="Year")
+        category_most_mentioned = category_year_df.idxmax(axis=1)
+        category_most_mentioned.name = "Facility"
+        category_most_mentioned.to_csv(f"./analysis/csv/custom_category_year/Most_Mentioned/{category}_Most_Mentioned_Yearly.csv")
 
-        stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+        category_year_sum_df.name = "Frequency"
+        category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/{category}_Yearly.csv", index_label="Year")
+
+        stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
         stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
         
         plt.figure(figsize=(20, 5))
-        plt.plot(category_year_df.index, category_year_df.values)
+        plt.plot(category_year_sum_df.index, category_year_sum_df.values)
         plt.title(f"{category} Yearly Mentions")
         plt.xlabel("Year")
         plt.ylabel("Frequency")
@@ -410,17 +420,21 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
         plt.close()
 
     # Without Exercise
-    category_year_df = df_year.loc[:, [col for col in custom_facilities["Crew health"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]].T.sum().T
+    category_year_df = df_year.loc[:, [col for col in custom_facilities["Crew health"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]]
+    category_year_sum_df = category_year_df.T.sum().T
 
-    category_year_df.name = "Frequency"
-    
-    category_year_df.to_csv(f"./analysis/csv/custom_category_year/Crew_Health_Without_Exercise_Yearly.csv", index_label="Year")
+    category_most_mentioned = category_year_df.idxmax(axis=1)
+    category_most_mentioned.name = "Facility"
+    category_most_mentioned.to_csv(f"./analysis/csv/custom_category_year/Most_Mentioned/Crew_Health_Most_Mentioned_Yearly_Without_Exercise.csv")
 
-    stats_df = category_year_df.describe()[["min", "mean", "std", "max"]]
+    category_year_sum_df.name = "Frequency"
+    category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/Crew_Health_Without_Exercise_Yearly.csv", index_label="Year")
+
+    stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
     stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
     
     plt.figure(figsize=(20, 5))
-    plt.plot(category_year_df.index, category_year_df.values)
+    plt.plot(category_year_sum_df.index, category_year_sum_df.values)
     plt.title(f"Crew Health Yearly Mentions Wihout Exercise")
     plt.xlabel("Year")
     plt.ylabel("Frequency")
@@ -442,7 +456,6 @@ def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame)
     df_category_mentions = pd.DataFrame.from_dict(category_mentions).sort_values(by="Frequency", ascending=False)
 
     stats = df_category_mentions.describe().loc[["min", "mean", "std", "max"], ["Frequency"]].T
-
     stats.to_csv(f"./analysis/csv/custom_category_stats.csv")
     
     total = df_category_mentions.sum()["Frequency"]
