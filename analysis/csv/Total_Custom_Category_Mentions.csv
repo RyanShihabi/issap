@@ -1,19 +1,19 @@
 ,Frequency
-Crew health,8466
-Refrigeration,1570
-Glovebox,1235
+Crew health,8467
+Refrigeration,1571
+Glovebox,1236
 General science,1092
 Biology,1032
 Centrifuge,1022
 Furnace,885
-Plant,537
-Fluids,523
+Plant,538
+Fluids,526
 Robotics,335
 Microscope,307
-External payloads,302
+External payloads,303
 Astronomy,284
 Incubator,247
-Earth observation,219
+Earth observation,220
 Maintenance,214
 Satellite deployer,191
 Physics,172
@@ -28,7 +28,6 @@ Communication,44
 Environmental,21
 Human research,14
 Vibration isolation,9
-,3
 Heating,0
 Camera,0
 Chemistry,0

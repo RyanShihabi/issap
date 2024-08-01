@@ -29,8 +29,8 @@ def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_withou
 
     facility_mentions_df = facility_mentions_df.reset_index().rename(columns={"index": "Report Date"})
     # calc_facility_proportions(facility_mentions_df)
-    # calc_facility_freq_year(facility_mentions_df)
-    calc_categories_by_year(facility_data["category_facilities"], facility_mentions_df)
+    calc_facility_freq_year(facility_mentions_df)
+    # calc_categories_by_year(facility_data["category_facilities"], facility_mentions_df)
     # calc_custom_categories_by_year(facility_data["custom_facilities"], facility_mentions_df)
     # calc_total_category_mentions(facility_data["category_facilities"], facility_mentions_df)
     # calc_custom_category_mentions(facility_data["custom_facilities"], facility_mentions_df)

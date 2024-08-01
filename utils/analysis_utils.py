@@ -67,8 +67,18 @@ def calc_facility_proportions(df: pd.DataFrame):
 def calc_facility_freq_year(df: pd.DataFrame):
     df_year = df.resample("YE", on="Report Date").sum()
 
+    exercise = ["ARED", "CEVIS", "TVIS", "COLBERT"]
+
+    df_year = df_year.rename(index={row: str(row).split("-")[0] for row in df_year.index})
+    df_year_without_exercise = df_year.loc[:, [col for col in df_year.columns if col not in exercise]]
+
+    most_yearly_mentioned = df_year.idxmax(axis=1)
+    most_yearly_mentioned.to_csv("./analysis/csv/Most_Mentioned_Yearly.csv")
+
+    most_yearly_mentioned_without_exercise = df_year_without_exercise.idxmax(axis=1)
+    most_yearly_mentioned_without_exercise.to_csv("./analysis/csv/Most_Mentioned_Yearly_Without_Exercise.csv")
+
     stats = df_year.T.describe().loc[["min", "mean", "std", "max"], :]
-    stats = stats.rename(columns={col: str(col).split("-")[0] for col in stats.columns})
     stats.to_csv(f"./analysis/csv/yearly_facility_stats.csv")
 
     if os.path.exists("./analysis/plots/Facility_Year_Frequency") == False:
@@ -331,6 +341,7 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
     if os.path.exists("./analysis/plots/category_year") == False:
         os.makedirs("./analysis/plots/category_year")
         os.makedirs("./analysis/csv/category_year")
+        os.makedirs("./analysis/csv/category_year/stats")
     
     for category in category_facilities:
         category_year_df = df_year.loc[:, category_facilities[category]].T.sum().T
@@ -377,6 +388,7 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
     if os.path.exists("./analysis/plots/custom_category_year") == False:
         os.makedirs("./analysis/plots/custom_category_year")
         os.makedirs("./analysis/csv/custom_category_year")
+        os.makedirs("./analysis/csv/custom_category_year/stats")
     
     for category in custom_facilities:
         category_year_df = df_year.loc[:, custom_facilities[category]].T.sum().T

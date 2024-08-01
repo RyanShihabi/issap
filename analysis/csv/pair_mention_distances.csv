@@ -1,414 +1,414 @@
 ,itemsets,Distance
 2356,"frozenset({'MELFI', 'UMS'})",4
-1470,"frozenset({'EPM', 'TVIS'})",4
+1470,"frozenset({'TVIS', 'EPM'})",4
 1337,"frozenset({'MELFI', 'ARED'})",4
-3003,"frozenset({'CB', 'Nanoracks Airlock'})",4
-2351,"frozenset({'CB', 'UMS'})",4
-1618,"frozenset({'CB', 'TVIS'})",4
-1339,"frozenset({'MELFI', 'TVIS'})",4
+3003,"frozenset({'Nanoracks Airlock', 'CB'})",4
 2623,"frozenset({'ABRS', 'TVIS'})",4
+1339,"frozenset({'MELFI', 'TVIS'})",4
 1465,"frozenset({'EPM', 'COLBERT'})",4
-1471,"frozenset({'EPM', 'ARED'})",4
+1471,"frozenset({'ARED', 'EPM'})",4
+1618,"frozenset({'CB', 'TVIS'})",4
 2462,"frozenset({'FSL', 'ARED'})",4
 1624,"frozenset({'CBEF', 'TVIS'})",4
-1978,"frozenset({'IPU', 'ARED'})",4
+1616,"frozenset({'ARED', 'CB'})",4
 2414,"frozenset({'Plant Habitat', 'ARED'})",4
-1454,"frozenset({'TVIS', 'DECLIC'})",4
-1616,"frozenset({'CB', 'ARED'})",4
+1454,"frozenset({'DECLIC', 'TVIS'})",4
+1978,"frozenset({'IPU', 'ARED'})",4
 1597,"frozenset({'MARES', 'COLBERT'})",4
-2358,"frozenset({'IPU', 'UMS'})",4
 1569,"frozenset({'ARED', 'GHF'})",4
+2358,"frozenset({'IPU', 'UMS'})",4
 2341,"frozenset({'EDR', 'COLBERT'})",4
-640,"frozenset({'Actiwatch', 'ARED'})",3
-1633,"frozenset({'MWA', 'ARED'})",3
+2351,"frozenset({'UMS', 'CB'})",4
 638,"frozenset({'Actiwatch', 'COLBERT'})",3
+1633,"frozenset({'ARED', 'MWA'})",3
 642,"frozenset({'Actiwatch', 'TVIS'})",3
-2741,"frozenset({'MSPR', 'GN2'})",2
-2767,"frozenset({'MELFI', 'Kubik'})",2
-168,"frozenset({'MELFI', 'PFS'})",2
-1908,"frozenset({'CB', 'MDS'})",2
-2410,"frozenset({'Plant Habitat', 'SABL'})",2
-2877,"frozenset({'SABL', 'CellCult'})",2
-1659,"frozenset({'Holter', 'MELFI'})",2
-1934,"frozenset({'MSL', 'ETC'})",2
-1617,"frozenset({'CB', 'RC'})",2
+640,"frozenset({'Actiwatch', 'ARED'})",3
+1934,"frozenset({'ETC', 'MSL'})",2
 2601,"frozenset({'MELFI', 'MVP'})",2
-1923,"frozenset({'MELFI', 'LMM'})",2
+1923,"frozenset({'LMM', 'MELFI'})",2
 1451,"frozenset({'DECLIC', 'MDS'})",2
-2966,"frozenset({'RC', 'HSRC'})",2
-2600,"frozenset({'CB', 'MVP'})",2
-2842,"frozenset({'CB', 'BFF'})",2
+1908,"frozenset({'MDS', 'CB'})",2
+2767,"frozenset({'Kubik', 'MELFI'})",2
+1617,"frozenset({'RC', 'CB'})",2
+2954,"frozenset({'Bone Densitometer', 'MELFI'})",2
+2813,"frozenset({'ICE Cubes', 'CEVIS'})",2
 2841,"frozenset({'BFF', 'ELF'})",2
-1683,"frozenset({'CGBA', 'MELFI'})",2
-1979,"frozenset({'IPU', 'MSG'})",2
-2820,"frozenset({'SABL', 'MSPR'})",2
-2835,"frozenset({'EML', 'ELF'})",2
+2842,"frozenset({'BFF', 'CB'})",2
+2966,"frozenset({'HSRC', 'RC'})",2
+1659,"frozenset({'Holter', 'MELFI'})",2
 2866,"frozenset({'BFF', 'ADSEP'})",2
-1596,"frozenset({'MELFI', 'MARES'})",2
-2818,"frozenset({'CBEF', 'SABL'})",2
-2867,"frozenset({'SABL', 'ADSEP'})",2
+2877,"frozenset({'CellCult', 'SABL'})",2
 1837,"frozenset({'Ultrasound 2', 'EPM'})",2
-2878,"frozenset({'MSG', 'CellCult'})",2
-2857,"frozenset({'J-SSOD', 'MUSES'})",2
+1596,"frozenset({'MELFI', 'MARES'})",2
+2410,"frozenset({'Plant Habitat', 'SABL'})",2
+2867,"frozenset({'SABL', 'ADSEP'})",2
+2820,"frozenset({'SABL', 'MSPR'})",2
+2835,"frozenset({'ELF', 'EML'})",2
+1683,"frozenset({'MELFI', 'CGBA'})",2
+1979,"frozenset({'IPU', 'MSG'})",2
 2740,"frozenset({'EMCS', 'GN2'})",2
-2751,"frozenset({'MELFI', 'BRIC'})",2
-2853,"frozenset({'Solar', 'NanoRacks External Platform'})",2
-2852,"frozenset({'RC', 'NanoRacks External Platform'})",2
-2742,"frozenset({'ELF', 'GN2'})",2
-2813,"frozenset({'CEVIS', 'ICE Cubes'})",2
-2954,"frozenset({'MELFI', 'Bone Densitometer'})",2
-2814,"frozenset({'CB', 'SABL'})",2
-1743,"frozenset({'Solar', 'RC'})",2
-2745,"frozenset({'Solar', 'GN2'})",2
-2743,"frozenset({'EPM', 'GN2'})",2
-1945,"frozenset({'PCRF', 'MSG'})",2
-1593,"frozenset({'WORF', 'MARES'})",2
-1922,"frozenset({'LMM', 'Veggie'})",2
-2029,"frozenset({'FIR', 'Veggie'})",2
-2758,"frozenset({'MELFI', 'LSG'})",2
-2770,"frozenset({'CEVIS', 'Kubik'})",2
-2769,"frozenset({'CGBA', 'Kubik'})",2
-1338,"frozenset({'MELFI', 'CEVIS'})",2
-2434,"frozenset({'MELFI', 'MSRR-1'})",2
-2015,"frozenset({'Solar', 'JEM-EF'})",2
-1742,"frozenset({'Solar', 'BXF'})",2
-1745,"frozenset({'Solar', 'MELFI'})",2
-2614,"frozenset({'ABRS', 'RC'})",2
-1935,"frozenset({'ETC', 'MSG'})",2
-1931,"frozenset({'CB', 'ETC'})",2
-2020,"frozenset({'FIR', 'COLBERT'})",2
-2979,"frozenset({'Veggie', 'MMD'})",2
-560,"frozenset({'WORF', 'MELFI'})",2
-2744,"frozenset({'Plant Habitat', 'GN2'})",2
-2582,"frozenset({'EPM', 'HRF-2'})",2
-552,"frozenset({'WORF', 'ARED'})",2
-2756,"frozenset({'LSG', 'EMCS'})",2
-2927,"frozenset({'EXHAM', 'RC'})",2
-1833,"frozenset({'RC', 'COLBERT'})",2
-2562,"frozenset({'SCOF', 'FIR'})",2
-2848,"frozenset({'Confocal Microscope', 'SABL'})",2
-2869,"frozenset({'ADSEP', 'ADSEP-2'})",2
-1910,"frozenset({'Saibo', 'MDS'})",2
-2586,"frozenset({'ARED', 'HRF-2'})",2
+168,"frozenset({'MELFI', 'PFS'})",2
+2624,"frozenset({'Veggie', 'ABRS'})",2
+2857,"frozenset({'J-SSOD', 'MUSES'})",2
+2818,"frozenset({'CBEF', 'SABL'})",2
+2751,"frozenset({'BRIC', 'MELFI'})",2
+2742,"frozenset({'GN2', 'ELF'})",2
+2853,"frozenset({'NanoRacks External Platform', 'Solar'})",2
+2852,"frozenset({'NanoRacks External Platform', 'RC'})",2
+2878,"frozenset({'CellCult', 'MSG'})",2
 2622,"frozenset({'ABRS', 'CGBA'})",2
-3042,"frozenset({'RC', 'NanoRacks-extCygnus-NRCSD'})",2
-2621,"frozenset({'ABRS', 'SLAMMD'})",2
-2617,"frozenset({'ABRS', 'MSG'})",2
-1912,"frozenset({'ABRS', 'MDS'})",2
-2598,"frozenset({'MVIS', 'MSG'})",2
-1469,"frozenset({'EPM', 'Ultrasound'})",2
-1975,"frozenset({'WORF', 'IPU'})",2
-2624,"frozenset({'ABRS', 'Veggie'})",2
-1977,"frozenset({'CEVIS', 'IPU'})",2
-1982,"frozenset({'IPU', 'FIR'})",2
-2406,"frozenset({'CGBA', 'Plant Habitat'})",2
-1466,"frozenset({'MELFI', 'EPM'})",2
+1743,"frozenset({'RC', 'Solar'})",2
+1945,"frozenset({'PCRF', 'MSG'})",2
+2744,"frozenset({'GN2', 'Plant Habitat'})",2
+2743,"frozenset({'GN2', 'EPM'})",2
+1593,"frozenset({'WORF', 'MARES'})",2
+2029,"frozenset({'Veggie', 'FIR'})",2
+2614,"frozenset({'ABRS', 'RC'})",2
+2758,"frozenset({'LSG', 'MELFI'})",2
+1338,"frozenset({'MELFI', 'CEVIS'})",2
+2770,"frozenset({'Kubik', 'CEVIS'})",2
+2769,"frozenset({'Kubik', 'CGBA'})",2
+2434,"frozenset({'MSRR-1', 'MELFI'})",2
+1922,"frozenset({'Veggie', 'LMM'})",2
+1742,"frozenset({'Solar', 'BXF'})",2
+2015,"frozenset({'JEM-EF', 'Solar'})",2
+1745,"frozenset({'Solar', 'MELFI'})",2
+1935,"frozenset({'ETC', 'MSG'})",2
+1931,"frozenset({'ETC', 'CB'})",2
+2020,"frozenset({'FIR', 'COLBERT'})",2
+2026,"frozenset({'FIR', 'ARED'})",2
 1839,"frozenset({'Ultrasound 2', 'ARED'})",2
-2353,"frozenset({'UMS', 'CIR'})",2
-1580,"frozenset({'MELFI', 'Ultrasound'})",2
-1663,"frozenset({'CBEF', 'Holter'})",2
-1650,"frozenset({'FPEF', 'FIR'})",2
-2336,"frozenset({'MELFI', 'EDR'})",2
-1973,"frozenset({'Holter', 'IPU'})",2
-2344,"frozenset({'Plant Habitat', 'EDR'})",2
-175,"frozenset({'PFS', 'ARED'})",2
-2012,"frozenset({'JEM-EF', 'RC'})",2
-1728,"frozenset({'ARED', 'CIR'})",2
-1415,"frozenset({'TVIS', 'MSG'})",2
-1623,"frozenset({'CBEF', 'MSG'})",2
-1832,"frozenset({'MELFI', 'RC'})",2
-180,"frozenset({'PFS', 'TVIS'})",2
-179,"frozenset({'PFS', 'COLBERT'})",2
-2840,"frozenset({'BFF', 'MELFI'})",2
-2804,"frozenset({'EML', 'TangoLab-2'})",2
-174,"frozenset({'CB', 'PFS'})",2
-1688,"frozenset({'CGBA', 'CB'})",2
-2339,"frozenset({'CGBA', 'EDR'})",2
-2860,"frozenset({'RC', 'J-SSOD'})",2
-1574,"frozenset({'Ultrasound', 'TVIS'})",2
-1601,"frozenset({'MARES', 'CIR'})",2
-1576,"frozenset({'Ultrasound', 'COLBERT'})",2
-2978,"frozenset({'MELFI', 'MMD'})",2
-1554,"frozenset({'EMCS', 'SAMS-II'})",2
-1730,"frozenset({'MELFI', 'CIR'})",2
-1453,"frozenset({'MSL', 'DECLIC'})",2
-1455,"frozenset({'MSG', 'DECLIC'})",2
-1744,"frozenset({'Solar', 'CB'})",2
-2343,"frozenset({'CEVIS', 'EDR'})",2
-2862,"frozenset({'RC', 'NanoRacks CubeSat Deployer'})",2
-1687,"frozenset({'CGBA', 'TVIS'})",2
-1686,"frozenset({'CGBA', 'EPM'})",2
-2378,"frozenset({'SLAMMD', 'MELFI'})",2
-1684,"frozenset({'CGBA', 'COLBERT'})",2
-1731,"frozenset({'CB', 'CIR'})",2
-553,"frozenset({'WORF', 'COLBERT'})",2
+2745,"frozenset({'GN2', 'Solar'})",2
+2756,"frozenset({'EMCS', 'LSG'})",2
+552,"frozenset({'WORF', 'ARED'})",2
+1982,"frozenset({'IPU', 'FIR'})",2
+2741,"frozenset({'GN2', 'MSPR'})",2
+2927,"frozenset({'RC', 'EXHAM'})",2
+1833,"frozenset({'RC', 'COLBERT'})",2
+1466,"frozenset({'MELFI', 'EPM'})",2
+2600,"frozenset({'MVP', 'CB'})",2
+2586,"frozenset({'HRF-2', 'ARED'})",2
+1413,"frozenset({'ARED', 'MSG'})",2
+2621,"frozenset({'ABRS', 'SLAMMD'})",2
+2869,"frozenset({'ADSEP', 'ADSEP-2'})",2
+1912,"frozenset({'ABRS', 'MDS'})",2
+2582,"frozenset({'HRF-2', 'EPM'})",2
+2617,"frozenset({'ABRS', 'MSG'})",2
+1910,"frozenset({'Saibo', 'MDS'})",2
+3042,"frozenset({'RC', 'NanoRacks-extCygnus-NRCSD'})",2
+2406,"frozenset({'Plant Habitat', 'CGBA'})",2
+1469,"frozenset({'EPM', 'Ultrasound'})",2
+2598,"frozenset({'MVIS', 'MSG'})",2
+1975,"frozenset({'IPU', 'WORF'})",2
+1977,"frozenset({'IPU', 'CEVIS'})",2
+2562,"frozenset({'SCOF', 'FIR'})",2
+2357,"frozenset({'UMS', 'CGBA'})",2
+2339,"frozenset({'EDR', 'CGBA'})",2
+2848,"frozenset({'Confocal Microscope', 'SABL'})",2
 1599,"frozenset({'MARES', 'MSG'})",2
 1602,"frozenset({'Ultrasound 2', 'MARES'})",2
-170,"frozenset({'EPM', 'PFS'})",2
+1601,"frozenset({'MARES', 'CIR'})",2
+2012,"frozenset({'JEM-EF', 'RC'})",2
+1744,"frozenset({'Solar', 'CB'})",2
+1663,"frozenset({'Holter', 'CBEF'})",2
+1650,"frozenset({'FIR', 'FPEF'})",2
+1580,"frozenset({'MELFI', 'Ultrasound'})",2
+175,"frozenset({'PFS', 'ARED'})",2
+2978,"frozenset({'MMD', 'MELFI'})",2
+2344,"frozenset({'Plant Habitat', 'EDR'})",2
+1728,"frozenset({'ARED', 'CIR'})",2
+1623,"frozenset({'CBEF', 'MSG'})",2
+1415,"frozenset({'TVIS', 'MSG'})",2
 2463,"frozenset({'FSL', 'MSG'})",2
-2453,"frozenset({'CGBA', 'FSL'})",2
-2788,"frozenset({'MELFI', 'BioLab'})",2
-2455,"frozenset({'SLAMMD', 'FSL'})",2
-2454,"frozenset({'Ultrasound 2', 'FSL'})",2
-1645,"frozenset({'FPEF', 'CIR'})",2
-2464,"frozenset({'FPEF', 'FSL'})",2
+2453,"frozenset({'FSL', 'CGBA'})",2
+2860,"frozenset({'J-SSOD', 'RC'})",2
+180,"frozenset({'PFS', 'TVIS'})",2
+179,"frozenset({'PFS', 'COLBERT'})",2
+2343,"frozenset({'EDR', 'CEVIS'})",2
+1731,"frozenset({'CB', 'CIR'})",2
+1684,"frozenset({'COLBERT', 'CGBA'})",2
+1576,"frozenset({'COLBERT', 'Ultrasound'})",2
+163,"frozenset({'TVIS', 'CEVIS'})",2
+553,"frozenset({'WORF', 'COLBERT'})",2
 1594,"frozenset({'SLAMMD', 'MARES'})",2
+1332,"frozenset({'COLBERT', 'CEVIS'})",2
+2353,"frozenset({'UMS', 'CIR'})",2
+1832,"frozenset({'RC', 'MELFI'})",2
+1574,"frozenset({'TVIS', 'Ultrasound'})",2
+1575,"frozenset({'ARED', 'Ultrasound'})",2
+1554,"frozenset({'EMCS', 'SAMS-II'})",2
+2378,"frozenset({'MELFI', 'SLAMMD'})",2
+2814,"frozenset({'SABL', 'CB'})",2
+1453,"frozenset({'MSL', 'DECLIC'})",2
+1455,"frozenset({'DECLIC', 'MSG'})",2
+1730,"frozenset({'MELFI', 'CIR'})",2
+2840,"frozenset({'BFF', 'MELFI'})",2
+2862,"frozenset({'NanoRacks CubeSat Deployer', 'RC'})",2
+1687,"frozenset({'TVIS', 'CGBA'})",2
+1686,"frozenset({'EPM', 'CGBA'})",2
+2336,"frozenset({'MELFI', 'EDR'})",2
+560,"frozenset({'WORF', 'MELFI'})",2
+174,"frozenset({'PFS', 'CB'})",2
+2421,"frozenset({'MSL', 'MELFI'})",2
+1688,"frozenset({'CB', 'CGBA'})",2
+2461,"frozenset({'FSL', 'CEVIS'})",2
+2460,"frozenset({'FSL', 'MELFI'})",2
+2456,"frozenset({'FSL', 'WORF'})",2
+2455,"frozenset({'FSL', 'SLAMMD'})",2
+2454,"frozenset({'FSL', 'Ultrasound 2'})",2
+2464,"frozenset({'FSL', 'FPEF'})",2
 2386,"frozenset({'SLAMMD', 'TVIS'})",2
-163,"frozenset({'CEVIS', 'TVIS'})",2
+2788,"frozenset({'MELFI', 'BioLab'})",2
 2413,"frozenset({'Plant Habitat', 'CIR'})",2
-1545,"frozenset({'MELFI', 'EMCS'})",2
 2408,"frozenset({'WORF', 'Plant Habitat'})",2
 2465,"frozenset({'FSL', 'FIR'})",2
 1906,"frozenset({'MELFI', 'MDS'})",2
-2357,"frozenset({'CGBA', 'UMS'})",2
-2026,"frozenset({'FIR', 'ARED'})",2
-2340,"frozenset({'EDR', 'MSG'})",2
-2019,"frozenset({'MELFI', 'FIR'})",2
-2456,"frozenset({'WORF', 'FSL'})",2
-2460,"frozenset({'MELFI', 'FSL'})",2
-2461,"frozenset({'CEVIS', 'FSL'})",2
+2979,"frozenset({'Veggie', 'MMD'})",2
+2804,"frozenset({'TangoLab-2', 'EML'})",2
+2340,"frozenset({'MSG', 'EDR'})",2
+2019,"frozenset({'FIR', 'MELFI'})",2
+2810,"frozenset({'Veggie', 'MELFI'})",2
 2817,"frozenset({'MELFI', 'SABL'})",2
-1332,"frozenset({'CEVIS', 'COLBERT'})",2
-1468,"frozenset({'CEVIS', 'EPM'})",2
-1685,"frozenset({'CGBA', 'ARED'})",2
+1645,"frozenset({'FPEF', 'CIR'})",2
+162,"frozenset({'ARED', 'CEVIS'})",2
+1973,"frozenset({'IPU', 'Holter'})",2
+170,"frozenset({'PFS', 'EPM'})",2
+1545,"frozenset({'EMCS', 'MELFI'})",2
+1685,"frozenset({'ARED', 'CGBA'})",2
 1732,"frozenset({'TVIS', 'CIR'})",2
-554,"frozenset({'WORF', 'TVIS'})",2
+1468,"frozenset({'EPM', 'CEVIS'})",2
 2625,"frozenset({'ABRS', 'LMM'})",2
+554,"frozenset({'WORF', 'TVIS'})",2
+2893,"frozenset({'FROST', 'SABL'})",2
 555,"frozenset({'WORF', 'Solar'})",2
 1414,"frozenset({'MELFI', 'MSG'})",2
 1467,"frozenset({'RC', 'EPM'})",2
 1658,"frozenset({'Holter', 'EPM'})",2
 2425,"frozenset({'MSL', 'TVIS'})",2
-162,"frozenset({'CEVIS', 'ARED'})",2
-2893,"frozenset({'SABL', 'FROST'})",2
-1413,"frozenset({'ARED', 'MSG'})",2
-2421,"frozenset({'MSL', 'MELFI'})",2
-2810,"frozenset({'MELFI', 'Veggie'})",2
-1575,"frozenset({'Ultrasound', 'ARED'})",2
-2028,"frozenset({'MWA', 'FIR'})",1
-1921,"frozenset({'MWA', 'LMM'})",1
-2375,"frozenset({'MWA', 'MSPR'})",1
-2411,"frozenset({'MWA', 'Plant Habitat'})",1
-641,"frozenset({'MELFI', 'Actiwatch'})",1
-1635,"frozenset({'MWA', 'RC'})",1
 2575,"frozenset({'iRED', 'ARED'})",1
 2579,"frozenset({'Actiwatch', 'HRF-2'})",1
 1496,"frozenset({'Actiwatch Spectrum', 'HRF-1'})",1
-2790,"frozenset({'MWA', 'BioLab'})",1
-2606,"frozenset({'MWA', 'Ryutai'})",1
-1630,"frozenset({'MWA', 'CIR'})",1
-2615,"frozenset({'ABRS', 'MWA'})",1
-1639,"frozenset({'MWA', 'MSG'})",1
-1638,"frozenset({'MWA', 'Solar'})",1
-1637,"frozenset({'CGBA', 'MWA'})",1
-1416,"frozenset({'Actiwatch', 'MSG'})",1
-1494,"frozenset({'Actiwatch Spectrum', 'Ultrasound 2'})",1
+2790,"frozenset({'BioLab', 'MWA'})",1
+641,"frozenset({'Actiwatch', 'MELFI'})",1
+2028,"frozenset({'FIR', 'MWA'})",1
+1635,"frozenset({'RC', 'MWA'})",1
+2375,"frozenset({'MSPR', 'MWA'})",1
+1921,"frozenset({'LMM', 'MWA'})",1
+2411,"frozenset({'Plant Habitat', 'MWA'})",1
 1495,"frozenset({'Actiwatch Spectrum', 'Ultrasound'})",1
-2576,"frozenset({'iRED', 'TVIS'})",1
+1974,"frozenset({'IPU', 'MWA'})",1
+1639,"frozenset({'MWA', 'MSG'})",1
+1638,"frozenset({'Solar', 'MWA'})",1
+1637,"frozenset({'MWA', 'CGBA'})",1
+1416,"frozenset({'Actiwatch', 'MSG'})",1
+1494,"frozenset({'Ultrasound 2', 'Actiwatch Spectrum'})",1
+1630,"frozenset({'MWA', 'CIR'})",1
 178,"frozenset({'Actiwatch', 'PFS'})",1
-1497,"frozenset({'Actiwatch Spectrum', 'Holter'})",1
 1644,"frozenset({'FPEF', 'MWA'})",1
-171,"frozenset({'MWA', 'PFS'})",1
-1974,"frozenset({'MWA', 'IPU'})",1
+1632,"frozenset({'CB', 'MWA'})",1
+2577,"frozenset({'iRED', 'CEVIS'})",1
+171,"frozenset({'PFS', 'MWA'})",1
 639,"frozenset({'Actiwatch', 'CEVIS'})",1
 563,"frozenset({'WORF', 'Actiwatch'})",1
-2577,"frozenset({'iRED', 'CEVIS'})",1
+1497,"frozenset({'Holter', 'Actiwatch Spectrum'})",1
+1544,"frozenset({'EMCS', 'MWA'})",1
+1634,"frozenset({'MELFI', 'MWA'})",1
 1493,"frozenset({'Actiwatch Spectrum', 'EPM'})",1
-1634,"frozenset({'MWA', 'MELFI'})",1
-1632,"frozenset({'MWA', 'CB'})",1
-2583,"frozenset({'MWA', 'HRF-2'})",1
-2757,"frozenset({'MWA', 'LSG'})",1
+2576,"frozenset({'iRED', 'TVIS'})",1
+2615,"frozenset({'ABRS', 'MWA'})",1
+1729,"frozenset({'Actiwatch', 'CIR'})",1
+2757,"frozenset({'LSG', 'MWA'})",1
 2735,"frozenset({'MWA', 'Aquatic Habitat'})",1
 1739,"frozenset({'Actiwatch', 'HRF-1'})",1
-1661,"frozenset({'Holter', 'Actiwatch'})",1
 1464,"frozenset({'Actiwatch', 'EPM'})",1
-1544,"frozenset({'MWA', 'EMCS'})",1
 1500,"frozenset({'Actiwatch Spectrum', 'CEVIS'})",1
-1498,"frozenset({'Actiwatch Spectrum', 'MELFI'})",1
-1729,"frozenset({'Actiwatch', 'CIR'})",1
+2583,"frozenset({'HRF-2', 'MWA'})",1
+1498,"frozenset({'MELFI', 'Actiwatch Spectrum'})",1
+1640,"frozenset({'Veggie', 'MWA'})",1
 1631,"frozenset({'MWA', 'CEVIS'})",1
-1640,"frozenset({'MWA', 'Veggie'})",1
+1661,"frozenset({'Holter', 'Actiwatch'})",1
+2606,"frozenset({'Ryutai', 'MWA'})",1
+2380,"frozenset({'SLAMMD', 'CIR'})",0
+2437,"frozenset({'MSRR-1', 'Holter'})",0
+1547,"frozenset({'EMCS', 'Veggie'})",0
+2865,"frozenset({'MELFI', 'ADSEP'})",0
+1845,"frozenset({'Ultrasound 2', 'Holter'})",0
+2384,"frozenset({'WORF', 'SLAMMD'})",0
+2027,"frozenset({'FIR', 'RC'})",0
 2451,"frozenset({'CCE', 'MSPR'})",0
 2423,"frozenset({'MSL', 'PFS'})",0
 2424,"frozenset({'MSL', 'Holter'})",0
-2384,"frozenset({'SLAMMD', 'WORF'})",0
+1578,"frozenset({'RC', 'Ultrasound'})",0
 2433,"frozenset({'MSRR-1', 'FIR'})",0
 2436,"frozenset({'MSRR-1', 'PFS'})",0
-562,"frozenset({'WORF', 'PFS'})",0
-1845,"frozenset({'Ultrasound 2', 'Holter'})",0
-2865,"frozenset({'MELFI', 'ADSEP'})",0
-2380,"frozenset({'SLAMMD', 'CIR'})",0
-557,"frozenset({'WORF', 'CIR'})",0
-2024,"frozenset({'Ultrasound', 'FIR'})",0
-2437,"frozenset({'Holter', 'MSRR-1'})",0
+2014,"frozenset({'J-SSOD', 'JEM-EF'})",0
 561,"frozenset({'WORF', 'MSG'})",0
+1933,"frozenset({'FSL', 'ETC'})",0
+1649,"frozenset({'FPEF', 'MSPR'})",0
+557,"frozenset({'WORF', 'CIR'})",0
+562,"frozenset({'WORF', 'PFS'})",0
+2977,"frozenset({'MMD', 'MSG'})",0
+2971,"frozenset({'MSPR', 'TELLAS'})",0
+1560,"frozenset({'MSL', 'SAMS-II'})",0
 173,"frozenset({'PFS', 'MSG'})",0
 2385,"frozenset({'SLAMMD', 'CEVIS'})",0
+177,"frozenset({'PFS', 'HRF-1'})",0
 3039,"frozenset({'MSPR', 'MSPR-2'})",0
-177,"frozenset({'HRF-1', 'PFS'})",0
-2027,"frozenset({'RC', 'FIR'})",0
-2014,"frozenset({'JEM-EF', 'J-SSOD'})",0
-1649,"frozenset({'FPEF', 'MSPR'})",0
-1560,"frozenset({'MSL', 'SAMS-II'})",0
-2977,"frozenset({'MSG', 'MMD'})",0
-2971,"frozenset({'TELLAS', 'MSPR'})",0
-1578,"frozenset({'RC', 'Ultrasound'})",0
-1547,"frozenset({'EMCS', 'Veggie'})",0
-2354,"frozenset({'UMS', 'COLBERT'})",0
-2891,"frozenset({'MSPR', 'FROST'})",0
-2898,"frozenset({'CB', 'FROST'})",0
-1933,"frozenset({'ETC', 'FSL'})",0
-2995,"frozenset({'IPU2', 'Saibo'})",0
-2956,"frozenset({'Ultrasound 2', 'Bone Densitometer'})",0
-2604,"frozenset({'Saibo', 'Ryutai'})",0
-2585,"frozenset({'Ultrasound 2', 'HRF-2'})",0
-2975,"frozenset({'EDR', 'EDR-2'})",0
-1665,"frozenset({'CGBA', 'Holter'})",0
-2926,"frozenset({'EXHAM', 'J-SSOD'})",0
-2607,"frozenset({'MSPR', 'Ryutai'})",0
-2969,"frozenset({'ELF', 'HSRC'})",0
-1834,"frozenset({'RC', 'MSG'})",0
-1841,"frozenset({'SLAMMD', 'Ultrasound 2'})",0
-2997,"frozenset({'CBEF-L', 'IPU2'})",0
-2596,"frozenset({'GASMAP', 'HRF-2'})",0
-1976,"frozenset({'MELFI', 'IPU'})",0
-2587,"frozenset({'RC', 'HRF-2'})",0
-1981,"frozenset({'CB', 'IPU'})",0
-2753,"frozenset({'CGBA', 'BRIC'})",0
-2736,"frozenset({'IPU', 'Aquatic Habitat'})",0
-1946,"frozenset({'MELFI', 'PCRF'})",0
-1843,"frozenset({'CGBA', 'Ultrasound 2'})",0
-1842,"frozenset({'WORF', 'Ultrasound 2'})",0
-2022,"frozenset({'CEVIS', 'FIR'})",0
-2996,"frozenset({'CB', 'IPU2'})",0
-2968,"frozenset({'FROST', 'HSRC'})",0
+1842,"frozenset({'Ultrasound 2', 'WORF'})",0
 2896,"frozenset({'SCOF', 'FROST'})",0
-2863,"frozenset({'J-SSOD', 'NanoRacks CubeSat Deployer'})",0
-2895,"frozenset({'CBEF', 'FROST'})",0
-2025,"frozenset({'CGBA', 'FIR'})",0
-2847,"frozenset({'Confocal Microscope', 'CBEF-L'})",0
-2812,"frozenset({'EPM', 'ICE Cubes'})",0
-2925,"frozenset({'NanoRacks External Platform', 'Cyclops'})",0
-2928,"frozenset({'EXHAM', 'NanoRacks CubeSat Deployer'})",0
-2834,"frozenset({'EPM', 'EML'})",0
-2826,"frozenset({'MSL', 'KERMIT'})",0
-2873,"frozenset({'TangoLab-1', 'SABL'})",0
+2354,"frozenset({'UMS', 'COLBERT'})",0
+2969,"frozenset({'HSRC', 'ELF'})",0
+2997,"frozenset({'IPU2', 'CBEF-L'})",0
+2604,"frozenset({'Saibo', 'Ryutai'})",0
+2933,"frozenset({'IPU', 'CBEF-L'})",0
+2996,"frozenset({'IPU2', 'CB'})",0
+1665,"frozenset({'Holter', 'CGBA'})",0
+2995,"frozenset({'IPU2', 'Saibo'})",0
+2926,"frozenset({'J-SSOD', 'EXHAM'})",0
+2607,"frozenset({'MSPR', 'Ryutai'})",0
+1834,"frozenset({'RC', 'MSG'})",0
+2975,"frozenset({'EDR-2', 'EDR'})",0
+1841,"frozenset({'Ultrasound 2', 'SLAMMD'})",0
+2956,"frozenset({'Bone Densitometer', 'Ultrasound 2'})",0
+2596,"frozenset({'GASMAP', 'HRF-2'})",0
+1976,"frozenset({'IPU', 'MELFI'})",0
+2587,"frozenset({'RC', 'HRF-2'})",0
+1981,"frozenset({'IPU', 'CB'})",0
+2753,"frozenset({'BRIC', 'CGBA'})",0
+1946,"frozenset({'MELFI', 'PCRF'})",0
+2736,"frozenset({'IPU', 'Aquatic Habitat'})",0
+1843,"frozenset({'Ultrasound 2', 'CGBA'})",0
+2025,"frozenset({'FIR', 'CGBA'})",0
+2024,"frozenset({'FIR', 'Ultrasound'})",0
+2968,"frozenset({'FROST', 'HSRC'})",0
+2967,"frozenset({'HSRC', 'CB'})",0
+2898,"frozenset({'FROST', 'CB'})",0
 2836,"frozenset({'Cold Atom Lab', 'CIR'})",0
-2855,"frozenset({'CB', 'ELF'})",0
-2967,"frozenset({'CB', 'HSRC'})",0
+2847,"frozenset({'Confocal Microscope', 'CBEF-L'})",0
+2022,"frozenset({'FIR', 'CEVIS'})",0
+2895,"frozenset({'FROST', 'CBEF'})",0
+2812,"frozenset({'ICE Cubes', 'EPM'})",0
+2891,"frozenset({'FROST', 'MSPR'})",0
+2925,"frozenset({'Cyclops', 'NanoRacks External Platform'})",0
+2928,"frozenset({'NanoRacks CubeSat Deployer', 'EXHAM'})",0
+2834,"frozenset({'EML', 'EPM'})",0
+2826,"frozenset({'KERMIT', 'MSL'})",0
+2873,"frozenset({'TangoLab-1', 'SABL'})",0
+2863,"frozenset({'J-SSOD', 'NanoRacks CubeSat Deployer'})",0
+2947,"frozenset({'PFMI', 'MSG'})",0
+2855,"frozenset({'ELF', 'CB'})",0
 2851,"frozenset({'NanoRacks External Platform', 'J-SSOD'})",0
-2845,"frozenset({'Confocal Microscope', 'MSPR'})",0
 2750,"frozenset({'BRIC', 'HRF-2'})",0
-2932,"frozenset({'CB', 'CBEF-L'})",0
+2845,"frozenset({'Confocal Microscope', 'MSPR'})",0
 1557,"frozenset({'SAMS-II', 'CIR'})",0
+2932,"frozenset({'CBEF-L', 'CB'})",0
+2585,"frozenset({'Ultrasound 2', 'HRF-2'})",0
 3004,"frozenset({'KOBAIRO Rack', 'GHF'})",0
-3040,"frozenset({'MSPR-2', 'ELF'})",0
-2933,"frozenset({'CBEF-L', 'IPU'})",0
+3040,"frozenset({'ELF', 'MSPR-2'})",0
 3034,"frozenset({'MSL', 'Hermes'})",0
-2947,"frozenset({'MSG', 'PFMI'})",0
 1329,"frozenset({'ARED', 'TVIS'})",0
-2894,"frozenset({'MELFI', 'FROST'})",0
-1666,"frozenset({'Holter', 'Ultrasound'})",0
-2432,"frozenset({'CEVIS', 'MSRR-1'})",0
-2603,"frozenset({'IPU', 'Ryutai'})",0
-176,"frozenset({'PFS', 'Ultrasound'})",0
-2559,"frozenset({'FPEF', 'SCOF'})",0
-2420,"frozenset({'MSL', 'CEVIS'})",0
-1595,"frozenset({'EPM', 'MARES'})",0
-2431,"frozenset({'MSL', 'MSRR-1'})",0
-1681,"frozenset({'CGBA', 'MSG'})",0
-1847,"frozenset({'Ultrasound 2', 'PFS'})",0
-1919,"frozenset({'LMM', 'CIR'})",0
-1980,"frozenset({'IPU', 'MSPR'})",0
-2387,"frozenset({'SLAMMD', 'RC'})",0
-559,"frozenset({'CGBA', 'WORF'})",0
-2335,"frozenset({'EPM', 'EDR'})",0
-2824,"frozenset({'MSRR-1', 'KERMIT'})",0
-2819,"frozenset({'CGBA', 'SABL'})",0
-2948,"frozenset({'JAXA Mouse Habitat Unit', 'CBEF-L'})",0
-1944,"frozenset({'IPU', 'PCRF'})",0
-2379,"frozenset({'SLAMMD', 'HRF-1'})",0
-1943,"frozenset({'FPEF', 'PCRF'})",0
-2412,"frozenset({'Plant Habitat', 'MELFI'})",0
-2457,"frozenset({'FSL', 'EDR'})",0
-1838,"frozenset({'Ultrasound 2', 'HRF-1'})",0
-1682,"frozenset({'CGBA', 'CIR'})",0
-2605,"frozenset({'FPEF', 'Ryutai'})",0
-167,"frozenset({'Holter', 'PFS'})",0
+2894,"frozenset({'FROST', 'MELFI'})",0
+2815,"frozenset({'SABL', 'MSG'})",0
 169,"frozenset({'RC', 'PFS'})",0
-2381,"frozenset({'SLAMMD', 'Holter'})",0
-2584,"frozenset({'HRF-1', 'HRF-2'})",0
-2833,"frozenset({'EDR', 'EML'})",0
+176,"frozenset({'PFS', 'Ultrasound'})",0
+2420,"frozenset({'MSL', 'CEVIS'})",0
+2833,"frozenset({'EML', 'EDR'})",0
+1940,"frozenset({'CBEF', 'PCRF'})",0
+1980,"frozenset({'IPU', 'MSPR'})",0
+1919,"frozenset({'LMM', 'CIR'})",0
+2431,"frozenset({'MSRR-1', 'MSL'})",0
+1595,"frozenset({'MARES', 'EPM'})",0
+2824,"frozenset({'MSRR-1', 'KERMIT'})",0
+1847,"frozenset({'Ultrasound 2', 'PFS'})",0
+1838,"frozenset({'Ultrasound 2', 'HRF-1'})",0
+559,"frozenset({'WORF', 'CGBA'})",0
+2013,"frozenset({'NanoRacks External Platform', 'JEM-EF'})",0
+2432,"frozenset({'MSRR-1', 'CEVIS'})",0
+2559,"frozenset({'SCOF', 'FPEF'})",0
+2412,"frozenset({'Plant Habitat', 'MELFI'})",0
+2381,"frozenset({'Holter', 'SLAMMD'})",0
+2457,"frozenset({'FSL', 'EDR'})",0
+1681,"frozenset({'MSG', 'CGBA'})",0
+2335,"frozenset({'EDR', 'EPM'})",0
+1682,"frozenset({'CIR', 'CGBA'})",0
+2379,"frozenset({'SLAMMD', 'HRF-1'})",0
+167,"frozenset({'Holter', 'PFS'})",0
+2875,"frozenset({'CellCult', 'ADSEP'})",0
+2616,"frozenset({'ABRS', 'MELFI'})",0
+2759,"frozenset({'LSG', 'MSG'})",0
+2584,"frozenset({'HRF-2', 'HRF-1'})",0
+2948,"frozenset({'JAXA Mouse Habitat Unit', 'CBEF-L'})",0
+2603,"frozenset({'IPU', 'Ryutai'})",0
 2581,"frozenset({'Holter', 'HRF-2'})",0
-1664,"frozenset({'Holter', 'CEVIS'})",0
-2861,"frozenset({'SUBSA', 'MSG'})",0
-3033,"frozenset({'WORF', 'ISERV'})",0
-2884,"frozenset({'Glovebox Freezer', 'LSG'})",0
-2768,"frozenset({'EDR', 'Kubik'})",0
+2459,"frozenset({'FSL', 'EPM'})",0
+2761,"frozenset({'LSG', 'SABL'})",0
+1726,"frozenset({'CIR', 'CEVIS'})",0
 2885,"frozenset({'Glovebox Freezer', 'MSG'})",0
+2768,"frozenset({'Kubik', 'EDR'})",0
+3005,"frozenset({'WORF', 'ISERV'})",0
+2955,"frozenset({'Bone Densitometer', 'MSG'})",0
+2884,"frozenset({'LSG', 'Glovebox Freezer'})",0
+3043,"frozenset({'NanoRacks CubeSat Deployer', 'NanoRacks-extCygnus-NRCSD'})",0
 1932,"frozenset({'ETC', 'EDR'})",0
 2876,"frozenset({'MELFI', 'CellCult'})",0
-3043,"frozenset({'NanoRacks-extCygnus-NRCSD', 'NanoRacks CubeSat Deployer'})",0
-2955,"frozenset({'Bone Densitometer', 'MSG'})",0
-1972,"frozenset({'CBEF', 'IPU'})",0
-1817,"frozenset({'MELFI', 'Saibo'})",0
-1726,"frozenset({'CEVIS', 'CIR'})",0
-1941,"frozenset({'PCRF', 'Ryutai'})",0
-1680,"frozenset({'CGBA', 'CEVIS'})",0
-2761,"frozenset({'LSG', 'SABL'})",0
-2732,"frozenset({'MELFI', 'Aquatic Habitat'})",0
-2815,"frozenset({'SABL', 'MSG'})",0
-1568,"frozenset({'MELFI', 'GHF'})",0
-1558,"frozenset({'MSRR-1', 'SAMS-II'})",0
 2733,"frozenset({'MSPR', 'Aquatic Habitat'})",0
+1972,"frozenset({'IPU', 'CBEF'})",0
+1680,"frozenset({'CGBA', 'CEVIS'})",0
+2861,"frozenset({'SUBSA', 'MSG'})",0
+1558,"frozenset({'MSRR-1', 'SAMS-II'})",0
+2732,"frozenset({'MELFI', 'Aquatic Habitat'})",0
 2734,"frozenset({'CBEF', 'Aquatic Habitat'})",0
+1568,"frozenset({'MELFI', 'GHF'})",0
+1817,"frozenset({'MELFI', 'Saibo'})",0
+1941,"frozenset({'PCRF', 'Ryutai'})",0
+1666,"frozenset({'Holter', 'Ultrasound'})",0
 2373,"frozenset({'CBEF', 'MSPR'})",0
-1727,"frozenset({'MSG', 'CIR'})",0
 2580,"frozenset({'PFS', 'HRF-2'})",0
-2560,"frozenset({'IPU', 'SCOF'})",0
+1727,"frozenset({'MSG', 'CIR'})",0
+2560,"frozenset({'SCOF', 'IPU'})",0
 2561,"frozenset({'SCOF', 'Ryutai'})",0
-1930,"frozenset({'EPM', 'ETC'})",0
-1940,"frozenset({'CBEF', 'PCRF'})",0
+1930,"frozenset({'ETC', 'EPM'})",0
+2819,"frozenset({'SABL', 'CGBA'})",0
 1741,"frozenset({'BXF', 'MSG'})",0
-556,"frozenset({'WORF', 'CEVIS'})",0
-1942,"frozenset({'SCOF', 'PCRF'})",0
-2854,"frozenset({'MSPR', 'ELF'})",0
-2931,"frozenset({'CBEF', 'CBEF-L'})",0
-1816,"frozenset({'CB', 'Saibo'})",0
-2616,"frozenset({'ABRS', 'MELFI'})",0
-2825,"frozenset({'KERMIT', 'SABL'})",0
-2013,"frozenset({'JEM-EF', 'NanoRacks External Platform'})",0
-1622,"frozenset({'CBEF', 'CB'})",0
-1835,"frozenset({'Ultrasound 2', 'Ultrasound'})",0
-165,"frozenset({'CEVIS', 'PFS'})",0
-2374,"frozenset({'MELFI', 'MSPR'})",0
-1648,"frozenset({'FPEF', 'IPU'})",0
+1664,"frozenset({'Holter', 'CEVIS'})",0
+2605,"frozenset({'FPEF', 'Ryutai'})",0
 1815,"frozenset({'CBEF', 'Saibo'})",0
-1615,"frozenset({'CB', 'MELFI'})",0
-2018,"frozenset({'FIR', 'CIR'})",0
-1567,"frozenset({'CB', 'GHF'})",0
-166,"frozenset({'CGBA', 'PFS'})",0
-2946,"frozenset({'SoFIE', 'CIR'})",0
-1556,"frozenset({'SAMS-II', 'MSG'})",0
-2789,"frozenset({'EMCS', 'BioLab'})",0
-1920,"frozenset({'FIR', 'LMM'})",0
-2023,"frozenset({'FIR', 'MSG'})",0
-2930,"frozenset({'CBEF-L', 'Saibo'})",0
-1740,"frozenset({'HRF-1', 'Ultrasound'})",0
+1622,"frozenset({'CBEF', 'CB'})",0
 1818,"frozenset({'IPU', 'Saibo'})",0
-2870,"frozenset({'TangoLab-1', 'TangoLab-2'})",0
+2789,"frozenset({'EMCS', 'BioLab'})",0
+2854,"frozenset({'ELF', 'MSPR'})",0
+1648,"frozenset({'IPU', 'FPEF'})",0
+1615,"frozenset({'MELFI', 'CB'})",0
+2946,"frozenset({'SoFIE', 'CIR'})",0
 1559,"frozenset({'KERMIT', 'SAMS-II'})",0
-1330,"frozenset({'ARED', 'COLBERT'})",0
-2459,"frozenset({'EPM', 'FSL'})",0
-2382,"frozenset({'CGBA', 'SLAMMD'})",0
-2994,"frozenset({'CBEF', 'IPU2'})",0
-2597,"frozenset({'MVIS', 'FSL'})",0
-1331,"frozenset({'TVIS', 'COLBERT'})",0
-1577,"frozenset({'CEVIS', 'Ultrasound'})",0
-2875,"frozenset({'ADSEP', 'CellCult'})",0
-1844,"frozenset({'Ultrasound 2', 'CEVIS'})",0
-1660,"frozenset({'Holter', 'RC'})",0
-2759,"frozenset({'LSG', 'MSG'})",0
+2931,"frozenset({'CBEF', 'CBEF-L'})",0
+1491,"frozenset({'Actiwatch', 'Actiwatch Spectrum'})",0
+1556,"frozenset({'SAMS-II', 'MSG'})",0
+1567,"frozenset({'CB', 'GHF'})",0
 2846,"frozenset({'CBEF', 'Confocal Microscope'})",0
+556,"frozenset({'WORF', 'CEVIS'})",0
+2825,"frozenset({'KERMIT', 'SABL'})",0
+1740,"frozenset({'HRF-1', 'Ultrasound'})",0
+1835,"frozenset({'Ultrasound 2', 'Ultrasound'})",0
+1942,"frozenset({'SCOF', 'PCRF'})",0
+1943,"frozenset({'FPEF', 'PCRF'})",0
 1621,"frozenset({'CBEF', 'MELFI'})",0
-1491,"frozenset({'Actiwatch Spectrum', 'Actiwatch'})",0
+1944,"frozenset({'IPU', 'PCRF'})",0
+2374,"frozenset({'MELFI', 'MSPR'})",0
+2930,"frozenset({'Saibo', 'CBEF-L'})",0
+165,"frozenset({'PFS', 'CEVIS'})",0
+1920,"frozenset({'FIR', 'LMM'})",0
+2870,"frozenset({'TangoLab-1', 'TangoLab-2'})",0
+2994,"frozenset({'CBEF', 'IPU2'})",0
+1844,"frozenset({'Ultrasound 2', 'CEVIS'})",0
+1331,"frozenset({'TVIS', 'COLBERT'})",0
+2023,"frozenset({'FIR', 'MSG'})",0
+1577,"frozenset({'Ultrasound', 'CEVIS'})",0
+166,"frozenset({'PFS', 'CGBA'})",0
+1330,"frozenset({'ARED', 'COLBERT'})",0
+2387,"frozenset({'RC', 'SLAMMD'})",0
+1660,"frozenset({'Holter', 'RC'})",0
+1816,"frozenset({'Saibo', 'CB'})",0
+2018,"frozenset({'FIR', 'CIR'})",0
+2597,"frozenset({'FSL', 'MVIS'})",0
+2382,"frozenset({'SLAMMD', 'CGBA'})",0
