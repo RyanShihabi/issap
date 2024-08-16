@@ -4,8 +4,8 @@
     "JAXA-JAXA": 510,
     "NASA-JAXA": 397,
     "ESA-ESA": 81,
-    "CSA-ESA": 8,
-    "JAXA-ESA": 6,
+    "ESA-CSA": 8,
+    "ESA-JAXA": 6,
     "NASA-CSA": 3,
     "CSA-CSA": 1,
     "CSA-JAXA": 0

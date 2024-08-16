@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+1316,0.0003519577650681918,"frozenset({'EDR', 'Kubik'})",2,4
+1355,0.0003519577650681918,"frozenset({'EXPRESS Rack', 'SABL'})",2,4
+1410,8.798944126704795e-05,"frozenset({'TangoLab-1', 'SABL'})",2,1
+643,8.798944126704795e-05,"frozenset({'EXPRESS Rack', 'SALI'})",2,1
+1359,8.798944126704795e-05,"frozenset({'SABL', 'MSPR'})",2,1

@@ -11,9 +11,11 @@ import numpy as np
 import savepagenow
 import matplotlib.pyplot as plt
 
+# Splits archived paragraphs by newlines
 def archive_paragraph_split(report_text: str):
 	return report_text.split("\n")
 
+# Get numerical index locations of seperators from a string of text
 def find_paragraph_split(sep: str, report_text: str):
 	idx = [word.start() for word in re.finditer(sep, report_text)]
 	idx.insert(0, 0)
@@ -23,7 +25,8 @@ def find_paragraph_split(sep: str, report_text: str):
 
 	return idx
 
-def assign_paragraphs(paragraph_groups, mentions_list, facility_name_abbr, text, excerpt):
+# Placing mentioned facilities into groups given the a facility mention falls between two paragraph location seperators
+def assign_paragraphs(paragraph_groups, mentions_list: dict, facility_name_abbr: dict, text: str, excerpt):
 	paragraphs = []
 
 	for paragraph_group in paragraph_groups:
@@ -49,12 +52,6 @@ def assign_paragraphs(paragraph_groups, mentions_list, facility_name_abbr, text,
 
 def new_paragraph_split(report_text: str):
 	return report_text.split("\n")
-
-def sentence_split(report_text: str):
-	return report_text.split(".")
-
-def kernel_split(report_text: str, window: int=5):
-	return [report_text[i: i+window] for i in range(len(report_text.split(" ")-window+1))]
 
 # Do a search for a custom set of facility names
 def custom_search(facility_names: list, report_dir: str):
@@ -113,43 +110,8 @@ def find_name_indices(name: str, text: str) -> list:
 
 	return name_indices
 
-# Sliding window of mentions
-# Intended as check for the main mention method
-def generate_kernel_apriori(facility_name_abbr: dict, report_dir: str, window: int =50):
-	dataset = []
-
-	facility_names = []
-
-	for name, abbr in facility_name_abbr.items():
-		facility_names.append(abbr)
-		facility_names.append(name)
-		
-		if len(name) > window:
-			window = len(name)
-
-	reports = [file for file in os.listdir(report_dir)]
-
-	for report in tqdm(reports):
-		report_mentions = set()
-		file_path = os.path.join(report_dir, report)
-		with open(f"{file_path}", 'r') as f:
-			text = ("\n".join(f.readlines())).lower()
-		f.close()
-
-		words = text.split(" ")
-		
-		for group in range(len(words)-window):
-			for facility in facility_names:
-				text_window = " ".join(words[group:group+window])
-				if len(find_name_indices(facility, text_window)) != 0:
-					report_mentions.add(facility_name_abbr[facility] if facility in facility_name_abbr else facility)
-
-		dataset.append(list(report_mentions))
-
-	return dataset
-
 # Find and remove overlapping facility mentions
-def overlapping_lists(list1, list2):
+def overlapping_lists(list1: list, list2: list):
 	result1 = list1.copy()
 	result2 = list2.copy()
 
@@ -384,37 +346,9 @@ def send_internet_archive_request():
 			f.write(f"{saved_link}\n")
 	f.close()
 
-# Lists facilities in sequential mention order
-def grab_sequential_mentions(report_dir: str, facility_data: dict):
-	sequential_data = {}
-
-	for file in tqdm(os.listdir(report_dir)):
-		day_mentions = []
-
-		file_path = os.path.join(report_dir, file)
-		with open(file_path, 'r') as f:
-			text = ("\n".join(f.readlines())).lower()
-		f.close()
-
-		for name, abbr in facility_data["facility_name_abbr"].items():
-			name_indices, abbr_indices = find_name_indices(name.lower(), text), find_name_indices(abbr.lower(), text)
-
-			if len(name_indices) != 0:
-				day_mentions.append((abbr, np.min(name_indices)))
-			elif len(abbr_indices) != 0:
-				day_mentions.append((abbr, np.min(abbr_indices)))
-
-		sequential_day_mentions = [facility[0] for facility in sorted(day_mentions)]
-
-		sequential_day_mentions_filtered = [facility for facility in sequential_day_mentions if not any(other_facility != facility and other_facility in facility for other_facility in sequential_day_mentions)]
-		
-		sequential_data[file.split(".")[0]] = sequential_day_mentions_filtered
-	
-	return sequential_data
-
 # Main method for finding mentions of facilities
 # Will return a boolean dataframe with a 1: mentioned that day, 0: not mentioned that day
-def grab_facility_mentions(report_dir, facility_data, filter=None, kernel_window=-1):
+def grab_facility_mentions(report_dir: str, facility_data, filter=None, kernel_window=-1):
 	facility_mentions = {}
 
 	for file in tqdm([file for file in os.listdir(report_dir) if ".DS" not in file]):
@@ -477,38 +411,6 @@ def grab_facility_mentions(report_dir, facility_data, filter=None, kernel_window
 		facility_mentions[file.split(".")[0]] = day_mentions
 	
 	return facility_mentions
-
-# Aggregates facilities mentions based on the agency the facility belongs to
-def grab_agency_category_mentions(mention_df: pd.DataFrame, facility_data):
-	agency_category_mentions = {}
-
-	total_facility_mentions = mention_df.sum()
-
-	# Associate totals with its respective agency
-	for index, facility in zip(total_facility_mentions.index, total_facility_mentions):
-		try:
-			agency = facility_data["facility_agency"][index]
-			category = facility_data["facility_category"][index]
-		except:
-			continue
-		
-		if agency not in agency_category_mentions:
-			agency_category_mentions[agency] = {}
-		elif category not in agency_category_mentions[agency]:
-			agency_category_mentions[agency][category] = facility
-		else:
-			agency_category_mentions[agency][category] += facility
-
-	df = pd.DataFrame.from_dict(agency_category_mentions).T
-
-	df.fillna(0, inplace=True)
-
-	for col in df.columns:
-		df[col] = df[col].astype(int)
-
-	print(df)
-
-	export_data(df, "./analysis/csv/agency_category_mentions.csv")
 
 def generate_custom_facility(custom_file: str):
 	categories = np.unique([category for category in pd.read_csv(custom_file)["ISSAP type"]])
@@ -690,7 +592,7 @@ def grab_archive_links():
 	return archive_reports
 
 # Deprecated: Old links and their reports no longer exist
-def get_archived_report(link):
+def get_archived_report(link: str):
 	page = requests.get(link)
 
 	soup = BeautifulSoup(page.content, 'html.parser')
@@ -729,7 +631,7 @@ def get_archived_report(link):
 	return {"text": filtered_report, "date": date}
 
 # Return the text content of a new report
-def get_new_report(link):
+def get_new_report(link: str):
 	page = requests.get(link)
 
 	soup = BeautifulSoup(page.content, 'html.parser')
@@ -757,11 +659,6 @@ def get_new_report(link):
 	completed_task_list_index = results.text.find("Completed Task List Activities:")
 
 	indices = [x for x in [look_ahead_index, three_day_index, completed_task_list_index] if x != -1]
-
-	# if look_ahead_index != -1 and three_day_index == -1:
-	# 	results_filtered = results.text[:look_ahead_index]
-	# elif three_day_index != -1:
-	# 	results_filtered = results.text[:three_day_index]
 
 	if len(indices) != 0:
 		results_filtered = results.text[:min(indices)]

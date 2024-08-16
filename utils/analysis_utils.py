@@ -8,7 +8,6 @@ from datetime import date
 from utils.mining_utils import generate_paragraph_apriori, export_data
 from utils.apriori_utils import apriori_from_list
 from tqdm import tqdm
-import json
 import shutil
 import re
 
@@ -35,20 +34,8 @@ def calc_facility_proportions(df: pd.DataFrame):
     df_days_used = df_days_used.sort_values(ascending=False)
 
     export_data(df_days_used, "./analysis/csv/facility_mention_day_proportion.csv")
-    
-    # Plotting Facility Frequencies
-    # for page, i in enumerate(range(0, df_days_used.shape[0]-10, 10)):
-    #     print(page)
-    #     plt.figure(figsize=(15, 5))
-    #     plt.bar(df_days_used.index[i:i+10], df_days_used.values[i:i+10])
-    #     plt.xlabel("Facility")
-    #     plt.ylabel("Frequency")
-    #     plt.title("Facility Mention Day Proportion")
-    #     plt.savefig(f"./analysis/plots/facility_mention_day_proportion_{page}.png")
-    #     plt.close()
 
     df_facility_prop = df.sum(numeric_only=True) / (df.sum(numeric_only=True).sum(numeric_only=True))
-
     df_facility_prop = df_facility_prop.sort_values(ascending=False)
 
     export_data(df_facility_prop, "./analysis/csv/facility_mention_total_proportion.csv")
@@ -93,7 +80,6 @@ def calc_facility_freq_year(df: pd.DataFrame):
 # Total facility mentions in a given year
 def calc_year_freq(df: pd.DataFrame):
     df_year = df.resample("Y", on="Report Date").sum()
-    print(df_year)
 
     if os.path.exists("./analysis/plots/Facility_Year_Mention") == False:
         os.makedirs("./analysis/plots/Facility_Year_Mention")
@@ -127,7 +113,6 @@ def calc_year_freq(df: pd.DataFrame):
 # Total facility mentions in a given year
 def calc_facility_freq_month(df: pd.DataFrame):
     df_month = df.resample("M", on="Report Date").sum()
-    print(df_month)
 
     export_data(df_month, "./analysis/csv/facility_monthly_frequency.csv")
 
@@ -157,7 +142,6 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
     export_data(df_category_mention_prop, "./analysis/csv/Total_Category_Mentions_Prop.csv")
     
     plt.figure(figsize=(25, 5))
-    print(df_category_mentions.values.shape)
     plt.bar(df_category_mentions.index[:-1], df_category_mentions.values.flatten()[:-1])
     plt.title("Total Category Mentions")
     plt.xlabel("Category")
@@ -191,7 +175,6 @@ def calc_total_category_mentions(facility_category: dict, df_range: pd.DataFrame
     export_data(df_category_mention_prop, "./analysis/csv/Total_Category_Mentions_Prop_Without_Exercise.csv")
     
     plt.figure(figsize=(25, 5))
-    print(df_category_mentions.values.shape)
     plt.bar(df_category_mentions.index[:-1], df_category_mentions.values.flatten()[:-1])
     plt.title("Total Category Mentions")
     plt.xlabel("Category")
@@ -466,7 +449,6 @@ def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame)
     export_data(df_category_mention_prop, "./analysis/csv/Total_Custom_Category_Mentions_Prop.csv")
     
     plt.figure(figsize=(25, 5))
-    print(df_category_mentions.values.shape)
     plt.bar(df_category_mentions.index[:-1], df_category_mentions.values.flatten()[:-1])
     plt.title("Total Custom Category Mentions")
     plt.xlabel("Category")
@@ -501,7 +483,6 @@ def calc_custom_category_mentions(facility_custom: dict, df_range: pd.DataFrame)
     export_data(df_category_mention_prop, "./analysis/csv/Total_Custom_Category_Mentions_Prop_Without_Exercise.csv")
     
     plt.figure(figsize=(25, 5))
-    print(df_category_mentions.values.shape)
     plt.bar(df_category_mentions.index[:-1], df_category_mentions.values.flatten()[:-1])
     plt.title("Total Custom Category Mentions Without Exercise")
     plt.xlabel("Category")
@@ -535,8 +516,6 @@ def calc_report_date_frequency(df_range: pd.DataFrame):
     report_week_type_df["Proportion"] = report_week_type_df["Report Count"] / report_week_type_df.shape[0]
 
     export_data(report_day_df, "./analysis/csv/Report_Day_Count.csv")
-
-    print(report_day_df)
     
     plt.figure(figsize=(10, 5))
     plt.title("Day of Report Proportion")
@@ -568,8 +547,6 @@ def aggregate_report_month():
             month = month[1]
 
         written_months[int(month)] += 1
-
-    print(written_months)
 
     export_data(written_months, "./analysis/json/written_months.json")
 
@@ -615,13 +592,10 @@ def calc_pair_distances(df_pairs: pd.DataFrame, facility_data: dict, save=False)
 
     df_pairs = df_pairs[df_pairs["length"] == 2]
 
-    print(df_pairs)
-
     for i in range(df_pairs.shape[0]):
         fset = str(df_pairs.iloc[i, 1])
         names = re.findall(r"'([^']*)'", fset)
         if names[0] in data and names[1] in data:
-            # print(f"{names} | Frequency: {df_pairs.iloc[i, 4]}")
             pair = [data[names[0]], data[names[1]]]
             if "ISS Truss" in pair:
                 dist_data.append(-1)
@@ -664,6 +638,7 @@ def calc_unique_pairs(facility_data: dict):
 
     if os.path.exists("./analysis/csv/apriori_pairs") == False:
         os.makedirs("./analysis/csv/apriori_pairs")
+        os.makedirs("./analysis/csv/apriori_pairs/custom_pairs")
     
     for pair_type in pair_types:
         if os.path.exists(f"./analysis/plots/pairs/{pair_type}"):
@@ -710,6 +685,11 @@ def calc_unique_pairs(facility_data: dict):
 
                 stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
                 stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
+                
+                if pair_type == "custom":
+                    apriori_data = apriori_data.sort_values(by="support", ascending=False)
+                    apriori_data.to_csv(f"./analysis/csv/apriori_pairs/custom_pairs/{pair_key}.csv")
+                
 
             for j in range(i + 1, len(data)):
                 pair = [data[i], data[j]]
@@ -739,10 +719,12 @@ def calc_unique_pairs(facility_data: dict):
                     stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
                     stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
 
+                    if pair_type == "custom":
+                        apriori_data = apriori_data.sort_values(by="support", ascending=False)
+                        apriori_data.to_csv(f"./analysis/csv/apriori_pairs/custom_pairs/{pair_key}.csv")
+
         type_pair_count = {k: v for k, v in sorted(type_pair_count.items(), key=lambda item: item[1], reverse=True)}
         type_pair_unique = {k: v for k, v in sorted(type_pair_unique.items(), key=lambda item: item[1], reverse=True)}
-
-        print(type_pair_count)
 
         export_data(type_pair_count, f"./analysis/json/{pair_type}_unique_pair_frequency.json")
         export_data(type_pair_unique, f"./analysis/json/{pair_type}_unique_pair.json")

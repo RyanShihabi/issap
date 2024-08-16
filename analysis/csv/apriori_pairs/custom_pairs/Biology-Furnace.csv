@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+525,0.0002639683238011439,"frozenset({'CGBA', 'CIR'})",2,3
+1378,8.798944126704795e-05,"frozenset({'BFF', 'ELF'})",2,1
+1558,8.798944126704795e-05,"frozenset({'Bioculture System', 'ELF'})",2,1

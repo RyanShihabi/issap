@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+762,0.0002639683238011439,"frozenset({'MSG', 'FIR'})",2,3
+1075,0.0001759788825340959,"frozenset({'MSG', 'FSL'})",2,2
+377,8.798944126704795e-05,"frozenset({'MSG', 'DECLIC'})",2,1

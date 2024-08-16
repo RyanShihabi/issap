@@ -36,6 +36,7 @@ def apriori_from_list(mention_list: list, facility_data: dict, file_name: str, p
     itemsets_df = itemsets_df.sort_values(by="frequency", ascending=False)
 
     itemsets_pair = itemsets_df[itemsets_df["length"] == 2]
+    itemsets_pair = itemsets_pair.sort_values(by="support", ascending=False)
     
     if len(pair) != 0:
         drop_idx = []
@@ -68,6 +69,7 @@ def apriori_from_list(mention_list: list, facility_data: dict, file_name: str, p
     
     if save:
         export_data(itemsets_df, f"./analysis/csv/apriori_itemsets{file_name}.csv")
+        export_data(itemsets_pair, f"./analysis/csv/apriori_pairs{file_name}.csv")
 
     return itemsets_df
 

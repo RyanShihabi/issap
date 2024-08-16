@@ -1,0 +1,7 @@
+,support,itemsets,length,frequency
+365,0.0011438627364716233,"frozenset({'MSG', 'EXPRESS Rack'})",2,12
+363,0.0002639683238011439,"frozenset({'CB', 'EXPRESS Rack'})",2,3
+1488,0.0001759788825340959,"frozenset({'CB', 'NanoRacks Platforms'})",2,2
+917,0.0001759788825340959,"frozenset({'KFT', 'MSPR'})",2,2
+922,8.798944126704795e-05,"frozenset({'EDR', 'KFT'})",2,1
+981,8.798944126704795e-05,"frozenset({'MSG', 'EDR'})",2,1

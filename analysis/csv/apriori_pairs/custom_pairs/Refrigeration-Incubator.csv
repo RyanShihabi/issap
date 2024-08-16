@@ -1,0 +1,9 @@
+,support,itemsets,length,frequency
+1356,0.0013198416190057193,"frozenset({'MELFI', 'SABL'})",2,15
+642,0.0007919049714034316,"frozenset({'MELFI', 'SALI'})",2,9
+1315,0.0007039155301363836,"frozenset({'MELFI', 'Kubik'})",2,8
+794,0.0006159260888693356,"frozenset({'SABL', 'MERLIN'})",2,7
+1216,0.0002639683238011439,"frozenset({'SABL', 'Double Coldbag'})",2,3
+839,0.0002639683238011439,"frozenset({'SABL', 'GLACIER'})",2,3
+1430,0.0001759788825340959,"frozenset({'SABL', 'FROST'})",2,2
+1318,0.0001759788825340959,"frozenset({'MERLIN', 'Kubik'})",2,2

@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+1183,0.0006159260888693356,"frozenset({'ABRS', 'Veggie'})",2,7
+430,8.798944126704795e-05,"frozenset({'Veggie', 'EMCS'})",2,1

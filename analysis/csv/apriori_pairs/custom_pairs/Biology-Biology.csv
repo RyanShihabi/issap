@@ -1,0 +1,10 @@
+,support,itemsets,length,frequency
+1403,0.0008798944126704796,"frozenset({'ADSEP', 'BFF'})",2,10
+286,0.0007039155301363836,"frozenset({'Spectrum', 'Rodent Research'})",2,8
+1406,0.0005279366476022878,"frozenset({'ADSEP', 'ADSEP-2'})",2,6
+1412,0.0005279366476022878,"frozenset({'ADSEP', 'CellCult'})",2,6
+663,0.0005279366476022878,"frozenset({'Saibo', 'MDS'})",2,6
+1301,8.798944126704795e-05,"frozenset({'CGBA', 'BRIC'})",2,1
+1551,8.798944126704795e-05,"frozenset({'ADSEP', 'Bioculture System'})",2,1
+1557,8.798944126704795e-05,"frozenset({'BFF', 'Bioculture System'})",2,1
+1478,8.798944126704795e-05,"frozenset({'Rodent Research', 'Fruit Fly Lab'})",2,1

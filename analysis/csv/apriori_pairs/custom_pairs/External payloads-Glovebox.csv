@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+649,8.798944126704795e-05,"frozenset({'CB', 'ELC'})",2,1
+646,8.798944126704795e-05,"frozenset({'MSG', 'ELC'})",2,1
+1504,8.798944126704795e-05,"frozenset({'CB', 'HSRC'})",2,1
+1540,8.798944126704795e-05,"frozenset({'CB', 'Nanoracks Airlock'})",2,1
