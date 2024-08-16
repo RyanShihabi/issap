@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-91,0.011986301369863013,"frozenset({'CGBA', 'EXPRESS Rack'})",2,28
-319,0.0008561643835616438,"frozenset({'CGBA', 'SLAMMD'})",2,2
-474,0.0008561643835616438,"frozenset({'Saibo', 'Ryutai'})",2,2
-442,0.0008561643835616438,"frozenset({'EXPRESS Rack', 'BSTC'})",2,2
-217,0.0008561643835616438,"frozenset({'CGBA', 'EDR'})",2,2

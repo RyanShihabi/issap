@@ -1,0 +1,66 @@
+,support,itemsets,length,frequency
+115,0.02773497688751926,"frozenset({'CIR', 'SoFIE'})",2,36
+113,0.015408320493066256,"frozenset({'MSPR', 'ELF'})",2,20
+125,0.01386748844375963,"frozenset({'HRF-1', 'Actiwatch'})",2,18
+146,0.012326656394453005,"frozenset({'EXPRESS Rack', 'AMF'})",2,16
+114,0.009244992295839754,"frozenset({'RC', 'NanoRacks CubeSat Deployer'})",2,12
+107,0.0061633281972265025,"frozenset({'LSG', 'MSG'})",2,8
+103,0.0061633281972265025,"frozenset({'ADSEP', 'BFF'})",2,8
+105,0.004622496147919877,"frozenset({'EDR', 'EML'})",2,6
+94,0.004622496147919877,"frozenset({'MSRR-1', 'SAMS-II'})",2,6
+109,0.004622496147919877,"frozenset({'Glovebox Freezer', 'LSG'})",2,6
+122,0.004622496147919877,"frozenset({'BRIC', 'MERLIN'})",2,6
+95,0.004622496147919877,"frozenset({'KERMIT', 'MSRR-1'})",2,6
+110,0.004622496147919877,"frozenset({'Glovebox Freezer', 'MSG'})",2,6
+148,0.004622496147919877,"frozenset({'KERMIT', 'SABL'})",2,6
+100,0.004622496147919877,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,6
+120,0.004622496147919877,"frozenset({'MELFI', 'MERLIN'})",2,6
+131,0.0030816640986132513,"frozenset({'CBEF', 'CB'})",2,4
+92,0.0030816640986132513,"frozenset({'Polar', 'MELFI'})",2,4
+93,0.0030816640986132513,"frozenset({'KERMIT', 'SAMS-II'})",2,4
+128,0.0030816640986132513,"frozenset({'SUBSA', 'MSG'})",2,4
+132,0.0030816640986132513,"frozenset({'CBEF', 'Saibo'})",2,4
+127,0.0030816640986132513,"frozenset({'Iceberg', 'BFF'})",2,4
+133,0.0030816640986132513,"frozenset({'CB', 'Saibo'})",2,4
+151,0.0030816640986132513,"frozenset({'CBEF', 'CBEF-L'})",2,4
+104,0.0030816640986132513,"frozenset({'ADSEP', 'ADSEP-2'})",2,4
+147,0.0030816640986132513,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,4
+119,0.0015408320493066256,"frozenset({'SALI', 'MELFI'})",2,2
+116,0.0015408320493066256,"frozenset({'MELFI', 'SABL'})",2,2
+112,0.0015408320493066256,"frozenset({'RC', 'Solar'})",2,2
+108,0.0015408320493066256,"frozenset({'LSG', 'SABL'})",2,2
+106,0.0015408320493066256,"frozenset({'MELFI', 'BFF'})",2,2
+101,0.0015408320493066256,"frozenset({'EPM', 'Portable Pulmonary Function System'})",2,2
+99,0.0015408320493066256,"frozenset({'EPM', 'PFS'})",2,2
+96,0.0015408320493066256,"frozenset({'MSRR-1', 'EXPRESS Rack'})",2,2
+117,0.0015408320493066256,"frozenset({'TELLAS', 'MSPR'})",2,2
+139,0.0015408320493066256,"frozenset({'IPU2', 'Saibo'})",2,2
+140,0.0015408320493066256,"frozenset({'CBEF', 'IPU2'})",2,2
+141,0.0015408320493066256,"frozenset({'IPU2', 'CB'})",2,2
+134,0.0015408320493066256,"frozenset({'CBEF-L', 'Saibo'})",2,2
+130,0.0015408320493066256,"frozenset({'NanoRacks External Platform', 'JEM-EF'})",2,2
+129,0.0015408320493066256,"frozenset({'J-SSOD', 'JEM-EF'})",2,2
+126,0.0015408320493066256,"frozenset({'MELFI', 'Iceberg'})",2,2
+123,0.0015408320493066256,"frozenset({'BRIC', 'MELFI'})",2,2
+121,0.0015408320493066256,"frozenset({'EXPRESS Rack', 'MERLIN'})",2,2
+118,0.0015408320493066256,"frozenset({'SALI', 'EXPRESS Rack'})",2,2
+157,0.0015408320493066256,"frozenset({'Faraday Research', 'EXPRESS Rack'})",2,2
+172,0.0015408320493066256,"frozenset({'PCRF', 'FPEF'})",2,2
+155,0.0015408320493066256,"frozenset({'LSG', 'BioServe Centrifuge'})",2,2
+154,0.0015408320493066256,"frozenset({'MERLIN', 'SCOF'})",2,2
+163,0.0015408320493066256,"frozenset({'IPU', 'SCOF'})",2,2
+162,0.0015408320493066256,"frozenset({'Ryutai', 'IPU'})",2,2
+161,0.0015408320493066256,"frozenset({'Ryutai', 'SCOF'})",2,2
+159,0.0015408320493066256,"frozenset({'MELFI', 'Double Coldbag'})",2,2
+158,0.0015408320493066256,"frozenset({'Polar', 'Double Coldbag'})",2,2
+156,0.0015408320493066256,"frozenset({'MSPR-2', 'ELF'})",2,2
+152,0.0015408320493066256,"frozenset({'CB', 'CBEF-L'})",2,2
+173,0.0015408320493066256,"frozenset({'PCRF', 'IPU'})",2,2
+165,0.0015408320493066256,"frozenset({'IPU', 'FPEF'})",2,2
+150,0.0015408320493066256,"frozenset({'Solar', 'GN2'})",2,2
+149,0.0015408320493066256,"frozenset({'KERMIT', 'EXPRESS Rack'})",2,2
+166,0.0015408320493066256,"frozenset({'Ryutai', 'FPEF'})",2,2
+167,0.0015408320493066256,"frozenset({'SCOF', 'FPEF'})",2,2
+175,0.0015408320493066256,"frozenset({'PCRF', 'SCOF'})",2,2
+174,0.0015408320493066256,"frozenset({'PCRF', 'Ryutai'})",2,2
+187,0.0015408320493066256,"frozenset({'ALTEA', 'LIDAL'})",2,2

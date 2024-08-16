@@ -1,0 +1,74 @@
+,support,itemsets,length,frequency
+89,0.02527075812274368,"frozenset({'LMM', 'FIR'})",2,27
+175,0.018050541516245487,"frozenset({'CBEF', 'CBEF-L'})",2,20
+137,0.018050541516245487,"frozenset({'CBEF', 'Saibo'})",2,20
+136,0.010830324909747292,"frozenset({'CBEF', 'CB'})",2,12
+138,0.010830324909747292,"frozenset({'CB', 'Saibo'})",2,12
+135,0.009025270758122744,"frozenset({'Veggie', 'MMD'})",2,10
+143,0.009025270758122744,"frozenset({'SlingShot', 'CB'})",2,10
+192,0.007220216606498195,"frozenset({'RC', 'NanoRacks CubeSat Deployer'})",2,8
+139,0.007220216606498195,"frozenset({'Saibo', 'CBEF-L'})",2,8
+142,0.007220216606498195,"frozenset({'ADSEP', 'BFF'})",2,8
+203,0.005415162454873646,"frozenset({'NanoRacks-extCygnus-NRCSD', 'RC'})",2,6
+96,0.005415162454873646,"frozenset({'RAM', 'ELC'})",2,6
+94,0.005415162454873646,"frozenset({'CB', 'MVP'})",2,6
+117,0.005415162454873646,"frozenset({'LSG', 'Rodent Research'})",2,6
+174,0.005415162454873646,"frozenset({'Spectrum', 'Rodent Research'})",2,6
+131,0.005415162454873646,"frozenset({'MELFI', 'GLACIER'})",2,6
+134,0.005415162454873646,"frozenset({'Rodent Research', 'MMD'})",2,6
+147,0.0036101083032490976,"frozenset({'Polar', 'GLACIER'})",2,4
+90,0.0036101083032490976,"frozenset({'MELFI', 'FIR'})",2,4
+88,0.0036101083032490976,"frozenset({'MELFI', 'LMM'})",2,4
+161,0.0036101083032490976,"frozenset({'MERLIN', 'GLACIER'})",2,4
+146,0.0036101083032490976,"frozenset({'Polar', 'MERLIN'})",2,4
+162,0.0036101083032490976,"frozenset({'MELFI', 'MERLIN'})",2,4
+201,0.0036101083032490976,"frozenset({'CB', 'Double Coldbag'})",2,4
+100,0.0036101083032490976,"frozenset({'CBEF', 'IPU'})",2,4
+204,0.0036101083032490976,"frozenset({'NanoRacks-extCygnus-NRCSD', 'NanoRacks CubeSat Deployer'})",2,4
+99,0.0036101083032490976,"frozenset({'IPU', 'CBEF-L'})",2,4
+98,0.0036101083032490976,"frozenset({'ELC', 'MISSE-FF'})",2,4
+148,0.0036101083032490976,"frozenset({'Polar', 'MELFI'})",2,4
+132,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'GLACIER'})",2,2
+119,0.0018050541516245488,"frozenset({'LSG', 'SABL'})",2,2
+118,0.0018050541516245488,"frozenset({'LSG', 'MSG'})",2,2
+112,0.0018050541516245488,"frozenset({'IPU', 'Ryutai'})",2,2
+110,0.0018050541516245488,"frozenset({'Ryutai', 'FPEF'})",2,2
+123,0.0018050541516245488,"frozenset({'SlingShot', 'ELF'})",2,2
+108,0.0018050541516245488,"frozenset({'IPU', 'FPEF'})",2,2
+107,0.0018050541516245488,"frozenset({'FPEF', 'SCOF'})",2,2
+106,0.0018050541516245488,"frozenset({'IPU', 'SCOF'})",2,2
+87,0.0018050541516245488,"frozenset({'CB', 'BFF'})",2,2
+101,0.0018050541516245488,"frozenset({'IPU', 'Saibo'})",2,2
+92,0.0018050541516245488,"frozenset({'RAM', 'EXPRESS Rack'})",2,2
+97,0.0018050541516245488,"frozenset({'MELFI', 'Rodent Research'})",2,2
+121,0.0018050541516245488,"frozenset({'MISSE-FF', 'JEM-EF'})",2,2
+122,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'Cryo Chiller'})",2,2
+124,0.0018050541516245488,"frozenset({'BFF', 'ELF'})",2,2
+93,0.0018050541516245488,"frozenset({'MELFI', 'EXPRESS Rack'})",2,2
+149,0.0018050541516245488,"frozenset({'Polar', 'EXPRESS Rack'})",2,2
+144,0.0018050541516245488,"frozenset({'SlingShot', 'BFF'})",2,2
+125,0.0018050541516245488,"frozenset({'CB', 'ELF'})",2,2
+120,0.0018050541516245488,"frozenset({'RC', 'JEM-EF'})",2,2
+163,0.0018050541516245488,"frozenset({'MERLIN', 'CB'})",2,2
+111,0.0018050541516245488,"frozenset({'Ryutai', 'SCOF'})",2,2
+95,0.0018050541516245488,"frozenset({'MELFI', 'MVP'})",2,2
+173,0.0018050541516245488,"frozenset({'NanoRacks External Platform', 'J-SSOD'})",2,2
+172,0.0018050541516245488,"frozenset({'Actiwatch', 'Actiwatch Spectrum'})",2,2
+171,0.0018050541516245488,"frozenset({'TangoLab-1', 'TangoLab-2'})",2,2
+170,0.0018050541516245488,"frozenset({'SUBSA', 'MSG'})",2,2
+169,0.0018050541516245488,"frozenset({'Solar', 'CB'})",2,2
+177,0.0018050541516245488,"frozenset({'Bioculture System', 'ELF'})",2,2
+164,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'MERLIN'})",2,2
+176,0.0018050541516245488,"frozenset({'ADSEP', 'Bioculture System'})",2,2
+180,0.0018050541516245488,"frozenset({'Bioculture System', 'CB'})",2,2
+178,0.0018050541516245488,"frozenset({'SlingShot', 'Bioculture System'})",2,2
+179,0.0018050541516245488,"frozenset({'Bioculture System', 'BFF'})",2,2
+202,0.0018050541516245488,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,2
+200,0.0018050541516245488,"frozenset({'Kubik', 'EDR'})",2,2
+199,0.0018050541516245488,"frozenset({'ALTEA', 'LIDAL'})",2,2
+197,0.0018050541516245488,"frozenset({'Glovebox Freezer', 'MSG'})",2,2
+196,0.0018050541516245488,"frozenset({'Glovebox Freezer', 'LSG'})",2,2
+195,0.0018050541516245488,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,2
+194,0.0018050541516245488,"frozenset({'Bone Densitometer', 'Rodent Research'})",2,2
+193,0.0018050541516245488,"frozenset({'PGB', 'MVP'})",2,2
+130,0.0018050541516245488,"frozenset({'Astrobee', 'SPHERES'})",2,2

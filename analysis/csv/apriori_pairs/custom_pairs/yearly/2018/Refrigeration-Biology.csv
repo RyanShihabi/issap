@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-84,0.01951219512195122,"frozenset({'MELFI', 'Rodent Research'})",2,24
-122,0.004878048780487805,"frozenset({'MELFI', 'NanoRacks Plate Reader'})",2,6
-154,0.0016260162601626016,"frozenset({'BioLab', 'MELFI'})",2,2
-161,0.0016260162601626016,"frozenset({'Bioculture System', 'MELFI'})",2,2

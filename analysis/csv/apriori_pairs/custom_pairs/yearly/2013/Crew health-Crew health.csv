@@ -1,7 +1,7 @@
 ,support,itemsets,length,frequency
-64,0.01729106628242075,"frozenset({'Holter', 'Actiwatch'})",2,12
-67,0.01440922190201729,"frozenset({'PFS', 'EPM'})",2,10
-53,0.01440922190201729,"frozenset({'Ultrasound', 'Ultrasound 2'})",2,10
+64,0.01729106628242075,"frozenset({'Actiwatch', 'Holter'})",2,12
+67,0.01440922190201729,"frozenset({'EPM', 'PFS'})",2,10
+53,0.01440922190201729,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,10
 55,0.005763688760806916,"frozenset({'Holter Monitor 2', 'Actiwatch Spectrum'})",2,3
-65,0.005763688760806916,"frozenset({'PFS', 'Portable Pulmonary Function System'})",2,3
+65,0.005763688760806916,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,3
 54,0.002881844380403458,"frozenset({'Holter', 'Actiwatch Spectrum'})",2,1

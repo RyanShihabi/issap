@@ -1,23 +1,23 @@
 ,support,itemsets,length,frequency
-132,0.10702054794520548,"frozenset({'Actiwatch', 'HRF-1'})",2,250
-141,0.029965753424657533,"frozenset({'PFS', 'Portable Pulmonary Function System'})",2,70
-224,0.02482876712328767,"frozenset({'Holter Monitor 2', 'Actiwatch'})",2,58
+132,0.10702054794520548,"frozenset({'HRF-1', 'Actiwatch'})",2,250
+141,0.029965753424657533,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,70
+224,0.02482876712328767,"frozenset({'Actiwatch', 'Holter Monitor 2'})",2,58
 220,0.017123287671232876,"frozenset({'EPM', 'Actiwatch'})",2,40
 225,0.017123287671232876,"frozenset({'EPM', 'Holter Monitor 2'})",2,40
 134,0.005136986301369863,"frozenset({'Holter', 'PFS'})",2,12
-423,0.003424657534246575,"frozenset({'Ultrasound', 'HRF-1'})",2,8
+423,0.003424657534246575,"frozenset({'HRF-1', 'Ultrasound'})",2,8
 424,0.0025684931506849314,"frozenset({'EPM', 'Ultrasound'})",2,6
-221,0.0025684931506849314,"frozenset({'PFS', 'EPM'})",2,6
-222,0.0025684931506849314,"frozenset({'Holter', 'EPM'})",2,6
+221,0.0025684931506849314,"frozenset({'EPM', 'PFS'})",2,6
+222,0.0025684931506849314,"frozenset({'EPM', 'Holter'})",2,6
 437,0.0017123287671232876,"frozenset({'Holter', 'HRF-2'})",2,4
 436,0.0017123287671232876,"frozenset({'PFS', 'HRF-2'})",2,4
-435,0.0017123287671232876,"frozenset({'HRF-2', 'EPM'})",2,4
+435,0.0017123287671232876,"frozenset({'EPM', 'HRF-2'})",2,4
 258,0.0017123287671232876,"frozenset({'ALTEA', 'UMS'})",2,4
-165,0.0008561643835616438,"frozenset({'TEPC', 'PCBA'})",2,2
+165,0.0008561643835616438,"frozenset({'PCBA', 'TEPC'})",2,2
 263,0.0008561643835616438,"frozenset({'ALTEA', 'Portable Pulmonary Function System'})",2,2
 264,0.0008561643835616438,"frozenset({'ALTEA', 'PFS'})",2,2
 265,0.0008561643835616438,"frozenset({'ALTEA', 'TEPC'})",2,2
 266,0.0008561643835616438,"frozenset({'ALTEA', 'PCBA'})",2,2
-143,0.0008561643835616438,"frozenset({'Holter', 'Portable Pulmonary Function System'})",2,2
+143,0.0008561643835616438,"frozenset({'Portable Pulmonary Function System', 'Holter'})",2,2
 349,0.0008561643835616438,"frozenset({'EPM', 'PCBA'})",2,2
-422,0.0008561643835616438,"frozenset({'Ultrasound', 'PCBA'})",2,2
+422,0.0008561643835616438,"frozenset({'PCBA', 'Ultrasound'})",2,2

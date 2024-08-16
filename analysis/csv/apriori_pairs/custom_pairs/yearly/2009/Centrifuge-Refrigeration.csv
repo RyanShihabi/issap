@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-125,0.02338709677419355,"frozenset({'MELFI', 'RC'})",2,58
+125,0.02338709677419355,"frozenset({'RC', 'MELFI'})",2,58
 116,0.012096774193548387,"frozenset({'CBEF', 'MELFI'})",2,30

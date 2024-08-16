@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-77,0.009836065573770493,"frozenset({'ADSEP-2', 'ADSEP'})",2,6
-76,0.006557377049180328,"frozenset({'BFF', 'ADSEP'})",2,4
+77,0.009836065573770493,"frozenset({'ADSEP', 'ADSEP-2'})",2,6
+76,0.006557377049180328,"frozenset({'ADSEP', 'BFF'})",2,4

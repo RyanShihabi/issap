@@ -1,8 +1,0 @@
-,support,itemsets,length,frequency
-95,0.006276150627615063,"frozenset({'CGBA', 'MERLIN'})",2,6
-111,0.006276150627615063,"frozenset({'CGBA', 'GLACIER'})",2,6
-73,0.006276150627615063,"frozenset({'CGBA', 'MELFI'})",2,6
-105,0.006276150627615063,"frozenset({'BRIC', 'MELFI'})",2,6
-87,0.0041841004184100415,"frozenset({'Saibo', 'MELFI'})",2,3
-89,0.0020920502092050207,"frozenset({'GLACIER', 'Saibo'})",2,1
-81,0.0020920502092050207,"frozenset({'MELFI', 'Aquatic Habitat'})",2,1

@@ -1,0 +1,41 @@
+,support,itemsets,length,frequency
+75,0.04918032786885246,"frozenset({'CIR', 'SoFIE'})",2,30
+78,0.019672131147540985,"frozenset({'MSPR', 'ELF'})",2,12
+80,0.013114754098360656,"frozenset({'CBEF', 'CBEF-L'})",2,8
+79,0.009836065573770493,"frozenset({'RC', 'NanoRacks CubeSat Deployer'})",2,6
+77,0.009836065573770493,"frozenset({'ADSEP', 'ADSEP-2'})",2,6
+84,0.009836065573770493,"frozenset({'RAM', 'ELC'})",2,6
+91,0.009836065573770493,"frozenset({'EDR', 'EML'})",2,6
+76,0.006557377049180328,"frozenset({'ADSEP', 'BFF'})",2,4
+73,0.006557377049180328,"frozenset({'MELFI', 'BFF'})",2,4
+89,0.006557377049180328,"frozenset({'HRF-1', 'Actiwatch'})",2,4
+81,0.003278688524590164,"frozenset({'CBEF', 'Confocal Microscope'})",2,2
+100,0.003278688524590164,"frozenset({'PCRF', 'FPEF'})",2,2
+87,0.003278688524590164,"frozenset({'Astrobee', 'ELC'})",2,2
+86,0.003278688524590164,"frozenset({'EXPRESS Rack', 'ELC'})",2,2
+85,0.003278688524590164,"frozenset({'ELC', 'Solar'})",2,2
+82,0.003278688524590164,"frozenset({'Confocal Microscope', 'CBEF-L'})",2,2
+69,0.003278688524590164,"frozenset({'Kubik', 'MERLIN'})",2,2
+74,0.003278688524590164,"frozenset({'RAM', 'Solar'})",2,2
+71,0.003278688524590164,"frozenset({'SABL', 'CB'})",2,2
+70,0.003278688524590164,"frozenset({'SABL', 'MERLIN'})",2,2
+107,0.003278688524590164,"frozenset({'IPU', 'FPEF'})",2,2
+68,0.003278688524590164,"frozenset({'MERLIN', 'BFF'})",2,2
+67,0.003278688524590164,"frozenset({'MERLIN', 'CB'})",2,2
+102,0.003278688524590164,"frozenset({'SCOF', 'FPEF'})",2,2
+92,0.003278688524590164,"frozenset({'CIR', 'Plant Habitat'})",2,2
+108,0.003278688524590164,"frozenset({'PCRF', 'IPU'})",2,2
+109,0.003278688524590164,"frozenset({'Ryutai', 'IPU'})",2,2
+110,0.003278688524590164,"frozenset({'IPU', 'SCOF'})",2,2
+101,0.003278688524590164,"frozenset({'Ryutai', 'FPEF'})",2,2
+93,0.003278688524590164,"frozenset({'BRIC', 'MELFI'})",2,2
+94,0.003278688524590164,"frozenset({'CB', 'Double Coldbag'})",2,2
+124,0.003278688524590164,"frozenset({'CBPD', 'EPM'})",2,2
+95,0.003278688524590164,"frozenset({'Nanoracks Airlock', 'CB'})",2,2
+96,0.003278688524590164,"frozenset({'Ryutai', 'SCOF'})",2,2
+97,0.003278688524590164,"frozenset({'PCRF', 'Ryutai'})",2,2
+123,0.003278688524590164,"frozenset({'EXPRESS Rack', 'MAMS'})",2,2
+122,0.003278688524590164,"frozenset({'HRF-1', 'SLAMMD'})",2,2
+90,0.003278688524590164,"frozenset({'EDR', 'EDR-2'})",2,2
+98,0.003278688524590164,"frozenset({'PCRF', 'SCOF'})",2,2
+125,0.003278688524590164,"frozenset({'HPA', 'Plant Habitat'})",2,2

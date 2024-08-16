@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+81,0.004032258064516129,"frozenset({'EXPRESS Rack', 'CGBA'})",2,4
+122,0.0020161290322580645,"frozenset({'PCRF', 'Ryutai'})",2,2
+163,0.0020161290322580645,"frozenset({'Wet Lab Kit', 'EXPRESS Rack'})",2,2
+157,0.0020161290322580645,"frozenset({'MSPR', 'Aquatic Habitat'})",2,2

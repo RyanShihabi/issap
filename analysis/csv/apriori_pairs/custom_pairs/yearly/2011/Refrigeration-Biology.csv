@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-410,0.003404255319148936,"frozenset({'MELFI', 'MDS'})",2,8
-408,0.002553191489361702,"frozenset({'Saibo', 'MELFI'})",2,6
-139,0.002553191489361702,"frozenset({'CGBA', 'MELFI'})",2,6

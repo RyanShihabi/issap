@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+80,0.004032258064516129,"frozenset({'CB', 'Saibo'})",2,10
+89,0.004032258064516129,"frozenset({'CGBA', 'MSG'})",2,10
+229,0.004032258064516129,"frozenset({'PGB', 'MDS'})",2,10
+105,0.0008064516129032258,"frozenset({'CB', 'MDS'})",2,2

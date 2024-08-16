@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+138,0.03659574468085106,"frozenset({'EXPRESS Rack', 'CGBA'})",2,86
+241,0.000851063829787234,"frozenset({'CGBA', 'SLAMMD'})",2,2
+404,0.000851063829787234,"frozenset({'PCRF', 'Ryutai'})",2,2
+313,0.000851063829787234,"frozenset({'EDR', 'CGBA'})",2,2

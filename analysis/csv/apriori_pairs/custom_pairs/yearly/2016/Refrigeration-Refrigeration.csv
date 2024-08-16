@@ -1,6 +1,6 @@
 ,support,itemsets,length,frequency
-105,0.0017605633802816902,"frozenset({'Double Coldbag', 'Polar'})",2,2
+105,0.0017605633802816902,"frozenset({'Polar', 'Double Coldbag'})",2,2
 106,0.0017605633802816902,"frozenset({'MERLIN', 'Double Coldbag'})",2,2
 108,0.0017605633802816902,"frozenset({'MELFI', 'Double Coldbag'})",2,2
-122,0.0017605633802816902,"frozenset({'MERLIN', 'MELFI'})",2,2
-104,0.0017605633802816902,"frozenset({'MELFI', 'Polar'})",2,2
+122,0.0017605633802816902,"frozenset({'MELFI', 'MERLIN'})",2,2
+104,0.0017605633802816902,"frozenset({'Polar', 'MELFI'})",2,2

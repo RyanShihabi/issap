@@ -1,6 +1,6 @@
 ,support,itemsets,length,frequency
 119,0.0015174506828528073,"frozenset({'BRIC', 'HRF-2'})",2,2
-211,0.0015174506828528073,"frozenset({'Spectrum', 'Actiwatch'})",2,2
-223,0.0015174506828528073,"frozenset({'Spectrum', 'Holter Monitor 2'})",2,2
-209,0.0015174506828528073,"frozenset({'Spectrum', 'Portable Pulmonary Function System'})",2,2
+211,0.0015174506828528073,"frozenset({'Actiwatch', 'Spectrum'})",2,2
+223,0.0015174506828528073,"frozenset({'Holter Monitor 2', 'Spectrum'})",2,2
+209,0.0015174506828528073,"frozenset({'Portable Pulmonary Function System', 'Spectrum'})",2,2
 210,0.0015174506828528073,"frozenset({'PFS', 'Spectrum'})",2,2

@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-105,0.0016260162601626016,"frozenset({'HSRC', 'RC'})",2,2
-121,0.0016260162601626016,"frozenset({'EXHAM', 'RC'})",2,2
+105,0.0016260162601626016,"frozenset({'RC', 'HSRC'})",2,2
+121,0.0016260162601626016,"frozenset({'RC', 'EXHAM'})",2,2

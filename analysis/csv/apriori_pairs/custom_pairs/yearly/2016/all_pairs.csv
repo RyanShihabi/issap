@@ -1,0 +1,77 @@
+,support,itemsets,length,frequency
+96,0.022887323943661973,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,26
+91,0.02112676056338028,"frozenset({'MSPR', 'ELF'})",2,24
+133,0.02112676056338028,"frozenset({'RC', 'NanoRacks CubeSat Deployer'})",2,24
+119,0.02112676056338028,"frozenset({'RC', 'MELFI'})",2,24
+71,0.01936619718309859,"frozenset({'Rodent Research', 'MSG'})",2,22
+86,0.017605633802816902,"frozenset({'Actiwatch', 'Holter'})",2,20
+73,0.017605633802816902,"frozenset({'Holter', 'Ultrasound'})",2,20
+78,0.008802816901408451,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,10
+160,0.008802816901408451,"frozenset({'CBEF', 'Saibo'})",2,10
+76,0.008802816901408451,"frozenset({'CBEF', 'MELFI'})",2,10
+142,0.007042253521126761,"frozenset({'CBEF', 'IPU'})",2,8
+132,0.007042253521126761,"frozenset({'ETC', 'MSL'})",2,8
+126,0.007042253521126761,"frozenset({'Veggie', 'MELFI'})",2,8
+151,0.007042253521126761,"frozenset({'SABL', 'CGBA'})",2,8
+95,0.00528169014084507,"frozenset({'ELC', 'SPHERES'})",2,6
+134,0.00528169014084507,"frozenset({'Holter', 'Actiwatch Spectrum'})",2,6
+137,0.00528169014084507,"frozenset({'Ryutai', 'FPEF'})",2,6
+135,0.00528169014084507,"frozenset({'Actiwatch', 'Actiwatch Spectrum'})",2,6
+90,0.00528169014084507,"frozenset({'CBEF', 'MSPR'})",2,6
+146,0.00528169014084507,"frozenset({'EMCS', 'ELC'})",2,6
+113,0.00528169014084507,"frozenset({'EXPRESS Rack', 'SABL'})",2,6
+102,0.00528169014084507,"frozenset({'Polar', 'EXPRESS Rack'})",2,6
+74,0.00528169014084507,"frozenset({'MELFI', 'Ultrasound'})",2,6
+154,0.0035211267605633804,"frozenset({'GN2', 'ELF'})",2,4
+69,0.0035211267605633804,"frozenset({'CIR', 'MWA'})",2,4
+79,0.0035211267605633804,"frozenset({'Ultrasound 2', 'PFS'})",2,4
+77,0.0035211267605633804,"frozenset({'LMM', 'FIR'})",2,4
+145,0.0035211267605633804,"frozenset({'EMCS', 'MELFI'})",2,4
+93,0.0035211267605633804,"frozenset({'EXPRESS Rack', 'ELC'})",2,4
+128,0.0035211267605633804,"frozenset({'Portable Pulmonary Function System', 'Ultrasound'})",2,4
+127,0.0035211267605633804,"frozenset({'Ultrasound 2', 'Portable Pulmonary Function System'})",2,4
+80,0.0035211267605633804,"frozenset({'PFS', 'Ultrasound'})",2,4
+138,0.0035211267605633804,"frozenset({'Ultrasound 2', 'Bone Densitometer'})",2,4
+139,0.0035211267605633804,"frozenset({'Bone Densitometer', 'Rodent Research'})",2,4
+98,0.0035211267605633804,"frozenset({'Ultrasound 2', 'Rodent Research'})",2,4
+97,0.0035211267605633804,"frozenset({'Ultrasound 2', 'Holter'})",2,4
+141,0.0035211267605633804,"frozenset({'IPU', 'FPEF'})",2,4
+157,0.0035211267605633804,"frozenset({'BRIC', 'MELFI'})",2,4
+147,0.0035211267605633804,"frozenset({'EMCS', 'EXPRESS Rack'})",2,4
+114,0.0035211267605633804,"frozenset({'SABL', 'MSG'})",2,4
+116,0.0017605633802816902,"frozenset({'J-SSOD', 'NanoRacks CubeSat Deployer'})",2,2
+105,0.0017605633802816902,"frozenset({'Polar', 'Double Coldbag'})",2,2
+106,0.0017605633802816902,"frozenset({'MERLIN', 'Double Coldbag'})",2,2
+107,0.0017605633802816902,"frozenset({'SABL', 'Double Coldbag'})",2,2
+108,0.0017605633802816902,"frozenset({'MELFI', 'Double Coldbag'})",2,2
+130,0.0017605633802816902,"frozenset({'PCRF', 'CBEF'})",2,2
+115,0.0017605633802816902,"frozenset({'MELFI', 'SABL'})",2,2
+122,0.0017605633802816902,"frozenset({'MELFI', 'MERLIN'})",2,2
+117,0.0017605633802816902,"frozenset({'RC', 'J-SSOD'})",2,2
+120,0.0017605633802816902,"frozenset({'EXPRESS Rack', 'MERLIN'})",2,2
+121,0.0017605633802816902,"frozenset({'SABL', 'MERLIN'})",2,2
+103,0.0017605633802816902,"frozenset({'Polar', 'CB'})",2,2
+124,0.0017605633802816902,"frozenset({'RC', 'NanoRacks External Platform'})",2,2
+125,0.0017605633802816902,"frozenset({'NanoRacks External Platform', 'JEM-EF'})",2,2
+75,0.0017605633802816902,"frozenset({'Wet Lab RNA SmartCycler', 'MELFI'})",2,2
+92,0.0017605633802816902,"frozenset({'RC', 'FIR'})",2,2
+104,0.0017605633802816902,"frozenset({'Polar', 'MELFI'})",2,2
+87,0.0017605633802816902,"frozenset({'EPM', 'Ultrasound'})",2,2
+101,0.0017605633802816902,"frozenset({'RAM', 'ELC'})",2,2
+100,0.0017605633802816902,"frozenset({'EXPRESS Rack', 'Rodent Research'})",2,2
+155,0.0017605633802816902,"frozenset({'MSPR', 'GN2'})",2,2
+159,0.0017605633802816902,"frozenset({'JAXA Mouse Habitat Unit', 'Polar'})",2,2
+161,0.0017605633802816902,"frozenset({'IPU', 'Saibo'})",2,2
+143,0.0017605633802816902,"frozenset({'MSPR', 'IPU'})",2,2
+158,0.0017605633802816902,"frozenset({'BRIC', 'EXPRESS Rack'})",2,2
+70,0.0017605633802816902,"frozenset({'Veggie', 'MWA'})",2,2
+149,0.0017605633802816902,"frozenset({'NanoRacks Platforms', 'MELFI'})",2,2
+150,0.0017605633802816902,"frozenset({'NanoRacks External Platform', 'NanoRacks Plate Reader'})",2,2
+152,0.0017605633802816902,"frozenset({'CGBA', 'MSG'})",2,2
+94,0.0017605633802816902,"frozenset({'CIR', 'ELC'})",2,2
+72,0.0017605633802816902,"frozenset({'MELFI', 'Rodent Research'})",2,2
+131,0.0017605633802816902,"frozenset({'PCRF', 'Ryutai'})",2,2
+89,0.0017605633802816902,"frozenset({'Kubik', 'MELFI'})",2,2
+88,0.0017605633802816902,"frozenset({'EPM', 'Holter'})",2,2
+85,0.0017605633802816902,"frozenset({'EDR', 'EML'})",2,2
+163,0.0017605633802816902,"frozenset({'CCE', 'MSPR'})",2,2

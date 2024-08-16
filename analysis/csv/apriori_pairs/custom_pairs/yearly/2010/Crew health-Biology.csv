@@ -1,7 +1,7 @@
 ,support,itemsets,length,frequency
-348,0.0017123287671232876,"frozenset({'CGBA', 'PCBA'})",2,4
-133,0.0017123287671232876,"frozenset({'CGBA', 'PFS'})",2,4
-163,0.0017123287671232876,"frozenset({'CGBA', 'TEPC'})",2,4
-81,0.0008561643835616438,"frozenset({'CGBA', 'Holter'})",2,2
-251,0.0008561643835616438,"frozenset({'CGBA', 'UMS'})",2,2
-142,0.0008561643835616438,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
+348,0.0017123287671232876,"frozenset({'PCBA', 'CGBA'})",2,4
+133,0.0017123287671232876,"frozenset({'PFS', 'CGBA'})",2,4
+163,0.0017123287671232876,"frozenset({'TEPC', 'CGBA'})",2,4
+81,0.0008561643835616438,"frozenset({'Holter', 'CGBA'})",2,2
+251,0.0008561643835616438,"frozenset({'UMS', 'CGBA'})",2,2
+142,0.0008561643835616438,"frozenset({'Portable Pulmonary Function System', 'CGBA'})",2,2

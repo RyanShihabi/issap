@@ -1,4 +1,4 @@
 ,support,itemsets,length,frequency
-103,0.0016260162601626016,"frozenset({'HRF-2', 'HRF-1'})",2,2
-160,0.0016260162601626016,"frozenset({'Actiwatch Spectrum', 'Actiwatch'})",2,2
-155,0.0016260162601626016,"frozenset({'PFS', 'Portable Pulmonary Function System'})",2,2
+103,0.0016260162601626016,"frozenset({'HRF-1', 'HRF-2'})",2,2
+160,0.0016260162601626016,"frozenset({'Actiwatch', 'Actiwatch Spectrum'})",2,2
+155,0.0016260162601626016,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,2

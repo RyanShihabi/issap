@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
 89,0.0020161290322580645,"frozenset({'EXPRESS Rack', 'Bone Densitometer'})",2,2
-72,0.0020161290322580645,"frozenset({'EXPRESS Rack', 'UMS'})",2,2
+72,0.0020161290322580645,"frozenset({'UMS', 'EXPRESS Rack'})",2,2

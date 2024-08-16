@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-140,0.0368763557483731,"frozenset({'CGBA', 'EXPRESS Rack'})",2,101
-229,0.0036153289949385392,"frozenset({'MSPR', 'Aquatic Habitat'})",2,10
-183,0.0014461315979754157,"frozenset({'EXPRESS Rack', 'NanoRacks Plate Reader'})",2,4
-248,0.0007230657989877079,"frozenset({'Ryutai', 'PCRF'})",2,2
-260,0.0007230657989877079,"frozenset({'Saibo', 'Ryutai'})",2,2

@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-228,0.010845986984815618,"frozenset({'MELFI', 'Aquatic Habitat'})",2,30
-235,0.0021691973969631237,"frozenset({'MELFI', 'MDS'})",2,6
-184,0.0007230657989877079,"frozenset({'NanoRacks Plate Reader', 'Polar'})",2,2

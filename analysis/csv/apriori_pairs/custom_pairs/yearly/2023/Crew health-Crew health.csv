@@ -1,6 +1,6 @@
 ,support,itemsets,length,frequency
-125,0.01386748844375963,"frozenset({'Actiwatch', 'HRF-1'})",2,18
-100,0.004622496147919877,"frozenset({'PFS', 'Portable Pulmonary Function System'})",2,6
-147,0.0030816640986132513,"frozenset({'Ultrasound', 'Ultrasound 2'})",2,4
+125,0.01386748844375963,"frozenset({'HRF-1', 'Actiwatch'})",2,18
+100,0.004622496147919877,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,6
+147,0.0030816640986132513,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,4
 101,0.0015408320493066256,"frozenset({'EPM', 'Portable Pulmonary Function System'})",2,2
-99,0.0015408320493066256,"frozenset({'PFS', 'EPM'})",2,2
+99,0.0015408320493066256,"frozenset({'EPM', 'PFS'})",2,2

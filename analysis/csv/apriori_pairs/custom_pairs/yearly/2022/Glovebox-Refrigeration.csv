@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+125,0.0015432098765432098,"frozenset({'MELFI', 'MSG'})",2,2
+101,0.0015432098765432098,"frozenset({'Glovebox Freezer', 'MSG'})",2,2
+99,0.0015432098765432098,"frozenset({'Glovebox Freezer', 'LSG'})",2,2

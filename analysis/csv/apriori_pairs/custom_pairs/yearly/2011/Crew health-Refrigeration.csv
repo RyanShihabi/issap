@@ -1,11 +1,11 @@
 ,support,itemsets,length,frequency
 127,0.015319148936170212,"frozenset({'MELFI', 'PCBA'})",2,36
-69,0.001702127659574468,"frozenset({'PFS', 'MELFI'})",2,4
-164,0.001702127659574468,"frozenset({'MERLIN', 'Portable Pulmonary Function System'})",2,4
+69,0.001702127659574468,"frozenset({'MELFI', 'PFS'})",2,4
+164,0.001702127659574468,"frozenset({'Portable Pulmonary Function System', 'MERLIN'})",2,4
 165,0.001702127659574468,"frozenset({'PFS', 'MERLIN'})",2,4
-152,0.000851063829787234,"frozenset({'EPM', 'MELFI'})",2,2
-142,0.000851063829787234,"frozenset({'Holter', 'MELFI'})",2,2
-190,0.000851063829787234,"frozenset({'UMS', 'MELFI'})",2,2
-202,0.000851063829787234,"frozenset({'MELFI', 'RAM'})",2,2
+152,0.000851063829787234,"frozenset({'MELFI', 'EPM'})",2,2
+142,0.000851063829787234,"frozenset({'MELFI', 'Holter'})",2,2
+190,0.000851063829787234,"frozenset({'MELFI', 'UMS'})",2,2
+202,0.000851063829787234,"frozenset({'RAM', 'MELFI'})",2,2
 114,0.000851063829787234,"frozenset({'MELFI', 'Actiwatch'})",2,2
 92,0.000851063829787234,"frozenset({'MELFI', 'Portable Pulmonary Function System'})",2,2

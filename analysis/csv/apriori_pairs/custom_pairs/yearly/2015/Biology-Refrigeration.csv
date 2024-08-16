@@ -1,0 +1,7 @@
+,support,itemsets,length,frequency
+84,0.012096774193548387,"frozenset({'MELFI', 'Rodent Research'})",2,12
+171,0.004032258064516129,"frozenset({'BRIC', 'MELFI'})",2,4
+164,0.0020161290322580645,"frozenset({'Wet Lab Kit', 'MELFI'})",2,2
+105,0.0020161290322580645,"frozenset({'MELFI', 'Saibo'})",2,2
+158,0.0020161290322580645,"frozenset({'MELFI', 'Aquatic Habitat'})",2,2
+77,0.0020161290322580645,"frozenset({'MELFI', 'Fruit Fly Lab'})",2,2

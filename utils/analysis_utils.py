@@ -638,6 +638,14 @@ def calc_yearly_custom_pairs(facility_data: dict):
         os.makedirs(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}")
         paragraph_year_list = generate_paragraph_apriori(pair_dict, "./sources/reports", (), year)
 
+        apriori_year_data = apriori_from_list(paragraph_year_list, facility_data, f"all_pairs_{year}")
+
+        apriori_year_pairs = apriori_year_data[apriori_year_data["length"] == 2]
+
+        apriori_year_pairs = apriori_year_pairs.sort_values(by="support", ascending=False)
+        
+        export_data(apriori_year_pairs, f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}/all_pairs.csv")
+
         data = list(set(facility_data[f"facility_{pair_type}"].values()))
 
         for i in tqdm(range(len(data))):

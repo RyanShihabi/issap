@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+130,0.017713365539452495,"frozenset({'Rodent Research', 'MSG'})",2,22
+246,0.004830917874396135,"frozenset({'Bioculture System', 'MSG'})",2,6
+114,0.00322061191626409,"frozenset({'CellCult', 'MSG'})",2,4
+275,0.001610305958132045,"frozenset({'CB', 'Saibo'})",2,2

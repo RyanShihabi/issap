@@ -1,0 +1,9 @@
+,support,itemsets,length,frequency
+177,0.008561643835616438,"frozenset({'KFT', 'MELFI'})",2,20
+148,0.0059931506849315065,"frozenset({'MELFI', 'CB'})",2,14
+327,0.005136986301369863,"frozenset({'CB', 'Double Coldbag'})",2,12
+126,0.005136986301369863,"frozenset({'MELFI', 'MSG'})",2,12
+489,0.0008561643835616438,"frozenset({'PGB', 'MELFI'})",2,2
+393,0.0008561643835616438,"frozenset({'CB', 'GLACIER'})",2,2
+200,0.0008561643835616438,"frozenset({'MERLIN', 'MSG'})",2,2
+201,0.0008561643835616438,"frozenset({'CB', 'MERLIN'})",2,2

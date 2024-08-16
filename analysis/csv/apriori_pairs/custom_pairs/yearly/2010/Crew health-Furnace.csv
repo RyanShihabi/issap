@@ -1,5 +1,5 @@
 ,support,itemsets,length,frequency
-161,0.0008561643835616438,"frozenset({'TEPC', 'CIR'})",2,2
-249,0.0008561643835616438,"frozenset({'UMS', 'CIR'})",2,2
-113,0.0008561643835616438,"frozenset({'MARES', 'CIR'})",2,2
-100,0.0008561643835616438,"frozenset({'Actiwatch', 'CIR'})",2,2
+161,0.0008561643835616438,"frozenset({'CIR', 'TEPC'})",2,2
+249,0.0008561643835616438,"frozenset({'CIR', 'UMS'})",2,2
+113,0.0008561643835616438,"frozenset({'CIR', 'MARES'})",2,2
+100,0.0008561643835616438,"frozenset({'CIR', 'Actiwatch'})",2,2

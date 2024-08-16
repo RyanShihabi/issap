@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-112,0.008051529790660225,"frozenset({'MELFI', 'CellCult'})",2,10
-111,0.004830917874396135,"frozenset({'MELFI', 'Rodent Research'})",2,6
-118,0.00322061191626409,"frozenset({'MELFI', 'ADSEP'})",2,4
-250,0.001610305958132045,"frozenset({'STaARS-1 EF', 'MERLIN'})",2,2

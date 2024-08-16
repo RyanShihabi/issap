@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
 71,0.005061460592913955,"frozenset({'EXPRESS Rack', 'DECLIC'})",2,14
-232,0.0007230657989877079,"frozenset({'FPEF', 'MSPR'})",2,2
+232,0.0007230657989877079,"frozenset({'MSPR', 'FPEF'})",2,2
