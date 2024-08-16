@@ -626,58 +626,44 @@ def calc_pair_distances(df_pairs: pd.DataFrame, facility_data: dict, save=False)
 
     return pair_distance_df
 
-def calc_yearly_custom_pairs(facility_data: dict):
+def calc_yearly_category_pairs(facility_data: dict):
     exclude_list = ['ARED', 'CEVIS', 'TVIS', 'COLBERT']
     pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
-    
-    pair_type = "custom"
-    
-    os.makedirs(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/")
+
+    pairs = {}
+    pairs_pd = {"Pair": [], "NASA Categories": [], "Custom Categories": []}
+
+    for year in range(2009, 2025):
+        pairs_pd[year] = []
     
     for year in tqdm(range(2009, 2025)):
-        os.makedirs(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}")
         paragraph_year_list = generate_paragraph_apriori(pair_dict, "./sources/reports", (), year)
 
         apriori_year_data = apriori_from_list(paragraph_year_list, facility_data, f"all_pairs_{year}")
 
         apriori_year_pairs = apriori_year_data[apriori_year_data["length"] == 2]
 
-        apriori_year_pairs = apriori_year_pairs.sort_values(by="support", ascending=False)
+        for i in range(apriori_year_pairs.shape[0]):
+            support = apriori_year_pairs.iloc[i, 0]
+            pair = sorted(list(apriori_year_pairs.iloc[i, 1]))
+            pair_text = "/".join(pair)
+
+            if pair_text not in pairs:
+                pairs[pair_text] = {year: support, "NASA Categories": f"{facility_data['facility_category'].get(pair[0], 'None')}/{facility_data['facility_category'].get(pair[1], 'None')}", "Custom Categories": f"{facility_data['facility_custom'][pair[0]]}/{facility_data['facility_custom'][pair[1]]}"}
+            else:
+                pairs[pair_text][year] = support
+
+    for pair in pairs:
+        pairs_pd["Pair"].append(pair)
+        pairs_pd["NASA Categories"].append(pairs[pair]["NASA Categories"])
+        pairs_pd["Custom Categories"].append(pairs[pair]["Custom Categories"])
+
+        for year in range(2009, 2025):
+            pairs_pd[year].append(pairs[pair].get(year, 0))
         
-        export_data(apriori_year_pairs, f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}/all_pairs.csv")
+    pairs_df = pd.DataFrame.from_dict(pairs_pd).set_index("Pair")
 
-        data = list(set(facility_data[f"facility_{pair_type}"].values()))
-
-        for i in tqdm(range(len(data))):
-            pair = [data[i], data[i]]
-            if data[i] == "":
-                continue
-
-            pair_key = "-".join(pair)
-            apriori_data = apriori_from_list(paragraph_year_list, facility_data, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
-
-            apriori_data["frequency"] = apriori_data["frequency"].astype(int)
-
-            if apriori_data.shape[0] > 1:
-                # stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
-                # stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
-                
-                apriori_data = apriori_data.sort_values(by="support", ascending=False)
-                apriori_data.to_csv(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}/{pair_key}.csv")
-
-            for j in range(i + 1, len(data)):
-                pair = [data[i], data[j]]
-                pair_key = "-".join(pair)
-                apriori_data = apriori_from_list(paragraph_year_list, facility_data, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
-
-                apriori_data["frequency"] = apriori_data["frequency"].astype(int)
-
-                if apriori_data.shape[0] > 1:
-                    # stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
-                    # stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
-
-                    apriori_data = apriori_data.sort_values(by="support", ascending=False)
-                    apriori_data.to_csv(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}/{pair_key}.csv")
+    export_data(pairs_df, f"./analysis/csv/apriori_pairs/yearly_category_pairs.csv")
 
 def calc_unique_pairs(facility_data: dict):
     if os.path.exists("./analysis/plots/pairs") == False:

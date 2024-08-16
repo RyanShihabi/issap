@@ -11,7 +11,7 @@ from utils.analysis_utils import (calc_facility_proportions,
                             calc_agency_usage_by_category,
                             calc_categories_by_year,
                             calc_custom_categories_by_year,
-                            calc_yearly_custom_pairs
+                            calc_yearly_category_pairs
                         )
 import os
 
@@ -42,4 +42,4 @@ def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_withou
     # calc_agency_usage_by_category(facility_data)
     # calc_pair_distances(apriori_df, facility_data, save=True)
     # calc_unique_pairs(facility_data)
-    calc_yearly_custom_pairs(facility_data)
+    calc_yearly_category_pairs(facility_data)
