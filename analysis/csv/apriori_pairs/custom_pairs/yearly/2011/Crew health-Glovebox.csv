@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+188,0.000851063829787234,"frozenset({'CB', 'UMS'})",2,2
+323,0.000851063829787234,"frozenset({'ALTEA', 'MSG'})",2,2
+74,0.000851063829787234,"frozenset({'PFS', 'CB'})",2,2
+88,0.000851063829787234,"frozenset({'MSG', 'Portable Pulmonary Function System'})",2,2
+73,0.000851063829787234,"frozenset({'PFS', 'MSG'})",2,2

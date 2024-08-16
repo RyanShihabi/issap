@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+237,0.0016129032258064516,"frozenset({'DECLIC', 'MDS'})",2,4
+357,0.0008064516129032258,"frozenset({'PCRF', 'FPEF'})",2,2

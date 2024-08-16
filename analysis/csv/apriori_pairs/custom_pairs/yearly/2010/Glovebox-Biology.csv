@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+93,0.0025684931506849314,"frozenset({'CGBA', 'MSG'})",2,6
+445,0.0017123287671232876,"frozenset({'Saibo', 'CB'})",2,4
+154,0.0008561643835616438,"frozenset({'MSG', 'PCRF'})",2,2
+95,0.0008561643835616438,"frozenset({'CGBA', 'CB'})",2,2
+181,0.0008561643835616438,"frozenset({'CGBA', 'KFT'})",2,2

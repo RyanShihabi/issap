@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+142,0.007220216606498195,"frozenset({'BFF', 'ADSEP'})",2,8
+174,0.005415162454873646,"frozenset({'Spectrum', 'Rodent Research'})",2,6
+176,0.0018050541516245488,"frozenset({'Bioculture System', 'ADSEP'})",2,2
+179,0.0018050541516245488,"frozenset({'Bioculture System', 'BFF'})",2,2

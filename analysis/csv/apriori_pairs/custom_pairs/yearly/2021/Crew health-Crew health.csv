@@ -1,0 +1,14 @@
+,support,itemsets,length,frequency
+201,0.0030349013657056147,"frozenset({'PFS', 'Portable Pulmonary Function System'})",2,4
+162,0.0015174506828528073,"frozenset({'PFS', 'EPM'})",2,2
+161,0.0015174506828528073,"frozenset({'PFS', 'Actiwatch'})",2,2
+160,0.0015174506828528073,"frozenset({'PFS', 'HRF-1'})",2,2
+113,0.0015174506828528073,"frozenset({'Actiwatch', 'HRF-1'})",2,2
+111,0.0015174506828528073,"frozenset({'Bio-Monitor', 'Bio-Analyzer'})",2,2
+200,0.0015174506828528073,"frozenset({'HRF-2', 'Portable Pulmonary Function System'})",2,2
+202,0.0015174506828528073,"frozenset({'Portable Pulmonary Function System', 'Actiwatch'})",2,2
+203,0.0015174506828528073,"frozenset({'EPM', 'Portable Pulmonary Function System'})",2,2
+227,0.0015174506828528073,"frozenset({'Holter Monitor 2', 'Actiwatch'})",2,2
+225,0.0015174506828528073,"frozenset({'Holter Monitor 2', 'Portable Pulmonary Function System'})",2,2
+226,0.0015174506828528073,"frozenset({'PFS', 'Holter Monitor 2'})",2,2
+105,0.0015174506828528073,"frozenset({'HRF-2', 'Actiwatch'})",2,2

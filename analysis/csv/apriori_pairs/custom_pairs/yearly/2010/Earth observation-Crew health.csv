@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+108,0.004280821917808219,"frozenset({'WORF', 'MARES'})",2,10
+231,0.0008561643835616438,"frozenset({'WORF', 'PFS'})",2,2

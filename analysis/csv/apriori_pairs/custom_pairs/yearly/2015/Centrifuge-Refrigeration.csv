@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+70,0.016129032258064516,"frozenset({'CBEF', 'MELFI'})",2,16
+71,0.008064516129032258,"frozenset({'CBEF', 'MERLIN'})",2,8
+153,0.0020161290322580645,"frozenset({'CBEF', 'FROST'})",2,2

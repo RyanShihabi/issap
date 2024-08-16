@@ -1,0 +1,9 @@
+,support,itemsets,length,frequency
+122,0.002553191489361702,"frozenset({'Spectrum', 'Actiwatch'})",2,6
+145,0.000851063829787234,"frozenset({'CGBA', 'Holter'})",2,2
+150,0.000851063829787234,"frozenset({'CGBA', 'EPM'})",2,2
+124,0.000851063829787234,"frozenset({'HRF-2', 'Spectrum'})",2,2
+123,0.000851063829787234,"frozenset({'Spectrum', 'Holter Monitor 2'})",2,2
+91,0.000851063829787234,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
+345,0.000851063829787234,"frozenset({'CGBA', 'Ultrasound 2'})",2,2
+75,0.000851063829787234,"frozenset({'CGBA', 'PFS'})",2,2

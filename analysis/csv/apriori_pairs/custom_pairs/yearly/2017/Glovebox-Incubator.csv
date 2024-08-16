@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+164,0.01288244766505636,"frozenset({'MSG', 'SABL'})",2,16
+166,0.00322061191626409,"frozenset({'CB', 'SABL'})",2,4

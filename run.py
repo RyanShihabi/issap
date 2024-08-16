@@ -6,7 +6,7 @@ from utils.facility_graph_utils import upload_facility_itemsets
 # Collect data regarding facilities and days of mentions
 facility_data, facility_mentions, mentions_df = run_mining()
 
-# ?Retrieve frequent itemset data
+# Retrieve frequent itemset data
 apriori_df, apriori_without_exercise_df = run_apriori(facility_data)
 
 # Analysis on facility mentions and frequent itemsets

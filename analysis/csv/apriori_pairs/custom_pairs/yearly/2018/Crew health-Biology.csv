@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+104,0.0032520325203252032,"frozenset({'Bone Densitometer', 'Rodent Research'})",2,4
+142,0.0032520325203252032,"frozenset({'MMD', 'Rodent Research'})",2,4
+151,0.0016260162601626016,"frozenset({'BRIC', 'HRF-2'})",2,2

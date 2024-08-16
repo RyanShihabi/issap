@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+132,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'GLACIER'})",2,2
+122,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'Cryo Chiller'})",2,2
+93,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'MELFI'})",2,2
+149,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'Polar'})",2,2
+164,0.0018050541516245488,"frozenset({'EXPRESS Rack', 'MERLIN'})",2,2

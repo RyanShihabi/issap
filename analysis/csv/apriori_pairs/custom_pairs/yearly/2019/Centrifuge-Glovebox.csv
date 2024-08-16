@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+136,0.010830324909747292,"frozenset({'CBEF', 'CB'})",2,12
+94,0.005415162454873646,"frozenset({'CB', 'MVP'})",2,6
+193,0.0018050541516245488,"frozenset({'PGB', 'MVP'})",2,2

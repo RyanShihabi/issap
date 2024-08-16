@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+197,0.0008561643835616438,"frozenset({'MERLIN', 'CIR'})",2,2
+101,0.0008561643835616438,"frozenset({'MELFI', 'CIR'})",2,2
+254,0.0008561643835616438,"frozenset({'MSL', 'MELFI'})",2,2

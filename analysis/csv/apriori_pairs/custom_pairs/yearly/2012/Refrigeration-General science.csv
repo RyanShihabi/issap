@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+144,0.007953723788864787,"frozenset({'SLAMMD', 'MELFI'})",2,22
+223,0.0036153289949385392,"frozenset({'EXPRESS Rack', 'GLACIER'})",2,10
+141,0.0014461315979754157,"frozenset({'MELFI', 'MSPR'})",2,4
+69,0.0007230657989877079,"frozenset({'EXPRESS Rack', 'MELFI'})",2,2
+216,0.0007230657989877079,"frozenset({'EXPRESS Rack', 'Polar'})",2,2

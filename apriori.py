@@ -1,6 +1,5 @@
 from utils.mining_utils import (generate_paragraph_apriori)
 from utils.apriori_utils import (apriori_from_list, association_from_apriori)
-import matplotlib.pyplot as plt
 
 def run_apriori(facility_data):
     exclude_list = ['ARED', 'CEVIS', 'TVIS', 'COLBERT']

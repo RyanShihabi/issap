@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+88,0.004032258064516129,"frozenset({'MSG', 'Bone Densitometer'})",2,4
+160,0.0020161290322580645,"frozenset({'CB', 'RAM'})",2,2

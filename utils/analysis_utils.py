@@ -626,6 +626,51 @@ def calc_pair_distances(df_pairs: pd.DataFrame, facility_data: dict, save=False)
 
     return pair_distance_df
 
+def calc_yearly_custom_pairs(facility_data: dict):
+    exclude_list = ['ARED', 'CEVIS', 'TVIS', 'COLBERT']
+    pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
+    
+    pair_type = "custom"
+    
+    os.makedirs(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/")
+    
+    for year in tqdm(range(2009, 2025)):
+        os.makedirs(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}")
+        paragraph_year_list = generate_paragraph_apriori(pair_dict, "./sources/reports", (), year)
+
+        data = list(set(facility_data[f"facility_{pair_type}"].values()))
+
+        for i in tqdm(range(len(data))):
+            pair = [data[i], data[i]]
+            if data[i] == "":
+                continue
+
+            pair_key = "-".join(pair)
+            apriori_data = apriori_from_list(paragraph_year_list, facility_data, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+
+            apriori_data["frequency"] = apriori_data["frequency"].astype(int)
+
+            if apriori_data.shape[0] > 1:
+                # stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
+                # stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
+                
+                apriori_data = apriori_data.sort_values(by="support", ascending=False)
+                apriori_data.to_csv(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}/{pair_key}.csv")
+
+            for j in range(i + 1, len(data)):
+                pair = [data[i], data[j]]
+                pair_key = "-".join(pair)
+                apriori_data = apriori_from_list(paragraph_year_list, facility_data, f"{pair_type}/{'-'.join(pair)}", pair_type, pair)
+
+                apriori_data["frequency"] = apriori_data["frequency"].astype(int)
+
+                if apriori_data.shape[0] > 1:
+                    # stats = apriori_data.describe().loc[["min", "mean", "std", "max"], ["frequency", "support"]].T
+                    # stats.to_csv(f"./analysis/csv/apriori_pairs/pair_stats/{pair_type}/{pair_key}.csv")
+
+                    apriori_data = apriori_data.sort_values(by="support", ascending=False)
+                    apriori_data.to_csv(f"./analysis/csv/apriori_pairs/custom_pairs/yearly/{year}/{pair_key}.csv")
+
 def calc_unique_pairs(facility_data: dict):
     if os.path.exists("./analysis/plots/pairs") == False:
         os.makedirs("./analysis/plots/pairs")
@@ -639,6 +684,7 @@ def calc_unique_pairs(facility_data: dict):
     if os.path.exists("./analysis/csv/apriori_pairs") == False:
         os.makedirs("./analysis/csv/apriori_pairs")
         os.makedirs("./analysis/csv/apriori_pairs/custom_pairs")
+        os.makedirs("./analysis/csv/apriori_pairs/custom_pairs/yearly")
     
     for pair_type in pair_types:
         if os.path.exists(f"./analysis/plots/pairs/{pair_type}"):
@@ -689,7 +735,6 @@ def calc_unique_pairs(facility_data: dict):
                 if pair_type == "custom":
                     apriori_data = apriori_data.sort_values(by="support", ascending=False)
                     apriori_data.to_csv(f"./analysis/csv/apriori_pairs/custom_pairs/{pair_key}.csv")
-                
 
             for j in range(i + 1, len(data)):
                 pair = [data[i], data[j]]

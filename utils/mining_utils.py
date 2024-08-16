@@ -127,7 +127,7 @@ def overlapping_lists(list1: list, list2: list):
 	return result1, result2
 
 # Paragraph facility mention list for Apriori input
-def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple):
+def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple, filter_year: int = -1,):
 	dataset = []
 	facility_names = []
 
@@ -137,8 +137,12 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 
 	facility_names = list(set(facility_names))
 
-	archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
-	new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
+	if filter_year == -1:
+		archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
+		new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
+	else:
+		archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) == filter_year]
+		new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) == filter_year]
 
 	for report in tqdm(archive_reports):
 		file_path = os.path.join(report_dir, report)

@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+249,0.00322061191626409,"frozenset({'TangoLab-2', 'TangoLab-1'})",2,4
+200,0.00322061191626409,"frozenset({'EXPRESS Rack', 'TangoLab-1'})",2,4
+194,0.001610305958132045,"frozenset({'GN2', 'MSPR'})",2,2

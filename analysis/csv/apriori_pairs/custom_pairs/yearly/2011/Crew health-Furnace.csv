@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+216,0.000851063829787234,"frozenset({'Holter', 'MSL'})",2,2
+215,0.000851063829787234,"frozenset({'PFS', 'MSL'})",2,2
+341,0.000851063829787234,"frozenset({'TEPC', 'MSL'})",2,2

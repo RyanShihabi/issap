@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+86,0.006276150627615063,"frozenset({'Saibo', 'CBEF'})",2,6
+113,0.0020920502092050207,"frozenset({'CBEF', 'PCRF'})",2,1

@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+271,0.021774193548387097,"frozenset({'SLAMMD', 'PCBA'})",2,54
+281,0.0024193548387096775,"frozenset({'EXPRESS Rack', 'UMS'})",2,6
+166,0.0016129032258064516,"frozenset({'EXPRESS Rack', 'PFS'})",2,4
+183,0.0016129032258064516,"frozenset({'EXPRESS Rack', 'Portable Pulmonary Function System'})",2,4
+128,0.0008064516129032258,"frozenset({'EXPRESS Rack', 'ALTEA'})",2,2

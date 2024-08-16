@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+85,0.016129032258064516,"frozenset({'MSG', 'Rodent Research'})",2,16
+80,0.006048387096774193,"frozenset({'CGBA', 'MSG'})",2,6
+104,0.0020161290322580645,"frozenset({'Saibo', 'CB'})",2,2

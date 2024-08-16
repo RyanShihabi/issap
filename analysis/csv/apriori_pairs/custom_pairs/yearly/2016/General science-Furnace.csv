@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+91,0.02112676056338028,"frozenset({'MSPR', 'ELF'})",2,24
+154,0.0035211267605633804,"frozenset({'GN2', 'ELF'})",2,4

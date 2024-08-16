@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+200,0.0014461315979754157,"frozenset({'Spectrum', 'Actiwatch'})",2,4
+199,0.0014461315979754157,"frozenset({'Holter', 'Spectrum'})",2,4
+201,0.0007230657989877079,"frozenset({'Spectrum', 'Actiwatch Spectrum'})",2,2

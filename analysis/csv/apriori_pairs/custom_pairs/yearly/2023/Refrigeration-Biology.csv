@@ -1,0 +1,5 @@
+,support,itemsets,length,frequency
+122,0.004622496147919877,"frozenset({'BRIC', 'MERLIN'})",2,6
+127,0.0030816640986132513,"frozenset({'BFF', 'Iceberg'})",2,4
+106,0.0015408320493066256,"frozenset({'BFF', 'MELFI'})",2,2
+123,0.0015408320493066256,"frozenset({'BRIC', 'MELFI'})",2,2

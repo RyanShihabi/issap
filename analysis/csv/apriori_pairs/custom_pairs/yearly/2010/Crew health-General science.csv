@@ -1,0 +1,10 @@
+,support,itemsets,length,frequency
+347,0.009417808219178082,"frozenset({'SLAMMD', 'PCBA'})",2,22
+216,0.0059931506849315065,"frozenset({'EDR', 'EPM'})",2,14
+318,0.005136986301369863,"frozenset({'Holter', 'SLAMMD'})",2,12
+162,0.0008561643835616438,"frozenset({'EXPRESS Rack', 'TEPC'})",2,2
+253,0.0008561643835616438,"frozenset({'EXPRESS Rack', 'UMS'})",2,2
+257,0.0008561643835616438,"frozenset({'EXPRESS Rack', 'ALTEA'})",2,2
+82,0.0008561643835616438,"frozenset({'Holter', 'EXPRESS Rack'})",2,2
+167,0.0008561643835616438,"frozenset({'TEPC', 'EDR'})",2,2
+110,0.0008561643835616438,"frozenset({'EXPRESS Rack', 'MARES'})",2,2

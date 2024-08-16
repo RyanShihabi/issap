@@ -10,7 +10,8 @@ from utils.analysis_utils import (calc_facility_proportions,
                             calc_category_usage_by_agency,
                             calc_agency_usage_by_category,
                             calc_categories_by_year,
-                            calc_custom_categories_by_year
+                            calc_custom_categories_by_year,
+                            calc_yearly_custom_pairs
                         )
 import os
 
@@ -28,16 +29,17 @@ def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_withou
         os.makedirs("./analysis/plots")
 
     facility_mentions_df = facility_mentions_df.reset_index().rename(columns={"index": "Report Date"})
-    calc_facility_proportions(facility_mentions_df)
-    calc_facility_freq_year(facility_mentions_df)
-    calc_categories_by_year(facility_data["category_facilities"], facility_mentions_df)
-    calc_custom_categories_by_year(facility_data["custom_facilities"], facility_mentions_df)
-    calc_total_category_mentions(facility_data["category_facilities"], facility_mentions_df)
-    calc_custom_category_mentions(facility_data["custom_facilities"], facility_mentions_df)
-    calc_report_date_frequency(facility_mentions_df)
-    aggregate_report_month()
-    calc_yearly_category_mentions(facility_data["category_facilities"], facility_mentions_df)
-    calc_category_usage_by_agency(facility_data)
-    calc_agency_usage_by_category(facility_data)
-    calc_pair_distances(apriori_df, facility_data, save=True)
-    calc_unique_pairs(facility_data)
+    # calc_facility_proportions(facility_mentions_df)
+    # calc_facility_freq_year(facility_mentions_df)
+    # calc_categories_by_year(facility_data["category_facilities"], facility_mentions_df)
+    # calc_custom_categories_by_year(facility_data["custom_facilities"], facility_mentions_df)
+    # calc_total_category_mentions(facility_data["category_facilities"], facility_mentions_df)
+    # calc_custom_category_mentions(facility_data["custom_facilities"], facility_mentions_df)
+    # calc_report_date_frequency(facility_mentions_df)
+    # aggregate_report_month()
+    # calc_yearly_category_mentions(facility_data["category_facilities"], facility_mentions_df)
+    # calc_category_usage_by_agency(facility_data)
+    # calc_agency_usage_by_category(facility_data)
+    # calc_pair_distances(apriori_df, facility_data, save=True)
+    # calc_unique_pairs(facility_data)
+    calc_yearly_custom_pairs(facility_data)

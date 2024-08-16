@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+63,0.004032258064516129,"frozenset({'Veggie', 'MELFI'})",2,4
+133,0.004032258064516129,"frozenset({'GLACIER', 'ABRS'})",2,4
+112,0.004032258064516129,"frozenset({'Veggie', 'GLACIER'})",2,4

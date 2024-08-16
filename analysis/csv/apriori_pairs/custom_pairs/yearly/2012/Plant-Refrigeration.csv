@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+98,0.0007230657989877079,"frozenset({'GLACIER', 'EMCS'})",2,2
+99,0.0007230657989877079,"frozenset({'EMCS', 'MELFI'})",2,2
