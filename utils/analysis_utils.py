@@ -630,13 +630,15 @@ def calc_yearly_category_pairs(facility_data: dict):
     exclude_list = ['ARED', 'CEVIS', 'TVIS', 'COLBERT']
     pair_dict = {name: abbr for name, abbr in facility_data["facility_name_abbr"].items() if (abbr not in exclude_list)}
 
-    pairs = {}
-    pairs_pd = {"Pair": [], "NASA Categories": [], "Custom Categories": []}
-
-    for year in range(2009, 2025):
-        pairs_pd[year] = []
+    pairs_support = {}
+    pairs_frequency = {}
+    pairs_support_pd = {"Pair": [], "NASA Categories": [], "Custom Categories": []}
+    pairs_frequency_pd = {"Pair": [], "NASA Categories": [], "Custom Categories": []}
     
     for year in tqdm(range(2009, 2025)):
+        pairs_support_pd[year] = []
+        pairs_frequency_pd[year] = []
+
         paragraph_year_list = generate_paragraph_apriori(pair_dict, "./sources/reports", (), year)
 
         apriori_year_data = apriori_from_list(paragraph_year_list, facility_data, f"all_pairs_{year}")
@@ -645,25 +647,35 @@ def calc_yearly_category_pairs(facility_data: dict):
 
         for i in range(apriori_year_pairs.shape[0]):
             support = apriori_year_pairs.iloc[i, 0]
+            frequency = apriori_year_pairs.iloc[i, 3]
             pair = sorted(list(apriori_year_pairs.iloc[i, 1]))
             pair_text = "/".join(pair)
 
-            if pair_text not in pairs:
-                pairs[pair_text] = {year: support, "NASA Categories": f"{facility_data['facility_category'].get(pair[0], 'None')}/{facility_data['facility_category'].get(pair[1], 'None')}", "Custom Categories": f"{facility_data['facility_custom'][pair[0]]}/{facility_data['facility_custom'][pair[1]]}"}
+            if pair_text not in pairs_support:
+                pairs_support[pair_text] = {year: support, "NASA Categories": f"{facility_data['facility_category'].get(pair[0], 'None')}/{facility_data['facility_category'].get(pair[1], 'None')}", "Custom Categories": f"{facility_data['facility_custom'][pair[0]]}/{facility_data['facility_custom'][pair[1]]}"}
+                pairs_frequency[pair_text] = {year: frequency, "NASA Categories": f"{facility_data['facility_category'].get(pair[0], 'None')}/{facility_data['facility_category'].get(pair[1], 'None')}", "Custom Categories": f"{facility_data['facility_custom'][pair[0]]}/{facility_data['facility_custom'][pair[1]]}"}
             else:
-                pairs[pair_text][year] = support
+                pairs_support[pair_text][year] = support
+                pairs_frequency[pair_text][year] = frequency
 
-    for pair in pairs:
-        pairs_pd["Pair"].append(pair)
-        pairs_pd["NASA Categories"].append(pairs[pair]["NASA Categories"])
-        pairs_pd["Custom Categories"].append(pairs[pair]["Custom Categories"])
+    for pair in pairs_support:
+        pairs_support_pd["Pair"].append(pair)
+        pairs_support_pd["NASA Categories"].append(pairs_support[pair]["NASA Categories"])
+        pairs_support_pd["Custom Categories"].append(pairs_support[pair]["Custom Categories"])
+
+        pairs_frequency_pd["Pair"].append(pair)
+        pairs_frequency_pd["NASA Categories"].append(pairs_frequency[pair]["NASA Categories"])
+        pairs_frequency_pd["Custom Categories"].append(pairs_frequency[pair]["Custom Categories"])
 
         for year in range(2009, 2025):
-            pairs_pd[year].append(pairs[pair].get(year, 0))
+            pairs_support_pd[year].append(pairs_support[pair].get(year, 0))
+            pairs_frequency_pd[year].append(pairs_frequency[pair].get(year, 0))
         
-    pairs_df = pd.DataFrame.from_dict(pairs_pd).set_index("Pair")
+    pairs_support_df = pd.DataFrame.from_dict(pairs_support_pd).set_index("Pair")
+    pairs_frequency_df = pd.DataFrame.from_dict(pairs_frequency_pd).set_index("Pair")
 
-    export_data(pairs_df, f"./analysis/csv/apriori_pairs/yearly_category_pairs.csv")
+    export_data(pairs_support_df, f"./analysis/csv/apriori_pairs/yearly_category_support_pairs.csv")
+    export_data(pairs_frequency_df, f"./analysis/csv/apriori_pairs/yearly_category_frequency_pairs.csv")
 
 def calc_unique_pairs(facility_data: dict):
     if os.path.exists("./analysis/plots/pairs") == False:
