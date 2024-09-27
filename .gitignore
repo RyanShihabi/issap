@@ -4,6 +4,8 @@ test_report/
 test_report_date/
 reports-oct
 sources/reports/completed_sequential_uploads.json
+graph_utils.py
+graph.py
 *.env
 test.py
 new_reports

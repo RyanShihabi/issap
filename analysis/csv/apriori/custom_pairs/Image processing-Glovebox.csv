@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+731,0.00026389866291344125,"frozenset({'MSG', 'IPU'})",2,3
+733,8.796622097114708e-05,"frozenset({'IPU', 'CB'})",2,1
+1533,8.796622097114708e-05,"frozenset({'CB', 'IPU2'})",2,1

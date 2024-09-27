@@ -1,15 +1,9 @@
 import json
-import requests
 import re
 import os
-import time
-from bs4 import BeautifulSoup
 import csv
-from tqdm import tqdm
 import pandas as pd
 import numpy as np
-import savepagenow
-import matplotlib.pyplot as plt
 
 # Splits archived paragraphs by newlines
 def archive_paragraph_split(report_text: str):
@@ -57,7 +51,7 @@ def new_paragraph_split(report_text: str):
 def custom_search(facility_names: list, report_dir: str):
 	day_mentions = {name: [] for name in facility_names}
 	
-	for file in tqdm(os.listdir(report_dir)):
+	for file in os.listdir(report_dir):
 		file_path = os.path.join(report_dir, file)
 		with open(f"{file_path}", 'r') as f:
 			text = "\n".join(f.readlines()).lower()
@@ -144,7 +138,7 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 		archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) == filter_year]
 		new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) == filter_year]
 
-	for report in tqdm(archive_reports):
+	for report in archive_reports:
 		file_path = os.path.join(report_dir, report)
 		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
@@ -171,12 +165,14 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 					facility_locs[keyComp] = newValuesComp
 
 		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
+		if len(excerpt_pair) != 0:
+			print(report)
 		facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr, text, excerpt_pair)
 
 		for paragraph in facilities_mentioned:
 			dataset.append(paragraph)
 
-	for report in tqdm(new_reports):
+	for report in new_reports:
 		file_path = os.path.join(report_dir, report)
 		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
@@ -203,6 +199,8 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 					facility_locs[keyComp] = newValuesComp
 
 		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
+		if len(excerpt_pair) != 0:
+			print(report)
 		facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr, text, excerpt_pair)
 
 		for paragraph in facilities_mentioned:
@@ -216,7 +214,7 @@ def get_words_around(name: str, report_dir: str) -> dict:
 	archive_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) < 2013]
 	new_reports = [file for file in [file for file in os.listdir(report_dir) if ".DS" not in file] if int(file.split("-")[-1][:4]) >= 2013]
 
-	for report in tqdm(archive_reports):
+	for report in archive_reports:
 		file_path = os.path.join(report_dir, report)
 		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
@@ -239,7 +237,7 @@ def get_words_around(name: str, report_dir: str) -> dict:
 					if word.endswith("ing") or word.endswith("ed") or word.endswith("e"):
 						word_count[word] = word_count.get(word, 0) + 1
 
-	for report in tqdm(new_reports):
+	for report in new_reports:
 		file_path = os.path.join("./reports-oct", report)
 		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
@@ -266,96 +264,12 @@ def get_words_around(name: str, report_dir: str) -> dict:
 	
 	return word_count
 
-# Deprecated due to NASA removing archive links
-def collect_reports():
-	missing = []
-	archive_links = grab_archive_links()
-
-	new_links = grab_new_links()
-
-	# Storing reports
-	if os.path.exists("./reports") == False:
-		os.makedirs("./reports")
-
-	for link in tqdm(archive_links):
-		report_data = get_archived_report(link)
-
-		if report_data["text"] != None:
-			archive_paragraph_split(report_data)
-			export_report(report_data)
-		else:
-			missing.append(link)
-
-	for link in tqdm(new_links):
-		report_data = get_new_report(link)
-
-		export_report(report_data)
-		
-	return missing
-
-# Deprecated due to NASA removing archive links
-# Takes report links and adds them to the internet archive
-def send_internet_archive_request():
-	archive_links = grab_archive_links()
-	
-	new_links = grab_new_links()
-	 
-	already_saved = []
-	 
-	internet_archive_captures = []
-	 
-	if os.path.exists("./archived_list.txt"):
-		with open("./archived_list.txt", "r") as f:
-			already_saved = [link.translate({10: None}) for link in f.readlines()]
-		f.close()
-		  
-	if os.path.exists("./internet_archive_capture_list.txt"):
-		with open("./internet_archive_capture_list.txt", "r") as f:
-			internet_archive_captures = [link.translate({10: None}) for link in f.readlines()]
-		f.close()
-	
-	links = archive_links + new_links
-	
-	print(f"{len(links) - len(already_saved)} links remaining")
-	
-	for link in tqdm(links):
-		if link not in already_saved:
-			try:
-				internet_archive_captures.append(savepagenow.capture(link, authenticate=True))
-				
-				already_saved.append(link)
-			except:
-				with open("./archived_list.txt", "w") as f:
-					for saved_link in already_saved:
-						f.write(f"{saved_link}\n")
-				f.close()
-					
-				with open("./internet_archive_capture_list.txt", "w") as f:
-					for saved_link in internet_archive_captures:
-						f.write(f"{saved_link}\n")
-				f.close()
-						
-				# raise Exception("Timeout was reached")
-			   
-			time.sleep(8.0)
-
-	
-	with open("./archived_list.txt", "w") as f:
-		for saved_link in already_saved:
-			f.write(f"{saved_link}\n")
-	f.close()
-	 
-	with open("./internet_archive_capture_list.txt", "w") as f:
-		for saved_link in internet_archive_captures:
-			f.write(f"{saved_link}\n")
-	f.close()
-
 # Main method for finding mentions of facilities
 # Will return a boolean dataframe with a 1: mentioned that day, 0: not mentioned that day
 def grab_facility_mentions(report_dir: str, facility_data, filter=None, kernel_window=-1):
 	facility_mentions = {}
 
-	for file in tqdm([file for file in os.listdir(report_dir) if ".DS" not in file]):
+	for file in [file for file in os.listdir(report_dir) if ".DS" not in file]:
 		file_path = os.path.join(report_dir, file)
 		with open(file_path, 'r') as f:
 			text = "\n".join(f.readlines())
@@ -499,17 +413,6 @@ def generate_facility_names(facility_report_file: str):
 				facility_name_abbr[val] = key
 		else:
 			facility_name_abbr[value] = key
-	
-	# facility_name_abbr = {value: key for key, value in facility_abbr_name.items()}
-
-	# export_data(facility_name_abbr, "./sources/facility_data/json/facility_name_abbr.json")
-	# export_data(facility_abbr_name, "./sources/facility_data/json/facility_abbr_name.json")
-	# export_data(facility_module, "./sources/facility_data/json/facility_module.json")
-	# export_data(category_facilities, "./sources/facility_data/json/category_facilities.json")
-	# export_data(facility_category, "./sources/facility_data/json/facility_category.json")
-	# export_data(facility_agency, "./sources/facility_data/json/facility_agency.json")
-	# export_data(agency_facilities, "./sources/facility_data/json/agency_facilities.json")
-	# export_data(id_abbr, "./sources/facility_data/json/id_abbr.json")
 
 	return {
 			"facility_name_abbr": facility_name_abbr,
@@ -540,133 +443,221 @@ def export_report(obj):
 	f.close()
 
 
+# Deprecated code for report collection and archiving
+
 # Collects new blog links from NASA sitemap
-def grab_new_links():
-	# Use the nav-links class to traverse
-	print("Grabbing reports from NASA blog site")
-	new_reports = []
-	page = requests.get("https://blogs.nasa.gov/stationreport/")
+# def grab_new_links():
+# 	# Use the nav-links class to traverse
+# 	print("Grabbing reports from NASA blog site")
+# 	new_reports = []
+# 	page = requests.get("https://blogs.nasa.gov/stationreport/")
 	
-	soup = BeautifulSoup(page.content, "html.parser")
+# 	soup = BeautifulSoup(page.content, "html.parser")
 
-	link_navbar = soup.find_all("a", class_ = "page-numbers")
+# 	link_navbar = soup.find_all("a", class_ = "page-numbers")
 	
-	max_page = int(link_navbar[1].text.split(" ")[1].translate({44: None}))
+# 	max_page = int(link_navbar[1].text.split(" ")[1].translate({44: None}))
 
-	for i in tqdm(range(1, max_page+1)):
-		page = f"https://blogs.nasa.gov/stationreport/page/{i}"
-		new_reports.append(page)
+# 	for i in range(1, max_page+1):
+# 		page = f"https://blogs.nasa.gov/stationreport/page/{i}"
+# 		new_reports.append(page)
 	
-	print(f"{len(new_reports)} unique reports found")
+# 	print(f"{len(new_reports)} unique reports found")
 
-	return new_reports
+# 	return new_reports
 
 # Deprecated: Old links and their reports no longer exist
-def grab_archive_links():
-	print("Grabbing reports from NASA archive")
+# def grab_archive_links():
+# 	print("Grabbing reports from NASA archive")
 	
-	report_amount = 0
-	archive_reports = []
+# 	report_amount = 0
+# 	archive_reports = []
 
-  # Timeline of archive reports: 2009-2012
-	for year in tqdm(range(2009, 2013)):
-	# Directory pages span from 1 to 8
-		for page in range(1, 9):
-			url = f"https://www.nasa.gov/directorates/heo/reports/iss_reports/{year}/ISS_Reports_SearchAgent_archive_{page}.html"
+#   # Timeline of archive reports: 2009-2012
+# 	for year in range(2009, 2013):
+# 	# Directory pages span from 1 to 8
+# 		for page in range(1, 9):
+# 			url = f"https://www.nasa.gov/directorates/heo/reports/iss_reports/{year}/ISS_Reports_SearchAgent_archive_{page}.html"
 			
-			page = requests.get(url)
-			soup = BeautifulSoup(page.content, 'html.parser')
+# 			page = requests.get(url)
+# 			soup = BeautifulSoup(page.content, 'html.parser')
 
-			results = soup.find(id='imgGallery5Col')
+# 			results = soup.find(id='imgGallery5Col')
 
-			if results:
-				report_elems = results.find_all('a')
+# 			if results:
+# 				report_elems = results.find_all('a')
 
-			for report in report_elems:
-				archive_reports.append(f"https://www.nasa.gov{report['href']}")
+# 			for report in report_elems:
+# 				archive_reports.append(f"https://www.nasa.gov{report['href']}")
 
-		report_amount += len(report_elems)
+# 		report_amount += len(report_elems)
 
-	# Outlier links that don't follow pattern or dead links
-	archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/0128201.html")
-	archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/02102011.html")
+# 	# Outlier links that don't follow pattern or dead links
+# 	archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/0128201.html")
+# 	archive_reports.remove("https://www.nasa.gov/directorates/heo/reports/iss_reports/2011/02102011.html")
 
-	print(f"{len(archive_reports)} unique reports found")
+# 	print(f"{len(archive_reports)} unique reports found")
 
-	return archive_reports
+# 	return archive_reports
 
 # Deprecated: Old links and their reports no longer exist
-def get_archived_report(link: str):
-	page = requests.get(link)
+# def get_archived_report(link: str):
+# 	page = requests.get(link)
 
-	soup = BeautifulSoup(page.content, 'html.parser')
+# 	soup = BeautifulSoup(page.content, 'html.parser')
 
-	results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
+# 	results = soup.find(class_="default_style_wrap prejs_body_adjust_detail")
 	
-	if results == None:
-		return {"text": None, "date": None}
+# 	if results == None:
+# 		return {"text": None, "date": None}
 
-	orbit_index = results.text.find("ISS Orbit")
+# 	orbit_index = results.text.find("ISS Orbit")
 
-	events_index = results.text.find("Significant Events Ahead")
+# 	events_index = results.text.find("Significant Events Ahead")
 	
-	date = soup.find("div", class_="address").span.text.translate({47: 45})
+# 	date = soup.find("div", class_="address").span.text.translate({47: 45})
 	
-	# Check for ISS On-Orbit Status
-	if date.startswith("ISS On-Orbit Status"):
-		date = date[20:]
+# 	# Check for ISS On-Orbit Status
+# 	if date.startswith("ISS On-Orbit Status"):
+# 		date = date[20:]
 		
-	if len(date.split("-")[-1]) == 2:
-		date = f"{date[:-2]}20{date[-2:]}"
+# 	if len(date.split("-")[-1]) == 2:
+# 		date = f"{date[:-2]}20{date[-2:]}"
 
-	if orbit_index != -1 and events_index != -1:
-		if orbit_index < events_index:
-			filtered_report = results.text[:orbit_index]
-		else:
-			filtered_report = results.text[:events_index]
-	elif orbit_index == -1:
-		filtered_report = results.text[:events_index]
-	elif events_index == -1:
-		filtered_report = results.text[:orbit_index]
-	else:
-		filtered_report = results.text
+# 	if orbit_index != -1 and events_index != -1:
+# 		if orbit_index < events_index:
+# 			filtered_report = results.text[:orbit_index]
+# 		else:
+# 			filtered_report = results.text[:events_index]
+# 	elif orbit_index == -1:
+# 		filtered_report = results.text[:events_index]
+# 	elif events_index == -1:
+# 		filtered_report = results.text[:orbit_index]
+# 	else:
+# 		filtered_report = results.text
 		
 
-	return {"text": filtered_report, "date": date}
+# 	return {"text": filtered_report, "date": date}
 
 # Return the text content of a new report
-def get_new_report(link: str):
-	page = requests.get(link)
+# Deprecated after crew report discontinuation
 
-	soup = BeautifulSoup(page.content, 'html.parser')
+# def get_new_report(link: str):
+# 	page = requests.get(link)
 
-	results = soup.find("div", class_="entry-content")
+# 	soup = BeautifulSoup(page.content, 'html.parser')
 
-	# class name can be one of two values
-	result_date = soup.find("time", class_="entry-date published")
+# 	results = soup.find("div", class_="entry-content")
+
+# 	# class name can be one of two values
+# 	result_date = soup.find("time", class_="entry-date published")
 	
-	if result_date == None:
-		result_date = soup.find("time", class_="entry-date published updated")
+# 	if result_date == None:
+# 		result_date = soup.find("time", class_="entry-date published updated")
 	
-	result_date = result_date["datetime"]
+# 	result_date = result_date["datetime"]
 	
-	date = result_date.split("T")[0]
+# 	date = result_date.split("T")[0]
 	
-	date_values = date.split("-")
+# 	date_values = date.split("-")
 	
-	date_mdy = "-".join([date_values[i] for i in [1, 2, 0]])
+# 	date_mdy = "-".join([date_values[i] for i in [1, 2, 0]])
 	
-	look_ahead_index = results.text.find("Look Ahead Plan")
+# 	look_ahead_index = results.text.find("Look Ahead Plan")
    	
-	three_day_index = results.text.find("Three-Day Look Ahead:")
+# 	three_day_index = results.text.find("Three-Day Look Ahead:")
 
-	completed_task_list_index = results.text.find("Completed Task List Activities:")
+# 	completed_task_list_index = results.text.find("Completed Task List Activities:")
 
-	indices = [x for x in [look_ahead_index, three_day_index, completed_task_list_index] if x != -1]
+# 	indices = [x for x in [look_ahead_index, three_day_index, completed_task_list_index] if x != -1]
 
-	if len(indices) != 0:
-		results_filtered = results.text[:min(indices)]
-	else:
-		results_filtered = results.text
+# 	if len(indices) != 0:
+# 		results_filtered = results.text[:min(indices)]
+# 	else:
+# 		results_filtered = results.text
 
-	return {"text": results_filtered, "date": date_mdy}
+# 	return {"text": results_filtered, "date": date_mdy}
+
+# Deprecated due to NASA removing archive links
+# def collect_reports():
+# 	missing = []
+# 	archive_links = grab_archive_links()
+
+# 	new_links = grab_new_links()
+
+# 	# Storing reports
+# 	if os.path.exists("./reports") == False:
+# 		os.makedirs("./reports")
+
+# 	for link in archive_links:
+# 		report_data = get_archived_report(link)
+
+# 		if report_data["text"] != None:
+# 			archive_paragraph_split(report_data)
+# 			export_report(report_data)
+# 		else:
+# 			missing.append(link)
+
+# 	for link in new_links:
+# 		report_data = get_new_report(link)
+
+# 		export_report(report_data)
+		
+# 	return missing
+
+# Deprecated due to NASA removing archive links
+# Takes report links and adds them to the internet archive
+# def send_internet_archive_request():
+# 	archive_links = grab_archive_links()
+	
+# 	new_links = grab_new_links()
+	 
+# 	already_saved = []
+	 
+# 	internet_archive_captures = []
+	 
+# 	if os.path.exists("./archived_list.txt"):
+# 		with open("./archived_list.txt", "r") as f:
+# 			already_saved = [link.translate({10: None}) for link in f.readlines()]
+# 		f.close()
+		  
+# 	if os.path.exists("./internet_archive_capture_list.txt"):
+# 		with open("./internet_archive_capture_list.txt", "r") as f:
+# 			internet_archive_captures = [link.translate({10: None}) for link in f.readlines()]
+# 		f.close()
+	
+# 	links = archive_links + new_links
+	
+# 	print(f"{len(links) - len(already_saved)} links remaining")
+	
+# 	for link in links:
+# 		if link not in already_saved:
+# 			try:
+# 				internet_archive_captures.append(savepagenow.capture(link, authenticate=True))
+				
+# 				already_saved.append(link)
+# 			except:
+# 				with open("./archived_list.txt", "w") as f:
+# 					for saved_link in already_saved:
+# 						f.write(f"{saved_link}\n")
+# 				f.close()
+					
+# 				with open("./internet_archive_capture_list.txt", "w") as f:
+# 					for saved_link in internet_archive_captures:
+# 						f.write(f"{saved_link}\n")
+# 				f.close()
+						
+# 				# raise Exception("Timeout was reached")
+			   
+# 			time.sleep(8.0)
+
+	
+# 	with open("./archived_list.txt", "w") as f:
+# 		for saved_link in already_saved:
+# 			f.write(f"{saved_link}\n")
+# 	f.close()
+	 
+# 	with open("./internet_archive_capture_list.txt", "w") as f:
+# 		for saved_link in internet_archive_captures:
+# 			f.write(f"{saved_link}\n")
+# 	f.close()

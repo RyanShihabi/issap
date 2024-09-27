@@ -1,8 +1,7 @@
 import pandas as pd
-from mlxtend.frequent_patterns import apriori, association_rules, fpgrowth
+from mlxtend.frequent_patterns import association_rules, fpgrowth
 from mlxtend.preprocessing import TransactionEncoder
 from utils.mining_utils import export_data
-import json
 
 # Take out any pairs that have a certain facility in it
 def filter_facilities_in_pairs(apriori_df: pd.DataFrame, facilities: list = None, remove=True) -> pd.DataFrame:
@@ -61,15 +60,13 @@ def apriori_from_list(mention_list: list, facility_data: dict, file_name: str, p
         itemsets_pair = itemsets_pair.drop(drop_idx)
 
         if save:
-            export_data(itemsets_df, f"./analysis/csv/apriori_pairs{file_name}.csv")
+            export_data(itemsets_pair, f"./analysis/csv/apriori/pairs/apriori_pairs{file_name}.csv")
 
         return itemsets_pair
-
-        # print(f"{pair}: {itemsets_pair['frequency'].sum()}")
     
     if save:
-        export_data(itemsets_df, f"./analysis/csv/apriori_itemsets{file_name}.csv")
-        export_data(itemsets_pair, f"./analysis/csv/apriori_pairs{file_name}.csv")
+        export_data(itemsets_df, f"./analysis/csv/apriori/itemsets/apriori_itemsets{file_name}.csv")
+        export_data(itemsets_pair, f"./analysis/csv/apriori/pairs/apriori_pairs{file_name}.csv")
 
     return itemsets_df
 
@@ -79,6 +76,6 @@ def association_from_apriori(apriori_df: pd.DataFrame, file_name: str = None, sa
     rules = rules[rules["confidence"] < 1]
 
     if save:
-        export_data(rules, f"./analysis/csv/association_rules{file_name}.csv")
+        export_data(rules, f"./analysis/csv/apriori/association_rules/association_rules{file_name}.csv")
 
     return rules

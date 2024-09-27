@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-119,0.00322061191626409,"frozenset({'ADSEP', 'SABL'})",2,4
-113,0.00322061191626409,"frozenset({'SABL', 'CellCult'})",2,4
-244,0.001610305958132045,"frozenset({'SABL', 'Fruit Fly Lab'})",2,2

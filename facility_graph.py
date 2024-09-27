@@ -1,3 +1,0 @@
-from utils.facility_graph_utils import upload_facility_itemsets
-
-upload_facility_itemsets()

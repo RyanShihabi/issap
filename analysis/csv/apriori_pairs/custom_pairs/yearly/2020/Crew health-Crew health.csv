@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-114,0.004357298474945534,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,4
-134,0.002178649237472767,"frozenset({'CBPD', 'EPM'})",2,2
-113,0.002178649237472767,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,2

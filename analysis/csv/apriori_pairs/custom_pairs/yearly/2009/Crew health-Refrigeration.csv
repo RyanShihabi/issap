@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-232,0.028225806451612902,"frozenset({'MELFI', 'PCBA'})",2,70
-134,0.0032258064516129032,"frozenset({'MELFI', 'Holter'})",2,8
-164,0.0032258064516129032,"frozenset({'MELFI', 'PFS'})",2,8
-101,0.0024193548387096775,"frozenset({'MELFI', 'EPM'})",2,6
-187,0.0008064516129032258,"frozenset({'MELFI', 'Portable Pulmonary Function System'})",2,2

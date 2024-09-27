@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+1166,0.0005277973258268825,"frozenset({'MWA', 'Ryutai'})",2,6
+488,0.00026389866291344125,"frozenset({'EXPRESS Rack', 'MWA'})",2,3
+1007,0.00017593244194229416,"frozenset({'MWA', 'MSPR'})",2,2

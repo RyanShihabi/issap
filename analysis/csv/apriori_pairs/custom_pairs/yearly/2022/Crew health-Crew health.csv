@@ -1,8 +1,0 @@
-,support,itemsets,length,frequency
-120,0.0030864197530864196,"frozenset({'CBPD', 'EPM'})",2,4
-91,0.0015432098765432098,"frozenset({'Bio-Monitor', 'Actiwatch'})",2,2
-129,0.0015432098765432098,"frozenset({'EPM', 'Portable Pulmonary Function System'})",2,2
-130,0.0015432098765432098,"frozenset({'Portable Pulmonary Function System', 'PFS'})",2,2
-113,0.0015432098765432098,"frozenset({'Ultrasound 2', 'Ultrasound'})",2,2
-168,0.0015432098765432098,"frozenset({'Holter', 'Ultrasound'})",2,2
-131,0.0015432098765432098,"frozenset({'EPM', 'PFS'})",2,2

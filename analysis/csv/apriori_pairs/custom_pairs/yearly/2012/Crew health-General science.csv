@@ -1,8 +1,0 @@
-,support,itemsets,length,frequency
-145,0.007953723788864787,"frozenset({'PCBA', 'SLAMMD'})",2,22
-153,0.005784526391901663,"frozenset({'HRF-1', 'SLAMMD'})",2,16
-210,0.004338394793926247,"frozenset({'ALTEA', 'EXPRESS Rack'})",2,12
-70,0.0007230657989877079,"frozenset({'EXPRESS Rack', 'Ultrasound'})",2,2
-123,0.0007230657989877079,"frozenset({'Ultrasound 2', 'EXPRESS Rack'})",2,2
-88,0.0007230657989877079,"frozenset({'Holter Monitor 2', 'EXPRESS Rack'})",2,2
-81,0.0007230657989877079,"frozenset({'EXPRESS Rack', 'Actiwatch Spectrum'})",2,2

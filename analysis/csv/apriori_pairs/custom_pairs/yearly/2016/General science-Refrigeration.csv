@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-102,0.00528169014084507,"frozenset({'Polar', 'EXPRESS Rack'})",2,6
-120,0.0017605633802816902,"frozenset({'EXPRESS Rack', 'MERLIN'})",2,2
-149,0.0017605633802816902,"frozenset({'NanoRacks Platforms', 'MELFI'})",2,2

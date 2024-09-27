@@ -1,7 +1,0 @@
-,support,itemsets,length,frequency
-136,0.0017123287671232876,"frozenset({'RC', 'PFS'})",2,4
-487,0.0017123287671232876,"frozenset({'RAM', 'RC'})",2,4
-79,0.0017123287671232876,"frozenset({'RC', 'Holter'})",2,4
-261,0.0008561643835616438,"frozenset({'CBEF', 'ALTEA'})",2,2
-65,0.0008561643835616438,"frozenset({'CBEF', 'Holter'})",2,2
-353,0.0008561643835616438,"frozenset({'RC', 'PCBA'})",2,2

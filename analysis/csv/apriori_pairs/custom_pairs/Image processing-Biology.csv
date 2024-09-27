@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-697,0.0006159260888693356,"frozenset({'IPU', 'PCRF'})",2,7
-587,0.0002639683238011439,"frozenset({'IPU', 'Saibo'})",2,3
-1284,8.798944126704795e-05,"frozenset({'Aquatic Habitat', 'IPU'})",2,1
-1532,8.798944126704795e-05,"frozenset({'IPU2', 'Saibo'})",2,1

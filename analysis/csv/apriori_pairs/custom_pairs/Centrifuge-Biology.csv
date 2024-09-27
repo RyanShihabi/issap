@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-584,0.005191377034755829,"frozenset({'CBEF', 'Saibo'})",2,58
-1467,0.0007039155301363836,"frozenset({'CBEF-L', 'Saibo'})",2,8
-1485,0.0006159260888693356,"frozenset({'JAXA Mouse Habitat Unit', 'CBEF-L'})",2,7
-693,0.0004399472063352398,"frozenset({'PCRF', 'CBEF'})",2,5
-1282,0.0003519577650681918,"frozenset({'Aquatic Habitat', 'CBEF'})",2,4

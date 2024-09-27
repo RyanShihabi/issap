@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+760,0.0007916959887403237,"frozenset({'FIR', 'CIR'})",2,9
+497,0.00017593244194229416,"frozenset({'FPEF', 'CIR'})",2,2
+376,8.796622097114708e-05,"frozenset({'DECLIC', 'MSL'})",2,1

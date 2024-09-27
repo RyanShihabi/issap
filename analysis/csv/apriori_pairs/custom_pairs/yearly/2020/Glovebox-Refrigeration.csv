@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-123,0.004357298474945534,"frozenset({'MERLIN', 'CB'})",2,4
-98,0.004357298474945534,"frozenset({'MELFI', 'CB'})",2,4
-128,0.002178649237472767,"frozenset({'CB', 'Double Coldbag'})",2,2
-106,0.002178649237472767,"frozenset({'CB', 'GLACIER'})",2,2

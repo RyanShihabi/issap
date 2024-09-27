@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-86,0.00975609756097561,"frozenset({'EXPRESS Rack', 'Plant Habitat'})",2,12
-87,0.0032520325203252032,"frozenset({'Veggie', 'EXPRESS Rack'})",2,4
-152,0.0016260162601626016,"frozenset({'EMCS', 'EXPRESS Rack'})",2,2
-170,0.0016260162601626016,"frozenset({'GN2', 'Plant Habitat'})",2,2

@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-138,0.0015174506828528073,"frozenset({'WORF', 'Actiwatch'})",2,2
-137,0.0015174506828528073,"frozenset({'WORF', 'PFS'})",2,2
-136,0.0015174506828528073,"frozenset({'Portable Pulmonary Function System', 'WORF'})",2,2
-224,0.0015174506828528073,"frozenset({'WORF', 'Holter Monitor 2'})",2,2

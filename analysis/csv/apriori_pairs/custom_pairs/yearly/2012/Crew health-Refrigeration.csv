@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-146,0.007953723788864787,"frozenset({'MELFI', 'PCBA'})",2,22
-189,0.0028922631959508315,"frozenset({'MELFI', 'Holter'})",2,8
-64,0.0014461315979754157,"frozenset({'MELFI', 'PFS'})",2,4
-80,0.0007230657989877079,"frozenset({'MELFI', 'Actiwatch Spectrum'})",2,2

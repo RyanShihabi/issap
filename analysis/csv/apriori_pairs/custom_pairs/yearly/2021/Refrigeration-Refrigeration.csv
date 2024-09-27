@@ -1,9 +1,0 @@
-,support,itemsets,length,frequency
-155,0.0030349013657056147,"frozenset({'MERLIN', 'GLACIER'})",2,4
-163,0.0030349013657056147,"frozenset({'Polar', 'Iceberg'})",2,4
-197,0.0030349013657056147,"frozenset({'Polar', 'Double Coldbag'})",2,4
-165,0.0015174506828528073,"frozenset({'MELFI', 'Iceberg'})",2,2
-156,0.0015174506828528073,"frozenset({'Polar', 'GLACIER'})",2,2
-166,0.0015174506828528073,"frozenset({'Iceberg', 'MERLIN'})",2,2
-153,0.0015174506828528073,"frozenset({'Polar', 'MERLIN'})",2,2
-127,0.0015174506828528073,"frozenset({'MELFI', 'MERLIN'})",2,2

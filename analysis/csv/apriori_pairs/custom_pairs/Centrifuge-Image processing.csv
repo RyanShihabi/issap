@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-725,0.0010558732952045756,"frozenset({'IPU', 'CBEF'})",2,12
-1531,0.0002639683238011439,"frozenset({'IPU2', 'CBEF'})",2,3
-1470,0.0001759788825340959,"frozenset({'IPU', 'CBEF-L'})",2,2
-1534,8.798944126704795e-05,"frozenset({'IPU2', 'CBEF-L'})",2,1

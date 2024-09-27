@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-105,0.004280821917808219,"frozenset({'EMCS', 'MELFI'})",2,10
-476,0.0025684931506849314,"frozenset({'MELFI', 'ABRS'})",2,6
-478,0.0008561643835616438,"frozenset({'ABRS', 'MERLIN'})",2,2

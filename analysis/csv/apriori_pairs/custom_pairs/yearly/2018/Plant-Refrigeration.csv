@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-153,0.004878048780487805,"frozenset({'EMCS', 'MELFI'})",2,6
-95,0.0032520325203252032,"frozenset({'Veggie', 'MELFI'})",2,4
-85,0.0016260162601626016,"frozenset({'MELFI', 'Plant Habitat'})",2,2
