@@ -12,3 +12,4 @@ new_reports
 *.zip
 july_2024/
 missing/
+.DS_Store
