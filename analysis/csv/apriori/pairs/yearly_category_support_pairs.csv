@@ -9,9 +9,9 @@ MELFI/SLAMMD,Multipurpose/Human Research,Refrigeration/General science,0.0209677
 EPM/Holter Monitor 2,Human Research/Human Research,Crew health/Crew health,0.016935483870967744,0.017123287671232876,0.020425531914893616,0.025307302964569775,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Actiwatch/EPM,Human Research/Human Research,Crew health/Crew health,0.016935483870967744,0.017123287671232876,0.02468085106382979,0.05133767172812726,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 GLACIER/MELFI,Multipurpose/Multipurpose,Refrigeration/Refrigeration,0.014516129032258065,0.010273972602739725,0.00425531914893617,0.0021691973969631237,0.0,0.0,0.0020161290322580645,0.0,0.01288244766505636,0.008130081300813009,0.005415162454873646,0.004357298474945534,0.0,0.0,0.0,0.0
-CBEF/MELFI,Biology and Biotechnology/Multipurpose,Centrifuge/Refrigeration,0.012096774193548387,0.014554794520547944,0.005106382978723404,0.0036153289949385392,0.0,0.027196652719665274,0.016129032258064516,0.008802816901408451,0.004830917874396135,0.004878048780487805,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/MELFI,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.012096774193548387,0.014554794520547944,0.005106382978723404,0.0036153289949385392,0.0,0.027196652719665274,0.016129032258064516,0.008802816901408451,0.004830917874396135,0.004878048780487805,0.0,0.0,0.0,0.0,0.0,0.0
 PFS/Portable Pulmonary Function System,Human Research/Human Research,Crew health/Crew health,0.010483870967741936,0.029965753424657533,0.023829787234042554,0.028199566160520606,0.005714285714285714,0.010460251046025104,0.018145161290322582,0.008802816901408451,0.004830917874396135,0.0016260162601626016,0.0018050541516245488,0.004357298474945534,0.0030349013657056147,0.0015432098765432098,0.004622496147919877,0.0
-CBEF/Saibo,Biology and Biotechnology/Multipurpose,Centrifuge/Biology,0.010483870967741936,0.0025684931506849314,0.0,0.0,0.002857142857142857,0.006276150627615063,0.004032258064516129,0.008802816901408451,0.001610305958132045,0.004878048780487805,0.018050541516245487,0.010893246187363835,0.006069802731411229,0.010802469135802469,0.0030816640986132513,0.0
+CBEF/Saibo,Biology and Biotechnology/Multipurpose,Biology/Biology,0.010483870967741936,0.0025684931506849314,0.0,0.0,0.002857142857142857,0.006276150627615063,0.004032258064516129,0.008802816901408451,0.001610305958132045,0.004878048780487805,0.018050541516245487,0.010893246187363835,0.006069802731411229,0.010802469135802469,0.0030816640986132513,0.0
 CB/MELFI,Multipurpose/Multipurpose,Glovebox/Refrigeration,0.00967741935483871,0.0059931506849315065,0.000851063829787234,0.009399855386840203,0.011428571428571429,0.0020920502092050207,0.004032258064516129,0.0,0.001610305958132045,0.0,0.0,0.004357298474945534,0.0015174506828528073,0.0,0.0,0.0
 EXPRESS Rack/MELFI,Multipurpose/Multipurpose,General science/Refrigeration,0.008064516129032258,0.003424657534246575,0.00425531914893617,0.0007230657989877079,0.0,0.0,0.004032258064516129,0.0,0.0,0.0,0.0018050541516245488,0.0,0.0,0.0,0.0,0.0
 Holter/PFS,Human Research/Human Research,Crew health/Crew health,0.008064516129032258,0.005136986301369863,0.003404255319148936,0.0028922631959508315,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -27,7 +27,7 @@ EXPRESS Rack/MERLIN,Multipurpose/Biology and Biotechnology,General science/Refri
 CBPD/Holter Monitor 2,Human Research/Human Research,Crew health/Crew health,0.0064516129032258064,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 EXPRESS Rack/MDS,Multipurpose/Biology and Biotechnology,General science/Biology,0.00564516129032258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Actiwatch/Holter,Human Research/Human Research,Crew health/Crew health,0.00564516129032258,0.0,0.002553191489361702,0.005784526391901663,0.017142857142857144,0.0041841004184100415,0.016129032258064516,0.017605633802816902,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CB/CBEF,Multipurpose/Biology and Biotechnology,Glovebox/Centrifuge,0.004838709677419355,0.0025684931506849314,0.0,0.0,0.0,0.012552301255230125,0.0,0.0,0.0,0.0,0.010830324909747292,0.008714596949891068,0.004552352048558422,0.010802469135802469,0.0030816640986132513,0.0
+CB/CBEF,Multipurpose/Biology and Biotechnology,Glovebox/Biology,0.004838709677419355,0.0025684931506849314,0.0,0.0,0.0,0.012552301255230125,0.0,0.0,0.0,0.0,0.010830324909747292,0.008714596949891068,0.004552352048558422,0.010802469135802469,0.0030816640986132513,0.0
 MELFI/Saibo,Multipurpose/Multipurpose,Refrigeration/Biology,0.004838709677419355,0.0017123287671232876,0.002553191489361702,0.0,0.0,0.0041841004184100415,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 HRF-2/Holter,Multipurpose/Human Research,Crew health/Crew health,0.004838709677419355,0.0017123287671232876,0.000851063829787234,0.0014461315979754157,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Actiwatch/CBPD,Human Research/Human Research,Crew health/Crew health,0.004838709677419355,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -36,7 +36,7 @@ FPEF/IPU,Physical Science/Multipurpose,Fluids/Image processing,0.004838709677419
 HRF-2/PFS,Multipurpose/Human Research,Crew health/Crew health,0.004838709677419355,0.0017123287671232876,0.001702127659574468,0.0036153289949385392,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MDS/MELFI,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.004032258064516129,0.0,0.003404255319148936,0.0021691973969631237,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MDS/PGB,Biology and Biotechnology/Multipurpose,Biology/Glovebox,0.004032258064516129,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/KFT,Biology and Biotechnology/Biology and Biotechnology,Centrifuge/Glovebox,0.004032258064516129,0.0025684931506849314,0.00425531914893617,0.0021691973969631237,0.002857142857142857,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/KFT,Biology and Biotechnology/Biology and Biotechnology,Biology/Glovebox,0.004032258064516129,0.0025684931506849314,0.00425531914893617,0.0021691973969631237,0.002857142857142857,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 FPEF/MWA,Physical Science/Multipurpose,Fluids/Maintenance,0.004032258064516129,0.0059931506849315065,0.00425531914893617,0.0021691973969631237,0.005714285714285714,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 DECLIC/EXPRESS Rack,Physical Science/Multipurpose,Fluids/General science,0.004032258064516129,0.0059931506849315065,0.003404255319148936,0.005061460592913955,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 CBPD/EPM,Human Research/Human Research,Crew health/Crew health,0.004032258064516129,0.0,0.0,0.0007230657989877079,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.002178649237472767,0.0,0.0030864197530864196,0.0,0.003278688524590164
@@ -77,7 +77,7 @@ EXPRESS Rack/WORF,Multipurpose/Earth and Space Science,General science/Earth obs
 CIR/SAMS-II,Physical Science/Multipurpose,Furnace/Physics,0.0016129032258064516,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ALTEA/ELC,Human Research/Earth and Space Science,Crew health/External payloads,0.0016129032258064516,0.0,0.0,0.0007230657989877079,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 FIR/MELFI,Physical Science/Multipurpose,Fluids/Refrigeration,0.0016129032258064516,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0,0.0,0.008051529790660225,0.0016260162601626016,0.0036101083032490976,0.0,0.0,0.0,0.0,0.0
-CBEF/IPU,Biology and Biotechnology/Multipurpose,Centrifuge/Image processing,0.0016129032258064516,0.0008561643835616438,0.0,0.0,0.0,0.0,0.006048387096774193,0.007042253521126761,0.0,0.0,0.0036101083032490976,0.0,0.0,0.0,0.0,0.0
+CBEF/IPU,Biology and Biotechnology/Multipurpose,Biology/Image processing,0.0016129032258064516,0.0008561643835616438,0.0,0.0,0.0,0.0,0.006048387096774193,0.007042253521126761,0.0,0.0,0.0036101083032490976,0.0,0.0,0.0,0.0,0.0
 CIR/ELC,Physical Science/Earth and Space Science,Furnace/External payloads,0.0016129032258064516,0.0,0.000851063829787234,0.0007230657989877079,0.0,0.0,0.0,0.0017605633802816902,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 EXPRESS Rack/PFS,Multipurpose/Human Research,General science/Crew health,0.0016129032258064516,0.0,0.002553191489361702,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 RC/Solar,Human Research/Earth and Space Science,Centrifuge/Astronomy,0.0016129032258064516,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0015408320493066256,0.0
@@ -152,8 +152,8 @@ CGBA/TEPC,Biology and Biotechnology/Human Research,Biology/Crew health,0.0,0.001
 ALTEA/UMS,Human Research/Human Research,Crew health/Crew health,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MELFI/TEPC,Multipurpose/Human Research,Refrigeration/Crew health,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ELC/RC,Earth and Space Science/Human Research,External payloads/Centrifuge,0.0,0.0017123287671232876,0.000851063829787234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/MSG,Biology and Biotechnology/Multipurpose,Centrifuge/Glovebox,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/GLACIER,Biology and Biotechnology/Multipurpose,Centrifuge/Refrigeration,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0020920502092050207,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/MSG,Biology and Biotechnology/Multipurpose,Biology/Glovebox,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/GLACIER,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0020920502092050207,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ETC/FSL,Multipurpose/Physical Science,Stowage/Fluids,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CGBA/PCBA,Biology and Biotechnology/Human Research,Biology/Crew health,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MERLIN/PCBA,Biology and Biotechnology/Human Research,Refrigeration/Crew health,0.0,0.0017123287671232876,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -168,7 +168,7 @@ EDR/GLACIER,Multipurpose/Multipurpose,General science/Refrigeration,0.0,0.000856
 MSG/PCBA,Multipurpose/Human Research,Glovebox/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 FIR/PCBA,Physical Science/Human Research,Fluids/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CGBA/MWA,Biology and Biotechnology/Multipurpose,Biology/Maintenance,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/Holter,Biology and Biotechnology/Human Research,Centrifuge/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/Holter,Biology and Biotechnology/Human Research,Biology/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CIR/MARES,Physical Science/Human Research,Furnace/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Kubik/MELFI,Multipurpose/Multipurpose,Incubator/Refrigeration,0.0,0.0008561643835616438,0.000851063829787234,0.0,0.0,0.0,0.0020161290322580645,0.0017605633802816902,0.004830917874396135,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 CGBA/Kubik,Biology and Biotechnology/Multipurpose,Biology/Incubator,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -192,7 +192,7 @@ CGBA/KFT,Biology and Biotechnology/Biology and Biotechnology,Biology/Glovebox,0.
 EDR/KFT,Multipurpose/Biology and Biotechnology,General science/Glovebox,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 KFT/TEPC,Biology and Biotechnology/Human Research,Glovebox/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Actiwatch/CIR,Human Research/Physical Science,Crew health/Furnace,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/MERLIN,Biology and Biotechnology/Biology and Biotechnology,Centrifuge/Refrigeration,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.008064516129032258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/MERLIN,Biology and Biotechnology/Biology and Biotechnology,Biology/Refrigeration,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.008064516129032258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CIR/MERLIN,Physical Science/Biology and Biotechnology,Furnace/Refrigeration,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 FIR/MERLIN,Physical Science/Biology and Biotechnology,Fluids/Refrigeration,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.00322061191626409,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 CGBA/MERLIN,Biology and Biotechnology/Biology and Biotechnology,Biology/Refrigeration,0.0,0.0008561643835616438,0.0,0.0,0.0,0.006276150627615063,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -216,7 +216,7 @@ CIR/TEPC,Physical Science/Human Research,Furnace/Crew health,0.0,0.0008561643835
 FIR/TEPC,Physical Science/Human Research,Fluids/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MELFI/PCRF,Multipurpose/Biology and Biotechnology,Refrigeration/Biology,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MSG/PCRF,Multipurpose/Biology and Biotechnology,Glovebox/Biology,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/PCRF,Biology and Biotechnology/Biology and Biotechnology,Centrifuge/Biology,0.0,0.0008561643835616438,0.0,0.0007230657989877079,0.0,0.0020920502092050207,0.0,0.0017605633802816902,0.001610305958132045,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/PCRF,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0.0,0.0008561643835616438,0.0,0.0007230657989877079,0.0,0.0020920502092050207,0.0,0.0017605633802816902,0.001610305958132045,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CB/ETC,Multipurpose/Multipurpose,Glovebox/Stowage,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CB/CIR,Multipurpose/Physical Science,Glovebox/Furnace,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ELC/UMS,Earth and Space Science/Human Research,External payloads/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -225,7 +225,7 @@ IPU/MELFI,Multipurpose/Multipurpose,Image processing/Refrigeration,0.0,0.0008561
 CB/IPU,Multipurpose/Multipurpose,Glovebox/Image processing,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 FIR/IPU,Physical Science/Multipurpose,Fluids/Image processing,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 EXPRESS Rack/MWA,Multipurpose/Multipurpose,General science/Maintenance,0.0,0.0008561643835616438,0.0,0.0007230657989877079,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
-CBEF/Double Coldbag,Biology and Biotechnology/Multipurpose,Centrifuge/Refrigeration,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/Double Coldbag,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CIR/MWA,Physical Science/Multipurpose,Furnace/Maintenance,0.0,0.0008561643835616438,0.00425531914893617,0.0021691973969631237,0.002857142857142857,0.012552301255230125,0.012096774193548387,0.0035211267605633804,0.001610305958132045,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CIR/FPEF,Physical Science/Physical Science,Furnace/Fluids,0.0,0.0008561643835616438,0.000851063829787234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 FIR/FPEF,Physical Science/Physical Science,Fluids/Fluids,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -245,7 +245,7 @@ ALTEA/TEPC,Human Research/Human Research,Crew health/Crew health,0.0,0.000856164
 ALTEA/PFS,Human Research/Human Research,Crew health/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ALTEA/Portable Pulmonary Function System,Human Research/Human Research,Crew health/Crew health,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ALTEA/MSG,Human Research/Multipurpose,Crew health/Glovebox,0.0,0.0008561643835616438,0.000851063829787234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-ALTEA/CBEF,Human Research/Biology and Biotechnology,Crew health/Centrifuge,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ALTEA/CBEF,Human Research/Biology and Biotechnology,Crew health/Biology,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ALTEA/CB,Human Research/Multipurpose,Crew health/Glovebox,0.0,0.0008561643835616438,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 CGBA/Holter,Biology and Biotechnology/Human Research,Biology/Crew health,0.0,0.0008561643835616438,0.000851063829787234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 EXPRESS Rack/MSL,Multipurpose/Physical Science,General science/Furnace,0.0,0.0008561643835616438,0.000851063829787234,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -330,7 +330,7 @@ MELFI/SALI,Multipurpose/Biology and Biotechnology,Refrigeration/Incubator,0.0,0.
 CB/GHF,Multipurpose/None,Glovebox/Furnace,0.0,0.0,0.0,0.005784526391901663,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 GHF/MELFI,None/Multipurpose,Furnace/Refrigeration,0.0,0.0,0.0,0.0036153289949385392,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Aquatic Habitat/MSPR,Biology and Biotechnology/Multipurpose,Biology/General science,0.0,0.0,0.0,0.0036153289949385392,0.005714285714285714,0.010460251046025104,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/MSPR,Biology and Biotechnology/Multipurpose,Centrifuge/General science,0.0,0.0,0.0,0.0036153289949385392,0.0,0.010460251046025104,0.0020161290322580645,0.00528169014084507,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/MSPR,Biology and Biotechnology/Multipurpose,Biology/General science,0.0,0.0,0.0,0.0036153289949385392,0.0,0.010460251046025104,0.0020161290322580645,0.00528169014084507,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 IPU/MSPR,Multipurpose/Multipurpose,Image processing/General science,0.0,0.0,0.0,0.0021691973969631237,0.0,0.0,0.0,0.0017605633802816902,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 KFT/MSPR,Biology and Biotechnology/Multipurpose,Glovebox/General science,0.0,0.0,0.0,0.0014461315979754157,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 EXPRESS Rack/NanoRacks Plate Reader,Multipurpose/Multipurpose,General science/Biology,0.0,0.0,0.0,0.0014461315979754157,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -394,7 +394,7 @@ FIR/MWA,Physical Science/Multipurpose,Fluids/Maintenance,0.0,0.0,0.0,0.0,0.0,0.0
 Aquatic Habitat/MWA,Biology and Biotechnology/Multipurpose,Biology/Maintenance,0.0,0.0,0.0,0.0,0.0,0.0020920502092050207,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Aquatic Habitat/IPU,Biology and Biotechnology/Multipurpose,Biology/Image processing,0.0,0.0,0.0,0.0,0.0,0.0020920502092050207,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MELFI/Rodent Research,Multipurpose/Biology and Biotechnology,Refrigeration/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.012096774193548387,0.0017605633802816902,0.004830917874396135,0.01951219512195122,0.0018050541516245488,0.0,0.0,0.0,0.0,0.0
-Aquatic Habitat/CBEF,Biology and Biotechnology/Biology and Biotechnology,Biology/Centrifuge,0.0,0.0,0.0,0.0,0.0,0.0,0.008064516129032258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aquatic Habitat/CBEF,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.008064516129032258,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MWA/Veggie,Multipurpose/Biology and Biotechnology,Maintenance/Plant,0.0,0.0,0.0,0.0,0.0,0.0,0.004032258064516129,0.0017605633802816902,0.004830917874396135,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 MSPR/MSPR-2,Multipurpose/Multipurpose,General science/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.004032258064516129,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ABRS/Veggie,Biology and Biotechnology/Biology and Biotechnology,Plant/Plant,0.0,0.0,0.0,0.0,0.0,0.0,0.004032258064516129,0.0,0.008051529790660225,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -414,7 +414,7 @@ CBPD/PFS,Human Research/Human Research,Crew health/Crew health,0.0,0.0,0.0,0.0,0
 CB/RAM,Multipurpose/Human Research,Glovebox/Crew health,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 FROST/MSPR,Multipurpose/Multipurpose,Refrigeration/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 ABRS/LMM,Biology and Biotechnology/Multipurpose,Plant/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.00322061191626409,0.0,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/FROST,Biology and Biotechnology/Multipurpose,Centrifuge/Refrigeration,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/FROST,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Fruit Fly Lab/MELFI,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Fruit Fly Lab/MWA,Biology and Biotechnology/Multipurpose,Biology/Maintenance,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Portable Pulmonary Function System/Ultrasound,Human Research/Human Research,Crew health/Crew health,0.0,0.0,0.0,0.0,0.0,0.0,0.0020161290322580645,0.0035211267605633804,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
@@ -511,7 +511,7 @@ LSG/MSG,Multipurpose/Multipurpose,Glovebox/Glovebox,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
 GN2/Plant Habitat,Multipurpose/Biology and Biotechnology,General science/Plant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 FROST/HSRC,Multipurpose/Technology Development and Demonstration,Refrigeration/External payloads,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 EXPRESS Rack/TangoLab-2,Multipurpose/Multipurpose,General science/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0015432098765432098,0.0,0.0
-CBEF/Polar,Biology and Biotechnology/Multipurpose,Centrifuge/Refrigeration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
+CBEF/Polar,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 ELF/HSRC,Physical Science/Technology Development and Demonstration,Furnace/External payloads,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 CB/HSRC,Multipurpose/Technology Development and Demonstration,Glovebox/External payloads,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 HSRC/RC,Technology Development and Demonstration/Human Research,External payloads/Centrifuge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
@@ -525,16 +525,16 @@ GLACIER/TangoLab-2,Multipurpose/Multipurpose,Refrigeration/General science,0.0,0
 GLACIER/TangoLab-1,Multipurpose/Multipurpose,Refrigeration/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
 EXHAM/RC,Multipurpose/Human Research,External payloads/Centrifuge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.002178649237472767,0.0,0.0,0.0,0.0
 EXPRESS Rack/MSPR,Multipurpose/Multipurpose,General science/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0016260162601626016,0.0,0.0,0.0,0.0,0.0,0.0
-CBEF/CBEF-L,Biology and Biotechnology/Biology and Biotechnology,Centrifuge/Centrifuge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.018050541516245487,0.02832244008714597,0.02276176024279211,0.015432098765432098,0.0030816640986132513,0.013114754098360656
+CBEF/CBEF-L,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.018050541516245487,0.02832244008714597,0.02276176024279211,0.015432098765432098,0.0030816640986132513,0.013114754098360656
 MMD/Veggie,Multipurpose/Biology and Biotechnology,Crew health/Plant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.009025270758122744,0.0,0.0,0.0,0.0,0.0
 CB/SlingShot,Multipurpose/Multipurpose,Glovebox/Satellite deployer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.009025270758122744,0.013071895424836602,0.0015174506828528073,0.0,0.0,0.0
-CBEF-L/Saibo,Biology and Biotechnology/Multipurpose,Centrifuge/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.007220216606498195,0.004357298474945534,0.0015174506828528073,0.0,0.0015408320493066256,0.0
+CBEF-L/Saibo,Biology and Biotechnology/Multipurpose,Biology/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.007220216606498195,0.004357298474945534,0.0015174506828528073,0.0,0.0015408320493066256,0.0
 ADSEP/BFF,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.007220216606498195,0.0,0.0,0.0,0.0061633281972265025,0.006557377049180328
 Rodent Research/Spectrum,Biology and Biotechnology/Multipurpose,Biology/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.005415162454873646,0.010893246187363835,0.0,0.0,0.0,0.0
 NanoRacks-extCygnus-NRCSD/RC,Multipurpose/Human Research,Satellite deployer/Centrifuge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.005415162454873646,0.006535947712418301,0.0,0.0,0.0,0.0
 CB/MVP,Multipurpose/Multipurpose,Glovebox/Centrifuge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.005415162454873646,0.0,0.0,0.0,0.0,0.0
 ELC/MISSE-FF,Earth and Space Science/Technology Development and Demonstration,External payloads/Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0036101083032490976,0.0,0.0,0.0,0.0,0.0
-CBEF-L/IPU,Biology and Biotechnology/Multipurpose,Centrifuge/Image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0036101083032490976,0.0,0.0,0.0,0.0,0.0
+CBEF-L/IPU,Biology and Biotechnology/Multipurpose,Biology/Image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0036101083032490976,0.0,0.0,0.0,0.0,0.0
 NanoRacks CubeSat Deployer/NanoRacks-extCygnus-NRCSD,Multipurpose/Multipurpose,Satellite deployer/Satellite deployer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0036101083032490976,0.006535947712418301,0.0,0.0,0.0,0.0
 MERLIN/Polar,Biology and Biotechnology/Multipurpose,Refrigeration/Refrigeration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0036101083032490976,0.0,0.0015174506828528073,0.0,0.0,0.0
 J-SSOD/NanoRacks External Platform,Multipurpose/Multipurpose,Satellite deployer/External payloads,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0018050541516245488,0.0,0.0,0.0,0.0,0.0
@@ -556,7 +556,7 @@ BFF/ELF,Biology and Biotechnology/Physical Science,Biology/Furnace,0.0,0.0,0.0,0
 BFF/SlingShot,Biology and Biotechnology/Multipurpose,Biology/Satellite deployer,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0018050541516245488,0.0,0.0,0.0,0.0,0.0
 CB/ELF,Multipurpose/Physical Science,Glovebox/Furnace,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0018050541516245488,0.0,0.0,0.0,0.0,0.0
 Astrobee/SPHERES,Technology Development and Demonstration/Technology Development and Demonstration,Robotics/Robotics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0018050541516245488,0.0,0.0,0.0,0.0,0.0
-CBEF-L/JAXA Mouse Habitat Unit,Biology and Biotechnology/Biology and Biotechnology,Centrifuge/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.015250544662309368,0.0,0.0,0.0,0.0
+CBEF-L/JAXA Mouse Habitat Unit,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.015250544662309368,0.0,0.0,0.0,0.0
 Bone Densitometer/Spectrum,Biology and Biotechnology/Multipurpose,Crew health/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.004357298474945534,0.0,0.0,0.0,0.0
 EXPRESS Rack/Mobile SpaceLab,Multipurpose/Biology and Biotechnology,General science/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.002178649237472767,0.0,0.0,0.0,0.0
 Iceberg/Polar,Multipurpose/Multipurpose,Refrigeration/Refrigeration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.002178649237472767,0.0030349013657056147,0.0,0.0,0.0
@@ -567,9 +567,9 @@ Hermes/MSL,Multipurpose/Physical Science,Materials/Furnace,0.0,0.0,0.0,0.0,0.0,0
 Confocal Microscope/MSPR,Multipurpose/Multipurpose,Microscope/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.002178649237472767,0.0,0.0,0.0,0.0
 MWA/Plant Habitat,Multipurpose/Biology and Biotechnology,Maintenance/Plant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.002178649237472767,0.0015174506828528073,0.0,0.0,0.0
 KERMIT/MSRR-1,Multipurpose/Physical Science,Microscope/Materials,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0030349013657056147,0.0,0.004622496147919877,0.0
-CBEF/SABL,Biology and Biotechnology/Biology and Biotechnology,Centrifuge/Incubator,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0030349013657056147,0.0,0.0,0.0
+CBEF/SABL,Biology and Biotechnology/Biology and Biotechnology,Biology/Incubator,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0030349013657056147,0.0,0.0,0.0
 Confocal Microscope/SABL,Multipurpose/Biology and Biotechnology,Microscope/Incubator,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0030349013657056147,0.0,0.0,0.0
-CBEF/Confocal Microscope,Biology and Biotechnology/Multipurpose,Centrifuge/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0030349013657056147,0.0,0.0,0.003278688524590164
+CBEF/Confocal Microscope,Biology and Biotechnology/Multipurpose,Biology/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0030349013657056147,0.0,0.0,0.003278688524590164
 HRF-2/Portable Pulmonary Function System,Multipurpose/Human Research,Crew health/Crew health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 Actiwatch/Portable Pulmonary Function System,Human Research/Human Research,Crew health/Crew health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 EXPRESS Rack/Faraday Research,Multipurpose/Multipurpose,General science/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0015432098765432098,0.0015408320493066256,0.0
@@ -580,7 +580,7 @@ Holter Monitor 2/PFS,Human Research/Human Research,Crew health/Crew health,0.0,0
 Spectrum/WORF,Multipurpose/Earth and Space Science,Biology/Earth observation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 Portable Pulmonary Function System/Spectrum,Human Research/Multipurpose,Crew health/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 PFS/Spectrum,Human Research/Multipurpose,Crew health/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
-CBEF/IPU2,Biology and Biotechnology/Multipurpose,Centrifuge/Image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0015432098765432098,0.0015408320493066256,0.0
+CBEF/IPU2,Biology and Biotechnology/Multipurpose,Biology/Image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0015432098765432098,0.0015408320493066256,0.0
 FROST/SCOF,Multipurpose/Biology and Biotechnology,Refrigeration/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 Bio-Analyzer/EXPRESS Rack,Biology and Biotechnology/Multipurpose,Crew health/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 Bio-Analyzer/Bio-Monitor,Biology and Biotechnology/Human Research,Crew health/Crew health,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
@@ -600,9 +600,9 @@ Portable Pulmonary Function System/WORF,Human Research/Earth and Space Science,C
 GHF/KOBAIRO Rack,None/Physical Science,Furnace/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015174506828528073,0.0,0.0,0.0
 CIR/SoFIE,Physical Science/Physical Science,Furnace/Combustion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.026234567901234566,0.02773497688751926,0.04918032786885246
 EPM/GN2,Human Research/Multipurpose,Crew health/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.0
-CBEF-L/IPU2,Biology and Biotechnology/Multipurpose,Centrifuge/Image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.0
+CBEF-L/IPU2,Biology and Biotechnology/Multipurpose,Biology/Image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.0
 MSG/PFMI,Multipurpose/Physical Science,Glovebox/Physics,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.0
-CBEF-L/Confocal Microscope,Biology and Biotechnology/Multipurpose,Centrifuge/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.003278688524590164
+CBEF-L/Confocal Microscope,Biology and Biotechnology/Multipurpose,Biology/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.003278688524590164
 Glovebox Freezer/Rodent Research,Multipurpose/Biology and Biotechnology,Refrigeration/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.0
 MSPR/TELLAS,Multipurpose/Multipurpose,General science/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0015408320493066256,0.0
 ELF/EML,Physical Science/Physical Science,Furnace/Levitation,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015432098765432098,0.0,0.0
@@ -615,7 +615,7 @@ BFF/Iceberg,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0.0,0.0
 MERLIN/SCOF,Biology and Biotechnology/Biology and Biotechnology,Refrigeration/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0
 ELF/MSPR-2,Physical Science/Multipurpose,Furnace/General science,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0
 BioServe Centrifuge/LSG,Multipurpose/Multipurpose,Centrifuge/Glovebox,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0
-CB/CBEF-L,Multipurpose/Biology and Biotechnology,Glovebox/Centrifuge,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0
+CB/CBEF-L,Multipurpose/Biology and Biotechnology,Glovebox/Biology,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0
 GN2/Solar,Multipurpose/Earth and Space Science,General science/Astronomy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0
 EXPRESS Rack/KERMIT,Multipurpose/Multipurpose,General science/Microscope,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0
 CB/IPU2,Multipurpose/Multipurpose,Glovebox/Image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0015408320493066256,0.0

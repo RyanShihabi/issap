@@ -1,6 +1,6 @@
 ,support,itemsets,length,frequency
-649,0.00026389866291344125,"frozenset({'ELC', 'RC'})",2,3
+649,0.00026389866291344125,"frozenset({'RC', 'ELC'})",2,3
 754,0.00017593244194229416,"frozenset({'RC', 'JEM-EF'})",2,2
-1464,0.00017593244194229416,"frozenset({'EXHAM', 'RC'})",2,2
+1464,0.00017593244194229416,"frozenset({'RC', 'EXHAM'})",2,2
 1503,8.796622097114708e-05,"frozenset({'RC', 'HSRC'})",2,1
-1389,8.796622097114708e-05,"frozenset({'RC', 'NanoRacks External Platform'})",2,1
+1389,8.796622097114708e-05,"frozenset({'NanoRacks External Platform', 'RC'})",2,1

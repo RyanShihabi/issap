@@ -1,22 +1,24 @@
 ,support,itemsets,length,frequency
-1490,0.0017593244194229415,"frozenset({'Bone Densitometer', 'Rodent Research'})",2,20
-1513,0.0006157635467980296,"frozenset({'MMD', 'Rodent Research'})",2,7
+1490,0.0017593244194229415,"frozenset({'Rodent Research', 'Bone Densitometer'})",2,20
+1513,0.0006157635467980296,"frozenset({'Rodent Research', 'MMD'})",2,7
 281,0.0005277973258268825,"frozenset({'Actiwatch', 'Spectrum'})",2,6
 158,0.00026389866291344125,"frozenset({'CGBA', 'PFS'})",2,3
 516,0.00017593244194229416,"frozenset({'Holter', 'CGBA'})",2,2
-1496,0.00017593244194229416,"frozenset({'Bone Densitometer', 'Spectrum'})",2,2
-282,0.00017593244194229416,"frozenset({'Holter Monitor 2', 'Spectrum'})",2,2
-188,0.00017593244194229416,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
+1496,0.00017593244194229416,"frozenset({'Spectrum', 'Bone Densitometer'})",2,2
 283,0.00017593244194229416,"frozenset({'Holter', 'Spectrum'})",2,2
-555,0.00017593244194229416,"frozenset({'CGBA', 'TEPC'})",2,2
-613,0.00017593244194229416,"frozenset({'Ultrasound 2', 'Rodent Research'})",2,2
-1298,0.00017593244194229416,"frozenset({'HRF-2', 'BRIC'})",2,2
+188,0.00017593244194229416,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
+282,0.00017593244194229416,"frozenset({'Holter Monitor 2', 'Spectrum'})",2,2
+555,0.00017593244194229416,"frozenset({'TEPC', 'CGBA'})",2,2
+613,0.00017593244194229416,"frozenset({'Rodent Research', 'Ultrasound 2'})",2,2
+1298,0.00017593244194229416,"frozenset({'BRIC', 'HRF-2'})",2,2
 325,0.00017593244194229416,"frozenset({'CGBA', 'PCBA'})",2,2
-289,8.796622097114708e-05,"frozenset({'PFS', 'Spectrum'})",2,1
-287,8.796622097114708e-05,"frozenset({'Portable Pulmonary Function System', 'Spectrum'})",2,1
-285,8.796622097114708e-05,"frozenset({'HRF-2', 'Spectrum'})",2,1
-284,8.796622097114708e-05,"frozenset({'Actiwatch Spectrum', 'Spectrum'})",2,1
+289,8.796622097114708e-05,"frozenset({'Spectrum', 'PFS'})",2,1
+287,8.796622097114708e-05,"frozenset({'Spectrum', 'Portable Pulmonary Function System'})",2,1
+285,8.796622097114708e-05,"frozenset({'Spectrum', 'HRF-2'})",2,1
+284,8.796622097114708e-05,"frozenset({'Spectrum', 'Actiwatch Spectrum'})",2,1
+888,8.796622097114708e-05,"frozenset({'CBEF', 'ALTEA'})",2,1
 611,8.796622097114708e-05,"frozenset({'Ultrasound 2', 'CGBA'})",2,1
 992,8.796622097114708e-05,"frozenset({'UMS', 'CGBA'})",2,1
-528,8.796622097114708e-05,"frozenset({'CGBA', 'EPM'})",2,1
-1544,8.796622097114708e-05,"frozenset({'Bone Densitometer', 'Wet Lab Kit'})",2,1
+528,8.796622097114708e-05,"frozenset({'EPM', 'CGBA'})",2,1
+515,8.796622097114708e-05,"frozenset({'CBEF', 'Holter'})",2,1
+1544,8.796622097114708e-05,"frozenset({'Wet Lab Kit', 'Bone Densitometer'})",2,1

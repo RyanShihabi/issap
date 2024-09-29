@@ -1,9 +1,9 @@
 ,support,itemsets,length,frequency
-456,0.0004398311048557354,"frozenset({'MARES', 'WORF'})",2,5
-254,0.00017593244194229416,"frozenset({'PFS', 'WORF'})",2,2
+456,0.0004398311048557354,"frozenset({'WORF', 'MARES'})",2,5
+254,0.00017593244194229416,"frozenset({'WORF', 'PFS'})",2,2
 269,8.796622097114708e-05,"frozenset({'Holter Monitor 2', 'WORF'})",2,1
-882,8.796622097114708e-05,"frozenset({'ALTEA', 'WORF'})",2,1
-255,8.796622097114708e-05,"frozenset({'Actiwatch', 'WORF'})",2,1
-610,8.796622097114708e-05,"frozenset({'Ultrasound 2', 'WORF'})",2,1
-197,8.796622097114708e-05,"frozenset({'Portable Pulmonary Function System', 'WORF'})",2,1
-1395,8.796622097114708e-05,"frozenset({'MUSES', 'RAM'})",2,1
+882,8.796622097114708e-05,"frozenset({'WORF', 'ALTEA'})",2,1
+255,8.796622097114708e-05,"frozenset({'WORF', 'Actiwatch'})",2,1
+610,8.796622097114708e-05,"frozenset({'WORF', 'Ultrasound 2'})",2,1
+197,8.796622097114708e-05,"frozenset({'WORF', 'Portable Pulmonary Function System'})",2,1
+1395,8.796622097114708e-05,"frozenset({'RAM', 'MUSES'})",2,1

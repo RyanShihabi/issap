@@ -1,5 +1,5 @@
 ,support,itemsets,length,frequency
-1000,0.0014954257565095003,"frozenset({'ELC', 'RAM'})",2,17
+1000,0.0014954257565095003,"frozenset({'RAM', 'ELC'})",2,17
 884,0.00026389866291344125,"frozenset({'ELC', 'ALTEA'})",2,3
 994,8.796622097114708e-05,"frozenset({'UMS', 'ELC'})",2,1
-1495,8.796622097114708e-05,"frozenset({'Bone Densitometer', 'ELC'})",2,1
+1495,8.796622097114708e-05,"frozenset({'ELC', 'Bone Densitometer'})",2,1

@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+1160,0.00026389866291344125,"frozenset({'CB', 'MVP'})",2,3
+478,0.00017593244194229416,"frozenset({'CB', 'RC'})",2,2
+603,8.796622097114708e-05,"frozenset({'MSG', 'RC'})",2,1
+1139,8.796622097114708e-05,"frozenset({'PGB', 'MVP'})",2,1
+1572,8.796622097114708e-05,"frozenset({'LSG', 'BioServe Centrifuge'})",2,1

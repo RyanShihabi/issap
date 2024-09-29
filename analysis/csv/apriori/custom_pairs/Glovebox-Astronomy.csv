@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
 548,0.00017593244194229416,"frozenset({'CB', 'Solar'})",2,2
-924,8.796622097114708e-05,"frozenset({'KFT', 'Solar'})",2,1
+924,8.796622097114708e-05,"frozenset({'Solar', 'KFT'})",2,1

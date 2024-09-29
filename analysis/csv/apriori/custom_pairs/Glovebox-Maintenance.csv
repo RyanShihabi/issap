@@ -1,5 +1,5 @@
 ,support,itemsets,length,frequency
-928,0.00017593244194229416,"frozenset({'KFT', 'MWA'})",2,2
+928,0.00017593244194229416,"frozenset({'MWA', 'KFT'})",2,2
 485,8.796622097114708e-05,"frozenset({'CB', 'MWA'})",2,1
-1305,8.796622097114708e-05,"frozenset({'MWA', 'LSG'})",2,1
+1305,8.796622097114708e-05,"frozenset({'LSG', 'MWA'})",2,1
 491,8.796622097114708e-05,"frozenset({'MSG', 'MWA'})",2,1

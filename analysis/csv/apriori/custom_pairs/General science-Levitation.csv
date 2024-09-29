@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+1372,0.0015833919774806474,"frozenset({'EDR', 'EML'})",2,18
+1344,0.00017593244194229416,"frozenset({'TangoLab-2', 'EML'})",2,2
