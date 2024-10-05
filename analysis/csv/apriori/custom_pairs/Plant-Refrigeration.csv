@@ -1,0 +1,9 @@
+,support,itemsets,length,frequency
+428,0.0018472906403940886,"frozenset({'MELFI', 'EMCS'})",2,21
+1350,0.0013194933145672062,"frozenset({'Veggie', 'MELFI'})",2,15
+1176,0.0005277973258268825,"frozenset({'ABRS', 'MELFI'})",2,6
+1032,0.00026389866291344125,"frozenset({'Plant Habitat', 'MELFI'})",2,3
+1185,0.00017593244194229416,"frozenset({'ABRS', 'GLACIER'})",2,2
+835,0.00017593244194229416,"frozenset({'GLACIER', 'Veggie'})",2,2
+429,8.796622097114708e-05,"frozenset({'GLACIER', 'EMCS'})",2,1
+1178,8.796622097114708e-05,"frozenset({'ABRS', 'MERLIN'})",2,1

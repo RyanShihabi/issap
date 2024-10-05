@@ -376,6 +376,8 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
         os.makedirs("./analysis/csv/custom_category_year/Most_Mentioned_Yearly")
         os.makedirs("./analysis/csv/custom_category_year/stats")
     
+    total_df = pd.DataFrame()
+    
     for category in custom_facilities:
         category_year_df = df_year.loc[:, custom_facilities[category]]
 
@@ -387,6 +389,10 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
 
         category_year_sum_df.name = "Frequency"
         category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/{category}_Yearly.csv", index_label="Year")
+        
+        if category != "Crew health":
+            category_year_sum_df.name = category
+            total_df = pd.concat([total_df, category_year_sum_df], axis=1)
 
         stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
         stats_df.to_csv(f"./analysis/csv/custom_category_year/stats/{category}.csv")
@@ -410,6 +416,11 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
 
     category_year_sum_df.name = "Frequency"
     category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/Crew_Health_Without_Exercise_Yearly.csv", index_label="Year")
+
+    category_year_sum_df.name = "Crew health (without exercise)"
+    total_df = pd.concat([total_df, category_year_sum_df], axis=1)
+
+    total_df.to_csv(f"./analysis/csv/custom_category_year/Combined_Yearly.csv", index_label="Year")
 
     stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
     stats_df.to_csv(f"./analysis/csv/custom_category_year/stats/{category}.csv")

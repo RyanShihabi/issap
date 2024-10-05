@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+251,0.00026389866291344125,"frozenset({'CGBA', 'WORF'})",2,3
+288,8.796622097114708e-05,"frozenset({'Spectrum', 'WORF'})",2,1

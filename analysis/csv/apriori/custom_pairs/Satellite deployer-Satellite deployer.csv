@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
 1580,0.0004398311048557354,"frozenset({'NanoRacks-extCygnus-NRCSD', 'NanoRacks CubeSat Deployer'})",2,5
-1400,8.796622097114708e-05,"frozenset({'NanoRacks CubeSat Deployer', 'J-SSOD'})",2,1
+1400,8.796622097114708e-05,"frozenset({'J-SSOD', 'NanoRacks CubeSat Deployer'})",2,1

@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-1073,0.00026389866291344125,"frozenset({'FSL', 'EPM'})",2,3
-1068,8.796622097114708e-05,"frozenset({'FSL', 'Ultrasound 2'})",2,1
-764,8.796622097114708e-05,"frozenset({'Ultrasound', 'FIR'})",2,1
-551,8.796622097114708e-05,"frozenset({'TEPC', 'FIR'})",2,1
-328,8.796622097114708e-05,"frozenset({'PCBA', 'FIR'})",2,1

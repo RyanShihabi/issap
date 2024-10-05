@@ -1,5 +1,5 @@
 ,support,itemsets,length,frequency
 1330,0.00017593244194229416,"frozenset({'BioLab', 'MWA'})",2,2
-489,8.796622097114708e-05,"frozenset({'MWA', 'CGBA'})",2,1
-1283,8.796622097114708e-05,"frozenset({'MWA', 'Aquatic Habitat'})",2,1
-1480,8.796622097114708e-05,"frozenset({'MWA', 'Fruit Fly Lab'})",2,1
+489,8.796622097114708e-05,"frozenset({'CGBA', 'MWA'})",2,1
+1283,8.796622097114708e-05,"frozenset({'Aquatic Habitat', 'MWA'})",2,1
+1480,8.796622097114708e-05,"frozenset({'Fruit Fly Lab', 'MWA'})",2,1

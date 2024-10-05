@@ -1,9 +1,9 @@
 ,support,itemsets,length,frequency
-161,0.0008796622097114708,"frozenset({'RC', 'PFS'})",2,10
-512,0.0007916959887403237,"frozenset({'RC', 'Holter'})",2,9
-326,0.0004398311048557354,"frozenset({'RC', 'PCBA'})",2,5
+161,0.0008796622097114708,"frozenset({'PFS', 'RC'})",2,10
+512,0.0007916959887403237,"frozenset({'Holter', 'RC'})",2,9
+326,0.0004398311048557354,"frozenset({'PCBA', 'RC'})",2,5
 997,0.0004398311048557354,"frozenset({'RAM', 'RC'})",2,5
 385,0.00026389866291344125,"frozenset({'EPM', 'RC'})",2,3
 453,8.796622097114708e-05,"frozenset({'Ultrasound', 'RC'})",2,1
-1148,8.796622097114708e-05,"frozenset({'RC', 'HRF-2'})",2,1
-193,8.796622097114708e-05,"frozenset({'RC', 'Portable Pulmonary Function System'})",2,1
+1148,8.796622097114708e-05,"frozenset({'HRF-2', 'RC'})",2,1
+193,8.796622097114708e-05,"frozenset({'Portable Pulmonary Function System', 'RC'})",2,1
