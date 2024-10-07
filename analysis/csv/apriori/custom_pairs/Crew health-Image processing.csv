@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+727,0.00017593244194229416,"frozenset({'IPU', 'Holter'})",2,2
+993,8.796622097114708e-05,"frozenset({'IPU', 'UMS'})",2,1

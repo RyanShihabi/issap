@@ -10,6 +10,15 @@ To generate all data found in the analysis folder:
 python3 run.py
 ```
 
+## Adding/Modifying Facilities and Categories
+
+The NASA-generated facility spreadsheet can be found under the sources/facility_data/csv directory in "all_facilities.csv"
+
+- Adding a Facility: Ensure the facility has names entered for both short and full name (it can be the same)
+- Adding a Category: Ensure the facility has an associated category
+
+All categories and/or facilities added to this spreadsheet will be included in the data mining and analysis
+
 ## Directory Structure
 
 ```bash

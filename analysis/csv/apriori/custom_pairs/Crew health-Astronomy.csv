@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+1001,0.0003518648838845883,"frozenset({'Solar', 'RAM'})",2,4
+550,8.796622097114708e-05,"frozenset({'Solar', 'TEPC'})",2,1

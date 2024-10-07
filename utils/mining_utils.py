@@ -124,6 +124,7 @@ def overlapping_lists(list1: list, list2: list):
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple, filter_year: int = -1,):
 	dataset = []
 	facility_names = []
+	facility_titles = []
 
 	for name, abbr in facility_name_abbr.items():
 		facility_names.append(name)
@@ -167,6 +168,7 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
 		if len(excerpt_pair) != 0:
 			print(report)
+
 		facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr, text, excerpt_pair)
 
 		for paragraph in facilities_mentioned:
@@ -203,8 +205,20 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 			print(report)
 		facilities_mentioned = assign_paragraphs(double_paragraph_indices, facility_locs, facility_name_abbr, text, excerpt_pair)
 
+		for paragraph_group in double_paragraph_indices:
+			paragraph = text[paragraph_group[0]:paragraph_group[1]]
+			if ":" in paragraph:
+				title = paragraph.split(":")[0].strip()
+				facility_titles.append(title)
+		
 		for paragraph in facilities_mentioned:
 			dataset.append(paragraph)
+	
+	facility_titles = list(set(facility_titles))
+
+	with open("./analysis/json/facility_report_titles.json", "w") as f:
+		json.dump(facility_titles, f, indent=4)
+	f.close()
 	
 	return dataset
 

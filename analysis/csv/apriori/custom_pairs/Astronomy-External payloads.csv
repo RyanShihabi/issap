@@ -1,4 +1,4 @@
 ,support,itemsets,length,frequency
 653,0.00026389866291344125,"frozenset({'Solar', 'ELC'})",2,3
-757,8.796622097114708e-05,"frozenset({'Solar', 'JEM-EF'})",2,1
+757,8.796622097114708e-05,"frozenset({'JEM-EF', 'Solar'})",2,1
 1390,8.796622097114708e-05,"frozenset({'Solar', 'NanoRacks External Platform'})",2,1

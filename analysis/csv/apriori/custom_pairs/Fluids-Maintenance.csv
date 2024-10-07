@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+496,0.0019352568613652356,"frozenset({'FPEF', 'MWA'})",2,22
+493,8.796622097114708e-05,"frozenset({'MWA', 'FIR'})",2,1
