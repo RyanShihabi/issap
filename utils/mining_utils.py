@@ -100,25 +100,26 @@ def find_name_indices(name: str, text: str) -> list:
 	name_indices = []
 
 	for name_index in [word.start() for word in re.finditer(name, text)]:
-		name_indices.append((name_index, name_index + len(name)))
+		if ((name_index == 0) or (text[name_index-1].isupper() == False)) and ((name_index+len(name) == len(text)) or (text[name_index+len(name)].isupper() == False)):
+			name_indices.append((name_index, name_index + len(name)))
 
 	return name_indices
 
 # Find and remove overlapping facility mentions
-def overlapping_lists(list1: list, list2: list):
-	result1 = list1.copy()
-	result2 = list2.copy()
+# def overlapping_lists(list1: list, list2: list):
+# 	result1 = list1.copy()
+# 	result2 = list2.copy()
 
-	for r1 in list1:
-		for r2 in list2:
-			if r1[0] <= r2[1] and r1[1] >= r2[0]:
-				if (r1[1] - r1[0]) < (r2[1] - r2[0]):
-					result1.remove(r1)
-					break
-				else:
-					result2.remove(r2)
+# 	for r1 in list1:
+# 		for r2 in list2:
+# 			if r1[0] <= r2[1] and r1[1] >= r2[0]:
+# 				if (r1[1] - r1[0]) < (r2[1] - r2[0]):
+# 					result1.remove(r1)
+# 					break
+# 				else:
+# 					result2.remove(r2)
 					
-	return result1, result2
+# 	return result1, result2
 
 # Paragraph facility mention list for Apriori input
 def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerpt_pair: tuple, filter_year: int = -1,):
@@ -157,15 +158,6 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 			if len(abbr_locs) != 0:
 				facility_locs[abbr] = abbr_locs
 
-		for key, values in facility_locs.items():
-			for keyComp, valuesComp in facility_locs.items():
-				if key != keyComp:
-					newValues, newValuesComp = overlapping_lists(values, valuesComp)
-
-					facility_locs[key] = newValues
-					facility_locs[keyComp] = newValuesComp
-
-		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
 		if len(excerpt_pair) != 0:
 			print(report)
 
@@ -192,13 +184,13 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 			if len(abbr_locs) != 0:
 				facility_locs[abbr] = abbr_locs
 
-		for key, values in facility_locs.items():
-			for keyComp, valuesComp in facility_locs.items():
-				if key != keyComp:
-					newValues, newValuesComp = overlapping_lists(values, valuesComp)
+		# for key, values in facility_locs.items():
+		# 	for keyComp, valuesComp in facility_locs.items():
+		# 		if key != keyComp:
+		# 			newValues, newValuesComp = overlapping_lists(values, valuesComp)
 
-					facility_locs[key] = newValues
-					facility_locs[keyComp] = newValuesComp
+		# 			facility_locs[key] = newValues
+		# 			facility_locs[keyComp] = newValuesComp
 
 		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
 		if len(excerpt_pair) != 0:
@@ -320,13 +312,13 @@ def grab_facility_mentions(report_dir: str, facility_data, filter=None, kernel_w
 				if len(abbr_locs) != 0:
 					facility_locs[abbr] = abbr_locs
 
-			for key, values in facility_locs.items():
-				for keyComp, valuesComp in facility_locs.items():
-					if key != keyComp:
-						newValues, newValuesComp = overlapping_lists(values, valuesComp)
+			# for key, values in facility_locs.items():
+			# 	for keyComp, valuesComp in facility_locs.items():
+			# 		if key != keyComp:
+			# 			newValues, newValuesComp = overlapping_lists(values, valuesComp)
 
-						facility_locs[key] = newValues
-						facility_locs[keyComp] = newValuesComp
+			# 			facility_locs[key] = newValues
+			# 			facility_locs[keyComp] = newValuesComp
 
 			facilities_mentioned = [key for key, val in facility_locs.items() if len(val) != 0]
 			facilities_mentioned = list(set(map(lambda x: facility_data["facility_name_abbr"][x] if x in facility_data["facility_name_abbr"] else x, facilities_mentioned)))

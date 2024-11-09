@@ -1,17 +1,18 @@
 ,support,itemsets,length,frequency
-524,0.013898662913441238,"frozenset({'EXPRESS Rack', 'CGBA'})",2,158
-1005,0.0012315270935960591,"frozenset({'MSPR', 'CBEF'})",2,14
-695,0.0012315270935960591,"frozenset({'Ryutai', 'PCRF'})",2,14
-1281,0.001143560872624912,"frozenset({'MSPR', 'Aquatic Habitat'})",2,13
-661,0.0006157635467980296,"frozenset({'EXPRESS Rack', 'MDS'})",2,7
-1348,0.0004398311048557354,"frozenset({'EXPRESS Rack', 'Rodent Research'})",2,5
-1014,0.00026389866291344125,"frozenset({'CGBA', 'SLAMMD'})",2,3
-1164,0.00017593244194229416,"frozenset({'Ryutai', 'Saibo'})",2,2
-1120,0.00017593244194229416,"frozenset({'EXPRESS Rack', 'NanoRacks Plate Reader'})",2,2
-1300,0.00017593244194229416,"frozenset({'EXPRESS Rack', 'BRIC'})",2,2
-980,0.00017593244194229416,"frozenset({'EDR', 'CGBA'})",2,2
-1508,0.00017593244194229416,"frozenset({'TELLAS', 'MSPR'})",2,2
-1553,0.00017593244194229416,"frozenset({'EXPRESS Rack', 'Bioculture System'})",2,2
-1303,8.796622097114708e-05,"frozenset({'EXPRESS Rack', 'BSTC'})",2,1
-1545,8.796622097114708e-05,"frozenset({'EXPRESS Rack', 'Wet Lab Kit'})",2,1
-1578,8.796622097114708e-05,"frozenset({'EXPRESS Rack', 'Mobile SpaceLab'})",2,1
+825,0.014830110756523372,"frozenset({'EXPRESS Rack', 'CGBA'})",2,158
+1143,0.001314060446780552,"frozenset({'PCRF', 'Ryutai'})",2,14
+1413,0.001314060446780552,"frozenset({'CBEF', 'MSPR'})",2,14
+1829,0.0012201989862962268,"frozenset({'Aquatic Habitat', 'MSPR'})",2,13
+1123,0.000657030223390276,"frozenset({'MDS', 'EXPRESS Rack'})",2,7
+1882,0.0004693073024216257,"frozenset({'EXPRESS Rack', 'Rodent Research'})",2,5
+1453,0.0002815843814529754,"frozenset({'CGBA', 'SLAMMD'})",2,3
+1959,0.00018772292096865028,"frozenset({'EXPRESS Rack', 'BRIC'})",2,2
+1736,0.00018772292096865028,"frozenset({'Saibo', 'Ryutai'})",2,2
+1686,0.00018772292096865028,"frozenset({'EXPRESS Rack', 'NanoRacks Plate Reader'})",2,2
+1404,0.00018772292096865028,"frozenset({'EDR', 'CGBA'})",2,2
+2039,0.00018772292096865028,"frozenset({'TELLAS', 'MSPR'})",2,2
+2081,0.00018772292096865028,"frozenset({'Bioculture System', 'EXPRESS Rack'})",2,2
+344,9.386146048432514e-05,"frozenset({'EXPRESS Rack', 'Spectrum'})",2,1
+1847,9.386146048432514e-05,"frozenset({'EXPRESS Rack', 'BSTC'})",2,1
+2073,9.386146048432514e-05,"frozenset({'EXPRESS Rack', 'Wet Lab Kit'})",2,1
+2098,9.386146048432514e-05,"frozenset({'EXPRESS Rack', 'Mobile SpaceLab'})",2,1

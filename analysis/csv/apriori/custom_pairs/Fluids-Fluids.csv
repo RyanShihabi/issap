@@ -1,4 +1,4 @@
 ,support,itemsets,length,frequency
-1076,8.796622097114708e-05,"frozenset({'FSL', 'FPEF'})",2,1
-1077,8.796622097114708e-05,"frozenset({'FSL', 'FIR'})",2,1
-502,8.796622097114708e-05,"frozenset({'FPEF', 'FIR'})",2,1
+817,9.386146048432514e-05,"frozenset({'FIR', 'FPEF'})",2,1
+1549,9.386146048432514e-05,"frozenset({'FIR', 'FSL'})",2,1
+1548,9.386146048432514e-05,"frozenset({'FPEF', 'FSL'})",2,1

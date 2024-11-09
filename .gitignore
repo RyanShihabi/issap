@@ -13,3 +13,5 @@ new_reports
 july_2024/
 missing/
 .DS_Store
+*inSPA*
+unit_tests.py

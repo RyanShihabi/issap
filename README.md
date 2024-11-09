@@ -1,6 +1,6 @@
 # ISSAP 
 
-The code and data for the paper: *Facilities Usage on the International Space Station*
+The code and data for the paper: *Facilities Usage on the International Space Station* (https://osf.io/preprints/osf/d9k4w)
 
 ## Data Generation
 

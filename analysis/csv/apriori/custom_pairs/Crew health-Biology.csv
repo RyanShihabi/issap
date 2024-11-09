@@ -1,0 +1,30 @@
+,support,itemsets,length,frequency
+337,0.009761591890369814,"frozenset({'Actiwatch', 'Spectrum'})",2,104
+530,0.009292284587948188,"frozenset({'Spectrum', 'Actiwatch Spectrum'})",2,99
+338,0.006664163694387085,"frozenset({'Spectrum', 'Holter'})",2,71
+339,0.004974657405669232,"frozenset({'Holter Monitor 2', 'Spectrum'})",2,53
+340,0.0035667354984043552,"frozenset({'EPM', 'Spectrum'})",2,38
+943,0.0023465365121081282,"frozenset({'Ultrasound 2', 'Spectrum'})",2,24
+341,0.0023465365121081282,"frozenset({'Ultrasound', 'Spectrum'})",2,24
+2016,0.0018772292096865028,"frozenset({'Rodent Research', 'Bone Densitometer'})",2,20
+1426,0.000657030223390276,"frozenset({'Rodent Research', 'MMD'})",2,7
+1421,0.0002815843814529754,"frozenset({'CGBA', 'MMD'})",2,3
+163,0.0002815843814529754,"frozenset({'CGBA', 'PFS'})",2,3
+870,0.00018772292096865028,"frozenset({'TEPC', 'CGBA'})",2,2
+192,0.00018772292096865028,"frozenset({'Portable Pulmonary Function System', 'CGBA'})",2,2
+342,0.00018772292096865028,"frozenset({'HRF-1', 'Spectrum'})",2,2
+953,0.00018772292096865028,"frozenset({'Ultrasound 2', 'Rodent Research'})",2,2
+830,0.00018772292096865028,"frozenset({'CGBA', 'Holter'})",2,2
+1883,0.00018772292096865028,"frozenset({'Ultrasound', 'Rodent Research'})",2,2
+1957,0.00018772292096865028,"frozenset({'HRF-2', 'BRIC'})",2,2
+2023,0.00018772292096865028,"frozenset({'Spectrum', 'Bone Densitometer'})",2,2
+458,0.00018772292096865028,"frozenset({'CGBA', 'PCBA'})",2,2
+348,9.386146048432514e-05,"frozenset({'Spectrum', 'PFS'})",2,1
+952,9.386146048432514e-05,"frozenset({'Ultrasound 2', 'CGBA'})",2,1
+346,9.386146048432514e-05,"frozenset({'Portable Pulmonary Function System', 'Spectrum'})",2,1
+800,9.386146048432514e-05,"frozenset({'CBEF', 'Holter'})",2,1
+831,9.386146048432514e-05,"frozenset({'EPM', 'CGBA'})",2,1
+828,9.386146048432514e-05,"frozenset({'Ultrasound', 'CGBA'})",2,1
+1316,9.386146048432514e-05,"frozenset({'CBEF', 'ALTEA'})",2,1
+2072,9.386146048432514e-05,"frozenset({'Wet Lab Kit', 'Bone Densitometer'})",2,1
+1715,9.386146048432514e-05,"frozenset({'HRF-2', 'Spectrum'})",2,1

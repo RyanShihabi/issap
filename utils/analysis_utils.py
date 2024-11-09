@@ -317,18 +317,29 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
         os.makedirs("./analysis/csv/category_year")
         os.makedirs("./analysis/csv/category_year/Most_Mentioned_Yearly")
         os.makedirs("./analysis/csv/category_year/stats")
+
+    year_totals = df_year.sum(axis=1)
     
     for category in category_facilities:
         category_year_df = df_year.loc[:, category_facilities[category]]
 
         category_year_sum_df = category_year_df.T.sum().T
-
+        
         category_most_mentioned = category_year_df.idxmax(axis=1)
         category_most_mentioned.name = "Facility"
+        
+        for year in category_most_mentioned.index:
+            if category_year_sum_df[year] == 0:
+                category_most_mentioned[year] = "None"
+
         category_most_mentioned.to_csv(f"./analysis/csv/category_year/Most_Mentioned_Yearly/{category}_Most_Mentioned_Yearly.csv")
 
         category_year_sum_df.name = "Frequency"
         category_year_sum_df.to_csv(f"./analysis/csv/category_year/{category}_Yearly.csv", index_label="Year")
+
+        category_year_sum_df.name = "Proportion"
+        category_year_prop_df = category_year_sum_df / year_totals
+        category_year_prop_df.to_csv(f"./analysis/csv/category_year/{category}_prop_Yearly.csv", index_label="Year")
         
         stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
         stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
@@ -353,6 +364,10 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
     
     category_year_sum_df.name = "Frequency"
     category_year_sum_df.to_csv(f"./analysis/csv/category_year/Human_Research_Without_Exercise_Yearly.csv", index_label="Year")
+
+    category_year_sum_df.name = "Proportion"
+    category_year_prop_df = category_year_sum_df / year_totals
+    category_year_prop_df.to_csv(f"./analysis/csv/category_year/{category}_prop_Yearly.csv", index_label="Year")
     
     stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
     stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
@@ -376,6 +391,8 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
         os.makedirs("./analysis/csv/custom_category_year/Most_Mentioned_Yearly")
         os.makedirs("./analysis/csv/custom_category_year/stats")
     
+    year_totals = df_year.sum(axis=1)
+    
     total_df = pd.DataFrame()
     
     for category in custom_facilities:
@@ -385,10 +402,19 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
 
         category_most_mentioned = category_year_df.idxmax(axis=1)
         category_most_mentioned.name = "Facility"
+
+        for year in category_most_mentioned.index:
+            if category_year_sum_df[year] == 0:
+                category_most_mentioned[year] = "None"
+        
         category_most_mentioned.to_csv(f"./analysis/csv/custom_category_year/Most_Mentioned_Yearly/{category}_Most_Mentioned_Yearly.csv")
 
         category_year_sum_df.name = "Frequency"
         category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/{category}_Yearly.csv", index_label="Year")
+
+        category_year_sum_df.name = "Proportion"
+        category_year_prop_df = category_year_sum_df / year_totals
+        category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
         
         if category != "Crew health":
             category_year_sum_df.name = category
@@ -404,7 +430,7 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
         plt.ylabel("Frequency")
         plt.tight_layout()
         plt.savefig(f"./analysis/plots/custom_category_year/{category}.png")
-        plt.close()
+        plt.close() 
 
     # Without Exercise
     category_year_df = df_year.loc[:, [col for col in custom_facilities["Crew health"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]]
@@ -416,6 +442,10 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
 
     category_year_sum_df.name = "Frequency"
     category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/Crew_Health_Without_Exercise_Yearly.csv", index_label="Year")
+
+    category_year_sum_df.name = "Proportion"
+    category_year_prop_df = category_year_sum_df / year_totals
+    category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
 
     category_year_sum_df.name = "Crew health (without exercise)"
     total_df = pd.concat([total_df, category_year_sum_df], axis=1)

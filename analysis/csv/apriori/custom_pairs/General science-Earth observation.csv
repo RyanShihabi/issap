@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-250,0.0007037297677691766,"frozenset({'EXPRESS Rack', 'WORF'})",2,8
-1016,8.796622097114708e-05,"frozenset({'SLAMMD', 'WORF'})",2,1
+268,0.0007508916838746011,"frozenset({'EXPRESS Rack', 'WORF'})",2,8
+1455,9.386146048432514e-05,"frozenset({'SLAMMD', 'WORF'})",2,1

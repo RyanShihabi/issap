@@ -9,7 +9,7 @@
 8,EXpedite the PRocessing of Experiments&nbsp;to Space Station Rack,Generic
 9,Advanced Plant Habitat,Plant
 10,Mass Measurement Device,Crew health
-11,Human Research Facility Ultrasound on the International Space Station 2 ,Crew health
+11,Human Research Facility Ultrasound on the International Space Station 2,Crew health
 12,Double Coldbag,Refrigerator
 13,Additive Manufacturing Facility,3D printing
 14,Aquatic Habitat,Biology
@@ -154,3 +154,20 @@
 153,ADSEP-2,Biology
 154,BSTC,Biology
 155,GASMAP,Crew health
+156,BFF,inSPA
+157,Biomimetic Fabrication of Multifunctional DNA-inspired Nanomaterials,inSPA
+158,CRF,inSPA
+159,Drug Delivery Medical Devices,inSPA
+160,FOP,inSPA
+161,In Space Manufacturing of Tissue Engineered Liver,inSPA
+162,BEOL,inSPA
+163,ICF,inSPA
+164,Integrated Space Stem Cell Orbiting Lab,inSPA
+165,Intelligent Glass Optics,inSPA
+166,MSTIC,inSPA
+167,PIL-BOX,inSPA
+168,iPSC,inSPA
+169,Protein-Based Artificial Retinas,inSPA
+170,TCMM,inSPA
+171,TSCM,inSPA
+172,VAM,inSPA

@@ -19,7 +19,6 @@ Bartolomeo,Bartolomeo,Multipurpose,European Space Agency (ESA),Columbus
 Bio-Analyzer,Bio-Analyzer,Biology and Biotechnology,Canadian Space Agency (CSA),Dependent
 BioChip SpaceLab,BioChip SpaceLab,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),
 Bioculture System,Bioculture System,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),Dependent
-BFF,BioFabrication Facility,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),Columbus
 Bioimpedance Analyzer,Bioimpedance Analyzer,Human Research,European Space Agency (ESA),Columbus
 BIOKON,BIOKON,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),
 BioLab,Biological Experiment Laboratory,Multipurpose,European Space Agency (ESA),Columbus
@@ -145,7 +144,7 @@ NanoRacks-extCygnus-NRCSD,NanoRacks External Cygnus CubeSat Deployer,Multipurpos
 NanoRacks-GoPro Fusion,NanoRacks-GoPro Fusion,Multipurpose,National Aeronautics and Space Administration (NASA),Dependent
 PCBA,Portable Clinical Blood Analyzer - i-STAT,Human Research,National Aeronautics and Space Administration (NASA),Dependent
 PCG-STES,Protein Crystal Growth - Single Locker Thermal Enclosure System,Physical Science,National Aeronautics and Space Administration (NASA),US Lab
-PCRF,Protein Crystallization Research Facility,Biology and Biotechnology,Japan Aerospace Exploration Agency (JAXA),JEM
+PCRF,Protein Crystallization Research,Biology and Biotechnology,Japan Aerospace Exploration Agency (JAXA),JEM
 PERSEO,PErsonal Radiation Shielding for intErplanetary missiOns Facility,Human Research,National Aeronautics and Space Administration (NASA),US Lab
 PFMI,PFMI Facility,Physical Science,National Aeronautics and Space Administration (NASA),US Lab
 PFS,Pulmonary Function System,Human Research,National Aeronautics and Space Administration (NASA),US Lab
@@ -187,3 +186,26 @@ Wearable Monitoring,Wearable System for Sleep Monitoring in Microgravity Facilit
 Wet Lab Kit,Wet Lab Kit,Multipurpose,National Aeronautics and Space Administration (NASA),
 Wet Lab RNA SmartCycler,Wet Lab RNA SmartCycler,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),
 WORF,Window Observational Research Facility,Earth and Space Science,National Aeronautics and Space Administration (NASA),US Lab
+BFF,BioFabrication Facility,inSPA,National Aeronautics and Space Administration (NASA),Columbus
+JBN,Janus base nanomaterials,inSPA,National Aeronautics and Space Administration (NASA),
+CRF,Cell Reprogramming Facility,inSPA,National Aeronautics and Space Administration (NASA),
+NeuroSpan Bridge,Drug Delivery Medical Device,inSPA,National Aeronautics and Space Administration (NASA),
+HSC,Expansion of Hematopoietic Stem Cells,inSPA,National Aeronautics and Space Administration (NASA),
+HMFG,Heavy-Metal Fluoride Glasses,inSPA,National Aeronautics and Space Administration (NASA),
+FOP,Fiber Optic Production,inSPA,National Aeronautics and Space Administration (NASA),
+Tissue Engineered Liver,In Space Manufacturing of Tissue Engineered Liver,inSPA,National Aeronautics and Space Administration (NASA),
+BEOL,In Space Production of MoS2 for Silicon Back-End-of-Line,inSPA,National Aeronautics and Space Administration (NASA),
+ICF,Industrial Crystallization Facility,inSPA,National Aeronautics and Space Administration (NASA),
+ISSCOR,Integrated Space Stem Cell Orbiting Lab,inSPA,National Aeronautics and Space Administration (NASA),
+IGO,Intelligent Glass Optics,inSPA,National Aeronautics and Space Administration (NASA),
+MSTIC,Manufacturing of Semiconductors and Thin-film Integrated Coatings,inSPA,National Aeronautics and Space Administration (NASA),
+BOX,Pharmaceutical In Space Laboratory Bio-crystal Optimization Xperiment,inSPA,National Aeronautics and Space Administration (NASA),
+iPSC,Production and Differentiation of Induced Pluripotent Stem Cells,inSPA,National Aeronautics and Space Administration (NASA),
+Protein-Based Artificial Retinas,Protein-Based Artificial Retinas,inSPA,National Aeronautics and Space Administration (NASA),
+Nanoligomer,Low-Cost Nanoligomer based Drug Discovery in Space,inSPA,National Aeronautics and Space Administration (NASA),
+Semimetal-Semiconductor Composite Bulk Crystals,Semimetal-Semiconductor Composite Bulk Crystals,inSPA,National Aeronautics and Space Administration (NASA),
+Space Fibers,Space Fibers,inSPA,National Aeronautics and Space Administration (NASA),
+Stem Cell Production,Stem Cell Production,inSPA,National Aeronautics and Space Administration (NASA),
+TCMM,Turbine Ceramic Manufacturing Module,inSPA,National Aeronautics and Space Administration (NASA),
+TSCM,Turbine Superalloy Casting Module,inSPA,National Aeronautics and Space Administration (NASA),
+VAM,VAM Organ Production,inSPA,National Aeronautics and Space Administration (NASA),

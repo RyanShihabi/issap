@@ -1,35 +1,33 @@
 ,support,itemsets,length,frequency
-479,0.006597466572836031,"frozenset({'MELFI', 'CBEF'})",2,75
-1346,0.0020232230823363827,"frozenset({'Rodent Research', 'MELFI'})",2,23
-1280,0.0014954257565095003,"frozenset({'Aquatic Habitat', 'MELFI'})",2,17
-587,0.0012315270935960591,"frozenset({'MELFI', 'Saibo'})",2,14
-660,0.001055594651653765,"frozenset({'MDS', 'MELFI'})",2,12
-527,0.0008796622097114708,"frozenset({'CGBA', 'MELFI'})",2,10
-1299,0.0007916959887403237,"frozenset({'BRIC', 'MELFI'})",2,9
-1413,0.0004398311048557354,"frozenset({'CellCult', 'MELFI'})",2,5
-789,0.0004398311048557354,"frozenset({'MERLIN', 'CBEF'})",2,5
-1554,0.0004398311048557354,"frozenset({'Bioculture System', 'MELFI'})",2,5
-793,0.0003518648838845883,"frozenset({'CGBA', 'MERLIN'})",2,4
-1122,0.00026389866291344125,"frozenset({'NanoRacks Plate Reader', 'MELFI'})",2,3
-1377,0.00026389866291344125,"frozenset({'BFF', 'MELFI'})",2,3
-831,0.00026389866291344125,"frozenset({'GLACIER', 'CBEF'})",2,3
-837,0.00026389866291344125,"frozenset({'CGBA', 'GLACIER'})",2,3
-1297,0.00026389866291344125,"frozenset({'BRIC', 'MERLIN'})",2,3
-1402,0.00017593244194229416,"frozenset({'ADSEP', 'MELFI'})",2,2
-1380,0.00017593244194229416,"frozenset({'BFF', 'MERLIN'})",2,2
-1335,0.00017593244194229416,"frozenset({'BFF', 'Iceberg'})",2,2
-589,0.00017593244194229416,"frozenset({'GLACIER', 'Saibo'})",2,2
-1328,0.00017593244194229416,"frozenset({'BioLab', 'MELFI'})",2,2
-665,8.796622097114708e-05,"frozenset({'MDS', 'GLACIER'})",2,1
-700,8.796622097114708e-05,"frozenset({'PCRF', 'MELFI'})",2,1
-1432,8.796622097114708e-05,"frozenset({'FROST', 'CBEF'})",2,1
-1423,8.796622097114708e-05,"frozenset({'Glovebox Freezer', 'Rodent Research'})",2,1
-1121,8.796622097114708e-05,"frozenset({'NanoRacks Plate Reader', 'Polar'})",2,1
-741,8.796622097114708e-05,"frozenset({'Polar', 'CBEF'})",2,1
-1371,8.796622097114708e-05,"frozenset({'MELFI', 'Wet Lab RNA SmartCycler'})",2,1
-1213,8.796622097114708e-05,"frozenset({'Double Coldbag', 'Saibo'})",2,1
-1214,8.796622097114708e-05,"frozenset({'Double Coldbag', 'CBEF'})",2,1
-1546,8.796622097114708e-05,"frozenset({'Wet Lab Kit', 'MELFI'})",2,1
-1575,8.796622097114708e-05,"frozenset({'STaARS-1 EF', 'MERLIN'})",2,1
-1481,8.796622097114708e-05,"frozenset({'Fruit Fly Lab', 'MELFI'})",2,1
-1486,8.796622097114708e-05,"frozenset({'Polar', 'JAXA Mouse Habitat Unit'})",2,1
+798,0.007039609536324386,"frozenset({'MELFI', 'CBEF'})",2,75
+1880,0.002158813591139478,"frozenset({'MELFI', 'Rodent Research'})",2,22
+1828,0.0015956448282335273,"frozenset({'MELFI', 'Aquatic Habitat'})",2,17
+902,0.001314060446780552,"frozenset({'MELFI', 'Saibo'})",2,14
+1122,0.0011263375258119017,"frozenset({'MDS', 'MELFI'})",2,12
+829,0.0009386146048432514,"frozenset({'MELFI', 'CGBA'})",2,10
+1958,0.0008447531443589262,"frozenset({'MELFI', 'BRIC'})",2,9
+1948,0.0004693073024216257,"frozenset({'MELFI', 'CellCult'})",2,5
+1238,0.0004693073024216257,"frozenset({'CBEF', 'MERLIN'})",2,5
+2082,0.0004693073024216257,"frozenset({'MELFI', 'Bioculture System'})",2,5
+1242,0.00037544584193730055,"frozenset({'MERLIN', 'CGBA'})",2,4
+1956,0.0002815843814529754,"frozenset({'MERLIN', 'BRIC'})",2,3
+1688,0.0002815843814529754,"frozenset({'MELFI', 'NanoRacks Plate Reader'})",2,3
+1273,0.0002815843814529754,"frozenset({'CBEF', 'GLACIER'})",2,3
+1279,0.0002815843814529754,"frozenset({'GLACIER', 'CGBA'})",2,3
+1867,0.00018772292096865028,"frozenset({'BioLab', 'MELFI'})",2,2
+904,0.00018772292096865028,"frozenset({'Saibo', 'GLACIER'})",2,2
+1935,0.00018772292096865028,"frozenset({'MELFI', 'ADSEP'})",2,2
+343,9.386146048432514e-05,"frozenset({'MELFI', 'Spectrum'})",2,1
+1789,9.386146048432514e-05,"frozenset({'Saibo', 'Double Coldbag'})",2,1
+1790,9.386146048432514e-05,"frozenset({'CBEF', 'Double Coldbag'})",2,1
+1194,9.386146048432514e-05,"frozenset({'Polar', 'CBEF'})",2,1
+1126,9.386146048432514e-05,"frozenset({'MDS', 'GLACIER'})",2,1
+1148,9.386146048432514e-05,"frozenset({'MELFI', 'PCRF'})",2,1
+1910,9.386146048432514e-05,"frozenset({'MELFI', 'Wet Lab RNA SmartCycler'})",2,1
+1964,9.386146048432514e-05,"frozenset({'Rodent Research', 'Glovebox Freezer'})",2,1
+1973,9.386146048432514e-05,"frozenset({'FROST', 'CBEF'})",2,1
+2074,9.386146048432514e-05,"frozenset({'MELFI', 'Wet Lab Kit'})",2,1
+1687,9.386146048432514e-05,"frozenset({'Polar', 'NanoRacks Plate Reader'})",2,1
+2094,9.386146048432514e-05,"frozenset({'MERLIN', 'STaARS-1 EF'})",2,1
+2011,9.386146048432514e-05,"frozenset({'Polar', 'JAXA Mouse Habitat Unit'})",2,1
+2005,9.386146048432514e-05,"frozenset({'MELFI', 'Fruit Fly Lab'})",2,1

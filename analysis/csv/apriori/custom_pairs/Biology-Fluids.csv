@@ -1,5 +1,5 @@
 ,support,itemsets,length,frequency
-697,0.0006157635467980296,"frozenset({'FPEF', 'PCRF'})",2,7
-1067,0.00017593244194229416,"frozenset({'FSL', 'CGBA'})",2,2
-374,0.00017593244194229416,"frozenset({'DECLIC', 'MDS'})",2,2
-765,8.796622097114708e-05,"frozenset({'CGBA', 'FIR'})",2,1
+1145,0.000657030223390276,"frozenset({'PCRF', 'FPEF'})",2,7
+513,0.00018772292096865028,"frozenset({'MDS', 'DECLIC'})",2,2
+1537,0.00018772292096865028,"frozenset({'CGBA', 'FSL'})",2,2
+1216,9.386146048432514e-05,"frozenset({'FIR', 'CGBA'})",2,1

@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+1132,0.012483574244415242,"frozenset({'FIR', 'LMM'})",2,133
+1691,0.0016895062887178525,"frozenset({'SCOF', 'FPEF'})",2,18
+1694,9.386146048432514e-05,"frozenset({'SCOF', 'FIR'})",2,1

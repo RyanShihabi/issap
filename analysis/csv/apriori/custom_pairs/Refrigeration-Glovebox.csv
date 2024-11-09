@@ -1,16 +1,10 @@
 ,support,itemsets,length,frequency
-477,0.0038705137227304713,"frozenset({'CB', 'MELFI'})",2,44
-915,0.002902885292047854,"frozenset({'MELFI', 'KFT'})",2,33
-1208,0.0016713581984517945,"frozenset({'Double Coldbag', 'CB'})",2,19
-360,0.0015833919774806474,"frozenset({'MSG', 'MELFI'})",2,18
-788,0.001055594651653765,"frozenset({'CB', 'MERLIN'})",2,12
-830,0.0009676284306826178,"frozenset({'GLACIER', 'CB'})",2,11
-791,0.0004398311048557354,"frozenset({'MSG', 'MERLIN'})",2,5
-1422,0.0004398311048557354,"frozenset({'MSG', 'Glovebox Freezer'})",2,5
-1421,0.0004398311048557354,"frozenset({'Glovebox Freezer', 'LSG'})",2,5
-1138,0.00017593244194229416,"frozenset({'PGB', 'MELFI'})",2,2
-838,0.00017593244194229416,"frozenset({'MSG', 'GLACIER'})",2,2
-1435,8.796622097114708e-05,"frozenset({'FROST', 'CB'})",2,1
-742,8.796622097114708e-05,"frozenset({'Polar', 'CB'})",2,1
-1337,8.796622097114708e-05,"frozenset({'CB', 'Iceberg'})",2,1
-1306,8.796622097114708e-05,"frozenset({'LSG', 'MELFI'})",2,1
+1343,0.0030974281959827293,"frozenset({'MELFI', 'KFT'})",2,33
+500,0.0016895062887178525,"frozenset({'MELFI', 'MSG'})",2,18
+1962,0.0004693073024216257,"frozenset({'Glovebox Freezer', 'LSG'})",2,5
+1963,0.0004693073024216257,"frozenset({'Glovebox Freezer', 'MSG'})",2,5
+1240,0.0004693073024216257,"frozenset({'MERLIN', 'MSG'})",2,5
+857,0.0004693073024216257,"frozenset({'MELFI', 'CB'})",2,5
+1704,0.00018772292096865028,"frozenset({'MELFI', 'PGB'})",2,2
+1280,0.00018772292096865028,"frozenset({'GLACIER', 'MSG'})",2,2
+861,9.386146048432514e-05,"frozenset({'CB', 'MERLIN'})",2,1

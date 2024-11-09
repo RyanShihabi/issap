@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-1398,0.001143560872624912,"frozenset({'MSG', 'SUBSA'})",2,13
-439,0.00026389866291344125,"frozenset({'MSG', 'SAMS-II'})",2,3
-1484,8.796622097114708e-05,"frozenset({'MSG', 'PFMI'})",2,1
