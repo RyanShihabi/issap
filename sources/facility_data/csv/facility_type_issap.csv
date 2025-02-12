@@ -118,7 +118,7 @@ MELFI,Refrigeration
 MERLIN,Refrigeration
 MicroPREP,Biology
 Mini Coldbag,Refrigeration
-MIS Fiber,Materials
+MSFO,Materials
 MISSE-FF,Materials
 MOBIAS,Biology
 Mobile SpaceLab,Biology
@@ -211,3 +211,4 @@ Stem Cell Production,inSPA
 TCMM,inSPA
 TSCM,inSPA
 VAM,inSPA
+MSFO,inSPA

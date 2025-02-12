@@ -1,4 +1,4 @@
 ,support,itemsets,length,frequency
-1693,0.001407921907264877,"frozenset({'SCOF', 'Ryutai'})",2,15
-1901,9.386146048432514e-05,"frozenset({'EXPRESS Rack', 'KERMIT'})",2,1
-1919,9.386146048432514e-05,"frozenset({'Confocal Microscope', 'MSPR'})",2,1
+1693,0.0014077897700610043,"frozenset({'SCOF', 'Ryutai'})",2,15
+1901,9.385265133740028e-05,"frozenset({'EXPRESS Rack', 'KERMIT'})",2,1
+1919,9.385265133740028e-05,"frozenset({'MSPR', 'Confocal Microscope'})",2,1

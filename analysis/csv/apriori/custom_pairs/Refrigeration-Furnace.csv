@@ -1,5 +1,5 @@
 ,support,itemsets,length,frequency
-770,0.0004693073024216257,"frozenset({'MELFI', 'GHF'})",2,5
-844,0.00018772292096865028,"frozenset({'MELFI', 'CIR'})",2,2
-1239,9.386146048432514e-05,"frozenset({'CIR', 'MERLIN'})",2,1
-1509,9.386146048432514e-05,"frozenset({'MELFI', 'MSL'})",2,1
+770,0.0004692632566870014,"frozenset({'MELFI', 'GHF'})",2,5
+844,0.00018770530267480057,"frozenset({'MELFI', 'CIR'})",2,2
+1239,9.385265133740028e-05,"frozenset({'CIR', 'MERLIN'})",2,1
+1509,9.385265133740028e-05,"frozenset({'MSL', 'MELFI'})",2,1

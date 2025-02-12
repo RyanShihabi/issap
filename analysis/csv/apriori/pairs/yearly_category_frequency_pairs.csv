@@ -486,31 +486,32 @@ Cyclops/NanoRacks External Platform,Multipurpose/Multipurpose,Satellite deployer
 MELFI/Solar,Multipurpose/Earth and Space Science,Refrigeration/Astronomy,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
 FROST/MERLIN,Multipurpose/Biology and Biotechnology,Refrigeration/Refrigeration,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
 EXPRESS Rack/Plant Habitat,Multipurpose/Biology and Biotechnology,General science/Plant,0,0,0,0,0,0,0,0,0,12,0,0,4,16,0,0
-ICE Cubes/ICF,Multipurpose/inSPA,General science/inSPA,0,0,0,0,0,0,0,0,0,6,0,0,0,0,2,0
 Plant Habitat/SABL,Biology and Biotechnology/Biology and Biotechnology,Plant/Incubator,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+ICE Cubes/ICF,Multipurpose/inSPA,General science/inSPA,0,0,0,0,0,0,0,0,0,6,0,0,0,0,2,0
 MELFI/NanoRacks Plate Reader,Multipurpose/Multipurpose,Refrigeration/Biology,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
 MSG/SUBSA,Multipurpose/Physical Science,Glovebox/Physics,0,0,0,0,0,0,0,0,0,6,2,0,14,0,4,0
-EXHAM/J-SSOD,Multipurpose/Multipurpose,External payloads/Satellite deployer,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
 EPM/ICF,Human Research/inSPA,Crew health/inSPA,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
-MELFI/MVP,Multipurpose/Multipurpose,Refrigeration/Centrifuge,0,0,0,0,0,0,0,0,0,4,2,0,0,2,0,0
 ELC/Solar,Earth and Space Science/Earth and Space Science,External payloads/Astronomy,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2
+MELFI/MVP,Multipurpose/Multipurpose,Refrigeration/Centrifuge,0,0,0,0,0,0,0,0,0,4,2,0,0,2,0,0
+EXHAM/J-SSOD,Multipurpose/Multipurpose,External payloads/Satellite deployer,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
 MMD/MSG,Multipurpose/Multipurpose,Crew health/Glovebox,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
 MMD/Rodent Research,Multipurpose/Biology and Biotechnology,Crew health/Biology,0,0,0,0,0,0,0,0,0,4,6,0,0,4,0,0
 EPM/ICE Cubes,Human Research/Multipurpose,Crew health/General science,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
-GN2/Plant Habitat,Multipurpose/Biology and Biotechnology,General science/Plant,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-CBEF/Polar,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-GLACIER/TangoLab-2,Multipurpose/Multipurpose,Refrigeration/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 HRF-2/RC,Multipurpose/Human Research,Crew health/Centrifuge,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+GN2/Plant Habitat,Multipurpose/Biology and Biotechnology,General science/Plant,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+EXPRESS Rack/TangoLab-2,Multipurpose/Multipurpose,General science/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0
 EXHAM/NanoRacks CubeSat Deployer,Multipurpose/Multipurpose,External payloads/Satellite deployer,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 BRIC/HRF-2,Biology and Biotechnology/Multipurpose,Biology/Crew health,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0
+AMF/MSFO,Technology Development and Demonstration/Manufacture,3D printing/inSPA,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 FROST/HSRC,Multipurpose/Technology Development and Demonstration,Refrigeration/External payloads,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-EXPRESS Rack/TangoLab-2,Multipurpose/Multipurpose,General science/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0
+CBEF/Polar,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 MELFI/Plant Habitat,Multipurpose/Biology and Biotechnology,Refrigeration/Plant,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0
+GLACIER/TangoLab-2,Multipurpose/Multipurpose,Refrigeration/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 LSG/MSG,Multipurpose/Multipurpose,Glovebox/Glovebox,0,0,0,0,0,0,0,0,0,2,2,0,0,2,8,0
 LSG/Rodent Research,Multipurpose/Biology and Biotechnology,Glovebox/Biology,0,0,0,0,0,0,0,0,0,2,6,0,4,2,0,0
+J-SSOD/MUSES,Multipurpose/Multipurpose,Satellite deployer/Earth observation,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 GLACIER/TangoLab-1,Multipurpose/Multipurpose,Refrigeration/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 EXPRESS Rack/MSPR,Multipurpose/Multipurpose,General science/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-J-SSOD/MUSES,Multipurpose/Multipurpose,Satellite deployer/Earth observation,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 ELF/HSRC,Physical Science/Technology Development and Demonstration,Furnace/External payloads,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 AMF/EXPRESS Rack,Technology Development and Demonstration/Multipurpose,3D printing/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16,0
 EXPRESS Rack/MVP,Multipurpose/Multipurpose,General science/Centrifuge,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0

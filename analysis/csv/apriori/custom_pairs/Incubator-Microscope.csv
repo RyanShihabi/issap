@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-1899,0.0002815843814529754,"frozenset({'SABL', 'KERMIT'})",2,3
-1922,0.00018772292096865028,"frozenset({'SABL', 'Confocal Microscope'})",2,2
+1899,0.0002815579540122008,"frozenset({'KERMIT', 'SABL'})",2,2
+1922,0.00018770530267480057,"frozenset({'SABL', 'Confocal Microscope'})",2,2

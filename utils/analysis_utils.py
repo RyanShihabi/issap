@@ -312,18 +312,20 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
     df_year = df_range.resample("YE", on="Report Date").sum()
     df_year = df_year.rename(index={row: str(row).split("-")[0] for row in df_year.index})
 
+    df_year.to_csv("./analysis/csv/Total_Mentions/Total_Yearly_Mentions.csv")
+
     if os.path.exists("./analysis/plots/category_year") == False:
         os.makedirs("./analysis/plots/category_year")
         os.makedirs("./analysis/csv/category_year")
         os.makedirs("./analysis/csv/category_year/Most_Mentioned_Yearly")
         os.makedirs("./analysis/csv/category_year/stats")
 
-    year_totals = df_year.sum(axis=1)
+    year_totals = df_year.sum(axis=1).values
     
     for category in category_facilities:
         category_year_df = df_year.loc[:, category_facilities[category]]
 
-        category_year_sum_df = category_year_df.T.sum().T
+        category_year_sum_df = category_year_df.sum(axis=1)
         
         category_most_mentioned = category_year_df.idxmax(axis=1)
         category_most_mentioned.name = "Facility"
@@ -337,8 +339,8 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
         category_year_sum_df.name = "Frequency"
         category_year_sum_df.to_csv(f"./analysis/csv/category_year/{category}_Yearly.csv", index_label="Year")
 
-        category_year_sum_df.name = "Proportion"
-        category_year_prop_df = category_year_sum_df / year_totals
+        category_year_prop_df = category_year_df.sum(axis=1) / year_totals
+        category_year_prop_df.name = "Proportion"
         category_year_prop_df.to_csv(f"./analysis/csv/category_year/{category}_prop_Yearly.csv", index_label="Year")
         
         stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
@@ -356,7 +358,7 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
     # Without Exercise
     category_year_df = df_year.loc[:, [col for col in category_facilities["Human Research"] if col not in ["ARED", "CEVIS", "TVIS", "COLBERT"]]]
 
-    category_year_sum_df = category_year_df.T.sum().T
+    category_year_sum_df = category_year_df.sum(axis=1)
 
     category_most_mentioned = category_year_df.idxmax(axis=1)
     category_most_mentioned.name = "Facility"
@@ -365,8 +367,8 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
     category_year_sum_df.name = "Frequency"
     category_year_sum_df.to_csv(f"./analysis/csv/category_year/Human_Research_Without_Exercise_Yearly.csv", index_label="Year")
 
-    category_year_sum_df.name = "Proportion"
-    category_year_prop_df = category_year_sum_df / year_totals
+    category_year_prop_df = category_year_df.sum(axis=1) / year_totals
+    category_year_prop_df.name = "Proportion"
     category_year_prop_df.to_csv(f"./analysis/csv/category_year/{category}_prop_Yearly.csv", index_label="Year")
     
     stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
@@ -391,14 +393,13 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
         os.makedirs("./analysis/csv/custom_category_year/Most_Mentioned_Yearly")
         os.makedirs("./analysis/csv/custom_category_year/stats")
     
-    year_totals = df_year.sum(axis=1)
+    year_totals = df_year.sum(axis=1).values
     
     total_df = pd.DataFrame()
     
     for category in custom_facilities:
         category_year_df = df_year.loc[:, custom_facilities[category]]
-
-        category_year_sum_df = category_year_df.T.sum().T
+        category_year_sum_df = category_year_df.sum(axis=1)
 
         category_most_mentioned = category_year_df.idxmax(axis=1)
         category_most_mentioned.name = "Facility"
@@ -412,8 +413,10 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
         category_year_sum_df.name = "Frequency"
         category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/{category}_Yearly.csv", index_label="Year")
 
-        category_year_sum_df.name = "Proportion"
-        category_year_prop_df = category_year_sum_df / year_totals
+        category_year_prop_df = category_year_df.sum(axis=1) / year_totals
+        category_year_prop_df.name = "Proportion"
+        if category == "inSPA":
+            category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
         category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
         
         if category != "Crew health":
@@ -443,8 +446,8 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
     category_year_sum_df.name = "Frequency"
     category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/Crew_Health_Without_Exercise_Yearly.csv", index_label="Year")
 
-    category_year_sum_df.name = "Proportion"
-    category_year_prop_df = category_year_sum_df / year_totals
+    category_year_prop_df = category_year_df.sum(axis=1) / year_totals
+    category_year_prop_df.name = "Proportion"
     category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
 
     category_year_sum_df.name = "Crew health (without exercise)"
@@ -714,6 +717,51 @@ def calc_yearly_category_pairs(facility_data: dict):
 
     export_data(pairs_support_df, f"./analysis/csv/apriori/pairs/yearly_category_support_pairs.csv")
     export_data(pairs_frequency_df, f"./analysis/csv/apriori/pairs/yearly_category_frequency_pairs.csv")
+
+def find_mention_gaps(df_range: pd.DataFrame):
+    zeros = df_range == 0
+    zero_groups = (~zeros).cumsum(axis=0)
+
+    masked_groups = zero_groups.where(zeros)
+    largest_group = {}
+    largest_count = {}
+
+    for col in masked_groups.columns:
+        group_counts = masked_groups[col].value_counts(dropna=True)
+        if col == "Report Date":
+            continue
+
+        if not group_counts.empty:
+            largest_group[col] = int(group_counts.idxmax())
+            largest_count[col] = group_counts.max()
+        else:
+            largest_group[col] = None
+            largest_count[col] = 0
+
+    results = {}
+    for col in masked_groups.columns:
+        if col == "Report Date":
+            continue
+
+        grp = largest_group.get(col)
+        if grp is not None:
+            group_dates = masked_groups.index[masked_groups[col] == grp]
+            if len(group_dates) > 0:
+                first_date = df_range.iloc[int(group_dates.min()), :]["Report Date"]
+                last_date = df_range.iloc[int(group_dates.max()), :]["Report Date"]
+            else:
+                first_date, last_date = None, None
+        else:
+            first_date, last_date = None, None
+        
+        results[col] = {
+            'First Date': first_date,
+            'Last Date': last_date,
+            'Largest Report Mention Gap': largest_count.get(col, 0)
+        }
+
+    df_results = pd.DataFrame.from_dict(results, orient='index').sort_values(by="Largest Report Gap")
+    df_results.to_csv("./analysis/csv/facility_mentions/facility_mention_gaps.csv")
 
 def calc_unique_pairs(facility_data: dict):
     if os.path.exists("./analysis/plots/pairs") == False:

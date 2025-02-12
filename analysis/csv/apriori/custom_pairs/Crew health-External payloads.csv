@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-1313,0.0002815843814529754,"frozenset({'ELC', 'ALTEA'})",2,3
-2022,9.386146048432514e-05,"frozenset({'ELC', 'Bone Densitometer'})",2,1
+1313,0.0002815579540122008,"frozenset({'ALTEA', 'ELC'})",2,2
+2022,9.385265133740028e-05,"frozenset({'Bone Densitometer', 'ELC'})",2,1

@@ -11,7 +11,8 @@ from utils.analysis_utils import (calc_facility_proportions,
                             calc_agency_usage_by_category,
                             calc_categories_by_year,
                             calc_custom_categories_by_year,
-                            calc_yearly_category_pairs
+                            calc_yearly_category_pairs,
+                            find_mention_gaps
                         )
 import os
 from tqdm import tqdm
@@ -32,8 +33,9 @@ def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_withou
     if os.path.exists("./analysis/csv/Total_Mentions") == False:
         os.makedirs("./analysis/csv/Total_Mentions")
 
-    with tqdm(total=14) as pbar:
+    with tqdm(total=15) as pbar:
         facility_mentions_df = facility_mentions_df.reset_index().rename(columns={"index": "Report Date"})
+
         calc_facility_proportions(facility_mentions_df)
         pbar.update(1)
 
@@ -74,6 +76,9 @@ def run_analysis(facility_data, facility_mentions_df, apriori_df, apriori_withou
         pbar.update(1)
 
         calc_yearly_category_pairs(facility_data)
+        pbar.update(1)
+
+        find_mention_gaps(facility_mentions_df)
         pbar.update(1)
 
     pbar.close()

@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-803,9.386146048432514e-05,"frozenset({'PFS', 'MWA'})",2,1
-1711,9.386146048432514e-05,"frozenset({'HRF-2', 'MWA'})",2,1
+803,9.385265133740028e-05,"frozenset({'MWA', 'PFS'})",2,1
+1711,9.385265133740028e-05,"frozenset({'HRF-2', 'MWA'})",2,1

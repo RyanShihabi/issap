@@ -1,9 +1,9 @@
 ,support,itemsets,length,frequency
-1180,0.001407921907264877,"frozenset({'CBEF', 'IPU'})",2,15
-1146,0.000657030223390276,"frozenset({'PCRF', 'IPU'})",2,7
-903,0.00037544584193730055,"frozenset({'Saibo', 'IPU'})",2,4
-2051,0.0002815843814529754,"frozenset({'IPU2', 'CBEF'})",2,3
-1994,0.0002815843814529754,"frozenset({'CBEF-L', 'IPU'})",2,3
-2054,9.386146048432514e-05,"frozenset({'IPU2', 'CBEF-L'})",2,1
-1832,9.386146048432514e-05,"frozenset({'IPU', 'Aquatic Habitat'})",2,1
-2052,9.386146048432514e-05,"frozenset({'IPU2', 'Saibo'})",2,1
+1180,0.0014077897700610043,"frozenset({'CBEF', 'IPU'})",2,15
+1146,0.000656968559361802,"frozenset({'PCRF', 'IPU'})",2,7
+903,0.00037541060534960113,"frozenset({'Saibo', 'IPU'})",2,4
+2051,0.0002815579540122008,"frozenset({'IPU2', 'CBEF'})",2,2
+1994,0.0002815579540122008,"frozenset({'CBEF-L', 'IPU'})",2,2
+1832,9.385265133740028e-05,"frozenset({'Aquatic Habitat', 'IPU'})",2,1
+2052,9.385265133740028e-05,"frozenset({'Saibo', 'IPU2'})",2,1
+2054,9.385265133740028e-05,"frozenset({'IPU2', 'CBEF-L'})",2,1

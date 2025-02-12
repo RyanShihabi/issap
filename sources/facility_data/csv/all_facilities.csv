@@ -116,7 +116,7 @@ MELFI,Minus Eighty-Degree Laboratory Freezer for ISS,Multipurpose,National Aeron
 MERLIN,Microgravity Experiment Research Locker Incubator,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),Dependent
 MicroPREP,MicroPREP,Biology and Biotechnology,Canadian Space Agency (CSA),Dependent
 Mini Coldbag,Mini Coldbag,Multipurpose,National Aeronautics and Space Administration (NASA),Dependent
-MIS Fiber,Made In Space Fiber Optics,Manufacture,National Aeronautics and Space Administration (NASA),Dependent
+MSFO,Made In Space Fiber Optics,Manufacture,National Aeronautics and Space Administration (NASA),Dependent
 MISSE-FF,Materials ISS Experiment Flight Facility,Technology Development and Demonstration,National Aeronautics and Space Administration (NASA),ISS Truss
 MOBIAS,Multiple Orbital Bioreactor with Instrumentation and Automated Sampling,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),Columbus
 Mobile SpaceLab,Mobile SpaceLab,Biology and Biotechnology,National Aeronautics and Space Administration (NASA),US Lab
@@ -195,7 +195,7 @@ HMFG,Heavy-Metal Fluoride Glasses,inSPA,National Aeronautics and Space Administr
 FOP,Fiber Optic Production,inSPA,National Aeronautics and Space Administration (NASA),
 Tissue Engineered Liver,In Space Manufacturing of Tissue Engineered Liver,inSPA,National Aeronautics and Space Administration (NASA),
 BEOL,In Space Production of MoS2 for Silicon Back-End-of-Line,inSPA,National Aeronautics and Space Administration (NASA),
-ICF,Industrial Crystallization Facility,inSPA,National Aeronautics and Space Administration (NASA),
+ICF,Industrial Crystallization Facility#Industrial Crystals Facility,inSPA,National Aeronautics and Space Administration (NASA),
 ISSCOR,Integrated Space Stem Cell Orbiting Lab,inSPA,National Aeronautics and Space Administration (NASA),
 IGO,Intelligent Glass Optics,inSPA,National Aeronautics and Space Administration (NASA),
 MSTIC,Manufacturing of Semiconductors and Thin-film Integrated Coatings,inSPA,National Aeronautics and Space Administration (NASA),
