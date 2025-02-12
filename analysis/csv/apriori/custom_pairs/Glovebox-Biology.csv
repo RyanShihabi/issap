@@ -1,0 +1,14 @@
+,support,itemsets,length,frequency
+1881,0.003660253402158611,"frozenset({'Rodent Research', 'MSG'})",2,39
+856,0.0031909901454716095,"frozenset({'CB', 'CBEF'})",2,34
+901,0.0030971374941342095,"frozenset({'CB', 'Saibo'})",2,33
+826,0.0018770530267480056,"frozenset({'CGBA', 'MSG'})",2,20
+1344,0.0015954950727358047,"frozenset({'KFT', 'CBEF'})",2,17
+1905,0.000656968559361802,"frozenset({'LSG', 'Rodent Research'})",2,7
+1703,0.0004692632566870014,"frozenset({'MDS', 'PGB'})",2,5
+2080,0.00037541060534960113,"frozenset({'Bioculture System', 'MSG'})",2,4
+799,0.0002815579540122008,"frozenset({'CBEF', 'MSG'})",2,2
+1950,0.00018770530267480057,"frozenset({'CellCult', 'MSG'})",2,2
+1350,9.385265133740028e-05,"frozenset({'CGBA', 'KFT'})",2,1
+1993,9.385265133740028e-05,"frozenset({'CB', 'CBEF-L'})",2,1
+1147,9.385265133740028e-05,"frozenset({'MSG', 'PCRF'})",2,1

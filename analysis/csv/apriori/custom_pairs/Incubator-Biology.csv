@@ -3,5 +3,5 @@
 1949,0.00018770530267480057,"frozenset({'CellCult', 'SABL'})",2,2
 1937,0.00018770530267480057,"frozenset({'ADSEP', 'SABL'})",2,2
 1893,0.00018770530267480057,"frozenset({'CBEF', 'SABL'})",2,2
-1857,9.385265133740028e-05,"frozenset({'Kubik', 'CGBA'})",2,1
-2003,9.385265133740028e-05,"frozenset({'Fruit Fly Lab', 'SABL'})",2,1
+1857,9.385265133740028e-05,"frozenset({'CGBA', 'Kubik'})",2,1
+2003,9.385265133740028e-05,"frozenset({'SABL', 'Fruit Fly Lab'})",2,1

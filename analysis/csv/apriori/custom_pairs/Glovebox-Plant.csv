@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+1354,0.0002815579540122008,"frozenset({'KFT', 'Veggie'})",2,2
+1352,0.00018770530267480057,"frozenset({'KFT', 'ABRS'})",2,2
+1748,9.385265133740028e-05,"frozenset({'ABRS', 'MSG'})",2,1

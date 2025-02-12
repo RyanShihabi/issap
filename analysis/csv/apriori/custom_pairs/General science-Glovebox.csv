@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-504,0.0012200844673862037,"frozenset({'MSG', 'EXPRESS Rack'})",2,13
-1345,0.00018770530267480057,"frozenset({'MSPR', 'KFT'})",2,2
-858,9.385265133740028e-05,"frozenset({'CB', 'EXPRESS Rack'})",2,1
-1349,9.385265133740028e-05,"frozenset({'EDR', 'KFT'})",2,1
-1405,9.385265133740028e-05,"frozenset({'MSG', 'EDR'})",2,1

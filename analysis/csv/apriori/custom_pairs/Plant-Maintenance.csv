@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-747,0.001313937118723604,"frozenset({'EMCS', 'MWA'})",2,14
-808,0.0005631159080244016,"frozenset({'Veggie', 'MWA'})",2,5
-1746,0.0005631159080244016,"frozenset({'ABRS', 'MWA'})",2,5
-1501,0.00018770530267480057,"frozenset({'Plant Habitat', 'MWA'})",2,2

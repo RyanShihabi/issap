@@ -719,48 +719,40 @@ def calc_yearly_category_pairs(facility_data: dict):
     export_data(pairs_frequency_df, f"./analysis/csv/apriori/pairs/yearly_category_frequency_pairs.csv")
 
 def find_mention_gaps(df_range: pd.DataFrame):
-    zeros = df_range == 0
-    zero_groups = (~zeros).cumsum(axis=0)
+    bool_cols = [col for col in df_range.columns if col != 'Report Date']
+
+    zeros = df_range[bool_cols] == 0
+
+    zero_groups = (~zeros).cumsum()
 
     masked_groups = zero_groups.where(zeros)
-    largest_group = {}
-    largest_count = {}
-
-    for col in masked_groups.columns:
-        group_counts = masked_groups[col].value_counts(dropna=True)
-        if col == "Report Date":
-            continue
-
-        if not group_counts.empty:
-            largest_group[col] = int(group_counts.idxmax())
-            largest_count[col] = group_counts.max()
-        else:
-            largest_group[col] = None
-            largest_count[col] = 0
 
     results = {}
-    for col in masked_groups.columns:
-        if col == "Report Date":
+    for col in bool_cols:
+        group_counts = masked_groups[col].value_counts(dropna=True)
+        
+        if group_counts.empty:
+            results[col] = {'first_date': None, 'last_date': None, 'largest_count': 0}
             continue
 
-        grp = largest_group.get(col)
-        if grp is not None:
-            group_dates = masked_groups.index[masked_groups[col] == grp]
-            if len(group_dates) > 0:
-                first_date = df_range.iloc[int(group_dates.min()), :]["Report Date"]
-                last_date = df_range.iloc[int(group_dates.max()), :]["Report Date"]
-            else:
-                first_date, last_date = None, None
-        else:
+        largest_group_id = group_counts.idxmax()
+        largest_count = group_counts.max()
+
+        group_rows = df_range[masked_groups[col] == largest_group_id]
+        
+        if group_rows.empty:
             first_date, last_date = None, None
+        else:
+            first_date = group_rows['Report Date'].iloc[0]
+            last_date = group_rows['Report Date'].iloc[-1]
         
         results[col] = {
-            'First Date': first_date,
-            'Last Date': last_date,
-            'Largest Report Mention Gap': largest_count.get(col, 0)
+            'Start Date': first_date,
+            'End Date': last_date,
+            'Largest Report Mention Gap': largest_count
         }
 
-    df_results = pd.DataFrame.from_dict(results, orient='index').sort_values(by="Largest Report Gap")
+    df_results = pd.DataFrame.from_dict(results, orient='index').sort_values(by="Largest Report Mention Gap")
     df_results.to_csv("./analysis/csv/facility_mentions/facility_mention_gaps.csv")
 
 def calc_unique_pairs(facility_data: dict):

@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-1135,0.001032379164711403,"frozenset({'MELFI', 'LMM'})",2,11
-1244,0.00037541060534960113,"frozenset({'LMM', 'MERLIN'})",2,4
-1278,9.385265133740028e-05,"frozenset({'GLACIER', 'LMM'})",2,1
-1974,9.385265133740028e-05,"frozenset({'FROST', 'SCOF'})",2,1
-1695,9.385265133740028e-05,"frozenset({'SCOF', 'MERLIN'})",2,1
