@@ -1,7 +1,7 @@
 ,support,itemsets,length,frequency
-1894,0.00037541060534960113,"frozenset({'CGBA', 'SABL'})",2,4
-1949,0.00018770530267480057,"frozenset({'CellCult', 'SABL'})",2,2
-1937,0.00018770530267480057,"frozenset({'ADSEP', 'SABL'})",2,2
-1893,0.00018770530267480057,"frozenset({'CBEF', 'SABL'})",2,2
-1857,9.385265133740028e-05,"frozenset({'CGBA', 'Kubik'})",2,1
-2003,9.385265133740028e-05,"frozenset({'SABL', 'Fruit Fly Lab'})",2,1
+1894,0.0003758338814244104,"frozenset({'CGBA', 'SABL'})",2,4
+1937,0.0001879169407122052,"frozenset({'ADSEP', 'SABL'})",2,2
+1949,0.0001879169407122052,"frozenset({'SABL', 'CellCult'})",2,2
+1893,0.0001879169407122052,"frozenset({'CBEF', 'SABL'})",2,2
+2003,9.39584703561026e-05,"frozenset({'SABL', 'Fruit Fly Lab'})",2,1
+1857,9.39584703561026e-05,"frozenset({'CGBA', 'Kubik'})",2,1

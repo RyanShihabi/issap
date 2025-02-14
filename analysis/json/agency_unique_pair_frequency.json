@@ -1,12 +1,12 @@
 {
-    "NASA-NASA": 4497,
-    "NASA-ESA": 849,
-    "JAXA-JAXA": 530,
-    "NASA-JAXA": 257,
-    "ESA-ESA": 70,
+    "NASA-NASA": 4585,
+    "ESA-NASA": 856,
+    "JAXA-JAXA": 532,
+    "NASA-JAXA": 263,
+    "ESA-ESA": 73,
     "ESA-CSA": 8,
-    "NASA-CSA": 3,
     "ESA-JAXA": 3,
+    "NASA-CSA": 3,
     "CSA-CSA": 1,
     "CSA-JAXA": 0
 }

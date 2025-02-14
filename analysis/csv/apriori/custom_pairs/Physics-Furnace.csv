@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-760,0.00018770530267480057,"frozenset({'SAMS-II', 'CIR'})",2,2
-763,9.385265133740028e-05,"frozenset({'SAMS-II', 'MSL'})",2,1
-1914,9.385265133740028e-05,"frozenset({'Cold Atom Lab', 'CIR'})",2,1

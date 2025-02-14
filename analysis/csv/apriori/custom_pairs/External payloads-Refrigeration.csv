@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-1237,0.0009385265133740028,"frozenset({'MERLIN', 'ELC'})",2,10
-1272,0.0007508212106992023,"frozenset({'ELC', 'GLACIER'})",2,8
-1113,0.00018770530267480057,"frozenset({'MELFI', 'ELC'})",2,2
-2033,9.385265133740028e-05,"frozenset({'FROST', 'HSRC'})",2,1

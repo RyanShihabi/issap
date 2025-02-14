@@ -1,4 +1,4 @@
 ,support,itemsets,length,frequency
-1890,0.001313937118723604,"frozenset({'MSG', 'SABL'})",2,14
-1906,0.00037541060534960113,"frozenset({'LSG', 'SABL'})",2,4
-1348,9.385265133740028e-05,"frozenset({'KFT', 'Kubik'})",2,1
+1890,0.0013154185849854364,"frozenset({'MSG', 'SABL'})",2,14
+1906,0.0003758338814244104,"frozenset({'LSG', 'SABL'})",2,4
+1348,9.39584703561026e-05,"frozenset({'KFT', 'Kubik'})",2,1

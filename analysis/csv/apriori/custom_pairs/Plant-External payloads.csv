@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+746,0.0005637508221366156,"frozenset({'EMCS', 'ELC'})",2,6
+1750,0.0001879169407122052,"frozenset({'ABRS', 'ELC'})",2,2
+1497,9.39584703561026e-05,"frozenset({'ELC', 'Plant Habitat'})",2,1

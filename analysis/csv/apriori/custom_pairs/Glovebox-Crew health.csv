@@ -1,11 +1,11 @@
 ,support,itemsets,length,frequency
-2018,0.0004692632566870014,"frozenset({'Bone Densitometer', 'MSG'})",2,5
-1427,0.00018770530267480057,"frozenset({'MSG', 'MMD'})",2,2
-1314,0.00018770530267480057,"frozenset({'MSG', 'ALTEA'})",2,2
-462,9.385265133740028e-05,"frozenset({'MSG', 'PCBA'})",2,1
-779,9.385265133740028e-05,"frozenset({'MSG', 'MARES'})",2,1
-1347,9.385265133740028e-05,"frozenset({'KFT', 'TEPC'})",2,1
-1411,9.385265133740028e-05,"frozenset({'CB', 'UMS'})",2,1
-169,9.385265133740028e-05,"frozenset({'PFS', 'MSG'})",2,1
-501,9.385265133740028e-05,"frozenset({'Actiwatch', 'MSG'})",2,1
-198,9.385265133740028e-05,"frozenset({'MSG', 'Portable Pulmonary Function System'})",2,1
+2021,0.000469792351780513,"frozenset({'MSG', 'Bone Densitometer'})",2,5
+1314,0.0001879169407122052,"frozenset({'MSG', 'ALTEA'})",2,2
+1427,0.0001879169407122052,"frozenset({'MMD', 'MSG'})",2,2
+779,9.39584703561026e-05,"frozenset({'MSG', 'MARES'})",2,1
+1347,9.39584703561026e-05,"frozenset({'KFT', 'TEPC'})",2,1
+1411,9.39584703561026e-05,"frozenset({'CB', 'UMS'})",2,1
+462,9.39584703561026e-05,"frozenset({'PCBA', 'MSG'})",2,1
+198,9.39584703561026e-05,"frozenset({'MSG', 'Portable Pulmonary Function System'})",2,1
+501,9.39584703561026e-05,"frozenset({'Actiwatch', 'MSG'})",2,1
+169,9.39584703561026e-05,"frozenset({'MSG', 'PFS'})",2,1

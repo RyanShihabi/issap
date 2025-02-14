@@ -1,13 +1,13 @@
 ,support,itemsets,length,frequency
-1940,0.0007508212106992023,"frozenset({'TangoLab-1', 'TangoLab-2'})",2,8
-1942,0.00037541060534960113,"frozenset({'TangoLab-1', 'EXPRESS Rack'})",2,4
-2096,0.00037541060534960113,"frozenset({'MSPR', 'MSPR-2'})",2,4
-2043,0.00037541060534960113,"frozenset({'EDR-2', 'EDR'})",2,4
-1837,0.00037541060534960113,"frozenset({'MSPR', 'GN2'})",2,4
-1454,0.0002815579540122008,"frozenset({'SLAMMD', 'EXPRESS Rack'})",2,2
-2042,0.0002815579540122008,"frozenset({'Faraday Research', 'EXPRESS Rack'})",2,2
-1835,0.0002815579540122008,"frozenset({'EXPRESS Rack', 'GN2'})",2,2
-1739,0.00018770530267480057,"frozenset({'MSPR', 'Ryutai'})",2,2
-1879,0.00018770530267480057,"frozenset({'TangoLab-2', 'EXPRESS Rack'})",2,2
-1403,9.385265133740028e-05,"frozenset({'EDR', 'EXPRESS Rack'})",2,1
-1416,9.385265133740028e-05,"frozenset({'MSPR', 'EXPRESS Rack'})",2,1
+1940,0.0007516677628488208,"frozenset({'TangoLab-1', 'TangoLab-2'})",2,8
+2096,0.0003758338814244104,"frozenset({'MSPR-2', 'MSPR'})",2,4
+2043,0.0003758338814244104,"frozenset({'EDR-2', 'EDR'})",2,4
+1837,0.0003758338814244104,"frozenset({'GN2', 'MSPR'})",2,4
+1942,0.0003758338814244104,"frozenset({'TangoLab-1', 'EXPRESS Rack'})",2,4
+2042,0.0002818754110683078,"frozenset({'EXPRESS Rack', 'Faraday Research'})",2,3
+1835,0.0002818754110683078,"frozenset({'GN2', 'EXPRESS Rack'})",2,3
+1454,0.0002818754110683078,"frozenset({'SLAMMD', 'EXPRESS Rack'})",2,3
+1739,0.0001879169407122052,"frozenset({'Ryutai', 'MSPR'})",2,2
+1879,0.0001879169407122052,"frozenset({'EXPRESS Rack', 'TangoLab-2'})",2,2
+1403,9.39584703561026e-05,"frozenset({'EXPRESS Rack', 'EDR'})",2,1
+1416,9.39584703561026e-05,"frozenset({'EXPRESS Rack', 'MSPR'})",2,1

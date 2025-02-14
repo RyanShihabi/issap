@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+1207,0.0001879169407122052,"frozenset({'JEM-EF', 'J-SSOD'})",2,2
+1989,0.0001879169407122052,"frozenset({'EXHAM', 'J-SSOD'})",2,2
+1987,9.39584703561026e-05,"frozenset({'Cyclops', 'NanoRacks External Platform'})",2,1
+1990,9.39584703561026e-05,"frozenset({'EXHAM', 'NanoRacks CubeSat Deployer'})",2,1
+1925,9.39584703561026e-05,"frozenset({'NanoRacks External Platform', 'J-SSOD'})",2,1

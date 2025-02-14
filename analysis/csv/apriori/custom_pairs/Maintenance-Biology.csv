@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+1869,0.0001879169407122052,"frozenset({'MWA', 'BioLab'})",2,2
+2004,9.39584703561026e-05,"frozenset({'MWA', 'Fruit Fly Lab'})",2,1
+1831,9.39584703561026e-05,"frozenset({'Aquatic Habitat', 'MWA'})",2,1

@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-1457,0.0002815579540122008,"frozenset({'SLAMMD', 'RC'})",2,2
-1734,9.385265133740028e-05,"frozenset({'MVP', 'EXPRESS Rack'})",2,1
+1457,0.0002818754110683078,"frozenset({'SLAMMD', 'RC'})",2,3
+1734,9.39584703561026e-05,"frozenset({'EXPRESS Rack', 'MVP'})",2,1

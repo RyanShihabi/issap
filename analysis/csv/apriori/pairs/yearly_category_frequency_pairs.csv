@@ -502,7 +502,7 @@ GN2/Plant Habitat,Multipurpose/Biology and Biotechnology,General science/Plant,0
 EXPRESS Rack/TangoLab-2,Multipurpose/Multipurpose,General science/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,0
 EXHAM/NanoRacks CubeSat Deployer,Multipurpose/Multipurpose,External payloads/Satellite deployer,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 BRIC/HRF-2,Biology and Biotechnology/Multipurpose,Biology/Crew health,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0
-AMF/MSFO,Technology Development and Demonstration/Manufacture,3D printing/inSPA,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+AMF/MSFO,Technology Development and Demonstration/inSPA,3D printing/inSPA,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 FROST/HSRC,Multipurpose/Technology Development and Demonstration,Refrigeration/External payloads,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 CBEF/Polar,Biology and Biotechnology/Multipurpose,Biology/Refrigeration,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 MELFI/Plant Habitat,Multipurpose/Biology and Biotechnology,Refrigeration/Plant,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0
@@ -516,7 +516,7 @@ ELF/HSRC,Physical Science/Technology Development and Demonstration,Furnace/Exter
 AMF/EXPRESS Rack,Technology Development and Demonstration/Multipurpose,3D printing/General science,0,0,0,0,0,0,0,0,0,2,0,0,0,0,16,0
 EXPRESS Rack/MVP,Multipurpose/Multipurpose,General science/Centrifuge,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 CBEF/CBEF-L,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0,0,0,0,0,0,0,0,0,0,20,42,30,28,6,8
-FOP/MSG,inSPA/Multipurpose,inSPA/Glovebox,0,0,0,0,0,0,0,0,0,0,18,16,0,4,18,10
+FOP/MSG,inSPA/Multipurpose,inSPA/Glovebox,0,0,0,0,0,0,0,0,0,0,18,16,0,4,18,9
 MMD/Veggie,Multipurpose/Biology and Biotechnology,Crew health/Plant,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
 ADSEP/BFF,Biology and Biotechnology/inSPA,Biology/inSPA,0,0,0,0,0,0,0,0,0,0,8,0,0,0,8,4
 CBEF-L/Saibo,Biology and Biotechnology/Multipurpose,Biology/Biology,0,0,0,0,0,0,0,0,0,0,8,4,2,0,2,0
@@ -545,12 +545,11 @@ BFF/SlingShot,inSPA/Multipurpose,inSPA/Satellite deployer,0,0,0,0,0,0,0,0,0,0,2,
 Astrobee/SPHERES,Technology Development and Demonstration/Technology Development and Demonstration,Robotics/Robotics,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
 CBEF/JAXA Mouse Habitat Unit,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0
 CBEF-L/JAXA Mouse Habitat Unit,Biology and Biotechnology/Biology and Biotechnology,Biology/Biology,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0
-MVP/iPSC,Multipurpose/inSPA,Centrifuge/inSPA,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0
 Bone Densitometer/Spectrum,Biology and Biotechnology/Multipurpose,Crew health/Biology,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
-EXPRESS Rack/Mobile SpaceLab,Multipurpose/Biology and Biotechnology,General science/Biology,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 Iceberg/Polar,Multipurpose/Multipurpose,Refrigeration/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0
 EXPRESS Rack/Iceberg,Multipurpose/Multipurpose,General science/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,2,2,4,0,0
 EXPRESS Rack/LIDAL,Multipurpose/Human Research,General science/Physics,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0
+EXPRESS Rack/Mobile SpaceLab,Multipurpose/Biology and Biotechnology,General science/Biology,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 BFF/MERLIN,inSPA/Biology and Biotechnology,inSPA/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2
 Hermes/MSL,Multipurpose/Physical Science,Materials/Furnace,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
 Confocal Microscope/MSPR,Multipurpose/Multipurpose,Microscope/General science,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
@@ -578,7 +577,7 @@ Actiwatch/PFS,Human Research/Human Research,Crew health/Crew health,0,0,0,0,0,0,
 Iceberg/MELFI,Multipurpose/Multipurpose,Refrigeration/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0
 Iceberg/MERLIN,Multipurpose/Biology and Biotechnology,Refrigeration/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
 CBEF/IPU2,Biology and Biotechnology/Multipurpose,Biology/Image processing,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0
-ADSEP/ADSEP-2,Biology and Biotechnology/Multipurpose,Biology/Biology,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,10
+ADSEP/ADSEP-2,Biology and Biotechnology/Multipurpose,Biology/Biology,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,9
 EXPRESS Rack/Faraday Research,Multipurpose/Multipurpose,General science/General science,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0
 HRF-2/Portable Pulmonary Function System,Multipurpose/Human Research,Crew health/Crew health,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
 Actiwatch/Portable Pulmonary Function System,Human Research/Human Research,Crew health/Crew health,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
@@ -587,35 +586,35 @@ GHF/KOBAIRO Rack,None/Physical Science,Furnace/General science,0,0,0,0,0,0,0,0,0
 Portable Pulmonary Function System/WORF,Human Research/Earth and Space Science,Crew health/Earth observation,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
 Actiwatch/WORF,Human Research/Earth and Space Science,Crew health/Earth observation,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
 MSL/SAMS-II,Physical Science/Multipurpose,Furnace/Physics,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+IGO/UNIGLO,inSPA/inSPA,inSPA/inSPA,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,0
 CIR/SoFIE,Physical Science/Physical Science,Furnace/Combustion,0,0,0,0,0,0,0,0,0,0,0,0,0,34,36,30
 IGO/MSG,inSPA/Multipurpose,inSPA/Glovebox,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0
+MSG/UNIGLO,Multipurpose/inSPA,Glovebox/inSPA,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0
 EPM/GN2,Human Research/Multipurpose,Crew health/General science,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
 CBEF-L/IPU2,Biology and Biotechnology/Multipurpose,Biology/Image processing,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
-MSG/PFMI,Multipurpose/Physical Science,Glovebox/Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+Glovebox Freezer/Rodent Research,Multipurpose/Biology and Biotechnology,Refrigeration/Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
 ELF/EML,Physical Science/Physical Science,Furnace/Levitation,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
 MSPR/TELLAS,Multipurpose/Multipurpose,General science/Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0
-Glovebox Freezer/Rodent Research,Multipurpose/Biology and Biotechnology,Refrigeration/Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
 CBEF-L/Confocal Microscope,Biology and Biotechnology/Multipurpose,Biology/Microscope,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
+MSG/PFMI,Multipurpose/Physical Science,Glovebox/Physics,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
 Kubik/MERLIN,Multipurpose/Biology and Biotechnology,Incubator/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2
-TangoLab-1/iPSC,Multipurpose/inSPA,General science/inSPA,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
 Actiwatch/Bio-Monitor,Human Research/Human Research,Crew health/Crew health,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
 ELC/Rodent Research,Earth and Space Science/Biology and Biotechnology,External payloads/Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
-KERMIT/SABL,Multipurpose/Biology and Biotechnology,Microscope/Incubator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
 BRIC/MERLIN,Biology and Biotechnology/Biology and Biotechnology,Biology/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+KERMIT/SABL,Multipurpose/Biology and Biotechnology,Microscope/Incubator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
 BFF/Iceberg,inSPA/Multipurpose,inSPA/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
-BioServe Centrifuge/LSG,Multipurpose/Multipurpose,Centrifuge/Glovebox,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 MERLIN/SCOF,Biology and Biotechnology/Biology and Biotechnology,Refrigeration/Microscope,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+BioServe Centrifuge/LSG,Multipurpose/Multipurpose,Centrifuge/Glovebox,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+ELF/MSPR-2,Physical Science/Multipurpose,Furnace/General science,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+EXPRESS Rack/KERMIT,Multipurpose/Multipurpose,General science/Microscope,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 CB/CBEF-L,Multipurpose/Biology and Biotechnology,Glovebox/Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 GN2/Solar,Multipurpose/Earth and Space Science,General science/Astronomy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
-EXPRESS Rack/KERMIT,Multipurpose/Multipurpose,General science/Microscope,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
-ELF/MSPR-2,Physical Science/Multipurpose,Furnace/General science,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 CB/IPU2,Multipurpose/Multipurpose,Glovebox/Image processing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
-IPU2/Saibo,Multipurpose/Multipurpose,Image processing/Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 SABL/Tissue Engineered Liver,Biology and Biotechnology/inSPA,Incubator/inSPA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+IPU2/Saibo,Multipurpose/Multipurpose,Image processing/Biology,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 BFF/MELFI,inSPA/Multipurpose,inSPA/Refrigeration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4
 MELFI/SALI,Multipurpose/Biology and Biotechnology,Refrigeration/Incubator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 EXPRESS Rack/SALI,Multipurpose/Biology and Biotechnology,General science/Incubator,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 EDR/EDR-2,Multipurpose/Multipurpose,General science/General science,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
 CIR/Plant Habitat,Physical Science/Biology and Biotechnology,Furnace/Plant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
 Astrobee/ELC,Technology Development and Demonstration/Earth and Space Science,Robotics/External payloads,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
-KERMIT/iPSC,Multipurpose/inSPA,Microscope/inSPA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
