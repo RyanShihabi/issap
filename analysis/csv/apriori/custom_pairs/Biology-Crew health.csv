@@ -1,30 +1,30 @@
 ,support,itemsets,length,frequency
-337,0.00977168091703467,"frozenset({'Actiwatch', 'Spectrum'})",2,104
-530,0.009301888565254157,"frozenset({'Spectrum', 'Actiwatch Spectrum'})",2,99
-338,0.006671051395283285,"frozenset({'Holter', 'Spectrum'})",2,71
-339,0.004979798928873438,"frozenset({'Spectrum', 'Holter Monitor 2'})",2,53
-340,0.003570421873531899,"frozenset({'EPM', 'Spectrum'})",2,38
-341,0.002348961758902565,"frozenset({'Spectrum', 'Ultrasound'})",2,25
-943,0.002348961758902565,"frozenset({'Spectrum', 'Ultrasound 2'})",2,25
-2019,0.001879169407122052,"frozenset({'Rodent Research', 'Bone Densitometer'})",2,20
-1426,0.0006577092924927182,"frozenset({'Rodent Research', 'MMD'})",2,7
-1421,0.0002818754110683078,"frozenset({'MMD', 'CGBA'})",2,3
-163,0.0002818754110683078,"frozenset({'CGBA', 'PFS'})",2,3
-953,0.0001879169407122052,"frozenset({'Rodent Research', 'Ultrasound 2'})",2,2
-1883,0.0001879169407122052,"frozenset({'Rodent Research', 'Ultrasound'})",2,2
-2026,0.0001879169407122052,"frozenset({'Spectrum', 'Bone Densitometer'})",2,2
-1957,0.0001879169407122052,"frozenset({'BRIC', 'HRF-2'})",2,2
-830,0.0001879169407122052,"frozenset({'Holter', 'CGBA'})",2,2
-342,0.0001879169407122052,"frozenset({'HRF-1', 'Spectrum'})",2,2
-870,0.0001879169407122052,"frozenset({'CGBA', 'TEPC'})",2,2
-458,0.0001879169407122052,"frozenset({'PCBA', 'CGBA'})",2,2
-192,0.0001879169407122052,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
-952,9.39584703561026e-05,"frozenset({'CGBA', 'Ultrasound 2'})",2,1
-800,9.39584703561026e-05,"frozenset({'Holter', 'CBEF'})",2,1
-1316,9.39584703561026e-05,"frozenset({'CBEF', 'ALTEA'})",2,1
-348,9.39584703561026e-05,"frozenset({'Spectrum', 'PFS'})",2,1
-346,9.39584703561026e-05,"frozenset({'Spectrum', 'Portable Pulmonary Function System'})",2,1
-828,9.39584703561026e-05,"frozenset({'CGBA', 'Ultrasound'})",2,1
-831,9.39584703561026e-05,"frozenset({'EPM', 'CGBA'})",2,1
-1715,9.39584703561026e-05,"frozenset({'Spectrum', 'HRF-2'})",2,1
-2072,9.39584703561026e-05,"frozenset({'Wet Lab Kit', 'Bone Densitometer'})",2,1
+337,0.009805770318687535,"frozenset({'Spectrum', 'Actiwatch'})",2,104
+530,0.009334339053366019,"frozenset({'Spectrum', 'Actiwatch Spectrum'})",2,99
+338,0.006694323967565529,"frozenset({'Spectrum', 'Holter'})",2,71
+339,0.004997171412408071,"frozenset({'Spectrum', 'Holter Monitor 2'})",2,53
+340,0.0035828776164435225,"frozenset({'Spectrum', 'EPM'})",2,38
+925,0.0023571563266075804,"frozenset({'Spectrum', 'Ultrasound 2'})",2,24
+341,0.0023571563266075804,"frozenset({'Spectrum', 'Ultrasound'})",2,24
+1999,0.0018857250612860645,"frozenset({'Rodent Research', 'Bone Densitometer'})",2,20
+1408,0.0006600037714501226,"frozenset({'Rodent Research', 'MMD'})",2,7
+1403,0.0002828587591929097,"frozenset({'CGBA', 'MMD'})",2,3
+163,0.0002828587591929097,"frozenset({'PFS', 'CGBA'})",2,3
+935,0.00018857250612860644,"frozenset({'Ultrasound 2', 'Rodent Research'})",2,2
+870,0.00018857250612860644,"frozenset({'CGBA', 'TEPC'})",2,2
+192,0.00018857250612860644,"frozenset({'CGBA', 'Portable Pulmonary Function System'})",2,2
+342,0.00018857250612860644,"frozenset({'Spectrum', 'HRF-1'})",2,2
+2006,0.00018857250612860644,"frozenset({'Spectrum', 'Bone Densitometer'})",2,2
+830,0.00018857250612860644,"frozenset({'Holter', 'CGBA'})",2,2
+1865,0.00018857250612860644,"frozenset({'Rodent Research', 'Ultrasound'})",2,2
+458,0.00018857250612860644,"frozenset({'CGBA', 'PCBA'})",2,2
+1937,0.00018857250612860644,"frozenset({'BRIC', 'HRF-2'})",2,2
+934,9.428625306430322e-05,"frozenset({'CGBA', 'Ultrasound 2'})",2,1
+348,9.428625306430322e-05,"frozenset({'Spectrum', 'PFS'})",2,1
+346,9.428625306430322e-05,"frozenset({'Spectrum', 'Portable Pulmonary Function System'})",2,1
+828,9.428625306430322e-05,"frozenset({'CGBA', 'Ultrasound'})",2,1
+1697,9.428625306430322e-05,"frozenset({'Spectrum', 'HRF-2'})",2,1
+831,9.428625306430322e-05,"frozenset({'CGBA', 'EPM'})",2,1
+800,9.428625306430322e-05,"frozenset({'Holter', 'CBEF'})",2,1
+1298,9.428625306430322e-05,"frozenset({'ALTEA', 'CBEF'})",2,1
+2053,9.428625306430322e-05,"frozenset({'Bone Densitometer', 'Wet Lab Kit'})",2,1

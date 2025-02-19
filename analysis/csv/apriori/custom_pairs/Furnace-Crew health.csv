@@ -1,8 +1,8 @@
 ,support,itemsets,length,frequency
-867,9.39584703561026e-05,"frozenset({'TEPC', 'CIR'})",2,1
-868,9.39584703561026e-05,"frozenset({'TEPC', 'MSL'})",2,1
-781,9.39584703561026e-05,"frozenset({'MARES', 'CIR'})",2,1
-1312,9.39584703561026e-05,"frozenset({'ALTEA', 'CIR'})",2,1
-843,9.39584703561026e-05,"frozenset({'Actiwatch', 'CIR'})",2,1
-1511,9.39584703561026e-05,"frozenset({'PFS', 'MSL'})",2,1
-1512,9.39584703561026e-05,"frozenset({'Holter', 'MSL'})",2,1
+868,9.428625306430322e-05,"frozenset({'TEPC', 'MSL'})",2,1
+867,9.428625306430322e-05,"frozenset({'TEPC', 'CIR'})",2,1
+843,9.428625306430322e-05,"frozenset({'CIR', 'Actiwatch'})",2,1
+781,9.428625306430322e-05,"frozenset({'CIR', 'MARES'})",2,1
+1294,9.428625306430322e-05,"frozenset({'ALTEA', 'CIR'})",2,1
+1493,9.428625306430322e-05,"frozenset({'PFS', 'MSL'})",2,1
+1494,9.428625306430322e-05,"frozenset({'Holter', 'MSL'})",2,1

@@ -1,17 +1,17 @@
 ,support,itemsets,length,frequency
-1449,0.0058254251620783615,"frozenset({'MELFI', 'SLAMMD'})",2,62
-1232,0.003288546462463591,"frozenset({'MERLIN', 'EXPRESS Rack'})",2,35
-1271,0.0028187541106830783,"frozenset({'EXPRESS Rack', 'GLACIER'})",2,30
-502,0.00216104481819036,"frozenset({'MELFI', 'EXPRESS Rack'})",2,23
-1190,0.0008456262332049234,"frozenset({'Polar', 'EXPRESS Rack'})",2,9
-1414,0.0006577092924927182,"frozenset({'MELFI', 'MSPR'})",2,7
-1871,0.0003758338814244104,"frozenset({'EXPRESS Rack', 'Iceberg'})",2,4
-1401,0.0001879169407122052,"frozenset({'MELFI', 'EDR'})",2,2
-1402,9.39584703561026e-05,"frozenset({'MERLIN', 'EDR'})",2,1
-1406,9.39584703561026e-05,"frozenset({'EDR', 'GLACIER'})",2,1
-2017,9.39584703561026e-05,"frozenset({'MELFI', 'NanoRacks Platforms'})",2,1
-1969,9.39584703561026e-05,"frozenset({'MSPR', 'FROST'})",2,1
-1878,9.39584703561026e-05,"frozenset({'TangoLab-2', 'GLACIER'})",2,1
-1788,9.39584703561026e-05,"frozenset({'EXPRESS Rack', 'Double Coldbag'})",2,1
-1941,9.39584703561026e-05,"frozenset({'TangoLab-1', 'GLACIER'})",2,1
-2038,9.39584703561026e-05,"frozenset({'Cryo Chiller', 'EXPRESS Rack'})",2,1
+1431,0.0058457476899867996,"frozenset({'MELFI', 'SLAMMD'})",2,61
+1214,0.003300018857250613,"frozenset({'MERLIN', 'EXPRESS Rack'})",2,35
+1253,0.002828587591929097,"frozenset({'EXPRESS Rack', 'GLACIER'})",2,30
+502,0.0021685838204789742,"frozenset({'MELFI', 'EXPRESS Rack'})",2,23
+1172,0.0008485762775787291,"frozenset({'EXPRESS Rack', 'Polar'})",2,9
+1396,0.0006600037714501226,"frozenset({'MSPR', 'MELFI'})",2,7
+1853,0.0003771450122572129,"frozenset({'EXPRESS Rack', 'Iceberg'})",2,4
+1383,0.00018857250612860644,"frozenset({'MELFI', 'EDR'})",2,2
+1384,9.428625306430322e-05,"frozenset({'MERLIN', 'EDR'})",2,1
+1388,9.428625306430322e-05,"frozenset({'EDR', 'GLACIER'})",2,1
+1997,9.428625306430322e-05,"frozenset({'NanoRacks Platforms', 'MELFI'})",2,1
+2018,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Cryo Chiller'})",2,1
+1921,9.428625306430322e-05,"frozenset({'TangoLab-1', 'GLACIER'})",2,1
+1949,9.428625306430322e-05,"frozenset({'MSPR', 'FROST'})",2,1
+1770,9.428625306430322e-05,"frozenset({'Double Coldbag', 'EXPRESS Rack'})",2,1
+1860,9.428625306430322e-05,"frozenset({'TangoLab-2', 'GLACIER'})",2,1

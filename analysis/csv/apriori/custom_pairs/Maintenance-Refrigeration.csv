@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-804,0.0012214601146293338,"frozenset({'MELFI', 'MWA'})",2,13
-1276,0.0001879169407122052,"frozenset({'MWA', 'GLACIER'})",2,2
+804,0.0012257212898359419,"frozenset({'MWA', 'MELFI'})",2,13
+1258,0.00018857250612860644,"frozenset({'MWA', 'GLACIER'})",2,2

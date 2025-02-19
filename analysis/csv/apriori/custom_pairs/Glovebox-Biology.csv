@@ -1,14 +1,14 @@
 ,support,itemsets,length,frequency
-1881,0.0036643803438880015,"frozenset({'Rodent Research', 'MSG'})",2,39
-856,0.0031945879921074886,"frozenset({'CB', 'CBEF'})",2,34
-901,0.0031006295217513857,"frozenset({'CB', 'Saibo'})",2,33
-826,0.001879169407122052,"frozenset({'MSG', 'CGBA'})",2,20
-1344,0.0015972939960537443,"frozenset({'CBEF', 'KFT'})",2,17
-1905,0.0006577092924927182,"frozenset({'Rodent Research', 'LSG'})",2,7
-1703,0.000469792351780513,"frozenset({'MDS', 'PGB'})",2,5
-2080,0.0003758338814244104,"frozenset({'Bioculture System', 'MSG'})",2,4
-799,0.0002818754110683078,"frozenset({'MSG', 'CBEF'})",2,3
-1950,0.0001879169407122052,"frozenset({'MSG', 'CellCult'})",2,2
-1147,9.39584703561026e-05,"frozenset({'MSG', 'PCRF'})",2,1
-1350,9.39584703561026e-05,"frozenset({'CGBA', 'KFT'})",2,1
-1993,9.39584703561026e-05,"frozenset({'CB', 'CBEF-L'})",2,1
+1863,0.0036771638695078258,"frozenset({'Rodent Research', 'MSG'})",2,39
+856,0.0032057326041863097,"frozenset({'CB', 'CBEF'})",2,34
+901,0.0031114463511220064,"frozenset({'Saibo', 'CB'})",2,33
+826,0.0018857250612860645,"frozenset({'CGBA', 'MSG'})",2,20
+1326,0.0016028663020931548,"frozenset({'KFT', 'CBEF'})",2,17
+1885,0.0006600037714501226,"frozenset({'Rodent Research', 'LSG'})",2,7
+1685,0.00047143126532151613,"frozenset({'MDS', 'PGB'})",2,5
+2061,0.0003771450122572129,"frozenset({'Bioculture System', 'MSG'})",2,4
+799,0.0002828587591929097,"frozenset({'MSG', 'CBEF'})",2,3
+1930,0.00018857250612860644,"frozenset({'CellCult', 'MSG'})",2,2
+1129,9.428625306430322e-05,"frozenset({'MSG', 'PCRF'})",2,1
+1332,9.428625306430322e-05,"frozenset({'KFT', 'CGBA'})",2,1
+1973,9.428625306430322e-05,"frozenset({'CBEF-L', 'CB'})",2,1

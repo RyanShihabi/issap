@@ -1,4 +1,4 @@
 ,support,itemsets,length,frequency
-1144,0.0006577092924927182,"frozenset({'SCOF', 'PCRF'})",2,7
-1920,0.0003758338814244104,"frozenset({'CBEF', 'Confocal Microscope'})",2,4
-1921,0.0001879169407122052,"frozenset({'CBEF-L', 'Confocal Microscope'})",2,2
+1126,0.0006600037714501226,"frozenset({'SCOF', 'PCRF'})",2,7
+1900,0.0003771450122572129,"frozenset({'Confocal Microscope', 'CBEF'})",2,4
+1901,0.00018857250612860644,"frozenset({'Confocal Microscope', 'CBEF-L'})",2,2

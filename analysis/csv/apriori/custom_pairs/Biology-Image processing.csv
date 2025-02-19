@@ -1,9 +1,0 @@
-,support,itemsets,length,frequency
-1180,0.0014093770553415391,"frozenset({'CBEF', 'IPU'})",2,15
-1146,0.0006577092924927182,"frozenset({'PCRF', 'IPU'})",2,7
-903,0.0003758338814244104,"frozenset({'IPU', 'Saibo'})",2,4
-1994,0.0002818754110683078,"frozenset({'CBEF-L', 'IPU'})",2,3
-2051,0.0002818754110683078,"frozenset({'IPU2', 'CBEF'})",2,3
-1832,9.39584703561026e-05,"frozenset({'Aquatic Habitat', 'IPU'})",2,1
-2054,9.39584703561026e-05,"frozenset({'CBEF-L', 'IPU2'})",2,1
-2052,9.39584703561026e-05,"frozenset({'IPU2', 'Saibo'})",2,1

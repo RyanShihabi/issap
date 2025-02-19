@@ -9,11 +9,11 @@ Plant,538
 Fluids,461
 Robotics,335
 Centrifuge,315
-inSPA,310
 Microscope,307
 External payloads,303
 Astronomy,284
 Incubator,233
+inSPA,233
 Earth observation,220
 Maintenance,202
 Satellite deployer,191
@@ -29,6 +29,6 @@ Environmental,21
 Human research,13
 Vibration isolation,9
 Stowage,8
-Camera,0
-Heating,0
 Chemistry,0
+Heating,0
+Camera,0

@@ -1,0 +1,25 @@
+,support,itemsets,length,frequency
+453,0.007448613992079954,"frozenset({'MELFI', 'PCBA'})",2,79
+1400,0.006034320196115406,"frozenset({'MELFI', 'MMD'})",2,64
+165,0.0010371487837073355,"frozenset({'PFS', 'MELFI'})",2,11
+291,0.0010371487837073355,"frozenset({'Holter', 'MELFI'})",2,11
+525,0.0003771450122572129,"frozenset({'MELFI', 'EPM'})",2,4
+196,0.0002828587591929097,"frozenset({'MELFI', 'Portable Pulmonary Function System'})",2,3
+288,0.0002828587591929097,"frozenset({'MELFI', 'Actiwatch'})",2,3
+777,0.0002828587591929097,"frozenset({'MELFI', 'MARES'})",2,3
+772,0.0002828587591929097,"frozenset({'MELFI', 'Ultrasound'})",2,3
+1297,0.0002828587591929097,"frozenset({'ALTEA', 'MELFI'})",2,3
+1218,0.00018857250612860644,"frozenset({'PFS', 'MERLIN'})",2,2
+1217,0.00018857250612860644,"frozenset({'MERLIN', 'Portable Pulmonary Function System'})",2,2
+871,0.00018857250612860644,"frozenset({'TEPC', 'MELFI'})",2,2
+460,0.00018857250612860644,"frozenset({'MERLIN', 'PCBA'})",2,2
+2000,0.00018857250612860644,"frozenset({'MELFI', 'Bone Densitometer'})",2,2
+874,9.428625306430322e-05,"frozenset({'TEPC', 'MERLIN'})",2,1
+780,9.428625306430322e-05,"frozenset({'MERLIN', 'MARES'})",2,1
+538,9.428625306430322e-05,"frozenset({'Actiwatch Spectrum', 'MELFI'})",2,1
+1303,9.428625306430322e-05,"frozenset({'ALTEA', 'MERLIN'})",2,1
+1299,9.428625306430322e-05,"frozenset({'ALTEA', 'GLACIER'})",2,1
+1256,9.428625306430322e-05,"frozenset({'GLACIER', 'Portable Pulmonary Function System'})",2,1
+1257,9.428625306430322e-05,"frozenset({'PFS', 'GLACIER'})",2,1
+1394,9.428625306430322e-05,"frozenset({'MELFI', 'UMS'})",2,1
+1828,9.428625306430322e-05,"frozenset({'RAM', 'MELFI'})",2,1

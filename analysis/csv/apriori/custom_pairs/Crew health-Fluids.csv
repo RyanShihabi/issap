@@ -1,0 +1,8 @@
+,support,itemsets,length,frequency
+1527,0.0002828587591929097,"frozenset({'FSL', 'EPM'})",2,3
+866,9.428625306430322e-05,"frozenset({'FIR', 'TEPC'})",2,1
+461,9.428625306430322e-05,"frozenset({'FIR', 'PCBA'})",2,1
+1197,9.428625306430322e-05,"frozenset({'FIR', 'Ultrasound'})",2,1
+1520,9.428625306430322e-05,"frozenset({'FSL', 'Ultrasound 2'})",2,1
+1522,9.428625306430322e-05,"frozenset({'FSL', 'MMD'})",2,1
+1524,9.428625306430322e-05,"frozenset({'FSL', 'Ultrasound'})",2,1

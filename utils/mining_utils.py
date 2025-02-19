@@ -150,13 +150,23 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 
 		facility_locs = {}
 		for name, abbr in facility_name_abbr.items():
-			name_locs = find_name_indices(name, text)
-			if len(name_locs) != 0:
-				facility_locs[name] = name_locs
+			if abbr == "ICF":
+				if report.split(".")[0] in ["03-18-2021", "02-25-2021", "09-23-2021", "02-26-2021", "06-29-2021"]:
+					name_locs = find_name_indices(name, text)
+					if len(name_locs) != 0:
+						facility_locs[name] = name_locs
 
-			abbr_locs = find_name_indices(abbr, text)
-			if len(abbr_locs) != 0:
-				facility_locs[abbr] = abbr_locs
+					abbr_locs = find_name_indices(abbr, text)
+					if len(abbr_locs) != 0:
+						facility_locs[abbr] = abbr_locs
+			else:
+				name_locs = find_name_indices(name, text)
+				if len(name_locs) != 0:
+					facility_locs[name] = name_locs
+
+				abbr_locs = find_name_indices(abbr, text)
+				if len(abbr_locs) != 0:
+					facility_locs[abbr] = abbr_locs
 
 		if len(excerpt_pair) != 0:
 			print(report)
@@ -176,21 +186,23 @@ def generate_paragraph_apriori(facility_name_abbr: dict, report_dir: str, excerp
 
 		facility_locs = {}
 		for name, abbr in facility_name_abbr.items():
-			name_locs = find_name_indices(name, text)
-			if len(name_locs) != 0:
-				facility_locs[name] = name_locs
+			if abbr == "ICF":
+				if report.split(".")[0] in ["03-18-2021", "02-25-2021", "09-23-2021", "02-26-2021", "06-29-2021"]:
+					name_locs = find_name_indices(name, text)
+					if len(name_locs) != 0:
+						facility_locs[name] = name_locs
 
-			abbr_locs = find_name_indices(abbr, text)
-			if len(abbr_locs) != 0:
-				facility_locs[abbr] = abbr_locs
+					abbr_locs = find_name_indices(abbr, text)
+					if len(abbr_locs) != 0:
+						facility_locs[abbr] = abbr_locs
+			else:
+				name_locs = find_name_indices(name, text)
+				if len(name_locs) != 0:
+					facility_locs[name] = name_locs
 
-		# for key, values in facility_locs.items():
-		# 	for keyComp, valuesComp in facility_locs.items():
-		# 		if key != keyComp:
-		# 			newValues, newValuesComp = overlapping_lists(values, valuesComp)
-
-		# 			facility_locs[key] = newValues
-		# 			facility_locs[keyComp] = newValuesComp
+				abbr_locs = find_name_indices(abbr, text)
+				if len(abbr_locs) != 0:
+					facility_locs[abbr] = abbr_locs
 
 		facility_locs = {key: val for key, val in facility_locs.items() if len(val) != 0}
 		if len(excerpt_pair) != 0:
@@ -304,21 +316,23 @@ def grab_facility_mentions(report_dir: str, facility_data, filter=None, kernel_w
 		else:
 			facility_locs = {}
 			for name, abbr in facility_data["facility_name_abbr"].items():
-				name_locs = find_name_indices(name, text)
-				if len(name_locs) != 0:
-					facility_locs[name] = name_locs
+				if abbr == "ICF":
+					if file.split(".")[0] in ["03-18-2021", "02-25-2021", "09-23-2021", "02-26-2021", "06-29-2021"]:
+						name_locs = find_name_indices(name, text)
+						if len(name_locs) != 0:
+							facility_locs[name] = name_locs
 
-				abbr_locs = find_name_indices(abbr, text)
-				if len(abbr_locs) != 0:
-					facility_locs[abbr] = abbr_locs
+						abbr_locs = find_name_indices(abbr, text)
+						if len(abbr_locs) != 0:
+							facility_locs[abbr] = abbr_locs
+				else:
+					name_locs = find_name_indices(name, text)
+					if len(name_locs) != 0:
+						facility_locs[name] = name_locs
 
-			# for key, values in facility_locs.items():
-			# 	for keyComp, valuesComp in facility_locs.items():
-			# 		if key != keyComp:
-			# 			newValues, newValuesComp = overlapping_lists(values, valuesComp)
-
-			# 			facility_locs[key] = newValues
-			# 			facility_locs[keyComp] = newValuesComp
+					abbr_locs = find_name_indices(abbr, text)
+					if len(abbr_locs) != 0:
+						facility_locs[abbr] = abbr_locs
 
 			facilities_mentioned = [key for key, val in facility_locs.items() if len(val) != 0]
 			facilities_mentioned = list(set(map(lambda x: facility_data["facility_name_abbr"][x] if x in facility_data["facility_name_abbr"] else x, facilities_mentioned)))

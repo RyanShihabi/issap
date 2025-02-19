@@ -1,18 +1,18 @@
 ,support,itemsets,length,frequency
-825,0.014845438316264212,"frozenset({'CGBA', 'EXPRESS Rack'})",2,158
-1143,0.0013154185849854364,"frozenset({'Ryutai', 'PCRF'})",2,14
-1413,0.0013154185849854364,"frozenset({'CBEF', 'MSPR'})",2,14
-1829,0.0012214601146293338,"frozenset({'Aquatic Habitat', 'MSPR'})",2,13
-1123,0.0006577092924927182,"frozenset({'EXPRESS Rack', 'MDS'})",2,7
-1882,0.000469792351780513,"frozenset({'Rodent Research', 'EXPRESS Rack'})",2,5
-1453,0.0002818754110683078,"frozenset({'SLAMMD', 'CGBA'})",2,3
-1686,0.0001879169407122052,"frozenset({'NanoRacks Plate Reader', 'EXPRESS Rack'})",2,2
-2081,0.0001879169407122052,"frozenset({'Bioculture System', 'EXPRESS Rack'})",2,2
-2039,0.0001879169407122052,"frozenset({'MSPR', 'TELLAS'})",2,2
-1959,0.0001879169407122052,"frozenset({'BRIC', 'EXPRESS Rack'})",2,2
-1736,0.0001879169407122052,"frozenset({'Ryutai', 'Saibo'})",2,2
-1404,0.0001879169407122052,"frozenset({'CGBA', 'EDR'})",2,2
-344,9.39584703561026e-05,"frozenset({'Spectrum', 'EXPRESS Rack'})",2,1
-1847,9.39584703561026e-05,"frozenset({'BSTC', 'EXPRESS Rack'})",2,1
-2073,9.39584703561026e-05,"frozenset({'EXPRESS Rack', 'Wet Lab Kit'})",2,1
-2099,9.39584703561026e-05,"frozenset({'EXPRESS Rack', 'Mobile SpaceLab'})",2,1
+825,0.014897227984159909,"frozenset({'CGBA', 'EXPRESS Rack'})",2,158
+1125,0.0013200075429002452,"frozenset({'Ryutai', 'PCRF'})",2,14
+1395,0.0013200075429002452,"frozenset({'MSPR', 'CBEF'})",2,14
+1811,0.0012257212898359419,"frozenset({'MSPR', 'Aquatic Habitat'})",2,13
+1105,0.0006600037714501226,"frozenset({'EXPRESS Rack', 'MDS'})",2,7
+1864,0.00047143126532151613,"frozenset({'Rodent Research', 'EXPRESS Rack'})",2,5
+1435,0.0002828587591929097,"frozenset({'CGBA', 'SLAMMD'})",2,3
+2019,0.00018857250612860644,"frozenset({'TELLAS', 'MSPR'})",2,2
+2062,0.00018857250612860644,"frozenset({'Bioculture System', 'EXPRESS Rack'})",2,2
+1386,0.00018857250612860644,"frozenset({'CGBA', 'EDR'})",2,2
+1668,0.00018857250612860644,"frozenset({'EXPRESS Rack', 'NanoRacks Plate Reader'})",2,2
+1718,0.00018857250612860644,"frozenset({'Saibo', 'Ryutai'})",2,2
+1939,0.00018857250612860644,"frozenset({'BRIC', 'EXPRESS Rack'})",2,2
+344,9.428625306430322e-05,"frozenset({'Spectrum', 'EXPRESS Rack'})",2,1
+2054,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Wet Lab Kit'})",2,1
+2080,9.428625306430322e-05,"frozenset({'Mobile SpaceLab', 'EXPRESS Rack'})",2,1
+1829,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'BSTC'})",2,1

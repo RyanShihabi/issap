@@ -339,7 +339,7 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
         category_year_sum_df.name = "Frequency"
         category_year_sum_df.to_csv(f"./analysis/csv/category_year/{category}_Yearly.csv", index_label="Year")
 
-        category_year_prop_df = category_year_df.sum(axis=1) / year_totals
+        category_year_prop_df = category_year_sum_df / year_totals
         category_year_prop_df.name = "Proportion"
         category_year_prop_df.to_csv(f"./analysis/csv/category_year/{category}_prop_Yearly.csv", index_label="Year")
         
@@ -369,7 +369,8 @@ def calc_categories_by_year(category_facilities: dict, df_range: pd.DataFrame):
 
     category_year_prop_df = category_year_df.sum(axis=1) / year_totals
     category_year_prop_df.name = "Proportion"
-    category_year_prop_df.to_csv(f"./analysis/csv/category_year/{category}_prop_Yearly.csv", index_label="Year")
+
+    category_year_prop_df.to_csv(f"./analysis/csv/category_year/Crew_Health_Without_Exercise_prop_Yearly.csv", index_label="Year")
     
     stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
     stats_df.to_csv(f"./analysis/csv/category_year/stats/{category}.csv")
@@ -413,10 +414,8 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
         category_year_sum_df.name = "Frequency"
         category_year_sum_df.to_csv(f"./analysis/csv/custom_category_year/{category}_Yearly.csv", index_label="Year")
 
-        category_year_prop_df = category_year_df.sum(axis=1) / year_totals
+        category_year_prop_df = category_year_sum_df / year_totals
         category_year_prop_df.name = "Proportion"
-        if category == "inSPA":
-            category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
         category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
         
         if category != "Crew health":
@@ -425,6 +424,8 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
 
         stats_df = category_year_sum_df.describe()[["min", "mean", "std", "max"]]
         stats_df.to_csv(f"./analysis/csv/custom_category_year/stats/{category}.csv")
+
+        # print(category_year_prop_df)
         
         plt.figure(figsize=(20, 5))
         plt.plot(category_year_sum_df.index, category_year_sum_df.values)
@@ -448,7 +449,7 @@ def calc_custom_categories_by_year(custom_facilities: dict, df_range: pd.DataFra
 
     category_year_prop_df = category_year_df.sum(axis=1) / year_totals
     category_year_prop_df.name = "Proportion"
-    category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/{category}_prop_Yearly.csv", index_label="Year")
+    category_year_prop_df.to_csv(f"./analysis/csv/custom_category_year/Crew_Health_Without_Exercise_prop_Yearly.csv", index_label="Year")
 
     category_year_sum_df.name = "Crew health (without exercise)"
     total_df = pd.concat([total_df, category_year_sum_df], axis=1)
