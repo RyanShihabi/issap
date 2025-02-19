@@ -1,6 +1,0 @@
-,support,itemsets,length,frequency
-1478,0.0005657175183858194,"frozenset({'CGBA', 'Plant Habitat'})",2,6
-1850,0.0002828587591929097,"frozenset({'EMCS', 'BioLab'})",2,3
-1109,9.428625306430322e-05,"frozenset({'ABRS', 'MDS'})",2,1
-2074,9.428625306430322e-05,"frozenset({'CGBA', 'Biotube'})",2,1
-1736,9.428625306430322e-05,"frozenset({'ABRS', 'CGBA'})",2,1

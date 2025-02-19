@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-1717,0.0016971525551574581,"frozenset({'IPU', 'Ryutai'})",2,18
-1168,0.0003771450122572129,"frozenset({'MSPR', 'IPU'})",2,4
+1069,0.0016971525551574581,"frozenset({'IPU', 'Ryutai'})",2,18
+689,0.0003771450122572129,"frozenset({'IPU', 'MSPR'})",2,4

@@ -1,8 +1,8 @@
 ,Frequency
-Crew health,3681
+Crew health,3307
 Refrigeration,1571
-Biology,1534
-General science,1156
+Biology,1432
+General science,1151
 Furnace,882
 Glovebox,813
 Plant,538
@@ -13,13 +13,13 @@ Microscope,307
 External payloads,303
 Astronomy,284
 Incubator,233
-inSPA,233
 Earth observation,220
+inSPA,207
 Maintenance,202
 Satellite deployer,191
 Physics,172
 3D printing,154
-Image processing,120
+Image processing,116
 Combustion,80
 Materials,74
 Levitation,59

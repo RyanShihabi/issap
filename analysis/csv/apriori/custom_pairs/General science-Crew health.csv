@@ -1,27 +1,23 @@
 ,support,itemsets,length,frequency
-1430,0.01225721289835942,"frozenset({'MMD', 'SLAMMD'})",2,130
-454,0.005940033943051103,"frozenset({'PCBA', 'SLAMMD'})",2,63
-1292,0.0012257212898359419,"frozenset({'ALTEA', 'EXPRESS Rack'})",2,13
-1382,0.0009428625306430323,"frozenset({'EPM', 'EDR'})",2,10
-1432,0.0009428625306430323,"frozenset({'HRF-1', 'SLAMMD'})",2,10
-1434,0.0005657175183858194,"frozenset({'Holter', 'SLAMMD'})",2,6
-168,0.00047143126532151613,"frozenset({'PFS', 'EXPRESS Rack'})",2,5
-193,0.0003771450122572129,"frozenset({'EXPRESS Rack', 'Portable Pulmonary Function System'})",2,4
-292,0.0003771450122572129,"frozenset({'Holter', 'EXPRESS Rack'})",2,4
-1404,0.0002828587591929097,"frozenset({'EXPRESS Rack', 'MMD'})",2,3
-2004,0.00018857250612860644,"frozenset({'EXPRESS Rack', 'Bone Densitometer'})",2,2
-505,0.00018857250612860644,"frozenset({'EXPRESS Rack', 'Ultrasound'})",2,2
-930,0.00018857250612860644,"frozenset({'Ultrasound 2', 'EXPRESS Rack'})",2,2
-774,0.00018857250612860644,"frozenset({'SLAMMD', 'MARES'})",2,2
-1869,0.00018857250612860644,"frozenset({'ICE Cubes', 'EPM'})",2,2
-931,9.428625306430322e-05,"frozenset({'Ultrasound 2', 'SLAMMD'})",2,1
-526,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'EPM'})",2,1
-876,9.428625306430322e-05,"frozenset({'TEPC', 'EDR'})",2,1
-869,9.428625306430322e-05,"frozenset({'TEPC', 'EXPRESS Rack'})",2,1
-506,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Actiwatch'})",2,1
-778,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'MARES'})",2,1
-539,9.428625306430322e-05,"frozenset({'Actiwatch Spectrum', 'EXPRESS Rack'})",2,1
-303,9.428625306430322e-05,"frozenset({'Holter Monitor 2', 'EXPRESS Rack'})",2,1
-1438,9.428625306430322e-05,"frozenset({'Ultrasound', 'SLAMMD'})",2,1
-2020,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Bio-Analyzer'})",2,1
-1821,9.428625306430322e-05,"frozenset({'GN2', 'EPM'})",2,1
+313,0.005940033943051103,"frozenset({'PCBA', 'SLAMMD'})",2,63
+809,0.0012257212898359419,"frozenset({'ALTEA', 'EXPRESS Rack'})",2,13
+899,0.0009428625306430323,"frozenset({'EPM', 'EDR'})",2,10
+918,0.0009428625306430323,"frozenset({'HRF-1', 'SLAMMD'})",2,10
+920,0.0005657175183858194,"frozenset({'Holter', 'SLAMMD'})",2,6
+194,0.0003771450122572129,"frozenset({'EXPRESS Rack', 'Portable Pulmonary Function System'})",2,4
+488,0.0002828587591929097,"frozenset({'EXPRESS Rack', 'Holter'})",2,3
+584,0.00018857250612860644,"frozenset({'Ultrasound 2', 'EXPRESS Rack'})",2,2
+169,0.00018857250612860644,"frozenset({'PFS', 'EXPRESS Rack'})",2,2
+1212,0.00018857250612860644,"frozenset({'EPM', 'ICE Cubes'})",2,2
+439,0.00018857250612860644,"frozenset({'MARES', 'SLAMMD'})",2,2
+1341,0.00018857250612860644,"frozenset({'Bone Densitometer', 'EXPRESS Rack'})",2,2
+373,9.428625306430322e-05,"frozenset({'EPM', 'EXPRESS Rack'})",2,1
+383,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Actiwatch Spectrum'})",2,1
+436,9.428625306430322e-05,"frozenset({'Ultrasound', 'EXPRESS Rack'})",2,1
+442,9.428625306430322e-05,"frozenset({'MARES', 'EXPRESS Rack'})",2,1
+532,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'TEPC'})",2,1
+539,9.428625306430322e-05,"frozenset({'EDR', 'TEPC'})",2,1
+259,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Holter Monitor 2'})",2,1
+585,9.428625306430322e-05,"frozenset({'Ultrasound 2', 'SLAMMD'})",2,1
+1165,9.428625306430322e-05,"frozenset({'EPM', 'GN2'})",2,1
+1354,9.428625306430322e-05,"frozenset({'Bio-Analyzer', 'EXPRESS Rack'})",2,1

@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-1916,0.0009428625306430323,"frozenset({'ADSEP', 'BFF'})",2,10
-2065,9.428625306430322e-05,"frozenset({'BFF', 'Bioculture System'})",2,1
+1259,0.0009428625306430323,"frozenset({'ADSEP', 'BFF'})",2,10
+1400,9.428625306430322e-05,"frozenset({'Bioculture System', 'BFF'})",2,1

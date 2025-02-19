@@ -1,0 +1,3 @@
+,support,itemsets,length,frequency
+643,0.00047143126532151613,"frozenset({'Veggie', 'LMM'})",2,5
+1089,0.0002828587591929097,"frozenset({'ABRS', 'LMM'})",2,3

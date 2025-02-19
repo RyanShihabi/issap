@@ -1,7 +1,0 @@
-,support,itemsets,length,frequency
-1874,0.0003771450122572129,"frozenset({'SABL', 'CGBA'})",2,4
-1917,0.00018857250612860644,"frozenset({'SABL', 'ADSEP'})",2,2
-1873,0.00018857250612860644,"frozenset({'SABL', 'CBEF'})",2,2
-1929,0.00018857250612860644,"frozenset({'CellCult', 'SABL'})",2,2
-1983,9.428625306430322e-05,"frozenset({'SABL', 'Fruit Fly Lab'})",2,1
-1839,9.428625306430322e-05,"frozenset({'Kubik', 'CGBA'})",2,1

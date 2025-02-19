@@ -1,17 +1,17 @@
 ,support,itemsets,length,frequency
-1431,0.0058457476899867996,"frozenset({'MELFI', 'SLAMMD'})",2,61
-1214,0.003300018857250613,"frozenset({'MERLIN', 'EXPRESS Rack'})",2,35
-1253,0.002828587591929097,"frozenset({'EXPRESS Rack', 'GLACIER'})",2,30
-502,0.0021685838204789742,"frozenset({'MELFI', 'EXPRESS Rack'})",2,23
-1172,0.0008485762775787291,"frozenset({'EXPRESS Rack', 'Polar'})",2,9
-1396,0.0006600037714501226,"frozenset({'MSPR', 'MELFI'})",2,7
-1853,0.0003771450122572129,"frozenset({'EXPRESS Rack', 'Iceberg'})",2,4
-1383,0.00018857250612860644,"frozenset({'MELFI', 'EDR'})",2,2
-1384,9.428625306430322e-05,"frozenset({'MERLIN', 'EDR'})",2,1
-1388,9.428625306430322e-05,"frozenset({'EDR', 'GLACIER'})",2,1
-1997,9.428625306430322e-05,"frozenset({'NanoRacks Platforms', 'MELFI'})",2,1
-2018,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Cryo Chiller'})",2,1
-1921,9.428625306430322e-05,"frozenset({'TangoLab-1', 'GLACIER'})",2,1
-1949,9.428625306430322e-05,"frozenset({'MSPR', 'FROST'})",2,1
-1770,9.428625306430322e-05,"frozenset({'Double Coldbag', 'EXPRESS Rack'})",2,1
-1860,9.428625306430322e-05,"frozenset({'TangoLab-2', 'GLACIER'})",2,1
+917,0.0058457476899867996,"frozenset({'MELFI', 'SLAMMD'})",2,61
+735,0.003300018857250613,"frozenset({'MERLIN', 'EXPRESS Rack'})",2,35
+770,0.002828587591929097,"frozenset({'EXPRESS Rack', 'GLACIER'})",2,30
+353,0.0021685838204789742,"frozenset({'EXPRESS Rack', 'MELFI'})",2,23
+693,0.0008485762775787291,"frozenset({'EXPRESS Rack', 'Polar'})",2,9
+913,0.0006600037714501226,"frozenset({'MELFI', 'MSPR'})",2,7
+1197,0.0003771450122572129,"frozenset({'EXPRESS Rack', 'Iceberg'})",2,4
+900,0.00018857250612860644,"frozenset({'EDR', 'MELFI'})",2,2
+901,9.428625306430322e-05,"frozenset({'MERLIN', 'EDR'})",2,1
+905,9.428625306430322e-05,"frozenset({'EDR', 'GLACIER'})",2,1
+1292,9.428625306430322e-05,"frozenset({'MSPR', 'FROST'})",2,1
+1114,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'Double Coldbag'})",2,1
+1352,9.428625306430322e-05,"frozenset({'Cryo Chiller', 'EXPRESS Rack'})",2,1
+1335,9.428625306430322e-05,"frozenset({'MELFI', 'NanoRacks Platforms'})",2,1
+1264,9.428625306430322e-05,"frozenset({'TangoLab-1', 'GLACIER'})",2,1
+1204,9.428625306430322e-05,"frozenset({'GLACIER', 'TangoLab-2'})",2,1

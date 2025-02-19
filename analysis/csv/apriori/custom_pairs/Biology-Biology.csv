@@ -1,15 +1,14 @@
 ,support,itemsets,length,frequency
-1971,0.006317178955308316,"frozenset({'CBEF-L', 'CBEF'})",2,67
-900,0.005657175183858194,"frozenset({'Saibo', 'CBEF'})",2,60
-1919,0.0007542900245144258,"frozenset({'ADSEP', 'ADSEP-2'})",2,8
-1972,0.0007542900245144258,"frozenset({'CBEF-L', 'Saibo'})",2,8
-345,0.0007542900245144258,"frozenset({'Spectrum', 'Rodent Research'})",2,8
-1989,0.0006600037714501226,"frozenset({'CBEF-L', 'JAXA Mouse Habitat Unit'})",2,7
-1990,0.0006600037714501226,"frozenset({'JAXA Mouse Habitat Unit', 'CBEF'})",2,7
-1107,0.0005657175183858194,"frozenset({'Saibo', 'MDS'})",2,6
-1927,0.0005657175183858194,"frozenset({'CellCult', 'ADSEP'})",2,6
-1124,0.00047143126532151613,"frozenset({'PCRF', 'CBEF'})",2,5
-1812,0.0003771450122572129,"frozenset({'Aquatic Habitat', 'CBEF'})",2,4
-1940,9.428625306430322e-05,"frozenset({'BRIC', 'CGBA'})",2,1
-1982,9.428625306430322e-05,"frozenset({'Fruit Fly Lab', 'Rodent Research'})",2,1
-2060,9.428625306430322e-05,"frozenset({'ADSEP', 'Bioculture System'})",2,1
+563,0.00556288893079389,"frozenset({'CBEF', 'Saibo'})",2,59
+1315,0.005091457665472374,"frozenset({'CBEF-L', 'CBEF'})",2,54
+1314,0.0007542900245144258,"frozenset({'CBEF-L', 'Saibo'})",2,8
+277,0.0007542900245144258,"frozenset({'Rodent Research', 'Spectrum'})",2,8
+1332,0.0006600037714501226,"frozenset({'CBEF-L', 'JAXA Mouse Habitat Unit'})",2,7
+1270,0.0005657175183858194,"frozenset({'ADSEP', 'CellCult'})",2,6
+634,0.0005657175183858194,"frozenset({'Saibo', 'MDS'})",2,6
+1262,0.0005657175183858194,"frozenset({'ADSEP', 'ADSEP-2'})",2,6
+651,0.00047143126532151613,"frozenset({'CBEF', 'PCRF'})",2,5
+1156,0.0003771450122572129,"frozenset({'CBEF', 'Aquatic Habitat'})",2,4
+1283,9.428625306430322e-05,"frozenset({'BRIC', 'CGBA'})",2,1
+1395,9.428625306430322e-05,"frozenset({'ADSEP', 'Bioculture System'})",2,1
+1325,9.428625306430322e-05,"frozenset({'Rodent Research', 'Fruit Fly Lab'})",2,1

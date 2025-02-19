@@ -1,9 +1,0 @@
-,support,itemsets,length,frequency
-1481,0.0015085800490288515,"frozenset({'Plant Habitat', 'EXPRESS Rack'})",2,16
-745,0.0010371487837073355,"frozenset({'EXPRESS Rack', 'EMCS'})",2,11
-1733,0.0003771450122572129,"frozenset({'ABRS', 'EXPRESS Rack'})",2,4
-1868,0.0002828587591929097,"frozenset({'Veggie', 'EXPRESS Rack'})",2,3
-1818,0.00018857250612860644,"frozenset({'GN2', 'EMCS'})",2,2
-1389,0.00018857250612860644,"frozenset({'Plant Habitat', 'EDR'})",2,2
-1734,9.428625306430322e-05,"frozenset({'ABRS', 'SLAMMD'})",2,1
-1822,9.428625306430322e-05,"frozenset({'GN2', 'Plant Habitat'})",2,1

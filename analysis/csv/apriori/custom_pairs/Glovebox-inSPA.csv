@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-1914,0.0031114463511220064,"frozenset({'FOP', 'MSG'})",2,33
-1968,0.0010371487837073355,"frozenset({'MSG', 'Space Fibers'})",2,11
-1995,0.0008485762775787291,"frozenset({'IGO', 'MSG'})",2,9
-1993,0.0008485762775787291,"frozenset({'UNIGLO', 'MSG'})",2,9
