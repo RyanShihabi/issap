@@ -1,0 +1,6 @@
+,support,itemsets,length,frequency
+715,0.0011314350367716388,"frozenset({'MELFI', 'FIR'})",2,12
+743,0.0003771450122572129,"frozenset({'FIR', 'MERLIN'})",2,4
+365,9.428625306430322e-05,"frozenset({'GLACIER', 'DECLIC'})",2,1
+981,9.428625306430322e-05,"frozenset({'FSL', 'MELFI'})",2,1
+979,9.428625306430322e-05,"frozenset({'FSL', 'MERLIN'})",2,1

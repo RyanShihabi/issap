@@ -1,4 +1,0 @@
-,support,itemsets,length,frequency
-511,0.0010371487837073355,"frozenset({'CIR', 'MSG'})",2,11
-845,9.428625306430322e-05,"frozenset({'GHF', 'KFT'})",2,1
-523,9.428625306430322e-05,"frozenset({'CB', 'CIR'})",2,1

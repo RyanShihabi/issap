@@ -1,5 +1,0 @@
-,support,itemsets,length,frequency
-633,9.428625306430322e-05,"frozenset({'ELC', 'MDS'})",2,1
-624,9.428625306430322e-05,"frozenset({'CGBA', 'ELC'})",2,1
-626,9.428625306430322e-05,"frozenset({'Rodent Research', 'ELC'})",2,1
-1030,9.428625306430322e-05,"frozenset({'NanoRacks Plate Reader', 'NanoRacks External Platform'})",2,1

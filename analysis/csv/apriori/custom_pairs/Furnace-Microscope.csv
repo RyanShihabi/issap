@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
 640,0.00047143126532151613,"frozenset({'CIR', 'LMM'})",2,5
-1223,9.428625306430322e-05,"frozenset({'MSL', 'KERMIT'})",2,1
+1223,9.428625306430322e-05,"frozenset({'KERMIT', 'MSL'})",2,1

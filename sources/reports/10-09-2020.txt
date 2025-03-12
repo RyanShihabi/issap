@@ -1,6 +1,0 @@
-
-Payloads
-Onco-Selectors: The crew used the LSG to perform the Onco-Selectors hardware setup, prepare the treatment mixtures, and inject treatments into 12-Well Bio-Cells (S/N 1-5).  12-Well Bio Cell S/N 6 will not be processed and will be placed in cold stowage for return. Leveraging Microgravity to Screen Onco-selective Messenger RNAs for Cancer Immunotherapy (Onco-Selectors) tests a biologic drug based on messenger RNA (mRNA) for treatment of leukemia. This mRNA-based drug is capable of differentiating cancer cells from healthy ones (onco-selective) and is designed to kill cancer cells (oncolytic). Recent studies show that microgravity alters cells by modifying the expression of certain proteins involved in mRNA translation, making it a unique platform for testing mRNAs to identify those that are onco-selective for clinical development.
-Systems
-Systems Operations Data File (SODF) Update: Today, the crew performed an update to the Emergency Response book to incorporate changes to the emergency response procedures. The updates to the procedure account for the upcoming dual Soyuz configuration following 63S arrival.
-

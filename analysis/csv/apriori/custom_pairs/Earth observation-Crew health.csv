@@ -1,8 +1,0 @@
-,support,itemsets,length,frequency
-438,0.00047143126532151613,"frozenset({'MARES', 'WORF'})",2,5
-170,0.00018857250612860644,"frozenset({'PFS', 'WORF'})",2,2
-261,9.428625306430322e-05,"frozenset({'Holter Monitor 2', 'WORF'})",2,1
-810,9.428625306430322e-05,"frozenset({'ALTEA', 'WORF'})",2,1
-247,9.428625306430322e-05,"frozenset({'Actiwatch', 'WORF'})",2,1
-586,9.428625306430322e-05,"frozenset({'Ultrasound 2', 'WORF'})",2,1
-202,9.428625306430322e-05,"frozenset({'Portable Pulmonary Function System', 'WORF'})",2,1

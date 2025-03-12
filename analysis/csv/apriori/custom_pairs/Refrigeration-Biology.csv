@@ -1,0 +1,32 @@
+,support,itemsets,length,frequency
+459,0.007071468979822742,"frozenset({'MELFI', 'CBEF'})",2,75
+1206,0.0021685838204789742,"frozenset({'Rodent Research', 'MELFI'})",2,23
+1154,0.0016028663020931548,"frozenset({'Aquatic Habitat', 'MELFI'})",2,17
+565,0.0013200075429002452,"frozenset({'MELFI', 'Saibo'})",2,14
+631,0.0011314350367716388,"frozenset({'MELFI', 'MDS'})",2,12
+501,0.0009428625306430323,"frozenset({'MELFI', 'CGBA'})",2,10
+1281,0.0008485762775787291,"frozenset({'MELFI', 'BRIC'})",2,9
+740,0.00047143126532151613,"frozenset({'CBEF', 'MERLIN'})",2,5
+1398,0.00047143126532151613,"frozenset({'Bioculture System', 'MELFI'})",2,5
+1271,0.00047143126532151613,"frozenset({'MELFI', 'CellCult'})",2,5
+744,0.0003771450122572129,"frozenset({'CGBA', 'MERLIN'})",2,4
+1029,0.0002828587591929097,"frozenset({'NanoRacks Plate Reader', 'MELFI'})",2,3
+772,0.0002828587591929097,"frozenset({'GLACIER', 'CBEF'})",2,3
+778,0.0002828587591929097,"frozenset({'GLACIER', 'CGBA'})",2,3
+1279,0.0002828587591929097,"frozenset({'BRIC', 'MERLIN'})",2,3
+1193,0.00018857250612860644,"frozenset({'MELFI', 'BioLab'})",2,2
+567,0.00018857250612860644,"frozenset({'Saibo', 'GLACIER'})",2,2
+1258,0.00018857250612860644,"frozenset({'MELFI', 'ADSEP'})",2,2
+657,9.428625306430322e-05,"frozenset({'MELFI', 'PCRF'})",2,1
+635,9.428625306430322e-05,"frozenset({'GLACIER', 'MDS'})",2,1
+697,9.428625306430322e-05,"frozenset({'CBEF', 'Polar'})",2,1
+1410,9.428625306430322e-05,"frozenset({'STaARS-1 EF', 'MERLIN'})",2,1
+1028,9.428625306430322e-05,"frozenset({'NanoRacks Plate Reader', 'Polar'})",2,1
+1390,9.428625306430322e-05,"frozenset({'Wet Lab Kit', 'MELFI'})",2,1
+1287,9.428625306430322e-05,"frozenset({'Rodent Research', 'Glovebox Freezer'})",2,1
+1296,9.428625306430322e-05,"frozenset({'FROST', 'CBEF'})",2,1
+1116,9.428625306430322e-05,"frozenset({'Double Coldbag', 'CBEF'})",2,1
+1115,9.428625306430322e-05,"frozenset({'Double Coldbag', 'Saibo'})",2,1
+1328,9.428625306430322e-05,"frozenset({'Fruit Fly Lab', 'MELFI'})",2,1
+1333,9.428625306430322e-05,"frozenset({'JAXA Mouse Habitat Unit', 'Polar'})",2,1
+1233,9.428625306430322e-05,"frozenset({'Wet Lab RNA SmartCycler', 'MELFI'})",2,1

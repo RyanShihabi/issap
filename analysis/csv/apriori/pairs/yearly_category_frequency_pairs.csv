@@ -463,7 +463,7 @@ GN2/Plant Habitat,Multipurpose/Biology and Biotechnology,General science/Plant,0
 BRIC/HRF-2,Biology and Biotechnology/Multipurpose,Biology/Crew health,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0
 EXHAM/NanoRacks CubeSat Deployer,Multipurpose/Multipurpose,External payloads/Satellite deployer,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 HRF-2/RC,Multipurpose/Human Research,Crew health/Centrifuge,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-AMF/MSFO,Technology Development and Demonstration/inSPA,3D printing/inSPA,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+AMF/MSFO,Technology Development and Demonstration/Manufacture,3D printing/Manufacture,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 FROST/HSRC,Multipurpose/Technology Development and Demonstration,Refrigeration/External payloads,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
 LSG/MSG,Multipurpose/Multipurpose,Glovebox/Glovebox,0,0,0,0,0,0,0,0,0,2,2,0,0,2,8,0
 MELFI/Plant Habitat,Multipurpose/Biology and Biotechnology,Refrigeration/Plant,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0

@@ -1,6 +1,0 @@
-
-40 Soyuz (40S) Undock and Landing: 40S undocked at 5:45pm CDT today bringing Wilmore, Serova and Samokutyaev back to Earth. Landing occurred at 9:07pm in Kazakhstan. The ISS will be in 3-crew operations until 42S docking on May 28.
-Biolab Troubleshooting (TripleLux-B):  Cristoforetti performed troubleshooting to recover smoke detection in the Biolab facility.  She removed & replaced (R&R) two Exchangeable Standard Electrical Module (ESEM) boards in the Biolab to verify there is no damage to board connectors and Biolab interface after removal and prior to installation. Photos were downlinked for evaluation by ground teams and it was determined that the problem is the smoke detector. An R&R is scheduled for next Monday.
-Treadmill 2 (T2) Six-Month Inspection: Virts performed this regularly scheduled maintenance today. He cleaned closeout panels, inspected threadbelt slats, screws and snubber cup liner and vacuumed the rack space and filter screen. 
-Node 2 Port IDA Control Panel Installation: Cristoforetti installed the International Docking Adapter (IDA) Control Panel, IDA Control Panel bracket, and cover on the NOD2P0-11 closeout panel.  The Port IDA Control Panel will control IDA1 which will be installed at N2 Forward during SpX-7. 
-

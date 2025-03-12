@@ -1,0 +1,17 @@
+,support,itemsets,length,frequency
+498,0.014897227984159909,"frozenset({'CGBA', 'EXPRESS Rack'})",2,158
+652,0.0013200075429002452,"frozenset({'PCRF', 'Ryutai'})",2,14
+912,0.0013200075429002452,"frozenset({'MSPR', 'CBEF'})",2,14
+1155,0.0012257212898359419,"frozenset({'Aquatic Habitat', 'MSPR'})",2,13
+632,0.0006600037714501226,"frozenset({'EXPRESS Rack', 'MDS'})",2,7
+1208,0.00047143126532151613,"frozenset({'Rodent Research', 'EXPRESS Rack'})",2,5
+921,0.0002828587591929097,"frozenset({'CGBA', 'SLAMMD'})",2,3
+1282,0.00018857250612860644,"frozenset({'BRIC', 'EXPRESS Rack'})",2,2
+1353,0.00018857250612860644,"frozenset({'TELLAS', 'MSPR'})",2,2
+1397,0.00018857250612860644,"frozenset({'Bioculture System', 'EXPRESS Rack'})",2,2
+1070,0.00018857250612860644,"frozenset({'Saibo', 'Ryutai'})",2,2
+1027,0.00018857250612860644,"frozenset({'NanoRacks Plate Reader', 'EXPRESS Rack'})",2,2
+903,0.00018857250612860644,"frozenset({'CGBA', 'EDR'})",2,2
+1414,9.428625306430322e-05,"frozenset({'Mobile SpaceLab', 'EXPRESS Rack'})",2,1
+1389,9.428625306430322e-05,"frozenset({'Wet Lab Kit', 'EXPRESS Rack'})",2,1
+1173,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'BSTC'})",2,1

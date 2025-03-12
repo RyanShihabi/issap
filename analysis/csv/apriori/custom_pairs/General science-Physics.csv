@@ -1,0 +1,4 @@
+,support,itemsets,length,frequency
+423,0.0002828587591929097,"frozenset({'SAMS-II', 'EXPRESS Rack'})",2,3
+1370,0.00018857250612860644,"frozenset({'LIDAL', 'EXPRESS Rack'})",2,2
+1192,0.00018857250612860644,"frozenset({'MAMS', 'EXPRESS Rack'})",2,2

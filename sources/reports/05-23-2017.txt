@@ -1,4 +1,0 @@
-
-External (EXT) Multiplexer/Demultiplexer (MDM)-1 R&R Extravehicular Activity (EVA):  With IV support from Thomas Pesquet, today Peggy Whitson (EV1) and Jack Fischer (EV2) performed a 2 hour 46 minute EVA to Remove & Replace (R&R) the EXT MDM-1 that failed on Saturday, May 20th. While Whitson performed the EXT MDM R&R, Fischer installed the Lab Nadir External Wireless Communications (EWC) Antennas that were deferred from the last EVA.
-Solar Array Battery 3A1 Temperatures – On 5/22/17, Battery 3A1 average temperatures peaked above 25°C for three concurrent orbits due to high solar beta, with a maximum average temperature peak of 25.6°C.  Per Flight Rule, ground controllers terminated the use of the battery string by turning the Battery Charge Discharge Unit (BCDU) 3A1 converter off and commanding the Fault Isolator (FI) open.  There is no impact to downstream loads in this configuration
-

@@ -14,7 +14,7 @@ External payloads,303
 Astronomy,284
 Incubator,233
 Earth observation,220
-inSPA,207
+inSPA,203
 Maintenance,202
 Satellite deployer,191
 Physics,172
@@ -29,6 +29,7 @@ Environmental,21
 Human research,13
 Vibration isolation,9
 Stowage,8
-Chemistry,0
-Heating,0
+Manufacture,4
 Camera,0
+Heating,0
+Chemistry,0

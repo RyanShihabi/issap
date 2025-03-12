@@ -1,13 +1,13 @@
 ,support,itemsets,length,frequency
 1263,0.0007542900245144258,"frozenset({'TangoLab-1', 'TangoLab-2'})",2,8
-1265,0.0003771450122572129,"frozenset({'EXPRESS Rack', 'TangoLab-1'})",2,4
+1265,0.0003771450122572129,"frozenset({'TangoLab-1', 'EXPRESS Rack'})",2,4
 1163,0.0003771450122572129,"frozenset({'MSPR', 'GN2'})",2,4
 922,0.0002828587591929097,"frozenset({'EXPRESS Rack', 'SLAMMD'})",2,3
 1356,0.0002828587591929097,"frozenset({'Faraday Research', 'EXPRESS Rack'})",2,3
-1161,0.0002828587591929097,"frozenset({'EXPRESS Rack', 'GN2'})",2,3
+1161,0.0002828587591929097,"frozenset({'GN2', 'EXPRESS Rack'})",2,3
 1073,0.00018857250612860644,"frozenset({'MSPR', 'Ryutai'})",2,2
-1412,0.00018857250612860644,"frozenset({'MSPR-2', 'MSPR'})",2,2
-1205,0.00018857250612860644,"frozenset({'EXPRESS Rack', 'TangoLab-2'})",2,2
-902,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'EDR'})",2,1
-915,9.428625306430322e-05,"frozenset({'EXPRESS Rack', 'MSPR'})",2,1
-1357,9.428625306430322e-05,"frozenset({'EDR', 'EDR-2'})",2,1
+1412,0.00018857250612860644,"frozenset({'MSPR', 'MSPR-2'})",2,2
+1205,0.00018857250612860644,"frozenset({'TangoLab-2', 'EXPRESS Rack'})",2,2
+902,9.428625306430322e-05,"frozenset({'EDR', 'EXPRESS Rack'})",2,1
+915,9.428625306430322e-05,"frozenset({'MSPR', 'EXPRESS Rack'})",2,1
+1357,9.428625306430322e-05,"frozenset({'EDR-2', 'EDR'})",2,1

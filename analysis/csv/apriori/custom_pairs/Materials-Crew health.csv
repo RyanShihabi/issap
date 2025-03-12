@@ -1,3 +1,3 @@
 ,support,itemsets,length,frequency
-958,9.428625306430322e-05,"frozenset({'PFS', 'MSRR-1'})",2,1
-959,9.428625306430322e-05,"frozenset({'Holter', 'MSRR-1'})",2,1
+958,9.428625306430322e-05,"frozenset({'MSRR-1', 'PFS'})",2,1
+959,9.428625306430322e-05,"frozenset({'MSRR-1', 'Holter'})",2,1
